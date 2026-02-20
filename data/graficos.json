@@ -1,18 +1,162 @@
 {
   "7d": {
-    "total": [],
-    "categorias": {}
+    "total": [
+      {
+        "fecha": "2026-02-20",
+        "pct": 0.0
+      }
+    ],
+    "categorias": {
+      "Bebidas": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Frescos": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Congelados": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Limpieza": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Cuidado Personal": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ]
+    }
   },
   "30d": {
-    "total": [],
-    "categorias": {}
+    "total": [
+      {
+        "fecha": "2026-02-20",
+        "pct": 0.0
+      }
+    ],
+    "categorias": {
+      "Bebidas": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Frescos": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Congelados": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Limpieza": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Cuidado Personal": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ]
+    }
   },
   "6m": {
-    "total": [],
-    "categorias": {}
+    "total": [
+      {
+        "fecha": "2026-02-20",
+        "pct": 0.0
+      }
+    ],
+    "categorias": {
+      "Bebidas": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Frescos": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Congelados": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Limpieza": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Cuidado Personal": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ]
+    }
   },
   "1y": {
-    "total": [],
-    "categorias": {}
+    "total": [
+      {
+        "fecha": "2026-02-20",
+        "pct": 0.0
+      }
+    ],
+    "categorias": {
+      "Bebidas": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Frescos": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Congelados": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Limpieza": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Cuidado Personal": [
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ]
+    }
   }
 }
