@@ -1,0 +1,50 @@
+name: Scraper Diario La Gallega
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # 9:00 AM Argentina (UTC-3)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scraper:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: |
+          pip install pandas playwright
+          python -m playwright install chromium
+          python -m playwright install-deps chromium
+
+      - name: Crear directorios
+        run: mkdir -p data/output docs
+
+      - name: Correr scraper
+        run: python lagallega_scraper.py --headless true
+
+      - name: Analizar precios
+        run: python analizar_precios_gallega.py
+
+      - name: Generar web
+        run: python generar_web_gallega.py
+
+      - name: Commit y push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ docs/
+          git diff --staged --quiet || (git commit -m "🛒 Datos La Gallega $(date +'%Y-%m-%d')" && git push)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
