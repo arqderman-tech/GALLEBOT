@@ -1,0 +1,39 @@
+name: Regenerar Web La Gallega
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  web:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install pandas
+
+      - name: Analizar precios
+        run: python analizar_precios_gallega.py --solo-graficos
+
+      - name: Generar web
+        run: python generar_web_gallega.py
+
+      - name: Commit y push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/ data/
+          git diff --staged --quiet || (git commit -m "🌐 Web regenerada $(date +'%Y-%m-%d %H:%M')" && git push)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
