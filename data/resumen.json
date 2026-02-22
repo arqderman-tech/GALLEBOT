@@ -1,13 +1,147 @@
 {
-  "fecha": "20260221",
-  "total_productos": 0,
-  "variacion_dia": null,
+  "fecha": "20260222",
+  "total_productos": 5324,
+  "variacion_dia": 0.12,
   "variacion_7d": null,
   "variacion_mes": null,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1160
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": 0.49,
+      "productos_subieron": 84,
+      "productos_bajaron": 0,
+      "total_productos": 1059
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 0.09,
+      "productos_subieron": 1,
+      "productos_bajaron": 0,
+      "total_productos": 193
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.21,
+      "productos_subieron": 8,
+      "productos_bajaron": 0,
+      "total_productos": 630
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 5,
+      "productos_bajaron": 0,
+      "total_productos": 737
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": -0.04,
+      "productos_subieron": 0,
+      "productos_bajaron": 4,
+      "total_productos": 1423
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "7790199605607",
+      "nombre": "anana morixe x 836 gm rodajas finas",
+      "categoria": "Almacen",
+      "precio_antes": 7058.0,
+      "precio_hoy": 5839.0,
+      "diff_abs": -1219.0,
+      "diff_pct": -17.27
+    },
+    {
+      "ean": "7790199604785",
+      "nombre": "atun desmenuzado natural morixe x 170 gm",
+      "categoria": "Almacen",
+      "precio_antes": 1715.0,
+      "precio_hoy": 1459.0,
+      "diff_abs": -256.0,
+      "diff_pct": -14.93
+    },
+    {
+      "ean": "7790199604792",
+      "nombre": "atun desmunuzado morixe en aceite x 170 gm",
+      "categoria": "Almacen",
+      "precio_antes": 1715.0,
+      "precio_hoy": 1459.0,
+      "diff_abs": -256.0,
+      "diff_pct": -14.93
+    },
+    {
+      "ean": "7790199000013",
+      "nombre": "harina 000 morixe x 1 kg.",
+      "categoria": "Almacen",
+      "precio_antes": 1010.0,
+      "precio_hoy": 899.0,
+      "diff_abs": -111.0,
+      "diff_pct": -10.99
+    },
+    {
+      "ean": "7798060853034",
+      "nombre": "queso untable tonadita x 180 gr. gruyere",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2126.0,
+      "precio_hoy": 2126.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798151771438",
+      "nombre": "queso untable x 180 gm sabor salame",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2013.08,
+      "precio_hoy": 2013.08,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798151770332",
+      "nombre": "queso untable tremblay x 190 gr. cheddar",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2013.0,
+      "precio_hoy": 2013.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "2011070000003",
+      "nombre": "ricota rosalat envasada x 500 gr aprox",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5436.0,
+      "precio_hoy": 5436.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "2011230000003",
+      "nombre": "ricota magra el destino x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 7370.0,
+      "precio_hoy": 7370.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "2011220000006",
+      "nombre": "ricota entera prinlac x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 7454.0,
+      "precio_hoy": 7454.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    }
+  ],
+  "productos_subieron_dia": 98,
+  "productos_bajaron_dia": 4,
+  "productos_sin_cambio_dia": 5100
 }

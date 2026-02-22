@@ -1,1 +1,182 @@
-[]
+[
+  {
+    "ean": "2019780000009",
+    "nombre": "queso pategras ilolay x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 21331.0,
+    "precio_hoy": 26109.0,
+    "diff_abs": 4778.0,
+    "diff_pct": 22.4
+  },
+  {
+    "ean": "7891515580513",
+    "nombre": "sadinesa de pollo sadia x 100 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 899.0,
+    "precio_hoy": 1059.0,
+    "diff_abs": 160.0,
+    "diff_pct": 17.8
+  },
+  {
+    "ean": "2037070000003",
+    "nombre": "tapa de asado estanciaretiro x kilo envasada al vacio",
+    "categoria": "Carniceria",
+    "precio_antes": 20300.0,
+    "precio_hoy": 23900.0,
+    "diff_abs": 3600.0,
+    "diff_pct": 17.73
+  },
+  {
+    "ean": "2037160000005",
+    "nombre": "tortuguita novillo estancia retiro env.al vacio x kilo",
+    "categoria": "Carniceria",
+    "precio_antes": 20300.0,
+    "precio_hoy": 23900.0,
+    "diff_abs": 3600.0,
+    "diff_pct": 17.73
+  },
+  {
+    "ean": "2037220000006",
+    "nombre": "picaaa estancia retiro envasada al vacio x kilo",
+    "categoria": "Carniceria",
+    "precio_antes": 23700.0,
+    "precio_hoy": 27900.0,
+    "diff_abs": 4200.0,
+    "diff_pct": 17.72
+  },
+  {
+    "ean": "7896359013883",
+    "nombre": "espumadera san remo",
+    "categoria": "Limpieza",
+    "precio_antes": 3195.0,
+    "precio_hoy": 3731.0,
+    "diff_abs": 536.0,
+    "diff_pct": 16.78
+  },
+  {
+    "ean": "7896359013876",
+    "nombre": "cucharon para sopa san remo",
+    "categoria": "Limpieza",
+    "precio_antes": 3195.0,
+    "precio_hoy": 3731.0,
+    "diff_abs": 536.0,
+    "diff_pct": 16.78
+  },
+  {
+    "ean": "7896359013890",
+    "nombre": "cuchara de plastico san remo",
+    "categoria": "Limpieza",
+    "precio_antes": 3195.0,
+    "precio_hoy": 3731.0,
+    "diff_abs": 536.0,
+    "diff_pct": 16.78
+  },
+  {
+    "ean": "2037150000008",
+    "nombre": "marucha de novillo estancia retiro env. al vacio x kilo",
+    "categoria": "Carniceria",
+    "precio_antes": 22200.0,
+    "precio_hoy": 25900.0,
+    "diff_abs": 3700.0,
+    "diff_pct": 16.67
+  },
+  {
+    "ean": "2036990000001",
+    "nombre": "nalga de novillito estancia retiro envasada al vacio x kilo",
+    "categoria": "Carniceria",
+    "precio_antes": 22200.0,
+    "precio_hoy": 25900.0,
+    "diff_abs": 3700.0,
+    "diff_pct": 16.67
+  },
+  {
+    "ean": "2037170000002",
+    "nombre": "palomita de novillo x kilo envasada al vacio estancia retiro",
+    "categoria": "Carniceria",
+    "precio_antes": 18900.0,
+    "precio_hoy": 22000.0,
+    "diff_abs": 3100.0,
+    "diff_pct": 16.4
+  },
+  {
+    "ean": "2036970000007",
+    "nombre": "jamon redondo novillito estancia retiro env.al vacio x kilo",
+    "categoria": "Carniceria",
+    "precio_antes": 29990.0,
+    "precio_hoy": 34900.0,
+    "diff_abs": 4910.0,
+    "diff_pct": 16.37
+  },
+  {
+    "ean": "7896359006328",
+    "nombre": "conte recto gde bajo",
+    "categoria": "Limpieza",
+    "precio_antes": 7290.0,
+    "precio_hoy": 8482.0,
+    "diff_abs": 1192.0,
+    "diff_pct": 16.35
+  },
+  {
+    "ean": "2036980000004",
+    "nombre": "cuadril  de novillo estancia el retiro x k. env. al vacio",
+    "categoria": "Carniceria",
+    "precio_antes": 25700.0,
+    "precio_hoy": 29900.0,
+    "diff_abs": 4200.0,
+    "diff_pct": 16.34
+  },
+  {
+    "ean": "7896359038145",
+    "nombre": "hermetico san remo con trabas x 770 ml",
+    "categoria": "Limpieza",
+    "precio_antes": 4690.0,
+    "precio_hoy": 5455.0,
+    "diff_abs": 765.0,
+    "diff_pct": 16.31
+  },
+  {
+    "ean": "7896359029099",
+    "nombre": "tupper hermetico con trabas san remo x 1,6 lt.",
+    "categoria": "Limpieza",
+    "precio_antes": 7160.0,
+    "precio_hoy": 8325.0,
+    "diff_abs": 1165.0,
+    "diff_pct": 16.27
+  },
+  {
+    "ean": "2036960000000",
+    "nombre": "punta de vacio de novillo x kilo estancia retiro envasada al",
+    "categoria": "Carniceria",
+    "precio_antes": 28400.0,
+    "precio_hoy": 33000.0,
+    "diff_abs": 4600.0,
+    "diff_pct": 16.2
+  },
+  {
+    "ean": "7896359006205",
+    "nombre": "711 contenedor mediano cuadrado san remo",
+    "categoria": "Limpieza",
+    "precio_antes": 4695.0,
+    "precio_hoy": 5455.0,
+    "diff_abs": 760.0,
+    "diff_pct": 16.19
+  },
+  {
+    "ean": "7896359029143",
+    "nombre": "hernetico san remo con trabas x 1.4 litros",
+    "categoria": "Limpieza",
+    "precio_antes": 5440.0,
+    "precio_hoy": 6316.0,
+    "diff_abs": 876.0,
+    "diff_pct": 16.1
+  },
+  {
+    "ean": "2037110000000",
+    "nombre": "entrecot novillo x kilo envasado al vacio estancia retiro",
+    "categoria": "Carniceria",
+    "precio_antes": 18900.0,
+    "precio_hoy": 21900.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 15.87
+  }
+]

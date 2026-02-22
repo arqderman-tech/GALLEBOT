@@ -76,7 +76,7 @@
     <h1>🛒 LA GALLEGA · PRICE TRACKER</h1>
     <div style="color:var(--muted);font-size:0.8rem;margin-top:0.2rem">Seguimiento diario de precios</div>
   </div>
-  <div style="font-size:0.8rem;color:var(--muted);font-family:'IBM Plex Mono',monospace">Última actualización: 21/02/2026 13:56</div>
+  <div style="font-size:0.8rem;color:var(--muted);font-family:'IBM Plex Mono',monospace">Última actualización: 22/02/2026 14:02</div>
 </header>
 
 <div class="container">
@@ -84,8 +84,8 @@
   <div class="hero" style="margin-top:1.5rem">
     <div class="stat-card">
       <div class="label">Variación Hoy</div>
-      <div class="value" style="color:#888">—</div>
-      <div style="font-size:0.8rem;color:var(--muted);margin-top:0.3rem">0 productos relevados</div>
+      <div class="value" style="color:#ef4444">+0.12%</div>
+      <div style="font-size:0.8rem;color:var(--muted);margin-top:0.3rem">5324 productos relevados</div>
     </div>
     <div class="stat-card">
       <div class="label">Variación 30 días</div>
@@ -98,9 +98,9 @@
     <div class="stat-card">
       <div class="label">Movimiento Hoy</div>
       <div style="display:flex;justify-content:center;gap:1rem;margin-top:0.5rem">
-        <div><div style="color:#ef4444;font-size:1.3rem;font-weight:700;font-family:'IBM Plex Mono',monospace">⬆ 0</div><div style="font-size:0.7rem;color:var(--muted)">Subieron</div></div>
-        <div><div style="color:#22c55e;font-size:1.3rem;font-weight:700;font-family:'IBM Plex Mono',monospace">⬇ 0</div><div style="font-size:0.7rem;color:var(--muted)">Bajaron</div></div>
-        <div><div style="color:#888;font-size:1.3rem;font-weight:700;font-family:'IBM Plex Mono',monospace">➡ 0</div><div style="font-size:0.7rem;color:var(--muted)">Igual</div></div>
+        <div><div style="color:#ef4444;font-size:1.3rem;font-weight:700;font-family:'IBM Plex Mono',monospace">⬆ 98</div><div style="font-size:0.7rem;color:var(--muted)">Subieron</div></div>
+        <div><div style="color:#22c55e;font-size:1.3rem;font-weight:700;font-family:'IBM Plex Mono',monospace">⬇ 4</div><div style="font-size:0.7rem;color:var(--muted)">Bajaron</div></div>
+        <div><div style="color:#888;font-size:1.3rem;font-weight:700;font-family:'IBM Plex Mono',monospace">➡ 5100</div><div style="font-size:0.7rem;color:var(--muted)">Igual</div></div>
       </div>
     </div>
   </div>
@@ -127,7 +127,49 @@
     <div class="table-wrap">
       <table>
         <thead><tr><th>Categoría</th><th>Variación %</th><th>Subieron</th><th>Bajaron</th><th>Total</th></tr></thead>
-        <tbody></tbody>
+        <tbody>
+        <tr>
+          <td>Bebidas</td>
+          <td style="color:#888;font-weight:700">0.00%</td>
+          <td style="color:#ef4444">⬆ 0</td>
+          <td style="color:#22c55e">⬇ 0</td>
+          <td>1160</td>
+        </tr>
+        <tr>
+          <td>Frescos</td>
+          <td style="color:#ef4444;font-weight:700">+0.49%</td>
+          <td style="color:#ef4444">⬆ 84</td>
+          <td style="color:#22c55e">⬇ 0</td>
+          <td>1059</td>
+        </tr>
+        <tr>
+          <td>Congelados</td>
+          <td style="color:#ef4444;font-weight:700">+0.09%</td>
+          <td style="color:#ef4444">⬆ 1</td>
+          <td style="color:#22c55e">⬇ 0</td>
+          <td>193</td>
+        </tr>
+        <tr>
+          <td>Limpieza</td>
+          <td style="color:#ef4444;font-weight:700">+0.21%</td>
+          <td style="color:#ef4444">⬆ 8</td>
+          <td style="color:#22c55e">⬇ 0</td>
+          <td>630</td>
+        </tr>
+        <tr>
+          <td>Cuidado Personal</td>
+          <td style="color:#ef4444;font-weight:700">+0.01%</td>
+          <td style="color:#ef4444">⬆ 5</td>
+          <td style="color:#22c55e">⬇ 0</td>
+          <td>737</td>
+        </tr>
+        <tr>
+          <td>Almacen</td>
+          <td style="color:#22c55e;font-weight:700">-0.04%</td>
+          <td style="color:#ef4444">⬆ 0</td>
+          <td style="color:#22c55e">⬇ 4</td>
+          <td>1423</td>
+        </tr></tbody>
       </table>
     </div>
   </div>
@@ -165,11 +207,11 @@
 </footer>
 
 <script>
-const GRAFICOS = {"7d": {"total": [{"fecha": "2026-02-20", "pct": 0.0}], "categorias": {"Bebidas": [{"fecha": "2026-02-20", "pct": 0.0}], "Frescos": [{"fecha": "2026-02-20", "pct": 0.0}], "Congelados": [{"fecha": "2026-02-20", "pct": 0.0}], "Limpieza": [{"fecha": "2026-02-20", "pct": 0.0}], "Cuidado Personal": [{"fecha": "2026-02-20", "pct": 0.0}]}}, "30d": {"total": [{"fecha": "2026-02-20", "pct": 0.0}], "categorias": {"Bebidas": [{"fecha": "2026-02-20", "pct": 0.0}], "Frescos": [{"fecha": "2026-02-20", "pct": 0.0}], "Congelados": [{"fecha": "2026-02-20", "pct": 0.0}], "Limpieza": [{"fecha": "2026-02-20", "pct": 0.0}], "Cuidado Personal": [{"fecha": "2026-02-20", "pct": 0.0}]}}, "6m": {"total": [{"fecha": "2026-02-20", "pct": 0.0}], "categorias": {"Bebidas": [{"fecha": "2026-02-20", "pct": 0.0}], "Frescos": [{"fecha": "2026-02-20", "pct": 0.0}], "Congelados": [{"fecha": "2026-02-20", "pct": 0.0}], "Limpieza": [{"fecha": "2026-02-20", "pct": 0.0}], "Cuidado Personal": [{"fecha": "2026-02-20", "pct": 0.0}]}}, "1y": {"total": [{"fecha": "2026-02-20", "pct": 0.0}], "categorias": {"Bebidas": [{"fecha": "2026-02-20", "pct": 0.0}], "Frescos": [{"fecha": "2026-02-20", "pct": 0.0}], "Congelados": [{"fecha": "2026-02-20", "pct": 0.0}], "Limpieza": [{"fecha": "2026-02-20", "pct": 0.0}], "Cuidado Personal": [{"fecha": "2026-02-20", "pct": 0.0}]}}};
-const RANK_DIA  = [];
+const GRAFICOS = {"7d": {"total": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.12}], "categorias": {"Bebidas": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.0}], "Frescos": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.49}], "Congelados": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.09}], "Limpieza": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.21}], "Cuidado Personal": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.01}]}}, "30d": {"total": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.12}], "categorias": {"Bebidas": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.0}], "Frescos": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.49}], "Congelados": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.09}], "Limpieza": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.21}], "Cuidado Personal": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.01}]}}, "6m": {"total": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.12}], "categorias": {"Bebidas": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.0}], "Frescos": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.49}], "Congelados": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.09}], "Limpieza": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.21}], "Cuidado Personal": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.01}]}}, "1y": {"total": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.12}], "categorias": {"Bebidas": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.0}], "Frescos": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.49}], "Congelados": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.09}], "Limpieza": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.21}], "Cuidado Personal": [{"fecha": "2026-02-20", "pct": 0.0}, {"fecha": "2026-02-22", "pct": 0.01}]}}};
+const RANK_DIA  = [{"ean": "2019780000009", "nombre": "queso pategras ilolay x kg.", "categoria": "Lacteos Y Frescos", "precio_antes": 21331.0, "precio_hoy": 26109.0, "diff_abs": 4778.0, "diff_pct": 22.4}, {"ean": "7891515580513", "nombre": "sadinesa de pollo sadia x 100 gr.", "categoria": "Congelados", "precio_antes": 899.0, "precio_hoy": 1059.0, "diff_abs": 160.0, "diff_pct": 17.8}, {"ean": "2037070000003", "nombre": "tapa de asado estanciaretiro x kilo envasada al vacio", "categoria": "Carniceria", "precio_antes": 20300.0, "precio_hoy": 23900.0, "diff_abs": 3600.0, "diff_pct": 17.73}, {"ean": "2037160000005", "nombre": "tortuguita novillo estancia retiro env.al vacio x kilo", "categoria": "Carniceria", "precio_antes": 20300.0, "precio_hoy": 23900.0, "diff_abs": 3600.0, "diff_pct": 17.73}, {"ean": "2037220000006", "nombre": "picaaa estancia retiro envasada al vacio x kilo", "categoria": "Carniceria", "precio_antes": 23700.0, "precio_hoy": 27900.0, "diff_abs": 4200.0, "diff_pct": 17.72}, {"ean": "7896359013883", "nombre": "espumadera san remo", "categoria": "Limpieza", "precio_antes": 3195.0, "precio_hoy": 3731.0, "diff_abs": 536.0, "diff_pct": 16.78}, {"ean": "7896359013876", "nombre": "cucharon para sopa san remo", "categoria": "Limpieza", "precio_antes": 3195.0, "precio_hoy": 3731.0, "diff_abs": 536.0, "diff_pct": 16.78}, {"ean": "7896359013890", "nombre": "cuchara de plastico san remo", "categoria": "Limpieza", "precio_antes": 3195.0, "precio_hoy": 3731.0, "diff_abs": 536.0, "diff_pct": 16.78}, {"ean": "2037150000008", "nombre": "marucha de novillo estancia retiro env. al vacio x kilo", "categoria": "Carniceria", "precio_antes": 22200.0, "precio_hoy": 25900.0, "diff_abs": 3700.0, "diff_pct": 16.67}, {"ean": "2036990000001", "nombre": "nalga de novillito estancia retiro envasada al vacio x kilo", "categoria": "Carniceria", "precio_antes": 22200.0, "precio_hoy": 25900.0, "diff_abs": 3700.0, "diff_pct": 16.67}, {"ean": "2037170000002", "nombre": "palomita de novillo x kilo envasada al vacio estancia retiro", "categoria": "Carniceria", "precio_antes": 18900.0, "precio_hoy": 22000.0, "diff_abs": 3100.0, "diff_pct": 16.4}, {"ean": "2036970000007", "nombre": "jamon redondo novillito estancia retiro env.al vacio x kilo", "categoria": "Carniceria", "precio_antes": 29990.0, "precio_hoy": 34900.0, "diff_abs": 4910.0, "diff_pct": 16.37}, {"ean": "7896359006328", "nombre": "conte recto gde bajo", "categoria": "Limpieza", "precio_antes": 7290.0, "precio_hoy": 8482.0, "diff_abs": 1192.0, "diff_pct": 16.35}, {"ean": "2036980000004", "nombre": "cuadril  de novillo estancia el retiro x k. env. al vacio", "categoria": "Carniceria", "precio_antes": 25700.0, "precio_hoy": 29900.0, "diff_abs": 4200.0, "diff_pct": 16.34}, {"ean": "7896359038145", "nombre": "hermetico san remo con trabas x 770 ml", "categoria": "Limpieza", "precio_antes": 4690.0, "precio_hoy": 5455.0, "diff_abs": 765.0, "diff_pct": 16.31}, {"ean": "7896359029099", "nombre": "tupper hermetico con trabas san remo x 1,6 lt.", "categoria": "Limpieza", "precio_antes": 7160.0, "precio_hoy": 8325.0, "diff_abs": 1165.0, "diff_pct": 16.27}, {"ean": "2036960000000", "nombre": "punta de vacio de novillo x kilo estancia retiro envasada al", "categoria": "Carniceria", "precio_antes": 28400.0, "precio_hoy": 33000.0, "diff_abs": 4600.0, "diff_pct": 16.2}, {"ean": "7896359006205", "nombre": "711 contenedor mediano cuadrado san remo", "categoria": "Limpieza", "precio_antes": 4695.0, "precio_hoy": 5455.0, "diff_abs": 760.0, "diff_pct": 16.19}, {"ean": "7896359029143", "nombre": "hernetico san remo con trabas x 1.4 litros", "categoria": "Limpieza", "precio_antes": 5440.0, "precio_hoy": 6316.0, "diff_abs": 876.0, "diff_pct": 16.1}, {"ean": "2037110000000", "nombre": "entrecot novillo x kilo envasado al vacio estancia retiro", "categoria": "Carniceria", "precio_antes": 18900.0, "precio_hoy": 21900.0, "diff_abs": 3000.0, "diff_pct": 15.87}];
 const RANK_MES  = [];
 const RANK_ANIO = [];
-const RANK_BAJA = [];
+const RANK_BAJA = [{"ean": "7790199605607", "nombre": "anana morixe x 836 gm rodajas finas", "categoria": "Almacen", "precio_antes": 7058.0, "precio_hoy": 5839.0, "diff_abs": -1219.0, "diff_pct": -17.27}, {"ean": "7790199604785", "nombre": "atun desmenuzado natural morixe x 170 gm", "categoria": "Almacen", "precio_antes": 1715.0, "precio_hoy": 1459.0, "diff_abs": -256.0, "diff_pct": -14.93}, {"ean": "7790199604792", "nombre": "atun desmunuzado morixe en aceite x 170 gm", "categoria": "Almacen", "precio_antes": 1715.0, "precio_hoy": 1459.0, "diff_abs": -256.0, "diff_pct": -14.93}, {"ean": "7790199000013", "nombre": "harina 000 morixe x 1 kg.", "categoria": "Almacen", "precio_antes": 1010.0, "precio_hoy": 899.0, "diff_abs": -111.0, "diff_pct": -10.99}, {"ean": "7798060853034", "nombre": "queso untable tonadita x 180 gr. gruyere", "categoria": "Lacteos Y Frescos", "precio_antes": 2126.0, "precio_hoy": 2126.0, "diff_abs": 0.0, "diff_pct": 0.0}, {"ean": "7798151771438", "nombre": "queso untable x 180 gm sabor salame", "categoria": "Lacteos Y Frescos", "precio_antes": 2013.08, "precio_hoy": 2013.08, "diff_abs": 0.0, "diff_pct": 0.0}, {"ean": "7798151770332", "nombre": "queso untable tremblay x 190 gr. cheddar", "categoria": "Lacteos Y Frescos", "precio_antes": 2013.0, "precio_hoy": 2013.0, "diff_abs": 0.0, "diff_pct": 0.0}, {"ean": "2011070000003", "nombre": "ricota rosalat envasada x 500 gr aprox", "categoria": "Lacteos Y Frescos", "precio_antes": 5436.0, "precio_hoy": 5436.0, "diff_abs": 0.0, "diff_pct": 0.0}, {"ean": "2011230000003", "nombre": "ricota magra el destino x kg.", "categoria": "Lacteos Y Frescos", "precio_antes": 7370.0, "precio_hoy": 7370.0, "diff_abs": 0.0, "diff_pct": 0.0}, {"ean": "2011220000006", "nombre": "ricota entera prinlac x kg.", "categoria": "Lacteos Y Frescos", "precio_antes": 7454.0, "precio_hoy": 7454.0, "diff_abs": 0.0, "diff_pct": 0.0}];
 
 let periodoActual = '7d';
 let chartGeneral = null, chartCat = null, catActual = null;
