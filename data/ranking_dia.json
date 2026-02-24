@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790310985830",
-    "nombre": "3ds queso x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3471.0,
-    "precio_hoy": 3471.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7622201703059",
+    "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 279.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 302.0,
+    "diff_pct": 108.24
   },
   {
-    "ean": "7790310985137",
-    "nombre": "3ds queso x143gr.",
-    "categoria": "Almacen",
-    "precio_antes": 4877.0,
-    "precio_hoy": 4877.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7622201704148",
+    "nombre": "jugo en polvo clight mandarina x 8 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 279.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 302.0,
+    "diff_pct": 108.24
   },
   {
-    "ean": "7791728246629",
-    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
-    "categoria": "Almacen",
-    "precio_antes": 23165.0,
-    "precio_hoy": 23165.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7622201745936",
+    "nombre": "jugo tang durazno x15gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 279.0,
+    "precio_hoy": 556.0,
+    "diff_abs": 277.0,
+    "diff_pct": 99.28
   },
   {
-    "ean": "763571722428",
-    "nombre": "ac.de coco entrenuts x200virg.",
-    "categoria": "Almacen",
-    "precio_antes": 9649.0,
-    "precio_hoy": 9649.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7622201733865",
+    "nombre": "jugo tang mandarina x 15 gm",
+    "categoria": "Bebidas",
+    "precio_antes": 279.0,
+    "precio_hoy": 556.0,
+    "diff_abs": 277.0,
+    "diff_pct": 99.28
   },
   {
-    "ean": "7791728246612",
-    "nombre": "ac.ol.zuccardi x250ml.coratina",
-    "categoria": "Almacen",
-    "precio_antes": 13162.0,
-    "precio_hoy": 13162.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7622201746490",
+    "nombre": "jugo en polvo tang x 15 gr. frutilla",
+    "categoria": "Bebidas",
+    "precio_antes": 279.0,
+    "precio_hoy": 556.0,
+    "diff_abs": 277.0,
+    "diff_pct": 99.28
   },
   {
-    "ean": "7791728246575",
-    "nombre": "ac.ol.zuccardi x250ml.picual",
+    "ean": "77939234",
+    "nombre": "alfajor terrabusi chocolate",
     "categoria": "Almacen",
-    "precio_antes": 13162.0,
-    "precio_hoy": 13162.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 1029.0,
+    "precio_hoy": 1943.0,
+    "diff_abs": 914.0,
+    "diff_pct": 88.82
   },
   {
-    "ean": "7791728241181",
-    "nombre": "ac.ol.zuelo x500ml.bot.intenso",
+    "ean": "7622300742584",
+    "nombre": "alfajor terrabusi x6 chocolate",
     "categoria": "Almacen",
-    "precio_antes": 18743.0,
-    "precio_hoy": 18743.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 4649.0,
+    "precio_hoy": 8291.0,
+    "diff_abs": 3642.0,
+    "diff_pct": 78.34
   },
   {
-    "ean": "7790070231598",
-    "nombre": "aceite cocinero x900 ml oliva y girasol",
+    "ean": "77969118",
+    "nombre": "chicle beldent frutilla x10gr.",
     "categoria": "Almacen",
-    "precio_antes": 5809.0,
-    "precio_hoy": 5809.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 769.0,
+    "precio_hoy": 1286.0,
+    "diff_abs": 517.0,
+    "diff_pct": 67.23
   },
   {
-    "ean": "7790272006819",
-    "nombre": "aceite copisi x 900 ml. girasol y oliva",
-    "categoria": "Almacen",
-    "precio_antes": 5589.0,
-    "precio_hoy": 5589.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7622201703172",
+    "nombre": "jugo clight pomelo rosado 7gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 222.0,
+    "diff_pct": 61.84
   },
   {
-    "ean": "656750783931",
-    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 8484.0,
-    "precio_hoy": 8484.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7622201703110",
+    "nombre": "jugo en polvo clight x 7 gr. sabor naranja",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 222.0,
+    "diff_pct": 61.84
   },
   {
-    "ean": "763571722435",
-    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 16512.0,
-    "precio_hoy": 16512.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7622201682026",
+    "nombre": "jugo clight limo rosa x7.5gr",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 222.0,
+    "diff_pct": 61.84
   },
   {
-    "ean": "7794870000040",
-    "nombre": "aceite de girasol alsamar x 5 lts.",
-    "categoria": "Almacen",
-    "precio_antes": 18622.0,
-    "precio_hoy": 18622.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7622201703080",
+    "nombre": "jugo clight manzana deliciosa x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 222.0,
+    "diff_pct": 61.84
   },
   {
-    "ean": "7798316700907",
-    "nombre": "aceite de girasol alsamar x 900 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 3381.0,
-    "precio_hoy": 3381.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7622201703141",
+    "nombre": "jugo en polvo clight naranja dulce x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 222.0,
+    "diff_pct": 61.84
   },
   {
-    "ean": "7790045823780",
-    "nombre": "aceite de girasol alto oleico granix x 750 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 5927.0,
-    "precio_hoy": 5927.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7622201733834",
+    "nombre": "jugo en polvo clight limonada-maracuya x 7,5 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 222.0,
+    "diff_pct": 61.84
   },
   {
-    "ean": "7790070012050",
-    "nombre": "aceite de girasol cocinero x 900 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 3556.0,
-    "precio_hoy": 3556.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7622201702625",
+    "nombre": "jugo en polvo clight anana x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 222.0,
+    "diff_pct": 61.84
   },
   {
-    "ean": "7798316700815",
-    "nombre": "aceite de girasol legitimo x 1,5 lt.",
+    "ean": "7622300759506",
+    "nombre": "alfajor milka mousse x 42 gr.",
     "categoria": "Almacen",
-    "precio_antes": 5553.0,
-    "precio_hoy": 5553.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 929.0,
+    "precio_hoy": 1501.0,
+    "diff_abs": 572.0,
+    "diff_pct": 61.57
   },
   {
-    "ean": "7798316700822",
-    "nombre": "aceite de girasol legitimo x 3 lt.",
-    "categoria": "Almacen",
-    "precio_antes": 11435.0,
-    "precio_hoy": 11435.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7622202311475",
+    "nombre": "jugo tang galactico x 15 gm",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 557.0,
+    "diff_abs": 198.0,
+    "diff_pct": 55.15
   },
   {
-    "ean": "7798316700839",
-    "nombre": "aceite de girasol legitimo x 5 lts.",
-    "categoria": "Almacen",
-    "precio_antes": 18622.0,
-    "precio_hoy": 18622.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7622201735715",
+    "nombre": "jugo en polvo tang multifruta x 15 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 556.0,
+    "diff_abs": 197.0,
+    "diff_pct": 54.87
   },
   {
-    "ean": "7798316700808",
-    "nombre": "aceite de girasol legitimo x 900 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 3381.0,
-    "precio_hoy": 3381.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7622201735340",
+    "nombre": "jugo tang naranja dulce x15gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 556.0,
+    "diff_abs": 197.0,
+    "diff_pct": 54.87
   },
   {
-    "ean": "7790070231420",
-    "nombre": "aceite de girasol lira x 1,5 lt.",
-    "categoria": "Almacen",
-    "precio_antes": 6285.0,
-    "precio_hoy": 6285.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7622201746018",
+    "nombre": "jugo tang mix nja-limon x15gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 556.0,
+    "diff_abs": 197.0,
+    "diff_pct": 54.87
   }
 ]

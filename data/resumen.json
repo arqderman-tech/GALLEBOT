@@ -1,147 +1,147 @@
 {
-  "fecha": "20260223",
-  "total_productos": 5306,
-  "variacion_dia": 0.0,
+  "fecha": "20260224",
+  "total_productos": 5321,
+  "variacion_dia": 1.13,
   "variacion_7d": null,
   "variacion_mes": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 1.74,
+      "productos_subieron": 52,
       "productos_bajaron": 0,
-      "total_productos": 1177
+      "total_productos": 1170
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": -0.04,
+      "productos_subieron": 8,
+      "productos_bajaron": 7,
       "total_productos": 1086
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.19,
+      "productos_subieron": 9,
       "productos_bajaron": 0,
       "total_productos": 201
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.07,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
       "total_productos": 633
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 1.85,
+      "productos_subieron": 59,
       "productos_bajaron": 0,
       "total_productos": 751
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 1.74,
+      "productos_subieron": 110,
       "productos_bajaron": 0,
       "total_productos": 1456
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790310985830",
-      "nombre": "3ds queso x 85 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 3471.0,
-      "precio_hoy": 3471.0,
+      "ean": "2021550000003",
+      "nombre": "pepino x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 1990.0,
+      "precio_hoy": 1490.0,
+      "diff_abs": -500.0,
+      "diff_pct": -25.13
+    },
+    {
+      "ean": "2021780000002",
+      "nombre": "perejil x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 3990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -25.06
+    },
+    {
+      "ean": "2020100000005",
+      "nombre": "berenjena morada x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 3990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -25.06
+    },
+    {
+      "ean": "2022080000006",
+      "nombre": "rucula x paquete",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 1490.0,
+      "precio_hoy": 1190.0,
+      "diff_abs": -300.0,
+      "diff_pct": -20.13
+    },
+    {
+      "ean": "2020120000009",
+      "nombre": "berengena negra x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -20.04
+    },
+    {
+      "ean": "2020910000004",
+      "nombre": "lechuga de hoja x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 5990.0,
+      "precio_hoy": 4990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -16.69
+    },
+    {
+      "ean": "2020920000001",
+      "nombre": "lechuga mantecosa x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 7990.0,
+      "precio_hoy": 6990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -12.52
+    },
+    {
+      "ean": "7794990879526",
+      "nombre": "queso untable la paulina cheddar x 190 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2017.0,
+      "precio_hoy": 2017.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790310985137",
-      "nombre": "3ds queso x143gr.",
-      "categoria": "Almacen",
-      "precio_antes": 4877.0,
-      "precio_hoy": 4877.0,
+      "ean": "7790742326409",
+      "nombre": "queso untable ls sabores x 180 gr fontina",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2432.0,
+      "precio_hoy": 2432.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7791728246629",
-      "nombre": "ac. de oliva zuccardi x 500 ml coratina",
-      "categoria": "Almacen",
-      "precio_antes": 23165.0,
-      "precio_hoy": 23165.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "763571722428",
-      "nombre": "ac.de coco entrenuts x200virg.",
-      "categoria": "Almacen",
-      "precio_antes": 9649.0,
-      "precio_hoy": 9649.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7791728246612",
-      "nombre": "ac.ol.zuccardi x250ml.coratina",
-      "categoria": "Almacen",
-      "precio_antes": 13162.0,
-      "precio_hoy": 13162.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7791728246575",
-      "nombre": "ac.ol.zuccardi x250ml.picual",
-      "categoria": "Almacen",
-      "precio_antes": 13162.0,
-      "precio_hoy": 13162.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7791728241181",
-      "nombre": "ac.ol.zuelo x500ml.bot.intenso",
-      "categoria": "Almacen",
-      "precio_antes": 18743.0,
-      "precio_hoy": 18743.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7790070231598",
-      "nombre": "aceite cocinero x900 ml oliva y girasol",
-      "categoria": "Almacen",
-      "precio_antes": 5809.0,
-      "precio_hoy": 5809.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7790272006819",
-      "nombre": "aceite copisi x 900 ml. girasol y oliva",
-      "categoria": "Almacen",
-      "precio_antes": 5589.0,
-      "precio_hoy": 5589.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "656750783931",
-      "nombre": "aceite de coco entrenuts neutro x 360 ml.",
-      "categoria": "Almacen",
-      "precio_antes": 8484.0,
-      "precio_hoy": 8484.0,
+      "ean": "7791337061439",
+      "nombre": "queso untable la serenisima light x 290 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3774.0,
+      "precio_hoy": 3774.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 5304
+  "productos_subieron_dia": 239,
+  "productos_bajaron_dia": 7,
+  "productos_sin_cambio_dia": 5051
 }
