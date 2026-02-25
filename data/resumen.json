@@ -1,147 +1,126 @@
 {
-  "fecha": "20260224",
-  "total_productos": 5321,
-  "variacion_dia": 1.13,
+  "fecha": "20260225",
+  "total_productos": 2388,
+  "variacion_dia": -0.0,
   "variacion_7d": null,
   "variacion_mes": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
-      "categoria": "Bebidas",
-      "variacion_pct_promedio": 1.74,
-      "productos_subieron": 52,
-      "productos_bajaron": 0,
-      "total_productos": 1170
-    },
-    {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.04,
-      "productos_subieron": 8,
-      "productos_bajaron": 7,
-      "total_productos": 1086
-    },
-    {
-      "categoria": "Congelados",
-      "variacion_pct_promedio": 0.19,
-      "productos_subieron": 9,
-      "productos_bajaron": 0,
-      "total_productos": 201
+      "variacion_pct_promedio": -0.0,
+      "productos_subieron": 5,
+      "productos_bajaron": 2,
+      "total_productos": 980
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.07,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 633
+      "total_productos": 648
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 1.85,
-      "productos_subieron": 59,
-      "productos_bajaron": 0,
-      "total_productos": 751
-    },
-    {
-      "categoria": "Almacen",
-      "variacion_pct_promedio": 1.74,
-      "productos_subieron": 110,
-      "productos_bajaron": 0,
-      "total_productos": 1456
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 5,
+      "productos_bajaron": 2,
+      "total_productos": 740
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2021550000003",
-      "nombre": "pepino x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1990.0,
-      "precio_hoy": 1490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -25.13
-    },
-    {
-      "ean": "2021780000002",
-      "nombre": "perejil x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -25.06
-    },
-    {
-      "ean": "2020100000005",
-      "nombre": "berenjena morada x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -25.06
-    },
-    {
-      "ean": "2022080000006",
-      "nombre": "rucula x paquete",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1490.0,
-      "precio_hoy": 1190.0,
-      "diff_abs": -300.0,
-      "diff_pct": -20.13
-    },
-    {
-      "ean": "2020120000009",
-      "nombre": "berengena negra x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
-    },
-    {
-      "ean": "2020910000004",
-      "nombre": "lechuga de hoja x kg.",
+      "ean": "2021840000003",
+      "nombre": "pimiento verde x kg.",
       "categoria": "Frutas Y Verduras",
       "precio_antes": 5990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -16.69
+      "precio_hoy": 1990.0,
+      "diff_abs": -4000.0,
+      "diff_pct": -66.78
     },
     {
-      "ean": "2020920000001",
-      "nombre": "lechuga mantecosa x kg.",
+      "ean": "2020410000009",
+      "nombre": "choclo elegido x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 7990.0,
-      "precio_hoy": 6990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -12.52
+      "precio_antes": 3990.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -50.13
     },
     {
-      "ean": "7794990879526",
-      "nombre": "queso untable la paulina cheddar x 190 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2017.0,
-      "precio_hoy": 2017.0,
+      "ean": "7793046008453",
+      "nombre": "mermelada de damasco dulcor x 454 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2593.0,
+      "precio_hoy": 2592.0,
+      "diff_abs": -1.0,
+      "diff_pct": -0.04
+    },
+    {
+      "ean": "7793046008439",
+      "nombre": "mermelada de naranja dulcor x 454 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2593.0,
+      "precio_hoy": 2592.0,
+      "diff_abs": -1.0,
+      "diff_pct": -0.04
+    },
+    {
+      "ean": "7790351153014",
+      "nombre": "tortera",
+      "categoria": "Limpieza",
+      "precio_antes": 15790.0,
+      "precio_hoy": 15790.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790742326409",
-      "nombre": "queso untable ls sabores x 180 gr fontina",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2432.0,
-      "precio_hoy": 2432.0,
+      "ean": "7794170055399",
+      "nombre": "toalla palet serena",
+      "categoria": "Limpieza",
+      "precio_antes": 6304.79,
+      "precio_hoy": 6304.79,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7791337061439",
-      "nombre": "queso untable la serenisima light x 290 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3774.0,
-      "precio_hoy": 3774.0,
+      "ean": "7798118410721",
+      "nombre": "vaso juliana",
+      "categoria": "Limpieza",
+      "precio_antes": 690.0,
+      "precio_hoy": 690.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "840325034270",
+      "nombre": "vaso lexinton whisky",
+      "categoria": "Limpieza",
+      "precio_antes": 1963.0,
+      "precio_hoy": 1963.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7794170055351",
+      "nombre": "toallon palet serena",
+      "categoria": "Limpieza",
+      "precio_antes": 16644.98,
+      "precio_hoy": 16644.98,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798432810771",
+      "nombre": "toallon rosario central",
+      "categoria": "Limpieza",
+      "precio_antes": 17923.59,
+      "precio_hoy": 17923.59,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 239,
-  "productos_bajaron_dia": 7,
-  "productos_sin_cambio_dia": 5051
+  "productos_subieron_dia": 10,
+  "productos_bajaron_dia": 4,
+  "productos_sin_cambio_dia": 2354
 }
