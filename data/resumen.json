@@ -1,126 +1,126 @@
 {
-  "fecha": "20260225",
-  "total_productos": 2388,
-  "variacion_dia": -0.0,
+  "fecha": "20260226",
+  "total_productos": 5381,
+  "variacion_dia": 0.28,
   "variacion_7d": null,
   "variacion_mes": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.0,
-      "productos_subieron": 5,
-      "productos_bajaron": 2,
-      "total_productos": 980
+      "variacion_pct_promedio": 0.38,
+      "productos_subieron": 18,
+      "productos_bajaron": 28,
+      "total_productos": 989
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 648
+      "variacion_pct_promedio": 0.48,
+      "productos_subieron": 48,
+      "productos_bajaron": 4,
+      "total_productos": 649
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 5,
-      "productos_bajaron": 2,
-      "total_productos": 740
+      "variacion_pct_promedio": -0.02,
+      "productos_subieron": 8,
+      "productos_bajaron": 8,
+      "total_productos": 747
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2021840000003",
-      "nombre": "pimiento verde x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 1990.0,
-      "diff_abs": -4000.0,
-      "diff_pct": -66.78
-    },
-    {
-      "ean": "2020410000009",
-      "nombre": "choclo elegido x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 1990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -50.13
-    },
-    {
-      "ean": "7793046008453",
-      "nombre": "mermelada de damasco dulcor x 454 gr.",
+      "ean": "7898024395232",
+      "nombre": "pasta de avellanas y chocolate nutella x 140 gr.",
       "categoria": "Perfumeria",
-      "precio_antes": 2593.0,
-      "precio_hoy": 2592.0,
-      "diff_abs": -1.0,
-      "diff_pct": -0.04
+      "precio_antes": 4935.0,
+      "precio_hoy": 3169.0,
+      "diff_abs": -1766.0,
+      "diff_pct": -35.79
     },
     {
-      "ean": "7793046008439",
-      "nombre": "mermelada de naranja dulcor x 454 gr.",
+      "ean": "2020270000003",
+      "nombre": "cebolla x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 1490.0,
+      "precio_hoy": 990.0,
+      "diff_abs": -500.0,
+      "diff_pct": -33.56
+    },
+    {
+      "ean": "7790387011852",
+      "nombre": "mate cocido taragui ni$os vainilla y miel x 20 saq",
       "categoria": "Perfumeria",
-      "precio_antes": 2593.0,
-      "precio_hoy": 2592.0,
-      "diff_abs": -1.0,
-      "diff_pct": -0.04
+      "precio_antes": 2290.0,
+      "precio_hoy": 1529.0,
+      "diff_abs": -761.0,
+      "diff_pct": -33.23
     },
     {
-      "ean": "7790351153014",
-      "nombre": "tortera",
-      "categoria": "Limpieza",
-      "precio_antes": 15790.0,
-      "precio_hoy": 15790.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790070507273",
+      "nombre": "yerba mate nobleza gaucha seleccion x 500 ml.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2290.0,
+      "precio_hoy": 1669.0,
+      "diff_abs": -621.0,
+      "diff_pct": -27.12
     },
     {
-      "ean": "7794170055399",
-      "nombre": "toalla palet serena",
-      "categoria": "Limpieza",
-      "precio_antes": 6304.79,
-      "precio_hoy": 6304.79,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790070100382",
+      "nombre": "yerba nobleza gaucha x 1 kg cimarron",
+      "categoria": "Perfumeria",
+      "precio_antes": 4342.0,
+      "precio_hoy": 3349.0,
+      "diff_abs": -993.0,
+      "diff_pct": -22.87
     },
     {
-      "ean": "7798118410721",
-      "nombre": "vaso juliana",
-      "categoria": "Limpieza",
-      "precio_antes": 690.0,
-      "precio_hoy": 690.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790070100375",
+      "nombre": "yerba nobleza gaucha x 500 gr cimarron",
+      "categoria": "Perfumeria",
+      "precio_antes": 2289.0,
+      "precio_hoy": 1769.0,
+      "diff_abs": -520.0,
+      "diff_pct": -22.72
     },
     {
-      "ean": "840325034270",
-      "nombre": "vaso lexinton whisky",
-      "categoria": "Limpieza",
-      "precio_antes": 1963.0,
-      "precio_hoy": 1963.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2019630000005",
+      "nombre": "queso cuartirolo ilolay x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 13635.0,
+      "precio_hoy": 11499.0,
+      "diff_abs": -2136.0,
+      "diff_pct": -15.67
     },
     {
-      "ean": "7794170055351",
-      "nombre": "toallon palet serena",
-      "categoria": "Limpieza",
-      "precio_antes": 16644.98,
-      "precio_hoy": 16644.98,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2019730000004",
+      "nombre": "queso por salut ilolay x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 14994.0,
+      "precio_hoy": 12649.0,
+      "diff_abs": -2345.0,
+      "diff_pct": -15.64
     },
     {
-      "ean": "7798432810771",
-      "nombre": "toallon rosario central",
-      "categoria": "Limpieza",
-      "precio_antes": 17923.59,
-      "precio_hoy": 17923.59,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790360983954",
+      "nombre": "salchichas swift x 12 unid.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4563.0,
+      "precio_hoy": 3850.0,
+      "diff_abs": -713.0,
+      "diff_pct": -15.63
+    },
+    {
+      "ean": "2019610000001",
+      "nombre": "queso cremoso ilolay x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 12856.0,
+      "precio_hoy": 10849.0,
+      "diff_abs": -2007.0,
+      "diff_pct": -15.61
     }
   ],
-  "productos_subieron_dia": 10,
-  "productos_bajaron_dia": 4,
-  "productos_sin_cambio_dia": 2354
+  "productos_subieron_dia": 74,
+  "productos_bajaron_dia": 40,
+  "productos_sin_cambio_dia": 2271
 }
