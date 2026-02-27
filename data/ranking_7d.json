@@ -1,0 +1,182 @@
+[
+  {
+    "ean": "7622201704148",
+    "nombre": "jugo en polvo clight mandarina x 8 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 279.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 302.0,
+    "diff_pct": 108.24
+  },
+  {
+    "ean": "7622201745936",
+    "nombre": "jugo tang durazno x15gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 279.0,
+    "precio_hoy": 556.0,
+    "diff_abs": 277.0,
+    "diff_pct": 99.28
+  },
+  {
+    "ean": "7622201733865",
+    "nombre": "jugo tang mandarina x 15 gm",
+    "categoria": "Bebidas",
+    "precio_antes": 279.0,
+    "precio_hoy": 556.0,
+    "diff_abs": 277.0,
+    "diff_pct": 99.28
+  },
+  {
+    "ean": "7622201746490",
+    "nombre": "jugo en polvo tang x 15 gr. frutilla",
+    "categoria": "Bebidas",
+    "precio_antes": 279.0,
+    "precio_hoy": 556.0,
+    "diff_abs": 277.0,
+    "diff_pct": 99.28
+  },
+  {
+    "ean": "790757856899",
+    "nombre": "llave ajustable 8",
+    "categoria": "Limpieza",
+    "precio_antes": 8150.0,
+    "precio_hoy": 15403.0,
+    "diff_abs": 7253.0,
+    "diff_pct": 88.99
+  },
+  {
+    "ean": "77939234",
+    "nombre": "alfajor terrabusi chocolate",
+    "categoria": "Almacen",
+    "precio_antes": 1029.0,
+    "precio_hoy": 1943.0,
+    "diff_abs": 914.0,
+    "diff_pct": 88.82
+  },
+  {
+    "ean": "7622300742584",
+    "nombre": "alfajor terrabusi x6 chocolate",
+    "categoria": "Almacen",
+    "precio_antes": 4649.0,
+    "precio_hoy": 8291.0,
+    "diff_abs": 3642.0,
+    "diff_pct": 78.34
+  },
+  {
+    "ean": "77969118",
+    "nombre": "chicle beldent frutilla x10gr.",
+    "categoria": "Almacen",
+    "precio_antes": 769.0,
+    "precio_hoy": 1286.0,
+    "diff_abs": 517.0,
+    "diff_pct": 67.23
+  },
+  {
+    "ean": "2029040000007",
+    "nombre": "salame lario picado grueso x metro envasado al vacio  x kilo",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 21529.0,
+    "precio_hoy": 35582.0,
+    "diff_abs": 14053.0,
+    "diff_pct": 65.27
+  },
+  {
+    "ean": "2029030000000",
+    "nombre": "salame lario picao fino x metro envasado al vacio  x kilo",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 21529.0,
+    "precio_hoy": 35582.0,
+    "diff_abs": 14053.0,
+    "diff_pct": 65.27
+  },
+  {
+    "ean": "2018940000002",
+    "nombre": "salame lario tipo crespon x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 21159.0,
+    "precio_hoy": 34966.0,
+    "diff_abs": 13807.0,
+    "diff_pct": 65.25
+  },
+  {
+    "ean": "7622201733834",
+    "nombre": "jugo en polvo clight limonada-maracuya x 7,5 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 222.0,
+    "diff_pct": 61.84
+  },
+  {
+    "ean": "7622201703110",
+    "nombre": "jugo en polvo clight x 7 gr. sabor naranja",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 222.0,
+    "diff_pct": 61.84
+  },
+  {
+    "ean": "7622201702625",
+    "nombre": "jugo en polvo clight anana x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 222.0,
+    "diff_pct": 61.84
+  },
+  {
+    "ean": "7622201703141",
+    "nombre": "jugo en polvo clight naranja dulce x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 222.0,
+    "diff_pct": 61.84
+  },
+  {
+    "ean": "7622201682026",
+    "nombre": "jugo clight limo rosa x7.5gr",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 222.0,
+    "diff_pct": 61.84
+  },
+  {
+    "ean": "7622201703172",
+    "nombre": "jugo clight pomelo rosado 7gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 222.0,
+    "diff_pct": 61.84
+  },
+  {
+    "ean": "7622201703080",
+    "nombre": "jugo clight manzana deliciosa x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 222.0,
+    "diff_pct": 61.84
+  },
+  {
+    "ean": "7622300759506",
+    "nombre": "alfajor milka mousse x 42 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 929.0,
+    "precio_hoy": 1501.0,
+    "diff_abs": 572.0,
+    "diff_pct": 61.57
+  },
+  {
+    "ean": "7622202311475",
+    "nombre": "jugo tang galactico x 15 gm",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 557.0,
+    "diff_abs": 198.0,
+    "diff_pct": 55.15
+  }
+]

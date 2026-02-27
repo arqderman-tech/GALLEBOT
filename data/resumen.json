@@ -1,126 +1,147 @@
 {
-  "fecha": "20260226",
-  "total_productos": 5381,
-  "variacion_dia": 0.28,
-  "variacion_7d": null,
+  "fecha": "20260227",
+  "total_productos": 5333,
+  "variacion_dia": -0.03,
+  "variacion_7d": 1.44,
   "variacion_mes": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": -0.15,
+      "productos_subieron": 0,
+      "productos_bajaron": 6,
+      "total_productos": 1188
+    },
+    {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.38,
-      "productos_subieron": 18,
-      "productos_bajaron": 28,
-      "total_productos": 989
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 4,
+      "productos_bajaron": 4,
+      "total_productos": 1081
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 195
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.48,
-      "productos_subieron": 48,
-      "productos_bajaron": 4,
-      "total_productos": 649
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 650
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.02,
-      "productos_subieron": 8,
-      "productos_bajaron": 8,
-      "total_productos": 747
+      "variacion_pct_promedio": -0.06,
+      "productos_subieron": 5,
+      "productos_bajaron": 2,
+      "total_productos": 768
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.06,
+      "productos_subieron": 23,
+      "productos_bajaron": 4,
+      "total_productos": 1447
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7898024395232",
-      "nombre": "pasta de avellanas y chocolate nutella x 140 gr.",
+      "ean": "7793890261912",
+      "nombre": "madalenas bimbo  x 240 gm vainilla",
       "categoria": "Perfumeria",
-      "precio_antes": 4935.0,
-      "precio_hoy": 3169.0,
-      "diff_abs": -1766.0,
-      "diff_pct": -35.79
+      "precio_antes": 3333.0,
+      "precio_hoy": 2129.0,
+      "diff_abs": -1204.0,
+      "diff_pct": -36.12
     },
     {
-      "ean": "2020270000003",
-      "nombre": "cebolla x kg.",
+      "ean": "7792798008858",
+      "nombre": "cerveza temple wolf ipa x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 4400.0,
+      "precio_hoy": 2859.0,
+      "diff_abs": -1541.0,
+      "diff_pct": -35.02
+    },
+    {
+      "ean": "2019950000006",
+      "nombre": "akusay x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 1490.0,
-      "precio_hoy": 990.0,
+      "precio_antes": 2990.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -33.44
+    },
+    {
+      "ean": "7792798002351",
+      "nombre": "cerveza patagonia amber lager x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 6200.0,
+      "precio_hoy": 4159.0,
+      "diff_abs": -2041.0,
+      "diff_pct": -32.92
+    },
+    {
+      "ean": "7792798013357",
+      "nombre": "cerv.budweiser x710ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 3700.0,
+      "precio_hoy": 2589.0,
+      "diff_abs": -1111.0,
+      "diff_pct": -30.03
+    },
+    {
+      "ean": "7792798014156",
+      "nombre": "cerveza andes rubia origen lata x 710 ml",
+      "categoria": "Bebidas",
+      "precio_antes": 4100.0,
+      "precio_hoy": 2869.0,
+      "diff_abs": -1231.0,
+      "diff_pct": -30.02
+    },
+    {
+      "ean": "7792798002115",
+      "nombre": "cerveza andes rubia x1 lt. retornable",
+      "categoria": "Bebidas",
+      "precio_antes": 4900.0,
+      "precio_hoy": 3579.0,
+      "diff_abs": -1321.0,
+      "diff_pct": -26.96
+    },
+    {
+      "ean": "7793147001056",
+      "nombre": "cerveza budweiser x 1 lt. retornable",
+      "categoria": "Bebidas",
+      "precio_antes": 4100.0,
+      "precio_hoy": 3079.0,
+      "diff_abs": -1021.0,
+      "diff_pct": -24.9
+    },
+    {
+      "ean": "8445291586864",
+      "nombre": "cafe molido torrado nescafe dolca x 190 gm",
+      "categoria": "Perfumeria",
+      "precio_antes": 7058.0,
+      "precio_hoy": 5599.0,
+      "diff_abs": -1459.0,
+      "diff_pct": -20.67
+    },
+    {
+      "ean": "2022220000002",
+      "nombre": "tomate redondo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 3990.0,
+      "precio_hoy": 3490.0,
       "diff_abs": -500.0,
-      "diff_pct": -33.56
-    },
-    {
-      "ean": "7790387011852",
-      "nombre": "mate cocido taragui ni$os vainilla y miel x 20 saq",
-      "categoria": "Perfumeria",
-      "precio_antes": 2290.0,
-      "precio_hoy": 1529.0,
-      "diff_abs": -761.0,
-      "diff_pct": -33.23
-    },
-    {
-      "ean": "7790070507273",
-      "nombre": "yerba mate nobleza gaucha seleccion x 500 ml.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2290.0,
-      "precio_hoy": 1669.0,
-      "diff_abs": -621.0,
-      "diff_pct": -27.12
-    },
-    {
-      "ean": "7790070100382",
-      "nombre": "yerba nobleza gaucha x 1 kg cimarron",
-      "categoria": "Perfumeria",
-      "precio_antes": 4342.0,
-      "precio_hoy": 3349.0,
-      "diff_abs": -993.0,
-      "diff_pct": -22.87
-    },
-    {
-      "ean": "7790070100375",
-      "nombre": "yerba nobleza gaucha x 500 gr cimarron",
-      "categoria": "Perfumeria",
-      "precio_antes": 2289.0,
-      "precio_hoy": 1769.0,
-      "diff_abs": -520.0,
-      "diff_pct": -22.72
-    },
-    {
-      "ean": "2019630000005",
-      "nombre": "queso cuartirolo ilolay x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 13635.0,
-      "precio_hoy": 11499.0,
-      "diff_abs": -2136.0,
-      "diff_pct": -15.67
-    },
-    {
-      "ean": "2019730000004",
-      "nombre": "queso por salut ilolay x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 14994.0,
-      "precio_hoy": 12649.0,
-      "diff_abs": -2345.0,
-      "diff_pct": -15.64
-    },
-    {
-      "ean": "7790360983954",
-      "nombre": "salchichas swift x 12 unid.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4563.0,
-      "precio_hoy": 3850.0,
-      "diff_abs": -713.0,
-      "diff_pct": -15.63
-    },
-    {
-      "ean": "2019610000001",
-      "nombre": "queso cremoso ilolay x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 12856.0,
-      "precio_hoy": 10849.0,
-      "diff_abs": -2007.0,
-      "diff_pct": -15.61
+      "diff_pct": -12.53
     }
   ],
-  "productos_subieron_dia": 74,
-  "productos_bajaron_dia": 40,
-  "productos_sin_cambio_dia": 2271
+  "productos_subieron_dia": 32,
+  "productos_bajaron_dia": 16,
+  "productos_sin_cambio_dia": 5281
 }

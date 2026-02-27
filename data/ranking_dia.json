@@ -1,182 +1,182 @@
 [
   {
-    "ean": "790757856899",
-    "nombre": "llave ajustable 8",
-    "categoria": "Limpieza",
-    "precio_antes": 8150.0,
-    "precio_hoy": 15403.0,
-    "diff_abs": 7253.0,
-    "diff_pct": 88.99
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
   },
   {
-    "ean": "2029040000007",
-    "nombre": "salame lario picado grueso x metro envasado al vacio  x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 21529.0,
-    "precio_hoy": 35582.0,
-    "diff_abs": 14053.0,
-    "diff_pct": 65.27
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
   },
   {
-    "ean": "2029030000000",
-    "nombre": "salame lario picao fino x metro envasado al vacio  x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 21529.0,
-    "precio_hoy": 35582.0,
-    "diff_abs": 14053.0,
-    "diff_pct": 65.27
+    "ean": "2020920000001",
+    "nombre": "lechuga mantecosa x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 14.31
   },
   {
-    "ean": "2018940000002",
-    "nombre": "salame lario tipo crespon x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 21159.0,
-    "precio_hoy": 34966.0,
-    "diff_abs": 13807.0,
-    "diff_pct": 65.25
-  },
-  {
-    "ean": "2018810000002",
-    "nombre": "panceta salada lario x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 23479.01,
-    "precio_hoy": 33532.0,
-    "diff_abs": 10052.99,
-    "diff_pct": 42.82
-  },
-  {
-    "ean": "2018710000003",
-    "nombre": "lomo a las finas hierbas lario x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 23809.0,
-    "precio_hoy": 34000.0,
-    "diff_abs": 10191.0,
-    "diff_pct": 42.8
-  },
-  {
-    "ean": "2019000000000",
-    "nombre": "salamin tandilero lario x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 22029.0,
-    "precio_hoy": 31457.0,
-    "diff_abs": 9428.0,
-    "diff_pct": 42.8
-  },
-  {
-    "ean": "2018990000007",
-    "nombre": "salamin lario x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 22029.0,
-    "precio_hoy": 31457.0,
-    "diff_abs": 9428.0,
-    "diff_pct": 42.8
-  },
-  {
-    "ean": "2018640000005",
-    "nombre": "jamon cocido lario x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 13899.0,
-    "precio_hoy": 19841.0,
-    "diff_abs": 5942.0,
-    "diff_pct": 42.75
-  },
-  {
-    "ean": "7798028020294",
-    "nombre": "te pajaro azul x 25 saquitos",
+    "ean": "7790158229738",
+    "nombre": "pasta de miel y cacao aleluya x 290 gm",
     "categoria": "Perfumeria",
-    "precio_antes": 689.0,
-    "precio_hoy": 968.0,
-    "diff_abs": 279.0,
-    "diff_pct": 40.49
+    "precio_antes": 7340.0,
+    "precio_hoy": 8001.0,
+    "diff_abs": 661.0,
+    "diff_pct": 9.01
   },
   {
-    "ean": "2018840000003",
-    "nombre": "salame de milan lario x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 21259.0,
-    "precio_hoy": 29586.0,
-    "diff_abs": 8327.0,
-    "diff_pct": 39.17
+    "ean": "7790139100582",
+    "nombre": "salsa chimichurri casalta x 300 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4665.0,
+    "precio_hoy": 5038.0,
+    "diff_abs": 373.0,
+    "diff_pct": 8.0
   },
   {
-    "ean": "2018670000006",
-    "nombre": "jamon crudo lario x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 43269.0,
-    "precio_hoy": 58853.0,
-    "diff_abs": 15584.0,
-    "diff_pct": 36.02
+    "ean": "7790139100575",
+    "nombre": "salsa barbacoa casalta x 350 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5299.0,
+    "precio_hoy": 5723.0,
+    "diff_abs": 424.0,
+    "diff_pct": 8.0
   },
   {
-    "ean": "2019020000004",
-    "nombre": "salchichon primavera lario x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 7279.0,
-    "precio_hoy": 9849.0,
-    "diff_abs": 2570.0,
-    "diff_pct": 35.31
+    "ean": "7790139003166",
+    "nombre": "vinagre de alcohol casalta x 500 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 1183.0,
+    "precio_hoy": 1266.0,
+    "diff_abs": 83.0,
+    "diff_pct": 7.02
   },
   {
-    "ean": "2018560000000",
-    "nombre": "cantimpalo lario x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 20219.0,
-    "precio_hoy": 27354.0,
-    "diff_abs": 7135.0,
-    "diff_pct": 35.29
+    "ean": "7790139101152",
+    "nombre": "vinagre de vino favinco x 1 lt.",
+    "categoria": "Almacen",
+    "precio_antes": 2811.0,
+    "precio_hoy": 3008.0,
+    "diff_abs": 197.0,
+    "diff_pct": 7.01
   },
   {
-    "ean": "2029320000000",
-    "nombre": "bondiola lario x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 27449.0,
-    "precio_hoy": 37133.0,
-    "diff_abs": 9684.0,
-    "diff_pct": 35.28
+    "ean": "7790139004576",
+    "nombre": "aceite de oliva casalta medio x 400 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 26863.0,
+    "precio_hoy": 28744.0,
+    "diff_abs": 1881.0,
+    "diff_pct": 7.0
   },
   {
-    "ean": "2018630000008",
-    "nombre": "jamon cocido lario premium x kilo x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 18729.0,
-    "precio_hoy": 25333.0,
-    "diff_abs": 6604.0,
-    "diff_pct": 35.26
+    "ean": "7790139004811",
+    "nombre": "aceite de oliva casalta extra virgen suave x 250 m",
+    "categoria": "Almacen",
+    "precio_antes": 17500.0,
+    "precio_hoy": 18725.0,
+    "diff_abs": 1225.0,
+    "diff_pct": 7.0
   },
   {
-    "ean": "7790625000648",
-    "nombre": "leberwurst lario x 200 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1819.0,
-    "precio_hoy": 2459.0,
-    "diff_abs": 640.0,
-    "diff_pct": 35.18
+    "ean": "7790139004828",
+    "nombre": "aceite de oliva casalta extra virgen medio x 250 .",
+    "categoria": "Almacen",
+    "precio_antes": 17500.0,
+    "precio_hoy": 18725.0,
+    "diff_abs": 1225.0,
+    "diff_pct": 7.0
   },
   {
-    "ean": "7791451071000",
-    "nombre": "dulce de batanta esnaola x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1929.0,
-    "precio_hoy": 2543.0,
-    "diff_abs": 614.0,
-    "diff_pct": 31.83
+    "ean": "7790139101169",
+    "nombre": "vinagre de vino favinco x 500 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 1786.0,
+    "precio_hoy": 1911.0,
+    "diff_abs": 125.0,
+    "diff_pct": 7.0
   },
   {
-    "ean": "7791451080040",
-    "nombre": "dulce de membrillo esnaola x 500 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 2649.0,
-    "precio_hoy": 3486.0,
-    "diff_abs": 837.0,
-    "diff_pct": 31.6
+    "ean": "7790139003265",
+    "nombre": "vinagre de manzana casalta x 1 lt.",
+    "categoria": "Almacen",
+    "precio_antes": 3798.0,
+    "precio_hoy": 4064.0,
+    "diff_abs": 266.0,
+    "diff_pct": 7.0
   },
   {
-    "ean": "7790625010401",
-    "nombre": "salchichas 66 x 6 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 949.0,
-    "precio_hoy": 1198.0,
-    "diff_abs": 249.0,
-    "diff_pct": 26.24
+    "ean": "7790139004569",
+    "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
+    "categoria": "Almacen",
+    "precio_antes": 26863.0,
+    "precio_hoy": 28744.0,
+    "diff_abs": 1881.0,
+    "diff_pct": 7.0
+  },
+  {
+    "ean": "7790139101176",
+    "nombre": "vinagre favinco x1lt.manzana",
+    "categoria": "Almacen",
+    "precio_antes": 3708.0,
+    "precio_hoy": 3967.0,
+    "diff_abs": 259.0,
+    "diff_pct": 6.98
+  },
+  {
+    "ean": "2024920000009",
+    "nombre": "brazuelo chueso ternera x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 16900.0,
+    "precio_hoy": 17900.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 5.92
+  },
+  {
+    "ean": "7790139002121",
+    "nombre": "aceto balsamico favinco x 500 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 4250.0,
+    "precio_hoy": 4463.0,
+    "diff_abs": 213.0,
+    "diff_pct": 5.01
+  },
+  {
+    "ean": "7790139004521",
+    "nombre": "aceto balsamico glaze casalta x 250 ml. ahumado",
+    "categoria": "Almacen",
+    "precio_antes": 4923.0,
+    "precio_hoy": 5169.0,
+    "diff_abs": 246.0,
+    "diff_pct": 5.0
+  },
+  {
+    "ean": "7790139003364",
+    "nombre": "aceto balsamico casalta ahumado x 400 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 6122.0,
+    "precio_hoy": 6428.0,
+    "diff_abs": 306.0,
+    "diff_pct": 5.0
+  },
+  {
+    "ean": "7790139004613",
+    "nombre": "aceto balsamico casalta glaze x 250 ml curry",
+    "categoria": "Almacen",
+    "precio_antes": 5136.0,
+    "precio_hoy": 5393.0,
+    "diff_abs": 257.0,
+    "diff_pct": 5.0
   }
 ]
