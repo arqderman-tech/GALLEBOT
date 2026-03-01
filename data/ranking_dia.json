@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2022040000008",
-    "nombre": "repollo blanco x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
+    "ean": "7790040150010",
+    "nombre": "alfajor cofler x 60 gr choco creamy",
+    "categoria": "Almacen",
+    "precio_antes": 1059.0,
+    "precio_hoy": 1876.0,
+    "diff_abs": 817.0,
+    "diff_pct": 77.15
+  },
+  {
+    "ean": "7790040147751",
+    "nombre": "saladix flames x 60 gr extra picante",
+    "categoria": "Almacen",
+    "precio_antes": 1169.0,
+    "precio_hoy": 1820.0,
+    "diff_abs": 651.0,
+    "diff_pct": 55.69
+  },
+  {
+    "ean": "7790040141285",
+    "nombre": "snack saladix cross picante x 67 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 769.0,
+    "precio_hoy": 1196.0,
+    "diff_abs": 427.0,
+    "diff_pct": 55.53
+  },
+  {
+    "ean": "7798048720136",
+    "nombre": "jardinera don elio x 300 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 809.0,
+    "precio_hoy": 1174.0,
+    "diff_abs": 365.0,
+    "diff_pct": 45.12
+  },
+  {
+    "ean": "7798048720266",
+    "nombre": "arroz don elio doble carolina x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1099.0,
+    "precio_hoy": 1593.0,
+    "diff_abs": 494.0,
+    "diff_pct": 44.95
+  },
+  {
+    "ean": "7798048721904",
+    "nombre": "choclo blanco cremoso don elio x 300 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 629.0,
+    "precio_hoy": 905.0,
+    "diff_abs": 276.0,
+    "diff_pct": 43.88
+  },
+  {
+    "ean": "7790895643842",
+    "nombre": "alimento de soja ades naranja x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2139.0,
+    "precio_hoy": 3045.0,
+    "diff_abs": 906.0,
+    "diff_pct": 42.36
+  },
+  {
+    "ean": "7790895643804",
+    "nombre": "ades x1lt.anana",
+    "categoria": "Bebidas",
+    "precio_antes": 2139.0,
+    "precio_hoy": 3045.0,
+    "diff_abs": 906.0,
+    "diff_pct": 42.36
+  },
+  {
+    "ean": "7790895643828",
+    "nombre": "alimento de soja ades durazno x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2139.0,
+    "precio_hoy": 3045.0,
+    "diff_abs": 906.0,
+    "diff_pct": 42.36
+  },
+  {
+    "ean": "7790895003318",
+    "nombre": "agua saborizada aquarius cepita uva x 2.25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2849.0,
+    "precio_hoy": 3960.0,
+    "diff_abs": 1111.0,
+    "diff_pct": 39.0
+  },
+  {
+    "ean": "7790670052371",
+    "nombre": "medallones de carne express x 4 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 3909.0,
+    "precio_hoy": 5399.0,
+    "diff_abs": 1490.0,
+    "diff_pct": 38.12
+  },
+  {
+    "ean": "7790580107635",
+    "nombre": "rocklets x150gr.bolsa",
+    "categoria": "Almacen",
+    "precio_antes": 3899.0,
+    "precio_hoy": 5385.0,
+    "diff_abs": 1486.0,
+    "diff_pct": 38.11
+  },
+  {
+    "ean": "7790895064166",
+    "nombre": "gaseosa sprite zero x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3279.0,
+    "precio_hoy": 4490.0,
+    "diff_abs": 1211.0,
+    "diff_pct": 36.93
+  },
+  {
+    "ean": "7790895001000",
+    "nombre": "gaseosa lima limon sprite x 2.25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3279.0,
+    "precio_hoy": 4490.0,
+    "diff_abs": 1211.0,
+    "diff_pct": 36.93
+  },
+  {
+    "ean": "7790895001017",
+    "nombre": "gaseosa naranja fanta x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3279.0,
+    "precio_hoy": 4490.0,
+    "diff_abs": 1211.0,
+    "diff_pct": 36.93
+  },
+  {
+    "ean": "7790895001031",
+    "nombre": "gaseosa fanta limon x 2.25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3279.0,
+    "precio_hoy": 4490.0,
+    "diff_abs": 1211.0,
+    "diff_pct": 36.93
+  },
+  {
+    "ean": "7790895010095",
+    "nombre": "gaseosa schweppes pomelo zero x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3529.0,
+    "precio_hoy": 4826.0,
+    "diff_abs": 1297.0,
+    "diff_pct": 36.75
+  },
+  {
+    "ean": "7790895647666",
+    "nombre": "agua benedictino sin gas x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1759.0,
+    "precio_hoy": 2390.0,
+    "diff_abs": 631.0,
+    "diff_pct": 35.87
+  },
+  {
+    "ean": "7790895003882",
+    "nombre": "agua mineral bonaqua sin gas x 2 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1839.0,
     "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
+    "diff_abs": 651.0,
+    "diff_pct": 35.4
   },
   {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
+    "ean": "2021780000002",
+    "nombre": "perejil x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 20.04
-  },
-  {
-    "ean": "2020920000001",
-    "nombre": "lechuga mantecosa x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 14.31
-  },
-  {
-    "ean": "7790158229738",
-    "nombre": "pasta de miel y cacao aleluya x 290 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 7340.0,
-    "precio_hoy": 8001.0,
-    "diff_abs": 661.0,
-    "diff_pct": 9.01
-  },
-  {
-    "ean": "7790139100582",
-    "nombre": "salsa chimichurri casalta x 300 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 4665.0,
-    "precio_hoy": 5038.0,
-    "diff_abs": 373.0,
-    "diff_pct": 8.0
-  },
-  {
-    "ean": "7790139100575",
-    "nombre": "salsa barbacoa casalta x 350 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5299.0,
-    "precio_hoy": 5723.0,
-    "diff_abs": 424.0,
-    "diff_pct": 8.0
-  },
-  {
-    "ean": "7790139003166",
-    "nombre": "vinagre de alcohol casalta x 500 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 1183.0,
-    "precio_hoy": 1266.0,
-    "diff_abs": 83.0,
-    "diff_pct": 7.02
-  },
-  {
-    "ean": "7790139101152",
-    "nombre": "vinagre de vino favinco x 1 lt.",
-    "categoria": "Almacen",
-    "precio_antes": 2811.0,
-    "precio_hoy": 3008.0,
-    "diff_abs": 197.0,
-    "diff_pct": 7.01
-  },
-  {
-    "ean": "7790139004576",
-    "nombre": "aceite de oliva casalta medio x 400 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 26863.0,
-    "precio_hoy": 28744.0,
-    "diff_abs": 1881.0,
-    "diff_pct": 7.0
-  },
-  {
-    "ean": "7790139004811",
-    "nombre": "aceite de oliva casalta extra virgen suave x 250 m",
-    "categoria": "Almacen",
-    "precio_antes": 17500.0,
-    "precio_hoy": 18725.0,
-    "diff_abs": 1225.0,
-    "diff_pct": 7.0
-  },
-  {
-    "ean": "7790139004828",
-    "nombre": "aceite de oliva casalta extra virgen medio x 250 .",
-    "categoria": "Almacen",
-    "precio_antes": 17500.0,
-    "precio_hoy": 18725.0,
-    "diff_abs": 1225.0,
-    "diff_pct": 7.0
-  },
-  {
-    "ean": "7790139101169",
-    "nombre": "vinagre de vino favinco x 500 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 1786.0,
-    "precio_hoy": 1911.0,
-    "diff_abs": 125.0,
-    "diff_pct": 7.0
-  },
-  {
-    "ean": "7790139003265",
-    "nombre": "vinagre de manzana casalta x 1 lt.",
-    "categoria": "Almacen",
-    "precio_antes": 3798.0,
-    "precio_hoy": 4064.0,
-    "diff_abs": 266.0,
-    "diff_pct": 7.0
-  },
-  {
-    "ean": "7790139004569",
-    "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
-    "categoria": "Almacen",
-    "precio_antes": 26863.0,
-    "precio_hoy": 28744.0,
-    "diff_abs": 1881.0,
-    "diff_pct": 7.0
-  },
-  {
-    "ean": "7790139101176",
-    "nombre": "vinagre favinco x1lt.manzana",
-    "categoria": "Almacen",
-    "precio_antes": 3708.0,
-    "precio_hoy": 3967.0,
-    "diff_abs": 259.0,
-    "diff_pct": 6.98
-  },
-  {
-    "ean": "2024920000009",
-    "nombre": "brazuelo chueso ternera x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 16900.0,
-    "precio_hoy": 17900.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 5.92
-  },
-  {
-    "ean": "7790139002121",
-    "nombre": "aceto balsamico favinco x 500 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 4250.0,
-    "precio_hoy": 4463.0,
-    "diff_abs": 213.0,
-    "diff_pct": 5.01
-  },
-  {
-    "ean": "7790139004521",
-    "nombre": "aceto balsamico glaze casalta x 250 ml. ahumado",
-    "categoria": "Almacen",
-    "precio_antes": 4923.0,
-    "precio_hoy": 5169.0,
-    "diff_abs": 246.0,
-    "diff_pct": 5.0
-  },
-  {
-    "ean": "7790139003364",
-    "nombre": "aceto balsamico casalta ahumado x 400 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 6122.0,
-    "precio_hoy": 6428.0,
-    "diff_abs": 306.0,
-    "diff_pct": 5.0
-  },
-  {
-    "ean": "7790139004613",
-    "nombre": "aceto balsamico casalta glaze x 250 ml curry",
-    "categoria": "Almacen",
-    "precio_antes": 5136.0,
-    "precio_hoy": 5393.0,
-    "diff_abs": 257.0,
-    "diff_pct": 5.0
+    "diff_pct": 33.44
   }
 ]

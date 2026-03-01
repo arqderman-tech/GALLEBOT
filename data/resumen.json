@@ -1,13 +1,147 @@
 {
-  "fecha": "20260228",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
+  "fecha": "20260301",
+  "total_productos": 5469,
+  "variacion_dia": 0.97,
+  "variacion_7d": 2.29,
   "variacion_mes": null,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 1.05,
+      "productos_subieron": 51,
+      "productos_bajaron": 16,
+      "total_productos": 1188
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": 1.04,
+      "productos_subieron": 115,
+      "productos_bajaron": 6,
+      "total_productos": 1074
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 0.51,
+      "productos_subieron": 4,
+      "productos_bajaron": 0,
+      "total_productos": 195
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.06,
+      "productos_subieron": 2,
+      "productos_bajaron": 0,
+      "total_productos": 650
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.66,
+      "productos_subieron": 39,
+      "productos_bajaron": 1,
+      "total_productos": 766
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 1.51,
+      "productos_subieron": 159,
+      "productos_bajaron": 5,
+      "total_productos": 1439
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "7791100000443",
+      "nombre": "almidon de maiz chango x 500 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 2607.0,
+      "precio_hoy": 2089.0,
+      "diff_abs": -518.0,
+      "diff_pct": -19.87
+    },
+    {
+      "ean": "7791337010161",
+      "nombre": "alimento liquido silk almendra x 1 litro mocha",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 6668.0,
+      "precio_hoy": 5408.0,
+      "diff_abs": -1260.0,
+      "diff_pct": -18.9
+    },
+    {
+      "ean": "7791337007932",
+      "nombre": "alimento liquido silk x 1 litro coco sin azucar",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 6668.0,
+      "precio_hoy": 5408.0,
+      "diff_abs": -1260.0,
+      "diff_pct": -18.9
+    },
+    {
+      "ean": "7791337007949",
+      "nombre": "leche de almendras silk sin azucar x 1 lt. vainila",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 6668.0,
+      "precio_hoy": 5408.0,
+      "diff_abs": -1260.0,
+      "diff_pct": -18.9
+    },
+    {
+      "ean": "7791337007956",
+      "nombre": "alimento silk almendras x 1 litro chocolate",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 6668.0,
+      "precio_hoy": 5408.0,
+      "diff_abs": -1260.0,
+      "diff_pct": -18.9
+    },
+    {
+      "ean": "7791337007918",
+      "nombre": "alimento liquido silk almendra x 1lt sin azucar .",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 6668.0,
+      "precio_hoy": 5408.0,
+      "diff_abs": -1260.0,
+      "diff_pct": -18.9
+    },
+    {
+      "ean": "7798123970449",
+      "nombre": "espumante las perdices sweety x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 10500.0,
+      "precio_hoy": 8679.0,
+      "diff_abs": -1821.0,
+      "diff_pct": -17.34
+    },
+    {
+      "ean": "7798123970234",
+      "nombre": "espumante las perdices extra brut x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 14500.0,
+      "precio_hoy": 11989.0,
+      "diff_abs": -2511.0,
+      "diff_pct": -17.32
+    },
+    {
+      "ean": "7798123970609",
+      "nombre": "espumante las perdices brut nature x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 17000.0,
+      "precio_hoy": 14059.0,
+      "diff_abs": -2941.0,
+      "diff_pct": -17.3
+    },
+    {
+      "ean": "2020910000004",
+      "nombre": "lechuga de hoja x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 5990.0,
+      "precio_hoy": 4990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -16.69
+    }
+  ],
+  "productos_subieron_dia": 370,
+  "productos_bajaron_dia": 28,
+  "productos_sin_cambio_dia": 4914
 }
