@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790040150010",
-    "nombre": "alfajor cofler x 60 gr choco creamy",
+    "ean": "7896004004969",
+    "nombre": "zucaritas x490gr.caja",
+    "categoria": "Perfumeria",
+    "precio_antes": 5480.0,
+    "precio_hoy": 5480.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790310985830",
+    "nombre": "3ds queso x 85 gr.",
     "categoria": "Almacen",
-    "precio_antes": 1059.0,
-    "precio_hoy": 1876.0,
-    "diff_abs": 817.0,
-    "diff_pct": 77.15
+    "precio_antes": 3471.0,
+    "precio_hoy": 3471.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790040147751",
-    "nombre": "saladix flames x 60 gr extra picante",
+    "ean": "7790310985137",
+    "nombre": "3ds queso x143gr.",
     "categoria": "Almacen",
-    "precio_antes": 1169.0,
-    "precio_hoy": 1820.0,
-    "diff_abs": 651.0,
-    "diff_pct": 55.69
+    "precio_antes": 4877.0,
+    "precio_hoy": 4877.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790040141285",
-    "nombre": "snack saladix cross picante x 67 gr.",
+    "ean": "7791728246629",
+    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
     "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1196.0,
-    "diff_abs": 427.0,
-    "diff_pct": 55.53
+    "precio_antes": 25271.0,
+    "precio_hoy": 25271.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798048720136",
-    "nombre": "jardinera don elio x 300 gr.",
+    "ean": "763571722428",
+    "nombre": "ac.de coco entrenuts x200virg.",
     "categoria": "Almacen",
-    "precio_antes": 809.0,
-    "precio_hoy": 1174.0,
-    "diff_abs": 365.0,
-    "diff_pct": 45.12
+    "precio_antes": 9649.0,
+    "precio_hoy": 9649.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798048720266",
-    "nombre": "arroz don elio doble carolina x 500 gr.",
+    "ean": "7791728246612",
+    "nombre": "ac.ol.zuccardi x250ml.coratina",
     "categoria": "Almacen",
-    "precio_antes": 1099.0,
-    "precio_hoy": 1593.0,
-    "diff_abs": 494.0,
-    "diff_pct": 44.95
+    "precio_antes": 14741.0,
+    "precio_hoy": 14741.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798048721904",
-    "nombre": "choclo blanco cremoso don elio x 300 gr.",
+    "ean": "7791728246575",
+    "nombre": "ac.ol.zuccardi x250ml.picual",
     "categoria": "Almacen",
-    "precio_antes": 629.0,
-    "precio_hoy": 905.0,
-    "diff_abs": 276.0,
-    "diff_pct": 43.88
+    "precio_antes": 14741.0,
+    "precio_hoy": 14741.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790895643842",
-    "nombre": "alimento de soja ades naranja x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2139.0,
-    "precio_hoy": 3045.0,
-    "diff_abs": 906.0,
-    "diff_pct": 42.36
-  },
-  {
-    "ean": "7790895643804",
-    "nombre": "ades x1lt.anana",
-    "categoria": "Bebidas",
-    "precio_antes": 2139.0,
-    "precio_hoy": 3045.0,
-    "diff_abs": 906.0,
-    "diff_pct": 42.36
-  },
-  {
-    "ean": "7790895643828",
-    "nombre": "alimento de soja ades durazno x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2139.0,
-    "precio_hoy": 3045.0,
-    "diff_abs": 906.0,
-    "diff_pct": 42.36
-  },
-  {
-    "ean": "7790895003318",
-    "nombre": "agua saborizada aquarius cepita uva x 2.25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2849.0,
-    "precio_hoy": 3960.0,
-    "diff_abs": 1111.0,
-    "diff_pct": 39.0
-  },
-  {
-    "ean": "7790670052371",
-    "nombre": "medallones de carne express x 4 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 3909.0,
-    "precio_hoy": 5399.0,
-    "diff_abs": 1490.0,
-    "diff_pct": 38.12
-  },
-  {
-    "ean": "7790580107635",
-    "nombre": "rocklets x150gr.bolsa",
+    "ean": "7791728241181",
+    "nombre": "ac.ol.zuelo x500ml.bot.intenso",
     "categoria": "Almacen",
-    "precio_antes": 3899.0,
-    "precio_hoy": 5385.0,
-    "diff_abs": 1486.0,
-    "diff_pct": 38.11
+    "precio_antes": 19690.0,
+    "precio_hoy": 19690.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790895064166",
-    "nombre": "gaseosa sprite zero x 2,25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 3279.0,
-    "precio_hoy": 4490.0,
-    "diff_abs": 1211.0,
-    "diff_pct": 36.93
+    "ean": "7790070231598",
+    "nombre": "aceite cocinero x900 ml oliva y girasol",
+    "categoria": "Almacen",
+    "precio_antes": 5809.0,
+    "precio_hoy": 5809.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790895001000",
-    "nombre": "gaseosa lima limon sprite x 2.25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 3279.0,
-    "precio_hoy": 4490.0,
-    "diff_abs": 1211.0,
-    "diff_pct": 36.93
+    "ean": "7790272006819",
+    "nombre": "aceite copisi x 900 ml. girasol y oliva",
+    "categoria": "Almacen",
+    "precio_antes": 5589.0,
+    "precio_hoy": 5589.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790895001017",
-    "nombre": "gaseosa naranja fanta x 2,25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 3279.0,
-    "precio_hoy": 4490.0,
-    "diff_abs": 1211.0,
-    "diff_pct": 36.93
+    "ean": "656750783931",
+    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 8484.0,
+    "precio_hoy": 8484.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790895001031",
-    "nombre": "gaseosa fanta limon x 2.25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 3279.0,
-    "precio_hoy": 4490.0,
-    "diff_abs": 1211.0,
-    "diff_pct": 36.93
+    "ean": "763571722435",
+    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 16512.0,
+    "precio_hoy": 16512.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790895010095",
-    "nombre": "gaseosa schweppes pomelo zero x 2,25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 3529.0,
-    "precio_hoy": 4826.0,
-    "diff_abs": 1297.0,
-    "diff_pct": 36.75
+    "ean": "7794870000040",
+    "nombre": "aceite de girasol alsamar x 5 lts.",
+    "categoria": "Almacen",
+    "precio_antes": 18622.0,
+    "precio_hoy": 18622.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790895647666",
-    "nombre": "agua benedictino sin gas x 2,25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1759.0,
-    "precio_hoy": 2390.0,
-    "diff_abs": 631.0,
-    "diff_pct": 35.87
+    "ean": "7790387014617",
+    "nombre": "yerba mate union 4 flex x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4420.0,
+    "precio_hoy": 4420.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790895003882",
-    "nombre": "agua mineral bonaqua sin gas x 2 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1839.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 651.0,
-    "diff_pct": 35.4
+    "ean": "7790387013634",
+    "nombre": "yerba mate taragui x 250 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1300.0,
+    "precio_hoy": 1300.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2021780000002",
-    "nombre": "perejil x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
+    "ean": "7790387013504",
+    "nombre": "yerba mate taragui sin palo x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3239.0,
+    "precio_hoy": 3239.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790387013498",
+    "nombre": "yerba mate taragui sin palo x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 6260.0,
+    "precio_hoy": 6260.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790387013627",
+    "nombre": "yerba mate taragui 4 flex x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2305.0,
+    "precio_hoy": 2305.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790387013610",
+    "nombre": "yerba mate taragui 4 flex x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4420.0,
+    "precio_hoy": 4420.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790070508539",
+    "nombre": "yerba mate salus x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4338.0,
+    "precio_hoy": 4338.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]
