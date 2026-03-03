@@ -1,147 +1,147 @@
 {
-  "fecha": "20260302",
-  "total_productos": 5469,
-  "variacion_dia": -0.15,
-  "variacion_7d": 2.13,
+  "fecha": "20260303",
+  "total_productos": 5453,
+  "variacion_dia": 1.31,
+  "variacion_7d": 2.2,
   "variacion_mes": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1214
+      "variacion_pct_promedio": 3.95,
+      "productos_subieron": 154,
+      "productos_bajaron": 45,
+      "total_productos": 1207
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.11,
-      "productos_subieron": 0,
-      "productos_bajaron": 7,
-      "total_productos": 1105
+      "variacion_pct_promedio": 0.23,
+      "productos_subieron": 34,
+      "productos_bajaron": 12,
+      "total_productos": 1093
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -2.52,
-      "productos_subieron": 0,
-      "productos_bajaron": 26,
-      "total_productos": 196
+      "variacion_pct_promedio": 0.16,
+      "productos_subieron": 4,
+      "productos_bajaron": 0,
+      "total_productos": 195
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": 0.03,
+      "productos_subieron": 5,
+      "productos_bajaron": 1,
       "total_productos": 652
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 1.49,
+      "productos_subieron": 70,
       "productos_bajaron": 0,
-      "total_productos": 791
+      "total_productos": 784
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.12,
-      "productos_subieron": 0,
-      "productos_bajaron": 8,
-      "total_productos": 1511
+      "variacion_pct_promedio": 0.56,
+      "productos_subieron": 52,
+      "productos_bajaron": 6,
+      "total_productos": 1488
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790360968548",
-      "nombre": "medallones de carne swift burger x 12 unid.",
-      "categoria": "Congelados",
-      "precio_antes": 14956.0,
-      "precio_hoy": 10579.0,
-      "diff_abs": -4377.0,
-      "diff_pct": -29.27
+      "ean": "7790742665027",
+      "nombre": "beb.lact.ls.x900 sachet frut.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2782.0,
+      "precio_hoy": 2089.0,
+      "diff_abs": -693.0,
+      "diff_pct": -24.91
     },
     {
-      "ean": "7790360967701",
-      "nombre": "hamb.swift casera 2x120gr.",
-      "categoria": "Congelados",
-      "precio_antes": 5941.0,
-      "precio_hoy": 4409.0,
-      "diff_abs": -1532.0,
-      "diff_pct": -25.79
+      "ean": "7790742661333",
+      "nombre": "bebida lactea la serenisima x 900 gm cookies and cream",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2615.0,
+      "precio_hoy": 1969.0,
+      "diff_abs": -646.0,
+      "diff_pct": -24.7
     },
     {
-      "ean": "7790360982230",
-      "nombre": "medallones de espinaca swift x 4 unidades x 300 g",
-      "categoria": "Congelados",
-      "precio_antes": 4628.0,
-      "precio_hoy": 3449.0,
-      "diff_abs": -1179.0,
-      "diff_pct": -25.48
+      "ean": "7790742566027",
+      "nombre": "bebida lactea la serenisima x 200 ml frutilla redu",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1537.0,
+      "precio_hoy": 1159.0,
+      "diff_abs": -378.0,
+      "diff_pct": -24.59
     },
     {
-      "ean": "7790360982223",
-      "nombre": "medallon swift clabaza y choclo x 4 undiades x 30m",
-      "categoria": "Congelados",
-      "precio_antes": 4628.0,
-      "precio_hoy": 3449.0,
-      "diff_abs": -1179.0,
-      "diff_pct": -25.48
-    },
-    {
-      "ean": "7790360964557",
-      "nombre": "jamon del diablo swift88 facil",
+      "ean": "7790139003364",
+      "nombre": "aceto balsamico casalta ahumado x 400 ml.",
       "categoria": "Almacen",
-      "precio_antes": 1304.0,
-      "precio_hoy": 979.0,
-      "diff_abs": -325.0,
-      "diff_pct": -24.92
+      "precio_antes": 6428.0,
+      "precio_hoy": 4869.0,
+      "diff_abs": -1559.0,
+      "diff_pct": -24.25
     },
     {
-      "ean": "7790360964526",
-      "nombre": "pate swift a la crema x88gr.",
+      "ean": "7790139000448",
+      "nombre": "aceto balsamico casalta x 250 ml. clasico",
       "categoria": "Almacen",
-      "precio_antes": 1304.0,
-      "precio_hoy": 979.0,
-      "diff_abs": -325.0,
-      "diff_pct": -24.92
+      "precio_antes": 3998.0,
+      "precio_hoy": 3029.0,
+      "diff_abs": -969.0,
+      "diff_pct": -24.24
     },
     {
-      "ean": "7790360026606",
-      "nombre": "hamburguesas swift x 2 unid.",
-      "categoria": "Congelados",
-      "precio_antes": 3236.0,
-      "precio_hoy": 2449.0,
-      "diff_abs": -787.0,
-      "diff_pct": -24.32
+      "ean": "7790168904465",
+      "nombre": "vino blanco colon torrontes-viognier x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 4250.0,
+      "precio_hoy": 3249.0,
+      "diff_abs": -1001.0,
+      "diff_pct": -23.55
     },
     {
-      "ean": "7790360965714",
-      "nombre": "pate de foie tipo provenzal swift x 85 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1473.0,
-      "precio_hoy": 1139.0,
-      "diff_abs": -334.0,
-      "diff_pct": -22.67
+      "ean": "7790168904403",
+      "nombre": "vino colon x 750 ml malbe-bonarda",
+      "categoria": "Bebidas",
+      "precio_antes": 4250.0,
+      "precio_hoy": 3249.0,
+      "diff_abs": -1001.0,
+      "diff_pct": -23.55
     },
     {
-      "ean": "7790360965721",
-      "nombre": "pate de foie swift con pimienta verde x 85 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1473.0,
-      "precio_hoy": 1139.0,
-      "diff_abs": -334.0,
-      "diff_pct": -22.67
+      "ean": "7790168904434",
+      "nombre": "vino tinto colon syarh-cabernet sauvignon x 750 m.",
+      "categoria": "Bebidas",
+      "precio_antes": 4250.0,
+      "precio_hoy": 3249.0,
+      "diff_abs": -1001.0,
+      "diff_pct": -23.55
     },
     {
-      "ean": "7790360965707",
-      "nombre": "pate swift de jamon ahum.x85gr",
-      "categoria": "Almacen",
-      "precio_antes": 1473.0,
-      "precio_hoy": 1139.0,
-      "diff_abs": -334.0,
-      "diff_pct": -22.67
+      "ean": "7793147574130",
+      "nombre": "cerveza imperial x 473 ml gold cero",
+      "categoria": "Bebidas",
+      "precio_antes": 2050.0,
+      "precio_hoy": 1639.0,
+      "diff_abs": -411.0,
+      "diff_pct": -20.05
+    },
+    {
+      "ean": "7793147571689",
+      "nombre": "cerveza imperial golden x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 2700.0,
+      "precio_hoy": 2159.0,
+      "diff_abs": -541.0,
+      "diff_pct": -20.04
     }
   ],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 41,
-  "productos_sin_cambio_dia": 5428
+  "productos_subieron_dia": 319,
+  "productos_bajaron_dia": 64,
+  "productos_sin_cambio_dia": 5036
 }

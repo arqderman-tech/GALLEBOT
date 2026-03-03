@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7896004004969",
-    "nombre": "zucaritas x490gr.caja",
-    "categoria": "Perfumeria",
-    "precio_antes": 5480.0,
-    "precio_hoy": 5480.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790168075677",
+    "nombre": "vino tinto graffigna syrah x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4339.0,
+    "precio_hoy": 8670.0,
+    "diff_abs": 4331.0,
+    "diff_pct": 99.82
   },
   {
-    "ean": "7790310985830",
-    "nombre": "3ds queso x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3471.0,
-    "precio_hoy": 3471.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790168075707",
+    "nombre": "vino graffigna pinot grigio x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4339.0,
+    "precio_hoy": 8670.0,
+    "diff_abs": 4331.0,
+    "diff_pct": 99.82
   },
   {
-    "ean": "7790310985137",
-    "nombre": "3ds queso x143gr.",
-    "categoria": "Almacen",
-    "precio_antes": 4877.0,
-    "precio_hoy": 4877.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7862109430934",
+    "nombre": "gatorade x 473 ml frutos tropicales",
+    "categoria": "Bebidas",
+    "precio_antes": 2669.0,
+    "precio_hoy": 5333.0,
+    "diff_abs": 2664.0,
+    "diff_pct": 99.81
   },
   {
-    "ean": "7791728246629",
-    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
-    "categoria": "Almacen",
-    "precio_antes": 25271.0,
-    "precio_hoy": 25271.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7791813403036",
+    "nombre": "agua saborizada h20! manzana x 1,5 lt. sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1459.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1291.0,
+    "diff_pct": 88.49
   },
   {
-    "ean": "763571722428",
-    "nombre": "ac.de coco entrenuts x200virg.",
-    "categoria": "Almacen",
-    "precio_antes": 9649.0,
-    "precio_hoy": 9649.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7791813403012",
+    "nombre": "agua saborizada h2o pomelo x 1,5 lt. sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1459.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1291.0,
+    "diff_pct": 88.49
   },
   {
-    "ean": "7791728246612",
-    "nombre": "ac.ol.zuccardi x250ml.coratina",
-    "categoria": "Almacen",
-    "precio_antes": 14741.0,
-    "precio_hoy": 14741.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7791813403029",
+    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1459.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1291.0,
+    "diff_pct": 88.49
   },
   {
-    "ean": "7791728246575",
-    "nombre": "ac.ol.zuccardi x250ml.picual",
-    "categoria": "Almacen",
-    "precio_antes": 14741.0,
-    "precio_hoy": 14741.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2037320000005",
+    "nombre": "curcuma x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 14990.0,
+    "diff_abs": 7000.0,
+    "diff_pct": 87.61
   },
   {
-    "ean": "7791728241181",
-    "nombre": "ac.ol.zuelo x500ml.bot.intenso",
-    "categoria": "Almacen",
-    "precio_antes": 19690.0,
-    "precio_hoy": 19690.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7791813405023",
+    "nombre": "agua saborizada h2o sin gas x 2 litros limoneto",
+    "categoria": "Bebidas",
+    "precio_antes": 1569.0,
+    "precio_hoy": 2850.0,
+    "diff_abs": 1281.0,
+    "diff_pct": 81.64
   },
   {
-    "ean": "7790070231598",
-    "nombre": "aceite cocinero x900 ml oliva y girasol",
-    "categoria": "Almacen",
-    "precio_antes": 5809.0,
-    "precio_hoy": 5809.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7791813405030",
+    "nombre": "agua saborizada h2o x 2 lt manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1569.0,
+    "precio_hoy": 2850.0,
+    "diff_abs": 1281.0,
+    "diff_pct": 81.64
   },
   {
-    "ean": "7790272006819",
-    "nombre": "aceite copisi x 900 ml. girasol y oliva",
-    "categoria": "Almacen",
-    "precio_antes": 5589.0,
-    "precio_hoy": 5589.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7791813402015",
+    "nombre": "agua pomelo h2o x 500 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 849.0,
+    "precio_hoy": 1400.0,
+    "diff_abs": 551.0,
+    "diff_pct": 64.9
   },
   {
-    "ean": "656750783931",
-    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 8484.0,
-    "precio_hoy": 8484.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792798008858",
+    "nombre": "cerveza temple wolf ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2859.0,
+    "precio_hoy": 4400.0,
+    "diff_abs": 1541.0,
+    "diff_pct": 53.9
   },
   {
-    "ean": "763571722435",
-    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 16512.0,
-    "precio_hoy": 16512.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790168075684",
+    "nombre": "vino graffigna centenario malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5639.0,
+    "precio_hoy": 8670.0,
+    "diff_abs": 3031.0,
+    "diff_pct": 53.75
   },
   {
-    "ean": "7794870000040",
-    "nombre": "aceite de girasol alsamar x 5 lts.",
-    "categoria": "Almacen",
-    "precio_antes": 18622.0,
-    "precio_hoy": 18622.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790168075660",
+    "nombre": "vino tinto graffigna cabernet sauvignon x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5639.0,
+    "precio_hoy": 8670.0,
+    "diff_abs": 3031.0,
+    "diff_pct": 53.75
   },
   {
-    "ean": "7790387014617",
-    "nombre": "yerba mate union 4 flex x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4420.0,
-    "precio_hoy": 4420.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790168903680",
+    "nombre": "vino tinto graffigna glorious malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 7359.0,
+    "precio_hoy": 11310.0,
+    "diff_abs": 3951.0,
+    "diff_pct": 53.69
   },
   {
-    "ean": "7790387013634",
-    "nombre": "yerba mate taragui x 250 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1300.0,
-    "precio_hoy": 1300.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792799000011",
+    "nombre": "agua mineral sin gas eco de los andes x 500 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1159.0,
+    "precio_hoy": 1765.0,
+    "diff_abs": 606.0,
+    "diff_pct": 52.29
   },
   {
-    "ean": "7790387013504",
-    "nombre": "yerba mate taragui sin palo x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3239.0,
-    "precio_hoy": 3239.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792799001032",
+    "nombre": "agua mineral pureza vital x 6,3 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 4259.0,
+    "precio_hoy": 6485.0,
+    "diff_abs": 2226.0,
+    "diff_pct": 52.27
   },
   {
-    "ean": "7790387013498",
-    "nombre": "yerba mate taragui sin palo x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 6260.0,
-    "precio_hoy": 6260.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792931000022",
+    "nombre": "agua mineral glaciar sin gas x 1.5 litros",
+    "categoria": "Bebidas",
+    "precio_antes": 1829.0,
+    "precio_hoy": 2784.0,
+    "diff_abs": 955.0,
+    "diff_pct": 52.21
   },
   {
-    "ean": "7790387013627",
-    "nombre": "yerba mate taragui 4 flex x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2305.0,
-    "precio_hoy": 2305.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7795930000550",
+    "nombre": "agua mineral glaciar x 6,3 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 5639.0,
+    "precio_hoy": 8581.0,
+    "diff_abs": 2942.0,
+    "diff_pct": 52.17
   },
   {
-    "ean": "7790387013610",
-    "nombre": "yerba mate taragui 4 flex x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4420.0,
-    "precio_hoy": 4420.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792799000899",
+    "nombre": "agua mineral nestle pureza vital x 500 ml. sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1059.0,
+    "precio_hoy": 1609.0,
+    "diff_abs": 550.0,
+    "diff_pct": 51.94
   },
   {
-    "ean": "7790070508539",
-    "nombre": "yerba mate salus x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4338.0,
-    "precio_hoy": 4338.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7795930002097",
+    "nombre": "agua mineral eco de los andes sin gas x 850 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1469.0,
+    "precio_hoy": 2232.0,
+    "diff_abs": 763.0,
+    "diff_pct": 51.94
   }
 ]
