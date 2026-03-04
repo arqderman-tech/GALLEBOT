@@ -1,147 +1,147 @@
 {
-  "fecha": "20260303",
-  "total_productos": 5453,
-  "variacion_dia": 1.31,
-  "variacion_7d": 2.2,
+  "fecha": "20260304",
+  "total_productos": 5481,
+  "variacion_dia": -0.05,
+  "variacion_7d": 1.4,
   "variacion_mes": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 3.95,
-      "productos_subieron": 154,
-      "productos_bajaron": 45,
-      "total_productos": 1207
+      "variacion_pct_promedio": 0.33,
+      "productos_subieron": 80,
+      "productos_bajaron": 0,
+      "total_productos": 1206
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.23,
-      "productos_subieron": 34,
-      "productos_bajaron": 12,
-      "total_productos": 1093
+      "variacion_pct_promedio": 0.18,
+      "productos_subieron": 12,
+      "productos_bajaron": 4,
+      "total_productos": 1098
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.16,
-      "productos_subieron": 4,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": 3.32,
+      "productos_subieron": 28,
+      "productos_bajaron": 2,
       "total_productos": 195
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.03,
-      "productos_subieron": 5,
-      "productos_bajaron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
       "total_productos": 652
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 1.49,
-      "productos_subieron": 70,
-      "productos_bajaron": 0,
-      "total_productos": 784
+      "variacion_pct_promedio": -0.49,
+      "productos_subieron": 0,
+      "productos_bajaron": 27,
+      "total_productos": 789
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.56,
-      "productos_subieron": 52,
-      "productos_bajaron": 6,
-      "total_productos": 1488
+      "variacion_pct_promedio": -0.76,
+      "productos_subieron": 1,
+      "productos_bajaron": 74,
+      "total_productos": 1501
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790742665027",
-      "nombre": "beb.lact.ls.x900 sachet frut.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2782.0,
-      "precio_hoy": 2089.0,
-      "diff_abs": -693.0,
-      "diff_pct": -24.91
-    },
-    {
-      "ean": "7790742661333",
-      "nombre": "bebida lactea la serenisima x 900 gm cookies and cream",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2615.0,
-      "precio_hoy": 1969.0,
-      "diff_abs": -646.0,
-      "diff_pct": -24.7
-    },
-    {
-      "ean": "7790742566027",
-      "nombre": "bebida lactea la serenisima x 200 ml frutilla redu",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1537.0,
-      "precio_hoy": 1159.0,
-      "diff_abs": -378.0,
-      "diff_pct": -24.59
-    },
-    {
-      "ean": "7790139003364",
-      "nombre": "aceto balsamico casalta ahumado x 400 ml.",
+      "ean": "7622300742584",
+      "nombre": "alfajor terrabusi x6 chocolate",
       "categoria": "Almacen",
-      "precio_antes": 6428.0,
-      "precio_hoy": 4869.0,
-      "diff_abs": -1559.0,
-      "diff_pct": -24.25
+      "precio_antes": 8291.0,
+      "precio_hoy": 4149.0,
+      "diff_abs": -4142.0,
+      "diff_pct": -49.96
     },
     {
-      "ean": "7790139000448",
-      "nombre": "aceto balsamico casalta x 250 ml. clasico",
+      "ean": "7797906054918",
+      "nombre": "papas mc cain noisette x 1.2 kg.",
+      "categoria": "Congelados",
+      "precio_antes": 18999.0,
+      "precio_hoy": 12328.99,
+      "diff_abs": -6670.01,
+      "diff_pct": -35.11
+    },
+    {
+      "ean": "7797906000700",
+      "nombre": "papas mc cain tradicional x 400 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 4783.0,
+      "precio_hoy": 3109.0,
+      "diff_abs": -1674.0,
+      "diff_pct": -35.0
+    },
+    {
+      "ean": "7790150533154",
+      "nombre": "mis alicante parrillero vegetales x 25 gm",
       "categoria": "Almacen",
-      "precio_antes": 3998.0,
-      "precio_hoy": 3029.0,
-      "diff_abs": -969.0,
-      "diff_pct": -24.24
+      "precio_antes": 1531.0,
+      "precio_hoy": 1019.0,
+      "diff_abs": -512.0,
+      "diff_pct": -33.44
     },
     {
-      "ean": "7790168904465",
-      "nombre": "vino blanco colon torrontes-viognier x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 4250.0,
-      "precio_hoy": 3249.0,
-      "diff_abs": -1001.0,
-      "diff_pct": -23.55
+      "ean": "7790150533208",
+      "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
+      "categoria": "Almacen",
+      "precio_antes": 1531.0,
+      "precio_hoy": 1019.0,
+      "diff_abs": -512.0,
+      "diff_pct": -33.44
     },
     {
-      "ean": "7790168904403",
-      "nombre": "vino colon x 750 ml malbe-bonarda",
-      "categoria": "Bebidas",
-      "precio_antes": 4250.0,
-      "precio_hoy": 3249.0,
-      "diff_abs": -1001.0,
-      "diff_pct": -23.55
+      "ean": "7790150533307",
+      "nombre": "mix alicante parrillero barbacoa x 25 gm",
+      "categoria": "Almacen",
+      "precio_antes": 1531.0,
+      "precio_hoy": 1019.0,
+      "diff_abs": -512.0,
+      "diff_pct": -33.44
     },
     {
-      "ean": "7790168904434",
-      "nombre": "vino tinto colon syarh-cabernet sauvignon x 750 m.",
-      "categoria": "Bebidas",
-      "precio_antes": 4250.0,
-      "precio_hoy": 3249.0,
-      "diff_abs": -1001.0,
-      "diff_pct": -23.55
+      "ean": "7790150533109",
+      "nombre": "mix alicante parrillero x 25 gm chimichurri ahumado",
+      "categoria": "Almacen",
+      "precio_antes": 1531.0,
+      "precio_hoy": 1019.0,
+      "diff_abs": -512.0,
+      "diff_pct": -33.44
     },
     {
-      "ean": "7793147574130",
-      "nombre": "cerveza imperial x 473 ml gold cero",
-      "categoria": "Bebidas",
-      "precio_antes": 2050.0,
-      "precio_hoy": 1639.0,
-      "diff_abs": -411.0,
-      "diff_pct": -20.05
+      "ean": "7790150533000",
+      "nombre": "mix alicante parrilla x 25 gr hamburguesas",
+      "categoria": "Almacen",
+      "precio_antes": 1531.0,
+      "precio_hoy": 1019.0,
+      "diff_abs": -512.0,
+      "diff_pct": -33.44
     },
     {
-      "ean": "7793147571689",
-      "nombre": "cerveza imperial golden x 473 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 2700.0,
-      "precio_hoy": 2159.0,
-      "diff_abs": -541.0,
-      "diff_pct": -20.04
+      "ean": "7790150080825",
+      "nombre": "cafe en capsulas la virginia equilibrado x 10 uni.",
+      "categoria": "Perfumeria",
+      "precio_antes": 7772.0,
+      "precio_hoy": 5779.0,
+      "diff_abs": -1993.0,
+      "diff_pct": -25.64
+    },
+    {
+      "ean": "7790150080849",
+      "nombre": "cafe en capsulas la virginia intenso x 10 unid.",
+      "categoria": "Perfumeria",
+      "precio_antes": 7772.0,
+      "precio_hoy": 5779.0,
+      "diff_abs": -1993.0,
+      "diff_pct": -25.64
     }
   ],
-  "productos_subieron_dia": 319,
-  "productos_bajaron_dia": 64,
-  "productos_sin_cambio_dia": 5036
+  "productos_subieron_dia": 121,
+  "productos_bajaron_dia": 107,
+  "productos_sin_cambio_dia": 5213
 }

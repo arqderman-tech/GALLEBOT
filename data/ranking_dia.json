@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790168075677",
-    "nombre": "vino tinto graffigna syrah x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4339.0,
-    "precio_hoy": 8670.0,
-    "diff_abs": 4331.0,
-    "diff_pct": 99.82
-  },
-  {
-    "ean": "7790168075707",
-    "nombre": "vino graffigna pinot grigio x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4339.0,
-    "precio_hoy": 8670.0,
-    "diff_abs": 4331.0,
-    "diff_pct": 99.82
-  },
-  {
-    "ean": "7862109430934",
-    "nombre": "gatorade x 473 ml frutos tropicales",
-    "categoria": "Bebidas",
-    "precio_antes": 2669.0,
-    "precio_hoy": 5333.0,
-    "diff_abs": 2664.0,
-    "diff_pct": 99.81
-  },
-  {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada h20! manzana x 1,5 lt. sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1459.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1291.0,
-    "diff_pct": 88.49
-  },
-  {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada h2o pomelo x 1,5 lt. sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1459.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1291.0,
-    "diff_pct": 88.49
-  },
-  {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1459.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1291.0,
-    "diff_pct": 88.49
-  },
-  {
-    "ean": "2037320000005",
-    "nombre": "curcuma x kg.",
+    "ean": "2021840000003",
+    "nombre": "pimiento verde x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 14990.0,
-    "diff_abs": 7000.0,
-    "diff_pct": 87.61
+    "precio_antes": 1990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 100.5
   },
   {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2o sin gas x 2 litros limoneto",
-    "categoria": "Bebidas",
-    "precio_antes": 1569.0,
-    "precio_hoy": 2850.0,
-    "diff_abs": 1281.0,
-    "diff_pct": 81.64
+    "ean": "7790670051015",
+    "nombre": "medallones de carne barfy x 276 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 2609.0,
+    "precio_hoy": 3994.0,
+    "diff_abs": 1385.0,
+    "diff_pct": 53.09
   },
   {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada h2o x 2 lt manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1569.0,
-    "precio_hoy": 2850.0,
-    "diff_abs": 1281.0,
-    "diff_pct": 81.64
+    "ean": "7790670050674",
+    "nombre": "hamburguesas paty x 2 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 2869.0,
+    "precio_hoy": 4230.0,
+    "diff_abs": 1361.0,
+    "diff_pct": 47.44
   },
   {
-    "ean": "7791813402015",
-    "nombre": "agua pomelo h2o x 500 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 849.0,
-    "precio_hoy": 1400.0,
-    "diff_abs": 551.0,
-    "diff_pct": 64.9
+    "ean": "7790670050780",
+    "nombre": "hamburguesas paty clasico x 20 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 27319.0,
+    "precio_hoy": 37750.0,
+    "diff_abs": 10431.0,
+    "diff_pct": 38.18
   },
   {
-    "ean": "7792798008858",
-    "nombre": "cerveza temple wolf ipa x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2859.0,
-    "precio_hoy": 4400.0,
-    "diff_abs": 1541.0,
-    "diff_pct": 53.9
+    "ean": "7790670050667",
+    "nombre": "hamburguesas paty x 12 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 16759.0,
+    "precio_hoy": 23155.0,
+    "diff_abs": 6396.0,
+    "diff_pct": 38.16
   },
   {
-    "ean": "7790168075684",
-    "nombre": "vino graffigna centenario malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 5639.0,
-    "precio_hoy": 8670.0,
-    "diff_abs": 3031.0,
-    "diff_pct": 53.75
+    "ean": "7790670050650",
+    "nombre": "hamburguesas paty x 4 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 6009.0,
+    "precio_hoy": 8294.0,
+    "diff_abs": 2285.0,
+    "diff_pct": 38.03
   },
   {
-    "ean": "7790168075660",
-    "nombre": "vino tinto graffigna cabernet sauvignon x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 5639.0,
-    "precio_hoy": 8670.0,
-    "diff_abs": 3031.0,
-    "diff_pct": 53.75
+    "ean": "7790670052869",
+    "nombre": "medallones de carne express x 2 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 1609.0,
+    "precio_hoy": 2214.0,
+    "diff_abs": 605.0,
+    "diff_pct": 37.6
   },
   {
-    "ean": "7790168903680",
-    "nombre": "vino tinto graffigna glorious malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 7359.0,
-    "precio_hoy": 11310.0,
-    "diff_abs": 3951.0,
-    "diff_pct": 53.69
+    "ean": "7790670052739",
+    "nombre": "medallones green life veggies arvejas y brocoli x",
+    "categoria": "Congelados",
+    "precio_antes": 4219.0,
+    "precio_hoy": 5485.0,
+    "diff_abs": 1266.0,
+    "diff_pct": 30.01
   },
   {
-    "ean": "7792799000011",
-    "nombre": "agua mineral sin gas eco de los andes x 500 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1159.0,
-    "precio_hoy": 1765.0,
-    "diff_abs": 606.0,
-    "diff_pct": 52.29
+    "ean": "7790670052708",
+    "nombre": "medallones green life veggies calabaza y choclo x.",
+    "categoria": "Congelados",
+    "precio_antes": 4219.0,
+    "precio_hoy": 5485.0,
+    "diff_abs": 1266.0,
+    "diff_pct": 30.01
   },
   {
-    "ean": "7792799001032",
-    "nombre": "agua mineral pureza vital x 6,3 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 4259.0,
-    "precio_hoy": 6485.0,
-    "diff_abs": 2226.0,
-    "diff_pct": 52.27
+    "ean": "7790670052715",
+    "nombre": "medallones green life veggies espinaca y pimientos",
+    "categoria": "Congelados",
+    "precio_antes": 4219.0,
+    "precio_hoy": 5485.0,
+    "diff_abs": 1266.0,
+    "diff_pct": 30.01
   },
   {
-    "ean": "7792931000022",
-    "nombre": "agua mineral glaciar sin gas x 1.5 litros",
-    "categoria": "Bebidas",
-    "precio_antes": 1829.0,
-    "precio_hoy": 2784.0,
-    "diff_abs": 955.0,
-    "diff_pct": 52.21
+    "ean": "7790670052722",
+    "nombre": "medallones green life veggies lentejas y zanahoria",
+    "categoria": "Congelados",
+    "precio_antes": 4219.0,
+    "precio_hoy": 5485.0,
+    "diff_abs": 1266.0,
+    "diff_pct": 30.01
   },
   {
-    "ean": "7795930000550",
-    "nombre": "agua mineral glaciar x 6,3 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 5639.0,
-    "precio_hoy": 8581.0,
-    "diff_abs": 2942.0,
-    "diff_pct": 52.17
+    "ean": "7790670052418",
+    "nombre": "salchicha vienissima x 12 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4469.0,
+    "precio_hoy": 5616.0,
+    "diff_abs": 1147.0,
+    "diff_pct": 25.67
   },
   {
-    "ean": "7792799000899",
-    "nombre": "agua mineral nestle pureza vital x 500 ml. sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1059.0,
-    "precio_hoy": 1609.0,
-    "diff_abs": 550.0,
-    "diff_pct": 51.94
+    "ean": "7790670052401",
+    "nombre": "salchicha vienissima x 6 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2339.0,
+    "precio_hoy": 2936.0,
+    "diff_abs": 597.0,
+    "diff_pct": 25.52
   },
   {
-    "ean": "7795930002097",
-    "nombre": "agua mineral eco de los andes sin gas x 850 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1469.0,
-    "precio_hoy": 2232.0,
-    "diff_abs": 763.0,
-    "diff_pct": 51.94
+    "ean": "2011390000004",
+    "nombre": "queso danbo psandwich canut x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 15419.0,
+    "precio_hoy": 19046.0,
+    "diff_abs": 3627.0,
+    "diff_pct": 23.52
+  },
+  {
+    "ean": "7790670050612",
+    "nombre": "hamburguesas paty grandes x 2 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 5319.0,
+    "precio_hoy": 6532.0,
+    "diff_abs": 1213.0,
+    "diff_pct": 22.81
+  },
+  {
+    "ean": "7790670052678",
+    "nombre": "hamburguesas paty de casa x 2 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 5109.0,
+    "precio_hoy": 6267.0,
+    "diff_abs": 1158.0,
+    "diff_pct": 22.67
+  },
+  {
+    "ean": "7790670052593",
+    "nombre": "acelga congelada green life x 550 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3869.0,
+    "precio_hoy": 4600.0,
+    "diff_abs": 731.0,
+    "diff_pct": 18.89
+  },
+  {
+    "ean": "7891515629458",
+    "nombre": "nuget saurio x 400 gm",
+    "categoria": "Congelados",
+    "precio_antes": 6249.0,
+    "precio_hoy": 7428.0,
+    "diff_abs": 1179.0,
+    "diff_pct": 18.87
+  },
+  {
+    "ean": "7790670051992",
+    "nombre": "moras green life x 550 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 12809.0,
+    "precio_hoy": 15226.0,
+    "diff_abs": 2417.0,
+    "diff_pct": 18.87
+  },
+  {
+    "ean": "7790670052999",
+    "nombre": "milanesas de soja good mark x 340 gm x 4 unidades",
+    "categoria": "Congelados",
+    "precio_antes": 3209.0,
+    "precio_hoy": 3814.0,
+    "diff_abs": 605.0,
+    "diff_pct": 18.85
   }
 ]
