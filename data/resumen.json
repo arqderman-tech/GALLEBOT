@@ -1,147 +1,147 @@
 {
-  "fecha": "20260304",
-  "total_productos": 5481,
-  "variacion_dia": -0.05,
-  "variacion_7d": 1.4,
+  "fecha": "20260305",
+  "total_productos": 5458,
+  "variacion_dia": -0.92,
+  "variacion_7d": 0.92,
   "variacion_mes": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.33,
-      "productos_subieron": 80,
-      "productos_bajaron": 0,
-      "total_productos": 1206
+      "variacion_pct_promedio": -1.36,
+      "productos_subieron": 0,
+      "productos_bajaron": 51,
+      "total_productos": 1217
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.18,
-      "productos_subieron": 12,
-      "productos_bajaron": 4,
-      "total_productos": 1098
+      "variacion_pct_promedio": -0.12,
+      "productos_subieron": 1,
+      "productos_bajaron": 9,
+      "total_productos": 1102
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 3.32,
-      "productos_subieron": 28,
-      "productos_bajaron": 2,
-      "total_productos": 195
+      "variacion_pct_promedio": -2.82,
+      "productos_subieron": 3,
+      "productos_bajaron": 38,
+      "total_productos": 192
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
       "total_productos": 652
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.49,
-      "productos_subieron": 0,
-      "productos_bajaron": 27,
-      "total_productos": 789
+      "variacion_pct_promedio": -1.25,
+      "productos_subieron": 2,
+      "productos_bajaron": 49,
+      "total_productos": 792
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.76,
-      "productos_subieron": 1,
-      "productos_bajaron": 74,
-      "total_productos": 1501
+      "variacion_pct_promedio": -1.16,
+      "productos_subieron": 3,
+      "productos_bajaron": 108,
+      "total_productos": 1500
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7622300742584",
-      "nombre": "alfajor terrabusi x6 chocolate",
+      "ean": "7622201704148",
+      "nombre": "jugo en polvo clight mandarina x 8 gr.",
+      "categoria": "Bebidas",
+      "precio_antes": 581.0,
+      "precio_hoy": 279.0,
+      "diff_abs": -302.0,
+      "diff_pct": -51.98
+    },
+    {
+      "ean": "7622201746490",
+      "nombre": "jugo en polvo tang x 15 gr. frutilla",
+      "categoria": "Bebidas",
+      "precio_antes": 556.0,
+      "precio_hoy": 279.0,
+      "diff_abs": -277.0,
+      "diff_pct": -49.82
+    },
+    {
+      "ean": "7622201745936",
+      "nombre": "jugo tang durazno x15gr.",
+      "categoria": "Bebidas",
+      "precio_antes": 556.0,
+      "precio_hoy": 279.0,
+      "diff_abs": -277.0,
+      "diff_pct": -49.82
+    },
+    {
+      "ean": "7622201733865",
+      "nombre": "jugo tang mandarina x 15 gm",
+      "categoria": "Bebidas",
+      "precio_antes": 556.0,
+      "precio_hoy": 279.0,
+      "diff_abs": -277.0,
+      "diff_pct": -49.82
+    },
+    {
+      "ean": "77939234",
+      "nombre": "alfajor terrabusi chocolate",
       "categoria": "Almacen",
-      "precio_antes": 8291.0,
-      "precio_hoy": 4149.0,
-      "diff_abs": -4142.0,
-      "diff_pct": -49.96
+      "precio_antes": 1943.0,
+      "precio_hoy": 1129.0,
+      "diff_abs": -814.0,
+      "diff_pct": -41.89
     },
     {
-      "ean": "7797906054918",
-      "nombre": "papas mc cain noisette x 1.2 kg.",
-      "categoria": "Congelados",
-      "precio_antes": 18999.0,
-      "precio_hoy": 12328.99,
-      "diff_abs": -6670.01,
-      "diff_pct": -35.11
-    },
-    {
-      "ean": "7797906000700",
-      "nombre": "papas mc cain tradicional x 400 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 4783.0,
-      "precio_hoy": 3109.0,
-      "diff_abs": -1674.0,
-      "diff_pct": -35.0
-    },
-    {
-      "ean": "7790150533154",
-      "nombre": "mis alicante parrillero vegetales x 25 gm",
+      "ean": "7500810034330",
+      "nombre": "snack takis fuego x 140 gr.",
       "categoria": "Almacen",
-      "precio_antes": 1531.0,
-      "precio_hoy": 1019.0,
-      "diff_abs": -512.0,
-      "diff_pct": -33.44
+      "precio_antes": 4752.0,
+      "precio_hoy": 2829.0,
+      "diff_abs": -1923.0,
+      "diff_pct": -40.47
     },
     {
-      "ean": "7790150533208",
-      "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
+      "ean": "7500810034347",
+      "nombre": "snack takis xplosion x 140 gr.",
       "categoria": "Almacen",
-      "precio_antes": 1531.0,
-      "precio_hoy": 1019.0,
-      "diff_abs": -512.0,
-      "diff_pct": -33.44
+      "precio_antes": 4752.0,
+      "precio_hoy": 2829.0,
+      "diff_abs": -1923.0,
+      "diff_pct": -40.47
     },
     {
-      "ean": "7790150533307",
-      "nombre": "mix alicante parrillero barbacoa x 25 gm",
+      "ean": "7500810034354",
+      "nombre": "snack takis original x 140 gr.",
       "categoria": "Almacen",
-      "precio_antes": 1531.0,
-      "precio_hoy": 1019.0,
-      "diff_abs": -512.0,
-      "diff_pct": -33.44
+      "precio_antes": 4752.0,
+      "precio_hoy": 2829.0,
+      "diff_abs": -1923.0,
+      "diff_pct": -40.47
     },
     {
-      "ean": "7790150533109",
-      "nombre": "mix alicante parrillero x 25 gm chimichurri ahumado",
+      "ean": "7500810041741",
+      "nombre": "snack takis x 140 gm intense",
       "categoria": "Almacen",
-      "precio_antes": 1531.0,
-      "precio_hoy": 1019.0,
-      "diff_abs": -512.0,
-      "diff_pct": -33.44
+      "precio_antes": 4751.0,
+      "precio_hoy": 2829.0,
+      "diff_abs": -1922.0,
+      "diff_pct": -40.45
     },
     {
-      "ean": "7790150533000",
-      "nombre": "mix alicante parrilla x 25 gr hamburguesas",
+      "ean": "7500810034361",
+      "nombre": "snack takis fuego x 85 gr.",
       "categoria": "Almacen",
-      "precio_antes": 1531.0,
-      "precio_hoy": 1019.0,
-      "diff_abs": -512.0,
-      "diff_pct": -33.44
-    },
-    {
-      "ean": "7790150080825",
-      "nombre": "cafe en capsulas la virginia equilibrado x 10 uni.",
-      "categoria": "Perfumeria",
-      "precio_antes": 7772.0,
-      "precio_hoy": 5779.0,
-      "diff_abs": -1993.0,
-      "diff_pct": -25.64
-    },
-    {
-      "ean": "7790150080849",
-      "nombre": "cafe en capsulas la virginia intenso x 10 unid.",
-      "categoria": "Perfumeria",
-      "precio_antes": 7772.0,
-      "precio_hoy": 5779.0,
-      "diff_abs": -1993.0,
-      "diff_pct": -25.64
+      "precio_antes": 2965.0,
+      "precio_hoy": 1769.0,
+      "diff_abs": -1196.0,
+      "diff_pct": -40.34
     }
   ],
-  "productos_subieron_dia": 121,
-  "productos_bajaron_dia": 107,
-  "productos_sin_cambio_dia": 5213
+  "productos_subieron_dia": 10,
+  "productos_bajaron_dia": 255,
+  "productos_sin_cambio_dia": 5190
 }

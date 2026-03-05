@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2021840000003",
-    "nombre": "pimiento verde x kg.",
+    "ean": "7793890261912",
+    "nombre": "madalenas bimbo  x 240 gm vainilla",
+    "categoria": "Perfumeria",
+    "precio_antes": 2129.0,
+    "precio_hoy": 3333.0,
+    "diff_abs": 1204.0,
+    "diff_pct": 56.55
+  },
+  {
+    "ean": "7797906054925",
+    "nombre": "papas noisette mc cain horneables x 600 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 6489.0,
+    "precio_hoy": 10000.0,
+    "diff_abs": 3511.0,
+    "diff_pct": 54.11
+  },
+  {
+    "ean": "2020410000009",
+    "nombre": "choclo elegido x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
+    "precio_antes": 2990.0,
     "precio_hoy": 3990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 100.5
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
   },
   {
-    "ean": "7790670051015",
-    "nombre": "medallones de carne barfy x 276 gr.",
+    "ean": "2700004161025",
+    "nombre": "vaso termico x 300 cc",
+    "categoria": "Limpieza",
+    "precio_antes": 2593.0,
+    "precio_hoy": 2814.0,
+    "diff_abs": 221.0,
+    "diff_pct": 8.52
+  },
+  {
+    "ean": "7797906054918",
+    "nombre": "papas mc cain noisette x 1.2 kg.",
     "categoria": "Congelados",
-    "precio_antes": 2609.0,
-    "precio_hoy": 3994.0,
-    "diff_abs": 1385.0,
-    "diff_pct": 53.09
+    "precio_antes": 12328.99,
+    "precio_hoy": 13302.98,
+    "diff_abs": 973.99,
+    "diff_pct": 7.9
   },
   {
-    "ean": "7790670050674",
-    "nombre": "hamburguesas paty x 2 unid. clasicas",
+    "ean": "7797906000700",
+    "nombre": "papas mc cain tradicional x 400 gr.",
     "categoria": "Congelados",
-    "precio_antes": 2869.0,
-    "precio_hoy": 4230.0,
-    "diff_abs": 1361.0,
-    "diff_pct": 47.44
+    "precio_antes": 3109.0,
+    "precio_hoy": 3354.59,
+    "diff_abs": 245.59,
+    "diff_pct": 7.9
   },
   {
-    "ean": "7790670050780",
-    "nombre": "hamburguesas paty clasico x 20 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 27319.0,
-    "precio_hoy": 37750.0,
-    "diff_abs": 10431.0,
-    "diff_pct": 38.18
+    "ean": "7622202302862",
+    "nombre": "galletitas oreo de mani x 118 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 2150.0,
+    "precio_hoy": 2244.0,
+    "diff_abs": 94.0,
+    "diff_pct": 4.37
   },
   {
-    "ean": "7790670050667",
-    "nombre": "hamburguesas paty x 12 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 16759.0,
-    "precio_hoy": 23155.0,
-    "diff_abs": 6396.0,
-    "diff_pct": 38.16
+    "ean": "7622300871888",
+    "nombre": "postre royal x75gr.vainilla",
+    "categoria": "Almacen",
+    "precio_antes": 1512.0,
+    "precio_hoy": 1576.0,
+    "diff_abs": 64.0,
+    "diff_pct": 4.23
   },
   {
-    "ean": "7790670050650",
-    "nombre": "hamburguesas paty x 4 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 6009.0,
-    "precio_hoy": 8294.0,
-    "diff_abs": 2285.0,
-    "diff_pct": 38.03
+    "ean": "7622202288197",
+    "nombre": "caramelos clight x 26 gramos sabor naranja",
+    "categoria": "Almacen",
+    "precio_antes": 950.07,
+    "precio_hoy": 980.0,
+    "diff_abs": 29.93,
+    "diff_pct": 3.15
   },
   {
-    "ean": "7790670052869",
-    "nombre": "medallones de carne express x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 1609.0,
-    "precio_hoy": 2214.0,
-    "diff_abs": 605.0,
-    "diff_pct": 37.6
+    "ean": "7622202288302",
+    "nombre": "caramelos clight x 26 gm sabor frambuesa",
+    "categoria": "Almacen",
+    "precio_antes": 950.07,
+    "precio_hoy": 980.0,
+    "diff_abs": 29.93,
+    "diff_pct": 3.15
   },
   {
-    "ean": "7790670052739",
-    "nombre": "medallones green life veggies arvejas y brocoli x",
-    "categoria": "Congelados",
-    "precio_antes": 4219.0,
-    "precio_hoy": 5485.0,
-    "diff_abs": 1266.0,
-    "diff_pct": 30.01
-  },
-  {
-    "ean": "7790670052708",
-    "nombre": "medallones green life veggies calabaza y choclo x.",
-    "categoria": "Congelados",
-    "precio_antes": 4219.0,
-    "precio_hoy": 5485.0,
-    "diff_abs": 1266.0,
-    "diff_pct": 30.01
-  },
-  {
-    "ean": "7790670052715",
-    "nombre": "medallones green life veggies espinaca y pimientos",
-    "categoria": "Congelados",
-    "precio_antes": 4219.0,
-    "precio_hoy": 5485.0,
-    "diff_abs": 1266.0,
-    "diff_pct": 30.01
-  },
-  {
-    "ean": "7790670052722",
-    "nombre": "medallones green life veggies lentejas y zanahoria",
-    "categoria": "Congelados",
-    "precio_antes": 4219.0,
-    "precio_hoy": 5485.0,
-    "diff_abs": 1266.0,
-    "diff_pct": 30.01
-  },
-  {
-    "ean": "7790670052418",
-    "nombre": "salchicha vienissima x 12 unid.",
+    "ean": "2017200000004",
+    "nombre": "queso port salut light la paulina x kg.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4469.0,
-    "precio_hoy": 5616.0,
-    "diff_abs": 1147.0,
-    "diff_pct": 25.67
+    "precio_antes": 14018.0,
+    "precio_hoy": 14018.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790670052401",
-    "nombre": "salchicha vienissima x 6 unid.",
+    "ean": "2014240000001",
+    "nombre": "queso port salut light sin sal tregar x kg.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2339.0,
-    "precio_hoy": 2936.0,
-    "diff_abs": 597.0,
-    "diff_pct": 25.52
+    "precio_antes": 18826.0,
+    "precio_hoy": 18826.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2011390000004",
-    "nombre": "queso danbo psandwich canut x kg.",
+    "ean": "2015490000001",
+    "nombre": "queso port salut paladini x kg.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 15419.0,
-    "precio_hoy": 19046.0,
-    "diff_abs": 3627.0,
-    "diff_pct": 23.52
+    "precio_antes": 15104.0,
+    "precio_hoy": 15104.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790670050612",
-    "nombre": "hamburguesas paty grandes x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 5319.0,
-    "precio_hoy": 6532.0,
-    "diff_abs": 1213.0,
-    "diff_pct": 22.81
+    "ean": "2010630000002",
+    "nombre": "queso port salut tremblay x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 12404.0,
+    "precio_hoy": 12404.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790670052678",
-    "nombre": "hamburguesas paty de casa x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 5109.0,
-    "precio_hoy": 6267.0,
-    "diff_abs": 1158.0,
-    "diff_pct": 22.67
+    "ean": "2017160000007",
+    "nombre": "queso port salut la paulina x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 12944.0,
+    "precio_hoy": 12944.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790670052593",
-    "nombre": "acelga congelada green life x 550 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 3869.0,
-    "precio_hoy": 4600.0,
-    "diff_abs": 731.0,
-    "diff_pct": 18.89
+    "ean": "2014220000007",
+    "nombre": "queso mozzarella tregar x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 19544.0,
+    "precio_hoy": 19544.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7891515629458",
-    "nombre": "nuget saurio x 400 gm",
-    "categoria": "Congelados",
-    "precio_antes": 6249.0,
-    "precio_hoy": 7428.0,
-    "diff_abs": 1179.0,
-    "diff_pct": 18.87
+    "ean": "2015570000006",
+    "nombre": "queso mozzarella milkaut x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 17603.0,
+    "precio_hoy": 17603.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790670051992",
-    "nombre": "moras green life x 550 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 12809.0,
-    "precio_hoy": 15226.0,
-    "diff_abs": 2417.0,
-    "diff_pct": 18.87
+    "ean": "2024330000002",
+    "nombre": "queso por salut tremblay trozado x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 18969.0,
+    "precio_hoy": 18969.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790670052999",
-    "nombre": "milanesas de soja good mark x 340 gm x 4 unidades",
-    "categoria": "Congelados",
-    "precio_antes": 3209.0,
-    "precio_hoy": 3814.0,
-    "diff_abs": 605.0,
-    "diff_pct": 18.85
+    "ean": "2014320000006",
+    "nombre": "queso por salut tregar x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 15782.0,
+    "precio_hoy": 15782.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "2014310000009",
+    "nombre": "queso por salut tregar fraccionado x 500gr aprox x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 18506.0,
+    "precio_hoy": 18506.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]
