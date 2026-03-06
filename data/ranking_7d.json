@@ -18,15 +18,6 @@
     "diff_pct": 100.5
   },
   {
-    "ean": "7790168075677",
-    "nombre": "vino tinto graffigna syrah x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4339.0,
-    "precio_hoy": 8670.0,
-    "diff_abs": 4331.0,
-    "diff_pct": 99.82
-  },
-  {
     "ean": "7790168075707",
     "nombre": "vino graffigna pinot grigio x 750 ml.",
     "categoria": "Bebidas",
@@ -36,40 +27,13 @@
     "diff_pct": 99.82
   },
   {
-    "ean": "7862109430934",
-    "nombre": "gatorade x 473 ml frutos tropicales",
+    "ean": "7790168075677",
+    "nombre": "vino tinto graffigna syrah x 750 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 2669.0,
-    "precio_hoy": 5333.0,
-    "diff_abs": 2664.0,
-    "diff_pct": 99.81
-  },
-  {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada h20! manzana x 1,5 lt. sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1459.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1291.0,
-    "diff_pct": 88.49
-  },
-  {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada h2o pomelo x 1,5 lt. sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1459.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1291.0,
-    "diff_pct": 88.49
-  },
-  {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1459.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1291.0,
-    "diff_pct": 88.49
+    "precio_antes": 4339.0,
+    "precio_hoy": 8670.0,
+    "diff_abs": 4331.0,
+    "diff_pct": 99.82
   },
   {
     "ean": "2037320000005",
@@ -81,24 +45,6 @@
     "diff_pct": 87.61
   },
   {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2o sin gas x 2 litros limoneto",
-    "categoria": "Bebidas",
-    "precio_antes": 1569.0,
-    "precio_hoy": 2850.0,
-    "diff_abs": 1281.0,
-    "diff_pct": 81.64
-  },
-  {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada h2o x 2 lt manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1569.0,
-    "precio_hoy": 2850.0,
-    "diff_abs": 1281.0,
-    "diff_pct": 81.64
-  },
-  {
     "ean": "7790040150010",
     "nombre": "alfajor cofler x 60 gr choco creamy",
     "categoria": "Almacen",
@@ -108,13 +54,13 @@
     "diff_pct": 77.15
   },
   {
-    "ean": "7791813402015",
-    "nombre": "agua pomelo h2o x 500 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 849.0,
-    "precio_hoy": 1400.0,
-    "diff_abs": 551.0,
-    "diff_pct": 64.9
+    "ean": "7793890261912",
+    "nombre": "madalenas bimbo  x 240 gm vainilla",
+    "categoria": "Perfumeria",
+    "precio_antes": 2129.0,
+    "precio_hoy": 3333.0,
+    "diff_abs": 1204.0,
+    "diff_pct": 56.55
   },
   {
     "ean": "7790040147751",
@@ -124,15 +70,6 @@
     "precio_hoy": 1820.0,
     "diff_abs": 651.0,
     "diff_pct": 55.69
-  },
-  {
-    "ean": "7790040141285",
-    "nombre": "snack saladix cross picante x 67 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1196.0,
-    "diff_abs": 427.0,
-    "diff_pct": 55.53
   },
   {
     "ean": "7797906054925",
@@ -178,5 +115,68 @@
     "precio_hoy": 3994.0,
     "diff_abs": 1385.0,
     "diff_pct": 53.09
+  },
+  {
+    "ean": "7798048720266",
+    "nombre": "arroz don elio doble carolina x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1099.0,
+    "precio_hoy": 1593.0,
+    "diff_abs": 494.0,
+    "diff_pct": 44.95
+  },
+  {
+    "ean": "7792798013357",
+    "nombre": "cerv.budweiser x710ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2589.0,
+    "precio_hoy": 3700.0,
+    "diff_abs": 1111.0,
+    "diff_pct": 42.91
+  },
+  {
+    "ean": "7790070431578",
+    "nombre": "arrozgallo doble carolina x 1 kilo estuche",
+    "categoria": "Almacen",
+    "precio_antes": 4458.0,
+    "precio_hoy": 6365.0,
+    "diff_abs": 1907.0,
+    "diff_pct": 42.78
+  },
+  {
+    "ean": "7793147574222",
+    "nombre": "cerveza scheider x 473 ml lata sabor limon",
+    "categoria": "Bebidas",
+    "precio_antes": 1589.0,
+    "precio_hoy": 2267.0,
+    "diff_abs": 678.0,
+    "diff_pct": 42.67
+  },
+  {
+    "ean": "7792798002122",
+    "nombre": "cerveza andes roja x 1 lt. retornable",
+    "categoria": "Bebidas",
+    "precio_antes": 3509.0,
+    "precio_hoy": 5000.0,
+    "diff_abs": 1491.0,
+    "diff_pct": 42.49
+  },
+  {
+    "ean": "7790895064166",
+    "nombre": "gaseosa sprite zero x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3279.0,
+    "precio_hoy": 4660.0,
+    "diff_abs": 1381.0,
+    "diff_pct": 42.12
+  },
+  {
+    "ean": "7790895001000",
+    "nombre": "gaseosa lima limon sprite x 2.25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3279.0,
+    "precio_hoy": 4660.0,
+    "diff_abs": 1381.0,
+    "diff_pct": 42.12
   }
 ]

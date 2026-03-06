@@ -1,147 +1,147 @@
 {
-  "fecha": "20260305",
-  "total_productos": 5458,
-  "variacion_dia": -0.92,
-  "variacion_7d": 0.92,
+  "fecha": "20260306",
+  "total_productos": 5417,
+  "variacion_dia": -0.43,
+  "variacion_7d": 0.39,
   "variacion_mes": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -1.36,
-      "productos_subieron": 0,
-      "productos_bajaron": 51,
-      "total_productos": 1217
+      "variacion_pct_promedio": -2.23,
+      "productos_subieron": 10,
+      "productos_bajaron": 109,
+      "total_productos": 1216
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.12,
-      "productos_subieron": 1,
-      "productos_bajaron": 9,
-      "total_productos": 1102
+      "variacion_pct_promedio": 0.18,
+      "productos_subieron": 73,
+      "productos_bajaron": 5,
+      "total_productos": 1088
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -2.82,
-      "productos_subieron": 3,
-      "productos_bajaron": 38,
-      "total_productos": 192
+      "variacion_pct_promedio": -0.13,
+      "productos_subieron": 2,
+      "productos_bajaron": 2,
+      "total_productos": 190
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.01,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 652
+      "total_productos": 650
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -1.25,
-      "productos_subieron": 2,
-      "productos_bajaron": 49,
-      "total_productos": 792
+      "variacion_pct_promedio": 0.05,
+      "productos_subieron": 6,
+      "productos_bajaron": 0,
+      "total_productos": 783
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -1.16,
-      "productos_subieron": 3,
-      "productos_bajaron": 108,
-      "total_productos": 1500
+      "variacion_pct_promedio": 0.11,
+      "productos_subieron": 39,
+      "productos_bajaron": 16,
+      "total_productos": 1479
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7622201704148",
-      "nombre": "jugo en polvo clight mandarina x 8 gr.",
+      "ean": "7862109430934",
+      "nombre": "gatorade x 473 ml frutos tropicales",
       "categoria": "Bebidas",
-      "precio_antes": 581.0,
-      "precio_hoy": 279.0,
-      "diff_abs": -302.0,
-      "diff_pct": -51.98
+      "precio_antes": 5333.0,
+      "precio_hoy": 2669.0,
+      "diff_abs": -2664.0,
+      "diff_pct": -49.95
     },
     {
-      "ean": "7622201746490",
-      "nombre": "jugo en polvo tang x 15 gr. frutilla",
+      "ean": "7791813405030",
+      "nombre": "agua saborizada h2o x 2 lt manzana",
       "categoria": "Bebidas",
-      "precio_antes": 556.0,
-      "precio_hoy": 279.0,
-      "diff_abs": -277.0,
-      "diff_pct": -49.82
+      "precio_antes": 2850.0,
+      "precio_hoy": 1569.0,
+      "diff_abs": -1281.0,
+      "diff_pct": -44.95
     },
     {
-      "ean": "7622201745936",
-      "nombre": "jugo tang durazno x15gr.",
+      "ean": "7791813405023",
+      "nombre": "agua saborizada h2o sin gas x 2 litros limoneto",
       "categoria": "Bebidas",
-      "precio_antes": 556.0,
-      "precio_hoy": 279.0,
-      "diff_abs": -277.0,
-      "diff_pct": -49.82
+      "precio_antes": 2850.0,
+      "precio_hoy": 1569.0,
+      "diff_abs": -1281.0,
+      "diff_pct": -44.95
     },
     {
-      "ean": "7622201733865",
-      "nombre": "jugo tang mandarina x 15 gm",
+      "ean": "7791813403012",
+      "nombre": "agua saborizada h2o pomelo x 1,5 lt. sin gas",
       "categoria": "Bebidas",
-      "precio_antes": 556.0,
-      "precio_hoy": 279.0,
-      "diff_abs": -277.0,
-      "diff_pct": -49.82
+      "precio_antes": 2750.0,
+      "precio_hoy": 1519.0,
+      "diff_abs": -1231.0,
+      "diff_pct": -44.76
     },
     {
-      "ean": "77939234",
-      "nombre": "alfajor terrabusi chocolate",
-      "categoria": "Almacen",
-      "precio_antes": 1943.0,
-      "precio_hoy": 1129.0,
-      "diff_abs": -814.0,
-      "diff_pct": -41.89
+      "ean": "7791813403029",
+      "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+      "categoria": "Bebidas",
+      "precio_antes": 2750.0,
+      "precio_hoy": 1519.0,
+      "diff_abs": -1231.0,
+      "diff_pct": -44.76
     },
     {
-      "ean": "7500810034330",
-      "nombre": "snack takis fuego x 140 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 4752.0,
-      "precio_hoy": 2829.0,
-      "diff_abs": -1923.0,
-      "diff_pct": -40.47
+      "ean": "7791813403036",
+      "nombre": "agua saborizada h20! manzana x 1,5 lt. sin gas",
+      "categoria": "Bebidas",
+      "precio_antes": 2750.0,
+      "precio_hoy": 1519.0,
+      "diff_abs": -1231.0,
+      "diff_pct": -44.76
     },
     {
-      "ean": "7500810034347",
-      "nombre": "snack takis xplosion x 140 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 4752.0,
-      "precio_hoy": 2829.0,
-      "diff_abs": -1923.0,
-      "diff_pct": -40.47
+      "ean": "7791813402015",
+      "nombre": "agua pomelo h2o x 500 ml",
+      "categoria": "Bebidas",
+      "precio_antes": 1400.0,
+      "precio_hoy": 909.0,
+      "diff_abs": -491.0,
+      "diff_pct": -35.07
     },
     {
-      "ean": "7500810034354",
-      "nombre": "snack takis original x 140 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 4752.0,
-      "precio_hoy": 2829.0,
-      "diff_abs": -1923.0,
-      "diff_pct": -40.47
+      "ean": "7792798008858",
+      "nombre": "cerveza temple wolf ipa x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 4400.0,
+      "precio_hoy": 2859.0,
+      "diff_abs": -1541.0,
+      "diff_pct": -35.02
     },
     {
-      "ean": "7500810041741",
-      "nombre": "snack takis x 140 gm intense",
-      "categoria": "Almacen",
-      "precio_antes": 4751.0,
-      "precio_hoy": 2829.0,
-      "diff_abs": -1922.0,
-      "diff_pct": -40.45
+      "ean": "7795930000550",
+      "nombre": "agua mineral glaciar x 6,3 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 8581.0,
+      "precio_hoy": 5749.0,
+      "diff_abs": -2832.0,
+      "diff_pct": -33.0
     },
     {
-      "ean": "7500810034361",
-      "nombre": "snack takis fuego x 85 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2965.0,
-      "precio_hoy": 1769.0,
-      "diff_abs": -1196.0,
-      "diff_pct": -40.34
+      "ean": "7792799000899",
+      "nombre": "agua mineral nestle pureza vital x 500 ml. sin gas",
+      "categoria": "Bebidas",
+      "precio_antes": 1609.0,
+      "precio_hoy": 1079.0,
+      "diff_abs": -530.0,
+      "diff_pct": -32.94
     }
   ],
-  "productos_subieron_dia": 10,
-  "productos_bajaron_dia": 255,
-  "productos_sin_cambio_dia": 5190
+  "productos_subieron_dia": 130,
+  "productos_bajaron_dia": 132,
+  "productos_sin_cambio_dia": 5144
 }
