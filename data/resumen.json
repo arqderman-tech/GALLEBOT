@@ -1,13 +1,147 @@
 {
-  "fecha": "20260307",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
+  "fecha": "20260308",
+  "total_productos": 5382,
+  "variacion_dia": 0.06,
+  "variacion_7d": -0.45,
   "variacion_mes": null,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1206
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": 0.24,
+      "productos_subieron": 28,
+      "productos_bajaron": 5,
+      "total_productos": 1062
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 5,
+      "productos_bajaron": 3,
+      "total_productos": 188
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 645
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.03,
+      "productos_subieron": 1,
+      "productos_bajaron": 2,
+      "total_productos": 781
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 12,
+      "productos_bajaron": 19,
+      "total_productos": 1473
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "2022220000002",
+      "nombre": "tomate redondo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2990.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -33.44
+    },
+    {
+      "ean": "2020910000004",
+      "nombre": "lechuga de hoja x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -20.04
+    },
+    {
+      "ean": "2021680000003",
+      "nombre": "zapallo brasilero x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 1190.0,
+      "precio_hoy": 990.0,
+      "diff_abs": -200.0,
+      "diff_pct": -16.81
+    },
+    {
+      "ean": "2020350000008",
+      "nombre": "chaucha ballina x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -14.31
+    },
+    {
+      "ean": "2020370000002",
+      "nombre": "chaucha rolliza x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -14.31
+    },
+    {
+      "ean": "7790070432490",
+      "nombre": "gelatina exquisita frutilla x 40 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1220.0,
+      "precio_hoy": 1122.0,
+      "diff_abs": -98.0,
+      "diff_pct": -8.03
+    },
+    {
+      "ean": "7790070432353",
+      "nombre": "mousse exquisita dulce de leche x 95 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 2691.0,
+      "precio_hoy": 2475.0,
+      "diff_abs": -216.0,
+      "diff_pct": -8.03
+    },
+    {
+      "ean": "7790070432513",
+      "nombre": "gelatina sabor cereza exquisita x 40 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1220.0,
+      "precio_hoy": 1122.0,
+      "diff_abs": -98.0,
+      "diff_pct": -8.03
+    },
+    {
+      "ean": "7790070432452",
+      "nombre": "gelatina exquisita light cereza x 25 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1220.0,
+      "precio_hoy": 1122.0,
+      "diff_abs": -98.0,
+      "diff_pct": -8.03
+    },
+    {
+      "ean": "7790070432575",
+      "nombre": "gelatina exquisita naranja x 40 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1220.0,
+      "precio_hoy": 1122.0,
+      "diff_abs": -98.0,
+      "diff_pct": -8.03
+    }
+  ],
+  "productos_subieron_dia": 46,
+  "productos_bajaron_dia": 29,
+  "productos_sin_cambio_dia": 5280
 }

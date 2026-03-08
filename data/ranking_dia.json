@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790070431578",
-    "nombre": "arrozgallo doble carolina x 1 kilo estuche",
-    "categoria": "Almacen",
-    "precio_antes": 4458.0,
-    "precio_hoy": 6365.0,
-    "diff_abs": 1907.0,
-    "diff_pct": 42.78
+    "ean": "7798338290479",
+    "nombre": "leche apostoles x 1 litro entera larga vida",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1389.0,
+    "precio_hoy": 2753.0,
+    "diff_abs": 1364.0,
+    "diff_pct": 98.2
   },
   {
-    "ean": "7790070412126",
-    "nombre": "arroz maximo largo fino x 1 kg.",
-    "categoria": "Almacen",
-    "precio_antes": 1643.0,
-    "precio_hoy": 2184.0,
-    "diff_abs": 541.0,
-    "diff_pct": 32.93
+    "ean": "7798338290110",
+    "nombre": "leche apostoles descremada larga vida x 1 litro",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1389.0,
+    "precio_hoy": 2753.0,
+    "diff_abs": 1364.0,
+    "diff_pct": 98.2
   },
   {
-    "ean": "7790070412171",
-    "nombre": "arroz maximo largo fino x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 861.0,
-    "precio_hoy": 1144.0,
-    "diff_abs": 283.0,
-    "diff_pct": 32.87
-  },
-  {
-    "ean": "8445291586864",
-    "nombre": "cafe molido torrado nescafe dolca x 190 gm",
+    "ean": "7790150831106",
+    "nombre": "bolitas de cereal chocolino x 200 gr.",
     "categoria": "Perfumeria",
-    "precio_antes": 5599.0,
-    "precio_hoy": 7058.0,
-    "diff_abs": 1459.0,
-    "diff_pct": 26.06
+    "precio_antes": 2729.0,
+    "precio_hoy": 3853.0,
+    "diff_abs": 1124.0,
+    "diff_pct": 41.19
   },
   {
-    "ean": "7790670052418",
-    "nombre": "salchicha vienissima x 12 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4709.0,
-    "precio_hoy": 5616.0,
-    "diff_abs": 907.0,
-    "diff_pct": 19.26
-  },
-  {
-    "ean": "7790070631220",
-    "nombre": "tapas ppascualina la saltena remolacha x 380 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4084.0,
-    "precio_hoy": 4825.0,
-    "diff_abs": 741.0,
-    "diff_pct": 18.14
-  },
-  {
-    "ean": "7792180134509",
-    "nombre": "harina para pizza blancaflor x 1 kg.",
+    "ean": "7790150830482",
+    "nombre": "cacao chocolino x 800 gr.",
     "categoria": "Almacen",
-    "precio_antes": 1781.0,
-    "precio_hoy": 2098.0,
-    "diff_abs": 317.0,
-    "diff_pct": 17.8
+    "precio_antes": 7849.0,
+    "precio_hoy": 11007.0,
+    "diff_abs": 3158.0,
+    "diff_pct": 40.23
   },
   {
-    "ean": "2030650000004",
-    "nombre": "12 pollo x kilo",
+    "ean": "7790150830468",
+    "nombre": "cacao en polvo chocolino x 360 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3528.88,
+    "precio_hoy": 4599.0,
+    "diff_abs": 1070.12,
+    "diff_pct": 30.32
+  },
+  {
+    "ean": "7790150830406",
+    "nombre": "cacao chocolino menos azucar x 300 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4768.8,
+    "precio_hoy": 6210.0,
+    "diff_abs": 1441.2,
+    "diff_pct": 30.22
+  },
+  {
+    "ean": "7790150830444",
+    "nombre": "cacao en polvo chocolino x 180 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1789.0,
+    "precio_hoy": 2321.0,
+    "diff_abs": 532.0,
+    "diff_pct": 29.74
+  },
+  {
+    "ean": "2023940000006",
+    "nombre": "mondongo * x kg.",
     "categoria": "Carniceria",
-    "precio_antes": 4967.0,
-    "precio_hoy": 5817.0,
-    "diff_abs": 850.0,
-    "diff_pct": 17.11
+    "precio_antes": 7596.0,
+    "precio_hoy": 9055.0,
+    "diff_abs": 1459.0,
+    "diff_pct": 19.21
   },
   {
-    "ean": "7790070764041",
-    "nombre": "cocktail emilia spritz x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 9325.0,
-    "precio_hoy": 10597.0,
-    "diff_abs": 1272.0,
-    "diff_pct": 13.64
+    "ean": "2023970000007",
+    "nombre": "rabos x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 7959.0,
+    "precio_hoy": 9051.0,
+    "diff_abs": 1092.0,
+    "diff_pct": 13.72
   },
   {
-    "ean": "7790070764034",
-    "nombre": "cocktail emilia sangria x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 9325.0,
-    "precio_hoy": 10597.0,
-    "diff_abs": 1272.0,
-    "diff_pct": 13.64
+    "ean": "2024010000001",
+    "nombre": "tripa gorda x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 5529.0,
+    "precio_hoy": 6192.0,
+    "diff_abs": 663.0,
+    "diff_pct": 11.99
   },
   {
-    "ean": "7790070764027",
-    "nombre": "cocktail emilia rose x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 9325.0,
-    "precio_hoy": 10597.0,
-    "diff_abs": 1272.0,
-    "diff_pct": 13.64
+    "ean": "2023890000002",
+    "nombre": "entrana x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 12757.0,
+    "precio_hoy": 14215.0,
+    "diff_abs": 1458.0,
+    "diff_pct": 11.43
   },
   {
-    "ean": "7790070764010",
-    "nombre": "cocktail emilia clarea x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 9325.0,
-    "precio_hoy": 10597.0,
-    "diff_abs": 1272.0,
-    "diff_pct": 13.64
-  },
-  {
-    "ean": "7790070760555",
-    "nombre": "vino blanco benjamin nieto chardonnay x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 5875.0,
-    "precio_hoy": 6676.0,
-    "diff_abs": 801.0,
-    "diff_pct": 13.63
-  },
-  {
-    "ean": "7790070760647",
-    "nombre": "vino benjamin nieto x 750 ml malbec-cabernet",
-    "categoria": "Bebidas",
-    "precio_antes": 5502.0,
-    "precio_hoy": 6252.0,
-    "diff_abs": 750.0,
-    "diff_pct": 13.63
-  },
-  {
-    "ean": "7793440000619",
-    "nombre": "vino blanco dulce benjamin cosecha tardia x 750 m.",
-    "categoria": "Bebidas",
-    "precio_antes": 5502.0,
-    "precio_hoy": 6252.0,
-    "diff_abs": 750.0,
-    "diff_pct": 13.63
-  },
-  {
-    "ean": "7790070760630",
-    "nombre": "vino benjamin nieto rosado dulce x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 5875.0,
-    "precio_hoy": 6676.0,
-    "diff_abs": 801.0,
-    "diff_pct": 13.63
-  },
-  {
-    "ean": "7790070760623",
-    "nombre": "vino benjamin  nieto x 750 ml blanco dulce",
-    "categoria": "Bebidas",
-    "precio_antes": 5875.0,
-    "precio_hoy": 6676.0,
-    "diff_abs": 801.0,
-    "diff_pct": 13.63
-  },
-  {
-    "ean": "7790070760579",
-    "nombre": "vino benj.nieto x750ml.malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 5502.0,
-    "precio_hoy": 6252.0,
-    "diff_abs": 750.0,
-    "diff_pct": 13.63
-  },
-  {
-    "ean": "7790070036032",
-    "nombre": "mil.soja gr.sol x380gr.rel.eq",
-    "categoria": "Congelados",
-    "precio_antes": 6265.0,
-    "precio_hoy": 7040.0,
-    "diff_abs": 775.0,
-    "diff_pct": 12.37
-  },
-  {
-    "ean": "7891000379073",
-    "nombre": "chocolate kit-kat dark x 41,5 gr.",
+    "ean": "7798132920435",
+    "nombre": "coctel 4 frutas alco x 820 gr.",
     "categoria": "Almacen",
-    "precio_antes": 1699.0,
-    "precio_hoy": 1907.0,
-    "diff_abs": 208.0,
-    "diff_pct": 12.24
+    "precio_antes": 3130.0,
+    "precio_hoy": 3434.0,
+    "diff_abs": 304.0,
+    "diff_pct": 9.71
+  },
+  {
+    "ean": "7798132920428",
+    "nombre": "peras en mitades alco x 820 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2452.0,
+    "precio_hoy": 2689.0,
+    "diff_abs": 237.0,
+    "diff_pct": 9.67
+  },
+  {
+    "ean": "7798132920404",
+    "nombre": "duraznos en almibar alco light x 820 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2452.0,
+    "precio_hoy": 2688.0,
+    "diff_abs": 236.0,
+    "diff_pct": 9.62
+  },
+  {
+    "ean": "7798132920398",
+    "nombre": "duraznos en mitades alco x 820 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2452.0,
+    "precio_hoy": 2688.0,
+    "diff_abs": 236.0,
+    "diff_pct": 9.62
+  },
+  {
+    "ean": "7798415760338",
+    "nombre": "empanadas blink osobuco x 6 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 12563.0,
+    "precio_hoy": 13216.0,
+    "diff_abs": 653.0,
+    "diff_pct": 5.2
+  },
+  {
+    "ean": "7798415760215",
+    "nombre": "empanadas blink espinaca y parmesano x 6 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 12563.0,
+    "precio_hoy": 13216.0,
+    "diff_abs": 653.0,
+    "diff_pct": 5.2
+  },
+  {
+    "ean": "7798415760253",
+    "nombre": "empanadas blink pollo x 6 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 12563.0,
+    "precio_hoy": 13216.0,
+    "diff_abs": 653.0,
+    "diff_pct": 5.2
+  },
+  {
+    "ean": "7798415760277",
+    "nombre": "empanadas blink portobello x 6 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 12563.0,
+    "precio_hoy": 13216.0,
+    "diff_abs": 653.0,
+    "diff_pct": 5.2
+  },
+  {
+    "ean": "7798415760154",
+    "nombre": "empanadas blink carne x 6 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 12563.0,
+    "precio_hoy": 13216.0,
+    "diff_abs": 653.0,
+    "diff_pct": 5.2
   }
 ]
