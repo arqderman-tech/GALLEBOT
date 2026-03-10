@@ -9,60 +9,6 @@
     "diff_pct": 100.5
   },
   {
-    "ean": "2020410000009",
-    "nombre": "choclo elegido x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 100.5
-  },
-  {
-    "ean": "7790168075707",
-    "nombre": "vino graffigna pinot grigio x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4339.0,
-    "precio_hoy": 8670.0,
-    "diff_abs": 4331.0,
-    "diff_pct": 99.82
-  },
-  {
-    "ean": "7790168075677",
-    "nombre": "vino tinto graffigna syrah x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4339.0,
-    "precio_hoy": 8670.0,
-    "diff_abs": 4331.0,
-    "diff_pct": 99.82
-  },
-  {
-    "ean": "7798338290110",
-    "nombre": "leche apostoles descremada larga vida x 1 litro",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1389.0,
-    "precio_hoy": 2753.0,
-    "diff_abs": 1364.0,
-    "diff_pct": 98.2
-  },
-  {
-    "ean": "7798338290479",
-    "nombre": "leche apostoles x 1 litro entera larga vida",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1389.0,
-    "precio_hoy": 2753.0,
-    "diff_abs": 1364.0,
-    "diff_pct": 98.2
-  },
-  {
-    "ean": "2037320000005",
-    "nombre": "curcuma x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 14990.0,
-    "diff_abs": 7000.0,
-    "diff_pct": 87.61
-  },
-  {
     "ean": "7793890261912",
     "nombre": "madalenas bimbo  x 240 gm vainilla",
     "categoria": "Perfumeria",
@@ -81,33 +27,6 @@
     "diff_pct": 54.11
   },
   {
-    "ean": "7790168075684",
-    "nombre": "vino graffigna centenario malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 5639.0,
-    "precio_hoy": 8670.0,
-    "diff_abs": 3031.0,
-    "diff_pct": 53.75
-  },
-  {
-    "ean": "7790168075660",
-    "nombre": "vino tinto graffigna cabernet sauvignon x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 5639.0,
-    "precio_hoy": 8670.0,
-    "diff_abs": 3031.0,
-    "diff_pct": 53.75
-  },
-  {
-    "ean": "7790168903680",
-    "nombre": "vino tinto graffigna glorious malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 7359.0,
-    "precio_hoy": 11310.0,
-    "diff_abs": 3951.0,
-    "diff_pct": 53.69
-  },
-  {
     "ean": "7790670051015",
     "nombre": "medallones de carne barfy x 276 gr.",
     "categoria": "Congelados",
@@ -117,15 +36,6 @@
     "diff_pct": 53.09
   },
   {
-    "ean": "7792798013357",
-    "nombre": "cerv.budweiser x710ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2589.0,
-    "precio_hoy": 3700.0,
-    "diff_abs": 1111.0,
-    "diff_pct": 42.91
-  },
-  {
     "ean": "7790070431578",
     "nombre": "arrozgallo doble carolina x 1 kilo estuche",
     "categoria": "Almacen",
@@ -133,33 +43,6 @@
     "precio_hoy": 6365.0,
     "diff_abs": 1907.0,
     "diff_pct": 42.78
-  },
-  {
-    "ean": "7793147574222",
-    "nombre": "cerveza scheider x 473 ml lata sabor limon",
-    "categoria": "Bebidas",
-    "precio_antes": 1589.0,
-    "precio_hoy": 2267.0,
-    "diff_abs": 678.0,
-    "diff_pct": 42.67
-  },
-  {
-    "ean": "7792798002122",
-    "nombre": "cerveza andes roja x 1 lt. retornable",
-    "categoria": "Bebidas",
-    "precio_antes": 3509.0,
-    "precio_hoy": 5000.0,
-    "diff_abs": 1491.0,
-    "diff_pct": 42.49
-  },
-  {
-    "ean": "7792798002757",
-    "nombre": "cerveza andes ipa retornable x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 3509.0,
-    "precio_hoy": 5000.0,
-    "diff_abs": 1491.0,
-    "diff_pct": 42.49
   },
   {
     "ean": "7790150831106",
@@ -178,5 +61,122 @@
     "precio_hoy": 11007.0,
     "diff_abs": 3158.0,
     "diff_pct": 40.23
+  },
+  {
+    "ean": "2016350000001",
+    "nombre": "dulce de membrillo en caja dulcor x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3929.0,
+    "precio_hoy": 5409.0,
+    "diff_abs": 1480.0,
+    "diff_pct": 37.67
+  },
+  {
+    "ean": "7793046004141",
+    "nombre": "dulce de membrillo dulcor sachet x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2239.0,
+    "precio_hoy": 3024.0,
+    "diff_abs": 785.0,
+    "diff_pct": 35.06
+  },
+  {
+    "ean": "2020410000009",
+    "nombre": "choclo elegido x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
+  },
+  {
+    "ean": "7790070412126",
+    "nombre": "arroz maximo largo fino x 1 kg.",
+    "categoria": "Almacen",
+    "precio_antes": 1643.0,
+    "precio_hoy": 2184.0,
+    "diff_abs": 541.0,
+    "diff_pct": 32.93
+  },
+  {
+    "ean": "7790070412171",
+    "nombre": "arroz maximo largo fino x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 861.0,
+    "precio_hoy": 1144.0,
+    "diff_abs": 283.0,
+    "diff_pct": 32.87
+  },
+  {
+    "ean": "7790150830444",
+    "nombre": "cacao en polvo chocolino x 180 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1789.0,
+    "precio_hoy": 2321.0,
+    "diff_abs": 532.0,
+    "diff_pct": 29.74
+  },
+  {
+    "ean": "7793046004257",
+    "nombre": "dulce de membrillo cormillot x 430 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2409.0,
+    "precio_hoy": 3066.0,
+    "diff_abs": 657.0,
+    "diff_pct": 27.27
+  },
+  {
+    "ean": "8445291586864",
+    "nombre": "cafe molido torrado nescafe dolca x 190 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 5599.0,
+    "precio_hoy": 7058.0,
+    "diff_abs": 1459.0,
+    "diff_pct": 26.06
+  },
+  {
+    "ean": "7790670052418",
+    "nombre": "salchicha vienissima x 12 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4469.0,
+    "precio_hoy": 5616.0,
+    "diff_abs": 1147.0,
+    "diff_pct": 25.67
+  },
+  {
+    "ean": "7790670052401",
+    "nombre": "salchicha vienissima x 6 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2339.0,
+    "precio_hoy": 2936.0,
+    "diff_abs": 597.0,
+    "diff_pct": 25.52
+  },
+  {
+    "ean": "2037400000000",
+    "nombre": "queso santa rosa provoleta ahumada envasada al vacio x kilo",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 33013.0,
+    "precio_hoy": 41393.0,
+    "diff_abs": 8380.0,
+    "diff_pct": 25.38
+  },
+  {
+    "ean": "2021780000002",
+    "nombre": "perejil x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
+  },
+  {
+    "ean": "7790670052678",
+    "nombre": "hamburguesas paty de casa x 2 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 5109.0,
+    "precio_hoy": 6267.0,
+    "diff_abs": 1158.0,
+    "diff_pct": 22.67
   }
 ]

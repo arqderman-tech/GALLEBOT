@@ -1,147 +1,147 @@
 {
-  "fecha": "20260309",
-  "total_productos": 5361,
-  "variacion_dia": -0.01,
-  "variacion_7d": -0.3,
+  "fecha": "20260310",
+  "total_productos": 5362,
+  "variacion_dia": 0.01,
+  "variacion_7d": -1.44,
   "variacion_mes": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1214
+      "variacion_pct_promedio": 0.12,
+      "productos_subieron": 20,
+      "productos_bajaron": 11,
+      "total_productos": 1211
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1061
+      "variacion_pct_promedio": 0.28,
+      "productos_subieron": 97,
+      "productos_bajaron": 13,
+      "total_productos": 1052
     },
     {
       "categoria": "Congelados",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 186
+      "total_productos": 185
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 645
+      "total_productos": 644
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 780
+      "variacion_pct_promedio": -0.27,
+      "productos_subieron": 13,
+      "productos_bajaron": 34,
+      "total_productos": 775
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.02,
-      "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "total_productos": 1472
+      "variacion_pct_promedio": -0.11,
+      "productos_subieron": 31,
+      "productos_bajaron": 31,
+      "total_productos": 1467
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790150830468",
-      "nombre": "cacao en polvo chocolino x 360 gr.",
+      "ean": "7798338290479",
+      "nombre": "leche apostoles x 1 litro entera larga vida",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2753.0,
+      "precio_hoy": 1389.0,
+      "diff_abs": -1364.0,
+      "diff_pct": -49.55
+    },
+    {
+      "ean": "7798338290110",
+      "nombre": "leche apostoles descremada larga vida x 1 litro",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2753.0,
+      "precio_hoy": 1389.0,
+      "diff_abs": -1364.0,
+      "diff_pct": -49.55
+    },
+    {
+      "ean": "7898024394181",
+      "nombre": "pasta de avellanas y chocolate nutella x 350 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 10888.0,
+      "precio_hoy": 7439.0,
+      "diff_abs": -3449.0,
+      "diff_pct": -31.68
+    },
+    {
+      "ean": "7790580133955",
+      "nombre": "harina de maiz ppreparar arepas prestopronta x 1",
       "categoria": "Almacen",
-      "precio_antes": 4599.0,
-      "precio_hoy": 3909.0,
-      "diff_abs": -690.0,
-      "diff_pct": -15.0
+      "precio_antes": 3731.0,
+      "precio_hoy": 2689.0,
+      "diff_abs": -1042.0,
+      "diff_pct": -27.93
     },
     {
-      "ean": "7790150830406",
-      "nombre": "cacao chocolino menos azucar x 300 gr.",
+      "ean": "78600027",
+      "nombre": "pastillas tic tac naranja x 16 gr.",
       "categoria": "Almacen",
-      "precio_antes": 6210.0,
-      "precio_hoy": 5279.0,
-      "diff_abs": -931.0,
-      "diff_pct": -14.99
+      "precio_antes": 1101.0,
+      "precio_hoy": 799.0,
+      "diff_abs": -302.0,
+      "diff_pct": -27.43
     },
     {
-      "ean": "7790387014136",
-      "nombre": "yerba mate union liviana x 1 kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 5190.0,
-      "precio_hoy": 5190.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7797394001265",
+      "nombre": "pastillas tic tac mix de frutas x 16 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1101.0,
+      "precio_hoy": 799.0,
+      "diff_abs": -302.0,
+      "diff_pct": -27.43
     },
     {
-      "ean": "7790387014624",
-      "nombre": "yerba mate union 4 flex x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2305.0,
-      "precio_hoy": 2305.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "78600010",
+      "nombre": "pastillas tic tac menta x 16 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1101.0,
+      "precio_hoy": 799.0,
+      "diff_abs": -302.0,
+      "diff_pct": -27.43
     },
     {
-      "ean": "7790387014617",
-      "nombre": "yerba mate union 4 flex x 1 kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 4420.0,
-      "precio_hoy": 4420.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790580151881",
+      "nombre": "pure tomate la campagnola  x 340 gm passats",
+      "categoria": "Almacen",
+      "precio_antes": 1954.0,
+      "precio_hoy": 1519.0,
+      "diff_abs": -435.0,
+      "diff_pct": -22.26
     },
     {
-      "ean": "7790387013634",
-      "nombre": "yerba mate taragui x 250 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 1300.0,
-      "precio_hoy": 1300.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790580151898",
+      "nombre": "pure de tomate salsati x 340 gm passata",
+      "categoria": "Almacen",
+      "precio_antes": 2247.0,
+      "precio_hoy": 1749.0,
+      "diff_abs": -498.0,
+      "diff_pct": -22.16
     },
     {
-      "ean": "7790387013504",
-      "nombre": "yerba mate taragui sin palo x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 3239.0,
-      "precio_hoy": 3239.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7790387013498",
-      "nombre": "yerba mate taragui sin palo x 1 kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 6260.0,
-      "precio_hoy": 6260.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7790387013627",
-      "nombre": "yerba mate taragui 4 flex x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2305.0,
-      "precio_hoy": 2305.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7790387013610",
-      "nombre": "yerba mate taragui 4 flex x 1 kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 4420.0,
-      "precio_hoy": 4420.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790580142766",
+      "nombre": "jugo polvo arcor durazno x15g",
+      "categoria": "Bebidas",
+      "precio_antes": 345.0,
+      "precio_hoy": 269.0,
+      "diff_abs": -76.0,
+      "diff_pct": -22.03
     }
   ],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 2,
-  "productos_sin_cambio_dia": 5356
+  "productos_subieron_dia": 161,
+  "productos_bajaron_dia": 89,
+  "productos_sin_cambio_dia": 5084
 }
