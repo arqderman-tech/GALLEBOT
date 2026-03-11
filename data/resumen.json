@@ -1,31 +1,31 @@
 {
-  "fecha": "20260310",
-  "total_productos": 5362,
-  "variacion_dia": 0.01,
-  "variacion_7d": -1.44,
+  "fecha": "20260311",
+  "total_productos": 5408,
+  "variacion_dia": 0.8,
+  "variacion_7d": -0.52,
   "variacion_mes": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.12,
-      "productos_subieron": 20,
-      "productos_bajaron": 11,
-      "total_productos": 1211
+      "variacion_pct_promedio": 3.16,
+      "productos_subieron": 247,
+      "productos_bajaron": 4,
+      "total_productos": 1213
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.28,
-      "productos_subieron": 97,
-      "productos_bajaron": 13,
-      "total_productos": 1052
+      "variacion_pct_promedio": -0.28,
+      "productos_subieron": 10,
+      "productos_bajaron": 17,
+      "total_productos": 1069
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 185
+      "variacion_pct_promedio": 2.83,
+      "productos_subieron": 25,
+      "productos_bajaron": 16,
+      "total_productos": 186
     },
     {
       "categoria": "Limpieza",
@@ -36,112 +36,112 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.27,
-      "productos_subieron": 13,
-      "productos_bajaron": 34,
+      "variacion_pct_promedio": 0.05,
+      "productos_subieron": 41,
+      "productos_bajaron": 10,
       "total_productos": 775
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.11,
-      "productos_subieron": 31,
-      "productos_bajaron": 31,
-      "total_productos": 1467
+      "variacion_pct_promedio": 0.14,
+      "productos_subieron": 81,
+      "productos_bajaron": 99,
+      "total_productos": 1468
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7798338290479",
-      "nombre": "leche apostoles x 1 litro entera larga vida",
+      "ean": "2019900000001",
+      "nombre": "ajies x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 5990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -3000.0,
+      "diff_pct": -50.08
+    },
+    {
+      "ean": "2018940000002",
+      "nombre": "salame lario tipo crespon x kg.",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2753.0,
-      "precio_hoy": 1389.0,
-      "diff_abs": -1364.0,
-      "diff_pct": -49.55
+      "precio_antes": 36364.0,
+      "precio_hoy": 24279.0,
+      "diff_abs": -12085.0,
+      "diff_pct": -33.23
     },
     {
-      "ean": "7798338290110",
-      "nombre": "leche apostoles descremada larga vida x 1 litro",
+      "ean": "7891000379073",
+      "nombre": "chocolate kit-kat dark x 41,5 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1907.0,
+      "precio_hoy": 1343.0,
+      "diff_abs": -564.0,
+      "diff_pct": -29.58
+    },
+    {
+      "ean": "7891000248799",
+      "nombre": "chocolate kit kat x 41 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1907.0,
+      "precio_hoy": 1343.0,
+      "diff_abs": -564.0,
+      "diff_pct": -29.58
+    },
+    {
+      "ean": "7891000422052",
+      "nombre": "chocolate kit kat triple chocolate x 41,5 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1907.0,
+      "precio_hoy": 1343.0,
+      "diff_abs": -564.0,
+      "diff_pct": -29.58
+    },
+    {
+      "ean": "7891000379028",
+      "nombre": "chocolate kit-kat white x 41,5 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1907.0,
+      "precio_hoy": 1343.0,
+      "diff_abs": -564.0,
+      "diff_pct": -29.58
+    },
+    {
+      "ean": "2019000000000",
+      "nombre": "salamin tandilero lario x kg.",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2753.0,
-      "precio_hoy": 1389.0,
-      "diff_abs": -1364.0,
-      "diff_pct": -49.55
+      "precio_antes": 32716.0,
+      "precio_hoy": 23129.0,
+      "diff_abs": -9587.0,
+      "diff_pct": -29.3
     },
     {
-      "ean": "7898024394181",
-      "nombre": "pasta de avellanas y chocolate nutella x 350 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 10888.0,
-      "precio_hoy": 7439.0,
-      "diff_abs": -3449.0,
-      "diff_pct": -31.68
+      "ean": "2018990000007",
+      "nombre": "salamin lario x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 32716.0,
+      "precio_hoy": 23129.0,
+      "diff_abs": -9587.0,
+      "diff_pct": -29.3
     },
     {
-      "ean": "7790580133955",
-      "nombre": "harina de maiz ppreparar arepas prestopronta x 1",
-      "categoria": "Almacen",
-      "precio_antes": 3731.0,
-      "precio_hoy": 2689.0,
-      "diff_abs": -1042.0,
-      "diff_pct": -27.93
+      "ean": "2018710000003",
+      "nombre": "lomo a las finas hierbas lario x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 35361.0,
+      "precio_hoy": 24999.0,
+      "diff_abs": -10362.0,
+      "diff_pct": -29.3
     },
     {
-      "ean": "78600027",
-      "nombre": "pastillas tic tac naranja x 16 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1101.0,
-      "precio_hoy": 799.0,
-      "diff_abs": -302.0,
-      "diff_pct": -27.43
-    },
-    {
-      "ean": "7797394001265",
-      "nombre": "pastillas tic tac mix de frutas x 16 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1101.0,
-      "precio_hoy": 799.0,
-      "diff_abs": -302.0,
-      "diff_pct": -27.43
-    },
-    {
-      "ean": "78600010",
-      "nombre": "pastillas tic tac menta x 16 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1101.0,
-      "precio_hoy": 799.0,
-      "diff_abs": -302.0,
-      "diff_pct": -27.43
-    },
-    {
-      "ean": "7790580151881",
-      "nombre": "pure tomate la campagnola  x 340 gm passats",
-      "categoria": "Almacen",
-      "precio_antes": 1954.0,
-      "precio_hoy": 1519.0,
-      "diff_abs": -435.0,
-      "diff_pct": -22.26
-    },
-    {
-      "ean": "7790580151898",
-      "nombre": "pure de tomate salsati x 340 gm passata",
-      "categoria": "Almacen",
-      "precio_antes": 2247.0,
-      "precio_hoy": 1749.0,
-      "diff_abs": -498.0,
-      "diff_pct": -22.16
-    },
-    {
-      "ean": "7790580142766",
-      "nombre": "jugo polvo arcor durazno x15g",
-      "categoria": "Bebidas",
-      "precio_antes": 345.0,
-      "precio_hoy": 269.0,
-      "diff_abs": -76.0,
-      "diff_pct": -22.03
+      "ean": "2018810000002",
+      "nombre": "panceta salada lario x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 34874.0,
+      "precio_hoy": 24659.0,
+      "diff_abs": -10215.0,
+      "diff_pct": -29.29
     }
   ],
-  "productos_subieron_dia": 161,
-  "productos_bajaron_dia": 89,
-  "productos_sin_cambio_dia": 5084
+  "productos_subieron_dia": 404,
+  "productos_bajaron_dia": 146,
+  "productos_sin_cambio_dia": 4805
 }

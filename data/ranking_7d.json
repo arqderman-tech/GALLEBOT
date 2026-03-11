@@ -1,12 +1,12 @@
 [
   {
-    "ean": "2021840000003",
-    "nombre": "pimiento verde x kg.",
+    "ean": "2021780000002",
+    "nombre": "perejil x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 3990.0,
+    "precio_antes": 2990.0,
+    "precio_hoy": 4990.0,
     "diff_abs": 2000.0,
-    "diff_pct": 100.5
+    "diff_pct": 66.89
   },
   {
     "ean": "7793890261912",
@@ -27,15 +27,6 @@
     "diff_pct": 54.11
   },
   {
-    "ean": "7790670051015",
-    "nombre": "medallones de carne barfy x 276 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 2609.0,
-    "precio_hoy": 3994.0,
-    "diff_abs": 1385.0,
-    "diff_pct": 53.09
-  },
-  {
     "ean": "7790070431578",
     "nombre": "arrozgallo doble carolina x 1 kilo estuche",
     "categoria": "Almacen",
@@ -45,22 +36,31 @@
     "diff_pct": 42.78
   },
   {
+    "ean": "7790360968548",
+    "nombre": "medallones de carne swift burger x 12 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 10579.0,
+    "precio_hoy": 14956.0,
+    "diff_abs": 4377.0,
+    "diff_pct": 41.37
+  },
+  {
     "ean": "7790150831106",
     "nombre": "bolitas de cereal chocolino x 200 gr.",
     "categoria": "Perfumeria",
     "precio_antes": 2729.0,
-    "precio_hoy": 3853.0,
-    "diff_abs": 1124.0,
-    "diff_pct": 41.19
+    "precio_hoy": 3854.0,
+    "diff_abs": 1125.0,
+    "diff_pct": 41.22
   },
   {
     "ean": "7790150830482",
     "nombre": "cacao chocolino x 800 gr.",
     "categoria": "Almacen",
     "precio_antes": 7849.0,
-    "precio_hoy": 11007.0,
-    "diff_abs": 3158.0,
-    "diff_pct": 40.23
+    "precio_hoy": 10819.0,
+    "diff_abs": 2970.0,
+    "diff_pct": 37.84
   },
   {
     "ean": "2016350000001",
@@ -72,6 +72,15 @@
     "diff_pct": 37.67
   },
   {
+    "ean": "7790150830444",
+    "nombre": "cacao en polvo chocolino x 180 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1789.0,
+    "precio_hoy": 2456.0,
+    "diff_abs": 667.0,
+    "diff_pct": 37.28
+  },
+  {
     "ean": "7793046004141",
     "nombre": "dulce de membrillo dulcor sachet x 500 gr.",
     "categoria": "Perfumeria",
@@ -81,6 +90,33 @@
     "diff_pct": 35.06
   },
   {
+    "ean": "7790360967701",
+    "nombre": "hamb.swift casera 2x120gr.",
+    "categoria": "Congelados",
+    "precio_antes": 4409.0,
+    "precio_hoy": 5941.0,
+    "diff_abs": 1532.0,
+    "diff_pct": 34.75
+  },
+  {
+    "ean": "7790360982230",
+    "nombre": "medallones de espinaca swift x 4 unidades x 300 g",
+    "categoria": "Congelados",
+    "precio_antes": 3449.0,
+    "precio_hoy": 4628.0,
+    "diff_abs": 1179.0,
+    "diff_pct": 34.18
+  },
+  {
+    "ean": "7790360982223",
+    "nombre": "medallon swift clabaza y choclo x 4 undiades x 30m",
+    "categoria": "Congelados",
+    "precio_antes": 3449.0,
+    "precio_hoy": 4628.0,
+    "diff_abs": 1179.0,
+    "diff_pct": 34.18
+  },
+  {
     "ean": "2020410000009",
     "nombre": "choclo elegido x kg.",
     "categoria": "Frutas Y Verduras",
@@ -88,6 +124,24 @@
     "precio_hoy": 3990.0,
     "diff_abs": 1000.0,
     "diff_pct": 33.44
+  },
+  {
+    "ean": "7790360964526",
+    "nombre": "pate swift a la crema x88gr.",
+    "categoria": "Almacen",
+    "precio_antes": 979.0,
+    "precio_hoy": 1304.0,
+    "diff_abs": 325.0,
+    "diff_pct": 33.2
+  },
+  {
+    "ean": "7790360964557",
+    "nombre": "jamon del diablo swift88 facil",
+    "categoria": "Almacen",
+    "precio_antes": 979.0,
+    "precio_hoy": 1304.0,
+    "diff_abs": 325.0,
+    "diff_pct": 33.2
   },
   {
     "ean": "7790070412126",
@@ -108,75 +162,21 @@
     "diff_pct": 32.87
   },
   {
-    "ean": "7790150830444",
-    "nombre": "cacao en polvo chocolino x 180 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1789.0,
-    "precio_hoy": 2321.0,
-    "diff_abs": 532.0,
-    "diff_pct": 29.74
-  },
-  {
-    "ean": "7793046004257",
-    "nombre": "dulce de membrillo cormillot x 430 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2409.0,
-    "precio_hoy": 3066.0,
-    "diff_abs": 657.0,
-    "diff_pct": 27.27
-  },
-  {
-    "ean": "8445291586864",
-    "nombre": "cafe molido torrado nescafe dolca x 190 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 5599.0,
-    "precio_hoy": 7058.0,
-    "diff_abs": 1459.0,
-    "diff_pct": 26.06
-  },
-  {
-    "ean": "7790670052418",
-    "nombre": "salchicha vienissima x 12 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4469.0,
-    "precio_hoy": 5616.0,
-    "diff_abs": 1147.0,
-    "diff_pct": 25.67
-  },
-  {
-    "ean": "7790670052401",
-    "nombre": "salchicha vienissima x 6 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2339.0,
-    "precio_hoy": 2936.0,
-    "diff_abs": 597.0,
-    "diff_pct": 25.52
-  },
-  {
-    "ean": "2037400000000",
-    "nombre": "queso santa rosa provoleta ahumada envasada al vacio x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 33013.0,
-    "precio_hoy": 41393.0,
-    "diff_abs": 8380.0,
-    "diff_pct": 25.38
-  },
-  {
-    "ean": "2021780000002",
-    "nombre": "perejil x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
-    "ean": "7790670052678",
-    "nombre": "hamburguesas paty de casa x 2 unid.",
+    "ean": "7790360026606",
+    "nombre": "hamburguesas swift x 2 unid.",
     "categoria": "Congelados",
-    "precio_antes": 5109.0,
-    "precio_hoy": 6267.0,
-    "diff_abs": 1158.0,
-    "diff_pct": 22.67
+    "precio_antes": 2449.0,
+    "precio_hoy": 3236.0,
+    "diff_abs": 787.0,
+    "diff_pct": 32.14
+  },
+  {
+    "ean": "7790950134810",
+    "nombre": "vermouth martini x1l.rosso",
+    "categoria": "Bebidas",
+    "precio_antes": 8329.0,
+    "precio_hoy": 10792.0,
+    "diff_abs": 2463.0,
+    "diff_pct": 29.57
   }
 ]
