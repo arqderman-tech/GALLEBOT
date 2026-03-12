@@ -1,31 +1,31 @@
 {
-  "fecha": "20260311",
-  "total_productos": 5408,
-  "variacion_dia": 0.8,
-  "variacion_7d": -0.52,
+  "fecha": "20260312",
+  "total_productos": 5473,
+  "variacion_dia": -0.02,
+  "variacion_7d": 0.39,
   "variacion_mes": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 3.16,
-      "productos_subieron": 247,
-      "productos_bajaron": 4,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
       "total_productos": 1213
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.28,
-      "productos_subieron": 10,
-      "productos_bajaron": 17,
-      "total_productos": 1069
+      "variacion_pct_promedio": -0.02,
+      "productos_subieron": 1,
+      "productos_bajaron": 2,
+      "total_productos": 1088
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 2.83,
-      "productos_subieron": 25,
-      "productos_bajaron": 16,
-      "total_productos": 186
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 191
     },
     {
       "categoria": "Limpieza",
@@ -36,112 +36,112 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.05,
-      "productos_subieron": 41,
-      "productos_bajaron": 10,
-      "total_productos": 775
+      "variacion_pct_promedio": -0.1,
+      "productos_subieron": 0,
+      "productos_bajaron": 12,
+      "total_productos": 777
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.14,
-      "productos_subieron": 81,
-      "productos_bajaron": 99,
-      "total_productos": 1468
+      "variacion_pct_promedio": -0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 1,
+      "total_productos": 1467
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2019900000001",
-      "nombre": "ajies x kg.",
+      "ean": "2020920000001",
+      "nombre": "lechuga mantecosa x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -3000.0,
-      "diff_pct": -50.08
+      "precio_antes": 7990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -25.03
     },
     {
-      "ean": "2018940000002",
-      "nombre": "salame lario tipo crespon x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 36364.0,
-      "precio_hoy": 24279.0,
-      "diff_abs": -12085.0,
-      "diff_pct": -33.23
+      "ean": "2021390000003",
+      "nombre": "naranja de jugo x kilo.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2790.0,
+      "precio_hoy": 2490.0,
+      "diff_abs": -300.0,
+      "diff_pct": -10.75
     },
     {
-      "ean": "7891000379073",
-      "nombre": "chocolate kit-kat dark x 41,5 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1907.0,
-      "precio_hoy": 1343.0,
-      "diff_abs": -564.0,
-      "diff_pct": -29.58
+      "ean": "7793482300135",
+      "nombre": "mermelada masseube x 350 gm frutos del bosque",
+      "categoria": "Perfumeria",
+      "precio_antes": 7865.5,
+      "precio_hoy": 7371.17,
+      "diff_abs": -494.33,
+      "diff_pct": -6.28
     },
     {
-      "ean": "7891000248799",
-      "nombre": "chocolate kit kat x 41 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1907.0,
-      "precio_hoy": 1343.0,
-      "diff_abs": -564.0,
-      "diff_pct": -29.58
+      "ean": "7793482300166",
+      "nombre": "mermelada masseube rosa mosqueta x 350 gm",
+      "categoria": "Perfumeria",
+      "precio_antes": 7865.5,
+      "precio_hoy": 7371.17,
+      "diff_abs": -494.33,
+      "diff_pct": -6.28
     },
     {
-      "ean": "7891000422052",
-      "nombre": "chocolate kit kat triple chocolate x 41,5 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1907.0,
-      "precio_hoy": 1343.0,
-      "diff_abs": -564.0,
-      "diff_pct": -29.58
+      "ean": "7793482000448",
+      "nombre": "mermelada masseube x 260 gm sabor arandanos light",
+      "categoria": "Perfumeria",
+      "precio_antes": 7865.5,
+      "precio_hoy": 7371.17,
+      "diff_abs": -494.33,
+      "diff_pct": -6.28
     },
     {
-      "ean": "7891000379028",
-      "nombre": "chocolate kit-kat white x 41,5 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1907.0,
-      "precio_hoy": 1343.0,
-      "diff_abs": -564.0,
-      "diff_pct": -29.58
+      "ean": "7793482300494",
+      "nombre": "mermelada masseube x 280 gm arandanos y membrillo",
+      "categoria": "Perfumeria",
+      "precio_antes": 6330.43,
+      "precio_hoy": 5932.58,
+      "diff_abs": -397.85,
+      "diff_pct": -6.28
     },
     {
-      "ean": "2019000000000",
-      "nombre": "salamin tandilero lario x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 32716.0,
-      "precio_hoy": 23129.0,
-      "diff_abs": -9587.0,
-      "diff_pct": -29.3
+      "ean": "7793482000332",
+      "nombre": "mermelada masseube x 260 gm frambuesa light",
+      "categoria": "Perfumeria",
+      "precio_antes": 8359.25,
+      "precio_hoy": 7833.89,
+      "diff_abs": -525.36,
+      "diff_pct": -6.28
     },
     {
-      "ean": "2018990000007",
-      "nombre": "salamin lario x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 32716.0,
-      "precio_hoy": 23129.0,
-      "diff_abs": -9587.0,
-      "diff_pct": -29.3
+      "ean": "7793482000608",
+      "nombre": "mermelada masseube x 260 gm frutos del bosque light",
+      "categoria": "Perfumeria",
+      "precio_antes": 7865.5,
+      "precio_hoy": 7371.17,
+      "diff_abs": -494.33,
+      "diff_pct": -6.28
     },
     {
-      "ean": "2018710000003",
-      "nombre": "lomo a las finas hierbas lario x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 35361.0,
-      "precio_hoy": 24999.0,
-      "diff_abs": -10362.0,
-      "diff_pct": -29.3
+      "ean": "7793482300548",
+      "nombre": "mermelada masseube x 280 gm manzana y canela",
+      "categoria": "Perfumeria",
+      "precio_antes": 7567.71,
+      "precio_hoy": 7092.1,
+      "diff_abs": -475.61,
+      "diff_pct": -6.28
     },
     {
-      "ean": "2018810000002",
-      "nombre": "panceta salada lario x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 34874.0,
-      "precio_hoy": 24659.0,
-      "diff_abs": -10215.0,
-      "diff_pct": -29.29
+      "ean": "7793482300524",
+      "nombre": "mermelada masseube x 280 gm frambuesa y tomate",
+      "categoria": "Perfumeria",
+      "precio_antes": 7567.71,
+      "precio_hoy": 7092.1,
+      "diff_abs": -475.61,
+      "diff_pct": -6.28
     }
   ],
-  "productos_subieron_dia": 404,
-  "productos_bajaron_dia": 146,
-  "productos_sin_cambio_dia": 4805
+  "productos_subieron_dia": 1,
+  "productos_bajaron_dia": 15,
+  "productos_sin_cambio_dia": 5364
 }

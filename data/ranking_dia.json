@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790360968548",
-    "nombre": "medallones de carne swift burger x 12 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 10579.0,
-    "precio_hoy": 14956.0,
-    "diff_abs": 4377.0,
-    "diff_pct": 41.37
+    "ean": "2022090000003",
+    "nombre": "sandia x kilo",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1790.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 200.0,
+    "diff_pct": 11.17
   },
   {
-    "ean": "7790360967701",
-    "nombre": "hamb.swift casera 2x120gr.",
-    "categoria": "Congelados",
-    "precio_antes": 4409.0,
-    "precio_hoy": 5941.0,
-    "diff_abs": 1532.0,
-    "diff_pct": 34.75
+    "ean": "7795293106210",
+    "nombre": "ravioles don yeyo x 500 gr. espinaca y pollo",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3334.0,
+    "precio_hoy": 3334.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790360982223",
-    "nombre": "medallon swift clabaza y choclo x 4 undiades x 30m",
-    "categoria": "Congelados",
-    "precio_antes": 3449.0,
-    "precio_hoy": 4628.0,
-    "diff_abs": 1179.0,
-    "diff_pct": 34.18
+    "ean": "7795293106111",
+    "nombre": "ravioles don yeyo x 500 gr. carne y espinaca",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3465.0,
+    "precio_hoy": 3465.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790360982230",
-    "nombre": "medallones de espinaca swift x 4 unidades x 300 g",
-    "categoria": "Congelados",
-    "precio_antes": 3449.0,
-    "precio_hoy": 4628.0,
-    "diff_abs": 1179.0,
-    "diff_pct": 34.18
+    "ean": "7795293000174",
+    "nombre": "ravioles don yeyo x 500 gr. 4 quesos",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3473.0,
+    "precio_hoy": 3473.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790360964526",
-    "nombre": "pate swift a la crema x88gr.",
-    "categoria": "Almacen",
-    "precio_antes": 979.0,
-    "precio_hoy": 1304.0,
-    "diff_abs": 325.0,
-    "diff_pct": 33.2
+    "ean": "7795293106418",
+    "nombre": "ravioles don yeyo x 500 gm espinaca y ricota",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3334.0,
+    "precio_hoy": 3334.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790360964557",
-    "nombre": "jamon del diablo swift88 facil",
-    "categoria": "Almacen",
-    "precio_antes": 979.0,
-    "precio_hoy": 1304.0,
-    "diff_abs": 325.0,
-    "diff_pct": 33.2
+    "ean": "7790070621801",
+    "nombre": "rav.la saltena x900gr.pyverd.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 7642.0,
+    "precio_hoy": 7642.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790360026606",
-    "nombre": "hamburguesas swift x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 2449.0,
-    "precio_hoy": 3236.0,
-    "diff_abs": 787.0,
-    "diff_pct": 32.14
+    "ean": "7790070621887",
+    "nombre": "rav.la saltena x450gr.cye",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3874.0,
+    "precio_hoy": 3874.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790950134810",
-    "nombre": "vermouth martini x1l.rosso",
-    "categoria": "Bebidas",
-    "precio_antes": 8329.0,
-    "precio_hoy": 10792.0,
-    "diff_abs": 2463.0,
-    "diff_pct": 29.57
+    "ean": "7790070621863",
+    "nombre": "rav.la saltena x450gr.4quesos",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3874.0,
+    "precio_hoy": 3874.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790950133318",
-    "nombre": "amargo terma x 1,35 lt. serrano",
-    "categoria": "Bebidas",
-    "precio_antes": 2099.0,
-    "precio_hoy": 2718.0,
-    "diff_abs": 619.0,
-    "diff_pct": 29.49
+    "ean": "7790742102805",
+    "nombre": "ricotta entera garcia x 500 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4315.0,
+    "precio_hoy": 4315.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790950133325",
-    "nombre": "amargo terma cero x 1,35 lt. serrano",
-    "categoria": "Bebidas",
-    "precio_antes": 2099.0,
-    "precio_hoy": 2718.0,
-    "diff_abs": 619.0,
-    "diff_pct": 29.49
+    "ean": "7790070036971",
+    "nombre": "ravioles favorita pollo y verdura x 450 gr",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2488.0,
+    "precio_hoy": 2488.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790950133363",
-    "nombre": "amargo terma x 1,35 lt. pomelo rosado",
-    "categoria": "Bebidas",
-    "precio_antes": 2099.0,
-    "precio_hoy": 2718.0,
-    "diff_abs": 619.0,
-    "diff_pct": 29.49
+    "ean": "7798151771421",
+    "nombre": "queso untable tremblay x 180 gm sabor jamon",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2013.08,
+    "precio_hoy": 2013.08,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790950143690",
-    "nombre": "amargo terma sin azucar x 1,35 lt. pomelo",
-    "categoria": "Bebidas",
-    "precio_antes": 2099.0,
-    "precio_hoy": 2718.0,
-    "diff_abs": 619.0,
-    "diff_pct": 29.49
+    "ean": "7798151771414",
+    "nombre": "queso untable tremblay x 180 gm sabor finas hierbas",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2013.08,
+    "precio_hoy": 2013.08,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790950133370",
-    "nombre": "amargo terma cero x 1,35 lt. manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 2099.0,
-    "precio_hoy": 2718.0,
-    "diff_abs": 619.0,
-    "diff_pct": 29.49
+    "ean": "7798151771407",
+    "nombre": "queso untable tremblay x 180 gm sabor clasico",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2013.08,
+    "precio_hoy": 2013.08,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790360965202",
-    "nombre": "pate de salmon swift x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1139.0,
-    "precio_hoy": 1473.0,
-    "diff_abs": 334.0,
-    "diff_pct": 29.32
+    "ean": "7798151771445",
+    "nombre": "queso untable tremblay x 180 gm por salut",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2013.08,
+    "precio_hoy": 2013.08,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790360965707",
-    "nombre": "pate swift de jamon ahum.x85gr",
-    "categoria": "Almacen",
-    "precio_antes": 1139.0,
-    "precio_hoy": 1473.0,
-    "diff_abs": 334.0,
-    "diff_pct": 29.32
+    "ean": "7798151771391",
+    "nombre": "queso untable tremblay x 180 gm cheddar",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2013.08,
+    "precio_hoy": 2013.08,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790360965714",
-    "nombre": "pate de foie tipo provenzal swift x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1139.0,
-    "precio_hoy": 1473.0,
-    "diff_abs": 334.0,
-    "diff_pct": 29.32
+    "ean": "7798151771384",
+    "nombre": "queso untable tremblay sabor queso azul x 180gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2013.08,
+    "precio_hoy": 2013.08,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790360965721",
-    "nombre": "pate de foie swift con pimienta verde x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1139.0,
-    "precio_hoy": 1473.0,
-    "diff_abs": 334.0,
-    "diff_pct": 29.32
+    "ean": "7793913013658",
+    "nombre": "queso untable tregar x 180 gr. cheddar",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2395.0,
+    "precio_hoy": 2395.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790310985366",
-    "nombre": "papas pehuamar x135gr.clasica",
-    "categoria": "Almacen",
-    "precio_antes": 2709.0,
-    "precio_hoy": 3460.0,
-    "diff_abs": 751.0,
-    "diff_pct": 27.72
+    "ean": "7798060852990",
+    "nombre": "queso untable tonadita x 180 gr. jamon",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2126.0,
+    "precio_hoy": 2126.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790310985649",
-    "nombre": "snack doritos sabor queso x 77 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2609.0,
-    "precio_hoy": 3332.0,
-    "diff_abs": 723.0,
-    "diff_pct": 27.71
+    "ean": "7798060853034",
+    "nombre": "queso untable tonadita x 180 gr. gruyere",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2126.0,
+    "precio_hoy": 2126.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790310985458",
-    "nombre": "papas lays x85gr.clasicas",
-    "categoria": "Almacen",
-    "precio_antes": 2609.0,
-    "precio_hoy": 3332.0,
-    "diff_abs": 723.0,
-    "diff_pct": 27.71
+    "ean": "7798060853119",
+    "nombre": "queso untable tonadita dip cheddar x 180 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2458.0,
+    "precio_hoy": 2458.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]

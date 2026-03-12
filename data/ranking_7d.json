@@ -9,26 +9,17 @@
     "diff_pct": 66.89
   },
   {
-    "ean": "7793890261912",
-    "nombre": "madalenas bimbo  x 240 gm vainilla",
-    "categoria": "Perfumeria",
-    "precio_antes": 2129.0,
-    "precio_hoy": 3333.0,
-    "diff_abs": 1204.0,
-    "diff_pct": 56.55
-  },
-  {
-    "ean": "7797906054925",
-    "nombre": "papas noisette mc cain horneables x 600 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 6489.0,
-    "precio_hoy": 10000.0,
-    "diff_abs": 3511.0,
-    "diff_pct": 54.11
+    "ean": "7790490998309",
+    "nombre": "edulcorante hileret clasico x 500 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 3109.0,
+    "precio_hoy": 4520.0,
+    "diff_abs": 1411.0,
+    "diff_pct": 45.38
   },
   {
     "ean": "7790070431578",
-    "nombre": "arrozgallo doble carolina x 1 kilo estuche",
+    "nombre": "arroz gallo doble carolina x 1 kg.",
     "categoria": "Almacen",
     "precio_antes": 4458.0,
     "precio_hoy": 6365.0,
@@ -52,6 +43,33 @@
     "precio_hoy": 3854.0,
     "diff_abs": 1125.0,
     "diff_pct": 41.22
+  },
+  {
+    "ean": "7794940000192",
+    "nombre": "edulcorante hileret sweet x 50 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 1629.0,
+    "precio_hoy": 2282.0,
+    "diff_abs": 653.0,
+    "diff_pct": 40.09
+  },
+  {
+    "ean": "7790490998064",
+    "nombre": "edulcorante hileret clasico x 10 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 2639.0,
+    "precio_hoy": 3691.0,
+    "diff_abs": 1052.0,
+    "diff_pct": 39.86
+  },
+  {
+    "ean": "7794940000758",
+    "nombre": "edulcorante hileret stevia x 50 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 1919.0,
+    "precio_hoy": 2681.0,
+    "diff_abs": 762.0,
+    "diff_pct": 39.71
   },
   {
     "ean": "7790150830482",
@@ -117,17 +135,8 @@
     "diff_pct": 34.18
   },
   {
-    "ean": "2020410000009",
-    "nombre": "choclo elegido x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
-    "ean": "7790360964526",
-    "nombre": "pate swift a la crema x88gr.",
+    "ean": "7790360964557",
+    "nombre": "jamon del diablo swift88 facil",
     "categoria": "Almacen",
     "precio_antes": 979.0,
     "precio_hoy": 1304.0,
@@ -135,8 +144,8 @@
     "diff_pct": 33.2
   },
   {
-    "ean": "7790360964557",
-    "nombre": "jamon del diablo swift88 facil",
+    "ean": "7790360964526",
+    "nombre": "pate swift a la crema x88gr.",
     "categoria": "Almacen",
     "precio_antes": 979.0,
     "precio_hoy": 1304.0,
@@ -169,14 +178,5 @@
     "precio_hoy": 3236.0,
     "diff_abs": 787.0,
     "diff_pct": 32.14
-  },
-  {
-    "ean": "7790950134810",
-    "nombre": "vermouth martini x1l.rosso",
-    "categoria": "Bebidas",
-    "precio_antes": 8329.0,
-    "precio_hoy": 10792.0,
-    "diff_abs": 2463.0,
-    "diff_pct": 29.57
   }
 ]
