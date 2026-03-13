@@ -1,12 +1,66 @@
 [
   {
-    "ean": "2021780000002",
-    "nombre": "perejil x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
+    "ean": "7500810034354",
+    "nombre": "snack takis original x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2829.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1624.0,
+    "diff_pct": 57.41
+  },
+  {
+    "ean": "7500810041741",
+    "nombre": "snack takis x 140 gm intense",
+    "categoria": "Almacen",
+    "precio_antes": 2829.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1624.0,
+    "diff_pct": 57.41
+  },
+  {
+    "ean": "7500810034347",
+    "nombre": "snack takis xplosion x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2829.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1624.0,
+    "diff_pct": 57.41
+  },
+  {
+    "ean": "7500810034330",
+    "nombre": "snack takis fuego x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2829.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1624.0,
+    "diff_pct": 57.41
+  },
+  {
+    "ean": "7500810041734",
+    "nombre": "snack takis x 85 gm intense",
+    "categoria": "Almacen",
+    "precio_antes": 1769.0,
+    "precio_hoy": 2779.0,
+    "diff_abs": 1010.0,
+    "diff_pct": 57.09
+  },
+  {
+    "ean": "7500810034477",
+    "nombre": "snack takis original x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1769.0,
+    "precio_hoy": 2779.0,
+    "diff_abs": 1010.0,
+    "diff_pct": 57.09
+  },
+  {
+    "ean": "7500810034361",
+    "nombre": "snack takis fuego x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1769.0,
+    "precio_hoy": 2779.0,
+    "diff_abs": 1010.0,
+    "diff_pct": 57.09
   },
   {
     "ean": "7790490998309",
@@ -18,22 +72,31 @@
     "diff_pct": 45.38
   },
   {
-    "ean": "7790070431578",
-    "nombre": "arroz gallo doble carolina x 1 kg.",
-    "categoria": "Almacen",
-    "precio_antes": 4458.0,
-    "precio_hoy": 6365.0,
-    "diff_abs": 1907.0,
-    "diff_pct": 42.78
+    "ean": "2022080000006",
+    "nombre": "rucula x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1390.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 600.0,
+    "diff_pct": 43.17
   },
   {
-    "ean": "7790360968548",
-    "nombre": "medallones de carne swift burger x 12 unid.",
+    "ean": "7797906054918",
+    "nombre": "papas mc cain noisette x 1.2 kg.",
     "categoria": "Congelados",
-    "precio_antes": 10579.0,
-    "precio_hoy": 14956.0,
-    "diff_abs": 4377.0,
-    "diff_pct": 41.37
+    "precio_antes": 13302.98,
+    "precio_hoy": 18999.0,
+    "diff_abs": 5696.02,
+    "diff_pct": 42.82
+  },
+  {
+    "ean": "7797906000700",
+    "nombre": "papas mc cain tradicional x 400 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3354.59,
+    "precio_hoy": 4783.0,
+    "diff_abs": 1428.41,
+    "diff_pct": 42.58
   },
   {
     "ean": "7790150831106",
@@ -43,6 +106,15 @@
     "precio_hoy": 3854.0,
     "diff_abs": 1125.0,
     "diff_pct": 41.22
+  },
+  {
+    "ean": "7790360968548",
+    "nombre": "medallones de carne swift burger x 12 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 10579.0,
+    "precio_hoy": 14836.0,
+    "diff_abs": 4257.0,
+    "diff_pct": 40.24
   },
   {
     "ean": "7794940000192",
@@ -99,84 +171,12 @@
     "diff_pct": 37.28
   },
   {
-    "ean": "7793046004141",
-    "nombre": "dulce de membrillo dulcor sachet x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2239.0,
-    "precio_hoy": 3024.0,
-    "diff_abs": 785.0,
-    "diff_pct": 35.06
-  },
-  {
     "ean": "7790360967701",
     "nombre": "hamb.swift casera 2x120gr.",
     "categoria": "Congelados",
     "precio_antes": 4409.0,
-    "precio_hoy": 5941.0,
-    "diff_abs": 1532.0,
-    "diff_pct": 34.75
-  },
-  {
-    "ean": "7790360982230",
-    "nombre": "medallones de espinaca swift x 4 unidades x 300 g",
-    "categoria": "Congelados",
-    "precio_antes": 3449.0,
-    "precio_hoy": 4628.0,
-    "diff_abs": 1179.0,
-    "diff_pct": 34.18
-  },
-  {
-    "ean": "7790360982223",
-    "nombre": "medallon swift clabaza y choclo x 4 undiades x 30m",
-    "categoria": "Congelados",
-    "precio_antes": 3449.0,
-    "precio_hoy": 4628.0,
-    "diff_abs": 1179.0,
-    "diff_pct": 34.18
-  },
-  {
-    "ean": "7790360964557",
-    "nombre": "jamon del diablo swift88 facil",
-    "categoria": "Almacen",
-    "precio_antes": 979.0,
-    "precio_hoy": 1304.0,
-    "diff_abs": 325.0,
-    "diff_pct": 33.2
-  },
-  {
-    "ean": "7790360964526",
-    "nombre": "pate swift a la crema x88gr.",
-    "categoria": "Almacen",
-    "precio_antes": 979.0,
-    "precio_hoy": 1304.0,
-    "diff_abs": 325.0,
-    "diff_pct": 33.2
-  },
-  {
-    "ean": "7790070412126",
-    "nombre": "arroz maximo largo fino x 1 kg.",
-    "categoria": "Almacen",
-    "precio_antes": 1643.0,
-    "precio_hoy": 2184.0,
-    "diff_abs": 541.0,
-    "diff_pct": 32.93
-  },
-  {
-    "ean": "7790070412171",
-    "nombre": "arroz maximo largo fino x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 861.0,
-    "precio_hoy": 1144.0,
-    "diff_abs": 283.0,
-    "diff_pct": 32.87
-  },
-  {
-    "ean": "7790360026606",
-    "nombre": "hamburguesas swift x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 2449.0,
-    "precio_hoy": 3236.0,
-    "diff_abs": 787.0,
-    "diff_pct": 32.14
+    "precio_hoy": 5988.0,
+    "diff_abs": 1579.0,
+    "diff_pct": 35.81
   }
 ]

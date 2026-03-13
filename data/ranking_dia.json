@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2022090000003",
-    "nombre": "sandia x kilo",
+    "ean": "7500810041741",
+    "nombre": "snack takis x 140 gm intense",
+    "categoria": "Almacen",
+    "precio_antes": 2829.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1624.0,
+    "diff_pct": 57.41
+  },
+  {
+    "ean": "7500810034354",
+    "nombre": "snack takis original x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2829.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1624.0,
+    "diff_pct": 57.41
+  },
+  {
+    "ean": "7500810034330",
+    "nombre": "snack takis fuego x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2829.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1624.0,
+    "diff_pct": 57.41
+  },
+  {
+    "ean": "7500810034347",
+    "nombre": "snack takis xplosion x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2829.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1624.0,
+    "diff_pct": 57.41
+  },
+  {
+    "ean": "7500810034361",
+    "nombre": "snack takis fuego x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1769.0,
+    "precio_hoy": 2779.0,
+    "diff_abs": 1010.0,
+    "diff_pct": 57.09
+  },
+  {
+    "ean": "7500810034477",
+    "nombre": "snack takis original x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1769.0,
+    "precio_hoy": 2779.0,
+    "diff_abs": 1010.0,
+    "diff_pct": 57.09
+  },
+  {
+    "ean": "7500810041734",
+    "nombre": "snack takis x 85 gm intense",
+    "categoria": "Almacen",
+    "precio_antes": 1769.0,
+    "precio_hoy": 2779.0,
+    "diff_abs": 1010.0,
+    "diff_pct": 57.09
+  },
+  {
+    "ean": "2022080000006",
+    "nombre": "rucula x paquete",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1790.0,
+    "precio_antes": 1390.0,
     "precio_hoy": 1990.0,
-    "diff_abs": 200.0,
-    "diff_pct": 11.17
+    "diff_abs": 600.0,
+    "diff_pct": 43.17
   },
   {
-    "ean": "7795293106210",
-    "nombre": "ravioles don yeyo x 500 gr. espinaca y pollo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3334.0,
-    "precio_hoy": 3334.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7797906054918",
+    "nombre": "papas mc cain noisette x 1.2 kg.",
+    "categoria": "Congelados",
+    "precio_antes": 13302.98,
+    "precio_hoy": 18999.0,
+    "diff_abs": 5696.02,
+    "diff_pct": 42.82
   },
   {
-    "ean": "7795293106111",
-    "nombre": "ravioles don yeyo x 500 gr. carne y espinaca",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3465.0,
-    "precio_hoy": 3465.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7797906000700",
+    "nombre": "papas mc cain tradicional x 400 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3354.59,
+    "precio_hoy": 4783.0,
+    "diff_abs": 1428.41,
+    "diff_pct": 42.58
   },
   {
-    "ean": "7795293000174",
-    "nombre": "ravioles don yeyo x 500 gr. 4 quesos",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3473.0,
-    "precio_hoy": 3473.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7898954933627",
+    "nombre": "pan schar x200gr.quinoa y lino",
+    "categoria": "Almacen",
+    "precio_antes": 6071.0,
+    "precio_hoy": 8172.0,
+    "diff_abs": 2101.0,
+    "diff_pct": 34.61
   },
   {
-    "ean": "7795293106418",
-    "nombre": "ravioles don yeyo x 500 gm espinaca y ricota",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3334.0,
-    "precio_hoy": 3334.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7898954933689",
+    "nombre": "pan hamburguesas",
+    "categoria": "Almacen",
+    "precio_antes": 5048.0,
+    "precio_hoy": 6795.0,
+    "diff_abs": 1747.0,
+    "diff_pct": 34.61
   },
   {
-    "ean": "7790070621801",
-    "nombre": "rav.la saltena x900gr.pyverd.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 7642.0,
-    "precio_hoy": 7642.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7898954933467",
+    "nombre": "pan rustico schar sin tacc x 200 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5603.0,
+    "precio_hoy": 7542.0,
+    "diff_abs": 1939.0,
+    "diff_pct": 34.61
   },
   {
-    "ean": "7790070621887",
-    "nombre": "rav.la saltena x450gr.cye",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3874.0,
-    "precio_hoy": 3874.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "8008698010037",
+    "nombre": "spaghetti schar sin tacc x 250 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 6754.0,
+    "precio_hoy": 9091.0,
+    "diff_abs": 2337.0,
+    "diff_pct": 34.6
   },
   {
-    "ean": "7790070621863",
-    "nombre": "rav.la saltena x450gr.4quesos",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3874.0,
-    "precio_hoy": 3874.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "8008698010075",
+    "nombre": "fideos fusilli schar sin tacc x 250 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 6754.0,
+    "precio_hoy": 9091.0,
+    "diff_abs": 2337.0,
+    "diff_pct": 34.6
   },
   {
-    "ean": "7790742102805",
-    "nombre": "ricotta entera garcia x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4315.0,
-    "precio_hoy": 4315.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "8008698003503",
+    "nombre": "crackers schar sin tacc x 210 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 9242.0,
+    "precio_hoy": 12440.0,
+    "diff_abs": 3198.0,
+    "diff_pct": 34.6
   },
   {
-    "ean": "7790070036971",
-    "nombre": "ravioles favorita pollo y verdura x 450 gr",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2488.0,
-    "precio_hoy": 2488.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "8008698005491",
+    "nombre": "galletitas sin gluten schar choco chip cookies x 2",
+    "categoria": "Almacen",
+    "precio_antes": 10376.0,
+    "precio_hoy": 13966.0,
+    "diff_abs": 3590.0,
+    "diff_pct": 34.6
   },
   {
-    "ean": "7798151771421",
-    "nombre": "queso untable tremblay x 180 gm sabor jamon",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2013.08,
-    "precio_hoy": 2013.08,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7898954933610",
+    "nombre": "pan frances schar sin tacc x 100 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4682.0,
+    "precio_hoy": 6302.0,
+    "diff_abs": 1620.0,
+    "diff_pct": 34.6
   },
   {
-    "ean": "7798151771414",
-    "nombre": "queso untable tremblay x 180 gm sabor finas hierbas",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2013.08,
-    "precio_hoy": 2013.08,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "8008698002049",
+    "nombre": "galletitas schar salti x 175 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 8664.0,
+    "precio_hoy": 11662.0,
+    "diff_abs": 2998.0,
+    "diff_pct": 34.6
   },
   {
-    "ean": "7798151771407",
-    "nombre": "queso untable tremblay x 180 gm sabor clasico",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2013.08,
-    "precio_hoy": 2013.08,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798151771445",
-    "nombre": "queso untable tremblay x 180 gm por salut",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2013.08,
-    "precio_hoy": 2013.08,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798151771391",
-    "nombre": "queso untable tremblay x 180 gm cheddar",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2013.08,
-    "precio_hoy": 2013.08,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798151771384",
-    "nombre": "queso untable tremblay sabor queso azul x 180gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2013.08,
-    "precio_hoy": 2013.08,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7793913013658",
-    "nombre": "queso untable tregar x 180 gr. cheddar",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2395.0,
-    "precio_hoy": 2395.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798060852990",
-    "nombre": "queso untable tonadita x 180 gr. jamon",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2126.0,
-    "precio_hoy": 2126.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798060853034",
-    "nombre": "queso untable tonadita x 180 gr. gruyere",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2126.0,
-    "precio_hoy": 2126.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798060853119",
-    "nombre": "queso untable tonadita dip cheddar x 180 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2458.0,
-    "precio_hoy": 2458.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7898954933450",
+    "nombre": "pan blanco schar sin tacc x 200 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5225.0,
+    "precio_hoy": 7033.0,
+    "diff_abs": 1808.0,
+    "diff_pct": 34.6
   }
 ]
