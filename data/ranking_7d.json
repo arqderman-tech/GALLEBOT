@@ -1,12 +1,12 @@
 [
   {
-    "ean": "7500810034354",
-    "nombre": "snack takis original x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2829.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1624.0,
-    "diff_pct": 57.41
+    "ean": "2037560000001",
+    "nombre": "mejillon pelado las caracolas x kilo x kg.",
+    "categoria": "Congelados",
+    "precio_antes": 21083.0,
+    "precio_hoy": 36591.0,
+    "diff_abs": 15508.0,
+    "diff_pct": 73.56
   },
   {
     "ean": "7500810041741",
@@ -18,8 +18,8 @@
     "diff_pct": 57.41
   },
   {
-    "ean": "7500810034347",
-    "nombre": "snack takis xplosion x 140 gr.",
+    "ean": "7500810034354",
+    "nombre": "snack takis original x 140 gr.",
     "categoria": "Almacen",
     "precio_antes": 2829.0,
     "precio_hoy": 4453.0,
@@ -36,6 +36,24 @@
     "diff_pct": 57.41
   },
   {
+    "ean": "7500810034347",
+    "nombre": "snack takis xplosion x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2829.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1624.0,
+    "diff_pct": 57.41
+  },
+  {
+    "ean": "7500810034361",
+    "nombre": "snack takis fuego x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1769.0,
+    "precio_hoy": 2779.0,
+    "diff_abs": 1010.0,
+    "diff_pct": 57.09
+  },
+  {
     "ean": "7500810041734",
     "nombre": "snack takis x 85 gm intense",
     "categoria": "Almacen",
@@ -47,15 +65,6 @@
   {
     "ean": "7500810034477",
     "nombre": "snack takis original x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1769.0,
-    "precio_hoy": 2779.0,
-    "diff_abs": 1010.0,
-    "diff_pct": 57.09
-  },
-  {
-    "ean": "7500810034361",
-    "nombre": "snack takis fuego x 85 gr.",
     "categoria": "Almacen",
     "precio_antes": 1769.0,
     "precio_hoy": 2779.0,
@@ -108,15 +117,6 @@
     "diff_pct": 41.22
   },
   {
-    "ean": "7790360968548",
-    "nombre": "medallones de carne swift burger x 12 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 10579.0,
-    "precio_hoy": 14836.0,
-    "diff_abs": 4257.0,
-    "diff_pct": 40.24
-  },
-  {
     "ean": "7794940000192",
     "nombre": "edulcorante hileret sweet x 50 sobres",
     "categoria": "Almacen",
@@ -135,6 +135,24 @@
     "diff_pct": 39.86
   },
   {
+    "ean": "7790310985458",
+    "nombre": "papas lays x85gr.clasicas",
+    "categoria": "Almacen",
+    "precio_antes": 2609.0,
+    "precio_hoy": 3649.0,
+    "diff_abs": 1040.0,
+    "diff_pct": 39.86
+  },
+  {
+    "ean": "7790310985649",
+    "nombre": "snack doritos sabor queso x 77 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2609.0,
+    "precio_hoy": 3649.0,
+    "diff_abs": 1040.0,
+    "diff_pct": 39.86
+  },
+  {
     "ean": "7794940000758",
     "nombre": "edulcorante hileret stevia x 50 sobres",
     "categoria": "Almacen",
@@ -144,39 +162,21 @@
     "diff_pct": 39.71
   },
   {
-    "ean": "7790150830482",
-    "nombre": "cacao chocolino x 800 gr.",
+    "ean": "7790310985656",
+    "nombre": "doritos queso x 129 gr.",
     "categoria": "Almacen",
-    "precio_antes": 7849.0,
-    "precio_hoy": 10819.0,
-    "diff_abs": 2970.0,
-    "diff_pct": 37.84
+    "precio_antes": 3669.0,
+    "precio_hoy": 5118.0,
+    "diff_abs": 1449.0,
+    "diff_pct": 39.49
   },
   {
-    "ean": "2016350000001",
-    "nombre": "dulce de membrillo en caja dulcor x kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3929.0,
-    "precio_hoy": 5409.0,
-    "diff_abs": 1480.0,
-    "diff_pct": 37.67
-  },
-  {
-    "ean": "7790150830444",
-    "nombre": "cacao en polvo chocolino x 180 gr.",
+    "ean": "7790310985465",
+    "nombre": "papas fritas lays clasicas x 134 gr.",
     "categoria": "Almacen",
-    "precio_antes": 1789.0,
-    "precio_hoy": 2456.0,
-    "diff_abs": 667.0,
-    "diff_pct": 37.28
-  },
-  {
-    "ean": "7790360967701",
-    "nombre": "hamb.swift casera 2x120gr.",
-    "categoria": "Congelados",
-    "precio_antes": 4409.0,
-    "precio_hoy": 5988.0,
-    "diff_abs": 1579.0,
-    "diff_pct": 35.81
+    "precio_antes": 3669.0,
+    "precio_hoy": 5118.0,
+    "diff_abs": 1449.0,
+    "diff_pct": 39.49
   }
 ]

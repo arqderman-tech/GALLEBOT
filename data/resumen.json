@@ -1,147 +1,147 @@
 {
-  "fecha": "20260313",
-  "total_productos": 5483,
-  "variacion_dia": -0.46,
-  "variacion_7d": 0.34,
+  "fecha": "20260314",
+  "total_productos": 5486,
+  "variacion_dia": -0.25,
+  "variacion_7d": 0.04,
   "variacion_mes": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -3.44,
-      "productos_subieron": 59,
-      "productos_bajaron": 394,
-      "total_productos": 1224
+      "variacion_pct_promedio": -0.15,
+      "productos_subieron": 25,
+      "productos_bajaron": 14,
+      "total_productos": 1222
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.92,
-      "productos_subieron": 234,
-      "productos_bajaron": 46,
-      "total_productos": 1095
+      "variacion_pct_promedio": -0.98,
+      "productos_subieron": 95,
+      "productos_bajaron": 54,
+      "total_productos": 1108
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.98,
-      "productos_subieron": 48,
-      "productos_bajaron": 14,
+      "variacion_pct_promedio": -1.04,
+      "productos_subieron": 12,
+      "productos_bajaron": 25,
       "total_productos": 193
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.59,
-      "productos_subieron": 41,
-      "productos_bajaron": 2,
-      "total_productos": 645
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 660
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.15,
-      "productos_subieron": 86,
-      "productos_bajaron": 41,
+      "variacion_pct_promedio": 0.06,
+      "productos_subieron": 11,
+      "productos_bajaron": 0,
       "total_productos": 786
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.17,
-      "productos_subieron": 74,
-      "productos_bajaron": 81,
-      "total_productos": 1501
+      "variacion_pct_promedio": 0.05,
+      "productos_subieron": 24,
+      "productos_bajaron": 10,
+      "total_productos": 1494
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7797906054925",
-      "nombre": "papas noisette mc cain horneables x 600 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 10000.0,
-      "precio_hoy": 4559.0,
-      "diff_abs": -5441.0,
-      "diff_pct": -54.41
+      "ean": "7791337010482",
+      "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5007.0,
+      "precio_hoy": 2509.0,
+      "diff_abs": -2498.0,
+      "diff_pct": -49.89
     },
     {
-      "ean": "7793890261578",
-      "nombre": "brownie chips sabe bien! x 62 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 1659.0,
-      "precio_hoy": 889.0,
-      "diff_abs": -770.0,
-      "diff_pct": -46.41
+      "ean": "7791337010499",
+      "nombre": "yogur bebible la serenisima deslactosado x 900 gr",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5007.0,
+      "precio_hoy": 2509.0,
+      "diff_abs": -2498.0,
+      "diff_pct": -49.89
     },
     {
-      "ean": "7793890261530",
-      "nombre": "braunichoc sabe bien! x 35 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 1145.0,
-      "precio_hoy": 619.0,
-      "diff_abs": -526.0,
-      "diff_pct": -45.94
+      "ean": "7791337010215",
+      "nombre": "yogur ls.clas.ent.sh x900g.fru",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4232.0,
+      "precio_hoy": 2499.0,
+      "diff_abs": -1733.0,
+      "diff_pct": -40.95
     },
     {
-      "ean": "7790070431578",
-      "nombre": "arrozgallo doble carolina x 1 kilo estuche",
-      "categoria": "Almacen",
-      "precio_antes": 6365.0,
-      "precio_hoy": 3699.0,
-      "diff_abs": -2666.0,
-      "diff_pct": -41.89
+      "ean": "7791337010376",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4232.0,
+      "precio_hoy": 2499.0,
+      "diff_abs": -1733.0,
+      "diff_pct": -40.95
     },
     {
-      "ean": "7793890258691",
-      "nombre": "vainillas valente x 148 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2116.0,
-      "precio_hoy": 1349.0,
-      "diff_abs": -767.0,
-      "diff_pct": -36.25
+      "ean": "7791337010369",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4232.0,
+      "precio_hoy": 2499.0,
+      "diff_abs": -1733.0,
+      "diff_pct": -40.95
     },
     {
-      "ean": "7793890258707",
-      "nombre": "vainillas valente x 444 gm",
-      "categoria": "Perfumeria",
-      "precio_antes": 5702.0,
-      "precio_hoy": 3639.0,
-      "diff_abs": -2063.0,
-      "diff_pct": -36.18
+      "ean": "7791337010468",
+      "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4232.0,
+      "precio_hoy": 2499.0,
+      "diff_abs": -1733.0,
+      "diff_pct": -40.95
     },
     {
-      "ean": "7790070412126",
-      "nombre": "arroz maximo largo fino x 1 kg.",
-      "categoria": "Almacen",
-      "precio_antes": 2184.0,
-      "precio_hoy": 1399.0,
-      "diff_abs": -785.0,
-      "diff_pct": -35.94
+      "ean": "7791337010475",
+      "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4232.0,
+      "precio_hoy": 2499.0,
+      "diff_abs": -1733.0,
+      "diff_pct": -40.95
     },
     {
-      "ean": "7790070412171",
-      "nombre": "arroz maximo largo fino x 500 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1144.0,
-      "precio_hoy": 739.0,
-      "diff_abs": -405.0,
-      "diff_pct": -35.4
+      "ean": "7791337010505",
+      "nombre": "yogur la seren. clasico entero sachet x 1.3 kilos sabor vain",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5717.0,
+      "precio_hoy": 3409.0,
+      "diff_abs": -2308.0,
+      "diff_pct": -40.37
     },
     {
-      "ean": "7797906054833",
-      "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 8071.0,
-      "precio_hoy": 5239.0,
-      "diff_abs": -2832.0,
-      "diff_pct": -35.09
+      "ean": "7791337010512",
+      "nombre": "yogur la serenisima clasico entero sachet x 1.3 litros fruti",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5717.0,
+      "precio_hoy": 3409.0,
+      "diff_abs": -2308.0,
+      "diff_pct": -40.37
     },
     {
-      "ean": "7792798008858",
-      "nombre": "cerveza temple wolf ipa x 473 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 4400.0,
-      "precio_hoy": 2859.0,
-      "diff_abs": -1541.0,
-      "diff_pct": -35.02
+      "ean": "2022040000008",
+      "nombre": "repollo blanco x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1490.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -40.16
     }
   ],
-  "productos_subieron_dia": 542,
-  "productos_bajaron_dia": 578,
-  "productos_sin_cambio_dia": 4324
+  "productos_subieron_dia": 167,
+  "productos_bajaron_dia": 103,
+  "productos_sin_cambio_dia": 5193
 }

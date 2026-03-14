@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7500810041741",
-    "nombre": "snack takis x 140 gm intense",
-    "categoria": "Almacen",
-    "precio_antes": 2829.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1624.0,
-    "diff_pct": 57.41
+    "ean": "2037560000001",
+    "nombre": "mejillon pelado las caracolas x kilo x kg.",
+    "categoria": "Congelados",
+    "precio_antes": 21083.0,
+    "precio_hoy": 36591.0,
+    "diff_abs": 15508.0,
+    "diff_pct": 73.56
   },
   {
-    "ean": "7500810034354",
-    "nombre": "snack takis original x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2829.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1624.0,
-    "diff_pct": 57.41
+    "ean": "2030580000006",
+    "nombre": "medallon merluza x kg.",
+    "categoria": "Congelados",
+    "precio_antes": 8284.0,
+    "precio_hoy": 11423.0,
+    "diff_abs": 3139.0,
+    "diff_pct": 37.89
   },
   {
-    "ean": "7500810034330",
-    "nombre": "snack takis fuego x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2829.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1624.0,
-    "diff_pct": 57.41
+    "ean": "2038260000001",
+    "nombre": "rodajas de salmon al vacio las caracolas x kilo",
+    "categoria": "Congelados",
+    "precio_antes": 30782.0,
+    "precio_hoy": 40462.0,
+    "diff_abs": 9680.0,
+    "diff_pct": 31.45
   },
   {
-    "ean": "7500810034347",
-    "nombre": "snack takis xplosion x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2829.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1624.0,
-    "diff_pct": 57.41
+    "ean": "7790314080500",
+    "nombre": "vino resero x 700 ml tinto",
+    "categoria": "Bebidas",
+    "precio_antes": 2372.0,
+    "precio_hoy": 3056.0,
+    "diff_abs": 684.0,
+    "diff_pct": 28.84
   },
   {
-    "ean": "7500810034361",
-    "nombre": "snack takis fuego x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1769.0,
-    "precio_hoy": 2779.0,
-    "diff_abs": 1010.0,
-    "diff_pct": 57.09
-  },
-  {
-    "ean": "7500810034477",
-    "nombre": "snack takis original x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1769.0,
-    "precio_hoy": 2779.0,
-    "diff_abs": 1010.0,
-    "diff_pct": 57.09
-  },
-  {
-    "ean": "7500810041734",
-    "nombre": "snack takis x 85 gm intense",
-    "categoria": "Almacen",
-    "precio_antes": 1769.0,
-    "precio_hoy": 2779.0,
-    "diff_abs": 1010.0,
-    "diff_pct": 57.09
-  },
-  {
-    "ean": "2022080000006",
-    "nombre": "rucula x paquete",
+    "ean": "2020000000006",
+    "nombre": "arandanos en bandeja",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1390.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 600.0,
-    "diff_pct": 43.17
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
   },
   {
-    "ean": "7797906054918",
-    "nombre": "papas mc cain noisette x 1.2 kg.",
+    "ean": "2038230000000",
+    "nombre": "cazuela de mariscos las caracolas al vacio x kilo",
     "categoria": "Congelados",
-    "precio_antes": 13302.98,
-    "precio_hoy": 18999.0,
-    "diff_abs": 5696.02,
-    "diff_pct": 42.82
+    "precio_antes": 48206.0,
+    "precio_hoy": 57886.0,
+    "diff_abs": 9680.0,
+    "diff_pct": 20.08
   },
   {
-    "ean": "7797906000700",
-    "nombre": "papas mc cain tradicional x 400 gr.",
+    "ean": "2031530000008",
+    "nombre": "salmon ahumado las caracolas ev. x kg.",
     "categoria": "Congelados",
-    "precio_antes": 3354.59,
-    "precio_hoy": 4783.0,
-    "diff_abs": 1428.41,
-    "diff_pct": 42.58
+    "precio_antes": 76472.0,
+    "precio_hoy": 90798.0,
+    "diff_abs": 14326.0,
+    "diff_pct": 18.73
   },
   {
-    "ean": "7898954933627",
-    "nombre": "pan schar x200gr.quinoa y lino",
-    "categoria": "Almacen",
-    "precio_antes": 6071.0,
-    "precio_hoy": 8172.0,
-    "diff_abs": 2101.0,
-    "diff_pct": 34.61
+    "ean": "2031560000009",
+    "nombre": "tentaculo de calamar las caracolas ev. x kg.",
+    "categoria": "Congelados",
+    "precio_antes": 31730.0,
+    "precio_hoy": 36590.0,
+    "diff_abs": 4860.0,
+    "diff_pct": 15.32
   },
   {
-    "ean": "7898954933689",
-    "nombre": "pan hamburguesas",
+    "ean": "2025820000007",
+    "nombre": "anchoas en aceite x kg.",
     "categoria": "Almacen",
-    "precio_antes": 5048.0,
-    "precio_hoy": 6795.0,
-    "diff_abs": 1747.0,
-    "diff_pct": 34.61
+    "precio_antes": 97659.0,
+    "precio_hoy": 112413.0,
+    "diff_abs": 14754.0,
+    "diff_pct": 15.11
   },
   {
-    "ean": "7898954933467",
-    "nombre": "pan rustico schar sin tacc x 200 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5603.0,
-    "precio_hoy": 7542.0,
-    "diff_abs": 1939.0,
-    "diff_pct": 34.61
+    "ean": "2020960000009",
+    "nombre": "lechuga repollada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3490.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 14.33
   },
   {
-    "ean": "8008698010037",
-    "nombre": "spaghetti schar sin tacc x 250 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 6754.0,
-    "precio_hoy": 9091.0,
-    "diff_abs": 2337.0,
-    "diff_pct": 34.6
+    "ean": "2030560000002",
+    "nombre": "filet de merluza rebozado envazado las caracolas x",
+    "categoria": "Congelados",
+    "precio_antes": 16824.0,
+    "precio_hoy": 19166.0,
+    "diff_abs": 2342.0,
+    "diff_pct": 13.92
   },
   {
-    "ean": "8008698010075",
-    "nombre": "fideos fusilli schar sin tacc x 250 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 6754.0,
-    "precio_hoy": 9091.0,
-    "diff_abs": 2337.0,
-    "diff_pct": 34.6
+    "ean": "2037670000007",
+    "nombre": "rabas empanadas x kilo x kg.",
+    "categoria": "Congelados",
+    "precio_antes": 49367.0,
+    "precio_hoy": 55950.0,
+    "diff_abs": 6583.0,
+    "diff_pct": 13.33
   },
   {
-    "ean": "8008698003503",
-    "nombre": "crackers schar sin tacc x 210 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 9242.0,
-    "precio_hoy": 12440.0,
-    "diff_abs": 3198.0,
-    "diff_pct": 34.6
+    "ean": "2031540000005",
+    "nombre": "filet abadejo x kg.",
+    "categoria": "Congelados",
+    "precio_antes": 40249.0,
+    "precio_hoy": 44334.0,
+    "diff_abs": 4085.0,
+    "diff_pct": 10.15
   },
   {
-    "ean": "8008698005491",
-    "nombre": "galletitas sin gluten schar choco chip cookies x 2",
-    "categoria": "Almacen",
-    "precio_antes": 10376.0,
-    "precio_hoy": 13966.0,
-    "diff_abs": 3590.0,
-    "diff_pct": 34.6
+    "ean": "2037550000004",
+    "nombre": "langostinos pelados las caracolas x kilo x kg.",
+    "categoria": "Congelados",
+    "precio_antes": 40249.0,
+    "precio_hoy": 44334.0,
+    "diff_abs": 4085.0,
+    "diff_pct": 10.15
   },
   {
-    "ean": "7898954933610",
-    "nombre": "pan frances schar sin tacc x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 4682.0,
-    "precio_hoy": 6302.0,
-    "diff_abs": 1620.0,
-    "diff_pct": 34.6
+    "ean": "7790742371409",
+    "nombre": "queso la serenisima camembert x 200 gr",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 10859.0,
+    "precio_hoy": 11943.0,
+    "diff_abs": 1084.0,
+    "diff_pct": 9.98
   },
   {
-    "ean": "8008698002049",
-    "nombre": "galletitas schar salti x 175 gr.",
+    "ean": "7790310983270",
+    "nombre": "mini tostaditas twistos queso x 95 gr.",
     "categoria": "Almacen",
-    "precio_antes": 8664.0,
-    "precio_hoy": 11662.0,
-    "diff_abs": 2998.0,
-    "diff_pct": 34.6
+    "precio_antes": 3083.0,
+    "precio_hoy": 3384.0,
+    "diff_abs": 301.0,
+    "diff_pct": 9.76
   },
   {
-    "ean": "7898954933450",
-    "nombre": "pan blanco schar sin tacc x 200 gr.",
+    "ean": "7790310984321",
+    "nombre": "rueditas pep x120gr.",
     "categoria": "Almacen",
-    "precio_antes": 5225.0,
-    "precio_hoy": 7033.0,
-    "diff_abs": 1808.0,
-    "diff_pct": 34.6
+    "precio_antes": 2910.0,
+    "precio_hoy": 3194.0,
+    "diff_abs": 284.0,
+    "diff_pct": 9.76
+  },
+  {
+    "ean": "7790310984307",
+    "nombre": "palitos pep salados x120gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2910.0,
+    "precio_hoy": 3194.0,
+    "diff_abs": 284.0,
+    "diff_pct": 9.76
+  },
+  {
+    "ean": "7790310987070",
+    "nombre": "doritos swett  chili x 74 gm",
+    "categoria": "Almacen",
+    "precio_antes": 3332.0,
+    "precio_hoy": 3649.0,
+    "diff_abs": 317.0,
+    "diff_pct": 9.51
+  },
+  {
+    "ean": "7790310985458",
+    "nombre": "papas lays x85gr.clasicas",
+    "categoria": "Almacen",
+    "precio_antes": 3332.0,
+    "precio_hoy": 3649.0,
+    "diff_abs": 317.0,
+    "diff_pct": 9.51
   }
 ]
