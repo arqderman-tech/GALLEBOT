@@ -9,15 +9,6 @@
     "diff_pct": 73.56
   },
   {
-    "ean": "7500810041741",
-    "nombre": "snack takis x 140 gm intense",
-    "categoria": "Almacen",
-    "precio_antes": 2829.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1624.0,
-    "diff_pct": 57.41
-  },
-  {
     "ean": "7500810034354",
     "nombre": "snack takis original x 140 gr.",
     "categoria": "Almacen",
@@ -29,6 +20,15 @@
   {
     "ean": "7500810034330",
     "nombre": "snack takis fuego x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2829.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1624.0,
+    "diff_pct": 57.41
+  },
+  {
+    "ean": "7500810041741",
+    "nombre": "snack takis x 140 gm intense",
     "categoria": "Almacen",
     "precio_antes": 2829.0,
     "precio_hoy": 4453.0,
@@ -54,8 +54,8 @@
     "diff_pct": 57.09
   },
   {
-    "ean": "7500810041734",
-    "nombre": "snack takis x 85 gm intense",
+    "ean": "7500810034477",
+    "nombre": "snack takis original x 85 gr.",
     "categoria": "Almacen",
     "precio_antes": 1769.0,
     "precio_hoy": 2779.0,
@@ -63,8 +63,8 @@
     "diff_pct": 57.09
   },
   {
-    "ean": "7500810034477",
-    "nombre": "snack takis original x 85 gr.",
+    "ean": "7500810041734",
+    "nombre": "snack takis x 85 gm intense",
     "categoria": "Almacen",
     "precio_antes": 1769.0,
     "precio_hoy": 2779.0,
@@ -108,15 +108,6 @@
     "diff_pct": 42.58
   },
   {
-    "ean": "7790150831106",
-    "nombre": "bolitas de cereal chocolino x 200 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2729.0,
-    "precio_hoy": 3854.0,
-    "diff_abs": 1125.0,
-    "diff_pct": 41.22
-  },
-  {
     "ean": "7794940000192",
     "nombre": "edulcorante hileret sweet x 50 sobres",
     "categoria": "Almacen",
@@ -126,21 +117,21 @@
     "diff_pct": 40.09
   },
   {
-    "ean": "7790490998064",
-    "nombre": "edulcorante hileret clasico x 10 sobres",
-    "categoria": "Almacen",
-    "precio_antes": 2639.0,
-    "precio_hoy": 3691.0,
-    "diff_abs": 1052.0,
-    "diff_pct": 39.86
-  },
-  {
     "ean": "7790310985458",
     "nombre": "papas lays x85gr.clasicas",
     "categoria": "Almacen",
     "precio_antes": 2609.0,
     "precio_hoy": 3649.0,
     "diff_abs": 1040.0,
+    "diff_pct": 39.86
+  },
+  {
+    "ean": "7790490998064",
+    "nombre": "edulcorante hileret clasico x 10 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 2639.0,
+    "precio_hoy": 3691.0,
+    "diff_abs": 1052.0,
     "diff_pct": 39.86
   },
   {
@@ -162,6 +153,15 @@
     "diff_pct": 39.71
   },
   {
+    "ean": "7790310985465",
+    "nombre": "papas fritas lays clasicas x 134 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3669.0,
+    "precio_hoy": 5118.0,
+    "diff_abs": 1449.0,
+    "diff_pct": 39.49
+  },
+  {
     "ean": "7790310985656",
     "nombre": "doritos queso x 129 gr.",
     "categoria": "Almacen",
@@ -171,12 +171,12 @@
     "diff_pct": 39.49
   },
   {
-    "ean": "7790310985465",
-    "nombre": "papas fritas lays clasicas x 134 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3669.0,
-    "precio_hoy": 5118.0,
-    "diff_abs": 1449.0,
-    "diff_pct": 39.49
+    "ean": "2030580000006",
+    "nombre": "medallon merluza x kg.",
+    "categoria": "Congelados",
+    "precio_antes": 8284.0,
+    "precio_hoy": 11423.0,
+    "diff_abs": 3139.0,
+    "diff_pct": 37.89
   }
 ]
