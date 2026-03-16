@@ -9,78 +9,6 @@
     "diff_pct": 73.56
   },
   {
-    "ean": "7500810034354",
-    "nombre": "snack takis original x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2829.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1624.0,
-    "diff_pct": 57.41
-  },
-  {
-    "ean": "7500810034330",
-    "nombre": "snack takis fuego x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2829.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1624.0,
-    "diff_pct": 57.41
-  },
-  {
-    "ean": "7500810041741",
-    "nombre": "snack takis x 140 gm intense",
-    "categoria": "Almacen",
-    "precio_antes": 2829.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1624.0,
-    "diff_pct": 57.41
-  },
-  {
-    "ean": "7500810034347",
-    "nombre": "snack takis xplosion x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2829.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1624.0,
-    "diff_pct": 57.41
-  },
-  {
-    "ean": "7500810034361",
-    "nombre": "snack takis fuego x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1769.0,
-    "precio_hoy": 2779.0,
-    "diff_abs": 1010.0,
-    "diff_pct": 57.09
-  },
-  {
-    "ean": "7500810034477",
-    "nombre": "snack takis original x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1769.0,
-    "precio_hoy": 2779.0,
-    "diff_abs": 1010.0,
-    "diff_pct": 57.09
-  },
-  {
-    "ean": "7500810041734",
-    "nombre": "snack takis x 85 gm intense",
-    "categoria": "Almacen",
-    "precio_antes": 1769.0,
-    "precio_hoy": 2779.0,
-    "diff_abs": 1010.0,
-    "diff_pct": 57.09
-  },
-  {
-    "ean": "7790490998309",
-    "nombre": "edulcorante hileret clasico x 500 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 3109.0,
-    "precio_hoy": 4520.0,
-    "diff_abs": 1411.0,
-    "diff_pct": 45.38
-  },
-  {
     "ean": "2022080000006",
     "nombre": "rucula x paquete",
     "categoria": "Frutas Y Verduras",
@@ -108,69 +36,6 @@
     "diff_pct": 42.58
   },
   {
-    "ean": "7794940000192",
-    "nombre": "edulcorante hileret sweet x 50 sobres",
-    "categoria": "Almacen",
-    "precio_antes": 1629.0,
-    "precio_hoy": 2282.0,
-    "diff_abs": 653.0,
-    "diff_pct": 40.09
-  },
-  {
-    "ean": "7790310985458",
-    "nombre": "papas lays x85gr.clasicas",
-    "categoria": "Almacen",
-    "precio_antes": 2609.0,
-    "precio_hoy": 3649.0,
-    "diff_abs": 1040.0,
-    "diff_pct": 39.86
-  },
-  {
-    "ean": "7790490998064",
-    "nombre": "edulcorante hileret clasico x 10 sobres",
-    "categoria": "Almacen",
-    "precio_antes": 2639.0,
-    "precio_hoy": 3691.0,
-    "diff_abs": 1052.0,
-    "diff_pct": 39.86
-  },
-  {
-    "ean": "7790310985649",
-    "nombre": "snack doritos sabor queso x 77 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2609.0,
-    "precio_hoy": 3649.0,
-    "diff_abs": 1040.0,
-    "diff_pct": 39.86
-  },
-  {
-    "ean": "7794940000758",
-    "nombre": "edulcorante hileret stevia x 50 sobres",
-    "categoria": "Almacen",
-    "precio_antes": 1919.0,
-    "precio_hoy": 2681.0,
-    "diff_abs": 762.0,
-    "diff_pct": 39.71
-  },
-  {
-    "ean": "7790310985465",
-    "nombre": "papas fritas lays clasicas x 134 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3669.0,
-    "precio_hoy": 5118.0,
-    "diff_abs": 1449.0,
-    "diff_pct": 39.49
-  },
-  {
-    "ean": "7790310985656",
-    "nombre": "doritos queso x 129 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3669.0,
-    "precio_hoy": 5118.0,
-    "diff_abs": 1449.0,
-    "diff_pct": 39.49
-  },
-  {
     "ean": "2030580000006",
     "nombre": "medallon merluza x kg.",
     "categoria": "Congelados",
@@ -178,5 +43,140 @@
     "precio_hoy": 11423.0,
     "diff_abs": 3139.0,
     "diff_pct": 37.89
+  },
+  {
+    "ean": "2016350000001",
+    "nombre": "dulce de membrillo en caja dulcor x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3929.0,
+    "precio_hoy": 5409.0,
+    "diff_abs": 1480.0,
+    "diff_pct": 37.67
+  },
+  {
+    "ean": "7790742172105",
+    "nombre": "bebida lactea la serenisima protein chocolate x 1",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3299.0,
+    "precio_hoy": 4522.0,
+    "diff_abs": 1223.0,
+    "diff_pct": 37.07
+  },
+  {
+    "ean": "7790742661333",
+    "nombre": "bebida lactea la serenisima x 900 gm cookies and cream",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1969.0,
+    "precio_hoy": 2695.0,
+    "diff_abs": 726.0,
+    "diff_pct": 36.87
+  },
+  {
+    "ean": "7790742172204",
+    "nombre": "bebida lactea la serenisima x 200ml protein chocol",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1159.0,
+    "precio_hoy": 1583.0,
+    "diff_abs": 424.0,
+    "diff_pct": 36.58
+  },
+  {
+    "ean": "7793046004141",
+    "nombre": "dulce de membrillo dulcor sachet x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2239.0,
+    "precio_hoy": 3024.0,
+    "diff_abs": 785.0,
+    "diff_pct": 35.06
+  },
+  {
+    "ean": "2037400000000",
+    "nombre": "queso santa rosa provoleta ahumada envasada al vacio x kilo",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 33013.0,
+    "precio_hoy": 44064.0,
+    "diff_abs": 11051.0,
+    "diff_pct": 33.47
+  },
+  {
+    "ean": "2021780000002",
+    "nombre": "perejil x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
+  },
+  {
+    "ean": "7790742566027",
+    "nombre": "bebida lactea la serenisima x 200 ml frutilla redu",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1159.0,
+    "precio_hoy": 1537.0,
+    "diff_abs": 378.0,
+    "diff_pct": 32.61
+  },
+  {
+    "ean": "2038260000001",
+    "nombre": "rodajas de salmon al vacio las caracolas x kilo",
+    "categoria": "Congelados",
+    "precio_antes": 30782.0,
+    "precio_hoy": 40462.0,
+    "diff_abs": 9680.0,
+    "diff_pct": 31.45
+  },
+  {
+    "ean": "7793940052002",
+    "nombre": "manteca la serenisima x 100 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1939.0,
+    "precio_hoy": 2512.0,
+    "diff_abs": 573.0,
+    "diff_pct": 29.55
+  },
+  {
+    "ean": "7793940054006",
+    "nombre": "manteca ls.x200gr.clasica",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3529.0,
+    "precio_hoy": 4571.0,
+    "diff_abs": 1042.0,
+    "diff_pct": 29.53
+  },
+  {
+    "ean": "7790314080500",
+    "nombre": "vino resero x 700 ml tinto",
+    "categoria": "Bebidas",
+    "precio_antes": 2372.0,
+    "precio_hoy": 3056.0,
+    "diff_abs": 684.0,
+    "diff_pct": 28.84
+  },
+  {
+    "ean": "2025990000005",
+    "nombre": "queso cremoso la serenisima cremon fraccionado al vacio x ki",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 13298.99,
+    "precio_hoy": 17115.0,
+    "diff_abs": 3816.01,
+    "diff_pct": 28.69
+  },
+  {
+    "ean": "2017600000000",
+    "nombre": "queso la serenisima cremon light fraccionado al vacio x kilo",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 14848.99,
+    "precio_hoy": 19107.0,
+    "diff_abs": 4258.01,
+    "diff_pct": 28.68
+  },
+  {
+    "ean": "7702147245667",
+    "nombre": "453cl6 vaso cristar rocks x 6 unid.",
+    "categoria": "Limpieza",
+    "precio_antes": 12100.0,
+    "precio_hoy": 15447.0,
+    "diff_abs": 3347.0,
+    "diff_pct": 27.66
   }
 ]
