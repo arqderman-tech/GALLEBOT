@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790742172105",
-    "nombre": "bebida lactea la serenisima protein chocolate x 1",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3398.28,
-    "precio_hoy": 4522.0,
-    "diff_abs": 1123.72,
-    "diff_pct": 33.07
+    "ean": "2021840000003",
+    "nombre": "pimiento verde x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2500.0,
+    "diff_pct": 100.4
   },
   {
-    "ean": "7790742661333",
-    "nombre": "bebida lactea la serenisima x 900 gm cookies and cream",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2028.96,
-    "precio_hoy": 2695.0,
-    "diff_abs": 666.04,
-    "diff_pct": 32.83
+    "ean": "7790670050674",
+    "nombre": "hamburguesas paty x 2 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 2699.0,
+    "precio_hoy": 4527.0,
+    "diff_abs": 1828.0,
+    "diff_pct": 67.73
   },
   {
-    "ean": "7790742172204",
-    "nombre": "bebida lactea la serenisima x 200ml protein chocol",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1193.5,
-    "precio_hoy": 1583.0,
-    "diff_abs": 389.5,
-    "diff_pct": 32.64
+    "ean": "7792798008858",
+    "nombre": "cerveza temple wolf ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2859.0,
+    "precio_hoy": 4500.0,
+    "diff_abs": 1641.0,
+    "diff_pct": 57.4
   },
   {
-    "ean": "7790742566027",
-    "nombre": "bebida lactea la serenisima x 200 ml frutilla redu",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1159.0,
-    "precio_hoy": 1537.0,
-    "diff_abs": 378.0,
-    "diff_pct": 32.61
+    "ean": "7790070035998",
+    "nombre": "milanesas de soja granja del sol x 330 gr. calabaz",
+    "categoria": "Congelados",
+    "precio_antes": 3119.0,
+    "precio_hoy": 4895.0,
+    "diff_abs": 1776.0,
+    "diff_pct": 56.94
   },
   {
-    "ean": "2017620000004",
-    "nombre": "queso cremon doble crema la serenisima x kilo fraccionado",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 15284.49,
-    "precio_hoy": 19100.0,
-    "diff_abs": 3815.51,
-    "diff_pct": 24.96
+    "ean": "7790070035981",
+    "nombre": "milan.soja gr.sol x330gr.espin",
+    "categoria": "Congelados",
+    "precio_antes": 3119.0,
+    "precio_hoy": 4895.0,
+    "diff_abs": 1776.0,
+    "diff_pct": 56.94
   },
   {
-    "ean": "2025990000005",
-    "nombre": "queso cremoso la serenisima cremon fraccionado al vacio x ki",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 13698.14,
-    "precio_hoy": 17115.0,
-    "diff_abs": 3416.86,
-    "diff_pct": 24.94
+    "ean": "7790070035974",
+    "nombre": "milanesas de soja granja del sol x 660 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 5439.0,
+    "precio_hoy": 8527.0,
+    "diff_abs": 3088.0,
+    "diff_pct": 56.78
   },
   {
-    "ean": "2017600000000",
-    "nombre": "queso la serenisima cremon light fraccionado al vacio x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 15294.78,
-    "precio_hoy": 19107.0,
-    "diff_abs": 3812.22,
-    "diff_pct": 24.92
+    "ean": "7790070036001",
+    "nombre": "milanesas de arroz y vegetales granja del sol x 33",
+    "categoria": "Congelados",
+    "precio_antes": 3629.0,
+    "precio_hoy": 5685.0,
+    "diff_abs": 2056.0,
+    "diff_pct": 56.65
   },
   {
-    "ean": "7793940052002",
-    "nombre": "manteca la serenisima x 100 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2012.41,
-    "precio_hoy": 2512.0,
-    "diff_abs": 499.59,
-    "diff_pct": 24.83
+    "ean": "7790070102607",
+    "nombre": "milan.soja gr.sol x330gr.tc",
+    "categoria": "Congelados",
+    "precio_antes": 3089.0,
+    "precio_hoy": 4838.0,
+    "diff_abs": 1749.0,
+    "diff_pct": 56.62
   },
   {
-    "ean": "7793940054006",
-    "nombre": "manteca ls.x200gr.clasica",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3661.8,
-    "precio_hoy": 4571.0,
-    "diff_abs": 909.2,
-    "diff_pct": 24.83
+    "ean": "7790070036025",
+    "nombre": "milanesas de vegetales granja de sol x 320 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3639.0,
+    "precio_hoy": 5665.0,
+    "diff_abs": 2026.0,
+    "diff_pct": 55.67
   },
   {
-    "ean": "7790742223005",
-    "nombre": "queso rallado la serenisima x 70 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2821.04,
-    "precio_hoy": 3320.0,
-    "diff_abs": 498.96,
-    "diff_pct": 17.69
+    "ean": "7792798002726",
+    "nombre": "cerveza andes ipa pack 6 latas x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1999.0,
+    "precio_hoy": 3025.0,
+    "diff_abs": 1026.0,
+    "diff_pct": 51.33
   },
   {
-    "ean": "7790742373809",
-    "nombre": "queso untable la serenisima cremon light x 280 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3408.35,
-    "precio_hoy": 4010.0,
-    "diff_abs": 601.65,
-    "diff_pct": 17.65
+    "ean": "7792798002320",
+    "nombre": "cerveza andes negra lata x 473ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1999.0,
+    "precio_hoy": 3025.0,
+    "diff_abs": 1026.0,
+    "diff_pct": 51.33
   },
   {
-    "ean": "7790742373908",
-    "nombre": "queso untable cremon original la serenisima x 280.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3408.35,
-    "precio_hoy": 4010.0,
-    "diff_abs": 601.65,
-    "diff_pct": 17.65
+    "ean": "7792798992317",
+    "nombre": "cerveza andes roja lata x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1999.0,
+    "precio_hoy": 3025.0,
+    "diff_abs": 1026.0,
+    "diff_pct": 51.33
   },
   {
-    "ean": "2028240000008",
-    "nombre": "queso pategras la serenisima sin lactosa x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 22771.96,
-    "precio_hoy": 26790.0,
-    "diff_abs": 4018.04,
-    "diff_pct": 17.64
+    "ean": "7790670050780",
+    "nombre": "hamburguesas paty clasico x 20 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 26719.0,
+    "precio_hoy": 40393.0,
+    "diff_abs": 13674.0,
+    "diff_pct": 51.18
   },
   {
-    "ean": "7790742331304",
-    "nombre": "leche en polvo armonia x 800 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 9774.14,
-    "precio_hoy": 11497.0,
-    "diff_abs": 1722.86,
-    "diff_pct": 17.63
+    "ean": "7792798001972",
+    "nombre": "cerveza lata patagonia x 473 ml 24.7",
+    "categoria": "Bebidas",
+    "precio_antes": 2999.0,
+    "precio_hoy": 4500.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 50.05
   },
   {
-    "ean": "7790742321701",
-    "nombre": "queso untable finlandia clasico x 180 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2945.46,
-    "precio_hoy": 3462.0,
-    "diff_abs": 516.54,
-    "diff_pct": 17.54
+    "ean": "7792798001965",
+    "nombre": "cerveza patagonia amber lager lata x 473 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 2999.0,
+    "precio_hoy": 4500.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 50.05
   },
   {
-    "ean": "7790742324009",
-    "nombre": "queso untable finlandia mas liviano x 180 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2945.46,
-    "precio_hoy": 3462.0,
-    "diff_abs": 516.54,
-    "diff_pct": 17.54
-  },
-  {
-    "ean": "7790742625304",
-    "nombre": "dulce de leche la serenisima clasico x 400 gr.",
+    "ean": "7790550000171",
+    "nombre": "cafe molido cabrales la planta x 1 kg.",
     "categoria": "Perfumeria",
-    "precio_antes": 3068.4,
-    "precio_hoy": 3605.0,
-    "diff_abs": 536.6,
-    "diff_pct": 17.49
+    "precio_antes": 22759.0,
+    "precio_hoy": 33680.0,
+    "diff_abs": 10921.0,
+    "diff_pct": 47.99
   },
   {
-    "ean": "7790742324108",
-    "nombre": "queso unt finalndia mas liviano x 290 gr sin sal",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4417.34,
-    "precio_hoy": 5189.0,
-    "diff_abs": 771.66,
-    "diff_pct": 17.47
+    "ean": "7790550029479",
+    "nombre": "cafe instantaneo cabrales la planta suave x 100 gr",
+    "categoria": "Perfumeria",
+    "precio_antes": 4709.0,
+    "precio_hoy": 6959.0,
+    "diff_abs": 2250.0,
+    "diff_pct": 47.78
   },
   {
-    "ean": "7790742373205",
-    "nombre": "queso untable finlandia clasico x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4417.34,
-    "precio_hoy": 5189.0,
-    "diff_abs": 771.66,
-    "diff_pct": 17.47
+    "ean": "7793147118822",
+    "nombre": "cerveza budweiser lata x 473 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 1609.0,
+    "precio_hoy": 2375.0,
+    "diff_abs": 766.0,
+    "diff_pct": 47.61
   },
   {
-    "ean": "7790742373304",
-    "nombre": "queso untable finlandia light x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4417.34,
-    "precio_hoy": 5189.0,
-    "diff_abs": 771.66,
-    "diff_pct": 17.47
+    "ean": "7790670050667",
+    "nombre": "hamburguesas paty x 12 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 16859.01,
+    "precio_hoy": 24776.0,
+    "diff_abs": 7916.99,
+    "diff_pct": 46.96
+  },
+  {
+    "ean": "7793147001056",
+    "nombre": "cerveza budweiser x 1 lt. retornable",
+    "categoria": "Bebidas",
+    "precio_antes": 2869.0,
+    "precio_hoy": 4200.0,
+    "diff_abs": 1331.0,
+    "diff_pct": 46.39
   }
 ]

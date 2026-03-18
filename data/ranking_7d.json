@@ -9,174 +9,174 @@
     "diff_pct": 73.56
   },
   {
-    "ean": "2022080000006",
-    "nombre": "rucula x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1390.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 600.0,
-    "diff_pct": 43.17
-  },
-  {
-    "ean": "7797906054918",
-    "nombre": "papas mc cain noisette x 1.2 kg.",
+    "ean": "7790670050674",
+    "nombre": "hamburguesas paty x 2 unid. clasicas",
     "categoria": "Congelados",
-    "precio_antes": 13302.98,
-    "precio_hoy": 18999.0,
-    "diff_abs": 5696.02,
-    "diff_pct": 42.82
+    "precio_antes": 2799.0,
+    "precio_hoy": 4527.0,
+    "diff_abs": 1728.0,
+    "diff_pct": 61.74
   },
   {
-    "ean": "7797906000700",
-    "nombre": "papas mc cain tradicional x 400 gr.",
+    "ean": "7500810034354",
+    "nombre": "snack takis original x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2829.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1624.0,
+    "diff_pct": 57.41
+  },
+  {
+    "ean": "7500810041741",
+    "nombre": "snack takis x 140 gm intense",
+    "categoria": "Almacen",
+    "precio_antes": 2829.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1624.0,
+    "diff_pct": 57.41
+  },
+  {
+    "ean": "7500810034330",
+    "nombre": "snack takis fuego x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2829.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1624.0,
+    "diff_pct": 57.41
+  },
+  {
+    "ean": "7500810034347",
+    "nombre": "snack takis xplosion x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2829.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1624.0,
+    "diff_pct": 57.41
+  },
+  {
+    "ean": "7500810034477",
+    "nombre": "snack takis original x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1769.0,
+    "precio_hoy": 2779.0,
+    "diff_abs": 1010.0,
+    "diff_pct": 57.09
+  },
+  {
+    "ean": "7500810041734",
+    "nombre": "snack takis x 85 gm intense",
+    "categoria": "Almacen",
+    "precio_antes": 1769.0,
+    "precio_hoy": 2779.0,
+    "diff_abs": 1010.0,
+    "diff_pct": 57.09
+  },
+  {
+    "ean": "7500810034361",
+    "nombre": "snack takis fuego x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1769.0,
+    "precio_hoy": 2779.0,
+    "diff_abs": 1010.0,
+    "diff_pct": 57.09
+  },
+  {
+    "ean": "7790070035981",
+    "nombre": "milan.soja gr.sol x330gr.espin",
     "categoria": "Congelados",
-    "precio_antes": 3354.59,
-    "precio_hoy": 4783.0,
-    "diff_abs": 1428.41,
-    "diff_pct": 42.58
+    "precio_antes": 3119.0,
+    "precio_hoy": 4895.0,
+    "diff_abs": 1776.0,
+    "diff_pct": 56.94
   },
   {
-    "ean": "2030580000006",
-    "nombre": "medallon merluza x kg.",
+    "ean": "7790070035998",
+    "nombre": "milanesas de soja granja del sol x 330 gr. calabaz",
     "categoria": "Congelados",
-    "precio_antes": 8284.0,
-    "precio_hoy": 11423.0,
-    "diff_abs": 3139.0,
-    "diff_pct": 37.89
+    "precio_antes": 3119.0,
+    "precio_hoy": 4895.0,
+    "diff_abs": 1776.0,
+    "diff_pct": 56.94
   },
   {
-    "ean": "2016350000001",
-    "nombre": "dulce de membrillo en caja dulcor x kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3929.0,
-    "precio_hoy": 5409.0,
-    "diff_abs": 1480.0,
-    "diff_pct": 37.67
-  },
-  {
-    "ean": "7790742172105",
-    "nombre": "bebida lactea la serenisima protein chocolate x 1",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 4522.0,
-    "diff_abs": 1223.0,
-    "diff_pct": 37.07
-  },
-  {
-    "ean": "7790742661333",
-    "nombre": "bebida lactea la serenisima x 900 gm cookies and cream",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1969.0,
-    "precio_hoy": 2695.0,
-    "diff_abs": 726.0,
-    "diff_pct": 36.87
-  },
-  {
-    "ean": "7790742172204",
-    "nombre": "bebida lactea la serenisima x 200ml protein chocol",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1159.0,
-    "precio_hoy": 1583.0,
-    "diff_abs": 424.0,
-    "diff_pct": 36.58
-  },
-  {
-    "ean": "7793046004141",
-    "nombre": "dulce de membrillo dulcor sachet x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2239.0,
-    "precio_hoy": 3024.0,
-    "diff_abs": 785.0,
-    "diff_pct": 35.06
-  },
-  {
-    "ean": "2037400000000",
-    "nombre": "queso santa rosa provoleta ahumada envasada al vacio x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 33013.0,
-    "precio_hoy": 44064.0,
-    "diff_abs": 11051.0,
-    "diff_pct": 33.47
-  },
-  {
-    "ean": "2021780000002",
-    "nombre": "perejil x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
-    "ean": "7790742566027",
-    "nombre": "bebida lactea la serenisima x 200 ml frutilla redu",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1159.0,
-    "precio_hoy": 1537.0,
-    "diff_abs": 378.0,
-    "diff_pct": 32.61
-  },
-  {
-    "ean": "2038260000001",
-    "nombre": "rodajas de salmon al vacio las caracolas x kilo",
+    "ean": "7790070035974",
+    "nombre": "milanesas de soja granja del sol x 660 gr.",
     "categoria": "Congelados",
-    "precio_antes": 30782.0,
-    "precio_hoy": 40462.0,
-    "diff_abs": 9680.0,
-    "diff_pct": 31.45
+    "precio_antes": 5439.0,
+    "precio_hoy": 8527.0,
+    "diff_abs": 3088.0,
+    "diff_pct": 56.78
   },
   {
-    "ean": "7793940052002",
-    "nombre": "manteca la serenisima x 100 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1939.0,
-    "precio_hoy": 2512.0,
-    "diff_abs": 573.0,
-    "diff_pct": 29.55
+    "ean": "7790070036001",
+    "nombre": "milanesas de arroz y vegetales granja del sol x 33",
+    "categoria": "Congelados",
+    "precio_antes": 3629.0,
+    "precio_hoy": 5685.0,
+    "diff_abs": 2056.0,
+    "diff_pct": 56.65
   },
   {
-    "ean": "7793940054006",
-    "nombre": "manteca ls.x200gr.clasica",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3529.0,
-    "precio_hoy": 4571.0,
-    "diff_abs": 1042.0,
-    "diff_pct": 29.53
+    "ean": "7790070036025",
+    "nombre": "milanesas de vegetales granja de sol x 320 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3639.0,
+    "precio_hoy": 5665.0,
+    "diff_abs": 2026.0,
+    "diff_pct": 55.67
   },
   {
-    "ean": "7790314080500",
-    "nombre": "vino resero x 700 ml tinto",
+    "ean": "7792798992317",
+    "nombre": "cerveza andes roja lata x 473 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 2372.0,
-    "precio_hoy": 3056.0,
-    "diff_abs": 684.0,
-    "diff_pct": 28.84
+    "precio_antes": 1999.0,
+    "precio_hoy": 3025.0,
+    "diff_abs": 1026.0,
+    "diff_pct": 51.33
   },
   {
-    "ean": "2025990000005",
-    "nombre": "queso cremoso la serenisima cremon fraccionado al vacio x ki",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 13298.99,
-    "precio_hoy": 17115.0,
-    "diff_abs": 3816.01,
-    "diff_pct": 28.69
+    "ean": "7792798002726",
+    "nombre": "cerveza andes ipa pack 6 latas x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1999.0,
+    "precio_hoy": 3025.0,
+    "diff_abs": 1026.0,
+    "diff_pct": 51.33
   },
   {
-    "ean": "2017600000000",
-    "nombre": "queso la serenisima cremon light fraccionado al vacio x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 14848.99,
-    "precio_hoy": 19107.0,
-    "diff_abs": 4258.01,
-    "diff_pct": 28.68
+    "ean": "7792798002320",
+    "nombre": "cerveza andes negra lata x 473ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1999.0,
+    "precio_hoy": 3025.0,
+    "diff_abs": 1026.0,
+    "diff_pct": 51.33
   },
   {
-    "ean": "7702147245667",
-    "nombre": "453cl6 vaso cristar rocks x 6 unid.",
-    "categoria": "Limpieza",
-    "precio_antes": 12100.0,
-    "precio_hoy": 15447.0,
-    "diff_abs": 3347.0,
-    "diff_pct": 27.66
+    "ean": "7790670050780",
+    "nombre": "hamburguesas paty clasico x 20 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 26719.0,
+    "precio_hoy": 40393.0,
+    "diff_abs": 13674.0,
+    "diff_pct": 51.18
+  },
+  {
+    "ean": "7790550000171",
+    "nombre": "cafe molido cabrales la planta x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 22759.0,
+    "precio_hoy": 33680.0,
+    "diff_abs": 10921.0,
+    "diff_pct": 47.99
+  },
+  {
+    "ean": "7790550029479",
+    "nombre": "cafe instantaneo cabrales la planta suave x 100 gr",
+    "categoria": "Perfumeria",
+    "precio_antes": 4709.0,
+    "precio_hoy": 6959.0,
+    "diff_abs": 2250.0,
+    "diff_pct": 47.78
   }
 ]
