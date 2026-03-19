@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2021840000003",
-    "nombre": "pimiento verde x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 100.4
-  },
-  {
-    "ean": "7790670050674",
-    "nombre": "hamburguesas paty x 2 unid. clasicas",
+    "ean": "7797906054925",
+    "nombre": "papas noisette mc cain horneables x 600 gr.",
     "categoria": "Congelados",
-    "precio_antes": 2699.0,
-    "precio_hoy": 4527.0,
-    "diff_abs": 1828.0,
-    "diff_pct": 67.73
+    "precio_antes": 4559.0,
+    "precio_hoy": 10000.0,
+    "diff_abs": 5441.0,
+    "diff_pct": 119.35
   },
   {
-    "ean": "7792798008858",
-    "nombre": "cerveza temple wolf ipa x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2859.0,
-    "precio_hoy": 4500.0,
-    "diff_abs": 1641.0,
-    "diff_pct": 57.4
+    "ean": "7793890261578",
+    "nombre": "brownie chips sabe bien! x 62 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 889.0,
+    "precio_hoy": 1423.0,
+    "diff_abs": 534.0,
+    "diff_pct": 60.07
   },
   {
-    "ean": "7790070035998",
-    "nombre": "milanesas de soja granja del sol x 330 gr. calabaz",
+    "ean": "7793890261530",
+    "nombre": "braunichoc sabe bien! x 35 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 619.0,
+    "precio_hoy": 982.0,
+    "diff_abs": 363.0,
+    "diff_pct": 58.64
+  },
+  {
+    "ean": "7797906054833",
+    "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
     "categoria": "Congelados",
-    "precio_antes": 3119.0,
-    "precio_hoy": 4895.0,
-    "diff_abs": 1776.0,
-    "diff_pct": 56.94
+    "precio_antes": 5239.0,
+    "precio_hoy": 8071.0,
+    "diff_abs": 2832.0,
+    "diff_pct": 54.06
   },
   {
-    "ean": "7790070035981",
-    "nombre": "milan.soja gr.sol x330gr.espin",
-    "categoria": "Congelados",
-    "precio_antes": 3119.0,
-    "precio_hoy": 4895.0,
-    "diff_abs": 1776.0,
-    "diff_pct": 56.94
+    "ean": "7793890258691",
+    "nombre": "vainillas valente x 148 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1349.0,
+    "precio_hoy": 2044.0,
+    "diff_abs": 695.0,
+    "diff_pct": 51.52
   },
   {
-    "ean": "7790070035974",
-    "nombre": "milanesas de soja granja del sol x 660 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 5439.0,
-    "precio_hoy": 8527.0,
-    "diff_abs": 3088.0,
-    "diff_pct": 56.78
-  },
-  {
-    "ean": "7790070036001",
-    "nombre": "milanesas de arroz y vegetales granja del sol x 33",
-    "categoria": "Congelados",
-    "precio_antes": 3629.0,
-    "precio_hoy": 5685.0,
-    "diff_abs": 2056.0,
-    "diff_pct": 56.65
-  },
-  {
-    "ean": "7790070102607",
-    "nombre": "milan.soja gr.sol x330gr.tc",
-    "categoria": "Congelados",
-    "precio_antes": 3089.0,
-    "precio_hoy": 4838.0,
-    "diff_abs": 1749.0,
-    "diff_pct": 56.62
-  },
-  {
-    "ean": "7790070036025",
-    "nombre": "milanesas de vegetales granja de sol x 320 gr.",
-    "categoria": "Congelados",
+    "ean": "7793890258707",
+    "nombre": "vainillas valente x 444 gm",
+    "categoria": "Perfumeria",
     "precio_antes": 3639.0,
-    "precio_hoy": 5665.0,
-    "diff_abs": 2026.0,
-    "diff_pct": 55.67
+    "precio_hoy": 5510.0,
+    "diff_abs": 1871.0,
+    "diff_pct": 51.42
   },
   {
-    "ean": "7792798002726",
-    "nombre": "cerveza andes ipa pack 6 latas x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1999.0,
-    "precio_hoy": 3025.0,
-    "diff_abs": 1026.0,
-    "diff_pct": 51.33
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
   },
   {
-    "ean": "7792798002320",
-    "nombre": "cerveza andes negra lata x 473ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1999.0,
-    "precio_hoy": 3025.0,
-    "diff_abs": 1026.0,
-    "diff_pct": 51.33
+    "ean": "2010460000005",
+    "nombre": "naranja de ombligo importada x kilo",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
   },
   {
-    "ean": "7792798992317",
-    "nombre": "cerveza andes roja lata x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1999.0,
-    "precio_hoy": 3025.0,
-    "diff_abs": 1026.0,
-    "diff_pct": 51.33
+    "ean": "7796384092375",
+    "nombre": "vaso con asas",
+    "categoria": "Limpieza",
+    "precio_antes": 17225.0,
+    "precio_hoy": 19875.0,
+    "diff_abs": 2650.0,
+    "diff_pct": 15.38
   },
   {
-    "ean": "7790670050780",
-    "nombre": "hamburguesas paty clasico x 20 unid.",
+    "ean": "7794820903117",
+    "nombre": "leche parcialmente descremada milkaut larga vida .",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2042.0,
+    "precio_hoy": 2349.0,
+    "diff_abs": 307.0,
+    "diff_pct": 15.03
+  },
+  {
+    "ean": "2030630000000",
+    "nombre": "kanikama las caracolas x kg.",
     "categoria": "Congelados",
-    "precio_antes": 26719.0,
-    "precio_hoy": 40393.0,
-    "diff_abs": 13674.0,
-    "diff_pct": 51.18
+    "precio_antes": 36591.0,
+    "precio_hoy": 40463.0,
+    "diff_abs": 3872.0,
+    "diff_pct": 10.58
   },
   {
-    "ean": "7792798001972",
-    "nombre": "cerveza lata patagonia x 473 ml 24.7",
-    "categoria": "Bebidas",
-    "precio_antes": 2999.0,
-    "precio_hoy": 4500.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 50.05
-  },
-  {
-    "ean": "7792798001965",
-    "nombre": "cerveza patagonia amber lager lata x 473 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 2999.0,
-    "precio_hoy": 4500.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 50.05
-  },
-  {
-    "ean": "7790550000171",
-    "nombre": "cafe molido cabrales la planta x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 22759.0,
-    "precio_hoy": 33680.0,
-    "diff_abs": 10921.0,
-    "diff_pct": 47.99
-  },
-  {
-    "ean": "7790550029479",
-    "nombre": "cafe instantaneo cabrales la planta suave x 100 gr",
-    "categoria": "Perfumeria",
-    "precio_antes": 4709.0,
-    "precio_hoy": 6959.0,
-    "diff_abs": 2250.0,
-    "diff_pct": 47.78
-  },
-  {
-    "ean": "7793147118822",
-    "nombre": "cerveza budweiser lata x 473 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 1609.0,
-    "precio_hoy": 2375.0,
-    "diff_abs": 766.0,
-    "diff_pct": 47.61
-  },
-  {
-    "ean": "7790670050667",
-    "nombre": "hamburguesas paty x 12 unid. clasicas",
+    "ean": "2030570000009",
+    "nombre": "filet de merluza rebozado las caracolas con finas hierbas en",
     "categoria": "Congelados",
-    "precio_antes": 16859.01,
-    "precio_hoy": 24776.0,
-    "diff_abs": 7916.99,
-    "diff_pct": 46.96
+    "precio_antes": 19167.0,
+    "precio_hoy": 21103.0,
+    "diff_abs": 1936.0,
+    "diff_pct": 10.1
   },
   {
-    "ean": "7793147001056",
-    "nombre": "cerveza budweiser x 1 lt. retornable",
+    "ean": "2037670000007",
+    "nombre": "rabas empanadas x kilo x kg.",
+    "categoria": "Congelados",
+    "precio_antes": 55950.0,
+    "precio_hoy": 59822.0,
+    "diff_abs": 3872.0,
+    "diff_pct": 6.92
+  },
+  {
+    "ean": "7790577000833",
+    "nombre": "vino rutini x 750 ml chardonay",
     "categoria": "Bebidas",
-    "precio_antes": 2869.0,
-    "precio_hoy": 4200.0,
-    "diff_abs": 1331.0,
-    "diff_pct": 46.39
+    "precio_antes": 23139.0,
+    "precio_hoy": 24728.7,
+    "diff_abs": 1589.7,
+    "diff_pct": 6.87
+  },
+  {
+    "ean": "7790577000840",
+    "nombre": "vino rutini merlot x 750 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 18549.0,
+    "precio_hoy": 19768.78,
+    "diff_abs": 1219.78,
+    "diff_pct": 6.58
+  },
+  {
+    "ean": "7790577046848",
+    "nombre": "vino s.felipe x750ml.cepa trad",
+    "categoria": "Bebidas",
+    "precio_antes": 8630.0,
+    "precio_hoy": 9187.0,
+    "diff_abs": 557.0,
+    "diff_pct": 6.45
+  },
+  {
+    "ean": "7790577001571",
+    "nombre": "vino tinto san felipe 12 uvas x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5410.0,
+    "precio_hoy": 5754.0,
+    "diff_abs": 344.0,
+    "diff_pct": 6.36
+  },
+  {
+    "ean": "7790577000024",
+    "nombre": "vino tinto san felipe x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5410.0,
+    "precio_hoy": 5754.0,
+    "diff_abs": 344.0,
+    "diff_pct": 6.36
+  },
+  {
+    "ean": "7790577000017",
+    "nombre": "vino fino blanco san felipe x 750 cc.",
+    "categoria": "Bebidas",
+    "precio_antes": 5410.0,
+    "precio_hoy": 5754.0,
+    "diff_abs": 344.0,
+    "diff_pct": 6.36
+  },
+  {
+    "ean": "7790577006125",
+    "nombre": "vino tinto encuentro cabernet sauvignon x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 14421.0,
+    "precio_hoy": 15312.0,
+    "diff_abs": 891.0,
+    "diff_pct": 6.18
   }
 ]

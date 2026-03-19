@@ -1,140 +1,147 @@
 {
-  "fecha": "20260318",
-  "total_productos": 5632,
-  "variacion_dia": 0.77,
-  "variacion_7d": -0.04,
+  "fecha": "20260319",
+  "total_productos": 5640,
+  "variacion_dia": -0.12,
+  "variacion_7d": -0.24,
   "variacion_mes": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 1.67,
-      "productos_subieron": 203,
-      "productos_bajaron": 23,
-      "total_productos": 1239
+      "variacion_pct_promedio": -0.58,
+      "productos_subieron": 22,
+      "productos_bajaron": 52,
+      "total_productos": 1250
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.98,
-      "productos_subieron": 49,
-      "productos_bajaron": 101,
-      "total_productos": 1137
+      "variacion_pct_promedio": -0.05,
+      "productos_subieron": 3,
+      "productos_bajaron": 4,
+      "total_productos": 1148
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 5.6,
-      "productos_subieron": 50,
-      "productos_bajaron": 0,
-      "total_productos": 194
+      "variacion_pct_promedio": 0.7,
+      "productos_subieron": 5,
+      "productos_bajaron": 2,
+      "total_productos": 193
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": -0.15,
-      "productos_subieron": 2,
-      "productos_bajaron": 3,
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 1,
+      "productos_bajaron": 0,
       "total_productos": 668
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 1.48,
-      "productos_subieron": 53,
-      "productos_bajaron": 4,
-      "total_productos": 787
+      "variacion_pct_promedio": 0.27,
+      "productos_subieron": 7,
+      "productos_bajaron": 1,
+      "total_productos": 800
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": -0.16,
+      "productos_subieron": 0,
+      "productos_bajaron": 7,
+      "total_productos": 1558
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7791337007796",
-      "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+      "ean": "2021840000003",
+      "nombre": "pimiento verde x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -40.08
+    },
+    {
+      "ean": "7500810034354",
+      "nombre": "snack takis original x 140 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 4453.0,
+      "precio_hoy": 2829.0,
+      "diff_abs": -1624.0,
+      "diff_pct": -36.47
+    },
+    {
+      "ean": "7500810034330",
+      "nombre": "snack takis fuego x 140 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 4453.0,
+      "precio_hoy": 2829.0,
+      "diff_abs": -1624.0,
+      "diff_pct": -36.47
+    },
+    {
+      "ean": "7500810041741",
+      "nombre": "snack takis x 140 gm intense",
+      "categoria": "Almacen",
+      "precio_antes": 4453.0,
+      "precio_hoy": 2829.0,
+      "diff_abs": -1624.0,
+      "diff_pct": -36.47
+    },
+    {
+      "ean": "7500810034347",
+      "nombre": "snack takis xplosion x 140 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 4453.0,
+      "precio_hoy": 2829.0,
+      "diff_abs": -1624.0,
+      "diff_pct": -36.47
+    },
+    {
+      "ean": "7791337061422",
+      "nombre": "queso crema la serenisima x 290 gm entero",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 7018.0,
-      "precio_hoy": 3808.99,
-      "diff_abs": -3209.01,
-      "diff_pct": -45.73
+      "precio_antes": 3774.0,
+      "precio_hoy": 2399.0,
+      "diff_abs": -1375.0,
+      "diff_pct": -36.43
     },
     {
-      "ean": "7791337007253",
-      "nombre": "leche chocolatada cindor x 1 lt.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 7018.0,
-      "precio_hoy": 3808.99,
-      "diff_abs": -3209.01,
-      "diff_pct": -45.73
+      "ean": "7500810034477",
+      "nombre": "snack takis original x 85 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 2779.0,
+      "precio_hoy": 1769.0,
+      "diff_abs": -1010.0,
+      "diff_pct": -36.34
     },
     {
-      "ean": "5010762103333",
-      "nombre": "mixing bowl 0.5 x 14 cm",
-      "categoria": "Limpieza",
-      "precio_antes": 15148.87,
-      "precio_hoy": 8338.0,
-      "diff_abs": -6810.87,
-      "diff_pct": -44.96
+      "ean": "7500810034361",
+      "nombre": "snack takis fuego x 85 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 2779.0,
+      "precio_hoy": 1769.0,
+      "diff_abs": -1010.0,
+      "diff_pct": -36.34
     },
     {
-      "ean": "5010762103340",
-      "nombre": "mixing bowl x 1 litro 16 cm",
-      "categoria": "Limpieza",
-      "precio_antes": 17556.49,
-      "precio_hoy": 10092.0,
-      "diff_abs": -7464.49,
-      "diff_pct": -42.52
+      "ean": "7500810041734",
+      "nombre": "snack takis x 85 gm intense",
+      "categoria": "Almacen",
+      "precio_antes": 2779.0,
+      "precio_hoy": 1769.0,
+      "diff_abs": -1010.0,
+      "diff_pct": -36.34
     },
     {
-      "ean": "7791337007260",
-      "nombre": "leche chocolatada cindor x 200 ml.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2524.0,
-      "precio_hoy": 1509.0,
-      "diff_abs": -1015.0,
-      "diff_pct": -40.21
-    },
-    {
-      "ean": "2037150000008",
-      "nombre": "marucha de novillo estancia retiro env. al vacio x kilo",
-      "categoria": "Carniceria",
-      "precio_antes": 25900.0,
-      "precio_hoy": 16700.0,
-      "diff_abs": -9200.0,
-      "diff_pct": -35.52
-    },
-    {
-      "ean": "7792798010578",
-      "nombre": "cerveza stella artois long neck six pack x 330 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 3500.0,
-      "precio_hoy": 2279.0,
-      "diff_abs": -1221.0,
-      "diff_pct": -34.89
-    },
-    {
-      "ean": "7792798015351",
-      "nombre": "cerveza corona 0 % x 473 ml lata",
-      "categoria": "Bebidas",
-      "precio_antes": 3100.0,
-      "precio_hoy": 2169.0,
-      "diff_abs": -931.0,
-      "diff_pct": -30.03
-    },
-    {
-      "ean": "7792798014873",
-      "nombre": "cerveza corona cero x 330 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 3300.0,
-      "precio_hoy": 2309.0,
-      "diff_abs": -991.0,
-      "diff_pct": -30.03
-    },
-    {
-      "ean": "7792798002757",
-      "nombre": "cerveza andes ipa retornable x 1 lt.",
-      "categoria": "Bebidas",
-      "precio_antes": 5000.0,
-      "precio_hoy": 3509.0,
-      "diff_abs": -1491.0,
-      "diff_pct": -29.82
+      "ean": "7797906054918",
+      "nombre": "papas mc cain noisette x 1.2 kg.",
+      "categoria": "Congelados",
+      "precio_antes": 18999.0,
+      "precio_hoy": 12329.01,
+      "diff_abs": -6669.99,
+      "diff_pct": -35.11
     }
   ],
-  "productos_subieron_dia": 357,
-  "productos_bajaron_dia": 131,
-  "productos_sin_cambio_dia": 3537
+  "productos_subieron_dia": 38,
+  "productos_bajaron_dia": 66,
+  "productos_sin_cambio_dia": 5513
 }

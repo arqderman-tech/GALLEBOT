@@ -18,71 +18,8 @@
     "diff_pct": 61.74
   },
   {
-    "ean": "7500810034354",
-    "nombre": "snack takis original x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2829.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1624.0,
-    "diff_pct": 57.41
-  },
-  {
-    "ean": "7500810041741",
-    "nombre": "snack takis x 140 gm intense",
-    "categoria": "Almacen",
-    "precio_antes": 2829.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1624.0,
-    "diff_pct": 57.41
-  },
-  {
-    "ean": "7500810034330",
-    "nombre": "snack takis fuego x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2829.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1624.0,
-    "diff_pct": 57.41
-  },
-  {
-    "ean": "7500810034347",
-    "nombre": "snack takis xplosion x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2829.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1624.0,
-    "diff_pct": 57.41
-  },
-  {
-    "ean": "7500810034477",
-    "nombre": "snack takis original x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1769.0,
-    "precio_hoy": 2779.0,
-    "diff_abs": 1010.0,
-    "diff_pct": 57.09
-  },
-  {
-    "ean": "7500810041734",
-    "nombre": "snack takis x 85 gm intense",
-    "categoria": "Almacen",
-    "precio_antes": 1769.0,
-    "precio_hoy": 2779.0,
-    "diff_abs": 1010.0,
-    "diff_pct": 57.09
-  },
-  {
-    "ean": "7500810034361",
-    "nombre": "snack takis fuego x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1769.0,
-    "precio_hoy": 2779.0,
-    "diff_abs": 1010.0,
-    "diff_pct": 57.09
-  },
-  {
-    "ean": "7790070035981",
-    "nombre": "milan.soja gr.sol x330gr.espin",
+    "ean": "7790070035998",
+    "nombre": "milanesas de soja granja del sol x 330 gr. calabaz",
     "categoria": "Congelados",
     "precio_antes": 3119.0,
     "precio_hoy": 4895.0,
@@ -90,8 +27,8 @@
     "diff_pct": 56.94
   },
   {
-    "ean": "7790070035998",
-    "nombre": "milanesas de soja granja del sol x 330 gr. calabaz",
+    "ean": "7790070035981",
+    "nombre": "milan.soja gr.sol x330gr.espin",
     "categoria": "Congelados",
     "precio_antes": 3119.0,
     "precio_hoy": 4895.0,
@@ -126,15 +63,6 @@
     "diff_pct": 55.67
   },
   {
-    "ean": "7792798992317",
-    "nombre": "cerveza andes roja lata x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1999.0,
-    "precio_hoy": 3025.0,
-    "diff_abs": 1026.0,
-    "diff_pct": 51.33
-  },
-  {
     "ean": "7792798002726",
     "nombre": "cerveza andes ipa pack 6 latas x 473 ml.",
     "categoria": "Bebidas",
@@ -146,6 +74,15 @@
   {
     "ean": "7792798002320",
     "nombre": "cerveza andes negra lata x 473ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1999.0,
+    "precio_hoy": 3025.0,
+    "diff_abs": 1026.0,
+    "diff_pct": 51.33
+  },
+  {
+    "ean": "7792798992317",
+    "nombre": "cerveza andes roja lata x 473 ml.",
     "categoria": "Bebidas",
     "precio_antes": 1999.0,
     "precio_hoy": 3025.0,
@@ -178,5 +115,68 @@
     "precio_hoy": 6959.0,
     "diff_abs": 2250.0,
     "diff_pct": 47.78
+  },
+  {
+    "ean": "7793147118822",
+    "nombre": "cerveza budweiser lata x 473 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 1609.0,
+    "precio_hoy": 2375.0,
+    "diff_abs": 766.0,
+    "diff_pct": 47.61
+  },
+  {
+    "ean": "7793147001056",
+    "nombre": "cerveza budweiser x 1 lt. retornable",
+    "categoria": "Bebidas",
+    "precio_antes": 2869.0,
+    "precio_hoy": 4200.0,
+    "diff_abs": 1331.0,
+    "diff_pct": 46.39
+  },
+  {
+    "ean": "2022080000006",
+    "nombre": "rucula x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1390.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 600.0,
+    "diff_pct": 43.17
+  },
+  {
+    "ean": "7790550022258",
+    "nombre": "cafe molido super cabrales x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 21929.0,
+    "precio_hoy": 31211.0,
+    "diff_abs": 9282.0,
+    "diff_pct": 42.33
+  },
+  {
+    "ean": "7790550022234",
+    "nombre": "cafe super cabrales x250gr.tos",
+    "categoria": "Perfumeria",
+    "precio_antes": 10969.0,
+    "precio_hoy": 15605.0,
+    "diff_abs": 4636.0,
+    "diff_pct": 42.26
+  },
+  {
+    "ean": "7790670050667",
+    "nombre": "hamburguesas paty x 12 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 17479.0,
+    "precio_hoy": 24776.0,
+    "diff_abs": 7297.0,
+    "diff_pct": 41.75
+  },
+  {
+    "ean": "7790670052371",
+    "nombre": "medallones de carne express x 4 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 4079.0,
+    "precio_hoy": 5777.0,
+    "diff_abs": 1698.0,
+    "diff_pct": 41.63
   }
 ]
