@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7797906054925",
-    "nombre": "papas noisette mc cain horneables x 600 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 4559.0,
-    "precio_hoy": 10000.0,
-    "diff_abs": 5441.0,
-    "diff_pct": 119.35
-  },
-  {
-    "ean": "7793890261578",
-    "nombre": "brownie chips sabe bien! x 62 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 889.0,
-    "precio_hoy": 1423.0,
-    "diff_abs": 534.0,
-    "diff_pct": 60.07
-  },
-  {
-    "ean": "7793890261530",
-    "nombre": "braunichoc sabe bien! x 35 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 619.0,
-    "precio_hoy": 982.0,
-    "diff_abs": 363.0,
-    "diff_pct": 58.64
-  },
-  {
-    "ean": "7797906054833",
-    "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 5239.0,
-    "precio_hoy": 8071.0,
-    "diff_abs": 2832.0,
-    "diff_pct": 54.06
-  },
-  {
-    "ean": "7793890258691",
-    "nombre": "vainillas valente x 148 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1349.0,
-    "precio_hoy": 2044.0,
-    "diff_abs": 695.0,
-    "diff_pct": 51.52
-  },
-  {
-    "ean": "7793890258707",
-    "nombre": "vainillas valente x 444 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 3639.0,
-    "precio_hoy": 5510.0,
-    "diff_abs": 1871.0,
-    "diff_pct": 51.42
-  },
-  {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
+    "ean": "2020270000003",
+    "nombre": "cebolla x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
+    "precio_antes": 990.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 50.51
   },
   {
-    "ean": "2010460000005",
-    "nombre": "naranja de ombligo importada x kilo",
+    "ean": "2020410000009",
+    "nombre": "choclo elegido x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3490.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 42.98
+  },
+  {
+    "ean": "7790895643804",
+    "nombre": "ades x1lt.anana",
+    "categoria": "Bebidas",
+    "precio_antes": 2369.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 900.0,
+    "diff_pct": 37.99
+  },
+  {
+    "ean": "7790895643866",
+    "nombre": "alimento de soja ades frutas tropicales x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2369.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 900.0,
+    "diff_pct": 37.99
+  },
+  {
+    "ean": "7790895643835",
+    "nombre": "alimento de soja ades manzana x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2369.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 900.0,
+    "diff_pct": 37.99
+  },
+  {
+    "ean": "7790895643842",
+    "nombre": "alimento de soja ades naranja x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2369.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 900.0,
+    "diff_pct": 37.99
+  },
+  {
+    "ean": "7790895643828",
+    "nombre": "alimento de soja ades durazno x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2369.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 900.0,
+    "diff_pct": 37.99
+  },
+  {
+    "ean": "7790895641800",
+    "nombre": "jugo cepita botella x 1.5 lt. naranja",
+    "categoria": "Bebidas",
+    "precio_antes": 2429.0,
+    "precio_hoy": 3351.0,
+    "diff_abs": 922.0,
+    "diff_pct": 37.96
+  },
+  {
+    "ean": "7790895641749",
+    "nombre": "jugo cepita anana x 1.5 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2429.0,
+    "precio_hoy": 3351.0,
+    "diff_abs": 922.0,
+    "diff_pct": 37.96
+  },
+  {
+    "ean": "7790895641534",
+    "nombre": "jugo cepita botella x 1,5 lt. durazno",
+    "categoria": "Bebidas",
+    "precio_antes": 2429.0,
+    "precio_hoy": 3351.0,
+    "diff_abs": 922.0,
+    "diff_pct": 37.96
+  },
+  {
+    "ean": "2020490000005",
+    "nombre": "ciruela roja x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
+    "precio_hoy": 7990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 33.39
   },
   {
-    "ean": "7796384092375",
-    "nombre": "vaso con asas",
-    "categoria": "Limpieza",
-    "precio_antes": 17225.0,
-    "precio_hoy": 19875.0,
-    "diff_abs": 2650.0,
-    "diff_pct": 15.38
-  },
-  {
-    "ean": "7794820903117",
-    "nombre": "leche parcialmente descremada milkaut larga vida .",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2042.0,
-    "precio_hoy": 2349.0,
-    "diff_abs": 307.0,
-    "diff_pct": 15.03
-  },
-  {
-    "ean": "2030630000000",
-    "nombre": "kanikama las caracolas x kg.",
-    "categoria": "Congelados",
-    "precio_antes": 36591.0,
-    "precio_hoy": 40463.0,
-    "diff_abs": 3872.0,
-    "diff_pct": 10.58
-  },
-  {
-    "ean": "2030570000009",
-    "nombre": "filet de merluza rebozado las caracolas con finas hierbas en",
-    "categoria": "Congelados",
-    "precio_antes": 19167.0,
-    "precio_hoy": 21103.0,
-    "diff_abs": 1936.0,
-    "diff_pct": 10.1
-  },
-  {
-    "ean": "2037670000007",
-    "nombre": "rabas empanadas x kilo x kg.",
-    "categoria": "Congelados",
-    "precio_antes": 55950.0,
-    "precio_hoy": 59822.0,
-    "diff_abs": 3872.0,
-    "diff_pct": 6.92
-  },
-  {
-    "ean": "7790577000833",
-    "nombre": "vino rutini x 750 ml chardonay",
+    "ean": "7790895640476",
+    "nombre": "aquarius cepita sabor pera x 1.5 lts.",
     "categoria": "Bebidas",
-    "precio_antes": 23139.0,
-    "precio_hoy": 24728.7,
-    "diff_abs": 1589.7,
-    "diff_pct": 6.87
+    "precio_antes": 2249.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 741.0,
+    "diff_pct": 32.95
   },
   {
-    "ean": "7790577000840",
-    "nombre": "vino rutini merlot x 750 ml",
+    "ean": "7790895641220",
+    "nombre": "agua saborizada aquarius cepita uva x 1.5 lt.",
     "categoria": "Bebidas",
-    "precio_antes": 18549.0,
-    "precio_hoy": 19768.78,
-    "diff_abs": 1219.78,
-    "diff_pct": 6.58
+    "precio_antes": 2249.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 741.0,
+    "diff_pct": 32.95
   },
   {
-    "ean": "7790577046848",
-    "nombre": "vino s.felipe x750ml.cepa trad",
+    "ean": "7790895640490",
+    "nombre": "agua saborizada aquarius cepita pomelo x 1.5 lts.",
     "categoria": "Bebidas",
-    "precio_antes": 8630.0,
-    "precio_hoy": 9187.0,
-    "diff_abs": 557.0,
-    "diff_pct": 6.45
+    "precio_antes": 2249.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 741.0,
+    "diff_pct": 32.95
   },
   {
-    "ean": "7790577001571",
-    "nombre": "vino tinto san felipe 12 uvas x 750 ml.",
+    "ean": "7790895640483",
+    "nombre": "agua saborizada aquarius cepita manzana x 1.5 lts.",
     "categoria": "Bebidas",
-    "precio_antes": 5410.0,
-    "precio_hoy": 5754.0,
-    "diff_abs": 344.0,
-    "diff_pct": 6.36
+    "precio_antes": 2249.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 741.0,
+    "diff_pct": 32.95
   },
   {
-    "ean": "7790577000024",
-    "nombre": "vino tinto san felipe x 750 ml.",
+    "ean": "7790895008146",
+    "nombre": "agua bonaqua x 2.5 lt. sin gas",
     "categoria": "Bebidas",
-    "precio_antes": 5410.0,
-    "precio_hoy": 5754.0,
-    "diff_abs": 344.0,
-    "diff_pct": 6.36
+    "precio_antes": 2279.0,
+    "precio_hoy": 2850.0,
+    "diff_abs": 571.0,
+    "diff_pct": 25.05
   },
   {
-    "ean": "7790577000017",
-    "nombre": "vino fino blanco san felipe x 750 cc.",
+    "ean": "7790895003882",
+    "nombre": "agua mineral bonaqua sin gas x 2 lt.",
     "categoria": "Bebidas",
-    "precio_antes": 5410.0,
-    "precio_hoy": 5754.0,
-    "diff_abs": 344.0,
-    "diff_pct": 6.36
+    "precio_antes": 2079.0,
+    "precio_hoy": 2590.0,
+    "diff_abs": 511.0,
+    "diff_pct": 24.58
   },
   {
-    "ean": "7790577006125",
-    "nombre": "vino tinto encuentro cabernet sauvignon x 750 ml.",
+    "ean": "7790895647666",
+    "nombre": "agua benedictino sin gas x 2,25 lt.",
     "categoria": "Bebidas",
-    "precio_antes": 14421.0,
-    "precio_hoy": 15312.0,
-    "diff_abs": 891.0,
-    "diff_pct": 6.18
+    "precio_antes": 1919.0,
+    "precio_hoy": 2390.0,
+    "diff_abs": 471.0,
+    "diff_pct": 24.54
+  },
+  {
+    "ean": "7790895003875",
+    "nombre": "agua mineral bonaqua x 1,5 ml. sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1759.0,
+    "precio_hoy": 2190.0,
+    "diff_abs": 431.0,
+    "diff_pct": 24.5
+  },
+  {
+    "ean": "7790895003950",
+    "nombre": "agua bonaqua x 1,5 lt. con gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1759.0,
+    "precio_hoy": 2190.0,
+    "diff_abs": 431.0,
+    "diff_pct": 24.5
   }
 ]

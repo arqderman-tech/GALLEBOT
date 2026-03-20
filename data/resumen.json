@@ -1,147 +1,147 @@
 {
-  "fecha": "20260319",
-  "total_productos": 5640,
-  "variacion_dia": -0.12,
-  "variacion_7d": -0.24,
+  "fecha": "20260320",
+  "total_productos": 5703,
+  "variacion_dia": -0.03,
+  "variacion_7d": 0.28,
   "variacion_mes": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.58,
-      "productos_subieron": 22,
-      "productos_bajaron": 52,
-      "total_productos": 1250
+      "variacion_pct_promedio": -0.18,
+      "productos_subieron": 18,
+      "productos_bajaron": 38,
+      "total_productos": 1248
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.05,
+      "variacion_pct_promedio": 0.06,
       "productos_subieron": 3,
       "productos_bajaron": 4,
       "total_productos": 1148
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.7,
-      "productos_subieron": 5,
-      "productos_bajaron": 2,
-      "total_productos": 193
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 192
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "total_productos": 668
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.27,
-      "productos_subieron": 7,
-      "productos_bajaron": 1,
-      "total_productos": 800
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 798
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.16,
-      "productos_subieron": 0,
-      "productos_bajaron": 7,
-      "total_productos": 1558
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 1,
+      "productos_bajaron": 2,
+      "total_productos": 1557
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2021840000003",
-      "nombre": "pimiento verde x kg.",
+      "ean": "7792798002726",
+      "nombre": "cerveza andes ipa pack 6 latas x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 3025.0,
+      "precio_hoy": 2095.6,
+      "diff_abs": -929.4,
+      "diff_pct": -30.72
+    },
+    {
+      "ean": "7792798002320",
+      "nombre": "cerveza andes negra lata x 473ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 3025.0,
+      "precio_hoy": 2095.6,
+      "diff_abs": -929.4,
+      "diff_pct": -30.72
+    },
+    {
+      "ean": "2021640000005",
+      "nombre": "zanahoria suelta x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -40.08
+      "precio_antes": 2790.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -800.0,
+      "diff_pct": -28.67
     },
     {
-      "ean": "7500810034354",
-      "nombre": "snack takis original x 140 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 4453.0,
-      "precio_hoy": 2829.0,
-      "diff_abs": -1624.0,
-      "diff_pct": -36.47
+      "ean": "7798108834179",
+      "nombre": "vino tardio callia x 750 ml. rosado malbec",
+      "categoria": "Bebidas",
+      "precio_antes": 5082.0,
+      "precio_hoy": 4019.0,
+      "diff_abs": -1063.0,
+      "diff_pct": -20.92
     },
     {
-      "ean": "7500810034330",
-      "nombre": "snack takis fuego x 140 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 4453.0,
-      "precio_hoy": 2829.0,
-      "diff_abs": -1624.0,
-      "diff_pct": -36.47
+      "ean": "7798108834193",
+      "nombre": "vino callia amable x750ml.t.ti",
+      "categoria": "Bebidas",
+      "precio_antes": 5082.0,
+      "precio_hoy": 4019.0,
+      "diff_abs": -1063.0,
+      "diff_pct": -20.92
     },
     {
-      "ean": "7500810041741",
-      "nombre": "snack takis x 140 gm intense",
-      "categoria": "Almacen",
-      "precio_antes": 4453.0,
-      "precio_hoy": 2829.0,
-      "diff_abs": -1624.0,
-      "diff_pct": -36.47
+      "ean": "7798108834155",
+      "nombre": "vino blanco callia amable tardio x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 5082.0,
+      "precio_hoy": 4019.0,
+      "diff_abs": -1063.0,
+      "diff_pct": -20.92
     },
     {
-      "ean": "7500810034347",
-      "nombre": "snack takis xplosion x 140 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 4453.0,
-      "precio_hoy": 2829.0,
-      "diff_abs": -1624.0,
-      "diff_pct": -36.47
+      "ean": "7798074864019",
+      "nombre": "vino portillo x1.5lt.malbec",
+      "categoria": "Bebidas",
+      "precio_antes": 12197.0,
+      "precio_hoy": 9649.0,
+      "diff_abs": -2548.0,
+      "diff_pct": -20.89
     },
     {
-      "ean": "7791337061422",
-      "nombre": "queso crema la serenisima x 290 gm entero",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3774.0,
-      "precio_hoy": 2399.0,
-      "diff_abs": -1375.0,
-      "diff_pct": -36.43
+      "ean": "7798074864873",
+      "nombre": "vino blanco portillo x 750ml dulce natural",
+      "categoria": "Bebidas",
+      "precio_antes": 6191.0,
+      "precio_hoy": 4899.0,
+      "diff_abs": -1292.0,
+      "diff_pct": -20.87
     },
     {
-      "ean": "7500810034477",
-      "nombre": "snack takis original x 85 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2779.0,
-      "precio_hoy": 1769.0,
-      "diff_abs": -1010.0,
-      "diff_pct": -36.34
+      "ean": "7798074864774",
+      "nombre": "vino finca el portillo blanco sauvignon blanc x 75",
+      "categoria": "Bebidas",
+      "precio_antes": 6329.0,
+      "precio_hoy": 5009.0,
+      "diff_abs": -1320.0,
+      "diff_pct": -20.86
     },
     {
-      "ean": "7500810034361",
-      "nombre": "snack takis fuego x 85 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2779.0,
-      "precio_hoy": 1769.0,
-      "diff_abs": -1010.0,
-      "diff_pct": -36.34
-    },
-    {
-      "ean": "7500810041734",
-      "nombre": "snack takis x 85 gm intense",
-      "categoria": "Almacen",
-      "precio_antes": 2779.0,
-      "precio_hoy": 1769.0,
-      "diff_abs": -1010.0,
-      "diff_pct": -36.34
-    },
-    {
-      "ean": "7797906054918",
-      "nombre": "papas mc cain noisette x 1.2 kg.",
-      "categoria": "Congelados",
-      "precio_antes": 18999.0,
-      "precio_hoy": 12329.01,
-      "diff_abs": -6669.99,
-      "diff_pct": -35.11
+      "ean": "7798074864750",
+      "nombre": "vino portillo chardonnay x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 6329.0,
+      "precio_hoy": 5009.0,
+      "diff_abs": -1320.0,
+      "diff_pct": -20.86
     }
   ],
-  "productos_subieron_dia": 38,
-  "productos_bajaron_dia": 66,
-  "productos_sin_cambio_dia": 5513
+  "productos_subieron_dia": 22,
+  "productos_bajaron_dia": 44,
+  "productos_sin_cambio_dia": 5545
 }
