@@ -9,22 +9,13 @@
     "diff_pct": 119.35
   },
   {
-    "ean": "2037560000001",
-    "nombre": "mejillon pelado las caracolas x kilo x kg.",
-    "categoria": "Congelados",
-    "precio_antes": 21083.0,
-    "precio_hoy": 36591.0,
-    "diff_abs": 15508.0,
-    "diff_pct": 73.56
-  },
-  {
-    "ean": "7790670050674",
-    "nombre": "hamburguesas paty x 2 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 2699.0,
-    "precio_hoy": 4527.0,
-    "diff_abs": 1828.0,
-    "diff_pct": 67.73
+    "ean": "2022220000002",
+    "nombre": "tomate redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 60.24
   },
   {
     "ean": "7793890261578",
@@ -54,8 +45,8 @@
     "diff_pct": 57.4
   },
   {
-    "ean": "7790070035981",
-    "nombre": "milan.soja gr.sol x330gr.espin",
+    "ean": "7790070035998",
+    "nombre": "milanesas de soja granja del sol x 330 gr. calabaz",
     "categoria": "Congelados",
     "precio_antes": 3119.0,
     "precio_hoy": 4895.0,
@@ -63,8 +54,8 @@
     "diff_pct": 56.94
   },
   {
-    "ean": "7790070035998",
-    "nombre": "milanesas de soja granja del sol x 330 gr. calabaz",
+    "ean": "7790070035981",
+    "nombre": "milan.soja gr.sol x330gr.espin",
     "categoria": "Congelados",
     "precio_antes": 3119.0,
     "precio_hoy": 4895.0,
@@ -144,15 +135,6 @@
     "diff_pct": 51.33
   },
   {
-    "ean": "7790670050780",
-    "nombre": "hamburguesas paty clasico x 20 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 26719.0,
-    "precio_hoy": 40393.0,
-    "diff_abs": 13674.0,
-    "diff_pct": 51.18
-  },
-  {
     "ean": "2020270000003",
     "nombre": "cebolla x kg.",
     "categoria": "Frutas Y Verduras",
@@ -160,6 +142,24 @@
     "precio_hoy": 1490.0,
     "diff_abs": 500.0,
     "diff_pct": 50.51
+  },
+  {
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
+    "ean": "7792798001972",
+    "nombre": "cerveza lata patagonia x 473 ml 24.7",
+    "categoria": "Bebidas",
+    "precio_antes": 2999.0,
+    "precio_hoy": 4500.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 50.05
   },
   {
     "ean": "7792798001965",
@@ -171,12 +171,12 @@
     "diff_pct": 50.05
   },
   {
-    "ean": "7792798001972",
-    "nombre": "cerveza lata patagonia x 473 ml 24.7",
-    "categoria": "Bebidas",
-    "precio_antes": 2999.0,
-    "precio_hoy": 4500.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 50.05
+    "ean": "7891000379028",
+    "nombre": "chocolate kit-kat white x 41,5 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1343.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 647.0,
+    "diff_pct": 48.18
   }
 ]

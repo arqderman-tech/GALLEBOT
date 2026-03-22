@@ -1,97 +1,106 @@
 [
   {
-    "ean": "2020270000003",
-    "nombre": "cebolla x kg.",
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 50.51
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
   },
   {
-    "ean": "2020410000009",
-    "nombre": "choclo elegido x kg.",
+    "ean": "7891000379028",
+    "nombre": "chocolate kit-kat white x 41,5 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1343.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 647.0,
+    "diff_pct": 48.18
+  },
+  {
+    "ean": "7891000379073",
+    "nombre": "chocolate kit-kat dark x 41,5 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1343.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 647.0,
+    "diff_pct": 48.18
+  },
+  {
+    "ean": "7891000248799",
+    "nombre": "chocolate kit kat x 41 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1343.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 647.0,
+    "diff_pct": 48.18
+  },
+  {
+    "ean": "7891000422052",
+    "nombre": "chocolate kit kat triple chocolate x 41,5 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1343.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 647.0,
+    "diff_pct": 48.18
+  },
+  {
+    "ean": "7898024394181",
+    "nombre": "pasta de avellanas y chocolate nutella x 350 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 7439.0,
+    "precio_hoy": 10452.0,
+    "diff_abs": 3013.0,
+    "diff_pct": 40.5
+  },
+  {
+    "ean": "2020000000006",
+    "nombre": "arandanos en bandeja",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 42.98
+    "precio_antes": 4990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 40.08
   },
   {
-    "ean": "7790895643804",
-    "nombre": "ades x1lt.anana",
-    "categoria": "Bebidas",
-    "precio_antes": 2369.0,
-    "precio_hoy": 3269.0,
-    "diff_abs": 900.0,
-    "diff_pct": 37.99
+    "ean": "7797394001265",
+    "nombre": "pastillas tic tac mix de frutas x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 799.0,
+    "precio_hoy": 1101.0,
+    "diff_abs": 302.0,
+    "diff_pct": 37.8
   },
   {
-    "ean": "7790895643866",
-    "nombre": "alimento de soja ades frutas tropicales x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2369.0,
-    "precio_hoy": 3269.0,
-    "diff_abs": 900.0,
-    "diff_pct": 37.99
+    "ean": "78600010",
+    "nombre": "pastillas tic tac menta x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 799.0,
+    "precio_hoy": 1101.0,
+    "diff_abs": 302.0,
+    "diff_pct": 37.8
   },
   {
-    "ean": "7790895643835",
-    "nombre": "alimento de soja ades manzana x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2369.0,
-    "precio_hoy": 3269.0,
-    "diff_abs": 900.0,
-    "diff_pct": 37.99
+    "ean": "78600027",
+    "nombre": "pastillas tic tac naranja x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 799.0,
+    "precio_hoy": 1101.0,
+    "diff_abs": 302.0,
+    "diff_pct": 37.8
   },
   {
-    "ean": "7790895643842",
-    "nombre": "alimento de soja ades naranja x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2369.0,
-    "precio_hoy": 3269.0,
-    "diff_abs": 900.0,
-    "diff_pct": 37.99
+    "ean": "2022220000002",
+    "nombre": "tomate redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
   },
   {
-    "ean": "7790895643828",
-    "nombre": "alimento de soja ades durazno x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2369.0,
-    "precio_hoy": 3269.0,
-    "diff_abs": 900.0,
-    "diff_pct": 37.99
-  },
-  {
-    "ean": "7790895641800",
-    "nombre": "jugo cepita botella x 1.5 lt. naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 2429.0,
-    "precio_hoy": 3351.0,
-    "diff_abs": 922.0,
-    "diff_pct": 37.96
-  },
-  {
-    "ean": "7790895641749",
-    "nombre": "jugo cepita anana x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2429.0,
-    "precio_hoy": 3351.0,
-    "diff_abs": 922.0,
-    "diff_pct": 37.96
-  },
-  {
-    "ean": "7790895641534",
-    "nombre": "jugo cepita botella x 1,5 lt. durazno",
-    "categoria": "Bebidas",
-    "precio_antes": 2429.0,
-    "precio_hoy": 3351.0,
-    "diff_abs": 922.0,
-    "diff_pct": 37.96
-  },
-  {
-    "ean": "2020490000005",
-    "nombre": "ciruela roja x kg.",
+    "ean": "2020470000001",
+    "nombre": "ciruela negra x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 5990.0,
     "precio_hoy": 7990.0,
@@ -99,84 +108,75 @@
     "diff_pct": 33.39
   },
   {
-    "ean": "7790895640476",
-    "nombre": "aquarius cepita sabor pera x 1.5 lts.",
-    "categoria": "Bebidas",
-    "precio_antes": 2249.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 741.0,
-    "diff_pct": 32.95
+    "ean": "2016290000000",
+    "nombre": "dulce de batata con cerezas x kilo dulcor",
+    "categoria": "Perfumeria",
+    "precio_antes": 7219.0,
+    "precio_hoy": 9077.0,
+    "diff_abs": 1858.0,
+    "diff_pct": 25.74
   },
   {
-    "ean": "7790895641220",
-    "nombre": "agua saborizada aquarius cepita uva x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2249.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 741.0,
-    "diff_pct": 32.95
+    "ean": "2019950000006",
+    "nombre": "akusay x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
   },
   {
-    "ean": "7790895640490",
-    "nombre": "agua saborizada aquarius cepita pomelo x 1.5 lts.",
-    "categoria": "Bebidas",
-    "precio_antes": 2249.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 741.0,
-    "diff_pct": 32.95
+    "ean": "7898024396529",
+    "nombre": "nutella x 650 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 13999.0,
+    "precio_hoy": 16526.0,
+    "diff_abs": 2527.0,
+    "diff_pct": 18.05
   },
   {
-    "ean": "7790895640483",
-    "nombre": "agua saborizada aquarius cepita manzana x 1.5 lts.",
-    "categoria": "Bebidas",
-    "precio_antes": 2249.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 741.0,
-    "diff_pct": 32.95
+    "ean": "2021780000002",
+    "nombre": "perejil x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 16.72
   },
   {
-    "ean": "7790895008146",
-    "nombre": "agua bonaqua x 2.5 lt. sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 2279.0,
-    "precio_hoy": 2850.0,
-    "diff_abs": 571.0,
-    "diff_pct": 25.05
+    "ean": "7790387800197",
+    "nombre": "yerba mate buenas y santas x 500 gr. hierbas",
+    "categoria": "Perfumeria",
+    "precio_antes": 2282.0,
+    "precio_hoy": 2562.0,
+    "diff_abs": 280.0,
+    "diff_pct": 12.27
   },
   {
-    "ean": "7790895003882",
-    "nombre": "agua mineral bonaqua sin gas x 2 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2079.0,
-    "precio_hoy": 2590.0,
-    "diff_abs": 511.0,
-    "diff_pct": 24.58
+    "ean": "7797109000026",
+    "nombre": "azucar impalpable jeraco x 400 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1608.0,
+    "precio_hoy": 1779.0,
+    "diff_abs": 171.0,
+    "diff_pct": 10.63
   },
   {
-    "ean": "7790895647666",
-    "nombre": "agua benedictino sin gas x 2,25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1919.0,
-    "precio_hoy": 2390.0,
-    "diff_abs": 471.0,
-    "diff_pct": 24.54
+    "ean": "7797109000019",
+    "nombre": "azucar impalpable jeraco x 200 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 804.0,
+    "precio_hoy": 889.0,
+    "diff_abs": 85.0,
+    "diff_pct": 10.57
   },
   {
-    "ean": "7790895003875",
-    "nombre": "agua mineral bonaqua x 1,5 ml. sin gas",
+    "ean": "7798359120175",
+    "nombre": "vino casa de herrero x 750 ml malbec",
     "categoria": "Bebidas",
-    "precio_antes": 1759.0,
-    "precio_hoy": 2190.0,
-    "diff_abs": 431.0,
-    "diff_pct": 24.5
-  },
-  {
-    "ean": "7790895003950",
-    "nombre": "agua bonaqua x 1,5 lt. con gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1759.0,
-    "precio_hoy": 2190.0,
-    "diff_abs": 431.0,
-    "diff_pct": 24.5
+    "precio_antes": 13024.0,
+    "precio_hoy": 14344.0,
+    "diff_abs": 1320.0,
+    "diff_pct": 10.14
   }
 ]

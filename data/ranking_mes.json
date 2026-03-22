@@ -1,1 +1,182 @@
-[]
+[
+  {
+    "ean": "7790168075677",
+    "nombre": "vino tinto graffigna syrah x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4339.0,
+    "precio_hoy": 8670.0,
+    "diff_abs": 4331.0,
+    "diff_pct": 99.82
+  },
+  {
+    "ean": "7790168075707",
+    "nombre": "vino graffigna pinot grigio x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4339.0,
+    "precio_hoy": 8670.0,
+    "diff_abs": 4331.0,
+    "diff_pct": 99.82
+  },
+  {
+    "ean": "790757856899",
+    "nombre": "llave ajustable 8",
+    "categoria": "Limpieza",
+    "precio_antes": 8150.0,
+    "precio_hoy": 15403.0,
+    "diff_abs": 7253.0,
+    "diff_pct": 88.99
+  },
+  {
+    "ean": "2037320000005",
+    "nombre": "curcuma x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 14990.0,
+    "diff_abs": 7000.0,
+    "diff_pct": 87.61
+  },
+  {
+    "ean": "7790040150010",
+    "nombre": "alfajor cofler x 60 gr choco creamy",
+    "categoria": "Almacen",
+    "precio_antes": 1059.0,
+    "precio_hoy": 1876.0,
+    "diff_abs": 817.0,
+    "diff_pct": 77.15
+  },
+  {
+    "ean": "2020000000006",
+    "nombre": "arandanos en bandeja",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
+  },
+  {
+    "ean": "2037560000001",
+    "nombre": "mejillon pelado las caracolas x kilo x kg.",
+    "categoria": "Congelados",
+    "precio_antes": 21083.0,
+    "precio_hoy": 36591.0,
+    "diff_abs": 15508.0,
+    "diff_pct": 73.56
+  },
+  {
+    "ean": "7792798008858",
+    "nombre": "cerveza temple wolf ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2859.0,
+    "precio_hoy": 4500.0,
+    "diff_abs": 1641.0,
+    "diff_pct": 57.4
+  },
+  {
+    "ean": "7794940000765",
+    "nombre": "edulcorante hileret stevia x 100 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 2969.0,
+    "precio_hoy": 4653.0,
+    "diff_abs": 1684.0,
+    "diff_pct": 56.72
+  },
+  {
+    "ean": "7790040147751",
+    "nombre": "saladix flames x 60 gr extra picante",
+    "categoria": "Almacen",
+    "precio_antes": 1169.0,
+    "precio_hoy": 1820.0,
+    "diff_abs": 651.0,
+    "diff_pct": 55.69
+  },
+  {
+    "ean": "7792798002351",
+    "nombre": "cerveza patagonia amber lager x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4159.0,
+    "precio_hoy": 6400.0,
+    "diff_abs": 2241.0,
+    "diff_pct": 53.88
+  },
+  {
+    "ean": "7790168075660",
+    "nombre": "vino tinto graffigna cabernet sauvignon x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5639.0,
+    "precio_hoy": 8670.0,
+    "diff_abs": 3031.0,
+    "diff_pct": 53.75
+  },
+  {
+    "ean": "7790168075684",
+    "nombre": "vino graffigna centenario malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5639.0,
+    "precio_hoy": 8670.0,
+    "diff_abs": 3031.0,
+    "diff_pct": 53.75
+  },
+  {
+    "ean": "7790168903680",
+    "nombre": "vino tinto graffigna glorious malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 7359.0,
+    "precio_hoy": 11310.0,
+    "diff_abs": 3951.0,
+    "diff_pct": 53.69
+  },
+  {
+    "ean": "7790895643842",
+    "nombre": "alimento de soja ades naranja x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2139.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 1130.0,
+    "diff_pct": 52.83
+  },
+  {
+    "ean": "7790895643804",
+    "nombre": "ades x1lt.anana",
+    "categoria": "Bebidas",
+    "precio_antes": 2139.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 1130.0,
+    "diff_pct": 52.83
+  },
+  {
+    "ean": "7790895643828",
+    "nombre": "alimento de soja ades durazno x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2139.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 1130.0,
+    "diff_pct": 52.83
+  },
+  {
+    "ean": "77969118",
+    "nombre": "chicle beldent frutilla x 10 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 769.0,
+    "precio_hoy": 1159.0,
+    "diff_abs": 390.0,
+    "diff_pct": 50.72
+  },
+  {
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
+    "ean": "7790310985649",
+    "nombre": "snack doritos sabor queso x 77 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2449.0,
+    "precio_hoy": 3649.0,
+    "diff_abs": 1200.0,
+    "diff_pct": 49.0
+  }
+]

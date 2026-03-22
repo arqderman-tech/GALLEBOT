@@ -1,13 +1,147 @@
 {
-  "fecha": "20260321",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260322",
+  "total_productos": 5711,
+  "variacion_dia": 0.02,
+  "variacion_7d": 0.54,
+  "variacion_mes": 1.84,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": -0.03,
+      "productos_subieron": 5,
+      "productos_bajaron": 12,
+      "total_productos": 1265
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": 0.09,
+      "productos_subieron": 7,
+      "productos_bajaron": 8,
+      "total_productos": 1142
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": -1.89,
+      "productos_subieron": 0,
+      "productos_bajaron": 33,
+      "total_productos": 190
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 675
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.12,
+      "productos_subieron": 85,
+      "productos_bajaron": 12,
+      "total_productos": 816
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.18,
+      "productos_subieron": 9,
+      "productos_bajaron": 2,
+      "total_productos": 1590
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "2016350000001",
+      "nombre": "dulce de membrillo en caja dulcor x kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 5409.0,
+      "precio_hoy": 3189.0,
+      "diff_abs": -2220.0,
+      "diff_pct": -41.04
+    },
+    {
+      "ean": "2016360000008",
+      "nombre": "dulce de membrillo dulcor lata x kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 7206.0,
+      "precio_hoy": 4319.0,
+      "diff_abs": -2887.0,
+      "diff_pct": -40.06
+    },
+    {
+      "ean": "7793046015024",
+      "nombre": "tomate triturado dulcor x 960 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 2450.0,
+      "precio_hoy": 1549.0,
+      "diff_abs": -901.0,
+      "diff_pct": -36.78
+    },
+    {
+      "ean": "2016310000003",
+      "nombre": "dulce de batata dulcor con chocolate x kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 3924.0,
+      "precio_hoy": 2609.0,
+      "diff_abs": -1315.0,
+      "diff_pct": -33.51
+    },
+    {
+      "ean": "2016320000000",
+      "nombre": "batata con chocolate dulcor x kg lata x kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 5237.0,
+      "precio_hoy": 3529.0,
+      "diff_abs": -1708.0,
+      "diff_pct": -32.61
+    },
+    {
+      "ean": "2016340000004",
+      "nombre": "dulce de batata dulcor lata x kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 5237.0,
+      "precio_hoy": 3529.0,
+      "diff_abs": -1708.0,
+      "diff_pct": -32.61
+    },
+    {
+      "ean": "2016330000007",
+      "nombre": "dulce de batata en caja dulcor x kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 3864.0,
+      "precio_hoy": 2609.0,
+      "diff_abs": -1255.0,
+      "diff_pct": -32.48
+    },
+    {
+      "ean": "7790670050674",
+      "nombre": "hamburguesas paty x 2 unid. clasicas",
+      "categoria": "Congelados",
+      "precio_antes": 4527.0,
+      "precio_hoy": 3059.0,
+      "diff_abs": -1468.0,
+      "diff_pct": -32.43
+    },
+    {
+      "ean": "7793046004257",
+      "nombre": "dulce de membrillo cormillot x 430 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 3066.0,
+      "precio_hoy": 2149.0,
+      "diff_abs": -917.0,
+      "diff_pct": -29.91
+    },
+    {
+      "ean": "7790670050667",
+      "nombre": "hamburguesas paty x 12 unid. clasicas",
+      "categoria": "Congelados",
+      "precio_antes": 24776.0,
+      "precio_hoy": 17689.0,
+      "diff_abs": -7087.0,
+      "diff_pct": -28.6
+    }
+  ],
+  "productos_subieron_dia": 106,
+  "productos_bajaron_dia": 67,
+  "productos_sin_cambio_dia": 5505
 }
