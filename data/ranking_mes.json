@@ -1,7 +1,7 @@
 [
   {
-    "ean": "7790168075677",
-    "nombre": "vino tinto graffigna syrah x 750 ml.",
+    "ean": "7790168075707",
+    "nombre": "vino graffigna pinot grigio x 750 ml.",
     "categoria": "Bebidas",
     "precio_antes": 4339.0,
     "precio_hoy": 8670.0,
@@ -9,8 +9,8 @@
     "diff_pct": 99.82
   },
   {
-    "ean": "7790168075707",
-    "nombre": "vino graffigna pinot grigio x 750 ml.",
+    "ean": "7790168075677",
+    "nombre": "vino tinto graffigna syrah x 750 ml.",
     "categoria": "Bebidas",
     "precio_antes": 4339.0,
     "precio_hoy": 8670.0,
@@ -126,15 +126,6 @@
     "diff_pct": 53.69
   },
   {
-    "ean": "7790895643842",
-    "nombre": "alimento de soja ades naranja x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2139.0,
-    "precio_hoy": 3269.0,
-    "diff_abs": 1130.0,
-    "diff_pct": 52.83
-  },
-  {
     "ean": "7790895643804",
     "nombre": "ades x1lt.anana",
     "categoria": "Bebidas",
@@ -146,6 +137,15 @@
   {
     "ean": "7790895643828",
     "nombre": "alimento de soja ades durazno x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2139.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 1130.0,
+    "diff_pct": 52.83
+  },
+  {
+    "ean": "7790895643842",
+    "nombre": "alimento de soja ades naranja x 1 lt.",
     "categoria": "Bebidas",
     "precio_antes": 2139.0,
     "precio_hoy": 3269.0,
