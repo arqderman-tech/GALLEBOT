@@ -1,13 +1,147 @@
 {
-  "fecha": "20260324",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260325",
+  "total_productos": 5689,
+  "variacion_dia": 1.0,
+  "variacion_7d": 0.81,
+  "variacion_mes": 2.63,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 1.98,
+      "productos_subieron": 35,
+      "productos_bajaron": 1,
+      "total_productos": 1261
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": 0.18,
+      "productos_subieron": 41,
+      "productos_bajaron": 6,
+      "total_productos": 1111
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": -0.05,
+      "productos_subieron": 0,
+      "productos_bajaron": 1,
+      "total_productos": 201
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 674
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 1.98,
+      "productos_subieron": 49,
+      "productos_bajaron": 0,
+      "total_productos": 824
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.86,
+      "productos_subieron": 92,
+      "productos_bajaron": 3,
+      "total_productos": 1587
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "7791337008403",
+      "nombre": "leche chocolatada la serenisima x 1 lt.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4926.0,
+      "precio_hoy": 2519.0,
+      "diff_abs": -2407.0,
+      "diff_pct": -48.86
+    },
+    {
+      "ean": "7791337008410",
+      "nombre": "leche chocolatada la serenisima x 200 ml.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1686.0,
+      "precio_hoy": 919.0,
+      "diff_abs": -767.0,
+      "diff_pct": -45.49
+    },
+    {
+      "ean": "2021930000005",
+      "nombre": "rabanitos x paquete",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 1990.0,
+      "precio_hoy": 1490.0,
+      "diff_abs": -500.0,
+      "diff_pct": -25.13
+    },
+    {
+      "ean": "2021450000004",
+      "nombre": "palta arrugada x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 13990.0,
+      "precio_hoy": 10990.0,
+      "diff_abs": -3000.0,
+      "diff_pct": -21.44
+    },
+    {
+      "ean": "2021660000009",
+      "nombre": "zapallito redondo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2990.0,
+      "precio_hoy": 2490.0,
+      "diff_abs": -500.0,
+      "diff_pct": -16.72
+    },
+    {
+      "ean": "7790139101152",
+      "nombre": "vinagre de vino favinco x 1 lt.",
+      "categoria": "Almacen",
+      "precio_antes": 3035.0,
+      "precio_hoy": 2580.0,
+      "diff_abs": -455.0,
+      "diff_pct": -14.99
+    },
+    {
+      "ean": "2021250000006",
+      "nombre": "manzana roja deliciosa x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -14.31
+    },
+    {
+      "ean": "2029350000001",
+      "nombre": "pacu rosamonte x kilo congelado al vacio x kg.",
+      "categoria": "Congelados",
+      "precio_antes": 23096.0,
+      "precio_hoy": 20789.0,
+      "diff_abs": -2307.0,
+      "diff_pct": -9.99
+    },
+    {
+      "ean": "7794870001344",
+      "nombre": "arroz primor largo fino x 1 kg.",
+      "categoria": "Almacen",
+      "precio_antes": 1313.0,
+      "precio_hoy": 1229.0,
+      "diff_abs": -84.0,
+      "diff_pct": -6.4
+    },
+    {
+      "ean": "7798333900052",
+      "nombre": "huevos blamcos avicola norte maple x 30 unidades",
+      "categoria": "Almacen",
+      "precio_antes": 7499.0,
+      "precio_hoy": 7124.0,
+      "diff_abs": -375.0,
+      "diff_pct": -5.0
+    }
+  ],
+  "productos_subieron_dia": 217,
+  "productos_bajaron_dia": 11,
+  "productos_sin_cambio_dia": 5430
 }
