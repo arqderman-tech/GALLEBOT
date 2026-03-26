@@ -1,147 +1,147 @@
 {
-  "fecha": "20260325",
-  "total_productos": 5689,
-  "variacion_dia": 1.0,
-  "variacion_7d": 0.81,
-  "variacion_mes": 2.63,
+  "fecha": "20260326",
+  "total_productos": 5757,
+  "variacion_dia": 0.5,
+  "variacion_7d": 1.4,
+  "variacion_mes": 1.93,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 1.98,
-      "productos_subieron": 35,
-      "productos_bajaron": 1,
-      "total_productos": 1261
+      "variacion_pct_promedio": 1.11,
+      "productos_subieron": 56,
+      "productos_bajaron": 0,
+      "total_productos": 1267
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.18,
-      "productos_subieron": 41,
-      "productos_bajaron": 6,
-      "total_productos": 1111
+      "variacion_pct_promedio": 0.09,
+      "productos_subieron": 27,
+      "productos_bajaron": 54,
+      "total_productos": 1114
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -0.05,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 1.6,
+      "productos_subieron": 7,
       "productos_bajaron": 1,
-      "total_productos": 201
+      "total_productos": 202
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.16,
+      "productos_subieron": 7,
       "productos_bajaron": 0,
-      "total_productos": 674
+      "total_productos": 675
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 1.98,
-      "productos_subieron": 49,
-      "productos_bajaron": 0,
-      "total_productos": 824
+      "variacion_pct_promedio": -0.31,
+      "productos_subieron": 7,
+      "productos_bajaron": 22,
+      "total_productos": 827
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.86,
-      "productos_subieron": 92,
-      "productos_bajaron": 3,
-      "total_productos": 1587
+      "variacion_pct_promedio": 0.73,
+      "productos_subieron": 88,
+      "productos_bajaron": 29,
+      "total_productos": 1595
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7791337008403",
-      "nombre": "leche chocolatada la serenisima x 1 lt.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4926.0,
-      "precio_hoy": 2519.0,
-      "diff_abs": -2407.0,
-      "diff_pct": -48.86
-    },
-    {
-      "ean": "7791337008410",
-      "nombre": "leche chocolatada la serenisima x 200 ml.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1686.0,
-      "precio_hoy": 919.0,
-      "diff_abs": -767.0,
-      "diff_pct": -45.49
-    },
-    {
-      "ean": "2021930000005",
-      "nombre": "rabanitos x paquete",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1990.0,
-      "precio_hoy": 1490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -25.13
-    },
-    {
-      "ean": "2021450000004",
-      "nombre": "palta arrugada x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 13990.0,
-      "precio_hoy": 10990.0,
-      "diff_abs": -3000.0,
-      "diff_pct": -21.44
-    },
-    {
-      "ean": "2021660000009",
-      "nombre": "zapallito redondo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 2490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -16.72
-    },
-    {
-      "ean": "7790139101152",
-      "nombre": "vinagre de vino favinco x 1 lt.",
+      "ean": "7793890261844",
+      "nombre": "tostadas libre de gluten salmas x 90 gr clasicas",
       "categoria": "Almacen",
-      "precio_antes": 3035.0,
-      "precio_hoy": 2580.0,
-      "diff_abs": -455.0,
-      "diff_pct": -14.99
+      "precio_antes": 2579.0,
+      "precio_hoy": 1509.0,
+      "diff_abs": -1070.0,
+      "diff_pct": -41.49
     },
     {
-      "ean": "2021250000006",
-      "nombre": "manzana roja deliciosa x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 5990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -14.31
+      "ean": "7793890261578",
+      "nombre": "brownie chips sabe bien! x 62 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 1423.0,
+      "precio_hoy": 889.0,
+      "diff_abs": -534.0,
+      "diff_pct": -37.53
     },
     {
-      "ean": "2029350000001",
-      "nombre": "pacu rosamonte x kilo congelado al vacio x kg.",
+      "ean": "7793890261530",
+      "nombre": "braunichoc sabe bien! x 35 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 982.0,
+      "precio_hoy": 619.0,
+      "diff_abs": -363.0,
+      "diff_pct": -36.97
+    },
+    {
+      "ean": "7794940000796",
+      "nombre": "edulcorante hileret stevia x 200 ml.",
+      "categoria": "Almacen",
+      "precio_antes": 5041.0,
+      "precio_hoy": 3239.0,
+      "diff_abs": -1802.0,
+      "diff_pct": -35.75
+    },
+    {
+      "ean": "7797906054925",
+      "nombre": "papas noisette mc cain horneables x 600 gr.",
       "categoria": "Congelados",
-      "precio_antes": 23096.0,
-      "precio_hoy": 20789.0,
-      "diff_abs": -2307.0,
-      "diff_pct": -9.99
+      "precio_antes": 10000.0,
+      "precio_hoy": 6489.0,
+      "diff_abs": -3511.0,
+      "diff_pct": -35.11
     },
     {
-      "ean": "7794870001344",
-      "nombre": "arroz primor largo fino x 1 kg.",
-      "categoria": "Almacen",
-      "precio_antes": 1313.0,
-      "precio_hoy": 1229.0,
-      "diff_abs": -84.0,
-      "diff_pct": -6.4
+      "ean": "2014220000007",
+      "nombre": "queso mozzarella tregar x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 21107.0,
+      "precio_hoy": 13879.0,
+      "diff_abs": -7228.0,
+      "diff_pct": -34.24
     },
     {
-      "ean": "7798333900052",
-      "nombre": "huevos blamcos avicola norte maple x 30 unidades",
+      "ean": "7793890258691",
+      "nombre": "vainillas valente x 148 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2044.0,
+      "precio_hoy": 1349.0,
+      "diff_abs": -695.0,
+      "diff_pct": -34.0
+    },
+    {
+      "ean": "7793890258707",
+      "nombre": "vainillas valente x 444 gm",
+      "categoria": "Perfumeria",
+      "precio_antes": 5510.0,
+      "precio_hoy": 3639.0,
+      "diff_abs": -1871.0,
+      "diff_pct": -33.96
+    },
+    {
+      "ean": "7798028020287",
+      "nombre": "mate cocido pajaro azul x 25 saquitos",
+      "categoria": "Perfumeria",
+      "precio_antes": 1154.0,
+      "precio_hoy": 769.0,
+      "diff_abs": -385.0,
+      "diff_pct": -33.36
+    },
+    {
+      "ean": "7790490998002",
+      "nombre": "edulcorante hileret mate x 200 ml.",
       "categoria": "Almacen",
-      "precio_antes": 7499.0,
-      "precio_hoy": 7124.0,
-      "diff_abs": -375.0,
-      "diff_pct": -5.0
+      "precio_antes": 2596.0,
+      "precio_hoy": 1789.0,
+      "diff_abs": -807.0,
+      "diff_pct": -31.09
     }
   ],
-  "productos_subieron_dia": 217,
-  "productos_bajaron_dia": 11,
-  "productos_sin_cambio_dia": 5430
+  "productos_subieron_dia": 192,
+  "productos_bajaron_dia": 106,
+  "productos_sin_cambio_dia": 5382
 }

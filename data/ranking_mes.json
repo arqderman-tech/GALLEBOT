@@ -1,52 +1,7 @@
 [
   {
-    "ean": "7622201703059",
-    "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 279.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 326.0,
-    "diff_pct": 116.85
-  },
-  {
-    "ean": "7622201704148",
-    "nombre": "jugo en polvo clight mandarina x 8 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 279.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 326.0,
-    "diff_pct": 116.85
-  },
-  {
-    "ean": "7622201745936",
-    "nombre": "jugo tang durazno x15gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 279.0,
-    "precio_hoy": 581.0,
-    "diff_abs": 302.0,
-    "diff_pct": 108.24
-  },
-  {
-    "ean": "7622201746490",
-    "nombre": "jugo en polvo tang x 15 gr. frutilla",
-    "categoria": "Bebidas",
-    "precio_antes": 279.0,
-    "precio_hoy": 581.0,
-    "diff_abs": 302.0,
-    "diff_pct": 108.24
-  },
-  {
-    "ean": "7622201733865",
-    "nombre": "jugo tang mandarina x 15 gm",
-    "categoria": "Bebidas",
-    "precio_antes": 279.0,
-    "precio_hoy": 581.0,
-    "diff_abs": 302.0,
-    "diff_pct": 108.24
-  },
-  {
-    "ean": "7790168075677",
-    "nombre": "vino tinto graffigna syrah x 750 ml.",
+    "ean": "7790168075707",
+    "nombre": "vino graffigna pinot grigio x 750 ml.",
     "categoria": "Bebidas",
     "precio_antes": 4339.0,
     "precio_hoy": 8670.0,
@@ -54,8 +9,8 @@
     "diff_pct": 99.82
   },
   {
-    "ean": "7790168075707",
-    "nombre": "vino graffigna pinot grigio x 750 ml.",
+    "ean": "7790168075677",
+    "nombre": "vino tinto graffigna syrah x 750 ml.",
     "categoria": "Bebidas",
     "precio_antes": 4339.0,
     "precio_hoy": 8670.0,
@@ -108,75 +63,120 @@
     "diff_pct": 73.56
   },
   {
-    "ean": "7622201703172",
-    "nombre": "jugo clight pomelo rosado 7gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622201703080",
-    "nombre": "jugo clight manzana deliciosa x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622201733834",
-    "nombre": "jugo en polvo clight limonada-maracuya x 7,5 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622201682026",
-    "nombre": "jugo clight limo rosa x7.5gr",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622201703110",
-    "nombre": "jugo en polvo clight x 7 gr. sabor naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622201703141",
-    "nombre": "jugo en polvo clight naranja dulce x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622201702625",
-    "nombre": "jugo en polvo clight anana x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 604.0,
-    "diff_abs": 245.0,
-    "diff_pct": 68.25
-  },
-  {
-    "ean": "77969118",
-    "nombre": "chicle beldent frutilla x10gr.",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1286.0,
-    "diff_abs": 517.0,
+    "ean": "2022080000006",
+    "nombre": "rucula x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1190.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 800.0,
     "diff_pct": 67.23
+  },
+  {
+    "ean": "2025590000009",
+    "nombre": "puchero caracu ternera x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 4800.0,
+    "precio_hoy": 7900.0,
+    "diff_abs": 3100.0,
+    "diff_pct": 64.58
+  },
+  {
+    "ean": "2025600000005",
+    "nombre": "puchero de aguja ternera x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 4800.0,
+    "precio_hoy": 7900.0,
+    "diff_abs": 3100.0,
+    "diff_pct": 64.58
+  },
+  {
+    "ean": "7790040147751",
+    "nombre": "saladix flames x 60 gr extra picante",
+    "categoria": "Almacen",
+    "precio_antes": 1169.0,
+    "precio_hoy": 1820.0,
+    "diff_abs": 651.0,
+    "diff_pct": 55.69
+  },
+  {
+    "ean": "7790168075684",
+    "nombre": "vino graffigna centenario malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5639.0,
+    "precio_hoy": 8670.0,
+    "diff_abs": 3031.0,
+    "diff_pct": 53.75
+  },
+  {
+    "ean": "7790168075660",
+    "nombre": "vino tinto graffigna cabernet sauvignon x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5639.0,
+    "precio_hoy": 8670.0,
+    "diff_abs": 3031.0,
+    "diff_pct": 53.75
+  },
+  {
+    "ean": "7790168903680",
+    "nombre": "vino tinto graffigna glorious malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 7359.0,
+    "precio_hoy": 11310.0,
+    "diff_abs": 3951.0,
+    "diff_pct": 53.69
+  },
+  {
+    "ean": "7790895643828",
+    "nombre": "alimento de soja ades durazno x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2139.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 1130.0,
+    "diff_pct": 52.83
+  },
+  {
+    "ean": "7790895643804",
+    "nombre": "ades x1lt.anana",
+    "categoria": "Bebidas",
+    "precio_antes": 2139.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 1130.0,
+    "diff_pct": 52.83
+  },
+  {
+    "ean": "7790895643842",
+    "nombre": "alimento de soja ades naranja x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2139.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 1130.0,
+    "diff_pct": 52.83
+  },
+  {
+    "ean": "7790310985649",
+    "nombre": "snack doritos sabor queso x 77 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2449.0,
+    "precio_hoy": 3649.0,
+    "diff_abs": 1200.0,
+    "diff_pct": 49.0
+  },
+  {
+    "ean": "7790550000171",
+    "nombre": "cafe molido cabrales la planta x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 22759.0,
+    "precio_hoy": 33680.0,
+    "diff_abs": 10921.0,
+    "diff_pct": 47.99
+  },
+  {
+    "ean": "7790550029479",
+    "nombre": "cafe instantaneo cabrales la planta suave x 100 gr",
+    "categoria": "Perfumeria",
+    "precio_antes": 4709.0,
+    "precio_hoy": 6959.0,
+    "diff_abs": 2250.0,
+    "diff_pct": 47.78
   }
 ]
