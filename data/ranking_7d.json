@@ -9,8 +9,8 @@
     "diff_pct": 138.38
   },
   {
-    "ean": "7622201704148",
-    "nombre": "jugo en polvo clight mandarina x 8 gr.",
+    "ean": "7622201703202",
+    "nombre": "jugo clight pera x7gr.",
     "categoria": "Bebidas",
     "precio_antes": 279.0,
     "precio_hoy": 605.0,
@@ -18,13 +18,22 @@
     "diff_pct": 116.85
   },
   {
-    "ean": "7622201745936",
-    "nombre": "jugo tang durazno x15gr.",
+    "ean": "7622201703059",
+    "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
     "categoria": "Bebidas",
     "precio_antes": 279.0,
-    "precio_hoy": 581.0,
-    "diff_abs": 302.0,
-    "diff_pct": 108.24
+    "precio_hoy": 605.0,
+    "diff_abs": 326.0,
+    "diff_pct": 116.85
+  },
+  {
+    "ean": "7622201704148",
+    "nombre": "jugo en polvo clight mandarina x 8 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 279.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 326.0,
+    "diff_pct": 116.85
   },
   {
     "ean": "7622201733865",
@@ -45,6 +54,15 @@
     "diff_pct": 108.24
   },
   {
+    "ean": "7622201745936",
+    "nombre": "jugo tang durazno x15gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 279.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 302.0,
+    "diff_pct": 108.24
+  },
+  {
     "ean": "7790387011852",
     "nombre": "mate cocido taragui ni$os vainilla y miel x 20 saq",
     "categoria": "Perfumeria",
@@ -52,15 +70,6 @@
     "precio_hoy": 2621.0,
     "diff_abs": 1092.0,
     "diff_pct": 71.42
-  },
-  {
-    "ean": "7622201703110",
-    "nombre": "jugo en polvo clight x 7 gr. sabor naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
   },
   {
     "ean": "7622201703172",
@@ -72,8 +81,53 @@
     "diff_pct": 68.52
   },
   {
+    "ean": "7622201703080",
+    "nombre": "jugo clight manzana deliciosa x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 246.0,
+    "diff_pct": 68.52
+  },
+  {
+    "ean": "7622201702656",
+    "nombre": "jugo clight limonada x7gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 246.0,
+    "diff_pct": 68.52
+  },
+  {
+    "ean": "7622201703141",
+    "nombre": "jugo en polvo clight naranja dulce x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 246.0,
+    "diff_pct": 68.52
+  },
+  {
     "ean": "7622201733834",
     "nombre": "jugo en polvo clight limonada-maracuya x 7,5 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 246.0,
+    "diff_pct": 68.52
+  },
+  {
+    "ean": "7622202236846",
+    "nombre": "jugo clight arandano x8gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 246.0,
+    "diff_pct": 68.52
+  },
+  {
+    "ean": "7622201682026",
+    "nombre": "jugo clight limo rosa x7.5gr",
     "categoria": "Bebidas",
     "precio_antes": 359.0,
     "precio_hoy": 605.0,
@@ -99,35 +153,8 @@
     "diff_pct": 68.52
   },
   {
-    "ean": "7622201703080",
-    "nombre": "jugo clight manzana deliciosa x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622202236846",
-    "nombre": "jugo clight arandano x8gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622201703141",
-    "nombre": "jugo en polvo clight naranja dulce x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622201682026",
-    "nombre": "jugo clight limo rosa x7.5gr",
+    "ean": "7622201703110",
+    "nombre": "jugo en polvo clight x 7 gr. sabor naranja",
     "categoria": "Bebidas",
     "precio_antes": 359.0,
     "precio_hoy": 605.0,
@@ -151,32 +178,5 @@
     "precio_hoy": 3049.0,
     "diff_abs": 1220.0,
     "diff_pct": 66.7
-  },
-  {
-    "ean": "2025590000009",
-    "nombre": "puchero caracu ternera x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 4800.0,
-    "precio_hoy": 7900.0,
-    "diff_abs": 3100.0,
-    "diff_pct": 64.58
-  },
-  {
-    "ean": "2025600000005",
-    "nombre": "puchero de aguja ternera x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 4800.0,
-    "precio_hoy": 7900.0,
-    "diff_abs": 3100.0,
-    "diff_pct": 64.58
-  },
-  {
-    "ean": "7622201705992",
-    "nombre": "jugo tang manzana 18grs",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 581.0,
-    "diff_abs": 222.0,
-    "diff_pct": 61.84
   }
 ]

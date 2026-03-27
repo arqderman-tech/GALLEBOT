@@ -1,147 +1,147 @@
 {
-  "fecha": "20260326",
-  "total_productos": 5757,
-  "variacion_dia": 0.5,
-  "variacion_7d": 1.4,
-  "variacion_mes": 1.93,
+  "fecha": "20260327",
+  "total_productos": 5745,
+  "variacion_dia": 0.01,
+  "variacion_7d": 1.52,
+  "variacion_mes": 1.23,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 1.11,
-      "productos_subieron": 56,
-      "productos_bajaron": 0,
-      "total_productos": 1267
+      "variacion_pct_promedio": 0.54,
+      "productos_subieron": 36,
+      "productos_bajaron": 9,
+      "total_productos": 1283
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.09,
-      "productos_subieron": 27,
-      "productos_bajaron": 54,
-      "total_productos": 1114
+      "variacion_pct_promedio": 0.04,
+      "productos_subieron": 13,
+      "productos_bajaron": 3,
+      "total_productos": 1132
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 1.6,
-      "productos_subieron": 7,
-      "productos_bajaron": 1,
-      "total_productos": 202
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 200
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.16,
-      "productos_subieron": 7,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 675
+      "total_productos": 652
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.31,
-      "productos_subieron": 7,
-      "productos_bajaron": 22,
-      "total_productos": 827
+      "variacion_pct_promedio": -0.8,
+      "productos_subieron": 11,
+      "productos_bajaron": 34,
+      "total_productos": 836
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.73,
-      "productos_subieron": 88,
-      "productos_bajaron": 29,
-      "total_productos": 1595
+      "variacion_pct_promedio": -0.03,
+      "productos_subieron": 5,
+      "productos_bajaron": 4,
+      "total_productos": 1605
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7793890261844",
-      "nombre": "tostadas libre de gluten salmas x 90 gr clasicas",
-      "categoria": "Almacen",
-      "precio_antes": 2579.0,
-      "precio_hoy": 1509.0,
-      "diff_abs": -1070.0,
-      "diff_pct": -41.49
+      "ean": "2021790000009",
+      "nombre": "pimiento amarillo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -3000.0,
+      "diff_pct": -42.92
     },
     {
-      "ean": "7793890261578",
-      "nombre": "brownie chips sabe bien! x 62 gr.",
+      "ean": "7793126002012",
+      "nombre": "mermelada patagonia tradicional x 320 gm frutilla",
       "categoria": "Perfumeria",
-      "precio_antes": 1423.0,
-      "precio_hoy": 889.0,
-      "diff_abs": -534.0,
-      "diff_pct": -37.53
+      "precio_antes": 9554.0,
+      "precio_hoy": 5687.57,
+      "diff_abs": -3866.43,
+      "diff_pct": -40.47
     },
     {
-      "ean": "7793890261530",
-      "nombre": "braunichoc sabe bien! x 35 gr.",
+      "ean": "7792798014934",
+      "nombre": "cerveza andes lata x 473 ml oro",
+      "categoria": "Bebidas",
+      "precio_antes": 2800.0,
+      "precio_hoy": 1769.0,
+      "diff_abs": -1031.0,
+      "diff_pct": -36.82
+    },
+    {
+      "ean": "7792798992317",
+      "nombre": "cerveza andes roja lata x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 3025.0,
+      "precio_hoy": 2009.0,
+      "diff_abs": -1016.0,
+      "diff_pct": -33.59
+    },
+    {
+      "ean": "7792798014156",
+      "nombre": "cerveza andes rubia origen lata x 710 ml",
+      "categoria": "Bebidas",
+      "precio_antes": 4200.0,
+      "precio_hoy": 2816.05,
+      "diff_abs": -1383.95,
+      "diff_pct": -32.95
+    },
+    {
+      "ean": "7792798005888",
+      "nombre": "cerveza brahma lata x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 2500.0,
+      "precio_hoy": 1679.0,
+      "diff_abs": -821.0,
+      "diff_pct": -32.84
+    },
+    {
+      "ean": "7790550000171",
+      "nombre": "cafe molido cabrales la planta x 1 kg.",
       "categoria": "Perfumeria",
-      "precio_antes": 982.0,
-      "precio_hoy": 619.0,
-      "diff_abs": -363.0,
-      "diff_pct": -36.97
+      "precio_antes": 33680.0,
+      "precio_hoy": 22759.0,
+      "diff_abs": -10921.0,
+      "diff_pct": -32.43
     },
     {
-      "ean": "7794940000796",
-      "nombre": "edulcorante hileret stevia x 200 ml.",
-      "categoria": "Almacen",
-      "precio_antes": 5041.0,
-      "precio_hoy": 3239.0,
-      "diff_abs": -1802.0,
-      "diff_pct": -35.75
+      "ean": "7792798015061",
+      "nombre": "cerveza brahma x 710 ml",
+      "categoria": "Bebidas",
+      "precio_antes": 3600.0,
+      "precio_hoy": 2449.0,
+      "diff_abs": -1151.0,
+      "diff_pct": -31.97
     },
     {
-      "ean": "7797906054925",
-      "nombre": "papas noisette mc cain horneables x 600 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 10000.0,
-      "precio_hoy": 6489.0,
-      "diff_abs": -3511.0,
-      "diff_pct": -35.11
-    },
-    {
-      "ean": "2014220000007",
-      "nombre": "queso mozzarella tregar x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 21107.0,
-      "precio_hoy": 13879.0,
-      "diff_abs": -7228.0,
-      "diff_pct": -34.24
-    },
-    {
-      "ean": "7793890258691",
-      "nombre": "vainillas valente x 148 gr.",
+      "ean": "7790550029479",
+      "nombre": "cafe instantaneo cabrales la planta suave x 100 gr",
       "categoria": "Perfumeria",
-      "precio_antes": 2044.0,
-      "precio_hoy": 1349.0,
-      "diff_abs": -695.0,
-      "diff_pct": -34.0
+      "precio_antes": 6959.0,
+      "precio_hoy": 4869.0,
+      "diff_abs": -2090.0,
+      "diff_pct": -30.03
     },
     {
-      "ean": "7793890258707",
-      "nombre": "vainillas valente x 444 gm",
+      "ean": "7790550022258",
+      "nombre": "cafe molido super cabrales x 500 gr.",
       "categoria": "Perfumeria",
-      "precio_antes": 5510.0,
-      "precio_hoy": 3639.0,
-      "diff_abs": -1871.0,
-      "diff_pct": -33.96
-    },
-    {
-      "ean": "7798028020287",
-      "nombre": "mate cocido pajaro azul x 25 saquitos",
-      "categoria": "Perfumeria",
-      "precio_antes": 1154.0,
-      "precio_hoy": 769.0,
-      "diff_abs": -385.0,
-      "diff_pct": -33.36
-    },
-    {
-      "ean": "7790490998002",
-      "nombre": "edulcorante hileret mate x 200 ml.",
-      "categoria": "Almacen",
-      "precio_antes": 2596.0,
-      "precio_hoy": 1789.0,
-      "diff_abs": -807.0,
-      "diff_pct": -31.09
+      "precio_antes": 31211.0,
+      "precio_hoy": 22689.0,
+      "diff_abs": -8522.0,
+      "diff_pct": -27.3
     }
   ],
-  "productos_subieron_dia": 192,
-  "productos_bajaron_dia": 106,
-  "productos_sin_cambio_dia": 5382
+  "productos_subieron_dia": 65,
+  "productos_bajaron_dia": 50,
+  "productos_sin_cambio_dia": 5593
 }
