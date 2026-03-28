@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7798108834155",
-    "nombre": "vino blanco callia amable tardio x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4019.0,
-    "precio_hoy": 5082.0,
-    "diff_abs": 1063.0,
-    "diff_pct": 26.45
+    "ean": "2020350000008",
+    "nombre": "chaucha ballina x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.13
   },
   {
-    "ean": "7798108834179",
-    "nombre": "vino tardio callia x 750 ml. rosado malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 4019.0,
-    "precio_hoy": 5082.0,
-    "diff_abs": 1063.0,
-    "diff_pct": 26.45
+    "ean": "2021930000005",
+    "nombre": "rabanitos x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1490.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 33.56
   },
   {
-    "ean": "7798108834193",
-    "nombre": "vino callia amable x750ml.t.ti",
-    "categoria": "Bebidas",
-    "precio_antes": 4019.0,
-    "precio_hoy": 5082.0,
-    "diff_abs": 1063.0,
-    "diff_pct": 26.45
+    "ean": "2014060000007",
+    "nombre": "queso criollo tregar x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 19899.0,
+    "precio_hoy": 25808.0,
+    "diff_abs": 5909.0,
+    "diff_pct": 29.69
   },
   {
-    "ean": "7798074864019",
-    "nombre": "vino portillo x1.5lt.malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 9649.0,
-    "precio_hoy": 12197.0,
-    "diff_abs": 2548.0,
-    "diff_pct": 26.41
+    "ean": "7794297010400",
+    "nombre": "jarro termico",
+    "categoria": "Limpieza",
+    "precio_antes": 4394.0,
+    "precio_hoy": 5414.0,
+    "diff_abs": 1020.0,
+    "diff_pct": 23.21
   },
   {
-    "ean": "7798074864873",
-    "nombre": "vino blanco portillo x 750ml dulce natural",
-    "categoria": "Bebidas",
-    "precio_antes": 4899.0,
-    "precio_hoy": 6191.0,
-    "diff_abs": 1292.0,
-    "diff_pct": 26.37
+    "ean": "9504134",
+    "nombre": "burlete doble cuerina",
+    "categoria": "Limpieza",
+    "precio_antes": 8663.0,
+    "precio_hoy": 10514.0,
+    "diff_abs": 1851.0,
+    "diff_pct": 21.37
   },
   {
-    "ean": "7798074864750",
-    "nombre": "vino portillo chardonnay x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 5009.0,
-    "precio_hoy": 6329.0,
-    "diff_abs": 1320.0,
-    "diff_pct": 26.35
+    "ean": "7798338290301",
+    "nombre": "leche las tres niaas x 1 litro descremada 0 % larga vida",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1507.0,
+    "precio_hoy": 1825.0,
+    "diff_abs": 318.0,
+    "diff_pct": 21.1
   },
   {
-    "ean": "7798074864774",
-    "nombre": "vino finca el portillo blanco sauvignon blanc x 75",
-    "categoria": "Bebidas",
-    "precio_antes": 5009.0,
-    "precio_hoy": 6329.0,
-    "diff_abs": 1320.0,
-    "diff_pct": 26.35
+    "ean": "2021020000007",
+    "nombre": "hinojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
   },
   {
-    "ean": "7798074865115",
-    "nombre": "vino blanco killka chardonnay x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 6949.0,
-    "precio_hoy": 8778.0,
-    "diff_abs": 1829.0,
-    "diff_pct": 26.32
+    "ean": "2020370000002",
+    "nombre": "chaucha rolliza x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
   },
   {
-    "ean": "7798108833899",
-    "nombre": "vino callia magnum x1.5l.malb.",
-    "categoria": "Bebidas",
-    "precio_antes": 8339.0,
-    "precio_hoy": 10534.0,
-    "diff_abs": 2195.0,
-    "diff_pct": 26.32
+    "ean": "763571681268",
+    "nombre": "bandeja desayuno",
+    "categoria": "Limpieza",
+    "precio_antes": 5538.0,
+    "precio_hoy": 6369.0,
+    "diff_abs": 831.0,
+    "diff_pct": 15.01
   },
   {
-    "ean": "7798074865139",
-    "nombre": "vino tinto killka cabernet sauvignon x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 6949.0,
-    "precio_hoy": 8778.0,
-    "diff_abs": 1829.0,
-    "diff_pct": 26.32
+    "ean": "7794297010080",
+    "nombre": "palmeta",
+    "categoria": "Limpieza",
+    "precio_antes": 726.0,
+    "precio_hoy": 814.0,
+    "diff_abs": 88.0,
+    "diff_pct": 12.12
   },
   {
-    "ean": "7798074862756",
-    "nombre": "vino killka x 750 ml. sauvignon blanc",
-    "categoria": "Bebidas",
-    "precio_antes": 6949.0,
-    "precio_hoy": 8778.0,
-    "diff_abs": 1829.0,
-    "diff_pct": 26.32
+    "ean": "7794297083596",
+    "nombre": "percha",
+    "categoria": "Limpieza",
+    "precio_antes": 4276.0,
+    "precio_hoy": 4790.0,
+    "diff_abs": 514.0,
+    "diff_pct": 12.02
   },
   {
-    "ean": "7798074865191",
-    "nombre": "vino killka x 750 ml malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 6949.0,
-    "precio_hoy": 8778.0,
-    "diff_abs": 1829.0,
-    "diff_pct": 26.32
+    "ean": "7794297025329",
+    "nombre": "263012 escurridor verduras",
+    "categoria": "Limpieza",
+    "precio_antes": 9209.0,
+    "precio_hoy": 10315.0,
+    "diff_abs": 1106.0,
+    "diff_pct": 12.01
   },
   {
-    "ean": "7798074865153",
-    "nombre": "vino killka x 750 ml corte tinta",
-    "categoria": "Bebidas",
-    "precio_antes": 6949.0,
-    "precio_hoy": 8778.0,
-    "diff_abs": 1829.0,
-    "diff_pct": 26.32
+    "ean": "7794297020188",
+    "nombre": "263103 botella plastica deportiva",
+    "categoria": "Limpieza",
+    "precio_antes": 2136.0,
+    "precio_hoy": 2392.0,
+    "diff_abs": 256.0,
+    "diff_pct": 11.99
   },
   {
-    "ean": "7798108833691",
-    "nombre": "vino callia rose x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4169.0,
-    "precio_hoy": 5266.0,
-    "diff_abs": 1097.0,
-    "diff_pct": 26.31
+    "ean": "7794297040216",
+    "nombre": "manga repostera para decorar",
+    "categoria": "Limpieza",
+    "precio_antes": 3148.0,
+    "precio_hoy": 3525.0,
+    "diff_abs": 377.0,
+    "diff_pct": 11.98
   },
   {
-    "ean": "7798108834117",
-    "nombre": "vino fino tinto callia alta syrah-malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4169.0,
-    "precio_hoy": 5266.0,
-    "diff_abs": 1097.0,
-    "diff_pct": 26.31
+    "ean": "7794297183609",
+    "nombre": "percha",
+    "categoria": "Limpieza",
+    "precio_antes": 1461.0,
+    "precio_hoy": 1636.0,
+    "diff_abs": 175.0,
+    "diff_pct": 11.98
   },
   {
-    "ean": "7798108834056",
-    "nombre": "vino callia alta merlot x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4169.0,
-    "precio_hoy": 5266.0,
-    "diff_abs": 1097.0,
-    "diff_pct": 26.31
+    "ean": "7798338291551",
+    "nombre": "yogur las 3 niaas y yo x 500 gm sabor frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1659.0,
+    "precio_hoy": 1848.0,
+    "diff_abs": 189.0,
+    "diff_pct": 11.39
   },
   {
-    "ean": "7798108834032",
-    "nombre": "vino callia alta cabernet sauvignon x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4169.0,
-    "precio_hoy": 5266.0,
-    "diff_abs": 1097.0,
-    "diff_pct": 26.31
+    "ean": "7798338291544",
+    "nombre": "yogur las 3 niaas y yo x 500 gm bebible sabor vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1659.0,
+    "precio_hoy": 1848.0,
+    "diff_abs": 189.0,
+    "diff_pct": 11.39
   },
   {
-    "ean": "7798108834094",
-    "nombre": "vino callia alta x750ml.syrah",
-    "categoria": "Bebidas",
-    "precio_antes": 4169.0,
-    "precio_hoy": 5266.0,
-    "diff_abs": 1097.0,
-    "diff_pct": 26.31
+    "ean": "7797797830387",
+    "nombre": "bowl",
+    "categoria": "Limpieza",
+    "precio_antes": 1331.0,
+    "precio_hoy": 1465.0,
+    "diff_abs": 134.0,
+    "diff_pct": 10.07
   },
   {
-    "ean": "7798108834131",
-    "nombre": "vino callia alta x750ml.syr-ca",
-    "categoria": "Bebidas",
-    "precio_antes": 4169.0,
-    "precio_hoy": 5266.0,
-    "diff_abs": 1097.0,
-    "diff_pct": 26.31
+    "ean": "7797797830035",
+    "nombre": "257002 ensaladera con frutas",
+    "categoria": "Limpieza",
+    "precio_antes": 1522.0,
+    "precio_hoy": 1675.0,
+    "diff_abs": 153.0,
+    "diff_pct": 10.05
   },
   {
-    "ean": "7798108833950",
-    "nombre": "vino callia alta x750ml.malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 4169.0,
-    "precio_hoy": 5266.0,
-    "diff_abs": 1097.0,
-    "diff_pct": 26.31
+    "ean": "7792579006011",
+    "nombre": "sorbito tintin",
+    "categoria": "Limpieza",
+    "precio_antes": 1704.0,
+    "precio_hoy": 1875.0,
+    "diff_abs": 171.0,
+    "diff_pct": 10.04
   }
 ]

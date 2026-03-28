@@ -36,8 +36,8 @@
     "diff_pct": 116.85
   },
   {
-    "ean": "7622201733865",
-    "nombre": "jugo tang mandarina x 15 gm",
+    "ean": "7622201745936",
+    "nombre": "jugo tang durazno x15gr.",
     "categoria": "Bebidas",
     "precio_antes": 279.0,
     "precio_hoy": 581.0,
@@ -54,8 +54,8 @@
     "diff_pct": 108.24
   },
   {
-    "ean": "7622201745936",
-    "nombre": "jugo tang durazno x15gr.",
+    "ean": "7622201733865",
+    "nombre": "jugo tang mandarina x 15 gm",
     "categoria": "Bebidas",
     "precio_antes": 279.0,
     "precio_hoy": 581.0,
@@ -72,33 +72,6 @@
     "diff_pct": 71.42
   },
   {
-    "ean": "7622201703172",
-    "nombre": "jugo clight pomelo rosado 7gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622201703080",
-    "nombre": "jugo clight manzana deliciosa x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622201702656",
-    "nombre": "jugo clight limonada x7gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
     "ean": "7622201703141",
     "nombre": "jugo en polvo clight naranja dulce x 7 gr.",
     "categoria": "Bebidas",
@@ -108,17 +81,8 @@
     "diff_pct": 68.52
   },
   {
-    "ean": "7622201733834",
-    "nombre": "jugo en polvo clight limonada-maracuya x 7,5 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622202236846",
-    "nombre": "jugo clight arandano x8gr.",
+    "ean": "7622201703172",
+    "nombre": "jugo clight pomelo rosado 7gr.",
     "categoria": "Bebidas",
     "precio_antes": 359.0,
     "precio_hoy": 605.0,
@@ -135,6 +99,42 @@
     "diff_pct": 68.52
   },
   {
+    "ean": "7622201702717",
+    "nombre": "jugo en polvo clight naranja-durazno x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 246.0,
+    "diff_pct": 68.52
+  },
+  {
+    "ean": "7622202236846",
+    "nombre": "jugo clight arandano x8gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 246.0,
+    "diff_pct": 68.52
+  },
+  {
+    "ean": "7622201733834",
+    "nombre": "jugo en polvo clight limonada-maracuya x 7,5 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 246.0,
+    "diff_pct": 68.52
+  },
+  {
+    "ean": "7622201702656",
+    "nombre": "jugo clight limonada x7gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 246.0,
+    "diff_pct": 68.52
+  },
+  {
     "ean": "7622202359927",
     "nombre": "jugo cligh pomelada hibiscus x 8 gm",
     "categoria": "Bebidas",
@@ -144,8 +144,8 @@
     "diff_pct": 68.52
   },
   {
-    "ean": "7622201702717",
-    "nombre": "jugo en polvo clight naranja-durazno x 7 gr.",
+    "ean": "7622201703080",
+    "nombre": "jugo clight manzana deliciosa x 7 gr.",
     "categoria": "Bebidas",
     "precio_antes": 359.0,
     "precio_hoy": 605.0,

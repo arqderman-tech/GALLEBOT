@@ -9,13 +9,31 @@
     "diff_pct": 150.75
   },
   {
-    "ean": "790757856899",
-    "nombre": "llave ajustable 8",
-    "categoria": "Limpieza",
-    "precio_antes": 8150.0,
-    "precio_hoy": 15403.0,
-    "diff_abs": 7253.0,
-    "diff_pct": 88.99
+    "ean": "7798222460018",
+    "nombre": "formitas de soja latina x 400 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 1769.0,
+    "precio_hoy": 4217.0,
+    "diff_abs": 2448.0,
+    "diff_pct": 138.38
+  },
+  {
+    "ean": "7790168075707",
+    "nombre": "vino graffigna pinot grigio x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4339.0,
+    "precio_hoy": 8670.0,
+    "diff_abs": 4331.0,
+    "diff_pct": 99.82
+  },
+  {
+    "ean": "7790168075677",
+    "nombre": "vino tinto graffigna syrah x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4339.0,
+    "precio_hoy": 8670.0,
+    "diff_abs": 4331.0,
+    "diff_pct": 99.82
   },
   {
     "ean": "2037320000005",
@@ -27,6 +45,15 @@
     "diff_pct": 87.61
   },
   {
+    "ean": "7790040150010",
+    "nombre": "alfajor cofler x 60 gr choco creamy",
+    "categoria": "Almacen",
+    "precio_antes": 1059.0,
+    "precio_hoy": 1876.0,
+    "diff_abs": 817.0,
+    "diff_pct": 77.15
+  },
+  {
     "ean": "2020000000006",
     "nombre": "arandanos en bandeja",
     "categoria": "Frutas Y Verduras",
@@ -34,6 +61,24 @@
     "precio_hoy": 6990.0,
     "diff_abs": 3000.0,
     "diff_pct": 75.19
+  },
+  {
+    "ean": "2037560000001",
+    "nombre": "mejillon pelado las caracolas x kilo x kg.",
+    "categoria": "Congelados",
+    "precio_antes": 21083.0,
+    "precio_hoy": 36591.0,
+    "diff_abs": 15508.0,
+    "diff_pct": 73.56
+  },
+  {
+    "ean": "7790387011852",
+    "nombre": "mate cocido taragui ni$os vainilla y miel x 20 saq",
+    "categoria": "Perfumeria",
+    "precio_antes": 1529.0,
+    "precio_hoy": 2621.0,
+    "diff_abs": 1092.0,
+    "diff_pct": 71.42
   },
   {
     "ean": "2022080000006",
@@ -45,138 +90,93 @@
     "diff_pct": 67.23
   },
   {
-    "ean": "2021840000003",
-    "nombre": "pimiento verde x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 50.25
+    "ean": "80052487",
+    "nombre": "bombon raffaello x 3 unidades",
+    "categoria": "Almacen",
+    "precio_antes": 1829.0,
+    "precio_hoy": 3049.0,
+    "diff_abs": 1220.0,
+    "diff_pct": 66.7
   },
   {
-    "ean": "7790150831106",
-    "nombre": "bolitas de cereal chocolino x 200 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2729.0,
-    "precio_hoy": 3854.0,
-    "diff_abs": 1125.0,
-    "diff_pct": 41.22
+    "ean": "2025600000005",
+    "nombre": "puchero de aguja ternera x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 4800.0,
+    "precio_hoy": 7900.0,
+    "diff_abs": 3100.0,
+    "diff_pct": 64.58
   },
   {
-    "ean": "7790550022319",
-    "nombre": "cafe tostado molido cabrales x 250 gm happy day",
-    "categoria": "Perfumeria",
-    "precio_antes": 13989.0,
-    "precio_hoy": 19659.0,
-    "diff_abs": 5670.0,
-    "diff_pct": 40.53
+    "ean": "2025590000009",
+    "nombre": "puchero caracu ternera x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 4800.0,
+    "precio_hoy": 7900.0,
+    "diff_abs": 3100.0,
+    "diff_pct": 64.58
   },
   {
-    "ean": "7793046004141",
-    "nombre": "dulce de membrillo dulcor sachet x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2239.0,
-    "precio_hoy": 3130.0,
-    "diff_abs": 891.0,
-    "diff_pct": 39.79
+    "ean": "7790360982537",
+    "nombre": "milanesitas swift x 400 gm carne",
+    "categoria": "Congelados",
+    "precio_antes": 5440.0,
+    "precio_hoy": 8718.0,
+    "diff_abs": 3278.0,
+    "diff_pct": 60.26
   },
   {
-    "ean": "7790625010401",
-    "nombre": "salchichas 66 x 6 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 949.0,
-    "precio_hoy": 1310.0,
-    "diff_abs": 361.0,
-    "diff_pct": 38.04
+    "ean": "7790040147751",
+    "nombre": "saladix flames x 60 gr extra picante",
+    "categoria": "Almacen",
+    "precio_antes": 1169.0,
+    "precio_hoy": 1820.0,
+    "diff_abs": 651.0,
+    "diff_pct": 55.69
   },
   {
-    "ean": "2014130000005",
-    "nombre": "queso fontina tregar x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 21549.0,
-    "precio_hoy": 29570.0,
-    "diff_abs": 8021.0,
-    "diff_pct": 37.22
+    "ean": "7898024397151",
+    "nombre": "bombones ferrero collection x 77 gm",
+    "categoria": "Almacen",
+    "precio_antes": 7779.0,
+    "precio_hoy": 12108.0,
+    "diff_abs": 4329.0,
+    "diff_pct": 55.65
   },
   {
-    "ean": "7791451071000",
-    "nombre": "dulce de batanta esnaola x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1929.0,
-    "precio_hoy": 2632.0,
-    "diff_abs": 703.0,
-    "diff_pct": 36.44
+    "ean": "8000500232057",
+    "nombre": "bombones rafaello x 9 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 5339.0,
+    "precio_hoy": 8303.0,
+    "diff_abs": 2964.0,
+    "diff_pct": 55.52
   },
   {
-    "ean": "7791451080040",
-    "nombre": "dulce de membrillo esnaola x 500 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 2649.0,
-    "precio_hoy": 3608.0,
-    "diff_abs": 959.0,
-    "diff_pct": 36.2
+    "ean": "7790168075660",
+    "nombre": "vino tinto graffigna cabernet sauvignon x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5639.0,
+    "precio_hoy": 8670.0,
+    "diff_abs": 3031.0,
+    "diff_pct": 53.75
   },
   {
-    "ean": "7793913013696",
-    "nombre": "yogur entero tregar con cereales x 164 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1269.0,
-    "precio_hoy": 1635.0,
-    "diff_abs": 366.0,
-    "diff_pct": 28.84
+    "ean": "7790168075684",
+    "nombre": "vino graffigna centenario malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5639.0,
+    "precio_hoy": 8670.0,
+    "diff_abs": 3031.0,
+    "diff_pct": 53.75
   },
   {
-    "ean": "7793913013740",
-    "nombre": "yogur entero tregar tops granola x 155 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1269.0,
-    "precio_hoy": 1635.0,
-    "diff_abs": 366.0,
-    "diff_pct": 28.84
-  },
-  {
-    "ean": "7702147245667",
-    "nombre": "453cl6 vaso cristar rocks x 6 unid.",
-    "categoria": "Limpieza",
-    "precio_antes": 12100.0,
-    "precio_hoy": 15447.0,
-    "diff_abs": 3347.0,
-    "diff_pct": 27.66
-  },
-  {
-    "ean": "7790580134327",
-    "nombre": "crema de mani bon o bon x 290 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4169.0,
-    "precio_hoy": 5268.0,
-    "diff_abs": 1099.0,
-    "diff_pct": 26.36
-  },
-  {
-    "ean": "7790580134334",
-    "nombre": "relleno unt.aguila 3en1 x290gr",
-    "categoria": "Perfumeria",
-    "precio_antes": 4169.0,
-    "precio_hoy": 5268.0,
-    "diff_abs": 1099.0,
-    "diff_pct": 26.36
-  },
-  {
-    "ean": "7790580133344",
-    "nombre": "relleno untable cofler block x 290 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4169.0,
-    "precio_hoy": 5268.0,
-    "diff_abs": 1099.0,
-    "diff_pct": 26.36
-  },
-  {
-    "ean": "2016290000000",
-    "nombre": "dulce de batata con cerezas x kilo dulcor",
-    "categoria": "Perfumeria",
-    "precio_antes": 7219.0,
-    "precio_hoy": 9077.0,
-    "diff_abs": 1858.0,
-    "diff_pct": 25.74
+    "ean": "7790168903680",
+    "nombre": "vino tinto graffigna glorious malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 7359.0,
+    "precio_hoy": 11310.0,
+    "diff_abs": 3951.0,
+    "diff_pct": 53.69
   }
 ]
