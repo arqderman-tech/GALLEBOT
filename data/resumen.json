@@ -1,13 +1,147 @@
 {
-  "fecha": "20260329",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260330",
+  "total_productos": 5816,
+  "variacion_dia": -0.01,
+  "variacion_7d": 1.4,
+  "variacion_mes": 1.68,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1292
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": -0.04,
+      "productos_subieron": 0,
+      "productos_bajaron": 2,
+      "total_productos": 1150
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 208
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 659
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 849
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1619
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "7794080000441",
+      "nombre": "ravioles la morocha ricota y queso x 500 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3064.0,
+      "precio_hoy": 2359.0,
+      "diff_abs": -705.0,
+      "diff_pct": -23.01
+    },
+    {
+      "ean": "7794080001257",
+      "nombre": "ravioles la morocha x 500 gr. ricota y espinaca",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3064.0,
+      "precio_hoy": 2359.0,
+      "diff_abs": -705.0,
+      "diff_pct": -23.01
+    },
+    {
+      "ean": "7790387013139",
+      "nombre": "yerba taragui x1kg.bcp 4flex",
+      "categoria": "Perfumeria",
+      "precio_antes": 4582.0,
+      "precio_hoy": 4582.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790411000500",
+      "nombre": "yerba rosamonte sve.x500gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2479.0,
+      "precio_hoy": 2479.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790411001521",
+      "nombre": "yerba rosamonte suave plus x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2179.0,
+      "precio_hoy": 2179.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790411001378",
+      "nombre": "yerba rosamonte premium caja x 500 gr",
+      "categoria": "Perfumeria",
+      "precio_antes": 5868.0,
+      "precio_hoy": 5868.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790411000029",
+      "nombre": "yerba rosamonte especial x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 3069.0,
+      "precio_hoy": 3069.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790411000012",
+      "nombre": "yerba rosamonte especial x 1 kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 5849.0,
+      "precio_hoy": 5849.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790411000814",
+      "nombre": "yerba rosamonte despalada x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2824.0,
+      "precio_hoy": 2824.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798028021581",
+      "nombre": "yerba pajaro azul premium x 500 gr",
+      "categoria": "Perfumeria",
+      "precio_antes": 1899.0,
+      "precio_hoy": 1899.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    }
+  ],
   "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "productos_bajaron_dia": 2,
+  "productos_sin_cambio_dia": 5775
 }
