@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7896004004969",
-    "nombre": "zucaritas x490gr.caja",
-    "categoria": "Perfumeria",
-    "precio_antes": 5480.0,
-    "precio_hoy": 5480.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2020870000007",
+    "nombre": "kaki x kilo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 8990.0,
+    "diff_abs": 5000.0,
+    "diff_pct": 125.31
   },
   {
-    "ean": "7790387014624",
-    "nombre": "yerba mate union 4 flex x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2307.0,
-    "precio_hoy": 2307.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792798014934",
+    "nombre": "cerveza andes lata x 473 ml oro",
+    "categoria": "Bebidas",
+    "precio_antes": 1769.0,
+    "precio_hoy": 2800.0,
+    "diff_abs": 1031.0,
+    "diff_pct": 58.28
   },
   {
-    "ean": "7790387014617",
-    "nombre": "yerba mate union 4 flex x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4582.0,
-    "precio_hoy": 4582.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790387013634",
-    "nombre": "yerba mate taragui x 250 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1306.0,
-    "precio_hoy": 1306.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790387013504",
-    "nombre": "yerba mate taragui sin palo x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3273.0,
-    "precio_hoy": 3273.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790387013498",
-    "nombre": "yerba mate taragui sin palo x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 6326.0,
-    "precio_hoy": 6326.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790387013627",
-    "nombre": "yerba mate taragui 4 flex x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2307.0,
-    "precio_hoy": 2307.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790387013610",
-    "nombre": "yerba mate taragui 4 flex x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3989.0,
-    "precio_hoy": 3989.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790070508539",
-    "nombre": "yerba mate salus x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4338.0,
-    "precio_hoy": 4338.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411002122",
-    "nombre": "yerba mate rosamonte x 250 gm organica",
-    "categoria": "Perfumeria",
-    "precio_antes": 2167.0,
-    "precio_hoy": 2167.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411000890",
-    "nombre": "yerba mate rosamonte terere x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2139.0,
-    "precio_hoy": 2139.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411000548",
-    "nombre": "yerba mate rosamonte suave seleccion especial x 50",
-    "categoria": "Perfumeria",
-    "precio_antes": 2899.0,
-    "precio_hoy": 2899.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411000531",
-    "nombre": "yerba mate rosamonte suave seleccion especial x 1k",
-    "categoria": "Perfumeria",
-    "precio_antes": 5498.0,
-    "precio_hoy": 5498.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411001514",
-    "nombre": "yerba mate rosamonte suave plus x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4129.0,
-    "precio_hoy": 4129.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411001507",
-    "nombre": "yerba mate rosamonte plus x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2049.0,
-    "precio_hoy": 2049.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411001392",
-    "nombre": "yerba mate rosamonte fundacion favaloro x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 5111.0,
-    "precio_hoy": 5111.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411001408",
-    "nombre": "yerba mate rosamonte edicion fundacion favaloro x",
-    "categoria": "Perfumeria",
-    "precio_antes": 2694.0,
-    "precio_hoy": 2694.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798080521265",
-    "nombre": "aceite de oliva con limon la toscana x 250 ml.",
+    "ean": "7794940000796",
+    "nombre": "edulcorante hileret stevia x 200 ml.",
     "categoria": "Almacen",
-    "precio_antes": 10263.0,
-    "precio_hoy": 10263.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 3239.0,
+    "precio_hoy": 5041.0,
+    "diff_abs": 1802.0,
+    "diff_pct": 55.63
   },
   {
-    "ean": "7790070265135",
-    "nombre": "aceite de oliva cocinero ol. puro p. x 1 litro",
-    "categoria": "Almacen",
-    "precio_antes": 20746.0,
-    "precio_hoy": 20746.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792798992317",
+    "nombre": "cerveza andes roja lata x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2009.0,
+    "precio_hoy": 3025.0,
+    "diff_abs": 1016.0,
+    "diff_pct": 50.57
   },
   {
-    "ean": "7790070265098",
-    "nombre": "aceite de oliva cocinero extra virgen x 500 ml.",
+    "ean": "7792798014156",
+    "nombre": "cerveza andes rubia origen lata x 710 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 2816.05,
+    "precio_hoy": 4200.0,
+    "diff_abs": 1383.95,
+    "diff_pct": 49.15
+  },
+  {
+    "ean": "7792798005888",
+    "nombre": "cerveza brahma lata x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1679.0,
+    "precio_hoy": 2500.0,
+    "diff_abs": 821.0,
+    "diff_pct": 48.9
+  },
+  {
+    "ean": "7792798015061",
+    "nombre": "cerveza brahma x 710 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 2449.0,
+    "precio_hoy": 3600.0,
+    "diff_abs": 1151.0,
+    "diff_pct": 47.0
+  },
+  {
+    "ean": "7790490998002",
+    "nombre": "edulcorante hileret mate x 200 ml.",
     "categoria": "Almacen",
-    "precio_antes": 12906.0,
-    "precio_hoy": 12906.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 1789.0,
+    "precio_hoy": 2596.0,
+    "diff_abs": 807.0,
+    "diff_pct": 45.11
+  },
+  {
+    "ean": "7790490998231",
+    "nombre": "edulcorante hileret clasico x 250 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 1699.0,
+    "precio_hoy": 2464.0,
+    "diff_abs": 765.0,
+    "diff_pct": 45.03
+  },
+  {
+    "ean": "7794940000604",
+    "nombre": "edulcorante hileret zucra x 50 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 1689.0,
+    "precio_hoy": 2353.0,
+    "diff_abs": 664.0,
+    "diff_pct": 39.31
+  },
+  {
+    "ean": "2018670000006",
+    "nombre": "jamon crudo lario x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 40499.76,
+    "precio_hoy": 55086.0,
+    "diff_abs": 14586.24,
+    "diff_pct": 36.02
+  },
+  {
+    "ean": "7794080000212",
+    "nombre": "tapa para pascualina la morocha hojaldre x 2 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1249.0,
+    "precio_hoy": 1667.0,
+    "diff_abs": 418.0,
+    "diff_pct": 33.47
+  },
+  {
+    "ean": "7790895003318",
+    "nombre": "agua saborizada aquarius cepita uva x 2.25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2969.0,
+    "precio_hoy": 3960.0,
+    "diff_abs": 991.0,
+    "diff_pct": 33.38
+  },
+  {
+    "ean": "7790895003288",
+    "nombre": "aquarius cepita x 2,25 lt. pomelo",
+    "categoria": "Bebidas",
+    "precio_antes": 2969.0,
+    "precio_hoy": 3960.0,
+    "diff_abs": 991.0,
+    "diff_pct": 33.38
+  },
+  {
+    "ean": "7790895003295",
+    "nombre": "agua saborizada aquarius cepita pera x 2.25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2969.0,
+    "precio_hoy": 3960.0,
+    "diff_abs": 991.0,
+    "diff_pct": 33.38
+  },
+  {
+    "ean": "7790895010095",
+    "nombre": "gaseosa schweppes pomelo zero x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3759.0,
+    "precio_hoy": 5009.0,
+    "diff_abs": 1250.0,
+    "diff_pct": 33.25
+  },
+  {
+    "ean": "7790895007385",
+    "nombre": "gaseosa crush lima limon x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1929.0,
+    "precio_hoy": 2570.0,
+    "diff_abs": 641.0,
+    "diff_pct": 33.23
+  },
+  {
+    "ean": "7790895006951",
+    "nombre": "gaseosa crush naranja x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1929.0,
+    "precio_hoy": 2570.0,
+    "diff_abs": 641.0,
+    "diff_pct": 33.23
+  },
+  {
+    "ean": "7790895007392",
+    "nombre": "gaseosa crush pomelo x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1929.0,
+    "precio_hoy": 2570.0,
+    "diff_abs": 641.0,
+    "diff_pct": 33.23
+  },
+  {
+    "ean": "7790895001000",
+    "nombre": "gaseosa lima limon sprite x 2.25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3499.0,
+    "precio_hoy": 4660.0,
+    "diff_abs": 1161.0,
+    "diff_pct": 33.18
   }
 ]

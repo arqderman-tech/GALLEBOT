@@ -1,38 +1,38 @@
 {
-  "fecha": "20260330",
-  "total_productos": 5816,
-  "variacion_dia": -0.01,
-  "variacion_7d": 1.4,
-  "variacion_mes": 1.68,
+  "fecha": "20260331",
+  "total_productos": 5828,
+  "variacion_dia": 0.27,
+  "variacion_7d": 1.64,
+  "variacion_mes": 1.11,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.91,
+      "productos_subieron": 36,
       "productos_bajaron": 0,
-      "total_productos": 1292
+      "total_productos": 1294
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.04,
-      "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "total_productos": 1150
+      "variacion_pct_promedio": 0.15,
+      "productos_subieron": 15,
+      "productos_bajaron": 11,
+      "total_productos": 1153
     },
     {
       "categoria": "Congelados",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 208
+      "total_productos": 216
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 659
+      "total_productos": 657
     },
     {
       "categoria": "Cuidado Personal",
@@ -43,105 +43,105 @@
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.13,
+      "productos_subieron": 5,
       "productos_bajaron": 0,
-      "total_productos": 1619
+      "total_productos": 1641
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7794080000441",
-      "nombre": "ravioles la morocha ricota y queso x 500 gr.",
+      "ean": "2021020000007",
+      "nombre": "hinojo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 5990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -33.39
+    },
+    {
+      "ean": "2022210000005",
+      "nombre": "tomate perita x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 3990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -25.06
+    },
+    {
+      "ean": "2019950000006",
+      "nombre": "akusay x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -500.0,
+      "diff_pct": -20.08
+    },
+    {
+      "ean": "2020910000004",
+      "nombre": "lechuga de hoja x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -20.04
+    },
+    {
+      "ean": "2020920000001",
+      "nombre": "lechuga mantecosa x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -20.04
+    },
+    {
+      "ean": "2020160000007",
+      "nombre": "brocoli x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 9990.0,
+      "precio_hoy": 7990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -20.02
+    },
+    {
+      "ean": "2022220000002",
+      "nombre": "tomate redondo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2990.0,
+      "precio_hoy": 2490.0,
+      "diff_abs": -500.0,
+      "diff_pct": -16.72
+    },
+    {
+      "ean": "2020370000002",
+      "nombre": "chaucha rolliza x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -14.31
+    },
+    {
+      "ean": "2010460000005",
+      "nombre": "naranja de ombligo importada x kilo",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -14.31
+    },
+    {
+      "ean": "7790670052395",
+      "nombre": "salchichas patyviena x 12 unid.",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3064.0,
-      "precio_hoy": 2359.0,
-      "diff_abs": -705.0,
-      "diff_pct": -23.01
-    },
-    {
-      "ean": "7794080001257",
-      "nombre": "ravioles la morocha x 500 gr. ricota y espinaca",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3064.0,
-      "precio_hoy": 2359.0,
-      "diff_abs": -705.0,
-      "diff_pct": -23.01
-    },
-    {
-      "ean": "7790387013139",
-      "nombre": "yerba taragui x1kg.bcp 4flex",
-      "categoria": "Perfumeria",
-      "precio_antes": 4582.0,
-      "precio_hoy": 4582.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7790411000500",
-      "nombre": "yerba rosamonte sve.x500gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2479.0,
-      "precio_hoy": 2479.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7790411001521",
-      "nombre": "yerba rosamonte suave plus x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2179.0,
-      "precio_hoy": 2179.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7790411001378",
-      "nombre": "yerba rosamonte premium caja x 500 gr",
-      "categoria": "Perfumeria",
-      "precio_antes": 5868.0,
-      "precio_hoy": 5868.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7790411000029",
-      "nombre": "yerba rosamonte especial x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 3069.0,
-      "precio_hoy": 3069.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7790411000012",
-      "nombre": "yerba rosamonte especial x 1 kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 5849.0,
-      "precio_hoy": 5849.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7790411000814",
-      "nombre": "yerba rosamonte despalada x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2824.0,
-      "precio_hoy": 2824.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7798028021581",
-      "nombre": "yerba pajaro azul premium x 500 gr",
-      "categoria": "Perfumeria",
-      "precio_antes": 1899.0,
-      "precio_hoy": 1899.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "precio_antes": 5230.0,
+      "precio_hoy": 4599.0,
+      "diff_abs": -631.0,
+      "diff_pct": -12.07
     }
   ],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 2,
-  "productos_sin_cambio_dia": 5775
+  "productos_subieron_dia": 56,
+  "productos_bajaron_dia": 11,
+  "productos_sin_cambio_dia": 5743
 }
