@@ -18,58 +18,130 @@
     "diff_pct": 125.31
   },
   {
-    "ean": "7622201704148",
-    "nombre": "jugo en polvo clight mandarina x 8 gr.",
+    "ean": "7862109430934",
+    "nombre": "gatorade x 473 ml frutos tropicales",
     "categoria": "Bebidas",
-    "precio_antes": 279.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 326.0,
-    "diff_pct": 116.85
+    "precio_antes": 2669.0,
+    "precio_hoy": 5333.0,
+    "diff_abs": 2664.0,
+    "diff_pct": 99.81
   },
   {
-    "ean": "7622201703059",
-    "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 279.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 326.0,
-    "diff_pct": 116.85
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2509.0,
+    "precio_hoy": 5007.0,
+    "diff_abs": 2498.0,
+    "diff_pct": 99.56
   },
   {
-    "ean": "7622201703202",
-    "nombre": "jugo clight pera x7gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 279.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 326.0,
-    "diff_pct": 116.85
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2509.0,
+    "precio_hoy": 5007.0,
+    "diff_abs": 2498.0,
+    "diff_pct": 99.56
   },
   {
-    "ean": "7622201745936",
-    "nombre": "jugo tang durazno x15gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 279.0,
-    "precio_hoy": 581.0,
-    "diff_abs": 302.0,
-    "diff_pct": 108.24
+    "ean": "7791337008403",
+    "nombre": "leche chocolatada la serenisima x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2519.0,
+    "precio_hoy": 4926.0,
+    "diff_abs": 2407.0,
+    "diff_pct": 95.55
   },
   {
-    "ean": "7622201746490",
-    "nombre": "jugo en polvo tang x 15 gr. frutilla",
+    "ean": "7791813405023",
+    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
     "categoria": "Bebidas",
-    "precio_antes": 279.0,
-    "precio_hoy": 581.0,
-    "diff_abs": 302.0,
-    "diff_pct": 108.24
+    "precio_antes": 1569.0,
+    "precio_hoy": 3050.0,
+    "diff_abs": 1481.0,
+    "diff_pct": 94.39
   },
   {
-    "ean": "7622201733865",
-    "nombre": "jugo tang mandarina x 15 gm",
+    "ean": "7791813405016",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
     "categoria": "Bebidas",
-    "precio_antes": 279.0,
-    "precio_hoy": 581.0,
-    "diff_abs": 302.0,
-    "diff_pct": 108.24
+    "precio_antes": 1569.0,
+    "precio_hoy": 3050.0,
+    "diff_abs": 1481.0,
+    "diff_pct": 94.39
+  },
+  {
+    "ean": "7791813405030",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1569.0,
+    "precio_hoy": 3050.0,
+    "diff_abs": 1481.0,
+    "diff_pct": 94.39
+  },
+  {
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3808.99,
+    "precio_hoy": 7018.0,
+    "diff_abs": 3209.01,
+    "diff_pct": 84.25
+  },
+  {
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3808.99,
+    "precio_hoy": 7018.0,
+    "diff_abs": 3209.01,
+    "diff_pct": 84.25
+  },
+  {
+    "ean": "7791337008410",
+    "nombre": "leche chocolatada la serenisima x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 919.0,
+    "precio_hoy": 1686.0,
+    "diff_abs": 767.0,
+    "diff_pct": 83.46
+  },
+  {
+    "ean": "7791813403012",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1231.0,
+    "diff_pct": 81.04
+  },
+  {
+    "ean": "7791813403036",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1231.0,
+    "diff_pct": 81.04
+  },
+  {
+    "ean": "7791813403029",
+    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1231.0,
+    "diff_pct": 81.04
+  },
+  {
+    "ean": "7793147572846",
+    "nombre": "cerveza grolsch ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2109.0,
+    "precio_hoy": 3700.0,
+    "diff_abs": 1591.0,
+    "diff_pct": 75.44
   },
   {
     "ean": "7790387011852",
@@ -81,102 +153,30 @@
     "diff_pct": 71.42
   },
   {
-    "ean": "7622201702717",
-    "nombre": "jugo en polvo clight naranja-durazno x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 1733.0,
+    "diff_pct": 69.35
   },
   {
-    "ean": "7622201702656",
-    "nombre": "jugo clight limonada x7gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 1733.0,
+    "diff_pct": 69.35
   },
   {
-    "ean": "7622201703110",
-    "nombre": "jugo en polvo clight x 7 gr. sabor naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622201703080",
-    "nombre": "jugo clight manzana deliciosa x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622201733834",
-    "nombre": "jugo en polvo clight limonada-maracuya x 7,5 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622201703141",
-    "nombre": "jugo en polvo clight naranja dulce x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622201682026",
-    "nombre": "jugo clight limo rosa x7.5gr",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622202236846",
-    "nombre": "jugo clight arandano x8gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622202359927",
-    "nombre": "jugo cligh pomelada hibiscus x 8 gm",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622201703172",
-    "nombre": "jugo clight pomelo rosado 7gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622201702625",
-    "nombre": "jugo en polvo clight anana x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 604.0,
-    "diff_abs": 245.0,
-    "diff_pct": 68.25
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 1733.0,
+    "diff_pct": 69.35
   }
 ]

@@ -27,6 +27,15 @@
     "diff_pct": 125.31
   },
   {
+    "ean": "7790168075677",
+    "nombre": "vino tinto graffigna syrah x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4339.0,
+    "precio_hoy": 8670.0,
+    "diff_abs": 4331.0,
+    "diff_pct": 99.82
+  },
+  {
     "ean": "7790168075707",
     "nombre": "vino graffigna pinot grigio x 750 ml.",
     "categoria": "Bebidas",
@@ -36,13 +45,58 @@
     "diff_pct": 99.82
   },
   {
-    "ean": "7790168075677",
-    "nombre": "vino tinto graffigna syrah x 750 ml.",
+    "ean": "7862109430934",
+    "nombre": "gatorade x 473 ml frutos tropicales",
     "categoria": "Bebidas",
-    "precio_antes": 4339.0,
-    "precio_hoy": 8670.0,
-    "diff_abs": 4331.0,
-    "diff_pct": 99.82
+    "precio_antes": 2669.0,
+    "precio_hoy": 5333.0,
+    "diff_abs": 2664.0,
+    "diff_pct": 99.81
+  },
+  {
+    "ean": "7791813405023",
+    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+    "categoria": "Bebidas",
+    "precio_antes": 1569.0,
+    "precio_hoy": 3050.0,
+    "diff_abs": 1481.0,
+    "diff_pct": 94.39
+  },
+  {
+    "ean": "7791813405030",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1569.0,
+    "precio_hoy": 3050.0,
+    "diff_abs": 1481.0,
+    "diff_pct": 94.39
+  },
+  {
+    "ean": "7791813403036",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1459.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1291.0,
+    "diff_pct": 88.49
+  },
+  {
+    "ean": "7791813403029",
+    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1459.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1291.0,
+    "diff_pct": 88.49
+  },
+  {
+    "ean": "7791813403012",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 1459.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1291.0,
+    "diff_pct": 88.49
   },
   {
     "ean": "2037320000005",
@@ -99,13 +153,22 @@
     "diff_pct": 66.7
   },
   {
-    "ean": "2025600000005",
-    "nombre": "puchero de aguja ternera x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 4800.0,
-    "precio_hoy": 7900.0,
-    "diff_abs": 3100.0,
-    "diff_pct": 64.58
+    "ean": "7791813402015",
+    "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 849.0,
+    "precio_hoy": 1400.0,
+    "diff_abs": 551.0,
+    "diff_pct": 64.9
+  },
+  {
+    "ean": "7791813402039",
+    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 849.0,
+    "precio_hoy": 1400.0,
+    "diff_abs": 551.0,
+    "diff_pct": 64.9
   },
   {
     "ean": "2025590000009",
@@ -115,68 +178,5 @@
     "precio_hoy": 7900.0,
     "diff_abs": 3100.0,
     "diff_pct": 64.58
-  },
-  {
-    "ean": "7790360982537",
-    "nombre": "milanesitas swift x 400 gm carne",
-    "categoria": "Congelados",
-    "precio_antes": 5440.0,
-    "precio_hoy": 8718.0,
-    "diff_abs": 3278.0,
-    "diff_pct": 60.26
-  },
-  {
-    "ean": "7792798008858",
-    "nombre": "cerveza temple wolf ipa x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2859.0,
-    "precio_hoy": 4500.0,
-    "diff_abs": 1641.0,
-    "diff_pct": 57.4
-  },
-  {
-    "ean": "7898024397151",
-    "nombre": "bombones ferrero collection x 77 gm",
-    "categoria": "Almacen",
-    "precio_antes": 7779.0,
-    "precio_hoy": 12108.0,
-    "diff_abs": 4329.0,
-    "diff_pct": 55.65
-  },
-  {
-    "ean": "8000500232057",
-    "nombre": "bombones rafaello x 9 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 5339.0,
-    "precio_hoy": 8303.0,
-    "diff_abs": 2964.0,
-    "diff_pct": 55.52
-  },
-  {
-    "ean": "7792798002399",
-    "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4159.0,
-    "precio_hoy": 6400.0,
-    "diff_abs": 2241.0,
-    "diff_pct": 53.88
-  },
-  {
-    "ean": "7792798002351",
-    "nombre": "cerveza patagonia amber lager x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4159.0,
-    "precio_hoy": 6400.0,
-    "diff_abs": 2241.0,
-    "diff_pct": 53.88
-  },
-  {
-    "ean": "7790168075660",
-    "nombre": "vino tinto graffigna cabernet sauvignon x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 5639.0,
-    "precio_hoy": 8670.0,
-    "diff_abs": 3031.0,
-    "diff_pct": 53.75
   }
 ]

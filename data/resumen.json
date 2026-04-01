@@ -1,76 +1,103 @@
 {
-  "fecha": "20260331",
-  "total_productos": 5828,
-  "variacion_dia": 0.27,
-  "variacion_7d": 1.64,
-  "variacion_mes": 1.11,
+  "fecha": "20260401",
+  "total_productos": 5797,
+  "variacion_dia": 2.1,
+  "variacion_7d": 2.76,
+  "variacion_mes": 3.13,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.91,
-      "productos_subieron": 36,
-      "productos_bajaron": 0,
-      "total_productos": 1294
+      "variacion_pct_promedio": 5.59,
+      "productos_subieron": 209,
+      "productos_bajaron": 1,
+      "total_productos": 1298
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.15,
-      "productos_subieron": 15,
-      "productos_bajaron": 11,
-      "total_productos": 1153
+      "variacion_pct_promedio": 2.89,
+      "productos_subieron": 101,
+      "productos_bajaron": 6,
+      "total_productos": 1110
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 216
+      "variacion_pct_promedio": 0.81,
+      "productos_subieron": 25,
+      "productos_bajaron": 6,
+      "total_productos": 215
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -0.02,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "productos_bajaron": 1,
       "total_productos": 657
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 849
+      "variacion_pct_promedio": 0.56,
+      "productos_subieron": 46,
+      "productos_bajaron": 6,
+      "total_productos": 846
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.13,
-      "productos_subieron": 5,
-      "productos_bajaron": 0,
-      "total_productos": 1641
+      "variacion_pct_promedio": 0.6,
+      "productos_subieron": 70,
+      "productos_bajaron": 8,
+      "total_productos": 1637
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2021020000007",
-      "nombre": "hinojo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -33.39
+      "ean": "7790360982025",
+      "nombre": "crunchies de pollo swift x 760 gm",
+      "categoria": "Congelados",
+      "precio_antes": 15445.73,
+      "precio_hoy": 8759.0,
+      "diff_abs": -6686.73,
+      "diff_pct": -43.29
     },
     {
-      "ean": "2022210000005",
-      "nombre": "tomate perita x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -25.06
+      "ean": "7790360982537",
+      "nombre": "milanesitas swift x 400 gm carne",
+      "categoria": "Congelados",
+      "precio_antes": 8718.0,
+      "precio_hoy": 5929.0,
+      "diff_abs": -2789.0,
+      "diff_pct": -31.99
     },
     {
-      "ean": "2019950000006",
-      "nombre": "akusay x kg.",
+      "ean": "2022040000008",
+      "nombre": "repollo blanco x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 1990.0,
+      "precio_hoy": 1390.0,
+      "diff_abs": -600.0,
+      "diff_pct": -30.15
+    },
+    {
+      "ean": "7790199000013",
+      "nombre": "harina 000 morixe x 1 kg.",
+      "categoria": "Almacen",
+      "precio_antes": 978.0,
+      "precio_hoy": 719.0,
+      "diff_abs": -259.0,
+      "diff_pct": -26.48
+    },
+    {
+      "ean": "7791100000320",
+      "nombre": "almidon de maiz chango x 220 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1436.0,
+      "precio_hoy": 1119.0,
+      "diff_abs": -317.0,
+      "diff_pct": -22.08
+    },
+    {
+      "ean": "2022220000002",
+      "nombre": "tomate redondo x kg.",
       "categoria": "Frutas Y Verduras",
       "precio_antes": 2490.0,
       "precio_hoy": 1990.0,
@@ -78,70 +105,43 @@
       "diff_pct": -20.08
     },
     {
-      "ean": "2020910000004",
-      "nombre": "lechuga de hoja x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
+      "ean": "2024670000007",
+      "nombre": "ajies marvavic enteros 900gr x kg.",
+      "categoria": "Almacen",
+      "precio_antes": 34480.0,
+      "precio_hoy": 27929.0,
+      "diff_abs": -6551.0,
+      "diff_pct": -19.0
     },
     {
-      "ean": "2020920000001",
-      "nombre": "lechuga mantecosa x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
+      "ean": "816855020953",
+      "nombre": "madalenas dulce aventura x 200 gr. cchips de choc",
+      "categoria": "Perfumeria",
+      "precio_antes": 2112.0,
+      "precio_hoy": 1719.0,
+      "diff_abs": -393.0,
+      "diff_pct": -18.61
     },
     {
-      "ean": "2020160000007",
-      "nombre": "brocoli x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 9990.0,
-      "precio_hoy": 7990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -20.02
+      "ean": "816855020977",
+      "nombre": "madalenas dulce aventura x 200 gr. marmoladas",
+      "categoria": "Perfumeria",
+      "precio_antes": 2112.0,
+      "precio_hoy": 1719.0,
+      "diff_abs": -393.0,
+      "diff_pct": -18.61
     },
     {
-      "ean": "2022220000002",
-      "nombre": "tomate redondo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 2490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -16.72
-    },
-    {
-      "ean": "2020370000002",
-      "nombre": "chaucha rolliza x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 5990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -14.31
-    },
-    {
-      "ean": "2010460000005",
-      "nombre": "naranja de ombligo importada x kilo",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 5990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -14.31
-    },
-    {
-      "ean": "7790670052395",
-      "nombre": "salchichas patyviena x 12 unid.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 5230.0,
-      "precio_hoy": 4599.0,
-      "diff_abs": -631.0,
-      "diff_pct": -12.07
+      "ean": "7790360026583",
+      "nombre": "hamb.swift clasica x20",
+      "categoria": "Congelados",
+      "precio_antes": 30421.0,
+      "precio_hoy": 24849.0,
+      "diff_abs": -5572.0,
+      "diff_pct": -18.32
     }
   ],
-  "productos_subieron_dia": 56,
-  "productos_bajaron_dia": 11,
-  "productos_sin_cambio_dia": 5743
+  "productos_subieron_dia": 451,
+  "productos_bajaron_dia": 28,
+  "productos_sin_cambio_dia": 5284
 }
