@@ -1,14 +1,5 @@
 [
   {
-    "ean": "7798222460018",
-    "nombre": "formitas de soja latina x 400 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 1769.0,
-    "precio_hoy": 4217.0,
-    "diff_abs": 2448.0,
-    "diff_pct": 138.38
-  },
-  {
     "ean": "2020870000007",
     "nombre": "kaki x kilo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -27,24 +18,6 @@
     "diff_pct": 99.81
   },
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2509.0,
-    "precio_hoy": 5007.0,
-    "diff_abs": 2498.0,
-    "diff_pct": 99.56
-  },
-  {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2509.0,
-    "precio_hoy": 5007.0,
-    "diff_abs": 2498.0,
-    "diff_pct": 99.56
-  },
-  {
     "ean": "7791337008403",
     "nombre": "leche chocolatada la serenisima x 1 lt.",
     "categoria": "Lacteos Y Frescos",
@@ -52,51 +25,6 @@
     "precio_hoy": 4926.0,
     "diff_abs": 2407.0,
     "diff_pct": 95.55
-  },
-  {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-    "categoria": "Bebidas",
-    "precio_antes": 1569.0,
-    "precio_hoy": 3050.0,
-    "diff_abs": 1481.0,
-    "diff_pct": 94.39
-  },
-  {
-    "ean": "7791813405016",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
-    "categoria": "Bebidas",
-    "precio_antes": 1569.0,
-    "precio_hoy": 3050.0,
-    "diff_abs": 1481.0,
-    "diff_pct": 94.39
-  },
-  {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1569.0,
-    "precio_hoy": 3050.0,
-    "diff_abs": 1481.0,
-    "diff_pct": 94.39
-  },
-  {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3808.99,
-    "precio_hoy": 7018.0,
-    "diff_abs": 3209.01,
-    "diff_pct": 84.25
-  },
-  {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3808.99,
-    "precio_hoy": 7018.0,
-    "diff_abs": 3209.01,
-    "diff_pct": 84.25
   },
   {
     "ean": "7791337008410",
@@ -108,75 +36,147 @@
     "diff_pct": 83.46
   },
   {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1231.0,
-    "diff_pct": 81.04
+    "ean": "7793890261844",
+    "nombre": "tostadas libre de gluten salmas x 90 gr clasicas",
+    "categoria": "Almacen",
+    "precio_antes": 1509.0,
+    "precio_hoy": 2579.0,
+    "diff_abs": 1070.0,
+    "diff_pct": 70.91
   },
   {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1231.0,
-    "diff_pct": 81.04
+    "ean": "7791337010505",
+    "nombre": "yogur la seren. clasico entero sachet x 1.3 kilos sabor vain",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3409.0,
+    "precio_hoy": 5717.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 67.7
   },
   {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1231.0,
-    "diff_pct": 81.04
+    "ean": "7791337010512",
+    "nombre": "yogur la serenisima clasico entero sachet x 1.3 litros fruti",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3409.0,
+    "precio_hoy": 5717.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 67.7
   },
   {
-    "ean": "7793147572846",
-    "nombre": "cerveza grolsch ipa x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2109.0,
-    "precio_hoy": 3700.0,
-    "diff_abs": 1591.0,
-    "diff_pct": 75.44
-  },
-  {
-    "ean": "7790387011852",
-    "nombre": "mate cocido taragui ni$os vainilla y miel x 20 saq",
+    "ean": "7793890261578",
+    "nombre": "brownie chips sabe bien! x 62 gr.",
     "categoria": "Perfumeria",
-    "precio_antes": 1529.0,
-    "precio_hoy": 2621.0,
-    "diff_abs": 1092.0,
-    "diff_pct": 71.42
+    "precio_antes": 889.0,
+    "precio_hoy": 1423.0,
+    "diff_abs": 534.0,
+    "diff_pct": 60.07
   },
   {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2499.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 1733.0,
-    "diff_pct": 69.35
+    "ean": "7793890261530",
+    "nombre": "braunichoc sabe bien! x 35 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 619.0,
+    "precio_hoy": 982.0,
+    "diff_abs": 363.0,
+    "diff_pct": 58.64
   },
   {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2499.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 1733.0,
-    "diff_pct": 69.35
+    "ean": "2011810000003",
+    "nombre": "higos secos negros medianos x kg.",
+    "categoria": "Almacen",
+    "precio_antes": 12084.0,
+    "precio_hoy": 19122.0,
+    "diff_abs": 7038.0,
+    "diff_pct": 58.24
   },
   {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "ean": "7794940000796",
+    "nombre": "edulcorante hileret stevia x 200 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 3239.0,
+    "precio_hoy": 5041.0,
+    "diff_abs": 1802.0,
+    "diff_pct": 55.63
+  },
+  {
+    "ean": "7797906054925",
+    "nombre": "papas noisette mc cain horneables x 600 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 6489.0,
+    "precio_hoy": 10000.0,
+    "diff_abs": 3511.0,
+    "diff_pct": 54.11
+  },
+  {
+    "ean": "7793890258691",
+    "nombre": "vainillas valente x 148 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1349.0,
+    "precio_hoy": 2044.0,
+    "diff_abs": 695.0,
+    "diff_pct": 51.52
+  },
+  {
+    "ean": "7793890258707",
+    "nombre": "vainillas valente x 444 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 3639.0,
+    "precio_hoy": 5510.0,
+    "diff_abs": 1871.0,
+    "diff_pct": 51.42
+  },
+  {
+    "ean": "2021680000003",
+    "nombre": "zapallo brasilero x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 990.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 50.51
+  },
+  {
+    "ean": "2011390000004",
+    "nombre": "queso danbo psandwich canut x kg.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2499.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 1733.0,
-    "diff_pct": 69.35
+    "precio_antes": 13679.0,
+    "precio_hoy": 20570.0,
+    "diff_abs": 6891.0,
+    "diff_pct": 50.38
+  },
+  {
+    "ean": "7795930000567",
+    "nombre": "agua mineral sin gas glaciar x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1518.79,
+    "precio_hoy": 2260.0,
+    "diff_abs": 741.21,
+    "diff_pct": 48.8
+  },
+  {
+    "ean": "2011610000005",
+    "nombre": "queso reggianito canut x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 18629.0,
+    "precio_hoy": 27248.0,
+    "diff_abs": 8619.0,
+    "diff_pct": 46.27
+  },
+  {
+    "ean": "7791337007956",
+    "nombre": "alimento silk almendras x 1 litro chocolate",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3709.0,
+    "precio_hoy": 5408.0,
+    "diff_abs": 1699.0,
+    "diff_pct": 45.81
+  },
+  {
+    "ean": "7791337007932",
+    "nombre": "alimento liquido silk x 1 litro coco sin azucar",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3709.0,
+    "precio_hoy": 5408.0,
+    "diff_abs": 1699.0,
+    "diff_pct": 45.81
   }
 ]

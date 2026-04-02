@@ -1,147 +1,147 @@
 {
-  "fecha": "20260401",
-  "total_productos": 5797,
-  "variacion_dia": 2.1,
-  "variacion_7d": 2.76,
-  "variacion_mes": 3.13,
+  "fecha": "20260402",
+  "total_productos": 5775,
+  "variacion_dia": -0.99,
+  "variacion_7d": 0.86,
+  "variacion_mes": 0.64,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 5.59,
-      "productos_subieron": 209,
-      "productos_bajaron": 1,
-      "total_productos": 1298
+      "variacion_pct_promedio": -3.94,
+      "productos_subieron": 8,
+      "productos_bajaron": 201,
+      "total_productos": 1293
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 2.89,
-      "productos_subieron": 101,
-      "productos_bajaron": 6,
-      "total_productos": 1110
+      "variacion_pct_promedio": -0.95,
+      "productos_subieron": 1,
+      "productos_bajaron": 40,
+      "total_productos": 1106
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.81,
-      "productos_subieron": 25,
-      "productos_bajaron": 6,
-      "total_productos": 215
+      "variacion_pct_promedio": 0.7,
+      "productos_subieron": 3,
+      "productos_bajaron": 0,
+      "total_productos": 214
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": -0.02,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "total_productos": 657
+      "productos_bajaron": 0,
+      "total_productos": 670
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.56,
-      "productos_subieron": 46,
-      "productos_bajaron": 6,
-      "total_productos": 846
+      "variacion_pct_promedio": 0.33,
+      "productos_subieron": 10,
+      "productos_bajaron": 3,
+      "total_productos": 840
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.6,
-      "productos_subieron": 70,
-      "productos_bajaron": 8,
-      "total_productos": 1637
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 16,
+      "productos_bajaron": 27,
+      "total_productos": 1632
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790360982025",
-      "nombre": "crunchies de pollo swift x 760 gm",
-      "categoria": "Congelados",
-      "precio_antes": 15445.73,
-      "precio_hoy": 8759.0,
-      "diff_abs": -6686.73,
-      "diff_pct": -43.29
+      "ean": "7791337010499",
+      "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5007.0,
+      "precio_hoy": 2209.0,
+      "diff_abs": -2798.0,
+      "diff_pct": -55.88
     },
     {
-      "ean": "7790360982537",
-      "nombre": "milanesitas swift x 400 gm carne",
-      "categoria": "Congelados",
-      "precio_antes": 8718.0,
-      "precio_hoy": 5929.0,
-      "diff_abs": -2789.0,
-      "diff_pct": -31.99
+      "ean": "7791337010482",
+      "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5007.0,
+      "precio_hoy": 2209.0,
+      "diff_abs": -2798.0,
+      "diff_pct": -55.88
     },
     {
-      "ean": "2022040000008",
-      "nombre": "repollo blanco x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1990.0,
-      "precio_hoy": 1390.0,
-      "diff_abs": -600.0,
-      "diff_pct": -30.15
+      "ean": "7791337010369",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4232.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2033.0,
+      "diff_pct": -48.04
     },
     {
-      "ean": "7790199000013",
-      "nombre": "harina 000 morixe x 1 kg.",
-      "categoria": "Almacen",
-      "precio_antes": 978.0,
-      "precio_hoy": 719.0,
-      "diff_abs": -259.0,
-      "diff_pct": -26.48
+      "ean": "7791337010376",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4232.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2033.0,
+      "diff_pct": -48.04
     },
     {
-      "ean": "7791100000320",
-      "nombre": "almidon de maiz chango x 220 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1436.0,
-      "precio_hoy": 1119.0,
-      "diff_abs": -317.0,
-      "diff_pct": -22.08
+      "ean": "7791337010215",
+      "nombre": "yogur ls.clas.ent.sh x900g.fru",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4232.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2033.0,
+      "diff_pct": -48.04
     },
     {
-      "ean": "2022220000002",
-      "nombre": "tomate redondo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2490.0,
-      "precio_hoy": 1990.0,
-      "diff_abs": -500.0,
-      "diff_pct": -20.08
+      "ean": "7791337010475",
+      "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4232.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2033.0,
+      "diff_pct": -48.04
     },
     {
-      "ean": "2024670000007",
-      "nombre": "ajies marvavic enteros 900gr x kg.",
-      "categoria": "Almacen",
-      "precio_antes": 34480.0,
-      "precio_hoy": 27929.0,
-      "diff_abs": -6551.0,
-      "diff_pct": -19.0
+      "ean": "7791337010468",
+      "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4232.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2033.0,
+      "diff_pct": -48.04
     },
     {
-      "ean": "816855020953",
-      "nombre": "madalenas dulce aventura x 200 gr. cchips de choc",
-      "categoria": "Perfumeria",
-      "precio_antes": 2112.0,
-      "precio_hoy": 1719.0,
-      "diff_abs": -393.0,
-      "diff_pct": -18.61
+      "ean": "7791813405023",
+      "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+      "categoria": "Bebidas",
+      "precio_antes": 3050.0,
+      "precio_hoy": 1679.0,
+      "diff_abs": -1371.0,
+      "diff_pct": -44.95
     },
     {
-      "ean": "816855020977",
-      "nombre": "madalenas dulce aventura x 200 gr. marmoladas",
-      "categoria": "Perfumeria",
-      "precio_antes": 2112.0,
-      "precio_hoy": 1719.0,
-      "diff_abs": -393.0,
-      "diff_pct": -18.61
+      "ean": "7791813405016",
+      "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
+      "categoria": "Bebidas",
+      "precio_antes": 3050.0,
+      "precio_hoy": 1679.0,
+      "diff_abs": -1371.0,
+      "diff_pct": -44.95
     },
     {
-      "ean": "7790360026583",
-      "nombre": "hamb.swift clasica x20",
-      "categoria": "Congelados",
-      "precio_antes": 30421.0,
-      "precio_hoy": 24849.0,
-      "diff_abs": -5572.0,
-      "diff_pct": -18.32
+      "ean": "7791813405030",
+      "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+      "categoria": "Bebidas",
+      "precio_antes": 3050.0,
+      "precio_hoy": 1679.0,
+      "diff_abs": -1371.0,
+      "diff_pct": -44.95
     }
   ],
-  "productos_subieron_dia": 451,
-  "productos_bajaron_dia": 28,
-  "productos_sin_cambio_dia": 5284
+  "productos_subieron_dia": 38,
+  "productos_bajaron_dia": 271,
+  "productos_sin_cambio_dia": 5446
 }
