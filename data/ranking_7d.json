@@ -99,15 +99,6 @@
     "diff_pct": 55.63
   },
   {
-    "ean": "7797906054925",
-    "nombre": "papas noisette mc cain horneables x 600 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 6489.0,
-    "precio_hoy": 10000.0,
-    "diff_abs": 3511.0,
-    "diff_pct": 54.11
-  },
-  {
     "ean": "7793890258691",
     "nombre": "vainillas valente x 148 gr.",
     "categoria": "Perfumeria",
@@ -162,8 +153,8 @@
     "diff_pct": 46.27
   },
   {
-    "ean": "7791337007956",
-    "nombre": "alimento silk almendras x 1 litro chocolate",
+    "ean": "7791337007949",
+    "nombre": "leche de almendras silk sin azucar x 1 lt. vainila",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3709.0,
     "precio_hoy": 5408.0,
@@ -171,8 +162,17 @@
     "diff_pct": 45.81
   },
   {
-    "ean": "7791337007932",
-    "nombre": "alimento liquido silk x 1 litro coco sin azucar",
+    "ean": "7791337007918",
+    "nombre": "alimento liquido silk almendra x 1lt sin azucar .",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3709.0,
+    "precio_hoy": 5408.0,
+    "diff_abs": 1699.0,
+    "diff_pct": 45.81
+  },
+  {
+    "ean": "7791337007901",
+    "nombre": "alimento liquido silk x 1 litro almendras endulzado",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3709.0,
     "precio_hoy": 5408.0,

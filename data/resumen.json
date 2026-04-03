@@ -1,29 +1,29 @@
 {
-  "fecha": "20260402",
-  "total_productos": 5775,
-  "variacion_dia": -0.99,
-  "variacion_7d": 0.86,
-  "variacion_mes": 0.64,
+  "fecha": "20260403",
+  "total_productos": 5778,
+  "variacion_dia": 0.0,
+  "variacion_7d": 0.83,
+  "variacion_mes": 0.77,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -3.94,
-      "productos_subieron": 8,
-      "productos_bajaron": 201,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
       "total_productos": 1293
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.95,
-      "productos_subieron": 1,
-      "productos_bajaron": 40,
-      "total_productos": 1106
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1111
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.7,
-      "productos_subieron": 3,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "total_productos": 214
     },
@@ -36,112 +36,112 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.33,
-      "productos_subieron": 10,
-      "productos_bajaron": 3,
-      "total_productos": 840
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 849
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.01,
-      "productos_subieron": 16,
-      "productos_bajaron": 27,
-      "total_productos": 1632
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1638
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7791337010499",
-      "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 5007.0,
-      "precio_hoy": 2209.0,
-      "diff_abs": -2798.0,
-      "diff_pct": -55.88
+      "ean": "7790310985830",
+      "nombre": "3ds queso x 85 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 3649.0,
+      "precio_hoy": 3649.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791337010482",
-      "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 5007.0,
-      "precio_hoy": 2209.0,
-      "diff_abs": -2798.0,
-      "diff_pct": -55.88
+      "ean": "7790310985137",
+      "nombre": "3ds queso x143gr.",
+      "categoria": "Almacen",
+      "precio_antes": 5118.0,
+      "precio_hoy": 5118.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791337010369",
-      "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4232.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2033.0,
-      "diff_pct": -48.04
+      "ean": "7798080520657",
+      "nombre": "ac.ol.l.toscana x250ml.ajo",
+      "categoria": "Almacen",
+      "precio_antes": 10263.0,
+      "precio_hoy": 10263.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791337010376",
-      "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4232.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2033.0,
-      "diff_pct": -48.04
+      "ean": "7798080520534",
+      "nombre": "ac.ol.l.toscana x250ml.albahac",
+      "categoria": "Almacen",
+      "precio_antes": 10263.0,
+      "precio_hoy": 10263.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791337010215",
-      "nombre": "yogur ls.clas.ent.sh x900g.fru",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4232.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2033.0,
-      "diff_pct": -48.04
+      "ean": "41331014922",
+      "nombre": "acaitunas goya x 149 gm con pimiento picante",
+      "categoria": "Almacen",
+      "precio_antes": 8703.0,
+      "precio_hoy": 8703.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791337010475",
-      "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4232.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2033.0,
-      "diff_pct": -48.04
+      "ean": "7790580160807",
+      "nombre": "aceite arcor x900ml.maiz",
+      "categoria": "Almacen",
+      "precio_antes": 5280.0,
+      "precio_hoy": 5280.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791337010468",
-      "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4232.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2033.0,
-      "diff_pct": -48.04
+      "ean": "7790070265142",
+      "nombre": "aceite cocinero puro de oliva x 500 ml",
+      "categoria": "Almacen",
+      "precio_antes": 10921.0,
+      "precio_hoy": 10921.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791813405023",
-      "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-      "categoria": "Bebidas",
-      "precio_antes": 3050.0,
-      "precio_hoy": 1679.0,
-      "diff_abs": -1371.0,
-      "diff_pct": -44.95
+      "ean": "7790070231598",
+      "nombre": "aceite cocinero x900 ml oliva y girasol",
+      "categoria": "Almacen",
+      "precio_antes": 5644.0,
+      "precio_hoy": 5644.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791813405016",
-      "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
-      "categoria": "Bebidas",
-      "precio_antes": 3050.0,
-      "precio_hoy": 1679.0,
-      "diff_abs": -1371.0,
-      "diff_pct": -44.95
+      "ean": "7790272006819",
+      "nombre": "aceite copisi x 900 ml. girasol y oliva",
+      "categoria": "Almacen",
+      "precio_antes": 5589.0,
+      "precio_hoy": 5589.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791813405030",
-      "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-      "categoria": "Bebidas",
-      "precio_antes": 3050.0,
-      "precio_hoy": 1679.0,
-      "diff_abs": -1371.0,
-      "diff_pct": -44.95
+      "ean": "656750783931",
+      "nombre": "aceite de coco entrenuts neutro x 360 ml.",
+      "categoria": "Almacen",
+      "precio_antes": 6919.0,
+      "precio_hoy": 6919.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 38,
-  "productos_bajaron_dia": 271,
-  "productos_sin_cambio_dia": 5446
+  "productos_subieron_dia": 0,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 5775
 }

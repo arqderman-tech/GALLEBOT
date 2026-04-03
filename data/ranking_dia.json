@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7793890261844",
-    "nombre": "tostadas libre de gluten salmas x 90 gr clasicas",
+    "ean": "7790310985830",
+    "nombre": "3ds queso x 85 gr.",
     "categoria": "Almacen",
-    "precio_antes": 1509.0,
-    "precio_hoy": 2579.0,
-    "diff_abs": 1070.0,
-    "diff_pct": 70.91
+    "precio_antes": 3649.0,
+    "precio_hoy": 3649.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7793890261578",
-    "nombre": "brownie chips sabe bien! x 62 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 889.0,
-    "precio_hoy": 1423.0,
-    "diff_abs": 534.0,
-    "diff_pct": 60.07
-  },
-  {
-    "ean": "7793890261530",
-    "nombre": "braunichoc sabe bien! x 35 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 619.0,
-    "precio_hoy": 982.0,
-    "diff_abs": 363.0,
-    "diff_pct": 58.64
-  },
-  {
-    "ean": "2011810000003",
-    "nombre": "higos secos negros medianos x kg.",
+    "ean": "7790310985137",
+    "nombre": "3ds queso x143gr.",
     "categoria": "Almacen",
-    "precio_antes": 12084.0,
-    "precio_hoy": 19122.0,
-    "diff_abs": 7038.0,
-    "diff_pct": 58.24
+    "precio_antes": 5118.0,
+    "precio_hoy": 5118.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7797906054925",
-    "nombre": "papas noisette mc cain horneables x 600 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 6489.0,
-    "precio_hoy": 10000.0,
-    "diff_abs": 3511.0,
-    "diff_pct": 54.11
-  },
-  {
-    "ean": "7797906054826",
-    "nombre": "papas fritas mc cain clasicas x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 4929.0,
-    "precio_hoy": 7592.0,
-    "diff_abs": 2663.0,
-    "diff_pct": 54.03
-  },
-  {
-    "ean": "7793890258691",
-    "nombre": "vainillas valente x 148 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1349.0,
-    "precio_hoy": 2044.0,
-    "diff_abs": 695.0,
-    "diff_pct": 51.52
-  },
-  {
-    "ean": "7793890258707",
-    "nombre": "vainillas valente x 444 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 3639.0,
-    "precio_hoy": 5510.0,
-    "diff_abs": 1871.0,
-    "diff_pct": 51.42
-  },
-  {
-    "ean": "2011860000008",
-    "nombre": "pasas de uva rubia sultanina ssemillas x kg.",
+    "ean": "7798080520657",
+    "nombre": "ac.ol.l.toscana x250ml.ajo",
     "categoria": "Almacen",
-    "precio_antes": 12074.0,
-    "precio_hoy": 17515.0,
-    "diff_abs": 5441.0,
-    "diff_pct": 45.06
+    "precio_antes": 10263.0,
+    "precio_hoy": 10263.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7797906054864",
-    "nombre": "papas mc cain horneables tradicional x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 6764.25,
-    "precio_hoy": 9651.0,
-    "diff_abs": 2886.75,
-    "diff_pct": 42.68
-  },
-  {
-    "ean": "2011790000000",
-    "nombre": "ciruelas dagen sin carozo x kilo",
+    "ean": "7798080520534",
+    "nombre": "ac.ol.l.toscana x250ml.albahac",
     "categoria": "Almacen",
-    "precio_antes": 10137.0,
-    "precio_hoy": 14192.0,
-    "diff_abs": 4055.0,
-    "diff_pct": 40.0
+    "precio_antes": 10263.0,
+    "precio_hoy": 10263.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2011780000003",
-    "nombre": "ciruelas d`agen ccarozo x kg.",
+    "ean": "41331014922",
+    "nombre": "acaitunas goya x 149 gm con pimiento picante",
     "categoria": "Almacen",
-    "precio_antes": 9293.0,
-    "precio_hoy": 13010.0,
-    "diff_abs": 3717.0,
-    "diff_pct": 40.0
+    "precio_antes": 8703.0,
+    "precio_hoy": 8703.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2011820000000",
-    "nombre": "medallones durazno medianos x kg.",
+    "ean": "7790580160807",
+    "nombre": "aceite arcor x900ml.maiz",
     "categoria": "Almacen",
-    "precio_antes": 18961.0,
-    "precio_hoy": 24650.0,
-    "diff_abs": 5689.0,
-    "diff_pct": 30.0
+    "precio_antes": 5280.0,
+    "precio_hoy": 5280.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2011880000002",
-    "nombre": "peras en mitades medianas x kg.",
+    "ean": "7790070265142",
+    "nombre": "aceite cocinero puro de oliva x 500 ml",
     "categoria": "Almacen",
-    "precio_antes": 17515.0,
-    "precio_hoy": 20142.0,
-    "diff_abs": 2627.0,
-    "diff_pct": 15.0
+    "precio_antes": 10921.0,
+    "precio_hoy": 10921.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2011840000004",
-    "nombre": "nueces blancas sin cascara x kg.",
+    "ean": "7790070231598",
+    "nombre": "aceite cocinero x900 ml oliva y girasol",
     "categoria": "Almacen",
-    "precio_antes": 31563.0,
-    "precio_hoy": 36297.0,
-    "diff_abs": 4734.0,
-    "diff_pct": 15.0
+    "precio_antes": 5644.0,
+    "precio_hoy": 5644.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790411000029",
-    "nombre": "yerba rosamonte especial x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3069.0,
-    "precio_hoy": 3528.0,
-    "diff_abs": 459.0,
-    "diff_pct": 14.96
+    "ean": "7790272006819",
+    "nombre": "aceite copisi x 900 ml. girasol y oliva",
+    "categoria": "Almacen",
+    "precio_antes": 5589.0,
+    "precio_hoy": 5589.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790411000012",
-    "nombre": "yerba rosamonte especial x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 5849.0,
-    "precio_hoy": 6720.0,
-    "diff_abs": 871.0,
-    "diff_pct": 14.89
+    "ean": "656750783931",
+    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 6919.0,
+    "precio_hoy": 6919.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790411001521",
-    "nombre": "yerba rosamonte suave plus x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2179.0,
-    "precio_hoy": 2501.0,
-    "diff_abs": 322.0,
-    "diff_pct": 14.78
+    "ean": "763571722435",
+    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 13469.0,
+    "precio_hoy": 13469.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790411001514",
-    "nombre": "yerba mate rosamonte suave plus x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4129.0,
-    "precio_hoy": 4737.0,
-    "diff_abs": 608.0,
-    "diff_pct": 14.73
+    "ean": "7794870000040",
+    "nombre": "aceite de girasol alsamar x 5 lts.",
+    "categoria": "Almacen",
+    "precio_antes": 18622.0,
+    "precio_hoy": 18622.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790411001507",
-    "nombre": "yerba mate rosamonte plus x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2049.0,
-    "precio_hoy": 2349.0,
-    "diff_abs": 300.0,
-    "diff_pct": 14.64
+    "ean": "7798316700907",
+    "nombre": "aceite de girasol alsamar x 900 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 3381.0,
+    "precio_hoy": 3381.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790045823780",
+    "nombre": "aceite de girasol alto oleico granix x 750 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 5927.0,
+    "precio_hoy": 5927.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790060023684",
+    "nombre": "aceite de girasol cocinero x 1,5 lt.",
+    "categoria": "Almacen",
+    "precio_antes": 5628.0,
+    "precio_hoy": 5628.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790070012050",
+    "nombre": "aceite de girasol cocinero x 900 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 3556.0,
+    "precio_hoy": 3556.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798316700815",
+    "nombre": "aceite de girasol legitimo x 1,5 lt.",
+    "categoria": "Almacen",
+    "precio_antes": 5553.0,
+    "precio_hoy": 5553.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798316700822",
+    "nombre": "aceite de girasol legitimo x 3 lt.",
+    "categoria": "Almacen",
+    "precio_antes": 11435.0,
+    "precio_hoy": 11435.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798316700839",
+    "nombre": "aceite de girasol legitimo x 5 lts.",
+    "categoria": "Almacen",
+    "precio_antes": 18622.0,
+    "precio_hoy": 18622.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798316700808",
+    "nombre": "aceite de girasol legitimo x 900 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 3381.0,
+    "precio_hoy": 3381.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]
