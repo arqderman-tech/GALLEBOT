@@ -18,6 +18,60 @@
     "diff_pct": 125.31
   },
   {
+    "ean": "7797906054826",
+    "nombre": "papas fritas mc cain clasicas x 700 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3469.0,
+    "precio_hoy": 7592.0,
+    "diff_abs": 4123.0,
+    "diff_pct": 118.85
+  },
+  {
+    "ean": "7622201704148",
+    "nombre": "jugo en polvo clight mandarina x 8 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 279.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 326.0,
+    "diff_pct": 116.85
+  },
+  {
+    "ean": "7622201745936",
+    "nombre": "jugo tang durazno x15gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 279.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 302.0,
+    "diff_pct": 108.24
+  },
+  {
+    "ean": "7622201733865",
+    "nombre": "jugo tang mandarina x 15 gm",
+    "categoria": "Bebidas",
+    "precio_antes": 279.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 302.0,
+    "diff_pct": 108.24
+  },
+  {
+    "ean": "7622201746490",
+    "nombre": "jugo en polvo tang x 15 gr. frutilla",
+    "categoria": "Bebidas",
+    "precio_antes": 279.0,
+    "precio_hoy": 581.0,
+    "diff_abs": 302.0,
+    "diff_pct": 108.24
+  },
+  {
+    "ean": "7862109430934",
+    "nombre": "gatorade x 473 ml frutos tropicales",
+    "categoria": "Bebidas",
+    "precio_antes": 2669.0,
+    "precio_hoy": 5333.0,
+    "diff_abs": 2664.0,
+    "diff_pct": 99.81
+  },
+  {
     "ean": "2020000000006",
     "nombre": "arandanos en bandeja",
     "categoria": "Frutas Y Verduras",
@@ -45,138 +99,84 @@
     "diff_pct": 71.42
   },
   {
-    "ean": "2020410000009",
-    "nombre": "choclo elegido x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
+    "ean": "7622202236846",
+    "nombre": "jugo clight arandano x8gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 246.0,
+    "diff_pct": 68.52
   },
   {
-    "ean": "80052487",
-    "nombre": "bombon raffaello x 3 unidades",
-    "categoria": "Almacen",
-    "precio_antes": 1829.0,
-    "precio_hoy": 3049.0,
-    "diff_abs": 1220.0,
-    "diff_pct": 66.7
+    "ean": "7622201703080",
+    "nombre": "jugo clight manzana deliciosa x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 246.0,
+    "diff_pct": 68.52
   },
   {
-    "ean": "2025590000009",
-    "nombre": "puchero caracu ternera x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 4800.0,
-    "precio_hoy": 7900.0,
-    "diff_abs": 3100.0,
-    "diff_pct": 64.58
+    "ean": "7622201703141",
+    "nombre": "jugo en polvo clight naranja dulce x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 246.0,
+    "diff_pct": 68.52
   },
   {
-    "ean": "2025600000005",
-    "nombre": "puchero de aguja ternera x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 4800.0,
-    "precio_hoy": 7900.0,
-    "diff_abs": 3100.0,
-    "diff_pct": 64.58
+    "ean": "7622202359927",
+    "nombre": "jugo cligh pomelada hibiscus x 8 gm",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 246.0,
+    "diff_pct": 68.52
   },
   {
-    "ean": "2011810000003",
-    "nombre": "higos secos negros medianos x kg.",
-    "categoria": "Almacen",
-    "precio_antes": 12084.0,
-    "precio_hoy": 19122.0,
-    "diff_abs": 7038.0,
-    "diff_pct": 58.24
+    "ean": "7622201703172",
+    "nombre": "jugo clight pomelo rosado 7gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 246.0,
+    "diff_pct": 68.52
   },
   {
-    "ean": "7898024397151",
-    "nombre": "bombones ferrero collection x 77 gm",
-    "categoria": "Almacen",
-    "precio_antes": 7779.0,
-    "precio_hoy": 12108.0,
-    "diff_abs": 4329.0,
-    "diff_pct": 55.65
+    "ean": "7622201682026",
+    "nombre": "jugo clight limo rosa x7.5gr",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 246.0,
+    "diff_pct": 68.52
   },
   {
-    "ean": "8000500232057",
-    "nombre": "bombones rafaello x 9 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 5339.0,
-    "precio_hoy": 8303.0,
-    "diff_abs": 2964.0,
-    "diff_pct": 55.52
+    "ean": "7622201702717",
+    "nombre": "jugo en polvo clight naranja-durazno x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 246.0,
+    "diff_pct": 68.52
   },
   {
-    "ean": "7797906054925",
-    "nombre": "papas noisette mc cain horneables x 600 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 6489.0,
-    "precio_hoy": 10000.0,
-    "diff_abs": 3511.0,
-    "diff_pct": 54.11
+    "ean": "7622201703110",
+    "nombre": "jugo en polvo clight x 7 gr. sabor naranja",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 246.0,
+    "diff_pct": 68.52
   },
   {
-    "ean": "7797906054918",
-    "nombre": "papas mc cain noisette x 1.2 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 12328.99,
-    "precio_hoy": 18999.0,
-    "diff_abs": 6670.01,
-    "diff_pct": 54.1
-  },
-  {
-    "ean": "7797906054826",
-    "nombre": "papas fritas mc cain clasicas x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 4929.0,
-    "precio_hoy": 7592.0,
-    "diff_abs": 2663.0,
-    "diff_pct": 54.03
-  },
-  {
-    "ean": "7797906000700",
-    "nombre": "papas mc cain tradicional x 400 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 3109.0,
-    "precio_hoy": 4783.0,
-    "diff_abs": 1674.0,
-    "diff_pct": 53.84
-  },
-  {
-    "ean": "7790070431554",
-    "nombre": "arroz gallo sabores del mundo x 240 gr. curry asia",
-    "categoria": "Almacen",
-    "precio_antes": 2369.0,
-    "precio_hoy": 3637.0,
-    "diff_abs": 1268.0,
-    "diff_pct": 53.52
-  },
-  {
-    "ean": "2020270000003",
-    "nombre": "cebolla x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 50.51
-  },
-  {
-    "ean": "7898024395232",
-    "nombre": "pasta de avellanas y chocolate nutella x 140 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3169.0,
-    "precio_hoy": 4738.0,
-    "diff_abs": 1569.0,
-    "diff_pct": 49.51
-  },
-  {
-    "ean": "7790070103314",
-    "nombre": "alfajor chocoarroz 6 x 36 gm dulce de leche",
-    "categoria": "Almacen",
-    "precio_antes": 6269.0,
-    "precio_hoy": 9284.0,
-    "diff_abs": 3015.0,
-    "diff_pct": 48.09
+    "ean": "7622201733834",
+    "nombre": "jugo en polvo clight limonada-maracuya x 7,5 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 605.0,
+    "diff_abs": 246.0,
+    "diff_pct": 68.52
   }
 ]

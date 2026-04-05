@@ -1,13 +1,147 @@
 {
-  "fecha": "20260404",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260405",
+  "total_productos": 5810,
+  "variacion_dia": -0.02,
+  "variacion_7d": 0.93,
+  "variacion_mes": 2.62,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1291
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1112
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": -0.49,
+      "productos_subieron": 0,
+      "productos_bajaron": 3,
+      "total_productos": 214
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 670
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 848
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1628
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "7797906054918",
+      "nombre": "papas mc cain noisette x 1.2 kg.",
+      "categoria": "Congelados",
+      "precio_antes": 18999.0,
+      "precio_hoy": 12329.01,
+      "diff_abs": -6669.99,
+      "diff_pct": -35.11
+    },
+    {
+      "ean": "7797906054864",
+      "nombre": "papas mc cain horneables tradicional x 700 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 9651.0,
+      "precio_hoy": 6269.0,
+      "diff_abs": -3382.0,
+      "diff_pct": -35.04
+    },
+    {
+      "ean": "7797906000700",
+      "nombre": "papas mc cain tradicional x 400 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 4783.0,
+      "precio_hoy": 3109.0,
+      "diff_abs": -1674.0,
+      "diff_pct": -35.0
+    },
+    {
+      "ean": "7790411001521",
+      "nombre": "yerba rosamonte suave plus x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2501.0,
+      "precio_hoy": 2501.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790411001378",
+      "nombre": "yerba rosamonte premium caja x 500 gr",
+      "categoria": "Perfumeria",
+      "precio_antes": 5868.0,
+      "precio_hoy": 5868.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790411000029",
+      "nombre": "yerba rosamonte especial x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 3528.0,
+      "precio_hoy": 3528.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790411000012",
+      "nombre": "yerba rosamonte especial x 1 kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 6720.0,
+      "precio_hoy": 6720.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790411000814",
+      "nombre": "yerba rosamonte despalada x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2824.0,
+      "precio_hoy": 2824.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798028021581",
+      "nombre": "yerba pajaro azul premium x 500 gr",
+      "categoria": "Perfumeria",
+      "precio_antes": 1899.0,
+      "precio_hoy": 1899.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798028021611",
+      "nombre": "yerba pajaro azul premium x 1kg",
+      "categoria": "Perfumeria",
+      "precio_antes": 3729.0,
+      "precio_hoy": 3729.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    }
+  ],
   "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "productos_bajaron_dia": 3,
+  "productos_sin_cambio_dia": 5760
 }

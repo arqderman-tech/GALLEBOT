@@ -99,6 +99,15 @@
     "diff_pct": 55.63
   },
   {
+    "ean": "7797906054925",
+    "nombre": "papas noisette mc cain horneables x 600 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 6489.0,
+    "precio_hoy": 10000.0,
+    "diff_abs": 3511.0,
+    "diff_pct": 54.11
+  },
+  {
     "ean": "7793890258691",
     "nombre": "vainillas valente x 148 gr.",
     "categoria": "Perfumeria",
@@ -126,15 +135,6 @@
     "diff_pct": 50.51
   },
   {
-    "ean": "2011390000004",
-    "nombre": "queso danbo psandwich canut x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 13679.0,
-    "precio_hoy": 20570.0,
-    "diff_abs": 6891.0,
-    "diff_pct": 50.38
-  },
-  {
     "ean": "7795930000567",
     "nombre": "agua mineral sin gas glaciar x 750 ml.",
     "categoria": "Bebidas",
@@ -144,17 +144,17 @@
     "diff_pct": 48.8
   },
   {
-    "ean": "2011610000005",
-    "nombre": "queso reggianito canut x kg.",
+    "ean": "7791337007932",
+    "nombre": "alimento liquido silk x 1 litro coco sin azucar",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 18629.0,
-    "precio_hoy": 27248.0,
-    "diff_abs": 8619.0,
-    "diff_pct": 46.27
+    "precio_antes": 3709.0,
+    "precio_hoy": 5408.0,
+    "diff_abs": 1699.0,
+    "diff_pct": 45.81
   },
   {
-    "ean": "7791337007949",
-    "nombre": "leche de almendras silk sin azucar x 1 lt. vainila",
+    "ean": "7791337007901",
+    "nombre": "alimento liquido silk x 1 litro almendras endulzado",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3709.0,
     "precio_hoy": 5408.0,
@@ -171,8 +171,8 @@
     "diff_pct": 45.81
   },
   {
-    "ean": "7791337007901",
-    "nombre": "alimento liquido silk x 1 litro almendras endulzado",
+    "ean": "7791337010161",
+    "nombre": "alimento liquido silk almendra x 1 litro mocha",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3709.0,
     "precio_hoy": 5408.0,
