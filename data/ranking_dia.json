@@ -27,6 +27,15 @@
     "diff_pct": 0.0
   },
   {
+    "ean": "7798080520657",
+    "nombre": "ac.ol.l.toscana x250ml.ajo",
+    "categoria": "Almacen",
+    "precio_antes": 10263.0,
+    "precio_hoy": 10263.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
     "ean": "7790387014624",
     "nombre": "yerba mate union 4 flex x 500 gr.",
     "categoria": "Perfumeria",
@@ -167,15 +176,6 @@
     "categoria": "Perfumeria",
     "precio_antes": 2694.0,
     "precio_hoy": 2694.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798123971385",
-    "nombre": "aceite de oliva cortijo x 250 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 11856.0,
-    "precio_hoy": 11856.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   }

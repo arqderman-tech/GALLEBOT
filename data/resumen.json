@@ -1,7 +1,7 @@
 {
-  "fecha": "20260405",
-  "total_productos": 5810,
-  "variacion_dia": -0.02,
+  "fecha": "20260406",
+  "total_productos": 5796,
+  "variacion_dia": -0.01,
   "variacion_7d": 0.93,
   "variacion_mes": 2.62,
   "variacion_anio": null,
@@ -11,80 +11,116 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1291
+      "total_productos": 1304
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -0.02,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1112
+      "productos_bajaron": 2,
+      "total_productos": 1114
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -0.49,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 3,
-      "total_productos": 214
+      "productos_bajaron": 0,
+      "total_productos": 211
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 670
+      "total_productos": 672
     },
     {
       "categoria": "Cuidado Personal",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 848
+      "total_productos": 856
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -0.03,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1628
+      "productos_bajaron": 6,
+      "total_productos": 1639
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7797906054918",
-      "nombre": "papas mc cain noisette x 1.2 kg.",
-      "categoria": "Congelados",
-      "precio_antes": 18999.0,
-      "precio_hoy": 12329.01,
-      "diff_abs": -6669.99,
-      "diff_pct": -35.11
+      "ean": "7790139003593",
+      "nombre": "jugo limon monte alto x 500 ml.",
+      "categoria": "Almacen",
+      "precio_antes": 1941.0,
+      "precio_hoy": 1729.0,
+      "diff_abs": -212.0,
+      "diff_pct": -10.92
     },
     {
-      "ean": "7797906054864",
-      "nombre": "papas mc cain horneables tradicional x 700 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 9651.0,
-      "precio_hoy": 6269.0,
-      "diff_abs": -3382.0,
-      "diff_pct": -35.04
+      "ean": "7790139002121",
+      "nombre": "aceto balsamico favinco x 500 ml.",
+      "categoria": "Almacen",
+      "precio_antes": 3793.0,
+      "precio_hoy": 3379.0,
+      "diff_abs": -414.0,
+      "diff_pct": -10.91
     },
     {
-      "ean": "7797906000700",
-      "nombre": "papas mc cain tradicional x 400 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 4783.0,
-      "precio_hoy": 3109.0,
-      "diff_abs": -1674.0,
-      "diff_pct": -35.0
+      "ean": "7790139003425",
+      "nombre": "aceto balsamico favinco x 250 ml.",
+      "categoria": "Almacen",
+      "precio_antes": 2613.0,
+      "precio_hoy": 2329.0,
+      "diff_abs": -284.0,
+      "diff_pct": -10.87
     },
     {
-      "ean": "7790411001521",
-      "nombre": "yerba rosamonte suave plus x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2501.0,
-      "precio_hoy": 2501.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790139004941",
+      "nombre": "aceto espeso favinco x 250 ml. original",
+      "categoria": "Almacen",
+      "precio_antes": 3517.0,
+      "precio_hoy": 3139.0,
+      "diff_abs": -378.0,
+      "diff_pct": -10.75
+    },
+    {
+      "ean": "7794080001219",
+      "nombre": "sorrentinos la morocha jamon y queso x 500 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3852.0,
+      "precio_hoy": 3469.0,
+      "diff_abs": -383.0,
+      "diff_pct": -9.94
+    },
+    {
+      "ean": "7794080000366",
+      "nombre": "fideos tallarines la morocha x 500 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2470.0,
+      "precio_hoy": 2229.0,
+      "diff_abs": -241.0,
+      "diff_pct": -9.76
+    },
+    {
+      "ean": "7790139003265",
+      "nombre": "vinagre de manzana casalta x 1 lt.",
+      "categoria": "Almacen",
+      "precio_antes": 3486.0,
+      "precio_hoy": 3269.0,
+      "diff_abs": -217.0,
+      "diff_pct": -6.22
+    },
+    {
+      "ean": "7790139003173",
+      "nombre": "vinagre de alcohol casalta x 1 lt.",
+      "categoria": "Almacen",
+      "precio_antes": 1540.0,
+      "precio_hoy": 1449.0,
+      "diff_abs": -91.0,
+      "diff_pct": -5.91
     },
     {
       "ean": "7790411001378",
@@ -103,45 +139,9 @@
       "precio_hoy": 3528.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
-    },
-    {
-      "ean": "7790411000012",
-      "nombre": "yerba rosamonte especial x 1 kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 6720.0,
-      "precio_hoy": 6720.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7790411000814",
-      "nombre": "yerba rosamonte despalada x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2824.0,
-      "precio_hoy": 2824.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7798028021581",
-      "nombre": "yerba pajaro azul premium x 500 gr",
-      "categoria": "Perfumeria",
-      "precio_antes": 1899.0,
-      "precio_hoy": 1899.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7798028021611",
-      "nombre": "yerba pajaro azul premium x 1kg",
-      "categoria": "Perfumeria",
-      "precio_antes": 3729.0,
-      "precio_hoy": 3729.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
     }
   ],
   "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 3,
-  "productos_sin_cambio_dia": 5760
+  "productos_bajaron_dia": 8,
+  "productos_sin_cambio_dia": 5788
 }
