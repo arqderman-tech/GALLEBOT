@@ -1,14 +1,5 @@
 [
   {
-    "ean": "2020870000007",
-    "nombre": "kaki x kilo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 8990.0,
-    "diff_abs": 5000.0,
-    "diff_pct": 125.31
-  },
-  {
     "ean": "7862109430934",
     "nombre": "gatorade x 473 ml frutos tropicales",
     "categoria": "Bebidas",
@@ -27,6 +18,33 @@
     "diff_pct": 95.55
   },
   {
+    "ean": "7791813405023",
+    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+    "categoria": "Bebidas",
+    "precio_antes": 1569.0,
+    "precio_hoy": 3050.0,
+    "diff_abs": 1481.0,
+    "diff_pct": 94.39
+  },
+  {
+    "ean": "7791813405016",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
+    "categoria": "Bebidas",
+    "precio_antes": 1569.0,
+    "precio_hoy": 3050.0,
+    "diff_abs": 1481.0,
+    "diff_pct": 94.39
+  },
+  {
+    "ean": "7791813405030",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1569.0,
+    "precio_hoy": 3050.0,
+    "diff_abs": 1481.0,
+    "diff_pct": 94.39
+  },
+  {
     "ean": "7791337008410",
     "nombre": "leche chocolatada la serenisima x 200 ml.",
     "categoria": "Lacteos Y Frescos",
@@ -34,6 +52,33 @@
     "precio_hoy": 1686.0,
     "diff_abs": 767.0,
     "diff_pct": 83.46
+  },
+  {
+    "ean": "7791813403036",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1231.0,
+    "diff_pct": 81.04
+  },
+  {
+    "ean": "7791813403012",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1231.0,
+    "diff_pct": 81.04
+  },
+  {
+    "ean": "7791813403029",
+    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1231.0,
+    "diff_pct": 81.04
   },
   {
     "ean": "7793890261844",
@@ -63,6 +108,24 @@
     "diff_pct": 67.7
   },
   {
+    "ean": "2021840000003",
+    "nombre": "pimiento verde x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
+  },
+  {
+    "ean": "7792798010578",
+    "nombre": "cerveza stella artois long neck six pack x 330 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2279.0,
+    "precio_hoy": 3700.0,
+    "diff_abs": 1421.0,
+    "diff_pct": 62.35
+  },
+  {
     "ean": "7793890261578",
     "nombre": "brownie chips sabe bien! x 62 gr.",
     "categoria": "Perfumeria",
@@ -90,13 +153,22 @@
     "diff_pct": 58.24
   },
   {
-    "ean": "7794940000796",
-    "nombre": "edulcorante hileret stevia x 200 ml.",
+    "ean": "7790070412126",
+    "nombre": "arroz maximo largo fino x 1 kg.",
     "categoria": "Almacen",
-    "precio_antes": 3239.0,
-    "precio_hoy": 5041.0,
-    "diff_abs": 1802.0,
-    "diff_pct": 55.63
+    "precio_antes": 1399.0,
+    "precio_hoy": 2184.0,
+    "diff_abs": 785.0,
+    "diff_pct": 56.11
+  },
+  {
+    "ean": "7790070412171",
+    "nombre": "arroz maximo largo fino x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 739.0,
+    "precio_hoy": 1144.0,
+    "diff_abs": 405.0,
+    "diff_pct": 54.8
   },
   {
     "ean": "7797906054925",
@@ -106,77 +178,5 @@
     "precio_hoy": 10000.0,
     "diff_abs": 3511.0,
     "diff_pct": 54.11
-  },
-  {
-    "ean": "7797906054826",
-    "nombre": "papas fritas mc cain clasicas x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 4929.0,
-    "precio_hoy": 7592.0,
-    "diff_abs": 2663.0,
-    "diff_pct": 54.03
-  },
-  {
-    "ean": "7793890258691",
-    "nombre": "vainillas valente x 148 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1349.0,
-    "precio_hoy": 2044.0,
-    "diff_abs": 695.0,
-    "diff_pct": 51.52
-  },
-  {
-    "ean": "7793890258707",
-    "nombre": "vainillas valente x 444 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 3639.0,
-    "precio_hoy": 5510.0,
-    "diff_abs": 1871.0,
-    "diff_pct": 51.42
-  },
-  {
-    "ean": "2021680000003",
-    "nombre": "zapallo brasilero x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 50.51
-  },
-  {
-    "ean": "7795930000567",
-    "nombre": "agua mineral sin gas glaciar x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1518.79,
-    "precio_hoy": 2260.0,
-    "diff_abs": 741.21,
-    "diff_pct": 48.8
-  },
-  {
-    "ean": "7791337007949",
-    "nombre": "leche de almendras silk sin azucar x 1 lt. vainila",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3709.0,
-    "precio_hoy": 5408.0,
-    "diff_abs": 1699.0,
-    "diff_pct": 45.81
-  },
-  {
-    "ean": "7791337010161",
-    "nombre": "alimento liquido silk almendra x 1 litro mocha",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3709.0,
-    "precio_hoy": 5408.0,
-    "diff_abs": 1699.0,
-    "diff_pct": 45.81
-  },
-  {
-    "ean": "7791337007918",
-    "nombre": "alimento liquido silk almendra x 1lt sin azucar .",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3709.0,
-    "precio_hoy": 5408.0,
-    "diff_abs": 1699.0,
-    "diff_pct": 45.81
   }
 ]

@@ -1,31 +1,31 @@
 {
-  "fecha": "20260406",
-  "total_productos": 5796,
-  "variacion_dia": -0.01,
-  "variacion_7d": 0.93,
-  "variacion_mes": 2.62,
+  "fecha": "20260407",
+  "total_productos": 5804,
+  "variacion_dia": 0.92,
+  "variacion_7d": 1.59,
+  "variacion_mes": 3.4,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1304
+      "variacion_pct_promedio": 2.91,
+      "productos_subieron": 134,
+      "productos_bajaron": 37,
+      "total_productos": 1301
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.02,
-      "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "total_productos": 1114
+      "variacion_pct_promedio": 0.2,
+      "productos_subieron": 22,
+      "productos_bajaron": 6,
+      "total_productos": 1108
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.37,
+      "productos_subieron": 3,
       "productos_bajaron": 0,
-      "total_productos": 211
+      "total_productos": 209
     },
     {
       "categoria": "Limpieza",
@@ -36,112 +36,112 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.2,
+      "productos_subieron": 9,
       "productos_bajaron": 0,
-      "total_productos": 856
+      "total_productos": 847
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.03,
-      "productos_subieron": 0,
-      "productos_bajaron": 6,
-      "total_productos": 1639
+      "variacion_pct_promedio": 0.63,
+      "productos_subieron": 42,
+      "productos_bajaron": 0,
+      "total_productos": 1636
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790139003593",
-      "nombre": "jugo limon monte alto x 500 ml.",
-      "categoria": "Almacen",
-      "precio_antes": 1941.0,
-      "precio_hoy": 1729.0,
-      "diff_abs": -212.0,
-      "diff_pct": -10.92
+      "ean": "2022220000002",
+      "nombre": "tomate redondo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 1990.0,
+      "precio_hoy": 1290.0,
+      "diff_abs": -700.0,
+      "diff_pct": -35.18
     },
     {
-      "ean": "7790139002121",
-      "nombre": "aceto balsamico favinco x 500 ml.",
-      "categoria": "Almacen",
-      "precio_antes": 3793.0,
-      "precio_hoy": 3379.0,
-      "diff_abs": -414.0,
-      "diff_pct": -10.91
+      "ean": "2022210000005",
+      "nombre": "tomate perita x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2990.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -33.44
     },
     {
-      "ean": "7790139003425",
-      "nombre": "aceto balsamico favinco x 250 ml.",
-      "categoria": "Almacen",
-      "precio_antes": 2613.0,
-      "precio_hoy": 2329.0,
-      "diff_abs": -284.0,
-      "diff_pct": -10.87
+      "ean": "7798108834179",
+      "nombre": "vino tardio callia x 750 ml. rosado malbec",
+      "categoria": "Bebidas",
+      "precio_antes": 5082.0,
+      "precio_hoy": 4019.0,
+      "diff_abs": -1063.0,
+      "diff_pct": -20.92
     },
     {
-      "ean": "7790139004941",
-      "nombre": "aceto espeso favinco x 250 ml. original",
-      "categoria": "Almacen",
-      "precio_antes": 3517.0,
-      "precio_hoy": 3139.0,
-      "diff_abs": -378.0,
-      "diff_pct": -10.75
+      "ean": "7798108834193",
+      "nombre": "vino callia amable x750ml.t.ti",
+      "categoria": "Bebidas",
+      "precio_antes": 5082.0,
+      "precio_hoy": 4019.0,
+      "diff_abs": -1063.0,
+      "diff_pct": -20.92
     },
     {
-      "ean": "7794080001219",
-      "nombre": "sorrentinos la morocha jamon y queso x 500 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3852.0,
-      "precio_hoy": 3469.0,
-      "diff_abs": -383.0,
-      "diff_pct": -9.94
+      "ean": "7798108834155",
+      "nombre": "vino blanco callia amable tardio x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 5082.0,
+      "precio_hoy": 4019.0,
+      "diff_abs": -1063.0,
+      "diff_pct": -20.92
     },
     {
-      "ean": "7794080000366",
-      "nombre": "fideos tallarines la morocha x 500 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2470.0,
-      "precio_hoy": 2229.0,
-      "diff_abs": -241.0,
-      "diff_pct": -9.76
+      "ean": "7798074864019",
+      "nombre": "vino portillo x1.5lt.malbec",
+      "categoria": "Bebidas",
+      "precio_antes": 12197.0,
+      "precio_hoy": 9649.0,
+      "diff_abs": -2548.0,
+      "diff_pct": -20.89
     },
     {
-      "ean": "7790139003265",
-      "nombre": "vinagre de manzana casalta x 1 lt.",
-      "categoria": "Almacen",
-      "precio_antes": 3486.0,
-      "precio_hoy": 3269.0,
-      "diff_abs": -217.0,
-      "diff_pct": -6.22
+      "ean": "7798074864873",
+      "nombre": "vino blanco portillo x 750ml dulce natural",
+      "categoria": "Bebidas",
+      "precio_antes": 6191.0,
+      "precio_hoy": 4899.0,
+      "diff_abs": -1292.0,
+      "diff_pct": -20.87
     },
     {
-      "ean": "7790139003173",
-      "nombre": "vinagre de alcohol casalta x 1 lt.",
-      "categoria": "Almacen",
-      "precio_antes": 1540.0,
-      "precio_hoy": 1449.0,
-      "diff_abs": -91.0,
-      "diff_pct": -5.91
+      "ean": "7798074864774",
+      "nombre": "vino finca el portillo blanco sauvignon blanc x 75",
+      "categoria": "Bebidas",
+      "precio_antes": 6329.0,
+      "precio_hoy": 5009.0,
+      "diff_abs": -1320.0,
+      "diff_pct": -20.86
     },
     {
-      "ean": "7790411001378",
-      "nombre": "yerba rosamonte premium caja x 500 gr",
-      "categoria": "Perfumeria",
-      "precio_antes": 5868.0,
-      "precio_hoy": 5868.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7798074864750",
+      "nombre": "vino portillo chardonnay x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 6329.0,
+      "precio_hoy": 5009.0,
+      "diff_abs": -1320.0,
+      "diff_pct": -20.86
     },
     {
-      "ean": "7790411000029",
-      "nombre": "yerba rosamonte especial x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 3528.0,
-      "precio_hoy": 3528.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7798074865153",
+      "nombre": "vino killka x 750 ml corte tinta",
+      "categoria": "Bebidas",
+      "precio_antes": 8778.0,
+      "precio_hoy": 6949.0,
+      "diff_abs": -1829.0,
+      "diff_pct": -20.84
     }
   ],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 8,
-  "productos_sin_cambio_dia": 5788
+  "productos_subieron_dia": 210,
+  "productos_bajaron_dia": 43,
+  "productos_sin_cambio_dia": 5520
 }
