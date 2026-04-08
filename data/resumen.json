@@ -1,147 +1,147 @@
 {
-  "fecha": "20260407",
-  "total_productos": 5804,
-  "variacion_dia": 0.92,
-  "variacion_7d": 1.59,
-  "variacion_mes": 3.4,
+  "fecha": "20260408",
+  "total_productos": 5779,
+  "variacion_dia": 0.01,
+  "variacion_7d": -0.31,
+  "variacion_mes": 3.42,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 2.91,
-      "productos_subieron": 134,
-      "productos_bajaron": 37,
-      "total_productos": 1301
+      "variacion_pct_promedio": -0.24,
+      "productos_subieron": 0,
+      "productos_bajaron": 17,
+      "total_productos": 1298
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.2,
-      "productos_subieron": 22,
-      "productos_bajaron": 6,
-      "total_productos": 1108
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 8,
+      "productos_bajaron": 5,
+      "total_productos": 1120
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.37,
-      "productos_subieron": 3,
+      "variacion_pct_promedio": 2.06,
+      "productos_subieron": 31,
       "productos_bajaron": 0,
-      "total_productos": 209
+      "total_productos": 210
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 672
+      "total_productos": 671
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.2,
-      "productos_subieron": 9,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 847
+      "total_productos": 840
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.63,
-      "productos_subieron": 42,
-      "productos_bajaron": 0,
-      "total_productos": 1636
+      "variacion_pct_promedio": -0.04,
+      "productos_subieron": 34,
+      "productos_bajaron": 17,
+      "total_productos": 1632
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2022220000002",
-      "nombre": "tomate redondo x kg.",
+      "ean": "2021530000009",
+      "nombre": "pelon amarillo x kilo",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 1990.0,
-      "precio_hoy": 1290.0,
-      "diff_abs": -700.0,
-      "diff_pct": -35.18
+      "precio_antes": 6990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -3000.0,
+      "diff_pct": -42.92
     },
     {
-      "ean": "2022210000005",
-      "nombre": "tomate perita x kg.",
+      "ean": "7790139004569",
+      "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
+      "categoria": "Almacen",
+      "precio_antes": 29239.0,
+      "precio_hoy": 18719.0,
+      "diff_abs": -10520.0,
+      "diff_pct": -35.98
+    },
+    {
+      "ean": "7790139004811",
+      "nombre": "aceite de oliva casalta extra virgen suave x 250 m",
+      "categoria": "Almacen",
+      "precio_antes": 19047.0,
+      "precio_hoy": 12199.0,
+      "diff_abs": -6848.0,
+      "diff_pct": -35.95
+    },
+    {
+      "ean": "7790139004828",
+      "nombre": "aceite de oliva casalta extra virgen medio x 250 .",
+      "categoria": "Almacen",
+      "precio_antes": 19047.0,
+      "precio_hoy": 12199.0,
+      "diff_abs": -6848.0,
+      "diff_pct": -35.95
+    },
+    {
+      "ean": "2020530000002",
+      "nombre": "durazno x kilo",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 1990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -33.44
+      "precio_antes": 5990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -33.39
     },
     {
-      "ean": "7798108834179",
-      "nombre": "vino tardio callia x 750 ml. rosado malbec",
-      "categoria": "Bebidas",
-      "precio_antes": 5082.0,
-      "precio_hoy": 4019.0,
-      "diff_abs": -1063.0,
-      "diff_pct": -20.92
+      "ean": "7790139100582",
+      "nombre": "salsa chimichurri casalta x 300 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 4282.0,
+      "precio_hoy": 2899.0,
+      "diff_abs": -1383.0,
+      "diff_pct": -32.3
     },
     {
-      "ean": "7798108834193",
-      "nombre": "vino callia amable x750ml.t.ti",
-      "categoria": "Bebidas",
-      "precio_antes": 5082.0,
-      "precio_hoy": 4019.0,
-      "diff_abs": -1063.0,
-      "diff_pct": -20.92
+      "ean": "7790139101152",
+      "nombre": "vinagre de vino favinco x 1 lt.",
+      "categoria": "Almacen",
+      "precio_antes": 2580.0,
+      "precio_hoy": 1759.0,
+      "diff_abs": -821.0,
+      "diff_pct": -31.82
     },
     {
-      "ean": "7798108834155",
-      "nombre": "vino blanco callia amable tardio x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 5082.0,
-      "precio_hoy": 4019.0,
-      "diff_abs": -1063.0,
-      "diff_pct": -20.92
+      "ean": "7790139100919",
+      "nombre": "jugo de limon favinco x 1 lt.",
+      "categoria": "Almacen",
+      "precio_antes": 2767.0,
+      "precio_hoy": 1899.0,
+      "diff_abs": -868.0,
+      "diff_pct": -31.37
     },
     {
-      "ean": "7798074864019",
-      "nombre": "vino portillo x1.5lt.malbec",
+      "ean": "7790314080159",
+      "nombre": "vino estancia mendoza malbec x 750 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 12197.0,
-      "precio_hoy": 9649.0,
-      "diff_abs": -2548.0,
-      "diff_pct": -20.89
+      "precio_antes": 4023.0,
+      "precio_hoy": 2959.0,
+      "diff_abs": -1064.0,
+      "diff_pct": -26.45
     },
     {
-      "ean": "7798074864873",
-      "nombre": "vino blanco portillo x 750ml dulce natural",
+      "ean": "7790314080166",
+      "nombre": "vino estancia mendoza cabernet sauvignon x 750 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 6191.0,
-      "precio_hoy": 4899.0,
-      "diff_abs": -1292.0,
-      "diff_pct": -20.87
-    },
-    {
-      "ean": "7798074864774",
-      "nombre": "vino finca el portillo blanco sauvignon blanc x 75",
-      "categoria": "Bebidas",
-      "precio_antes": 6329.0,
-      "precio_hoy": 5009.0,
-      "diff_abs": -1320.0,
-      "diff_pct": -20.86
-    },
-    {
-      "ean": "7798074864750",
-      "nombre": "vino portillo chardonnay x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 6329.0,
-      "precio_hoy": 5009.0,
-      "diff_abs": -1320.0,
-      "diff_pct": -20.86
-    },
-    {
-      "ean": "7798074865153",
-      "nombre": "vino killka x 750 ml corte tinta",
-      "categoria": "Bebidas",
-      "precio_antes": 8778.0,
-      "precio_hoy": 6949.0,
-      "diff_abs": -1829.0,
-      "diff_pct": -20.84
+      "precio_antes": 4023.0,
+      "precio_hoy": 2959.0,
+      "diff_abs": -1064.0,
+      "diff_pct": -26.45
     }
   ],
-  "productos_subieron_dia": 210,
-  "productos_bajaron_dia": 43,
-  "productos_sin_cambio_dia": 5520
+  "productos_subieron_dia": 73,
+  "productos_bajaron_dia": 39,
+  "productos_sin_cambio_dia": 5659
 }

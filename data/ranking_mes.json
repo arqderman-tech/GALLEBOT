@@ -27,8 +27,8 @@
     "diff_pct": 116.85
   },
   {
-    "ean": "7622201746490",
-    "nombre": "jugo en polvo tang x 15 gr. frutilla",
+    "ean": "7622201745936",
+    "nombre": "jugo tang durazno x15gr.",
     "categoria": "Bebidas",
     "precio_antes": 279.0,
     "precio_hoy": 581.0,
@@ -45,8 +45,8 @@
     "diff_pct": 108.24
   },
   {
-    "ean": "7622201745936",
-    "nombre": "jugo tang durazno x15gr.",
+    "ean": "7622201746490",
+    "nombre": "jugo en polvo tang x 15 gr. frutilla",
     "categoria": "Bebidas",
     "precio_antes": 279.0,
     "precio_hoy": 581.0,
@@ -72,15 +72,6 @@
     "diff_pct": 94.39
   },
   {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-    "categoria": "Bebidas",
-    "precio_antes": 1569.0,
-    "precio_hoy": 3050.0,
-    "diff_abs": 1481.0,
-    "diff_pct": 94.39
-  },
-  {
     "ean": "7791813405016",
     "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
     "categoria": "Bebidas",
@@ -90,8 +81,17 @@
     "diff_pct": 94.39
   },
   {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+    "ean": "7791813405023",
+    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+    "categoria": "Bebidas",
+    "precio_antes": 1569.0,
+    "precio_hoy": 3050.0,
+    "diff_abs": 1481.0,
+    "diff_pct": 94.39
+  },
+  {
+    "ean": "7791813403036",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
     "categoria": "Bebidas",
     "precio_antes": 1519.0,
     "precio_hoy": 2750.0,
@@ -108,8 +108,8 @@
     "diff_pct": 81.04
   },
   {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "ean": "7791813403029",
+    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
     "categoria": "Bebidas",
     "precio_antes": 1519.0,
     "precio_hoy": 2750.0,
@@ -144,6 +144,15 @@
     "diff_pct": 75.19
   },
   {
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
+  },
+  {
     "ean": "2037560000001",
     "nombre": "mejillon pelado las caracolas x kilo x kg.",
     "categoria": "Congelados",
@@ -162,17 +171,8 @@
     "diff_pct": 71.42
   },
   {
-    "ean": "7622201703141",
-    "nombre": "jugo en polvo clight naranja dulce x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
-  },
-  {
-    "ean": "7622201703172",
-    "nombre": "jugo clight pomelo rosado 7gr.",
+    "ean": "7622201733834",
+    "nombre": "jugo en polvo clight limonada-maracuya x 7,5 gr.",
     "categoria": "Bebidas",
     "precio_antes": 359.0,
     "precio_hoy": 605.0,

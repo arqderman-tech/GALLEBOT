@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3050.0,
-    "diff_abs": 1371.0,
-    "diff_pct": 81.66
+    "ean": "7790670050674",
+    "nombre": "hamburguesas paty x 2 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 3059.0,
+    "precio_hoy": 4527.0,
+    "diff_abs": 1468.0,
+    "diff_pct": 47.99
   },
   {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3050.0,
-    "diff_abs": 1371.0,
-    "diff_pct": 81.66
+    "ean": "7790670050667",
+    "nombre": "hamburguesas paty x 12 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 17689.0,
+    "precio_hoy": 24776.0,
+    "diff_abs": 7087.0,
+    "diff_pct": 40.06
   },
   {
-    "ean": "7791813405016",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3050.0,
-    "diff_abs": 1371.0,
-    "diff_pct": 81.66
+    "ean": "7790670050780",
+    "nombre": "hamburguesas paty clasico x 20 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 29229.0,
+    "precio_hoy": 40393.0,
+    "diff_abs": 11164.0,
+    "diff_pct": 38.19
   },
   {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1231.0,
-    "diff_pct": 81.04
+    "ean": "7790670051831",
+    "nombre": "hambuerguesas paty clasico x 4 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 5959.0,
+    "precio_hoy": 7919.0,
+    "diff_abs": 1960.0,
+    "diff_pct": 32.89
   },
   {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1231.0,
-    "diff_pct": 81.04
+    "ean": "7790670053033",
+    "nombre": "medallones de carne barfy x 276 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3009.0,
+    "precio_hoy": 3994.0,
+    "diff_abs": 985.0,
+    "diff_pct": 32.74
   },
   {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1231.0,
-    "diff_pct": 81.04
+    "ean": "7790670052371",
+    "nombre": "medallones de carne express x 4 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 4459.0,
+    "precio_hoy": 5777.0,
+    "diff_abs": 1318.0,
+    "diff_pct": 29.56
   },
   {
-    "ean": "2021840000003",
-    "nombre": "pimiento verde x kg.",
+    "ean": "7790670052869",
+    "nombre": "medallones de carne express x 2 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 1829.0,
+    "precio_hoy": 2369.0,
+    "diff_abs": 540.0,
+    "diff_pct": 29.52
+  },
+  {
+    "ean": "7790670050650",
+    "nombre": "hamburguesas paty x 4 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 7029.0,
+    "precio_hoy": 8875.0,
+    "diff_abs": 1846.0,
+    "diff_pct": 26.26
+  },
+  {
+    "ean": "2020960000009",
+    "nombre": "lechuga repollada x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
+    "precio_antes": 3990.0,
     "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
-  },
-  {
-    "ean": "7790070412126",
-    "nombre": "arroz maximo largo fino x 1 kg.",
-    "categoria": "Almacen",
-    "precio_antes": 1399.0,
-    "precio_hoy": 2184.0,
-    "diff_abs": 785.0,
-    "diff_pct": 56.11
-  },
-  {
-    "ean": "7790070412171",
-    "nombre": "arroz maximo largo fino x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 739.0,
-    "precio_hoy": 1144.0,
-    "diff_abs": 405.0,
-    "diff_pct": 54.8
-  },
-  {
-    "ean": "7791813402039",
-    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1400.0,
-    "diff_abs": 491.0,
-    "diff_pct": 54.02
-  },
-  {
-    "ean": "7791813402015",
-    "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1400.0,
-    "diff_abs": 491.0,
-    "diff_pct": 54.02
-  },
-  {
-    "ean": "7792798010578",
-    "nombre": "cerveza stella artois long neck six pack x 330 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2409.0,
-    "precio_hoy": 3700.0,
-    "diff_abs": 1291.0,
-    "diff_pct": 53.59
-  },
-  {
-    "ean": "7791813402886",
-    "nombre": "agua saborizada h2o x 500 ml sin gas naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 919.0,
-    "precio_hoy": 1400.0,
-    "diff_abs": 481.0,
-    "diff_pct": 52.34
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
   },
   {
     "ean": "2020910000004",
     "nombre": "lechuga de hoja x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
   },
   {
     "ean": "2020920000001",
     "nombre": "lechuga mantecosa x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
   },
   {
-    "ean": "7790070431929",
-    "nombre": "oblea yogubar gallo 6x20gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4959.0,
-    "precio_hoy": 7435.0,
-    "diff_abs": 2476.0,
-    "diff_pct": 49.93
+    "ean": "7790681002228",
+    "nombre": "harina maiz l.egip.x750gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1481.0,
+    "precio_hoy": 1702.0,
+    "diff_abs": 221.0,
+    "diff_pct": 14.92
   },
   {
-    "ean": "7792799000899",
-    "nombre": "agua mineral nestle pureza vital x 500 ml. sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1099.0,
-    "precio_hoy": 1641.0,
-    "diff_abs": 542.0,
-    "diff_pct": 49.32
+    "ean": "7790670052418",
+    "nombre": "salchicha vienissima x 12 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5139.0,
+    "precio_hoy": 5897.0,
+    "diff_abs": 758.0,
+    "diff_pct": 14.75
   },
   {
-    "ean": "7792799000905",
-    "nombre": "agua mineral pureza vital x 1.5 litros sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1419.0,
-    "precio_hoy": 2118.0,
-    "diff_abs": 699.0,
-    "diff_pct": 49.26
+    "ean": "7790670052401",
+    "nombre": "salchicha vienissima x 6 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2689.0,
+    "precio_hoy": 3083.0,
+    "diff_abs": 394.0,
+    "diff_pct": 14.65
   },
   {
-    "ean": "7795930000550",
-    "nombre": "agua mineral glaciar x 6,3 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 5869.0,
-    "precio_hoy": 8752.0,
-    "diff_abs": 2883.0,
-    "diff_pct": 49.12
+    "ean": "7790670052364",
+    "nombre": "salchichas patyviena fun x 6 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1959.0,
+    "precio_hoy": 2241.0,
+    "diff_abs": 282.0,
+    "diff_pct": 14.4
   },
   {
-    "ean": "7792799000059",
-    "nombre": "agua mineral sin gas eco de los andes x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1729.0,
-    "precio_hoy": 2578.0,
-    "diff_abs": 849.0,
-    "diff_pct": 49.1
+    "ean": "7790681002150",
+    "nombre": "arroz largo fino 00000 la egipciana x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1036.0,
+    "precio_hoy": 1183.0,
+    "diff_abs": 147.0,
+    "diff_pct": 14.19
+  },
+  {
+    "ean": "7790670050612",
+    "nombre": "hamburguesas paty grandes x 2 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 6149.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 841.0,
+    "diff_pct": 13.68
+  },
+  {
+    "ean": "7790681000422",
+    "nombre": "harina de maiz la egipciana x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1037.0,
+    "precio_hoy": 1170.0,
+    "diff_abs": 133.0,
+    "diff_pct": 12.83
+  },
+  {
+    "ean": "7790670052708",
+    "nombre": "medallones green life veggies calabaza y choclo x.",
+    "categoria": "Congelados",
+    "precio_antes": 4889.0,
+    "precio_hoy": 5485.0,
+    "diff_abs": 596.0,
+    "diff_pct": 12.19
+  },
+  {
+    "ean": "7790670052722",
+    "nombre": "medallones green life veggies lentejas y zanahoria",
+    "categoria": "Congelados",
+    "precio_antes": 4889.0,
+    "precio_hoy": 5485.0,
+    "diff_abs": 596.0,
+    "diff_pct": 12.19
   }
 ]
