@@ -1,147 +1,147 @@
 {
-  "fecha": "20260408",
-  "total_productos": 5779,
-  "variacion_dia": 0.01,
-  "variacion_7d": -0.31,
-  "variacion_mes": 3.42,
+  "fecha": "20260409",
+  "total_productos": 5767,
+  "variacion_dia": 0.19,
+  "variacion_7d": 1.09,
+  "variacion_mes": 3.68,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.24,
-      "productos_subieron": 0,
-      "productos_bajaron": 17,
-      "total_productos": 1298
+      "variacion_pct_promedio": 0.14,
+      "productos_subieron": 34,
+      "productos_bajaron": 0,
+      "total_productos": 1296
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.01,
-      "productos_subieron": 8,
-      "productos_bajaron": 5,
-      "total_productos": 1120
+      "variacion_pct_promedio": 0.09,
+      "productos_subieron": 1,
+      "productos_bajaron": 0,
+      "total_productos": 1117
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 2.06,
-      "productos_subieron": 31,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 210
+      "total_productos": 211
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.53,
+      "productos_subieron": 14,
       "productos_bajaron": 0,
-      "total_productos": 671
+      "total_productos": 670
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.31,
+      "productos_subieron": 47,
       "productos_bajaron": 0,
       "total_productos": 840
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.04,
-      "productos_subieron": 34,
-      "productos_bajaron": 17,
-      "total_productos": 1632
+      "variacion_pct_promedio": 0.11,
+      "productos_subieron": 25,
+      "productos_bajaron": 0,
+      "total_productos": 1622
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2021530000009",
-      "nombre": "pelon amarillo x kilo",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -3000.0,
-      "diff_pct": -42.92
+      "ean": "7794990878925",
+      "nombre": "queso untable la paulina jamon x 190 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2102.0,
+      "precio_hoy": 2102.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790139004569",
-      "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
-      "categoria": "Almacen",
-      "precio_antes": 29239.0,
-      "precio_hoy": 18719.0,
-      "diff_abs": -10520.0,
-      "diff_pct": -35.98
+      "ean": "7794820014967",
+      "nombre": "queso untable milkaut clasico x 190 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2497.0,
+      "precio_hoy": 2497.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790139004811",
-      "nombre": "aceite de oliva casalta extra virgen suave x 250 m",
-      "categoria": "Almacen",
-      "precio_antes": 19047.0,
-      "precio_hoy": 12199.0,
-      "diff_abs": -6848.0,
-      "diff_pct": -35.95
+      "ean": "7794820000182",
+      "nombre": "queso untable milkaut cheddar x 190 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2497.0,
+      "precio_hoy": 2497.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790139004828",
-      "nombre": "aceite de oliva casalta extra virgen medio x 250 .",
-      "categoria": "Almacen",
-      "precio_antes": 19047.0,
-      "precio_hoy": 12199.0,
-      "diff_abs": -6848.0,
-      "diff_pct": -35.95
+      "ean": "7790742326300",
+      "nombre": "queso untable ls sabores x 180 gr salame",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2816.0,
+      "precio_hoy": 2816.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "2020530000002",
-      "nombre": "durazno x kilo",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -33.39
+      "ean": "7790742326607",
+      "nombre": "queso untable ls sabores x 180 gr jamon",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2774.0,
+      "precio_hoy": 2774.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790139100582",
-      "nombre": "salsa chimichurri casalta x 300 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 4282.0,
+      "ean": "7790742326409",
+      "nombre": "queso untable ls sabores x 180 gr fontina",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2774.0,
+      "precio_hoy": 2774.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7791337061439",
+      "nombre": "queso untable la serenisima light x 290 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2899.0,
       "precio_hoy": 2899.0,
-      "diff_abs": -1383.0,
-      "diff_pct": -32.3
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790139101152",
-      "nombre": "vinagre de vino favinco x 1 lt.",
-      "categoria": "Almacen",
-      "precio_antes": 2580.0,
-      "precio_hoy": 1759.0,
-      "diff_abs": -821.0,
-      "diff_pct": -31.82
+      "ean": "7790742373809",
+      "nombre": "queso untable la serenisima cremon light x 280 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4010.0,
+      "precio_hoy": 4010.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790139100919",
-      "nombre": "jugo de limon favinco x 1 lt.",
-      "categoria": "Almacen",
-      "precio_antes": 2767.0,
-      "precio_hoy": 1899.0,
-      "diff_abs": -868.0,
-      "diff_pct": -31.37
+      "ean": "7794990172757",
+      "nombre": "queso untable la paulina x 190 gr. salame",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2102.0,
+      "precio_hoy": 2102.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790314080159",
-      "nombre": "vino estancia mendoza malbec x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 4023.0,
-      "precio_hoy": 2959.0,
-      "diff_abs": -1064.0,
-      "diff_pct": -26.45
-    },
-    {
-      "ean": "7790314080166",
-      "nombre": "vino estancia mendoza cabernet sauvignon x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 4023.0,
-      "precio_hoy": 2959.0,
-      "diff_abs": -1064.0,
-      "diff_pct": -26.45
+      "ean": "7794990000043",
+      "nombre": "queso untable la paulina port salut x 190 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2102.0,
+      "precio_hoy": 2102.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 73,
-  "productos_bajaron_dia": 39,
-  "productos_sin_cambio_dia": 5659
+  "productos_subieron_dia": 121,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 5635
 }

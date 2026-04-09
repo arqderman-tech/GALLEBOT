@@ -9,6 +9,15 @@
     "diff_pct": 138.38
   },
   {
+    "ean": "7622201704148",
+    "nombre": "jugo en polvo clight mandarina x 8 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 279.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 360.0,
+    "diff_pct": 129.03
+  },
+  {
     "ean": "2020870000007",
     "nombre": "kaki x kilo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -18,40 +27,40 @@
     "diff_pct": 125.31
   },
   {
-    "ean": "7622201704148",
-    "nombre": "jugo en polvo clight mandarina x 8 gr.",
+    "ean": "7622201746490",
+    "nombre": "jugo en polvo tang x 15 gr. frutilla",
     "categoria": "Bebidas",
     "precio_antes": 279.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 326.0,
-    "diff_pct": 116.85
+    "precio_hoy": 611.0,
+    "diff_abs": 332.0,
+    "diff_pct": 119.0
   },
   {
     "ean": "7622201745936",
     "nombre": "jugo tang durazno x15gr.",
     "categoria": "Bebidas",
     "precio_antes": 279.0,
-    "precio_hoy": 581.0,
-    "diff_abs": 302.0,
-    "diff_pct": 108.24
+    "precio_hoy": 611.0,
+    "diff_abs": 332.0,
+    "diff_pct": 119.0
   },
   {
     "ean": "7622201733865",
     "nombre": "jugo tang mandarina x 15 gm",
     "categoria": "Bebidas",
     "precio_antes": 279.0,
-    "precio_hoy": 581.0,
-    "diff_abs": 302.0,
-    "diff_pct": 108.24
+    "precio_hoy": 611.0,
+    "diff_abs": 332.0,
+    "diff_pct": 119.0
   },
   {
-    "ean": "7622201746490",
-    "nombre": "jugo en polvo tang x 15 gr. frutilla",
-    "categoria": "Bebidas",
-    "precio_antes": 279.0,
-    "precio_hoy": 581.0,
-    "diff_abs": 302.0,
-    "diff_pct": 108.24
+    "ean": "2019950000006",
+    "nombre": "akusay x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 100.5
   },
   {
     "ean": "7862109430934",
@@ -63,8 +72,8 @@
     "diff_pct": 99.81
   },
   {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+    "ean": "7791813405023",
+    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
     "categoria": "Bebidas",
     "precio_antes": 1569.0,
     "precio_hoy": 3050.0,
@@ -81,8 +90,8 @@
     "diff_pct": 94.39
   },
   {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+    "ean": "7791813405030",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
     "categoria": "Bebidas",
     "precio_antes": 1569.0,
     "precio_hoy": 3050.0,
@@ -90,8 +99,8 @@
     "diff_pct": 94.39
   },
   {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "ean": "7791813403029",
+    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
     "categoria": "Bebidas",
     "precio_antes": 1519.0,
     "precio_hoy": 2750.0,
@@ -108,8 +117,8 @@
     "diff_pct": 81.04
   },
   {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+    "ean": "7791813403036",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
     "categoria": "Bebidas",
     "precio_antes": 1519.0,
     "precio_hoy": 2750.0,
@@ -135,48 +144,39 @@
     "diff_pct": 79.14
   },
   {
-    "ean": "2020000000006",
-    "nombre": "arandanos en bandeja",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 75.19
-  },
-  {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 75.19
-  },
-  {
-    "ean": "2037560000001",
-    "nombre": "mejillon pelado las caracolas x kilo x kg.",
-    "categoria": "Congelados",
-    "precio_antes": 21083.0,
-    "precio_hoy": 36591.0,
-    "diff_abs": 15508.0,
-    "diff_pct": 73.56
-  },
-  {
-    "ean": "7790387011852",
-    "nombre": "mate cocido taragui ni$os vainilla y miel x 20 saq",
-    "categoria": "Perfumeria",
-    "precio_antes": 1529.0,
-    "precio_hoy": 2621.0,
-    "diff_abs": 1092.0,
-    "diff_pct": 71.42
+    "ean": "7622300759506",
+    "nombre": "alfajor milka mousse x 42 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 929.0,
+    "precio_hoy": 1659.0,
+    "diff_abs": 730.0,
+    "diff_pct": 78.58
   },
   {
     "ean": "7622201733834",
     "nombre": "jugo en polvo clight limonada-maracuya x 7,5 gr.",
     "categoria": "Bebidas",
     "precio_antes": 359.0,
-    "precio_hoy": 605.0,
-    "diff_abs": 246.0,
-    "diff_pct": 68.52
+    "precio_hoy": 639.0,
+    "diff_abs": 280.0,
+    "diff_pct": 77.99
+  },
+  {
+    "ean": "7622201703080",
+    "nombre": "jugo clight manzana deliciosa x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 280.0,
+    "diff_pct": 77.99
+  },
+  {
+    "ean": "7622201703110",
+    "nombre": "jugo en polvo clight x 7 gr. sabor naranja",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 280.0,
+    "diff_pct": 77.99
   }
 ]

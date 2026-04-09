@@ -1,12 +1,66 @@
 [
   {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
+    "ean": "2019950000006",
+    "nombre": "akusay x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 75.19
+    "precio_antes": 1990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 100.5
+  },
+  {
+    "ean": "7791813405016",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
+    "categoria": "Bebidas",
+    "precio_antes": 1679.0,
+    "precio_hoy": 3050.0,
+    "diff_abs": 1371.0,
+    "diff_pct": 81.66
+  },
+  {
+    "ean": "7791813405023",
+    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+    "categoria": "Bebidas",
+    "precio_antes": 1679.0,
+    "precio_hoy": 3050.0,
+    "diff_abs": 1371.0,
+    "diff_pct": 81.66
+  },
+  {
+    "ean": "7791813405030",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1679.0,
+    "precio_hoy": 3050.0,
+    "diff_abs": 1371.0,
+    "diff_pct": 81.66
+  },
+  {
+    "ean": "7791813403029",
+    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1231.0,
+    "diff_pct": 81.04
+  },
+  {
+    "ean": "7791813403012",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1231.0,
+    "diff_pct": 81.04
+  },
+  {
+    "ean": "7791813403036",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1231.0,
+    "diff_pct": 81.04
   },
   {
     "ean": "2020920000001",
@@ -18,13 +72,13 @@
     "diff_pct": 75.19
   },
   {
-    "ean": "7793890261844",
-    "nombre": "tostadas libre de gluten salmas x 90 gr clasicas",
-    "categoria": "Almacen",
-    "precio_antes": 1509.0,
-    "precio_hoy": 2579.0,
-    "diff_abs": 1070.0,
-    "diff_pct": 70.91
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
   },
   {
     "ean": "2021840000003",
@@ -34,33 +88,6 @@
     "precio_hoy": 4990.0,
     "diff_abs": 2000.0,
     "diff_pct": 66.89
-  },
-  {
-    "ean": "7793890261578",
-    "nombre": "brownie chips sabe bien! x 62 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 889.0,
-    "precio_hoy": 1423.0,
-    "diff_abs": 534.0,
-    "diff_pct": 60.07
-  },
-  {
-    "ean": "7793890261530",
-    "nombre": "braunichoc sabe bien! x 35 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 619.0,
-    "precio_hoy": 982.0,
-    "diff_abs": 363.0,
-    "diff_pct": 58.64
-  },
-  {
-    "ean": "2011810000003",
-    "nombre": "higos secos negros medianos x kg.",
-    "categoria": "Almacen",
-    "precio_antes": 12084.0,
-    "precio_hoy": 19122.0,
-    "diff_abs": 7038.0,
-    "diff_pct": 58.24
   },
   {
     "ean": "7790070412126",
@@ -81,40 +108,40 @@
     "diff_pct": 54.8
   },
   {
-    "ean": "7797906054925",
-    "nombre": "papas noisette mc cain horneables x 600 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 6489.0,
-    "precio_hoy": 10000.0,
-    "diff_abs": 3511.0,
-    "diff_pct": 54.11
+    "ean": "7791813402039",
+    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 909.0,
+    "precio_hoy": 1400.0,
+    "diff_abs": 491.0,
+    "diff_pct": 54.02
   },
   {
-    "ean": "7797906054826",
-    "nombre": "papas fritas mc cain clasicas x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 4929.0,
-    "precio_hoy": 7592.0,
-    "diff_abs": 2663.0,
-    "diff_pct": 54.03
+    "ean": "7791813402015",
+    "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 909.0,
+    "precio_hoy": 1400.0,
+    "diff_abs": 491.0,
+    "diff_pct": 54.02
   },
   {
-    "ean": "7793890258691",
-    "nombre": "vainillas valente x 148 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1349.0,
-    "precio_hoy": 2044.0,
-    "diff_abs": 695.0,
-    "diff_pct": 51.52
+    "ean": "7792798010578",
+    "nombre": "cerveza stella artois long neck six pack x 330 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2409.0,
+    "precio_hoy": 3700.0,
+    "diff_abs": 1291.0,
+    "diff_pct": 53.59
   },
   {
-    "ean": "7793890258707",
-    "nombre": "vainillas valente x 444 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 3639.0,
-    "precio_hoy": 5510.0,
-    "diff_abs": 1871.0,
-    "diff_pct": 51.42
+    "ean": "7791813402886",
+    "nombre": "agua saborizada h2o x 500 ml sin gas naranja",
+    "categoria": "Bebidas",
+    "precio_antes": 919.0,
+    "precio_hoy": 1400.0,
+    "diff_abs": 481.0,
+    "diff_pct": 52.34
   },
   {
     "ean": "7790070431929",
@@ -126,57 +153,30 @@
     "diff_pct": 49.93
   },
   {
-    "ean": "7790670050674",
-    "nombre": "hamburguesas paty x 2 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 3059.0,
-    "precio_hoy": 4527.0,
-    "diff_abs": 1468.0,
-    "diff_pct": 47.99
+    "ean": "7792799000899",
+    "nombre": "agua mineral nestle pureza vital x 500 ml. sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1099.0,
+    "precio_hoy": 1641.0,
+    "diff_abs": 542.0,
+    "diff_pct": 49.32
   },
   {
-    "ean": "2011860000008",
-    "nombre": "pasas de uva rubia sultanina ssemillas x kg.",
-    "categoria": "Almacen",
-    "precio_antes": 12074.0,
-    "precio_hoy": 17515.0,
-    "diff_abs": 5441.0,
-    "diff_pct": 45.06
+    "ean": "7792799000905",
+    "nombre": "agua mineral pureza vital x 1.5 litros sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1419.0,
+    "precio_hoy": 2118.0,
+    "diff_abs": 699.0,
+    "diff_pct": 49.26
   },
   {
-    "ean": "7790070417213",
-    "nombre": "snacks de arroz gallo chips x 100 gr. queso",
-    "categoria": "Almacen",
-    "precio_antes": 2169.0,
-    "precio_hoy": 3120.0,
-    "diff_abs": 951.0,
-    "diff_pct": 43.85
-  },
-  {
-    "ean": "7790070417183",
-    "nombre": "snack de arroz gallo chips sabor jamon x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2169.0,
-    "precio_hoy": 3120.0,
-    "diff_abs": 951.0,
-    "diff_pct": 43.85
-  },
-  {
-    "ean": "2021820000009",
-    "nombre": "pimiento rojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 40.08
-  },
-  {
-    "ean": "7790670050667",
-    "nombre": "hamburguesas paty x 12 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 17689.0,
-    "precio_hoy": 24776.0,
-    "diff_abs": 7087.0,
-    "diff_pct": 40.06
+    "ean": "7795930000550",
+    "nombre": "agua mineral glaciar x 6,3 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 5869.0,
+    "precio_hoy": 8752.0,
+    "diff_abs": 2883.0,
+    "diff_pct": 49.12
   }
 ]
