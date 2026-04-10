@@ -36,6 +36,15 @@
     "diff_pct": 119.0
   },
   {
+    "ean": "7622201733865",
+    "nombre": "jugo tang mandarina x 15 gm",
+    "categoria": "Bebidas",
+    "precio_antes": 279.0,
+    "precio_hoy": 611.0,
+    "diff_abs": 332.0,
+    "diff_pct": 119.0
+  },
+  {
     "ean": "7622201745936",
     "nombre": "jugo tang durazno x15gr.",
     "categoria": "Bebidas",
@@ -45,13 +54,13 @@
     "diff_pct": 119.0
   },
   {
-    "ean": "7622201733865",
-    "nombre": "jugo tang mandarina x 15 gm",
-    "categoria": "Bebidas",
-    "precio_antes": 279.0,
-    "precio_hoy": 611.0,
-    "diff_abs": 332.0,
-    "diff_pct": 119.0
+    "ean": "2022080000006",
+    "nombre": "rucula x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1390.0,
+    "precio_hoy": 2790.0,
+    "diff_abs": 1400.0,
+    "diff_pct": 100.72
   },
   {
     "ean": "2019950000006",
@@ -72,60 +81,6 @@
     "diff_pct": 99.81
   },
   {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-    "categoria": "Bebidas",
-    "precio_antes": 1569.0,
-    "precio_hoy": 3050.0,
-    "diff_abs": 1481.0,
-    "diff_pct": 94.39
-  },
-  {
-    "ean": "7791813405016",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
-    "categoria": "Bebidas",
-    "precio_antes": 1569.0,
-    "precio_hoy": 3050.0,
-    "diff_abs": 1481.0,
-    "diff_pct": 94.39
-  },
-  {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1569.0,
-    "precio_hoy": 3050.0,
-    "diff_abs": 1481.0,
-    "diff_pct": 94.39
-  },
-  {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1231.0,
-    "diff_pct": 81.04
-  },
-  {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1231.0,
-    "diff_pct": 81.04
-  },
-  {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1231.0,
-    "diff_pct": 81.04
-  },
-  {
     "ean": "2020270000003",
     "nombre": "cebolla x kg.",
     "categoria": "Frutas Y Verduras",
@@ -133,15 +88,6 @@
     "precio_hoy": 1790.0,
     "diff_abs": 800.0,
     "diff_pct": 80.81
-  },
-  {
-    "ean": "2022080000006",
-    "nombre": "rucula x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1390.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 1100.0,
-    "diff_pct": 79.14
   },
   {
     "ean": "7622300759506",
@@ -153,8 +99,17 @@
     "diff_pct": 78.58
   },
   {
-    "ean": "7622201733834",
-    "nombre": "jugo en polvo clight limonada-maracuya x 7,5 gr.",
+    "ean": "7622201703141",
+    "nombre": "jugo en polvo clight naranja dulce x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 280.0,
+    "diff_pct": 77.99
+  },
+  {
+    "ean": "7622201703172",
+    "nombre": "jugo clight pomelo rosado 7gr.",
     "categoria": "Bebidas",
     "precio_antes": 359.0,
     "precio_hoy": 639.0,
@@ -164,6 +119,51 @@
   {
     "ean": "7622201703080",
     "nombre": "jugo clight manzana deliciosa x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 280.0,
+    "diff_pct": 77.99
+  },
+  {
+    "ean": "7622201682026",
+    "nombre": "jugo clight limo rosa x7.5gr",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 280.0,
+    "diff_pct": 77.99
+  },
+  {
+    "ean": "7622201702625",
+    "nombre": "jugo en polvo clight anana x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 280.0,
+    "diff_pct": 77.99
+  },
+  {
+    "ean": "7622202359927",
+    "nombre": "jugo cligh pomelada hibiscus x 8 gm",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 280.0,
+    "diff_pct": 77.99
+  },
+  {
+    "ean": "7622202236846",
+    "nombre": "jugo clight arandano x8gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 359.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 280.0,
+    "diff_pct": 77.99
+  },
+  {
+    "ean": "7622201702717",
+    "nombre": "jugo en polvo clight naranja-durazno x 7 gr.",
     "categoria": "Bebidas",
     "precio_antes": 359.0,
     "precio_hoy": 639.0,

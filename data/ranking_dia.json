@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2019950000006",
-    "nombre": "akusay x kg.",
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2209.0,
+    "precio_hoy": 5007.0,
+    "diff_abs": 2798.0,
+    "diff_pct": 126.66
+  },
+  {
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2209.0,
+    "precio_hoy": 5007.0,
+    "diff_abs": 2798.0,
+    "diff_pct": 126.66
+  },
+  {
+    "ean": "2021790000009",
+    "nombre": "pimiento amarillo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 100.5
+    "precio_antes": 3990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 100.25
   },
   {
-    "ean": "7798343359192",
-    "nombre": "cuenco cars",
-    "categoria": "Limpieza",
-    "precio_antes": 4130.0,
-    "precio_hoy": 5406.0,
-    "diff_abs": 1276.0,
-    "diff_pct": 30.9
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
   },
   {
-    "ean": "7798391141725",
-    "nombre": "botella flip x 500 ml advengers",
-    "categoria": "Limpieza",
-    "precio_antes": 6870.0,
-    "precio_hoy": 8931.44,
-    "diff_abs": 2061.44,
-    "diff_pct": 30.01
+    "ean": "7791337010468",
+    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
   },
   {
-    "ean": "7798343356436",
-    "nombre": "botella flip top x 500 ml",
-    "categoria": "Limpieza",
-    "precio_antes": 6870.0,
-    "precio_hoy": 8931.0,
-    "diff_abs": 2061.0,
-    "diff_pct": 30.0
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
   },
   {
-    "ean": "7798343356481",
-    "nombre": "botella flip top x 500 ml mickey",
-    "categoria": "Limpieza",
-    "precio_antes": 6870.0,
-    "precio_hoy": 8931.0,
-    "diff_abs": 2061.0,
-    "diff_pct": 30.0
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
   },
   {
-    "ean": "7798343355385",
-    "nombre": "bowl cerealero peppa pigg",
-    "categoria": "Limpieza",
-    "precio_antes": 3890.0,
-    "precio_hoy": 4936.0,
-    "diff_abs": 1046.0,
-    "diff_pct": 26.89
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
   },
   {
-    "ean": "7798343352308",
-    "nombre": "bowl  cerealero paw patrol",
-    "categoria": "Limpieza",
-    "precio_antes": 3890.0,
-    "precio_hoy": 4936.0,
-    "diff_abs": 1046.0,
-    "diff_pct": 26.89
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3909.0,
+    "precio_hoy": 7018.0,
+    "diff_abs": 3109.0,
+    "diff_pct": 79.53
   },
   {
-    "ean": "7798343356580",
-    "nombre": "botella straw top x 500  ml mickey",
-    "categoria": "Limpieza",
-    "precio_antes": 7995.0,
-    "precio_hoy": 10107.0,
-    "diff_abs": 2112.0,
-    "diff_pct": 26.42
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3909.0,
+    "precio_hoy": 7018.0,
+    "diff_abs": 3109.0,
+    "diff_pct": 79.53
   },
   {
-    "ean": "7798343356597",
-    "nombre": "botella straw top x 500 ml minnie",
-    "categoria": "Limpieza",
-    "precio_antes": 7995.0,
-    "precio_hoy": 10107.0,
-    "diff_abs": 2112.0,
-    "diff_pct": 26.42
+    "ean": "7791337007260",
+    "nombre": "leche chocolatada cindor x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1509.0,
+    "precio_hoy": 2524.0,
+    "diff_abs": 1015.0,
+    "diff_pct": 67.26
   },
   {
-    "ean": "7798343356559",
-    "nombre": "botella straw top x 500 ml peppa",
-    "categoria": "Limpieza",
-    "precio_antes": 7995.0,
-    "precio_hoy": 10107.0,
-    "diff_abs": 2112.0,
-    "diff_pct": 26.42
+    "ean": "7791337009615",
+    "nombre": "flan la serenisima vainilla x 95 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1049.0,
+    "precio_hoy": 1639.0,
+    "diff_abs": 590.0,
+    "diff_pct": 56.24
   },
   {
-    "ean": "7798343351899",
-    "nombre": "caja para sandwich  la granja",
-    "categoria": "Limpieza",
-    "precio_antes": 5595.0,
-    "precio_hoy": 7052.0,
-    "diff_abs": 1457.0,
-    "diff_pct": 26.04
+    "ean": "7791728245066",
+    "nombre": "vino santa julia x 3 litros box uco",
+    "categoria": "Bebidas",
+    "precio_antes": 20868.99,
+    "precio_hoy": 30701.0,
+    "diff_abs": 9832.01,
+    "diff_pct": 47.11
   },
   {
-    "ean": "7798343353039",
-    "nombre": "caja sandwich minnie",
-    "categoria": "Limpieza",
-    "precio_antes": 5595.0,
-    "precio_hoy": 7052.0,
-    "diff_abs": 1457.0,
-    "diff_pct": 26.04
+    "ean": "7791728247763",
+    "nombre": "vino tinto santa julia merlot x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4119.0,
+    "precio_hoy": 6059.0,
+    "diff_abs": 1940.0,
+    "diff_pct": 47.1
   },
   {
-    "ean": "7798343353565",
-    "nombre": "taza grande toy story",
-    "categoria": "Limpieza",
-    "precio_antes": 3320.0,
-    "precio_hoy": 4113.0,
-    "diff_abs": 793.0,
-    "diff_pct": 23.89
+    "ean": "7791728247817",
+    "nombre": "vino blanco santa julia x 750 ml. sauvignon blanc",
+    "categoria": "Bebidas",
+    "precio_antes": 4119.0,
+    "precio_hoy": 6059.0,
+    "diff_abs": 1940.0,
+    "diff_pct": 47.1
   },
   {
-    "ean": "7798343355378",
-    "nombre": "plato playo peppa pig",
-    "categoria": "Limpieza",
-    "precio_antes": 4795.0,
-    "precio_hoy": 5876.0,
-    "diff_abs": 1081.0,
-    "diff_pct": 22.54
+    "ean": "7791728000153",
+    "nombre": "vino santa julia x 750 ml. torrontes",
+    "categoria": "Bebidas",
+    "precio_antes": 4119.0,
+    "precio_hoy": 6059.0,
+    "diff_abs": 1940.0,
+    "diff_pct": 47.1
   },
   {
-    "ean": "7622300759506",
-    "nombre": "alfajor milka mousse x 42 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1501.0,
-    "precio_hoy": 1659.0,
-    "diff_abs": 158.0,
-    "diff_pct": 10.53
+    "ean": "7791728247756",
+    "nombre": "vino tinto santa julia syrah x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4119.0,
+    "precio_hoy": 6059.0,
+    "diff_abs": 1940.0,
+    "diff_pct": 47.1
   },
   {
-    "ean": "7798120180551",
-    "nombre": "tostadas manieri dulce x 200 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 1143.0,
-    "precio_hoy": 1257.0,
-    "diff_abs": 114.0,
-    "diff_pct": 9.97
+    "ean": "7791728247770",
+    "nombre": "vino tinto santa julia pinot noir x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4119.0,
+    "precio_hoy": 6059.0,
+    "diff_abs": 1940.0,
+    "diff_pct": 47.1
   },
   {
-    "ean": "7798120180544",
-    "nombre": "tostadas manieri saladas x 200 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1143.0,
-    "precio_hoy": 1257.0,
-    "diff_abs": 114.0,
-    "diff_pct": 9.97
+    "ean": "7791728247749",
+    "nombre": "vino santa julia x750ml.tempra",
+    "categoria": "Bebidas",
+    "precio_antes": 4119.0,
+    "precio_hoy": 6059.0,
+    "diff_abs": 1940.0,
+    "diff_pct": 47.1
   },
   {
-    "ean": "7798120180568",
-    "nombre": "tostadas manieri salvado x 200 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 1143.0,
-    "precio_hoy": 1257.0,
-    "diff_abs": 114.0,
-    "diff_pct": 9.97
-  },
-  {
-    "ean": "7798120180773",
-    "nombre": "tostadas manieri equilibrio light x 200 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1296.0,
-    "precio_hoy": 1425.0,
-    "diff_abs": 129.0,
-    "diff_pct": 9.95
-  },
-  {
-    "ean": "77939234",
-    "nombre": "alfajor terrabusi chocolate",
-    "categoria": "Almacen",
-    "precio_antes": 1406.0,
-    "precio_hoy": 1515.0,
-    "diff_abs": 109.0,
-    "diff_pct": 7.75
+    "ean": "7791728244496",
+    "nombre": "vino santa julia x750ml.cab.fr",
+    "categoria": "Bebidas",
+    "precio_antes": 4119.0,
+    "precio_hoy": 6059.0,
+    "diff_abs": 1940.0,
+    "diff_pct": 47.1
   }
 ]
