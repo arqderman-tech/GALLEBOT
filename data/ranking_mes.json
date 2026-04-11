@@ -4,18 +4,9 @@
     "nombre": "formitas de soja latina x 400 gr.",
     "categoria": "Congelados",
     "precio_antes": 1769.0,
-    "precio_hoy": 4217.0,
-    "diff_abs": 2448.0,
-    "diff_pct": 138.38
-  },
-  {
-    "ean": "7622201704148",
-    "nombre": "jugo en polvo clight mandarina x 8 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 279.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 360.0,
-    "diff_pct": 129.03
+    "precio_hoy": 4525.0,
+    "diff_abs": 2756.0,
+    "diff_pct": 155.79
   },
   {
     "ean": "2020870000007",
@@ -25,42 +16,6 @@
     "precio_hoy": 8990.0,
     "diff_abs": 5000.0,
     "diff_pct": 125.31
-  },
-  {
-    "ean": "7622201746490",
-    "nombre": "jugo en polvo tang x 15 gr. frutilla",
-    "categoria": "Bebidas",
-    "precio_antes": 279.0,
-    "precio_hoy": 611.0,
-    "diff_abs": 332.0,
-    "diff_pct": 119.0
-  },
-  {
-    "ean": "7622201733865",
-    "nombre": "jugo tang mandarina x 15 gm",
-    "categoria": "Bebidas",
-    "precio_antes": 279.0,
-    "precio_hoy": 611.0,
-    "diff_abs": 332.0,
-    "diff_pct": 119.0
-  },
-  {
-    "ean": "7622201745936",
-    "nombre": "jugo tang durazno x15gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 279.0,
-    "precio_hoy": 611.0,
-    "diff_abs": 332.0,
-    "diff_pct": 119.0
-  },
-  {
-    "ean": "2022080000006",
-    "nombre": "rucula x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1390.0,
-    "precio_hoy": 2790.0,
-    "diff_abs": 1400.0,
-    "diff_pct": 100.72
   },
   {
     "ean": "2019950000006",
@@ -90,93 +45,138 @@
     "diff_pct": 80.81
   },
   {
-    "ean": "7622300759506",
-    "nombre": "alfajor milka mousse x 42 gr.",
+    "ean": "2022080000006",
+    "nombre": "rucula x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1390.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 1100.0,
+    "diff_pct": 79.14
+  },
+  {
+    "ean": "2020000000006",
+    "nombre": "arandanos en bandeja",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
+  },
+  {
+    "ean": "2020410000009",
+    "nombre": "choclo elegido x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
+  },
+  {
+    "ean": "2037560000001",
+    "nombre": "mejillon pelado las caracolas x kilo x kg.",
+    "categoria": "Congelados",
+    "precio_antes": 21083.0,
+    "precio_hoy": 36591.0,
+    "diff_abs": 15508.0,
+    "diff_pct": 73.56
+  },
+  {
+    "ean": "7790387011852",
+    "nombre": "mate cocido taragui ni$os vainilla y miel x 20 saq",
+    "categoria": "Perfumeria",
+    "precio_antes": 1529.0,
+    "precio_hoy": 2621.0,
+    "diff_abs": 1092.0,
+    "diff_pct": 71.42
+  },
+  {
+    "ean": "2020730000000",
+    "nombre": "espinaca atado",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1790.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1200.0,
+    "diff_pct": 67.04
+  },
+  {
+    "ean": "2025590000009",
+    "nombre": "puchero caracu ternera x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 4800.0,
+    "precio_hoy": 7900.0,
+    "diff_abs": 3100.0,
+    "diff_pct": 64.58
+  },
+  {
+    "ean": "2025600000005",
+    "nombre": "puchero de aguja ternera x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 4800.0,
+    "precio_hoy": 7900.0,
+    "diff_abs": 3100.0,
+    "diff_pct": 64.58
+  },
+  {
+    "ean": "2021820000009",
+    "nombre": "pimiento rojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 60.12
+  },
+  {
+    "ean": "2011810000003",
+    "nombre": "higos secos negros medianos x kg.",
     "categoria": "Almacen",
-    "precio_antes": 929.0,
-    "precio_hoy": 1659.0,
-    "diff_abs": 730.0,
-    "diff_pct": 78.58
+    "precio_antes": 12084.0,
+    "precio_hoy": 19122.0,
+    "diff_abs": 7038.0,
+    "diff_pct": 58.24
   },
   {
-    "ean": "7622201703141",
-    "nombre": "jugo en polvo clight naranja dulce x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 280.0,
-    "diff_pct": 77.99
+    "ean": "7500810034330",
+    "nombre": "snack takis fuego x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2829.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1624.0,
+    "diff_pct": 57.41
   },
   {
-    "ean": "7622201703172",
-    "nombre": "jugo clight pomelo rosado 7gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 280.0,
-    "diff_pct": 77.99
+    "ean": "7500810034354",
+    "nombre": "snack takis original x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2829.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1624.0,
+    "diff_pct": 57.41
   },
   {
-    "ean": "7622201703080",
-    "nombre": "jugo clight manzana deliciosa x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 280.0,
-    "diff_pct": 77.99
+    "ean": "7500810041741",
+    "nombre": "snack takis x 140 gm intense",
+    "categoria": "Almacen",
+    "precio_antes": 2829.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1624.0,
+    "diff_pct": 57.41
   },
   {
-    "ean": "7622201682026",
-    "nombre": "jugo clight limo rosa x7.5gr",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 280.0,
-    "diff_pct": 77.99
+    "ean": "7500810034347",
+    "nombre": "snack takis xplosion x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2829.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1624.0,
+    "diff_pct": 57.41
   },
   {
-    "ean": "7622201702625",
-    "nombre": "jugo en polvo clight anana x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 280.0,
-    "diff_pct": 77.99
-  },
-  {
-    "ean": "7622202359927",
-    "nombre": "jugo cligh pomelada hibiscus x 8 gm",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 280.0,
-    "diff_pct": 77.99
-  },
-  {
-    "ean": "7622202236846",
-    "nombre": "jugo clight arandano x8gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 280.0,
-    "diff_pct": 77.99
-  },
-  {
-    "ean": "7622201702717",
-    "nombre": "jugo en polvo clight naranja-durazno x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 280.0,
-    "diff_pct": 77.99
-  },
-  {
-    "ean": "7622201703110",
-    "nombre": "jugo en polvo clight x 7 gr. sabor naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 359.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 280.0,
-    "diff_pct": 77.99
+    "ean": "7500810034361",
+    "nombre": "snack takis fuego x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1769.0,
+    "precio_hoy": 2779.0,
+    "diff_abs": 1010.0,
+    "diff_pct": 57.09
   }
 ]

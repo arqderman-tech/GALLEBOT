@@ -1,147 +1,147 @@
 {
-  "fecha": "20260410",
-  "total_productos": 5753,
-  "variacion_dia": 0.02,
-  "variacion_7d": 0.89,
-  "variacion_mes": 2.54,
+  "fecha": "20260411",
+  "total_productos": 5746,
+  "variacion_dia": -0.28,
+  "variacion_7d": 0.5,
+  "variacion_mes": 1.88,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -1.56,
-      "productos_subieron": 27,
-      "productos_bajaron": 116,
-      "total_productos": 1295
+      "variacion_pct_promedio": -0.6,
+      "productos_subieron": 121,
+      "productos_bajaron": 52,
+      "total_productos": 1293
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 1.74,
-      "productos_subieron": 59,
-      "productos_bajaron": 8,
-      "total_productos": 1115
+      "variacion_pct_promedio": 0.14,
+      "productos_subieron": 173,
+      "productos_bajaron": 47,
+      "total_productos": 1113
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -1.64,
-      "productos_subieron": 0,
-      "productos_bajaron": 32,
+      "variacion_pct_promedio": 2.64,
+      "productos_subieron": 45,
+      "productos_bajaron": 0,
       "total_productos": 210
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.8,
-      "productos_subieron": 40,
-      "productos_bajaron": 0,
-      "total_productos": 669
+      "variacion_pct_promedio": 0.53,
+      "productos_subieron": 24,
+      "productos_bajaron": 1,
+      "total_productos": 670
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 845
+      "variacion_pct_promedio": -0.78,
+      "productos_subieron": 35,
+      "productos_bajaron": 55,
+      "total_productos": 841
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.01,
-      "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "total_productos": 1616
+      "variacion_pct_promedio": -0.76,
+      "productos_subieron": 181,
+      "productos_bajaron": 147,
+      "total_productos": 1610
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7792798014934",
-      "nombre": "cerveza andes lata x 473 ml oro",
-      "categoria": "Bebidas",
-      "precio_antes": 2800.0,
-      "precio_hoy": 1399.0,
-      "diff_abs": -1401.0,
-      "diff_pct": -50.04
+      "ean": "7791337010482",
+      "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5007.0,
+      "precio_hoy": 2209.0,
+      "diff_abs": -2798.0,
+      "diff_pct": -55.88
     },
     {
-      "ean": "7792798002115",
-      "nombre": "cerveza andes rubia x1 lt. retornable",
-      "categoria": "Bebidas",
-      "precio_antes": 5100.0,
-      "precio_hoy": 2549.0,
-      "diff_abs": -2551.0,
-      "diff_pct": -50.02
+      "ean": "7791337010499",
+      "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5007.0,
+      "precio_hoy": 2209.0,
+      "diff_abs": -2798.0,
+      "diff_pct": -55.88
     },
     {
-      "ean": "7792798014972",
-      "nombre": "cerveza andes original x1lt oro retornable",
+      "ean": "7622201704148",
+      "nombre": "jugo en polvo clight mandarina x 8 gr.",
       "categoria": "Bebidas",
-      "precio_antes": 4900.0,
-      "precio_hoy": 2449.0,
-      "diff_abs": -2451.0,
-      "diff_pct": -50.02
+      "precio_antes": 639.0,
+      "precio_hoy": 309.0,
+      "diff_abs": -330.0,
+      "diff_pct": -51.64
     },
     {
-      "ean": "7792798014156",
-      "nombre": "cerveza andes rubia origen lata x 710 ml",
+      "ean": "7622201703202",
+      "nombre": "jugo clight pera x7gr.",
       "categoria": "Bebidas",
-      "precio_antes": 4200.0,
-      "precio_hoy": 2099.0,
-      "diff_abs": -2101.0,
-      "diff_pct": -50.02
+      "precio_antes": 639.0,
+      "precio_hoy": 309.0,
+      "diff_abs": -330.0,
+      "diff_pct": -51.64
     },
     {
-      "ean": "7792798002757",
-      "nombre": "cerveza andes ipa retornable x 1 lt.",
+      "ean": "7622201703059",
+      "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
       "categoria": "Bebidas",
-      "precio_antes": 5200.0,
-      "precio_hoy": 2609.0,
-      "diff_abs": -2591.0,
-      "diff_pct": -49.83
+      "precio_antes": 639.0,
+      "precio_hoy": 309.0,
+      "diff_abs": -330.0,
+      "diff_pct": -51.64
     },
     {
-      "ean": "7792798002122",
-      "nombre": "cerveza andes roja x 1 lt. retornable",
+      "ean": "7622201733865",
+      "nombre": "jugo tang mandarina x 15 gm",
       "categoria": "Bebidas",
-      "precio_antes": 5200.0,
-      "precio_hoy": 2609.0,
-      "diff_abs": -2591.0,
-      "diff_pct": -49.83
+      "precio_antes": 611.0,
+      "precio_hoy": 299.0,
+      "diff_abs": -312.0,
+      "diff_pct": -51.06
     },
     {
-      "ean": "7792798002726",
-      "nombre": "cerveza andes ipa pack 6 latas x 473 ml.",
+      "ean": "7622201745936",
+      "nombre": "jugo tang durazno x15gr.",
       "categoria": "Bebidas",
-      "precio_antes": 3025.0,
-      "precio_hoy": 1519.0,
-      "diff_abs": -1506.0,
-      "diff_pct": -49.79
+      "precio_antes": 611.0,
+      "precio_hoy": 299.0,
+      "diff_abs": -312.0,
+      "diff_pct": -51.06
     },
     {
-      "ean": "7792798002320",
-      "nombre": "cerveza andes negra lata x 473ml.",
+      "ean": "7622201746490",
+      "nombre": "jugo en polvo tang x 15 gr. frutilla",
       "categoria": "Bebidas",
-      "precio_antes": 3025.0,
-      "precio_hoy": 1519.0,
-      "diff_abs": -1506.0,
-      "diff_pct": -49.79
+      "precio_antes": 611.0,
+      "precio_hoy": 299.0,
+      "diff_abs": -312.0,
+      "diff_pct": -51.06
     },
     {
-      "ean": "7792798992317",
-      "nombre": "cerveza andes roja lata x 473 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 3025.0,
-      "precio_hoy": 1519.0,
-      "diff_abs": -1506.0,
-      "diff_pct": -49.79
+      "ean": "7791337010468",
+      "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4232.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2033.0,
+      "diff_pct": -48.04
     },
     {
-      "ean": "7791813405023",
-      "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-      "categoria": "Bebidas",
-      "precio_antes": 3050.0,
-      "precio_hoy": 1679.0,
-      "diff_abs": -1371.0,
-      "diff_pct": -44.95
+      "ean": "7791337010376",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4232.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2033.0,
+      "diff_pct": -48.04
     }
   ],
-  "productos_subieron_dia": 126,
-  "productos_bajaron_dia": 157,
-  "productos_sin_cambio_dia": 5467
+  "productos_subieron_dia": 579,
+  "productos_bajaron_dia": 302,
+  "productos_sin_cambio_dia": 4856
 }

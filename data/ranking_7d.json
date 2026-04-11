@@ -1,23 +1,5 @@
 [
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2209.0,
-    "precio_hoy": 5007.0,
-    "diff_abs": 2798.0,
-    "diff_pct": 126.66
-  },
-  {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2209.0,
-    "precio_hoy": 5007.0,
-    "diff_abs": 2798.0,
-    "diff_pct": 126.66
-  },
-  {
     "ean": "2019950000006",
     "nombre": "akusay x kg.",
     "categoria": "Frutas Y Verduras",
@@ -45,58 +27,13 @@
     "diff_pct": 100.25
   },
   {
-    "ean": "7791337010369",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2033.0,
-    "diff_pct": 92.45
-  },
-  {
-    "ean": "7791337010468",
-    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2033.0,
-    "diff_pct": 92.45
-  },
-  {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2033.0,
-    "diff_pct": 92.45
-  },
-  {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2033.0,
-    "diff_pct": 92.45
-  },
-  {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2033.0,
-    "diff_pct": 92.45
-  },
-  {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3909.0,
-    "precio_hoy": 7018.0,
-    "diff_abs": 3109.0,
-    "diff_pct": 79.53
+    "ean": "2020920000001",
+    "nombre": "lechuga mantecosa x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 100.25
   },
   {
     "ean": "7791337007253",
@@ -108,17 +45,26 @@
     "diff_pct": 79.53
   },
   {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 75.19
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3909.0,
+    "precio_hoy": 7018.0,
+    "diff_abs": 3109.0,
+    "diff_pct": 79.53
   },
   {
-    "ean": "2020920000001",
-    "nombre": "lechuga mantecosa x kg.",
+    "ean": "7790360982025",
+    "nombre": "crunchies de pollo swift x 760 gm",
+    "categoria": "Congelados",
+    "precio_antes": 8759.0,
+    "precio_hoy": 15446.0,
+    "diff_abs": 6687.0,
+    "diff_pct": 76.34
+  },
+  {
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 6990.0,
@@ -133,6 +79,15 @@
     "precio_hoy": 2524.0,
     "diff_abs": 1015.0,
     "diff_pct": 67.26
+  },
+  {
+    "ean": "2021950000009",
+    "nombre": "radicheta x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1190.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 800.0,
+    "diff_pct": 67.23
   },
   {
     "ean": "2021820000009",
@@ -153,24 +108,6 @@
     "diff_pct": 56.24
   },
   {
-    "ean": "7790070412126",
-    "nombre": "arroz maximo largo fino x 1 kg.",
-    "categoria": "Almacen",
-    "precio_antes": 1399.0,
-    "precio_hoy": 2184.0,
-    "diff_abs": 785.0,
-    "diff_pct": 56.11
-  },
-  {
-    "ean": "7790070412171",
-    "nombre": "arroz maximo largo fino x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 739.0,
-    "precio_hoy": 1144.0,
-    "diff_abs": 405.0,
-    "diff_pct": 54.8
-  },
-  {
     "ean": "7792798010578",
     "nombre": "cerveza stella artois long neck six pack x 330 ml.",
     "categoria": "Bebidas",
@@ -178,5 +115,68 @@
     "precio_hoy": 3700.0,
     "diff_abs": 1291.0,
     "diff_pct": 53.59
+  },
+  {
+    "ean": "7790070431448",
+    "nombre": "arroz gallo largo fino x1kg.bolsa",
+    "categoria": "Almacen",
+    "precio_antes": 2460.0,
+    "precio_hoy": 3755.0,
+    "diff_abs": 1295.0,
+    "diff_pct": 52.64
+  },
+  {
+    "ean": "7790070412126",
+    "nombre": "arroz maximo largo fino x 1 kg.",
+    "categoria": "Almacen",
+    "precio_antes": 1399.0,
+    "precio_hoy": 2109.0,
+    "diff_abs": 710.0,
+    "diff_pct": 50.75
+  },
+  {
+    "ean": "7790150533307",
+    "nombre": "mix alicante parrillero barbacoa x 25 gm",
+    "categoria": "Almacen",
+    "precio_antes": 1019.0,
+    "precio_hoy": 1531.0,
+    "diff_abs": 512.0,
+    "diff_pct": 50.25
+  },
+  {
+    "ean": "7790150533109",
+    "nombre": "mix alicante parrillero x 25 gm chimichurri ahumado",
+    "categoria": "Almacen",
+    "precio_antes": 1019.0,
+    "precio_hoy": 1531.0,
+    "diff_abs": 512.0,
+    "diff_pct": 50.25
+  },
+  {
+    "ean": "7790150533208",
+    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
+    "categoria": "Almacen",
+    "precio_antes": 1019.0,
+    "precio_hoy": 1531.0,
+    "diff_abs": 512.0,
+    "diff_pct": 50.25
+  },
+  {
+    "ean": "7790150533000",
+    "nombre": "mix alicante parrilla x 25 gr hamburguesas",
+    "categoria": "Almacen",
+    "precio_antes": 1019.0,
+    "precio_hoy": 1531.0,
+    "diff_abs": 512.0,
+    "diff_pct": 50.25
+  },
+  {
+    "ean": "7790150533154",
+    "nombre": "mis alicante parrillero vegetales x 25 gm",
+    "categoria": "Almacen",
+    "precio_antes": 1019.0,
+    "precio_hoy": 1531.0,
+    "diff_abs": 512.0,
+    "diff_pct": 50.25
   }
 ]
