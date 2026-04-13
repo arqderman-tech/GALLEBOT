@@ -18,15 +18,6 @@
     "diff_pct": 100.33
   },
   {
-    "ean": "2021790000009",
-    "nombre": "pimiento amarillo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 100.25
-  },
-  {
     "ean": "2020920000001",
     "nombre": "lechuga mantecosa x kg.",
     "categoria": "Frutas Y Verduras",
@@ -36,8 +27,17 @@
     "diff_pct": 100.25
   },
   {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
+    "ean": "2021790000009",
+    "nombre": "pimiento amarillo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 100.25
+  },
+  {
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3909.0,
     "precio_hoy": 7018.0,
@@ -45,8 +45,8 @@
     "diff_pct": 79.53
   },
   {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3909.0,
     "precio_hoy": 7018.0,
@@ -108,6 +108,15 @@
     "diff_pct": 56.24
   },
   {
+    "ean": "7797906054864",
+    "nombre": "papas mc cain horneables tradicional x 700 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 6269.0,
+    "precio_hoy": 9651.0,
+    "diff_abs": 3382.0,
+    "diff_pct": 53.95
+  },
+  {
     "ean": "7792798010578",
     "nombre": "cerveza stella artois long neck six pack x 330 ml.",
     "categoria": "Bebidas",
@@ -135,26 +144,17 @@
     "diff_pct": 50.75
   },
   {
-    "ean": "7790150533307",
-    "nombre": "mix alicante parrillero barbacoa x 25 gm",
-    "categoria": "Almacen",
-    "precio_antes": 1019.0,
-    "precio_hoy": 1531.0,
-    "diff_abs": 512.0,
-    "diff_pct": 50.25
-  },
-  {
-    "ean": "7790150533109",
-    "nombre": "mix alicante parrillero x 25 gm chimichurri ahumado",
-    "categoria": "Almacen",
-    "precio_antes": 1019.0,
-    "precio_hoy": 1531.0,
-    "diff_abs": 512.0,
-    "diff_pct": 50.25
-  },
-  {
     "ean": "7790150533208",
     "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
+    "categoria": "Almacen",
+    "precio_antes": 1019.0,
+    "precio_hoy": 1531.0,
+    "diff_abs": 512.0,
+    "diff_pct": 50.25
+  },
+  {
+    "ean": "7790150533307",
+    "nombre": "mix alicante parrillero barbacoa x 25 gm",
     "categoria": "Almacen",
     "precio_antes": 1019.0,
     "precio_hoy": 1531.0,

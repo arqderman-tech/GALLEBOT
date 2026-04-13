@@ -1,13 +1,147 @@
 {
-  "fecha": "20260412",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260413",
+  "total_productos": 5778,
+  "variacion_dia": -0.0,
+  "variacion_7d": 0.57,
+  "variacion_mes": 2.8,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1290
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 1,
+      "productos_bajaron": 2,
+      "total_productos": 1112
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 209
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 670
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 841
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1602
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "7794080000052",
+      "nombre": "tapas empanadas la morocha pfreir x 12 unid.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1463.0,
+      "precio_hoy": 1319.0,
+      "diff_abs": -144.0,
+      "diff_pct": -9.84
+    },
+    {
+      "ean": "7794080000199",
+      "nombre": "tapas para empanadas la morocha hojaldre x 12 unid",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1463.0,
+      "precio_hoy": 1319.0,
+      "diff_abs": -144.0,
+      "diff_pct": -9.84
+    },
+    {
+      "ean": "7794080000502",
+      "nombre": "ravioles la morocha de pollo cespinaca",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3064.0,
+      "precio_hoy": 3064.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790070621856",
+      "nombre": "ravioles la saltena x 450 gr. pollo y espinaca",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790070621870",
+      "nombre": "ravioles la saltena x 450 gr. jamon y mozzarella",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790070621894",
+      "nombre": "ravioles la saltena espinaca y queso x 450 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790070621818",
+      "nombre": "ravioles la saltena cuatro quesos x 900 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 7871.0,
+      "precio_hoy": 7871.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7794080001257",
+      "nombre": "ravioles la morocha x 500 gr. ricota y espinaca",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3064.0,
+      "precio_hoy": 3064.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7794080001271",
+      "nombre": "ravioles la morocha x 500 gr. jamon, ricotta y moz",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3064.0,
+      "precio_hoy": 3064.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7794080004173",
+      "nombre": "ravioles la morocha x 500 gr. 4 quesos",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3064.0,
+      "precio_hoy": 3064.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    }
+  ],
+  "productos_subieron_dia": 1,
+  "productos_bajaron_dia": 2,
+  "productos_sin_cambio_dia": 5721
 }
