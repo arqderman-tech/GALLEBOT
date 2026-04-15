@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7798338290110",
-    "nombre": "leche apostoles descremada larga vida x 1 litro",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1575.0,
-    "precio_hoy": 1709.0,
-    "diff_abs": 134.0,
-    "diff_pct": 8.51
+    "ean": "8445291904392",
+    "nombre": "combo nescafe dolca x 170 gr. + coffee mate x 170.",
+    "categoria": "Perfumeria",
+    "precio_antes": 10046.0,
+    "precio_hoy": 16525.0,
+    "diff_abs": 6479.0,
+    "diff_pct": 64.49
   },
   {
-    "ean": "7790079025310",
-    "nombre": "ravioles paladini pollo y espinaca x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4150.0,
-    "precio_hoy": 4150.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790070621849",
-    "nombre": "ravioles la saltena x 450 gr. ricotta",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790070621856",
-    "nombre": "ravioles la saltena x 450 gr. pollo y espinaca",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798060853119",
-    "nombre": "queso untable tonadita dip cheddar x 180 gr.",
-    "categoria": "Lacteos Y Frescos",
+    "ean": "2020120000009",
+    "nombre": "berengena negra x kg.",
+    "categoria": "Frutas Y Verduras",
     "precio_antes": 2490.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_hoy": 3990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 60.24
   },
   {
-    "ean": "7798060853003",
-    "nombre": "queso untable tonadita clasico x 180 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2154.0,
-    "precio_hoy": 2154.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7898024396529",
+    "nombre": "nutella x 650 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 11239.0,
+    "precio_hoy": 16526.0,
+    "diff_abs": 5287.0,
+    "diff_pct": 47.04
   },
   {
-    "ean": "7790070621818",
-    "nombre": "ravioles la saltena cuatro quesos x 900 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 7871.0,
-    "precio_hoy": 7871.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7898024394181",
+    "nombre": "pasta de avellanas y chocolate nutella x 350 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 7109.0,
+    "precio_hoy": 10452.0,
+    "diff_abs": 3343.0,
+    "diff_pct": 47.02
   },
   {
-    "ean": "7794080001257",
-    "nombre": "ravioles la morocha x 500 gr. ricota y espinaca",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3064.0,
-    "precio_hoy": 3064.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2020100000005",
+    "nombre": "berenjena morada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
   },
   {
-    "ean": "7794080001271",
-    "nombre": "ravioles la morocha x 500 gr. jamon, ricotta y moz",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3064.0,
-    "precio_hoy": 3064.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
   },
   {
-    "ean": "7794080004173",
-    "nombre": "ravioles la morocha x 500 gr. 4 quesos",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3064.0,
-    "precio_hoy": 3064.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798108834193",
+    "nombre": "vino callia amable x750ml.t.ti",
+    "categoria": "Bebidas",
+    "precio_antes": 4019.0,
+    "precio_hoy": 5082.0,
+    "diff_abs": 1063.0,
+    "diff_pct": 26.45
   },
   {
-    "ean": "7790079025259",
-    "nombre": "ravioles paladini x 500 gm 4 quesos",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4510.0,
-    "precio_hoy": 4510.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798108834179",
+    "nombre": "vino tardio callia x 750 ml. rosado malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 4019.0,
+    "precio_hoy": 5082.0,
+    "diff_abs": 1063.0,
+    "diff_pct": 26.45
   },
   {
-    "ean": "7794080001523",
-    "nombre": "ravioles la morocha x 1 kg. cuatro quesos",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5669.0,
-    "precio_hoy": 5669.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798108834155",
+    "nombre": "vino blanco callia amable tardio x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4019.0,
+    "precio_hoy": 5082.0,
+    "diff_abs": 1063.0,
+    "diff_pct": 26.45
   },
   {
-    "ean": "7794080001622",
-    "nombre": "ravioles la morocha x 1 kg. carne y verdura",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5669.0,
-    "precio_hoy": 5669.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798074864019",
+    "nombre": "vino portillo x1.5lt.malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 9649.0,
+    "precio_hoy": 12197.0,
+    "diff_abs": 2548.0,
+    "diff_pct": 26.41
   },
   {
-    "ean": "7794080000441",
-    "nombre": "ravioles la morocha ricota y queso x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3064.0,
-    "precio_hoy": 3064.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798074864873",
+    "nombre": "vino blanco portillo x 750ml dulce natural",
+    "categoria": "Bebidas",
+    "precio_antes": 4899.0,
+    "precio_hoy": 6191.0,
+    "diff_abs": 1292.0,
+    "diff_pct": 26.37
   },
   {
-    "ean": "7794080000502",
-    "nombre": "ravioles la morocha de pollo cespinaca",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3064.0,
-    "precio_hoy": 3064.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798074864750",
+    "nombre": "vino portillo chardonnay x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5009.0,
+    "precio_hoy": 6329.0,
+    "diff_abs": 1320.0,
+    "diff_pct": 26.35
   },
   {
-    "ean": "7794080000458",
-    "nombre": "ravioles la morocha de carne y verdura x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3064.0,
-    "precio_hoy": 3064.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798074864774",
+    "nombre": "vino finca el portillo blanco sauvignon blanc x 75",
+    "categoria": "Bebidas",
+    "precio_antes": 5009.0,
+    "precio_hoy": 6329.0,
+    "diff_abs": 1320.0,
+    "diff_pct": 26.35
   },
   {
-    "ean": "7790070036971",
-    "nombre": "ravioles favorita x 450 gm sabor pollo y verdura",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2488.0,
-    "precio_hoy": 2488.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798108833899",
+    "nombre": "vino callia magnum x1.5l.malb.",
+    "categoria": "Bebidas",
+    "precio_antes": 8339.0,
+    "precio_hoy": 10534.0,
+    "diff_abs": 2195.0,
+    "diff_pct": 26.32
   },
   {
-    "ean": "7790070036995",
-    "nombre": "ravioles favorita x 450 gm quesos",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2488.0,
-    "precio_hoy": 2488.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798074862756",
+    "nombre": "vino killka x 750 ml. sauvignon blanc",
+    "categoria": "Bebidas",
+    "precio_antes": 6949.0,
+    "precio_hoy": 8778.0,
+    "diff_abs": 1829.0,
+    "diff_pct": 26.32
   },
   {
-    "ean": "7795293106210",
-    "nombre": "ravioles don yeyo x 500 gr. espinaca y pollo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3398.0,
-    "precio_hoy": 3398.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798074865191",
+    "nombre": "vino killka x 750 ml malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 6949.0,
+    "precio_hoy": 8778.0,
+    "diff_abs": 1829.0,
+    "diff_pct": 26.32
   },
   {
-    "ean": "7795293106111",
-    "nombre": "ravioles don yeyo x 500 gr. carne y espinaca",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3531.0,
-    "precio_hoy": 3531.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798074865153",
+    "nombre": "vino killka x 750 ml corte tinta",
+    "categoria": "Bebidas",
+    "precio_antes": 6949.0,
+    "precio_hoy": 8778.0,
+    "diff_abs": 1829.0,
+    "diff_pct": 26.32
+  },
+  {
+    "ean": "7798074865139",
+    "nombre": "vino tinto killka cabernet sauvignon x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 6949.0,
+    "precio_hoy": 8778.0,
+    "diff_abs": 1829.0,
+    "diff_pct": 26.32
+  },
+  {
+    "ean": "7798074865115",
+    "nombre": "vino blanco killka chardonnay x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 6949.0,
+    "precio_hoy": 8778.0,
+    "diff_abs": 1829.0,
+    "diff_pct": 26.32
+  },
+  {
+    "ean": "7798108834117",
+    "nombre": "vino fino tinto callia alta syrah-malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4169.0,
+    "precio_hoy": 5266.0,
+    "diff_abs": 1097.0,
+    "diff_pct": 26.31
   }
 ]

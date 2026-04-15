@@ -1,32 +1,5 @@
 [
   {
-    "ean": "2019950000006",
-    "nombre": "akusay x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 100.5
-  },
-  {
-    "ean": "2021840000003",
-    "nombre": "pimiento verde x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 100.33
-  },
-  {
-    "ean": "2020920000001",
-    "nombre": "lechuga mantecosa x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 100.25
-  },
-  {
     "ean": "2021790000009",
     "nombre": "pimiento amarillo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -54,24 +27,6 @@
     "diff_pct": 79.53
   },
   {
-    "ean": "7790360982025",
-    "nombre": "crunchies de pollo swift x 760 gm",
-    "categoria": "Congelados",
-    "precio_antes": 8759.0,
-    "precio_hoy": 15446.0,
-    "diff_abs": 6687.0,
-    "diff_pct": 76.34
-  },
-  {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 75.19
-  },
-  {
     "ean": "7791337007260",
     "nombre": "leche chocolatada cindor x 200 ml.",
     "categoria": "Lacteos Y Frescos",
@@ -90,13 +45,13 @@
     "diff_pct": 67.23
   },
   {
-    "ean": "2021820000009",
-    "nombre": "pimiento rojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 60.12
+    "ean": "8445291904392",
+    "nombre": "combo nescafe dolca x 170 gr. + coffee mate x 170.",
+    "categoria": "Perfumeria",
+    "precio_antes": 10046.0,
+    "precio_hoy": 16525.0,
+    "diff_abs": 6479.0,
+    "diff_pct": 64.49
   },
   {
     "ean": "7791337009615",
@@ -117,15 +72,6 @@
     "diff_pct": 53.95
   },
   {
-    "ean": "7792798010578",
-    "nombre": "cerveza stella artois long neck six pack x 330 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2409.0,
-    "precio_hoy": 3700.0,
-    "diff_abs": 1291.0,
-    "diff_pct": 53.59
-  },
-  {
     "ean": "7790070431448",
     "nombre": "arroz gallo largo fino x1kg.bolsa",
     "categoria": "Almacen",
@@ -135,17 +81,8 @@
     "diff_pct": 52.64
   },
   {
-    "ean": "7790070412126",
-    "nombre": "arroz maximo largo fino x 1 kg.",
-    "categoria": "Almacen",
-    "precio_antes": 1399.0,
-    "precio_hoy": 2109.0,
-    "diff_abs": 710.0,
-    "diff_pct": 50.75
-  },
-  {
-    "ean": "7790150533208",
-    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
+    "ean": "7790150533307",
+    "nombre": "mix alicante parrillero barbacoa x 25 gm",
     "categoria": "Almacen",
     "precio_antes": 1019.0,
     "precio_hoy": 1531.0,
@@ -153,8 +90,8 @@
     "diff_pct": 50.25
   },
   {
-    "ean": "7790150533307",
-    "nombre": "mix alicante parrillero barbacoa x 25 gm",
+    "ean": "7790150533208",
+    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
     "categoria": "Almacen",
     "precio_antes": 1019.0,
     "precio_hoy": 1531.0,
@@ -171,6 +108,15 @@
     "diff_pct": 50.25
   },
   {
+    "ean": "7790150533109",
+    "nombre": "mix alicante parrillero x 25 gm chimichurri ahumado",
+    "categoria": "Almacen",
+    "precio_antes": 1019.0,
+    "precio_hoy": 1531.0,
+    "diff_abs": 512.0,
+    "diff_pct": 50.25
+  },
+  {
     "ean": "7790150533154",
     "nombre": "mis alicante parrillero vegetales x 25 gm",
     "categoria": "Almacen",
@@ -178,5 +124,59 @@
     "precio_hoy": 1531.0,
     "diff_abs": 512.0,
     "diff_pct": 50.25
+  },
+  {
+    "ean": "2019950000006",
+    "nombre": "akusay x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
+    "ean": "7791728245066",
+    "nombre": "vino santa julia x 3 litros box uco",
+    "categoria": "Bebidas",
+    "precio_antes": 20868.99,
+    "precio_hoy": 30701.0,
+    "diff_abs": 9832.01,
+    "diff_pct": 47.11
+  },
+  {
+    "ean": "7791728247756",
+    "nombre": "vino tinto santa julia syrah x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4119.0,
+    "precio_hoy": 6059.0,
+    "diff_abs": 1940.0,
+    "diff_pct": 47.1
+  },
+  {
+    "ean": "7791728000153",
+    "nombre": "vino santa julia x 750 ml. torrontes",
+    "categoria": "Bebidas",
+    "precio_antes": 4119.0,
+    "precio_hoy": 6059.0,
+    "diff_abs": 1940.0,
+    "diff_pct": 47.1
+  },
+  {
+    "ean": "7791728247817",
+    "nombre": "vino blanco santa julia x 750 ml. sauvignon blanc",
+    "categoria": "Bebidas",
+    "precio_antes": 4119.0,
+    "precio_hoy": 6059.0,
+    "diff_abs": 1940.0,
+    "diff_pct": 47.1
+  },
+  {
+    "ean": "7791728248265",
+    "nombre": "vino santa julia x 750 ml. tinto dulce",
+    "categoria": "Bebidas",
+    "precio_antes": 4849.0,
+    "precio_hoy": 7133.0,
+    "diff_abs": 2284.0,
+    "diff_pct": 47.1
   }
 ]

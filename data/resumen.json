@@ -1,13 +1,147 @@
 {
-  "fecha": "20260414",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260415",
+  "total_productos": 5789,
+  "variacion_dia": -0.01,
+  "variacion_7d": -0.21,
+  "variacion_mes": 2.73,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 0.28,
+      "productos_subieron": 70,
+      "productos_bajaron": 37,
+      "total_productos": 1289
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": -0.53,
+      "productos_subieron": 32,
+      "productos_bajaron": 51,
+      "total_productos": 1114
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": -1.12,
+      "productos_subieron": 5,
+      "productos_bajaron": 29,
+      "total_productos": 212
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 677
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.31,
+      "productos_subieron": 82,
+      "productos_bajaron": 33,
+      "total_productos": 854
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.09,
+      "productos_subieron": 45,
+      "productos_bajaron": 19,
+      "total_productos": 1607
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "8445291996731",
+      "nombre": "avellanas con chocolate con leche nestle x 80 gm",
+      "categoria": "Almacen",
+      "precio_antes": 4680.0,
+      "precio_hoy": 3199.0,
+      "diff_abs": -1481.0,
+      "diff_pct": -31.65
+    },
+    {
+      "ean": "7794820903339",
+      "nombre": "dulce de leche milkaut con crema x 320 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 3432.0,
+      "precio_hoy": 2359.0,
+      "diff_abs": -1073.0,
+      "diff_pct": -31.26
+    },
+    {
+      "ean": "7797906054833",
+      "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 8071.0,
+      "precio_hoy": 5649.0,
+      "diff_abs": -2422.0,
+      "diff_pct": -30.01
+    },
+    {
+      "ean": "7794820903308",
+      "nombre": "manteca milkaut x 200 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4410.0,
+      "precio_hoy": 3129.0,
+      "diff_abs": -1281.0,
+      "diff_pct": -29.05
+    },
+    {
+      "ean": "7794820903216",
+      "nombre": "yogur bebible milkaut vainilla x 950 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3385.0,
+      "precio_hoy": 2419.0,
+      "diff_abs": -966.0,
+      "diff_pct": -28.54
+    },
+    {
+      "ean": "7794820903209",
+      "nombre": "yogur bebible milkaut frutilla x 950 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3385.0,
+      "precio_hoy": 2419.0,
+      "diff_abs": -966.0,
+      "diff_pct": -28.54
+    },
+    {
+      "ean": "7794820902264",
+      "nombre": "yogur bebible milkaut x 900 gr. frutilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2846.0,
+      "precio_hoy": 2069.0,
+      "diff_abs": -777.0,
+      "diff_pct": -27.3
+    },
+    {
+      "ean": "7794820902240",
+      "nombre": "yogur bebible milkaut sabor durazno x 900 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2846.0,
+      "precio_hoy": 2069.0,
+      "diff_abs": -777.0,
+      "diff_pct": -27.3
+    },
+    {
+      "ean": "7794820902257",
+      "nombre": "yogur bebible milkaut x 900 gr. vainilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2846.0,
+      "precio_hoy": 2069.0,
+      "diff_abs": -777.0,
+      "diff_pct": -27.3
+    },
+    {
+      "ean": "7794820902707",
+      "nombre": "yogur bebible descremado milkaut frutilla x 900 g.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2845.0,
+      "precio_hoy": 2069.0,
+      "diff_abs": -776.0,
+      "diff_pct": -27.28
+    }
+  ],
+  "productos_subieron_dia": 234,
+  "productos_bajaron_dia": 169,
+  "productos_sin_cambio_dia": 5350
 }
