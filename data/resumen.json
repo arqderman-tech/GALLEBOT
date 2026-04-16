@@ -1,30 +1,30 @@
 {
-  "fecha": "20260415",
-  "total_productos": 5789,
-  "variacion_dia": -0.01,
-  "variacion_7d": -0.21,
-  "variacion_mes": 2.73,
+  "fecha": "20260416",
+  "total_productos": 5762,
+  "variacion_dia": 0.0,
+  "variacion_7d": -0.37,
+  "variacion_mes": 2.76,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.28,
-      "productos_subieron": 70,
-      "productos_bajaron": 37,
-      "total_productos": 1289
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1300
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.53,
-      "productos_subieron": 32,
-      "productos_bajaron": 51,
-      "total_productos": 1114
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1119
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -1.12,
-      "productos_subieron": 5,
-      "productos_bajaron": 29,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
       "total_productos": 212
     },
     {
@@ -32,116 +32,116 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 677
+      "total_productos": 678
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.31,
-      "productos_subieron": 82,
-      "productos_bajaron": 33,
-      "total_productos": 854
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 852
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.09,
-      "productos_subieron": 45,
-      "productos_bajaron": 19,
-      "total_productos": 1607
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1601
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "8445291996731",
-      "nombre": "avellanas con chocolate con leche nestle x 80 gm",
+      "ean": "7790310985830",
+      "nombre": "3ds queso x 85 gr.",
       "categoria": "Almacen",
-      "precio_antes": 4680.0,
-      "precio_hoy": 3199.0,
-      "diff_abs": -1481.0,
-      "diff_pct": -31.65
+      "precio_antes": 3649.0,
+      "precio_hoy": 3649.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7794820903339",
-      "nombre": "dulce de leche milkaut con crema x 320 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 3432.0,
-      "precio_hoy": 2359.0,
-      "diff_abs": -1073.0,
-      "diff_pct": -31.26
+      "ean": "7790310985137",
+      "nombre": "3ds queso x143gr.",
+      "categoria": "Almacen",
+      "precio_antes": 5118.0,
+      "precio_hoy": 5118.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7797906054833",
-      "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 8071.0,
-      "precio_hoy": 5649.0,
-      "diff_abs": -2422.0,
-      "diff_pct": -30.01
+      "ean": "7790310985113",
+      "nombre": "3ds sabor queso x 43 gm",
+      "categoria": "Almacen",
+      "precio_antes": 2271.0,
+      "precio_hoy": 2271.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7794820903308",
-      "nombre": "manteca milkaut x 200 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4410.0,
-      "precio_hoy": 3129.0,
-      "diff_abs": -1281.0,
-      "diff_pct": -29.05
+      "ean": "7798080520657",
+      "nombre": "ac.ol.l.toscana x250ml.ajo",
+      "categoria": "Almacen",
+      "precio_antes": 10263.0,
+      "precio_hoy": 10263.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7794820903216",
-      "nombre": "yogur bebible milkaut vainilla x 950 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3385.0,
-      "precio_hoy": 2419.0,
-      "diff_abs": -966.0,
-      "diff_pct": -28.54
+      "ean": "7798080520534",
+      "nombre": "ac.ol.l.toscana x250ml.albahac",
+      "categoria": "Almacen",
+      "precio_antes": 10263.0,
+      "precio_hoy": 10263.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7794820903209",
-      "nombre": "yogur bebible milkaut frutilla x 950 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3385.0,
-      "precio_hoy": 2419.0,
-      "diff_abs": -966.0,
-      "diff_pct": -28.54
+      "ean": "41331014922",
+      "nombre": "acaitunas goya x 149 gm con pimiento picante",
+      "categoria": "Almacen",
+      "precio_antes": 8703.0,
+      "precio_hoy": 8703.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7794820902264",
-      "nombre": "yogur bebible milkaut x 900 gr. frutilla",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2846.0,
-      "precio_hoy": 2069.0,
-      "diff_abs": -777.0,
-      "diff_pct": -27.3
+      "ean": "7790070265142",
+      "nombre": "aceite cocinero puro de oliva x 500 ml",
+      "categoria": "Almacen",
+      "precio_antes": 10921.0,
+      "precio_hoy": 10921.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7794820902240",
-      "nombre": "yogur bebible milkaut sabor durazno x 900 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2846.0,
-      "precio_hoy": 2069.0,
-      "diff_abs": -777.0,
-      "diff_pct": -27.3
+      "ean": "7790070231598",
+      "nombre": "aceite cocinero x900 ml oliva y girasol",
+      "categoria": "Almacen",
+      "precio_antes": 5927.0,
+      "precio_hoy": 5927.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7794820902257",
-      "nombre": "yogur bebible milkaut x 900 gr. vainilla",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2846.0,
-      "precio_hoy": 2069.0,
-      "diff_abs": -777.0,
-      "diff_pct": -27.3
+      "ean": "7790272006819",
+      "nombre": "aceite copisi x 900 ml. girasol y oliva",
+      "categoria": "Almacen",
+      "precio_antes": 5868.0,
+      "precio_hoy": 5868.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7794820902707",
-      "nombre": "yogur bebible descremado milkaut frutilla x 900 g.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2845.0,
-      "precio_hoy": 2069.0,
-      "diff_abs": -776.0,
-      "diff_pct": -27.28
+      "ean": "656750783931",
+      "nombre": "aceite de coco entrenuts neutro x 360 ml.",
+      "categoria": "Almacen",
+      "precio_antes": 8902.0,
+      "precio_hoy": 8902.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 234,
-  "productos_bajaron_dia": 169,
-  "productos_sin_cambio_dia": 5350
+  "productos_subieron_dia": 0,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 5762
 }

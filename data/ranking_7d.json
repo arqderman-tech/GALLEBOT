@@ -81,26 +81,17 @@
     "diff_pct": 52.64
   },
   {
-    "ean": "7790150533307",
-    "nombre": "mix alicante parrillero barbacoa x 25 gm",
-    "categoria": "Almacen",
-    "precio_antes": 1019.0,
-    "precio_hoy": 1531.0,
-    "diff_abs": 512.0,
-    "diff_pct": 50.25
-  },
-  {
-    "ean": "7790150533208",
-    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
-    "categoria": "Almacen",
-    "precio_antes": 1019.0,
-    "precio_hoy": 1531.0,
-    "diff_abs": 512.0,
-    "diff_pct": 50.25
-  },
-  {
     "ean": "7790150533000",
     "nombre": "mix alicante parrilla x 25 gr hamburguesas",
+    "categoria": "Almacen",
+    "precio_antes": 1019.0,
+    "precio_hoy": 1531.0,
+    "diff_abs": 512.0,
+    "diff_pct": 50.25
+  },
+  {
+    "ean": "7790150533307",
+    "nombre": "mix alicante parrillero barbacoa x 25 gm",
     "categoria": "Almacen",
     "precio_antes": 1019.0,
     "precio_hoy": 1531.0,
@@ -117,8 +108,8 @@
     "diff_pct": 50.25
   },
   {
-    "ean": "7790150533154",
-    "nombre": "mis alicante parrillero vegetales x 25 gm",
+    "ean": "7790150533208",
+    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
     "categoria": "Almacen",
     "precio_antes": 1019.0,
     "precio_hoy": 1531.0,
@@ -126,12 +117,12 @@
     "diff_pct": 50.25
   },
   {
-    "ean": "2019950000006",
-    "nombre": "akusay x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1000.0,
+    "ean": "7790150533154",
+    "nombre": "mis alicante parrillero vegetales x 25 gm",
+    "categoria": "Almacen",
+    "precio_antes": 1019.0,
+    "precio_hoy": 1531.0,
+    "diff_abs": 512.0,
     "diff_pct": 50.25
   },
   {
@@ -144,8 +135,35 @@
     "diff_pct": 47.11
   },
   {
-    "ean": "7791728247756",
-    "nombre": "vino tinto santa julia syrah x 750 ml.",
+    "ean": "7791728247770",
+    "nombre": "vino tinto santa julia pinot noir x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4119.0,
+    "precio_hoy": 6059.0,
+    "diff_abs": 1940.0,
+    "diff_pct": 47.1
+  },
+  {
+    "ean": "7791728247763",
+    "nombre": "vino tinto santa julia merlot x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4119.0,
+    "precio_hoy": 6059.0,
+    "diff_abs": 1940.0,
+    "diff_pct": 47.1
+  },
+  {
+    "ean": "7791728247800",
+    "nombre": "vino fino blanco santa julia chardonnay x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4119.0,
+    "precio_hoy": 6059.0,
+    "diff_abs": 1940.0,
+    "diff_pct": 47.1
+  },
+  {
+    "ean": "7791728247114",
+    "nombre": "vino tinto santa julia malbec x 750 ml.",
     "categoria": "Bebidas",
     "precio_antes": 4119.0,
     "precio_hoy": 6059.0,
@@ -159,24 +177,6 @@
     "precio_antes": 4119.0,
     "precio_hoy": 6059.0,
     "diff_abs": 1940.0,
-    "diff_pct": 47.1
-  },
-  {
-    "ean": "7791728247817",
-    "nombre": "vino blanco santa julia x 750 ml. sauvignon blanc",
-    "categoria": "Bebidas",
-    "precio_antes": 4119.0,
-    "precio_hoy": 6059.0,
-    "diff_abs": 1940.0,
-    "diff_pct": 47.1
-  },
-  {
-    "ean": "7791728248265",
-    "nombre": "vino santa julia x 750 ml. tinto dulce",
-    "categoria": "Bebidas",
-    "precio_antes": 4849.0,
-    "precio_hoy": 7133.0,
-    "diff_abs": 2284.0,
     "diff_pct": 47.1
   }
 ]

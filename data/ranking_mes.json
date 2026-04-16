@@ -108,15 +108,6 @@
     "diff_pct": 67.04
   },
   {
-    "ean": "2025590000009",
-    "nombre": "puchero caracu ternera x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 4800.0,
-    "precio_hoy": 7900.0,
-    "diff_abs": 3100.0,
-    "diff_pct": 64.58
-  },
-  {
     "ean": "2025600000005",
     "nombre": "puchero de aguja ternera x kg.",
     "categoria": "Carniceria",
@@ -126,8 +117,17 @@
     "diff_pct": 64.58
   },
   {
-    "ean": "2020920000001",
-    "nombre": "lechuga mantecosa x kg.",
+    "ean": "2025590000009",
+    "nombre": "puchero caracu ternera x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 4800.0,
+    "precio_hoy": 7900.0,
+    "diff_abs": 3100.0,
+    "diff_pct": 64.58
+  },
+  {
+    "ean": "2021820000009",
+    "nombre": "pimiento rojo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 4990.0,
     "precio_hoy": 7990.0,
@@ -135,8 +135,8 @@
     "diff_pct": 60.12
   },
   {
-    "ean": "2021820000009",
-    "nombre": "pimiento rojo x kg.",
+    "ean": "2020920000001",
+    "nombre": "lechuga mantecosa x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 4990.0,
     "precio_hoy": 7990.0,
