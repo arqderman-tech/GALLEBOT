@@ -1,147 +1,147 @@
 {
-  "fecha": "20260416",
-  "total_productos": 5762,
-  "variacion_dia": 0.0,
-  "variacion_7d": -0.37,
-  "variacion_mes": 2.76,
+  "fecha": "20260417",
+  "total_productos": 5747,
+  "variacion_dia": 0.68,
+  "variacion_7d": 0.18,
+  "variacion_mes": 2.53,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1300
+      "variacion_pct_promedio": -0.36,
+      "productos_subieron": 85,
+      "productos_bajaron": 48,
+      "total_productos": 1297
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1119
+      "variacion_pct_promedio": 0.58,
+      "productos_subieron": 88,
+      "productos_bajaron": 22,
+      "total_productos": 1118
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": 2.5,
+      "productos_subieron": 44,
+      "productos_bajaron": 3,
       "total_productos": 212
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 678
+      "variacion_pct_promedio": 1.3,
+      "productos_subieron": 2,
+      "productos_bajaron": 1,
+      "total_productos": 677
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 852
+      "variacion_pct_promedio": 1.13,
+      "productos_subieron": 123,
+      "productos_bajaron": 20,
+      "total_productos": 849
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1601
+      "variacion_pct_promedio": 0.85,
+      "productos_subieron": 160,
+      "productos_bajaron": 9,
+      "total_productos": 1593
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790310985830",
-      "nombre": "3ds queso x 85 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 3649.0,
-      "precio_hoy": 3649.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2022130000000",
+      "nombre": "tomate cherry x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 5990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -3000.0,
+      "diff_pct": -50.08
     },
     {
-      "ean": "7790310985137",
-      "nombre": "3ds queso x143gr.",
-      "categoria": "Almacen",
-      "precio_antes": 5118.0,
-      "precio_hoy": 5118.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2020370000002",
+      "nombre": "chaucha rolliza x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 5990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -33.39
     },
     {
-      "ean": "7790310985113",
-      "nombre": "3ds sabor queso x 43 gm",
+      "ean": "7500810034460",
+      "nombre": "snack takis xplosion x 85 gr.",
       "categoria": "Almacen",
-      "precio_antes": 2271.0,
-      "precio_hoy": 2271.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "precio_antes": 2779.0,
+      "precio_hoy": 1889.0,
+      "diff_abs": -890.0,
+      "diff_pct": -32.03
     },
     {
-      "ean": "7798080520657",
-      "nombre": "ac.ol.l.toscana x250ml.ajo",
+      "ean": "7500810034477",
+      "nombre": "snack takis original x 85 gr.",
       "categoria": "Almacen",
-      "precio_antes": 10263.0,
-      "precio_hoy": 10263.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "precio_antes": 2779.0,
+      "precio_hoy": 1889.0,
+      "diff_abs": -890.0,
+      "diff_pct": -32.03
     },
     {
-      "ean": "7798080520534",
-      "nombre": "ac.ol.l.toscana x250ml.albahac",
+      "ean": "7500810034361",
+      "nombre": "snack takis fuego x 85 gr.",
       "categoria": "Almacen",
-      "precio_antes": 10263.0,
-      "precio_hoy": 10263.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "precio_antes": 2779.0,
+      "precio_hoy": 1889.0,
+      "diff_abs": -890.0,
+      "diff_pct": -32.03
     },
     {
-      "ean": "41331014922",
-      "nombre": "acaitunas goya x 149 gm con pimiento picante",
+      "ean": "7500810034330",
+      "nombre": "snack takis fuego x 140 gr.",
       "categoria": "Almacen",
-      "precio_antes": 8703.0,
-      "precio_hoy": 8703.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "precio_antes": 4453.0,
+      "precio_hoy": 3029.0,
+      "diff_abs": -1424.0,
+      "diff_pct": -31.98
     },
     {
-      "ean": "7790070265142",
-      "nombre": "aceite cocinero puro de oliva x 500 ml",
+      "ean": "7500810034347",
+      "nombre": "snack takis xplosion x 140 gr.",
       "categoria": "Almacen",
-      "precio_antes": 10921.0,
-      "precio_hoy": 10921.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "precio_antes": 4453.0,
+      "precio_hoy": 3029.0,
+      "diff_abs": -1424.0,
+      "diff_pct": -31.98
     },
     {
-      "ean": "7790070231598",
-      "nombre": "aceite cocinero x900 ml oliva y girasol",
+      "ean": "7500810041741",
+      "nombre": "snack takis x 140 gm intense",
       "categoria": "Almacen",
-      "precio_antes": 5927.0,
-      "precio_hoy": 5927.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "precio_antes": 4453.0,
+      "precio_hoy": 3029.0,
+      "diff_abs": -1424.0,
+      "diff_pct": -31.98
     },
     {
-      "ean": "7790272006819",
-      "nombre": "aceite copisi x 900 ml. girasol y oliva",
+      "ean": "7500810034354",
+      "nombre": "snack takis original x 140 gr.",
       "categoria": "Almacen",
-      "precio_antes": 5868.0,
-      "precio_hoy": 5868.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "precio_antes": 4453.0,
+      "precio_hoy": 3029.0,
+      "diff_abs": -1424.0,
+      "diff_pct": -31.98
     },
     {
-      "ean": "656750783931",
-      "nombre": "aceite de coco entrenuts neutro x 360 ml.",
-      "categoria": "Almacen",
-      "precio_antes": 8902.0,
-      "precio_hoy": 8902.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7797906054826",
+      "nombre": "papas fritas mc cain clasicas x 700 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 7592.0,
+      "precio_hoy": 5319.0,
+      "diff_abs": -2273.0,
+      "diff_pct": -29.94
     }
   ],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 5762
+  "productos_subieron_dia": 502,
+  "productos_bajaron_dia": 103,
+  "productos_sin_cambio_dia": 5141
 }

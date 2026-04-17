@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790310985830",
-    "nombre": "3ds queso x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3649.0,
-    "precio_hoy": 3649.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "6934097727622",
+    "nombre": "destornillador juego x 3 piezas hoteche",
+    "categoria": "Limpieza",
+    "precio_antes": 790.0,
+    "precio_hoy": 7729.0,
+    "diff_abs": 6939.0,
+    "diff_pct": 878.35
   },
   {
-    "ean": "7790310985137",
-    "nombre": "3ds queso x143gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5118.0,
-    "precio_hoy": 5118.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2019900000001",
+    "nombre": "ajies x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
   },
   {
-    "ean": "7790310985113",
-    "nombre": "3ds sabor queso x 43 gm",
-    "categoria": "Almacen",
-    "precio_antes": 2271.0,
-    "precio_hoy": 2271.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790670050674",
+    "nombre": "hamburguesas paty x 2 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 2969.0,
+    "precio_hoy": 4662.0,
+    "diff_abs": 1693.0,
+    "diff_pct": 57.02
   },
   {
-    "ean": "7798080520657",
-    "nombre": "ac.ol.l.toscana x250ml.ajo",
-    "categoria": "Almacen",
-    "precio_antes": 10263.0,
-    "precio_hoy": 10263.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790670050780",
+    "nombre": "hamburguesas paty clasico x 20 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 27279.0,
+    "precio_hoy": 41604.0,
+    "diff_abs": 14325.0,
+    "diff_pct": 52.51
   },
   {
-    "ean": "7798080520534",
-    "nombre": "ac.ol.l.toscana x250ml.albahac",
+    "ean": "7798106640017",
+    "nombre": "azucar la muneca x 1 kg.",
     "categoria": "Almacen",
-    "precio_antes": 10263.0,
-    "precio_hoy": 10263.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 938.0,
+    "precio_hoy": 1386.0,
+    "diff_abs": 448.0,
+    "diff_pct": 47.76
   },
   {
-    "ean": "41331014922",
-    "nombre": "acaitunas goya x 149 gm con pimiento picante",
-    "categoria": "Almacen",
-    "precio_antes": 8703.0,
-    "precio_hoy": 8703.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7797906054918",
+    "nombre": "papas mc cain noisette x 1.2 kg.",
+    "categoria": "Congelados",
+    "precio_antes": 13299.01,
+    "precio_hoy": 18999.0,
+    "diff_abs": 5699.99,
+    "diff_pct": 42.86
   },
   {
-    "ean": "7790070265142",
-    "nombre": "aceite cocinero puro de oliva x 500 ml",
-    "categoria": "Almacen",
-    "precio_antes": 10921.0,
-    "precio_hoy": 10921.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7797906000700",
+    "nombre": "papas mc cain tradicional x 400 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3349.0,
+    "precio_hoy": 4783.0,
+    "diff_abs": 1434.0,
+    "diff_pct": 42.82
   },
   {
-    "ean": "7790070231598",
-    "nombre": "aceite cocinero x900 ml oliva y girasol",
-    "categoria": "Almacen",
-    "precio_antes": 5927.0,
-    "precio_hoy": 5927.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790670050650",
+    "nombre": "hamburguesas paty x 4 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 6429.0,
+    "precio_hoy": 9141.0,
+    "diff_abs": 2712.0,
+    "diff_pct": 42.18
   },
   {
-    "ean": "7790272006819",
-    "nombre": "aceite copisi x 900 ml. girasol y oliva",
-    "categoria": "Almacen",
-    "precio_antes": 5868.0,
-    "precio_hoy": 5868.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790670050667",
+    "nombre": "hamburguesas paty x 12 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 18409.0,
+    "precio_hoy": 25519.0,
+    "diff_abs": 7110.0,
+    "diff_pct": 38.62
   },
   {
-    "ean": "656750783931",
-    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 8902.0,
-    "precio_hoy": 8902.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790670052371",
+    "nombre": "medallones de carne express x 4 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 4459.0,
+    "precio_hoy": 5951.0,
+    "diff_abs": 1492.0,
+    "diff_pct": 33.46
   },
   {
-    "ean": "763571722435",
-    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 16512.0,
-    "precio_hoy": 16512.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
   },
   {
-    "ean": "7794870000040",
-    "nombre": "aceite de girasol alsamar x 5 lts.",
-    "categoria": "Almacen",
-    "precio_antes": 18622.0,
-    "precio_hoy": 18622.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790670052869",
+    "nombre": "medallones de carne express x 2 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 1829.0,
+    "precio_hoy": 2440.0,
+    "diff_abs": 611.0,
+    "diff_pct": 33.41
   },
   {
-    "ean": "7798316700907",
-    "nombre": "aceite de girasol alsamar x 900 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 3381.0,
-    "precio_hoy": 3381.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790314080500",
+    "nombre": "vino resero x 700 ml tinto",
+    "categoria": "Bebidas",
+    "precio_antes": 2419.0,
+    "precio_hoy": 3117.0,
+    "diff_abs": 698.0,
+    "diff_pct": 28.85
   },
   {
-    "ean": "7790045823780",
-    "nombre": "aceite de girasol alto oleico granix x 750 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 5927.0,
-    "precio_hoy": 5927.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790670053064",
+    "nombre": "med.tres cruces x2unid.",
+    "categoria": "Congelados",
+    "precio_antes": 1409.0,
+    "precio_hoy": 1741.0,
+    "diff_abs": 332.0,
+    "diff_pct": 23.56
   },
   {
-    "ean": "7790060023684",
-    "nombre": "aceite de girasol cocinero x 1,5 lt.",
-    "categoria": "Almacen",
-    "precio_antes": 5912.0,
-    "precio_hoy": 5912.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790550026454",
+    "nombre": "cappuccino l.planta x115g.latt",
+    "categoria": "Perfumeria",
+    "precio_antes": 3619.0,
+    "precio_hoy": 4394.5,
+    "diff_abs": 775.5,
+    "diff_pct": 21.43
   },
   {
-    "ean": "7790070012050",
-    "nombre": "aceite de girasol cocinero x 900 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 3734.0,
-    "precio_hoy": 3734.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790550000065",
+    "nombre": "cappuccino l.planta x115gr.dp.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3619.0,
+    "precio_hoy": 4394.5,
+    "diff_abs": 775.5,
+    "diff_pct": 21.43
   },
   {
-    "ean": "7798316700815",
-    "nombre": "aceite de girasol legitimo x 1,5 lt.",
-    "categoria": "Almacen",
-    "precio_antes": 5553.0,
-    "precio_hoy": 5553.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790550026492",
+    "nombre": "cappuccino l.planta x110g.ligh",
+    "categoria": "Perfumeria",
+    "precio_antes": 3619.0,
+    "precio_hoy": 4394.46,
+    "diff_abs": 775.46,
+    "diff_pct": 21.43
   },
   {
-    "ean": "7798316700822",
-    "nombre": "aceite de girasol legitimo x 3 lt.",
-    "categoria": "Almacen",
-    "precio_antes": 11435.0,
-    "precio_hoy": 11435.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790550026553",
+    "nombre": "cappuccino la planta x 100 gm caramelo",
+    "categoria": "Perfumeria",
+    "precio_antes": 3619.0,
+    "precio_hoy": 4394.51,
+    "diff_abs": 775.51,
+    "diff_pct": 21.43
   },
   {
-    "ean": "7798316700839",
-    "nombre": "aceite de girasol legitimo x 5 lts.",
-    "categoria": "Almacen",
-    "precio_antes": 18622.0,
-    "precio_hoy": 18622.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790550026478",
+    "nombre": "cappuccino l.planta x115g.moka",
+    "categoria": "Perfumeria",
+    "precio_antes": 3619.0,
+    "precio_hoy": 4394.5,
+    "diff_abs": 775.5,
+    "diff_pct": 21.43
   },
   {
-    "ean": "7798316700808",
-    "nombre": "aceite de girasol legitimo x 900 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 3381.0,
-    "precio_hoy": 3381.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792710000106",
+    "nombre": "yerba mate amanda seleccion especial x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3299.0,
+    "precio_hoy": 3999.0,
+    "diff_abs": 700.0,
+    "diff_pct": 21.22
   }
 ]

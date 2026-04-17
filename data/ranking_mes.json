@@ -9,22 +9,13 @@
     "diff_pct": 155.79
   },
   {
-    "ean": "7797906054925",
-    "nombre": "papas noisette mc cain horneables x 600 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 4559.0,
-    "precio_hoy": 10000.0,
-    "diff_abs": 5441.0,
-    "diff_pct": 119.35
-  },
-  {
-    "ean": "2021840000003",
-    "nombre": "pimiento verde x kg.",
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 100.4
+    "precio_antes": 1990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 100.5
   },
   {
     "ean": "2020870000007",
@@ -43,6 +34,24 @@
     "precio_hoy": 5333.0,
     "diff_abs": 2664.0,
     "diff_pct": 99.81
+  },
+  {
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3808.99,
+    "precio_hoy": 7018.0,
+    "diff_abs": 3209.01,
+    "diff_pct": 84.25
+  },
+  {
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3808.99,
+    "precio_hoy": 7018.0,
+    "diff_abs": 3209.01,
+    "diff_pct": 84.25
   },
   {
     "ean": "2020270000003",
@@ -90,6 +99,15 @@
     "diff_pct": 67.7
   },
   {
+    "ean": "7791337007260",
+    "nombre": "leche chocolatada cindor x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1509.0,
+    "precio_hoy": 2524.0,
+    "diff_abs": 1015.0,
+    "diff_pct": 67.26
+  },
+  {
     "ean": "2021950000009",
     "nombre": "radicheta x paquete",
     "categoria": "Frutas Y Verduras",
@@ -106,6 +124,15 @@
     "precio_hoy": 2990.0,
     "diff_abs": 1200.0,
     "diff_pct": 67.04
+  },
+  {
+    "ean": "2019900000001",
+    "nombre": "ajies x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
   },
   {
     "ean": "2025600000005",
@@ -126,57 +153,30 @@
     "diff_pct": 64.58
   },
   {
-    "ean": "2021820000009",
-    "nombre": "pimiento rojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 60.12
+    "ean": "7891000248799",
+    "nombre": "chocolate kit kat x 41 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1343.0,
+    "precio_hoy": 2168.0,
+    "diff_abs": 825.0,
+    "diff_pct": 61.43
   },
   {
-    "ean": "2020920000001",
-    "nombre": "lechuga mantecosa x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 60.12
+    "ean": "7891000379028",
+    "nombre": "chocolate kit-kat white x 41,5 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1343.0,
+    "precio_hoy": 2168.0,
+    "diff_abs": 825.0,
+    "diff_pct": 61.43
   },
   {
-    "ean": "7793890261578",
-    "nombre": "brownie chips sabe bien! x 62 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 889.0,
-    "precio_hoy": 1423.0,
-    "diff_abs": 534.0,
-    "diff_pct": 60.07
-  },
-  {
-    "ean": "7793890261530",
-    "nombre": "braunichoc sabe bien! x 35 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 619.0,
-    "precio_hoy": 982.0,
-    "diff_abs": 363.0,
-    "diff_pct": 58.64
-  },
-  {
-    "ean": "7792798008858",
-    "nombre": "cerveza temple wolf ipa x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2859.0,
-    "precio_hoy": 4500.0,
-    "diff_abs": 1641.0,
-    "diff_pct": 57.4
-  },
-  {
-    "ean": "7790070035981",
-    "nombre": "milan.soja gr.sol x330gr.espin",
-    "categoria": "Congelados",
-    "precio_antes": 3119.0,
-    "precio_hoy": 4895.0,
-    "diff_abs": 1776.0,
-    "diff_pct": 56.94
+    "ean": "7891000422052",
+    "nombre": "chocolate kit kat triple chocolate x 41,5 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1343.0,
+    "precio_hoy": 2168.0,
+    "diff_abs": 825.0,
+    "diff_pct": 61.43
   }
 ]
