@@ -1,147 +1,147 @@
 {
-  "fecha": "20260417",
-  "total_productos": 5747,
-  "variacion_dia": 0.68,
-  "variacion_7d": 0.18,
-  "variacion_mes": 2.53,
+  "fecha": "20260418",
+  "total_productos": 5759,
+  "variacion_dia": -0.21,
+  "variacion_7d": 0.25,
+  "variacion_mes": 2.44,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.36,
-      "productos_subieron": 85,
-      "productos_bajaron": 48,
+      "variacion_pct_promedio": -0.4,
+      "productos_subieron": 49,
+      "productos_bajaron": 34,
       "total_productos": 1297
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.58,
-      "productos_subieron": 88,
-      "productos_bajaron": 22,
-      "total_productos": 1118
+      "variacion_pct_promedio": 0.13,
+      "productos_subieron": 107,
+      "productos_bajaron": 73,
+      "total_productos": 1115
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 2.5,
-      "productos_subieron": 44,
-      "productos_bajaron": 3,
+      "variacion_pct_promedio": -1.66,
+      "productos_subieron": 10,
+      "productos_bajaron": 37,
       "total_productos": 212
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 1.3,
-      "productos_subieron": 2,
+      "variacion_pct_promedio": 0.56,
+      "productos_subieron": 22,
       "productos_bajaron": 1,
-      "total_productos": 677
+      "total_productos": 673
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 1.13,
-      "productos_subieron": 123,
-      "productos_bajaron": 20,
-      "total_productos": 849
+      "variacion_pct_promedio": -0.58,
+      "productos_subieron": 5,
+      "productos_bajaron": 48,
+      "total_productos": 847
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.85,
-      "productos_subieron": 160,
-      "productos_bajaron": 9,
-      "total_productos": 1593
+      "variacion_pct_promedio": -0.25,
+      "productos_subieron": 19,
+      "productos_bajaron": 57,
+      "total_productos": 1588
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2022130000000",
-      "nombre": "tomate cherry x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -3000.0,
-      "diff_pct": -50.08
-    },
-    {
-      "ean": "2020370000002",
-      "nombre": "chaucha rolliza x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -33.39
-    },
-    {
-      "ean": "7500810034460",
-      "nombre": "snack takis xplosion x 85 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2779.0,
-      "precio_hoy": 1889.0,
-      "diff_abs": -890.0,
-      "diff_pct": -32.03
-    },
-    {
-      "ean": "7500810034477",
-      "nombre": "snack takis original x 85 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2779.0,
-      "precio_hoy": 1889.0,
-      "diff_abs": -890.0,
-      "diff_pct": -32.03
-    },
-    {
-      "ean": "7500810034361",
-      "nombre": "snack takis fuego x 85 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2779.0,
-      "precio_hoy": 1889.0,
-      "diff_abs": -890.0,
-      "diff_pct": -32.03
-    },
-    {
-      "ean": "7500810034330",
-      "nombre": "snack takis fuego x 140 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 4453.0,
-      "precio_hoy": 3029.0,
-      "diff_abs": -1424.0,
-      "diff_pct": -31.98
-    },
-    {
-      "ean": "7500810034347",
-      "nombre": "snack takis xplosion x 140 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 4453.0,
-      "precio_hoy": 3029.0,
-      "diff_abs": -1424.0,
-      "diff_pct": -31.98
-    },
-    {
-      "ean": "7500810041741",
-      "nombre": "snack takis x 140 gm intense",
-      "categoria": "Almacen",
-      "precio_antes": 4453.0,
-      "precio_hoy": 3029.0,
-      "diff_abs": -1424.0,
-      "diff_pct": -31.98
-    },
-    {
-      "ean": "7500810034354",
-      "nombre": "snack takis original x 140 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 4453.0,
-      "precio_hoy": 3029.0,
-      "diff_abs": -1424.0,
-      "diff_pct": -31.98
-    },
-    {
-      "ean": "7797906054826",
-      "nombre": "papas fritas mc cain clasicas x 700 gr.",
+      "ean": "7790670050780",
+      "nombre": "hamburguesas paty clasico x 20 unid.",
       "categoria": "Congelados",
-      "precio_antes": 7592.0,
-      "precio_hoy": 5319.0,
-      "diff_abs": -2273.0,
-      "diff_pct": -29.94
+      "precio_antes": 41604.0,
+      "precio_hoy": 26339.0,
+      "diff_abs": -15265.0,
+      "diff_pct": -36.69
+    },
+    {
+      "ean": "7790670050674",
+      "nombre": "hamburguesas paty x 2 unid. clasicas",
+      "categoria": "Congelados",
+      "precio_antes": 4662.0,
+      "precio_hoy": 3059.0,
+      "diff_abs": -1603.0,
+      "diff_pct": -34.38
+    },
+    {
+      "ean": "7791728245066",
+      "nombre": "vino santa julia x 3 litros box uco",
+      "categoria": "Bebidas",
+      "precio_antes": 30701.0,
+      "precio_hoy": 20868.99,
+      "diff_abs": -9832.01,
+      "diff_pct": -32.03
+    },
+    {
+      "ean": "7791728247770",
+      "nombre": "vino tinto santa julia pinot noir x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 6059.0,
+      "precio_hoy": 4119.0,
+      "diff_abs": -1940.0,
+      "diff_pct": -32.02
+    },
+    {
+      "ean": "7791728000153",
+      "nombre": "vino santa julia x 750 ml. torrontes",
+      "categoria": "Bebidas",
+      "precio_antes": 6059.0,
+      "precio_hoy": 4119.0,
+      "diff_abs": -1940.0,
+      "diff_pct": -32.02
+    },
+    {
+      "ean": "7791728247800",
+      "nombre": "vino fino blanco santa julia chardonnay x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 6059.0,
+      "precio_hoy": 4119.0,
+      "diff_abs": -1940.0,
+      "diff_pct": -32.02
+    },
+    {
+      "ean": "7791728244052",
+      "nombre": "vino santa julia x750ml.viogni",
+      "categoria": "Bebidas",
+      "precio_antes": 6059.0,
+      "precio_hoy": 4119.0,
+      "diff_abs": -1940.0,
+      "diff_pct": -32.02
+    },
+    {
+      "ean": "7791728247763",
+      "nombre": "vino tinto santa julia merlot x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 6059.0,
+      "precio_hoy": 4119.0,
+      "diff_abs": -1940.0,
+      "diff_pct": -32.02
+    },
+    {
+      "ean": "7791728244496",
+      "nombre": "vino santa julia x750ml.cab.fr",
+      "categoria": "Bebidas",
+      "precio_antes": 6059.0,
+      "precio_hoy": 4119.0,
+      "diff_abs": -1940.0,
+      "diff_pct": -32.02
+    },
+    {
+      "ean": "7791728247091",
+      "nombre": "vino blanco santa julia x 750 ml. chardonnay dulce",
+      "categoria": "Bebidas",
+      "precio_antes": 7133.0,
+      "precio_hoy": 4849.0,
+      "diff_abs": -2284.0,
+      "diff_pct": -32.02
     }
   ],
-  "productos_subieron_dia": 502,
-  "productos_bajaron_dia": 103,
-  "productos_sin_cambio_dia": 5141
+  "productos_subieron_dia": 212,
+  "productos_bajaron_dia": 250,
+  "productos_sin_cambio_dia": 5270
 }

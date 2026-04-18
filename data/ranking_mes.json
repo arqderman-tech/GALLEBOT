@@ -9,6 +9,15 @@
     "diff_pct": 155.79
   },
   {
+    "ean": "2019950000006",
+    "nombre": "akusay x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 100.5
+  },
+  {
     "ean": "2021660000009",
     "nombre": "zapallito redondo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -61,15 +70,6 @@
     "precio_hoy": 1790.0,
     "diff_abs": 800.0,
     "diff_pct": 80.81
-  },
-  {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 75.19
   },
   {
     "ean": "7790387011852",
@@ -126,6 +126,15 @@
     "diff_pct": 67.04
   },
   {
+    "ean": "2021840000003",
+    "nombre": "pimiento verde x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
+  },
+  {
     "ean": "2019900000001",
     "nombre": "ajies x kg.",
     "categoria": "Frutas Y Verduras",
@@ -153,26 +162,17 @@
     "diff_pct": 64.58
   },
   {
+    "ean": "8445291904392",
+    "nombre": "combo nescafe dolca x 170 gr. + coffee mate x 170.",
+    "categoria": "Perfumeria",
+    "precio_antes": 10046.0,
+    "precio_hoy": 16525.0,
+    "diff_abs": 6479.0,
+    "diff_pct": 64.49
+  },
+  {
     "ean": "7891000248799",
     "nombre": "chocolate kit kat x 41 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1343.0,
-    "precio_hoy": 2168.0,
-    "diff_abs": 825.0,
-    "diff_pct": 61.43
-  },
-  {
-    "ean": "7891000379028",
-    "nombre": "chocolate kit-kat white x 41,5 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1343.0,
-    "precio_hoy": 2168.0,
-    "diff_abs": 825.0,
-    "diff_pct": 61.43
-  },
-  {
-    "ean": "7891000422052",
-    "nombre": "chocolate kit kat triple chocolate x 41,5 gr.",
     "categoria": "Almacen",
     "precio_antes": 1343.0,
     "precio_hoy": 2168.0,

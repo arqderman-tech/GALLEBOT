@@ -1,14 +1,5 @@
 [
   {
-    "ean": "2021950000009",
-    "nombre": "radicheta x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1190.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 800.0,
-    "diff_pct": 67.23
-  },
-  {
     "ean": "2019900000001",
     "nombre": "ajies x kg.",
     "categoria": "Frutas Y Verduras",
@@ -27,102 +18,21 @@
     "diff_pct": 64.49
   },
   {
-    "ean": "7790670050674",
-    "nombre": "hamburguesas paty x 2 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 2969.0,
-    "precio_hoy": 4662.0,
-    "diff_abs": 1693.0,
-    "diff_pct": 57.02
-  },
-  {
-    "ean": "7797906054918",
-    "nombre": "papas mc cain noisette x 1.2 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 12329.01,
-    "precio_hoy": 18999.0,
-    "diff_abs": 6669.99,
-    "diff_pct": 54.1
-  },
-  {
-    "ean": "7797906054864",
-    "nombre": "papas mc cain horneables tradicional x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 6269.0,
-    "precio_hoy": 9651.0,
-    "diff_abs": 3382.0,
-    "diff_pct": 53.95
-  },
-  {
-    "ean": "7797906000700",
-    "nombre": "papas mc cain tradicional x 400 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 3109.0,
-    "precio_hoy": 4783.0,
-    "diff_abs": 1674.0,
-    "diff_pct": 53.84
-  },
-  {
-    "ean": "7790070431448",
-    "nombre": "arroz gallo largo fino x1kg.bolsa",
+    "ean": "8445291996731",
+    "nombre": "avellanas con chocolate con leche nestle x 80 gm",
     "categoria": "Almacen",
-    "precio_antes": 2460.0,
-    "precio_hoy": 3755.0,
-    "diff_abs": 1295.0,
-    "diff_pct": 52.64
+    "precio_antes": 4680.0,
+    "precio_hoy": 7200.0,
+    "diff_abs": 2520.0,
+    "diff_pct": 53.85
   },
   {
-    "ean": "7790670050780",
-    "nombre": "hamburguesas paty clasico x 20 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 27279.0,
-    "precio_hoy": 41604.0,
-    "diff_abs": 14325.0,
-    "diff_pct": 52.51
-  },
-  {
-    "ean": "7790150533154",
-    "nombre": "mis alicante parrillero vegetales x 25 gm",
-    "categoria": "Almacen",
-    "precio_antes": 1019.0,
-    "precio_hoy": 1531.0,
-    "diff_abs": 512.0,
-    "diff_pct": 50.25
-  },
-  {
-    "ean": "7790150533208",
-    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
-    "categoria": "Almacen",
-    "precio_antes": 1019.0,
-    "precio_hoy": 1531.0,
-    "diff_abs": 512.0,
-    "diff_pct": 50.25
-  },
-  {
-    "ean": "7790150533307",
-    "nombre": "mix alicante parrillero barbacoa x 25 gm",
-    "categoria": "Almacen",
-    "precio_antes": 1019.0,
-    "precio_hoy": 1531.0,
-    "diff_abs": 512.0,
-    "diff_pct": 50.25
-  },
-  {
-    "ean": "7790150533109",
-    "nombre": "mix alicante parrillero x 25 gm chimichurri ahumado",
-    "categoria": "Almacen",
-    "precio_antes": 1019.0,
-    "precio_hoy": 1531.0,
-    "diff_abs": 512.0,
-    "diff_pct": 50.25
-  },
-  {
-    "ean": "7790150533000",
-    "nombre": "mix alicante parrilla x 25 gr hamburguesas",
-    "categoria": "Almacen",
-    "precio_antes": 1019.0,
-    "precio_hoy": 1531.0,
-    "diff_abs": 512.0,
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
     "diff_pct": 50.25
   },
   {
@@ -135,48 +45,138 @@
     "diff_pct": 47.76
   },
   {
-    "ean": "7790360982025",
-    "nombre": "crunchies de pollo swift x 760 gm",
+    "ean": "7791203001231",
+    "nombre": "vino luigi bosca x 750 ml malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 9999.0,
+    "precio_hoy": 14774.0,
+    "diff_abs": 4775.0,
+    "diff_pct": 47.75
+  },
+  {
+    "ean": "7898024396529",
+    "nombre": "nutella x 650 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 11239.0,
+    "precio_hoy": 16526.0,
+    "diff_abs": 5287.0,
+    "diff_pct": 47.04
+  },
+  {
+    "ean": "7898024394181",
+    "nombre": "pasta de avellanas y chocolate nutella x 350 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 7109.0,
+    "precio_hoy": 10452.0,
+    "diff_abs": 3343.0,
+    "diff_pct": 47.02
+  },
+  {
+    "ean": "7797906054918",
+    "nombre": "papas mc cain noisette x 1.2 kg.",
     "categoria": "Congelados",
-    "precio_antes": 8759.0,
-    "precio_hoy": 12769.0,
-    "diff_abs": 4010.0,
-    "diff_pct": 45.78
+    "precio_antes": 13299.01,
+    "precio_hoy": 18999.0,
+    "diff_abs": 5699.99,
+    "diff_pct": 42.86
   },
   {
-    "ean": "7790670050650",
-    "nombre": "hamburguesas paty x 4 unid. clasicas",
+    "ean": "7797906000700",
+    "nombre": "papas mc cain tradicional x 400 gr.",
     "categoria": "Congelados",
-    "precio_antes": 6429.0,
-    "precio_hoy": 9141.0,
-    "diff_abs": 2712.0,
-    "diff_pct": 42.18
+    "precio_antes": 3349.0,
+    "precio_hoy": 4783.0,
+    "diff_abs": 1434.0,
+    "diff_pct": 42.82
   },
   {
-    "ean": "7790070431486",
-    "nombre": "arroz lucchetti x1kg.l.fino",
-    "categoria": "Almacen",
-    "precio_antes": 2207.0,
-    "precio_hoy": 3113.0,
-    "diff_abs": 906.0,
-    "diff_pct": 41.05
+    "ean": "7798118414194",
+    "nombre": "jarro guinda",
+    "categoria": "Limpieza",
+    "precio_antes": 2250.0,
+    "precio_hoy": 3075.0,
+    "diff_abs": 825.0,
+    "diff_pct": 36.67
   },
   {
-    "ean": "7790070431493",
-    "nombre": "arroz lucchetti x500gr.l.fino",
-    "categoria": "Almacen",
-    "precio_antes": 1181.0,
-    "precio_hoy": 1646.0,
-    "diff_abs": 465.0,
-    "diff_pct": 39.37
-  },
-  {
-    "ean": "7790670050667",
-    "nombre": "hamburguesas paty x 12 unid. clasicas",
+    "ean": "7790079025655",
+    "nombre": "pizzeta paladini x 190 gm mozarella",
     "categoria": "Congelados",
-    "precio_antes": 18409.0,
-    "precio_hoy": 25519.0,
-    "diff_abs": 7110.0,
-    "diff_pct": 38.62
+    "precio_antes": 4051.0,
+    "precio_hoy": 5474.0,
+    "diff_abs": 1423.0,
+    "diff_pct": 35.13
+  },
+  {
+    "ean": "7790079025648",
+    "nombre": "pizzeta paladini x 205 gm mozarella y jamon",
+    "categoria": "Congelados",
+    "precio_antes": 4257.0,
+    "precio_hoy": 5752.0,
+    "diff_abs": 1495.0,
+    "diff_pct": 35.12
+  },
+  {
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
+  },
+  {
+    "ean": "2020100000005",
+    "nombre": "berenjena morada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
+  },
+  {
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
+  },
+  {
+    "ean": "7798118411919",
+    "nombre": "vaso soda",
+    "categoria": "Limpieza",
+    "precio_antes": 790.0,
+    "precio_hoy": 1006.0,
+    "diff_abs": 216.0,
+    "diff_pct": 27.34
+  },
+  {
+    "ean": "2011370000000",
+    "nombre": "queso cremoso canut x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 11699.0,
+    "precio_hoy": 14873.0,
+    "diff_abs": 3174.0,
+    "diff_pct": 27.13
+  },
+  {
+    "ean": "7798118410134",
+    "nombre": "plato fenix",
+    "categoria": "Limpieza",
+    "precio_antes": 833.0,
+    "precio_hoy": 1058.0,
+    "diff_abs": 225.0,
+    "diff_pct": 27.01
+  },
+  {
+    "ean": "7790079022111",
+    "nombre": "tapas para empanadas paladini x 12 unid. para feir",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1735.0,
+    "precio_hoy": 2197.0,
+    "diff_abs": 462.0,
+    "diff_pct": 26.63
   }
 ]
