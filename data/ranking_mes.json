@@ -63,13 +63,13 @@
     "diff_pct": 84.25
   },
   {
-    "ean": "2020270000003",
-    "nombre": "cebolla x kg.",
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 1790.0,
-    "diff_abs": 800.0,
-    "diff_pct": 80.81
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
   },
   {
     "ean": "7790387011852",
@@ -81,8 +81,8 @@
     "diff_pct": 71.42
   },
   {
-    "ean": "7791337010512",
-    "nombre": "yogur la serenisima clasico entero sachet x 1.3 litros fruti",
+    "ean": "7791337010505",
+    "nombre": "yogur la seren. clasico entero sachet x 1.3 kilos sabor vain",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3409.0,
     "precio_hoy": 5717.0,
@@ -90,8 +90,8 @@
     "diff_pct": 67.7
   },
   {
-    "ean": "7791337010505",
-    "nombre": "yogur la seren. clasico entero sachet x 1.3 kilos sabor vain",
+    "ean": "7791337010512",
+    "nombre": "yogur la serenisima clasico entero sachet x 1.3 litros fruti",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3409.0,
     "precio_hoy": 5717.0,
@@ -117,13 +117,13 @@
     "diff_pct": 67.23
   },
   {
-    "ean": "2020730000000",
-    "nombre": "espinaca atado",
+    "ean": "2019900000001",
+    "nombre": "ajies x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1790.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1200.0,
-    "diff_pct": 67.04
+    "precio_antes": 2990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
   },
   {
     "ean": "2021840000003",
@@ -135,17 +135,8 @@
     "diff_pct": 66.89
   },
   {
-    "ean": "2019900000001",
-    "nombre": "ajies x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
-  },
-  {
-    "ean": "2025600000005",
-    "nombre": "puchero de aguja ternera x kg.",
+    "ean": "2025590000009",
+    "nombre": "puchero caracu ternera x kg.",
     "categoria": "Carniceria",
     "precio_antes": 4800.0,
     "precio_hoy": 7900.0,
@@ -153,8 +144,8 @@
     "diff_pct": 64.58
   },
   {
-    "ean": "2025590000009",
-    "nombre": "puchero caracu ternera x kg.",
+    "ean": "2025600000005",
+    "nombre": "puchero de aguja ternera x kg.",
     "categoria": "Carniceria",
     "precio_antes": 4800.0,
     "precio_hoy": 7900.0,
@@ -169,6 +160,15 @@
     "precio_hoy": 16525.0,
     "diff_abs": 6479.0,
     "diff_pct": 64.49
+  },
+  {
+    "ean": "7891000379028",
+    "nombre": "chocolate kit-kat white x 41,5 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1343.0,
+    "precio_hoy": 2168.0,
+    "diff_abs": 825.0,
+    "diff_pct": 61.43
   },
   {
     "ean": "7891000248799",

@@ -1,147 +1,147 @@
 {
-  "fecha": "20260418",
-  "total_productos": 5759,
-  "variacion_dia": -0.21,
-  "variacion_7d": 0.25,
-  "variacion_mes": 2.44,
+  "fecha": "20260419",
+  "total_productos": 5825,
+  "variacion_dia": 0.17,
+  "variacion_7d": 0.38,
+  "variacion_mes": 2.68,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.4,
-      "productos_subieron": 49,
-      "productos_bajaron": 34,
-      "total_productos": 1297
+      "variacion_pct_promedio": 0.74,
+      "productos_subieron": 35,
+      "productos_bajaron": 0,
+      "total_productos": 1303
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.13,
-      "productos_subieron": 107,
-      "productos_bajaron": 73,
-      "total_productos": 1115
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1118
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -1.66,
-      "productos_subieron": 10,
-      "productos_bajaron": 37,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
       "total_productos": 212
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.56,
-      "productos_subieron": 22,
-      "productos_bajaron": 1,
-      "total_productos": 673
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 676
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.58,
-      "productos_subieron": 5,
-      "productos_bajaron": 48,
-      "total_productos": 847
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 851
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.25,
-      "productos_subieron": 19,
-      "productos_bajaron": 57,
-      "total_productos": 1588
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1597
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790670050780",
-      "nombre": "hamburguesas paty clasico x 20 unid.",
-      "categoria": "Congelados",
-      "precio_antes": 41604.0,
-      "precio_hoy": 26339.0,
-      "diff_abs": -15265.0,
-      "diff_pct": -36.69
+      "ean": "7790070621849",
+      "nombre": "ravioles la saltena x 450 gr. ricotta",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790670050674",
-      "nombre": "hamburguesas paty x 2 unid. clasicas",
-      "categoria": "Congelados",
-      "precio_antes": 4662.0,
-      "precio_hoy": 3059.0,
-      "diff_abs": -1603.0,
-      "diff_pct": -34.38
+      "ean": "7790742102805",
+      "nombre": "ricotta entera garcia x 500 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4443.0,
+      "precio_hoy": 4443.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791728245066",
-      "nombre": "vino santa julia x 3 litros box uco",
-      "categoria": "Bebidas",
-      "precio_antes": 30701.0,
-      "precio_hoy": 20868.99,
-      "diff_abs": -9832.01,
-      "diff_pct": -32.03
+      "ean": "2011060000006",
+      "nombre": "ricota rosalat x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5708.0,
+      "precio_hoy": 5708.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791728247770",
-      "nombre": "vino tinto santa julia pinot noir x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 6059.0,
-      "precio_hoy": 4119.0,
-      "diff_abs": -1940.0,
-      "diff_pct": -32.02
+      "ean": "2011070000003",
+      "nombre": "ricota rosalat envasada x 500 gr aprox",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5979.0,
+      "precio_hoy": 5979.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791728000153",
-      "nombre": "vino santa julia x 750 ml. torrontes",
-      "categoria": "Bebidas",
-      "precio_antes": 6059.0,
-      "precio_hoy": 4119.0,
-      "diff_abs": -1940.0,
-      "diff_pct": -32.02
+      "ean": "2011230000003",
+      "nombre": "ricota magra el destino x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 8328.0,
+      "precio_hoy": 8328.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791728247800",
-      "nombre": "vino fino blanco santa julia chardonnay x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 6059.0,
-      "precio_hoy": 4119.0,
-      "diff_abs": -1940.0,
-      "diff_pct": -32.02
+      "ean": "2011220000006",
+      "nombre": "ricota entera prinlac x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 8067.0,
+      "precio_hoy": 8067.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791728244052",
-      "nombre": "vino santa julia x750ml.viogni",
-      "categoria": "Bebidas",
-      "precio_antes": 6059.0,
-      "precio_hoy": 4119.0,
-      "diff_abs": -1940.0,
-      "diff_pct": -32.02
+      "ean": "2011210000009",
+      "nombre": "ricota entera el destino x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 8073.0,
+      "precio_hoy": 8073.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791728247763",
-      "nombre": "vino tinto santa julia merlot x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 6059.0,
-      "precio_hoy": 4119.0,
-      "diff_abs": -1940.0,
-      "diff_pct": -32.02
+      "ean": "7790079025303",
+      "nombre": "ravioles paladini x 500 gr. jamon y mozarella",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4510.0,
+      "precio_hoy": 4510.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791728244496",
-      "nombre": "vino santa julia x750ml.cab.fr",
-      "categoria": "Bebidas",
-      "precio_antes": 6059.0,
-      "precio_hoy": 4119.0,
-      "diff_abs": -1940.0,
-      "diff_pct": -32.02
+      "ean": "7790079025297",
+      "nombre": "ravioles paladini x 500 gr. carne y verdura",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4510.0,
+      "precio_hoy": 4510.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791728247091",
-      "nombre": "vino blanco santa julia x 750 ml. chardonnay dulce",
-      "categoria": "Bebidas",
-      "precio_antes": 7133.0,
-      "precio_hoy": 4849.0,
-      "diff_abs": -2284.0,
-      "diff_pct": -32.02
+      "ean": "7790079025266",
+      "nombre": "ravioles paladini x 500 gm espinacaricota y queso",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4510.0,
+      "precio_hoy": 4510.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 212,
-  "productos_bajaron_dia": 250,
-  "productos_sin_cambio_dia": 5270
+  "productos_subieron_dia": 35,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 5722
 }

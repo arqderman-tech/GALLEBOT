@@ -1,182 +1,182 @@
 [
   {
-    "ean": "8445291996731",
-    "nombre": "avellanas con chocolate con leche nestle x 80 gm",
-    "categoria": "Almacen",
-    "precio_antes": 3199.0,
-    "precio_hoy": 7200.0,
-    "diff_abs": 4001.0,
-    "diff_pct": 125.07
-  },
-  {
-    "ean": "2022060000002",
-    "nombre": "repollo colorado x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 50.25
-  },
-  {
-    "ean": "7791203001231",
-    "nombre": "vino luigi bosca x 750 ml malbec",
+    "ean": "7790895003295",
+    "nombre": "agua saborizada aquarius cepita pera x 2.25 lt.",
     "categoria": "Bebidas",
-    "precio_antes": 9999.0,
-    "precio_hoy": 14774.0,
-    "diff_abs": 4775.0,
-    "diff_pct": 47.75
+    "precio_antes": 3036.48,
+    "precio_hoy": 4050.0,
+    "diff_abs": 1013.52,
+    "diff_pct": 33.38
   },
   {
-    "ean": "7798118414194",
-    "nombre": "jarro guinda",
-    "categoria": "Limpieza",
-    "precio_antes": 2250.0,
-    "precio_hoy": 3075.0,
-    "diff_abs": 825.0,
-    "diff_pct": 36.67
-  },
-  {
-    "ean": "7790079025655",
-    "nombre": "pizzeta paladini x 190 gm mozarella",
-    "categoria": "Congelados",
-    "precio_antes": 4051.0,
-    "precio_hoy": 5474.0,
-    "diff_abs": 1423.0,
-    "diff_pct": 35.13
-  },
-  {
-    "ean": "7790079025648",
-    "nombre": "pizzeta paladini x 205 gm mozarella y jamon",
-    "categoria": "Congelados",
-    "precio_antes": 4257.0,
-    "precio_hoy": 5752.0,
-    "diff_abs": 1495.0,
-    "diff_pct": 35.12
-  },
-  {
-    "ean": "2019950000006",
-    "nombre": "akusay x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
-    "ean": "7798118411919",
-    "nombre": "vaso soda",
-    "categoria": "Limpieza",
-    "precio_antes": 790.0,
-    "precio_hoy": 1006.0,
-    "diff_abs": 216.0,
-    "diff_pct": 27.34
-  },
-  {
-    "ean": "7798118410134",
-    "nombre": "plato fenix",
-    "categoria": "Limpieza",
-    "precio_antes": 833.0,
-    "precio_hoy": 1058.0,
-    "diff_abs": 225.0,
-    "diff_pct": 27.01
-  },
-  {
-    "ean": "7790079022111",
-    "nombre": "tapas para empanadas paladini x 12 unid. para feir",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1735.0,
-    "precio_hoy": 2197.0,
-    "diff_abs": 462.0,
-    "diff_pct": 26.63
-  },
-  {
-    "ean": "2015490000001",
-    "nombre": "queso port salut paladini x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 16012.0,
-    "precio_hoy": 20269.0,
-    "diff_abs": 4257.0,
-    "diff_pct": 26.59
-  },
-  {
-    "ean": "2015420000002",
-    "nombre": "queso cremoso paladini x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 14451.0,
-    "precio_hoy": 18293.0,
-    "diff_abs": 3842.0,
-    "diff_pct": 26.59
-  },
-  {
-    "ean": "7790079021374",
-    "nombre": "pascualina paladini x 400 gr. hojaldre",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2204.0,
-    "precio_hoy": 2790.0,
-    "diff_abs": 586.0,
-    "diff_pct": 26.59
-  },
-  {
-    "ean": "7790079022135",
-    "nombre": "pascualina paladini x 400 gr. tipo criolla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2204.0,
-    "precio_hoy": 2790.0,
-    "diff_abs": 586.0,
-    "diff_pct": 26.59
-  },
-  {
-    "ean": "2015340000007",
-    "nombre": "queso pategras paladini x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 26156.0,
-    "precio_hoy": 33109.0,
-    "diff_abs": 6953.0,
-    "diff_pct": 26.58
-  },
-  {
-    "ean": "2015440000006",
-    "nombre": "queso danbo paladini x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 18444.0,
-    "precio_hoy": 23346.0,
-    "diff_abs": 4902.0,
-    "diff_pct": 26.58
-  },
-  {
-    "ean": "7790079022128",
-    "nombre": "tapas de empanadas tipo criolla paladini x 12 unid",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1735.0,
-    "precio_hoy": 2196.0,
-    "diff_abs": 461.0,
-    "diff_pct": 26.57
-  },
-  {
-    "ean": "7790079022104",
-    "nombre": "tapas para empanadas paladini x 12 unid. hojaldre",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1735.0,
-    "precio_hoy": 2196.0,
-    "diff_abs": 461.0,
-    "diff_pct": 26.57
-  },
-  {
-    "ean": "2022040000008",
-    "nombre": "repollo blanco x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
-  },
-  {
-    "ean": "7790895000430",
-    "nombre": "gaseosa coca cola x 1.5 lt.",
+    "ean": "7790895003318",
+    "nombre": "agua saborizada aquarius cepita uva x 2.25 lt.",
     "categoria": "Bebidas",
-    "precio_antes": 2875.06,
-    "precio_hoy": 3590.0,
-    "diff_abs": 714.94,
-    "diff_pct": 24.87
+    "precio_antes": 3036.48,
+    "precio_hoy": 4050.0,
+    "diff_abs": 1013.52,
+    "diff_pct": 33.38
+  },
+  {
+    "ean": "7790895010095",
+    "nombre": "gaseosa schweppes pomelo zero x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3912.27,
+    "precio_hoy": 5213.0,
+    "diff_abs": 1300.73,
+    "diff_pct": 33.25
+  },
+  {
+    "ean": "7790895007392",
+    "nombre": "gaseosa crush pomelo x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1996.55,
+    "precio_hoy": 2660.0,
+    "diff_abs": 663.45,
+    "diff_pct": 33.23
+  },
+  {
+    "ean": "7790895006951",
+    "nombre": "gaseosa crush naranja x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1996.55,
+    "precio_hoy": 2660.0,
+    "diff_abs": 663.45,
+    "diff_pct": 33.23
+  },
+  {
+    "ean": "7790895007385",
+    "nombre": "gaseosa crush lima limon x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1996.55,
+    "precio_hoy": 2660.0,
+    "diff_abs": 663.45,
+    "diff_pct": 33.23
+  },
+  {
+    "ean": "7790895064166",
+    "nombre": "gaseosa sprite zero x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3641.67,
+    "precio_hoy": 4850.0,
+    "diff_abs": 1208.33,
+    "diff_pct": 33.18
+  },
+  {
+    "ean": "7790895001031",
+    "nombre": "gaseosa fanta limon x 2.25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3641.67,
+    "precio_hoy": 4850.0,
+    "diff_abs": 1208.33,
+    "diff_pct": 33.18
+  },
+  {
+    "ean": "7790895068096",
+    "nombre": "gaseosa coca cola x 2,50 lt. sin azucar",
+    "categoria": "Bebidas",
+    "precio_antes": 4049.19,
+    "precio_hoy": 5389.0,
+    "diff_abs": 1339.81,
+    "diff_pct": 33.09
+  },
+  {
+    "ean": "7790895643842",
+    "nombre": "alimento de soja ades naranja x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2459.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 810.0,
+    "diff_pct": 32.94
+  },
+  {
+    "ean": "7790895643835",
+    "nombre": "alimento de soja ades manzana x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2459.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 810.0,
+    "diff_pct": 32.94
+  },
+  {
+    "ean": "7790895643866",
+    "nombre": "alimento de soja ades frutas tropicales x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2459.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 810.0,
+    "diff_pct": 32.94
+  },
+  {
+    "ean": "7790895643828",
+    "nombre": "alimento de soja ades durazno x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2459.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 810.0,
+    "diff_pct": 32.94
+  },
+  {
+    "ean": "7790895643804",
+    "nombre": "ades x1lt.anana",
+    "categoria": "Bebidas",
+    "precio_antes": 2459.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 810.0,
+    "diff_pct": 32.94
+  },
+  {
+    "ean": "7790895003301",
+    "nombre": "agua saborizada aquarius cepita manzana x 2.25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3046.7,
+    "precio_hoy": 4050.0,
+    "diff_abs": 1003.3,
+    "diff_pct": 32.93
+  },
+  {
+    "ean": "7790895003325",
+    "nombre": "agua saborizada aquarius cepita naranja x 2.25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3046.7,
+    "precio_hoy": 4050.0,
+    "diff_abs": 1003.3,
+    "diff_pct": 32.93
+  },
+  {
+    "ean": "7790895641183",
+    "nombre": "powerade frutas topicales x 500 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1574.32,
+    "precio_hoy": 2090.0,
+    "diff_abs": 515.68,
+    "diff_pct": 32.76
+  },
+  {
+    "ean": "7790895640018",
+    "nombre": "powerade manzana x 500 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1574.32,
+    "precio_hoy": 2090.0,
+    "diff_abs": 515.68,
+    "diff_pct": 32.76
+  },
+  {
+    "ean": "7790895640032",
+    "nombre": "powerade naranja x 500 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1574.32,
+    "precio_hoy": 2090.0,
+    "diff_abs": 515.68,
+    "diff_pct": 32.76
+  },
+  {
+    "ean": "7790895640025",
+    "nombre": "powerade x 500 ml mountain blast",
+    "categoria": "Bebidas",
+    "precio_antes": 1574.32,
+    "precio_hoy": 2090.0,
+    "diff_abs": 515.68,
+    "diff_pct": 32.76
   }
 ]
