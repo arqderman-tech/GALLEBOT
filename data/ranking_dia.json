@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790895003295",
-    "nombre": "agua saborizada aquarius cepita pera x 2.25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 3036.48,
-    "precio_hoy": 4050.0,
-    "diff_abs": 1013.52,
-    "diff_pct": 33.38
+    "ean": "2016350000001",
+    "nombre": "dulce de membrillo en caja dulcor x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3189.0,
+    "precio_hoy": 5598.0,
+    "diff_abs": 2409.0,
+    "diff_pct": 75.54
   },
   {
-    "ean": "7790895003318",
-    "nombre": "agua saborizada aquarius cepita uva x 2.25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 3036.48,
-    "precio_hoy": 4050.0,
-    "diff_abs": 1013.52,
-    "diff_pct": 33.38
+    "ean": "2016360000008",
+    "nombre": "dulce de membrillo dulcor lata x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4319.0,
+    "precio_hoy": 7458.0,
+    "diff_abs": 3139.0,
+    "diff_pct": 72.68
   },
   {
-    "ean": "7790895010095",
-    "nombre": "gaseosa schweppes pomelo zero x 2,25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 3912.27,
-    "precio_hoy": 5213.0,
-    "diff_abs": 1300.73,
-    "diff_pct": 33.25
+    "ean": "7793126002012",
+    "nombre": "mermelada patagonia tradicional x 320 gm frutilla",
+    "categoria": "Perfumeria",
+    "precio_antes": 5687.57,
+    "precio_hoy": 9554.0,
+    "diff_abs": 3866.43,
+    "diff_pct": 67.98
   },
   {
-    "ean": "7790895007392",
-    "nombre": "gaseosa crush pomelo x 2,25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1996.55,
-    "precio_hoy": 2660.0,
-    "diff_abs": 663.45,
-    "diff_pct": 33.23
+    "ean": "7898024397861",
+    "nombre": "bombones ferrero rocher x 50 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3469.0,
+    "precio_hoy": 5697.0,
+    "diff_abs": 2228.0,
+    "diff_pct": 64.23
   },
   {
-    "ean": "7790895006951",
-    "nombre": "gaseosa crush naranja x 2,25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1996.55,
-    "precio_hoy": 2660.0,
-    "diff_abs": 663.45,
-    "diff_pct": 33.23
+    "ean": "80052487",
+    "nombre": "bombon raffaello x 3 unidades",
+    "categoria": "Almacen",
+    "precio_antes": 1859.0,
+    "precio_hoy": 3049.0,
+    "diff_abs": 1190.0,
+    "diff_pct": 64.01
   },
   {
-    "ean": "7790895007385",
-    "nombre": "gaseosa crush lima limon x 2,25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1996.55,
-    "precio_hoy": 2660.0,
-    "diff_abs": 663.45,
-    "diff_pct": 33.23
+    "ean": "78600027",
+    "nombre": "pastillas tic tac naranja x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 679.0,
+    "precio_hoy": 1101.0,
+    "diff_abs": 422.0,
+    "diff_pct": 62.15
   },
   {
-    "ean": "7790895064166",
-    "nombre": "gaseosa sprite zero x 2,25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 3641.67,
-    "precio_hoy": 4850.0,
-    "diff_abs": 1208.33,
-    "diff_pct": 33.18
+    "ean": "7797394001265",
+    "nombre": "pastillas tic tac mix de frutas x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 679.0,
+    "precio_hoy": 1101.0,
+    "diff_abs": 422.0,
+    "diff_pct": 62.15
   },
   {
-    "ean": "7790895001031",
-    "nombre": "gaseosa fanta limon x 2.25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 3641.67,
-    "precio_hoy": 4850.0,
-    "diff_abs": 1208.33,
-    "diff_pct": 33.18
+    "ean": "78600010",
+    "nombre": "pastillas tic tac menta x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 679.0,
+    "precio_hoy": 1101.0,
+    "diff_abs": 422.0,
+    "diff_pct": 62.15
   },
   {
-    "ean": "7790895068096",
-    "nombre": "gaseosa coca cola x 2,50 lt. sin azucar",
-    "categoria": "Bebidas",
-    "precio_antes": 4049.19,
-    "precio_hoy": 5389.0,
-    "diff_abs": 1339.81,
-    "diff_pct": 33.09
+    "ean": "2016310000003",
+    "nombre": "dulce de batata dulcor con chocolate x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2609.0,
+    "precio_hoy": 4061.0,
+    "diff_abs": 1452.0,
+    "diff_pct": 55.65
   },
   {
-    "ean": "7790895643842",
-    "nombre": "alimento de soja ades naranja x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2459.0,
-    "precio_hoy": 3269.0,
-    "diff_abs": 810.0,
-    "diff_pct": 32.94
+    "ean": "2016320000000",
+    "nombre": "batata con chocolate dulcor x kg lata x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3529.0,
+    "precio_hoy": 5420.0,
+    "diff_abs": 1891.0,
+    "diff_pct": 53.58
   },
   {
-    "ean": "7790895643835",
-    "nombre": "alimento de soja ades manzana x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2459.0,
-    "precio_hoy": 3269.0,
-    "diff_abs": 810.0,
-    "diff_pct": 32.94
+    "ean": "2016340000004",
+    "nombre": "dulce de batata dulcor lata x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3529.0,
+    "precio_hoy": 5420.0,
+    "diff_abs": 1891.0,
+    "diff_pct": 53.58
   },
   {
-    "ean": "7790895643866",
-    "nombre": "alimento de soja ades frutas tropicales x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2459.0,
-    "precio_hoy": 3269.0,
-    "diff_abs": 810.0,
-    "diff_pct": 32.94
+    "ean": "2016330000007",
+    "nombre": "dulce de batata en caja dulcor x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2609.0,
+    "precio_hoy": 3999.0,
+    "diff_abs": 1390.0,
+    "diff_pct": 53.28
   },
   {
-    "ean": "7790895643828",
-    "nombre": "alimento de soja ades durazno x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2459.0,
-    "precio_hoy": 3269.0,
-    "diff_abs": 810.0,
-    "diff_pct": 32.94
+    "ean": "7898024396994",
+    "nombre": "bombones ferrero rocher x 12 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 10459.0,
+    "precio_hoy": 16027.0,
+    "diff_abs": 5568.0,
+    "diff_pct": 53.24
   },
   {
-    "ean": "7790895643804",
-    "nombre": "ades x1lt.anana",
-    "categoria": "Bebidas",
-    "precio_antes": 2459.0,
-    "precio_hoy": 3269.0,
-    "diff_abs": 810.0,
-    "diff_pct": 32.94
+    "ean": "8000500232057",
+    "nombre": "bombones rafaello x 9 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 5419.0,
+    "precio_hoy": 8303.0,
+    "diff_abs": 2884.0,
+    "diff_pct": 53.22
   },
   {
-    "ean": "7790895003301",
-    "nombre": "agua saborizada aquarius cepita manzana x 2.25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 3046.7,
-    "precio_hoy": 4050.0,
-    "diff_abs": 1003.3,
-    "diff_pct": 32.93
+    "ean": "8000500009673",
+    "nombre": "bombon ferrero rocher x 300 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 19299.0,
+    "precio_hoy": 29570.0,
+    "diff_abs": 10271.0,
+    "diff_pct": 53.22
   },
   {
-    "ean": "7790895003325",
-    "nombre": "agua saborizada aquarius cepita naranja x 2.25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 3046.7,
-    "precio_hoy": 4050.0,
-    "diff_abs": 1003.3,
-    "diff_pct": 32.93
+    "ean": "7898024397151",
+    "nombre": "bombones ferrero collection x 77 gm",
+    "categoria": "Almacen",
+    "precio_antes": 7909.0,
+    "precio_hoy": 12108.0,
+    "diff_abs": 4199.0,
+    "diff_pct": 53.09
   },
   {
-    "ean": "7790895641183",
-    "nombre": "powerade frutas topicales x 500 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1574.32,
-    "precio_hoy": 2090.0,
-    "diff_abs": 515.68,
-    "diff_pct": 32.76
+    "ean": "7861002900117",
+    "nombre": "bombones ferrero rocher x 8 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 6999.0,
+    "precio_hoy": 10627.0,
+    "diff_abs": 3628.0,
+    "diff_pct": 51.84
   },
   {
-    "ean": "7790895640018",
-    "nombre": "powerade manzana x 500 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1574.32,
-    "precio_hoy": 2090.0,
-    "diff_abs": 515.68,
-    "diff_pct": 32.76
+    "ean": "7790550010255",
+    "nombre": "cafe en saquitos cabrales la planta x 18 unid.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4292.1,
+    "precio_hoy": 6392.0,
+    "diff_abs": 2099.9,
+    "diff_pct": 48.92
   },
   {
-    "ean": "7790895640032",
-    "nombre": "powerade naranja x 500 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1574.32,
-    "precio_hoy": 2090.0,
-    "diff_abs": 515.68,
-    "diff_pct": 32.76
+    "ean": "77949677",
+    "nombre": "chocolate kinder x 50 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2399.0,
+    "precio_hoy": 3563.0,
+    "diff_abs": 1164.0,
+    "diff_pct": 48.52
   },
   {
-    "ean": "7790895640025",
-    "nombre": "powerade x 500 ml mountain blast",
-    "categoria": "Bebidas",
-    "precio_antes": 1574.32,
-    "precio_hoy": 2090.0,
-    "diff_abs": 515.68,
-    "diff_pct": 32.76
+    "ean": "80052760",
+    "nombre": "chocolate kinder bueno x 43 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2099.0,
+    "precio_hoy": 3117.0,
+    "diff_abs": 1018.0,
+    "diff_pct": 48.5
   }
 ]
