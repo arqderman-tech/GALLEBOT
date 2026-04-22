@@ -9,8 +9,8 @@
     "diff_pct": 155.79
   },
   {
-    "ean": "2020870000007",
-    "nombre": "kaki x kilo x kg.",
+    "ean": "2020920000001",
+    "nombre": "lechuga mantecosa x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 7990.0,
@@ -18,8 +18,8 @@
     "diff_pct": 100.25
   },
   {
-    "ean": "2020920000001",
-    "nombre": "lechuga mantecosa x kg.",
+    "ean": "2020870000007",
+    "nombre": "kaki x kilo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 7990.0,
@@ -54,15 +54,6 @@
     "diff_pct": 84.25
   },
   {
-    "ean": "2016350000001",
-    "nombre": "dulce de membrillo en caja dulcor x kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3189.0,
-    "precio_hoy": 5598.0,
-    "diff_abs": 2409.0,
-    "diff_pct": 75.54
-  },
-  {
     "ean": "2020910000004",
     "nombre": "lechuga de hoja x kg.",
     "categoria": "Frutas Y Verduras",
@@ -70,15 +61,6 @@
     "precio_hoy": 6990.0,
     "diff_abs": 3000.0,
     "diff_pct": 75.19
-  },
-  {
-    "ean": "2016360000008",
-    "nombre": "dulce de membrillo dulcor lata x kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4319.0,
-    "precio_hoy": 7458.0,
-    "diff_abs": 3139.0,
-    "diff_pct": 72.68
   },
   {
     "ean": "7790387011852",
@@ -153,8 +135,8 @@
     "diff_pct": 66.7
   },
   {
-    "ean": "2025590000009",
-    "nombre": "puchero caracu ternera x kg.",
+    "ean": "2025600000005",
+    "nombre": "puchero de aguja ternera x kg.",
     "categoria": "Carniceria",
     "precio_antes": 4800.0,
     "precio_hoy": 7900.0,
@@ -162,8 +144,8 @@
     "diff_pct": 64.58
   },
   {
-    "ean": "2025600000005",
-    "nombre": "puchero de aguja ternera x kg.",
+    "ean": "2025590000009",
+    "nombre": "puchero caracu ternera x kg.",
     "categoria": "Carniceria",
     "precio_antes": 4800.0,
     "precio_hoy": 7900.0,
@@ -178,5 +160,23 @@
     "precio_hoy": 16525.0,
     "diff_abs": 6479.0,
     "diff_pct": 64.49
+  },
+  {
+    "ean": "2019950000006",
+    "nombre": "akusay x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 60.24
+  },
+  {
+    "ean": "2011810000003",
+    "nombre": "higos secos negros medianos x kg.",
+    "categoria": "Almacen",
+    "precio_antes": 12084.0,
+    "precio_hoy": 19122.0,
+    "diff_abs": 7038.0,
+    "diff_pct": 58.24
   }
 ]

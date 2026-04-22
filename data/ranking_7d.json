@@ -9,22 +9,85 @@
     "diff_pct": 878.35
   },
   {
-    "ean": "2016350000001",
-    "nombre": "dulce de membrillo en caja dulcor x kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3189.0,
-    "precio_hoy": 5598.0,
-    "diff_abs": 2409.0,
-    "diff_pct": 75.54
+    "ean": "8445291996731",
+    "nombre": "avellanas con chocolate con leche nestle x 80 gm",
+    "categoria": "Almacen",
+    "precio_antes": 3199.0,
+    "precio_hoy": 7200.0,
+    "diff_abs": 4001.0,
+    "diff_pct": 125.07
   },
   {
-    "ean": "2016360000008",
-    "nombre": "dulce de membrillo dulcor lata x kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4319.0,
-    "precio_hoy": 7458.0,
-    "diff_abs": 3139.0,
-    "diff_pct": 72.68
+    "ean": "7792798014934",
+    "nombre": "cerveza andes lata x 473 ml oro",
+    "categoria": "Bebidas",
+    "precio_antes": 1399.0,
+    "precio_hoy": 2800.0,
+    "diff_abs": 1401.0,
+    "diff_pct": 100.14
+  },
+  {
+    "ean": "7792798014156",
+    "nombre": "cerveza andes rubia origen lata x 710 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 2099.0,
+    "precio_hoy": 4200.0,
+    "diff_abs": 2101.0,
+    "diff_pct": 100.1
+  },
+  {
+    "ean": "7792798002115",
+    "nombre": "cerveza andes rubia x1 lt. retornable",
+    "categoria": "Bebidas",
+    "precio_antes": 2549.0,
+    "precio_hoy": 5100.0,
+    "diff_abs": 2551.0,
+    "diff_pct": 100.08
+  },
+  {
+    "ean": "7792798014972",
+    "nombre": "cerveza andes original x1lt oro retornable",
+    "categoria": "Bebidas",
+    "precio_antes": 2449.0,
+    "precio_hoy": 4900.0,
+    "diff_abs": 2451.0,
+    "diff_pct": 100.08
+  },
+  {
+    "ean": "7792798002122",
+    "nombre": "cerveza andes roja x 1 lt. retornable",
+    "categoria": "Bebidas",
+    "precio_antes": 2609.0,
+    "precio_hoy": 5200.0,
+    "diff_abs": 2591.0,
+    "diff_pct": 99.31
+  },
+  {
+    "ean": "7792798002757",
+    "nombre": "cerveza andes ipa retornable x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2609.0,
+    "precio_hoy": 5200.0,
+    "diff_abs": 2591.0,
+    "diff_pct": 99.31
+  },
+  {
+    "ean": "7792798992317",
+    "nombre": "cerveza andes roja lata x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 3025.0,
+    "diff_abs": 1506.0,
+    "diff_pct": 99.14
+  },
+  {
+    "ean": "7792798002320",
+    "nombre": "cerveza andes negra lata x 473ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 3025.0,
+    "diff_abs": 1506.0,
+    "diff_pct": 99.14
   },
   {
     "ean": "7793126002012",
@@ -45,15 +108,6 @@
     "diff_pct": 66.89
   },
   {
-    "ean": "8445291904392",
-    "nombre": "combo nescafe dolca x 170 gr. + coffee mate x 170.",
-    "categoria": "Perfumeria",
-    "precio_antes": 10046.0,
-    "precio_hoy": 16525.0,
-    "diff_abs": 6479.0,
-    "diff_pct": 64.49
-  },
-  {
     "ean": "7898024397861",
     "nombre": "bombones ferrero rocher x 50 gr.",
     "categoria": "Almacen",
@@ -70,6 +124,15 @@
     "precio_hoy": 3049.0,
     "diff_abs": 1190.0,
     "diff_pct": 64.01
+  },
+  {
+    "ean": "78600010",
+    "nombre": "pastillas tic tac menta x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 679.0,
+    "precio_hoy": 1101.0,
+    "diff_abs": 422.0,
+    "diff_pct": 62.15
   },
   {
     "ean": "7797394001265",
@@ -90,15 +153,6 @@
     "diff_pct": 62.15
   },
   {
-    "ean": "78600010",
-    "nombre": "pastillas tic tac menta x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 679.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 422.0,
-    "diff_pct": 62.15
-  },
-  {
     "ean": "7790550029479",
     "nombre": "cafe instantaneo cabrales la planta suave x 100 gr",
     "categoria": "Perfumeria",
@@ -108,17 +162,8 @@
     "diff_pct": 58.8
   },
   {
-    "ean": "2016310000003",
-    "nombre": "dulce de batata dulcor con chocolate x kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2609.0,
-    "precio_hoy": 4061.0,
-    "diff_abs": 1452.0,
-    "diff_pct": 55.65
-  },
-  {
-    "ean": "7790550000065",
-    "nombre": "cappuccino l.planta x115gr.dp.",
+    "ean": "7790550026454",
+    "nombre": "cappuccino l.planta x115g.latt",
     "categoria": "Perfumeria",
     "precio_antes": 3619.0,
     "precio_hoy": 5608.0,
@@ -133,50 +178,5 @@
     "precio_hoy": 5608.0,
     "diff_abs": 1989.0,
     "diff_pct": 54.96
-  },
-  {
-    "ean": "7790550026553",
-    "nombre": "cappuccino la planta x 100 gm caramelo",
-    "categoria": "Perfumeria",
-    "precio_antes": 3619.0,
-    "precio_hoy": 5608.0,
-    "diff_abs": 1989.0,
-    "diff_pct": 54.96
-  },
-  {
-    "ean": "7790550026454",
-    "nombre": "cappuccino l.planta x115g.latt",
-    "categoria": "Perfumeria",
-    "precio_antes": 3619.0,
-    "precio_hoy": 5608.0,
-    "diff_abs": 1989.0,
-    "diff_pct": 54.96
-  },
-  {
-    "ean": "7790550026492",
-    "nombre": "cappuccino l.planta x110g.ligh",
-    "categoria": "Perfumeria",
-    "precio_antes": 3619.0,
-    "precio_hoy": 5608.0,
-    "diff_abs": 1989.0,
-    "diff_pct": 54.96
-  },
-  {
-    "ean": "8445291996731",
-    "nombre": "avellanas con chocolate con leche nestle x 80 gm",
-    "categoria": "Almacen",
-    "precio_antes": 4680.0,
-    "precio_hoy": 7200.0,
-    "diff_abs": 2520.0,
-    "diff_pct": 53.85
-  },
-  {
-    "ean": "2016340000004",
-    "nombre": "dulce de batata dulcor lata x kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3529.0,
-    "precio_hoy": 5420.0,
-    "diff_abs": 1891.0,
-    "diff_pct": 53.58
   }
 ]
