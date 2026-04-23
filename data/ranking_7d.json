@@ -9,6 +9,24 @@
     "diff_pct": 878.35
   },
   {
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2209.0,
+    "precio_hoy": 5007.0,
+    "diff_abs": 2798.0,
+    "diff_pct": 126.66
+  },
+  {
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2209.0,
+    "precio_hoy": 5007.0,
+    "diff_abs": 2798.0,
+    "diff_pct": 126.66
+  },
+  {
     "ean": "8445291996731",
     "nombre": "avellanas con chocolate con leche nestle x 80 gm",
     "categoria": "Almacen",
@@ -54,8 +72,8 @@
     "diff_pct": 100.08
   },
   {
-    "ean": "7792798002122",
-    "nombre": "cerveza andes roja x 1 lt. retornable",
+    "ean": "7792798002757",
+    "nombre": "cerveza andes ipa retornable x 1 lt.",
     "categoria": "Bebidas",
     "precio_antes": 2609.0,
     "precio_hoy": 5200.0,
@@ -63,8 +81,8 @@
     "diff_pct": 99.31
   },
   {
-    "ean": "7792798002757",
-    "nombre": "cerveza andes ipa retornable x 1 lt.",
+    "ean": "7792798002122",
+    "nombre": "cerveza andes roja x 1 lt. retornable",
     "categoria": "Bebidas",
     "precio_antes": 2609.0,
     "precio_hoy": 5200.0,
@@ -88,6 +106,51 @@
     "precio_hoy": 3025.0,
     "diff_abs": 1506.0,
     "diff_pct": 99.14
+  },
+  {
+    "ean": "7791337010468",
+    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
+  },
+  {
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
+  },
+  {
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
+  },
+  {
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
+  },
+  {
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
   },
   {
     "ean": "7793126002012",
@@ -115,68 +178,5 @@
     "precio_hoy": 5697.0,
     "diff_abs": 2228.0,
     "diff_pct": 64.23
-  },
-  {
-    "ean": "80052487",
-    "nombre": "bombon raffaello x 3 unidades",
-    "categoria": "Almacen",
-    "precio_antes": 1859.0,
-    "precio_hoy": 3049.0,
-    "diff_abs": 1190.0,
-    "diff_pct": 64.01
-  },
-  {
-    "ean": "78600010",
-    "nombre": "pastillas tic tac menta x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 679.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 422.0,
-    "diff_pct": 62.15
-  },
-  {
-    "ean": "7797394001265",
-    "nombre": "pastillas tic tac mix de frutas x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 679.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 422.0,
-    "diff_pct": 62.15
-  },
-  {
-    "ean": "78600027",
-    "nombre": "pastillas tic tac naranja x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 679.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 422.0,
-    "diff_pct": 62.15
-  },
-  {
-    "ean": "7790550029479",
-    "nombre": "cafe instantaneo cabrales la planta suave x 100 gr",
-    "categoria": "Perfumeria",
-    "precio_antes": 4869.0,
-    "precio_hoy": 7732.0,
-    "diff_abs": 2863.0,
-    "diff_pct": 58.8
-  },
-  {
-    "ean": "7790550026454",
-    "nombre": "cappuccino l.planta x115g.latt",
-    "categoria": "Perfumeria",
-    "precio_antes": 3619.0,
-    "precio_hoy": 5608.0,
-    "diff_abs": 1989.0,
-    "diff_pct": 54.96
-  },
-  {
-    "ean": "7790550026478",
-    "nombre": "cappuccino l.planta x115g.moka",
-    "categoria": "Perfumeria",
-    "precio_antes": 3619.0,
-    "precio_hoy": 5608.0,
-    "diff_abs": 1989.0,
-    "diff_pct": 54.96
   }
 ]

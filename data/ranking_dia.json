@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7792798014934",
-    "nombre": "cerveza andes lata x 473 ml oro",
-    "categoria": "Bebidas",
-    "precio_antes": 1399.0,
-    "precio_hoy": 2800.0,
-    "diff_abs": 1401.0,
-    "diff_pct": 100.14
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2209.0,
+    "precio_hoy": 5007.0,
+    "diff_abs": 2798.0,
+    "diff_pct": 126.66
   },
   {
-    "ean": "7792798014156",
-    "nombre": "cerveza andes rubia origen lata x 710 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 2099.0,
-    "precio_hoy": 4200.0,
-    "diff_abs": 2101.0,
-    "diff_pct": 100.1
+    "ean": "7791337010468",
+    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
   },
   {
-    "ean": "7792798014972",
-    "nombre": "cerveza andes original x1lt oro retornable",
-    "categoria": "Bebidas",
-    "precio_antes": 2449.0,
-    "precio_hoy": 4900.0,
-    "diff_abs": 2451.0,
-    "diff_pct": 100.08
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
   },
   {
-    "ean": "7792798002115",
-    "nombre": "cerveza andes rubia x1 lt. retornable",
-    "categoria": "Bebidas",
-    "precio_antes": 2549.0,
-    "precio_hoy": 5100.0,
-    "diff_abs": 2551.0,
-    "diff_pct": 100.08
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
   },
   {
-    "ean": "7792798002757",
-    "nombre": "cerveza andes ipa retornable x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2609.0,
-    "precio_hoy": 5200.0,
-    "diff_abs": 2591.0,
-    "diff_pct": 99.31
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
   },
   {
-    "ean": "7792798002122",
-    "nombre": "cerveza andes roja x 1 lt. retornable",
-    "categoria": "Bebidas",
-    "precio_antes": 2609.0,
-    "precio_hoy": 5200.0,
-    "diff_abs": 2591.0,
-    "diff_pct": 99.31
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
   },
   {
-    "ean": "7792798002320",
-    "nombre": "cerveza andes negra lata x 473ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 3025.0,
-    "diff_abs": 1506.0,
-    "diff_pct": 99.14
+    "ean": "7791337060944",
+    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3299.0,
+    "precio_hoy": 5394.0,
+    "diff_abs": 2095.0,
+    "diff_pct": 63.5
   },
   {
-    "ean": "7792798992317",
-    "nombre": "cerveza andes roja lata x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 3025.0,
-    "diff_abs": 1506.0,
-    "diff_pct": 99.14
+    "ean": "7791337061361",
+    "nombre": "queso crema casancrem x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3299.0,
+    "precio_hoy": 5394.0,
+    "diff_abs": 2095.0,
+    "diff_pct": 63.5
   },
   {
-    "ean": "7790670050650",
-    "nombre": "hamburguesas paty x 4 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 6619.0,
-    "precio_hoy": 9141.0,
-    "diff_abs": 2522.0,
-    "diff_pct": 38.1
+    "ean": "2014220000007",
+    "nombre": "queso mozzarella tregar x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 13879.0,
+    "precio_hoy": 21107.0,
+    "diff_abs": 7228.0,
+    "diff_pct": 52.08
   },
   {
-    "ean": "2022220000002",
-    "nombre": "tomate redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1190.0,
-    "precio_hoy": 1590.0,
-    "diff_abs": 400.0,
-    "diff_pct": 33.61
+    "ean": "7798028020287",
+    "nombre": "mate cocido pajaro azul x 25 saquitos",
+    "categoria": "Perfumeria",
+    "precio_antes": 769.0,
+    "precio_hoy": 1154.0,
+    "diff_abs": 385.0,
+    "diff_pct": 50.07
   },
   {
-    "ean": "9002490100070",
-    "nombre": "energizante red bull x 250 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 2399.0,
-    "precio_hoy": 3199.0,
-    "diff_abs": 800.0,
-    "diff_pct": 33.35
+    "ean": "7500810034460",
+    "nombre": "snack takis xplosion x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1889.0,
+    "precio_hoy": 2779.0,
+    "diff_abs": 890.0,
+    "diff_pct": 47.11
   },
   {
-    "ean": "9002490258313",
-    "nombre": "energizante red bull sandia x 250 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2399.0,
-    "precio_hoy": 3199.0,
-    "diff_abs": 800.0,
-    "diff_pct": 33.35
+    "ean": "7500810034361",
+    "nombre": "snack takis fuego x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1889.0,
+    "precio_hoy": 2779.0,
+    "diff_abs": 890.0,
+    "diff_pct": 47.11
   },
   {
-    "ean": "90415418",
-    "nombre": "energizante red bull sugar free x 250 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2399.0,
-    "precio_hoy": 3199.0,
-    "diff_abs": 800.0,
-    "diff_pct": 33.35
+    "ean": "7500810034477",
+    "nombre": "snack takis original x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1889.0,
+    "precio_hoy": 2779.0,
+    "diff_abs": 890.0,
+    "diff_pct": 47.11
   },
   {
-    "ean": "9002490232054",
-    "nombre": "energizante red bull sugar free - pack 4 latas x .",
-    "categoria": "Bebidas",
-    "precio_antes": 9599.0,
-    "precio_hoy": 12796.0,
-    "diff_abs": 3197.0,
-    "diff_pct": 33.31
+    "ean": "7500810034347",
+    "nombre": "snack takis xplosion x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3029.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1424.0,
+    "diff_pct": 47.01
   },
   {
-    "ean": "90435225",
-    "nombre": "energizante red bull x 355 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3229.0,
-    "precio_hoy": 4299.0,
-    "diff_abs": 1070.0,
-    "diff_pct": 33.14
+    "ean": "7500810034330",
+    "nombre": "snack takis fuego x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3029.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1424.0,
+    "diff_pct": 47.01
   },
   {
-    "ean": "7792798001316",
-    "nombre": "cerveza quilmes stout x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1879.0,
-    "precio_hoy": 2500.0,
-    "diff_abs": 621.0,
-    "diff_pct": 33.05
+    "ean": "7500810034354",
+    "nombre": "snack takis original x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3029.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1424.0,
+    "diff_pct": 47.01
   },
   {
-    "ean": "7792798012923",
-    "nombre": "cerveza quilmes lata x 473 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 1879.0,
-    "precio_hoy": 2500.0,
-    "diff_abs": 621.0,
-    "diff_pct": 33.05
+    "ean": "7500810041741",
+    "nombre": "snack takis x 140 gm intense",
+    "categoria": "Almacen",
+    "precio_antes": 3029.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1424.0,
+    "diff_pct": 47.01
   },
   {
-    "ean": "7792798013388",
-    "nombre": "cerveza quilmes ipa x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1879.0,
-    "precio_hoy": 2500.0,
-    "diff_abs": 621.0,
-    "diff_pct": 33.05
+    "ean": "7791337061422",
+    "nombre": "queso crema la serenisima x 290 gm entero",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2599.0,
+    "precio_hoy": 3774.0,
+    "diff_abs": 1175.0,
+    "diff_pct": 45.21
   },
   {
-    "ean": "7792798007400",
-    "nombre": "cerveza quilmes stout x 1 lt. retornable",
-    "categoria": "Bebidas",
-    "precio_antes": 3309.0,
-    "precio_hoy": 4400.0,
-    "diff_abs": 1091.0,
-    "diff_pct": 32.97
+    "ean": "7791337061439",
+    "nombre": "queso untable la serenisima light x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2599.0,
+    "precio_hoy": 3774.0,
+    "diff_abs": 1175.0,
+    "diff_pct": 45.21
   },
   {
-    "ean": "7792798007387",
-    "nombre": "cerveza quilmes cristal x 1 lt. retornable",
-    "categoria": "Bebidas",
-    "precio_antes": 3309.0,
-    "precio_hoy": 4400.0,
-    "diff_abs": 1091.0,
-    "diff_pct": 32.97
+    "ean": "7791337009691",
+    "nombre": "yogur gran compra bebible x 900 gr vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1799.0,
+    "precio_hoy": 2581.0,
+    "diff_abs": 782.0,
+    "diff_pct": 43.47
   }
 ]

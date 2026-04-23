@@ -9,8 +9,8 @@
     "diff_pct": 155.79
   },
   {
-    "ean": "2020920000001",
-    "nombre": "lechuga mantecosa x kg.",
+    "ean": "2020870000007",
+    "nombre": "kaki x kilo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 7990.0,
@@ -18,8 +18,8 @@
     "diff_pct": 100.25
   },
   {
-    "ean": "2020870000007",
-    "nombre": "kaki x kilo x kg.",
+    "ean": "2020920000001",
+    "nombre": "lechuga mantecosa x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 7990.0,
@@ -34,6 +34,24 @@
     "precio_hoy": 5333.0,
     "diff_abs": 2664.0,
     "diff_pct": 99.81
+  },
+  {
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2509.0,
+    "precio_hoy": 5007.0,
+    "diff_abs": 2498.0,
+    "diff_pct": 99.56
+  },
+  {
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2509.0,
+    "precio_hoy": 5007.0,
+    "diff_abs": 2498.0,
+    "diff_pct": 99.56
   },
   {
     "ean": "7791337007253",
@@ -63,6 +81,24 @@
     "diff_pct": 75.19
   },
   {
+    "ean": "7791337009981",
+    "nombre": "yogur yogurisimo griego x 190 gr natural endulzado",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1709.0,
+    "precio_hoy": 2956.0,
+    "diff_abs": 1247.0,
+    "diff_pct": 72.97
+  },
+  {
+    "ean": "7791337009998",
+    "nombre": "yogur yogurisimo griego x 190 gr natural sin end",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1709.0,
+    "precio_hoy": 2956.0,
+    "diff_abs": 1247.0,
+    "diff_pct": 72.97
+  },
+  {
     "ean": "7790387011852",
     "nombre": "mate cocido taragui ni$os vainilla y miel x 20 saq",
     "categoria": "Perfumeria",
@@ -70,6 +106,51 @@
     "precio_hoy": 2621.0,
     "diff_abs": 1092.0,
     "diff_pct": 71.42
+  },
+  {
+    "ean": "7791337010468",
+    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 1733.0,
+    "diff_pct": 69.35
+  },
+  {
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 1733.0,
+    "diff_pct": 69.35
+  },
+  {
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 1733.0,
+    "diff_pct": 69.35
+  },
+  {
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 1733.0,
+    "diff_pct": 69.35
+  },
+  {
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 1733.0,
+    "diff_pct": 69.35
   },
   {
     "ean": "7791337010505",
@@ -97,86 +178,5 @@
     "precio_hoy": 2524.0,
     "diff_abs": 1015.0,
     "diff_pct": 67.26
-  },
-  {
-    "ean": "2021950000009",
-    "nombre": "radicheta x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1190.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 800.0,
-    "diff_pct": 67.23
-  },
-  {
-    "ean": "2021840000003",
-    "nombre": "pimiento verde x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
-  },
-  {
-    "ean": "2019900000001",
-    "nombre": "ajies x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
-  },
-  {
-    "ean": "80052487",
-    "nombre": "bombon raffaello x 3 unidades",
-    "categoria": "Almacen",
-    "precio_antes": 1829.0,
-    "precio_hoy": 3049.0,
-    "diff_abs": 1220.0,
-    "diff_pct": 66.7
-  },
-  {
-    "ean": "2025600000005",
-    "nombre": "puchero de aguja ternera x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 4800.0,
-    "precio_hoy": 7900.0,
-    "diff_abs": 3100.0,
-    "diff_pct": 64.58
-  },
-  {
-    "ean": "2025590000009",
-    "nombre": "puchero caracu ternera x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 4800.0,
-    "precio_hoy": 7900.0,
-    "diff_abs": 3100.0,
-    "diff_pct": 64.58
-  },
-  {
-    "ean": "8445291904392",
-    "nombre": "combo nescafe dolca x 170 gr. + coffee mate x 170.",
-    "categoria": "Perfumeria",
-    "precio_antes": 10046.0,
-    "precio_hoy": 16525.0,
-    "diff_abs": 6479.0,
-    "diff_pct": 64.49
-  },
-  {
-    "ean": "2019950000006",
-    "nombre": "akusay x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 60.24
-  },
-  {
-    "ean": "2011810000003",
-    "nombre": "higos secos negros medianos x kg.",
-    "categoria": "Almacen",
-    "precio_antes": 12084.0,
-    "precio_hoy": 19122.0,
-    "diff_abs": 7038.0,
-    "diff_pct": 58.24
   }
 ]

@@ -1,147 +1,147 @@
 {
-  "fecha": "20260422",
-  "total_productos": 5822,
-  "variacion_dia": 0.15,
-  "variacion_7d": 1.23,
-  "variacion_mes": 3.17,
+  "fecha": "20260423",
+  "total_productos": 5813,
+  "variacion_dia": 0.43,
+  "variacion_7d": 1.67,
+  "variacion_mes": 3.6,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.75,
-      "productos_subieron": 47,
-      "productos_bajaron": 16,
-      "total_productos": 1307
+      "variacion_pct_promedio": -0.35,
+      "productos_subieron": 27,
+      "productos_bajaron": 65,
+      "total_productos": 1304
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.08,
-      "productos_subieron": 36,
-      "productos_bajaron": 9,
-      "total_productos": 1122
+      "variacion_pct_promedio": 1.87,
+      "productos_subieron": 63,
+      "productos_bajaron": 6,
+      "total_productos": 1120
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.17,
-      "productos_subieron": 1,
-      "productos_bajaron": 0,
-      "total_productos": 219
+      "variacion_pct_promedio": 0.51,
+      "productos_subieron": 17,
+      "productos_bajaron": 4,
+      "total_productos": 216
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
-      "productos_subieron": 1,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "total_productos": 675
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.29,
-      "productos_subieron": 3,
-      "productos_bajaron": 8,
-      "total_productos": 854
+      "variacion_pct_promedio": 0.48,
+      "productos_subieron": 20,
+      "productos_bajaron": 3,
+      "total_productos": 856
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 1,
-      "productos_bajaron": 0,
-      "total_productos": 1634
+      "variacion_pct_promedio": 0.22,
+      "productos_subieron": 90,
+      "productos_bajaron": 65,
+      "total_productos": 1624
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2016350000001",
-      "nombre": "dulce de membrillo en caja dulcor x kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 5598.0,
-      "precio_hoy": 3189.0,
-      "diff_abs": -2409.0,
-      "diff_pct": -43.03
+      "ean": "7790360024701",
+      "nombre": "bocaditos swift x760gr.pollo",
+      "categoria": "Congelados",
+      "precio_antes": 12637.0,
+      "precio_hoy": 7519.0,
+      "diff_abs": -5118.0,
+      "diff_pct": -40.5
     },
     {
-      "ean": "2016360000008",
-      "nombre": "dulce de membrillo dulcor lata x kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 7458.0,
-      "precio_hoy": 4319.0,
-      "diff_abs": -3139.0,
-      "diff_pct": -42.09
-    },
-    {
-      "ean": "7792798002351",
-      "nombre": "cerveza patagonia amber lager x 750 ml.",
+      "ean": "7798062547559",
+      "nombre": "agua mineral sin gas villa del sur x 2,25 lt.",
       "categoria": "Bebidas",
-      "precio_antes": 6400.0,
-      "precio_hoy": 3839.0,
-      "diff_abs": -2561.0,
-      "diff_pct": -40.02
+      "precio_antes": 2640.0,
+      "precio_hoy": 1699.0,
+      "diff_abs": -941.0,
+      "diff_pct": -35.64
     },
     {
-      "ean": "7792798001965",
-      "nombre": "cerveza patagonia amber lager lata x 473 ml",
+      "ean": "7791540053160",
+      "nombre": "vino frizze italian limonata x 473 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 4500.0,
-      "precio_hoy": 2699.0,
-      "diff_abs": -1801.0,
-      "diff_pct": -40.02
+      "precio_antes": 2149.0,
+      "precio_hoy": 1499.0,
+      "diff_abs": -650.0,
+      "diff_pct": -30.25
     },
     {
-      "ean": "7792798002399",
-      "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
+      "ean": "7791540053153",
+      "nombre": "vino frizze",
       "categoria": "Bebidas",
-      "precio_antes": 6400.0,
-      "precio_hoy": 3839.0,
-      "diff_abs": -2561.0,
-      "diff_pct": -40.02
+      "precio_antes": 2149.0,
+      "precio_hoy": 1499.0,
+      "diff_abs": -650.0,
+      "diff_pct": -30.25
     },
     {
-      "ean": "2016310000003",
-      "nombre": "dulce de batata dulcor con chocolate x kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 4061.0,
-      "precio_hoy": 2609.0,
-      "diff_abs": -1452.0,
-      "diff_pct": -35.75
+      "ean": "7797906054918",
+      "nombre": "papas mc cain noisette x 1.2 kg.",
+      "categoria": "Congelados",
+      "precio_antes": 18999.0,
+      "precio_hoy": 13299.01,
+      "diff_abs": -5699.99,
+      "diff_pct": -30.0
     },
     {
-      "ean": "2016320000000",
-      "nombre": "batata con chocolate dulcor x kg lata x kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 5420.0,
-      "precio_hoy": 3529.0,
-      "diff_abs": -1891.0,
-      "diff_pct": -34.89
+      "ean": "7797906000700",
+      "nombre": "papas mc cain tradicional x 400 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 4783.0,
+      "precio_hoy": 3349.0,
+      "diff_abs": -1434.0,
+      "diff_pct": -29.98
     },
     {
-      "ean": "2016340000004",
-      "nombre": "dulce de batata dulcor lata x kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 5420.0,
-      "precio_hoy": 3529.0,
-      "diff_abs": -1891.0,
-      "diff_pct": -34.89
+      "ean": "7797906054857",
+      "nombre": "papas fritas tipo artesanal mc cain x 700 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 9651.0,
+      "precio_hoy": 6759.0,
+      "diff_abs": -2892.0,
+      "diff_pct": -29.97
     },
     {
-      "ean": "2016330000007",
-      "nombre": "dulce de batata en caja dulcor x kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 3999.0,
-      "precio_hoy": 2609.0,
-      "diff_abs": -1390.0,
-      "diff_pct": -34.76
+      "ean": "7790070508010",
+      "nombre": "premezcla para pan y pizza blancaflor x 500 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 5235.0,
+      "precio_hoy": 3799.0,
+      "diff_abs": -1436.0,
+      "diff_pct": -27.43
     },
     {
-      "ean": "7793046004257",
-      "nombre": "dulce de membrillo cormillot x 430 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 3173.0,
-      "precio_hoy": 2149.0,
-      "diff_abs": -1024.0,
-      "diff_pct": -32.27
+      "ean": "7791100000443",
+      "nombre": "almidon de maiz chango x 500 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 2684.0,
+      "precio_hoy": 1999.0,
+      "diff_abs": -685.0,
+      "diff_pct": -25.52
+    },
+    {
+      "ean": "2024590000002",
+      "nombre": "aceitunas marvavic negras sin carozo x kg.",
+      "categoria": "Almacen",
+      "precio_antes": 18911.0,
+      "precio_hoy": 14499.0,
+      "diff_abs": -4412.0,
+      "diff_pct": -23.33
     }
   ],
-  "productos_subieron_dia": 89,
-  "productos_bajaron_dia": 33,
-  "productos_sin_cambio_dia": 5689
+  "productos_subieron_dia": 217,
+  "productos_bajaron_dia": 143,
+  "productos_sin_cambio_dia": 5435
 }
