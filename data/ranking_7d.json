@@ -1,21 +1,12 @@
 [
   {
-    "ean": "6934097727622",
-    "nombre": "destornillador juego x 3 piezas hoteche",
-    "categoria": "Limpieza",
-    "precio_antes": 790.0,
-    "precio_hoy": 7729.0,
-    "diff_abs": 6939.0,
-    "diff_pct": 878.35
-  },
-  {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2209.0,
-    "precio_hoy": 5007.0,
-    "diff_abs": 2798.0,
-    "diff_pct": 126.66
+    "ean": "2021550000003",
+    "nombre": "pepino x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1290.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 2700.0,
+    "diff_pct": 209.3
   },
   {
     "ean": "7791337010482",
@@ -27,13 +18,22 @@
     "diff_pct": 126.66
   },
   {
-    "ean": "8445291996731",
-    "nombre": "avellanas con chocolate con leche nestle x 80 gm",
-    "categoria": "Almacen",
-    "precio_antes": 3199.0,
-    "precio_hoy": 7200.0,
-    "diff_abs": 4001.0,
-    "diff_pct": 125.07
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2209.0,
+    "precio_hoy": 5007.0,
+    "diff_abs": 2798.0,
+    "diff_pct": 126.66
+  },
+  {
+    "ean": "2022220000002",
+    "nombre": "tomate redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1190.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 1300.0,
+    "diff_pct": 109.24
   },
   {
     "ean": "7792798014934",
@@ -108,51 +108,6 @@
     "diff_pct": 99.14
   },
   {
-    "ean": "7791337010468",
-    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2033.0,
-    "diff_pct": 92.45
-  },
-  {
-    "ean": "7791337010369",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2033.0,
-    "diff_pct": 92.45
-  },
-  {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2033.0,
-    "diff_pct": 92.45
-  },
-  {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2033.0,
-    "diff_pct": 92.45
-  },
-  {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2033.0,
-    "diff_pct": 92.45
-  },
-  {
     "ean": "7793126002012",
     "nombre": "mermelada patagonia tradicional x 320 gm frutilla",
     "categoria": "Perfumeria",
@@ -162,15 +117,6 @@
     "diff_pct": 67.98
   },
   {
-    "ean": "2019900000001",
-    "nombre": "ajies x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
-  },
-  {
     "ean": "7898024397861",
     "nombre": "bombones ferrero rocher x 50 gr.",
     "categoria": "Almacen",
@@ -178,5 +124,59 @@
     "precio_hoy": 5697.0,
     "diff_abs": 2228.0,
     "diff_pct": 64.23
+  },
+  {
+    "ean": "80052487",
+    "nombre": "bombon raffaello x 3 unidades",
+    "categoria": "Almacen",
+    "precio_antes": 1859.0,
+    "precio_hoy": 3049.0,
+    "diff_abs": 1190.0,
+    "diff_pct": 64.01
+  },
+  {
+    "ean": "78600027",
+    "nombre": "pastillas tic tac naranja x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 679.0,
+    "precio_hoy": 1101.0,
+    "diff_abs": 422.0,
+    "diff_pct": 62.15
+  },
+  {
+    "ean": "78600010",
+    "nombre": "pastillas tic tac menta x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 679.0,
+    "precio_hoy": 1101.0,
+    "diff_abs": 422.0,
+    "diff_pct": 62.15
+  },
+  {
+    "ean": "7797394001265",
+    "nombre": "pastillas tic tac mix de frutas x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 679.0,
+    "precio_hoy": 1101.0,
+    "diff_abs": 422.0,
+    "diff_pct": 62.15
+  },
+  {
+    "ean": "7898024396994",
+    "nombre": "bombones ferrero rocher x 12 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 10459.0,
+    "precio_hoy": 16027.0,
+    "diff_abs": 5568.0,
+    "diff_pct": 53.24
+  },
+  {
+    "ean": "8000500232057",
+    "nombre": "bombones rafaello x 9 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 5419.0,
+    "precio_hoy": 8303.0,
+    "diff_abs": 2884.0,
+    "diff_pct": 53.22
   }
 ]

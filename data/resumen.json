@@ -1,31 +1,31 @@
 {
-  "fecha": "20260423",
-  "total_productos": 5813,
-  "variacion_dia": 0.43,
-  "variacion_7d": 1.67,
-  "variacion_mes": 3.6,
+  "fecha": "20260424",
+  "total_productos": 5819,
+  "variacion_dia": -0.07,
+  "variacion_7d": 0.9,
+  "variacion_mes": 2.72,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.35,
-      "productos_subieron": 27,
-      "productos_bajaron": 65,
-      "total_productos": 1304
+      "variacion_pct_promedio": 0.14,
+      "productos_subieron": 60,
+      "productos_bajaron": 4,
+      "total_productos": 1296
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 1.87,
-      "productos_subieron": 63,
-      "productos_bajaron": 6,
-      "total_productos": 1120
+      "variacion_pct_promedio": -0.97,
+      "productos_subieron": 13,
+      "productos_bajaron": 68,
+      "total_productos": 1121
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.51,
-      "productos_subieron": 17,
-      "productos_bajaron": 4,
-      "total_productos": 216
+      "variacion_pct_promedio": 1.1,
+      "productos_subieron": 16,
+      "productos_bajaron": 2,
+      "total_productos": 217
     },
     {
       "categoria": "Limpieza",
@@ -36,112 +36,112 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.48,
-      "productos_subieron": 20,
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 16,
       "productos_bajaron": 3,
-      "total_productos": 856
+      "total_productos": 859
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.22,
-      "productos_subieron": 90,
-      "productos_bajaron": 65,
-      "total_productos": 1624
+      "variacion_pct_promedio": 0.16,
+      "productos_subieron": 40,
+      "productos_bajaron": 4,
+      "total_productos": 1619
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790360024701",
-      "nombre": "bocaditos swift x760gr.pollo",
-      "categoria": "Congelados",
-      "precio_antes": 12637.0,
-      "precio_hoy": 7519.0,
-      "diff_abs": -5118.0,
-      "diff_pct": -40.5
-    },
-    {
-      "ean": "7798062547559",
-      "nombre": "agua mineral sin gas villa del sur x 2,25 lt.",
-      "categoria": "Bebidas",
-      "precio_antes": 2640.0,
-      "precio_hoy": 1699.0,
-      "diff_abs": -941.0,
-      "diff_pct": -35.64
-    },
-    {
-      "ean": "7791540053160",
-      "nombre": "vino frizze italian limonata x 473 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 2149.0,
-      "precio_hoy": 1499.0,
-      "diff_abs": -650.0,
-      "diff_pct": -30.25
-    },
-    {
-      "ean": "7791540053153",
-      "nombre": "vino frizze",
-      "categoria": "Bebidas",
-      "precio_antes": 2149.0,
-      "precio_hoy": 1499.0,
-      "diff_abs": -650.0,
-      "diff_pct": -30.25
-    },
-    {
-      "ean": "7797906054918",
-      "nombre": "papas mc cain noisette x 1.2 kg.",
-      "categoria": "Congelados",
-      "precio_antes": 18999.0,
-      "precio_hoy": 13299.01,
-      "diff_abs": -5699.99,
-      "diff_pct": -30.0
-    },
-    {
-      "ean": "7797906000700",
-      "nombre": "papas mc cain tradicional x 400 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 4783.0,
-      "precio_hoy": 3349.0,
-      "diff_abs": -1434.0,
-      "diff_pct": -29.98
-    },
-    {
-      "ean": "7797906054857",
-      "nombre": "papas fritas tipo artesanal mc cain x 700 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 9651.0,
-      "precio_hoy": 6759.0,
-      "diff_abs": -2892.0,
-      "diff_pct": -29.97
-    },
-    {
-      "ean": "7790070508010",
-      "nombre": "premezcla para pan y pizza blancaflor x 500 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 5235.0,
-      "precio_hoy": 3799.0,
-      "diff_abs": -1436.0,
-      "diff_pct": -27.43
-    },
-    {
-      "ean": "7791100000443",
-      "nombre": "almidon de maiz chango x 500 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2684.0,
+      "ean": "7791337010475",
+      "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4232.0,
       "precio_hoy": 1999.0,
-      "diff_abs": -685.0,
-      "diff_pct": -25.52
+      "diff_abs": -2233.0,
+      "diff_pct": -52.76
     },
     {
-      "ean": "2024590000002",
-      "nombre": "aceitunas marvavic negras sin carozo x kg.",
+      "ean": "7791337010215",
+      "nombre": "yogur ls.clas.ent.sh x900g.fru",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4232.0,
+      "precio_hoy": 1999.0,
+      "diff_abs": -2233.0,
+      "diff_pct": -52.76
+    },
+    {
+      "ean": "7791337010369",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4232.0,
+      "precio_hoy": 1999.0,
+      "diff_abs": -2233.0,
+      "diff_pct": -52.76
+    },
+    {
+      "ean": "7791337010376",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4232.0,
+      "precio_hoy": 1999.0,
+      "diff_abs": -2233.0,
+      "diff_pct": -52.76
+    },
+    {
+      "ean": "7791337010468",
+      "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4232.0,
+      "precio_hoy": 1999.0,
+      "diff_abs": -2233.0,
+      "diff_pct": -52.76
+    },
+    {
+      "ean": "8445291996731",
+      "nombre": "avellanas con chocolate con leche nestle x 80 gm",
       "categoria": "Almacen",
-      "precio_antes": 18911.0,
-      "precio_hoy": 14499.0,
-      "diff_abs": -4412.0,
-      "diff_pct": -23.33
+      "precio_antes": 7200.0,
+      "precio_hoy": 3600.0,
+      "diff_abs": -3600.0,
+      "diff_pct": -50.0
+    },
+    {
+      "ean": "7791337007253",
+      "nombre": "leche chocolatada cindor x 1 lt.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 7018.0,
+      "precio_hoy": 3719.0,
+      "diff_abs": -3299.0,
+      "diff_pct": -47.01
+    },
+    {
+      "ean": "7791337007796",
+      "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 7018.0,
+      "precio_hoy": 3719.0,
+      "diff_abs": -3299.0,
+      "diff_pct": -47.01
+    },
+    {
+      "ean": "7791337007260",
+      "nombre": "leche chocolatada cindor x 200 ml.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2524.0,
+      "precio_hoy": 1339.0,
+      "diff_abs": -1185.0,
+      "diff_pct": -46.95
+    },
+    {
+      "ean": "7791337008403",
+      "nombre": "leche chocolatada la serenisima x 1 lt.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4926.0,
+      "precio_hoy": 2619.0,
+      "diff_abs": -2307.0,
+      "diff_pct": -46.83
     }
   ],
-  "productos_subieron_dia": 217,
-  "productos_bajaron_dia": 143,
-  "productos_sin_cambio_dia": 5435
+  "productos_subieron_dia": 145,
+  "productos_bajaron_dia": 81,
+  "productos_sin_cambio_dia": 5561
 }

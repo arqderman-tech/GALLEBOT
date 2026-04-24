@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2209.0,
-    "precio_hoy": 5007.0,
-    "diff_abs": 2798.0,
-    "diff_pct": 126.66
+    "ean": "2021550000003",
+    "nombre": "pepino x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1290.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 2700.0,
+    "diff_pct": 209.3
   },
   {
-    "ean": "7791337010468",
-    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2033.0,
-    "diff_pct": 92.45
+    "ean": "2022220000002",
+    "nombre": "tomate redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1590.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 900.0,
+    "diff_pct": 56.6
   },
   {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2033.0,
-    "diff_pct": 92.45
+    "ean": "2021950000009",
+    "nombre": "radicheta x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
   },
   {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2033.0,
-    "diff_pct": 92.45
+    "ean": "2019880000008",
+    "nombre": "acelga x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1390.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 600.0,
+    "diff_pct": 43.17
   },
   {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2033.0,
-    "diff_pct": 92.45
+    "ean": "2020120000009",
+    "nombre": "berengena negra x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
   },
   {
-    "ean": "7791337010369",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2033.0,
-    "diff_pct": 92.45
+    "ean": "2022210000005",
+    "nombre": "tomate perita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2290.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 700.0,
+    "diff_pct": 30.57
   },
   {
-    "ean": "7791337060944",
-    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5394.0,
-    "diff_abs": 2095.0,
-    "diff_pct": 63.5
-  },
-  {
-    "ean": "7791337061361",
-    "nombre": "queso crema casancrem x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5394.0,
-    "diff_abs": 2095.0,
-    "diff_pct": 63.5
-  },
-  {
-    "ean": "2014220000007",
-    "nombre": "queso mozzarella tregar x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 13879.0,
-    "precio_hoy": 21107.0,
-    "diff_abs": 7228.0,
-    "diff_pct": 52.08
-  },
-  {
-    "ean": "7798028020287",
-    "nombre": "mate cocido pajaro azul x 25 saquitos",
-    "categoria": "Perfumeria",
-    "precio_antes": 769.0,
-    "precio_hoy": 1154.0,
-    "diff_abs": 385.0,
-    "diff_pct": 50.07
-  },
-  {
-    "ean": "7500810034460",
-    "nombre": "snack takis xplosion x 85 gr.",
+    "ean": "7790360964526",
+    "nombre": "pate swift a la crema x88gr.",
     "categoria": "Almacen",
-    "precio_antes": 1889.0,
-    "precio_hoy": 2779.0,
-    "diff_abs": 890.0,
-    "diff_pct": 47.11
+    "precio_antes": 1119.0,
+    "precio_hoy": 1438.0,
+    "diff_abs": 319.0,
+    "diff_pct": 28.51
   },
   {
-    "ean": "7500810034361",
-    "nombre": "snack takis fuego x 85 gr.",
+    "ean": "7790360964557",
+    "nombre": "jamon del diablo swift88 facil",
     "categoria": "Almacen",
-    "precio_antes": 1889.0,
-    "precio_hoy": 2779.0,
-    "diff_abs": 890.0,
-    "diff_pct": 47.11
+    "precio_antes": 1119.0,
+    "precio_hoy": 1438.0,
+    "diff_abs": 319.0,
+    "diff_pct": 28.51
   },
   {
-    "ean": "7500810034477",
-    "nombre": "snack takis original x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1889.0,
-    "precio_hoy": 2779.0,
-    "diff_abs": 890.0,
-    "diff_pct": 47.11
+    "ean": "7790360967961",
+    "nombre": "medallones de carne swift receta especial x 4 unid",
+    "categoria": "Congelados",
+    "precio_antes": 6339.0,
+    "precio_hoy": 8042.0,
+    "diff_abs": 1703.0,
+    "diff_pct": 26.87
   },
   {
-    "ean": "7500810034347",
-    "nombre": "snack takis xplosion x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3029.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1424.0,
-    "diff_pct": 47.01
+    "ean": "7790360026682",
+    "nombre": "medallones de carne swift parrilleras x 4 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 7329.0,
+    "precio_hoy": 9292.0,
+    "diff_abs": 1963.0,
+    "diff_pct": 26.78
   },
   {
-    "ean": "7500810034330",
-    "nombre": "snack takis fuego x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3029.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1424.0,
-    "diff_pct": 47.01
+    "ean": "7790360977960",
+    "nombre": "medallones de carne swift burger mega x 2 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 2689.0,
+    "precio_hoy": 3364.0,
+    "diff_abs": 675.0,
+    "diff_pct": 25.1
   },
   {
-    "ean": "7500810034354",
-    "nombre": "snack takis original x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3029.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1424.0,
-    "diff_pct": 47.01
+    "ean": "2027730000009",
+    "nombre": "girgolas x kilo en bandeja",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
   },
   {
-    "ean": "7500810041741",
-    "nombre": "snack takis x 140 gm intense",
-    "categoria": "Almacen",
-    "precio_antes": 3029.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1424.0,
-    "diff_pct": 47.01
+    "ean": "7790360982445",
+    "nombre": "bocaditos swift x 400 gm pollo",
+    "categoria": "Congelados",
+    "precio_antes": 5279.0,
+    "precio_hoy": 6595.0,
+    "diff_abs": 1316.0,
+    "diff_pct": 24.93
   },
   {
-    "ean": "7791337061422",
-    "nombre": "queso crema la serenisima x 290 gm entero",
+    "ean": "7790360970053",
+    "nombre": "salchichas swift kids x 6 unid.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2599.0,
-    "precio_hoy": 3774.0,
-    "diff_abs": 1175.0,
-    "diff_pct": 45.21
+    "precio_antes": 1769.0,
+    "precio_hoy": 2156.0,
+    "diff_abs": 387.0,
+    "diff_pct": 21.88
   },
   {
-    "ean": "7791337061439",
-    "nombre": "queso untable la serenisima light x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2599.0,
-    "precio_hoy": 3774.0,
-    "diff_abs": 1175.0,
-    "diff_pct": 45.21
+    "ean": "7790360984715",
+    "nombre": "pate swift jalapeao x 90 gm",
+    "categoria": "Almacen",
+    "precio_antes": 1199.0,
+    "precio_hoy": 1441.0,
+    "diff_abs": 242.0,
+    "diff_pct": 20.18
   },
   {
-    "ean": "7791337009691",
-    "nombre": "yogur gran compra bebible x 900 gr vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1799.0,
-    "precio_hoy": 2581.0,
-    "diff_abs": 782.0,
-    "diff_pct": 43.47
+    "ean": "7790360984302",
+    "nombre": "picadillo swift picante chile x 90 gm",
+    "categoria": "Almacen",
+    "precio_antes": 1199.0,
+    "precio_hoy": 1441.0,
+    "diff_abs": 242.0,
+    "diff_pct": 20.18
+  },
+  {
+    "ean": "7790360720115",
+    "nombre": "picadillo carne swift 90",
+    "categoria": "Almacen",
+    "precio_antes": 1199.0,
+    "precio_hoy": 1440.0,
+    "diff_abs": 241.0,
+    "diff_pct": 20.1
+  },
+  {
+    "ean": "7790360720382",
+    "nombre": "pate de foie swift",
+    "categoria": "Almacen",
+    "precio_antes": 1199.0,
+    "precio_hoy": 1440.0,
+    "diff_abs": 241.0,
+    "diff_pct": 20.1
+  },
+  {
+    "ean": "7790360967701",
+    "nombre": "hamb.swift casera 2x120gr.",
+    "categoria": "Congelados",
+    "precio_antes": 5449.0,
+    "precio_hoy": 6455.0,
+    "diff_abs": 1006.0,
+    "diff_pct": 18.46
+  },
+  {
+    "ean": "7790360966797",
+    "nombre": "medallones de carne swift doble burger x 2 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 1689.0,
+    "precio_hoy": 1978.0,
+    "diff_abs": 289.0,
+    "diff_pct": 17.11
   }
 ]
