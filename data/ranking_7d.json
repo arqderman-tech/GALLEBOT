@@ -9,13 +9,13 @@
     "diff_pct": 209.3
   },
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2209.0,
-    "precio_hoy": 5007.0,
-    "diff_abs": 2798.0,
-    "diff_pct": 126.66
+    "ean": "2022220000002",
+    "nombre": "tomate redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 990.0,
+    "precio_hoy": 2790.0,
+    "diff_abs": 1800.0,
+    "diff_pct": 181.82
   },
   {
     "ean": "7791337010499",
@@ -27,13 +27,13 @@
     "diff_pct": 126.66
   },
   {
-    "ean": "2022220000002",
-    "nombre": "tomate redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1190.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 1300.0,
-    "diff_pct": 109.24
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2209.0,
+    "precio_hoy": 5007.0,
+    "diff_abs": 2798.0,
+    "diff_pct": 126.66
   },
   {
     "ean": "7792798014934",
@@ -54,21 +54,21 @@
     "diff_pct": 100.1
   },
   {
-    "ean": "7792798002115",
-    "nombre": "cerveza andes rubia x1 lt. retornable",
-    "categoria": "Bebidas",
-    "precio_antes": 2549.0,
-    "precio_hoy": 5100.0,
-    "diff_abs": 2551.0,
-    "diff_pct": 100.08
-  },
-  {
     "ean": "7792798014972",
     "nombre": "cerveza andes original x1lt oro retornable",
     "categoria": "Bebidas",
     "precio_antes": 2449.0,
     "precio_hoy": 4900.0,
     "diff_abs": 2451.0,
+    "diff_pct": 100.08
+  },
+  {
+    "ean": "7792798002115",
+    "nombre": "cerveza andes rubia x1 lt. retornable",
+    "categoria": "Bebidas",
+    "precio_antes": 2549.0,
+    "precio_hoy": 5100.0,
+    "diff_abs": 2551.0,
     "diff_pct": 100.08
   },
   {
@@ -135,8 +135,8 @@
     "diff_pct": 64.01
   },
   {
-    "ean": "78600027",
-    "nombre": "pastillas tic tac naranja x 16 gr.",
+    "ean": "7797394001265",
+    "nombre": "pastillas tic tac mix de frutas x 16 gr.",
     "categoria": "Almacen",
     "precio_antes": 679.0,
     "precio_hoy": 1101.0,
@@ -153,8 +153,8 @@
     "diff_pct": 62.15
   },
   {
-    "ean": "7797394001265",
-    "nombre": "pastillas tic tac mix de frutas x 16 gr.",
+    "ean": "78600027",
+    "nombre": "pastillas tic tac naranja x 16 gr.",
     "categoria": "Almacen",
     "precio_antes": 679.0,
     "precio_hoy": 1101.0,
@@ -162,21 +162,21 @@
     "diff_pct": 62.15
   },
   {
-    "ean": "7898024396994",
-    "nombre": "bombones ferrero rocher x 12 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 10459.0,
-    "precio_hoy": 16027.0,
-    "diff_abs": 5568.0,
-    "diff_pct": 53.24
+    "ean": "7791728239324",
+    "nombre": "vino tinto santa julia tintillo malbec-bonarda x .",
+    "categoria": "Bebidas",
+    "precio_antes": 2309.0,
+    "precio_hoy": 3575.0,
+    "diff_abs": 1266.0,
+    "diff_pct": 54.83
   },
   {
-    "ean": "8000500232057",
-    "nombre": "bombones rafaello x 9 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 5419.0,
-    "precio_hoy": 8303.0,
-    "diff_abs": 2884.0,
-    "diff_pct": 53.22
+    "ean": "7791728242577",
+    "nombre": "vino santa julia rose x 269 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2309.0,
+    "precio_hoy": 3575.0,
+    "diff_abs": 1266.0,
+    "diff_pct": 54.83
   }
 ]

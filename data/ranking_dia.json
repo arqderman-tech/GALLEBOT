@@ -1,34 +1,7 @@
 [
   {
-    "ean": "2021550000003",
-    "nombre": "pepino x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1290.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 2700.0,
-    "diff_pct": 209.3
-  },
-  {
-    "ean": "2022220000002",
-    "nombre": "tomate redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1590.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 900.0,
-    "diff_pct": 56.6
-  },
-  {
-    "ean": "2021950000009",
-    "nombre": "radicheta x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 50.25
-  },
-  {
-    "ean": "2019880000008",
-    "nombre": "acelga x paquete",
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 1390.0,
     "precio_hoy": 1990.0,
@@ -36,71 +9,62 @@
     "diff_pct": 43.17
   },
   {
-    "ean": "2020120000009",
-    "nombre": "berengena negra x kg.",
+    "ean": "2023990000001",
+    "nombre": "sesos x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 2651.0,
+    "precio_hoy": 3755.0,
+    "diff_abs": 1104.0,
+    "diff_pct": 41.64
+  },
+  {
+    "ean": "2020300000003",
+    "nombre": "cebolla de verdeo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
+    "precio_antes": 5990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 33.39
   },
   {
-    "ean": "2022210000005",
-    "nombre": "tomate perita x kg.",
+    "ean": "2023940000006",
+    "nombre": "mondongo * x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 9055.0,
+    "precio_hoy": 11791.0,
+    "diff_abs": 2736.0,
+    "diff_pct": 30.22
+  },
+  {
+    "ean": "2023970000007",
+    "nombre": "rabos x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 9051.0,
+    "precio_hoy": 11783.0,
+    "diff_abs": 2732.0,
+    "diff_pct": 30.18
+  },
+  {
+    "ean": "7840050009737",
+    "nombre": "cerveza michelob ultra botella x 275 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 1659.0,
+    "precio_hoy": 2078.58,
+    "diff_abs": 419.58,
+    "diff_pct": 25.29
+  },
+  {
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2290.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 700.0,
-    "diff_pct": 30.57
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
   },
   {
-    "ean": "7790360964526",
-    "nombre": "pate swift a la crema x88gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1119.0,
-    "precio_hoy": 1438.0,
-    "diff_abs": 319.0,
-    "diff_pct": 28.51
-  },
-  {
-    "ean": "7790360964557",
-    "nombre": "jamon del diablo swift88 facil",
-    "categoria": "Almacen",
-    "precio_antes": 1119.0,
-    "precio_hoy": 1438.0,
-    "diff_abs": 319.0,
-    "diff_pct": 28.51
-  },
-  {
-    "ean": "7790360967961",
-    "nombre": "medallones de carne swift receta especial x 4 unid",
-    "categoria": "Congelados",
-    "precio_antes": 6339.0,
-    "precio_hoy": 8042.0,
-    "diff_abs": 1703.0,
-    "diff_pct": 26.87
-  },
-  {
-    "ean": "7790360026682",
-    "nombre": "medallones de carne swift parrilleras x 4 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 7329.0,
-    "precio_hoy": 9292.0,
-    "diff_abs": 1963.0,
-    "diff_pct": 26.78
-  },
-  {
-    "ean": "7790360977960",
-    "nombre": "medallones de carne swift burger mega x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 2689.0,
-    "precio_hoy": 3364.0,
-    "diff_abs": 675.0,
-    "diff_pct": 25.1
-  },
-  {
-    "ean": "2027730000009",
-    "nombre": "girgolas x kilo en bandeja",
+    "ean": "2021780000002",
+    "nombre": "perejil x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 4990.0,
@@ -108,75 +72,111 @@
     "diff_pct": 25.06
   },
   {
-    "ean": "7790360982445",
-    "nombre": "bocaditos swift x 400 gm pollo",
-    "categoria": "Congelados",
-    "precio_antes": 5279.0,
-    "precio_hoy": 6595.0,
-    "diff_abs": 1316.0,
-    "diff_pct": 24.93
+    "ean": "2024010000001",
+    "nombre": "tripa gorda x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 6192.0,
+    "precio_hoy": 7519.0,
+    "diff_abs": 1327.0,
+    "diff_pct": 21.43
   },
   {
-    "ean": "7790360970053",
-    "nombre": "salchichas swift kids x 6 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1769.0,
-    "precio_hoy": 2156.0,
-    "diff_abs": 387.0,
-    "diff_pct": 21.88
+    "ean": "2023900000008",
+    "nombre": "higado x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 5110.0,
+    "precio_hoy": 6205.0,
+    "diff_abs": 1095.0,
+    "diff_pct": 21.43
   },
   {
-    "ean": "7790360984715",
-    "nombre": "pate swift jalapeao x 90 gm",
-    "categoria": "Almacen",
-    "precio_antes": 1199.0,
-    "precio_hoy": 1441.0,
-    "diff_abs": 242.0,
-    "diff_pct": 20.18
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3490.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 14.33
   },
   {
-    "ean": "7790360984302",
-    "nombre": "picadillo swift picante chile x 90 gm",
-    "categoria": "Almacen",
-    "precio_antes": 1199.0,
-    "precio_hoy": 1441.0,
-    "diff_abs": 242.0,
-    "diff_pct": 20.18
+    "ean": "2023860000001",
+    "nombre": "corazon x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 6922.0,
+    "precio_hoy": 7832.0,
+    "diff_abs": 910.0,
+    "diff_pct": 13.15
   },
   {
-    "ean": "7790360720115",
-    "nombre": "picadillo carne swift 90",
-    "categoria": "Almacen",
-    "precio_antes": 1199.0,
-    "precio_hoy": 1440.0,
-    "diff_abs": 241.0,
-    "diff_pct": 20.1
+    "ean": "2022220000002",
+    "nombre": "tomate redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 2790.0,
+    "diff_abs": 300.0,
+    "diff_pct": 12.05
   },
   {
-    "ean": "7790360720382",
-    "nombre": "pate de foie swift",
-    "categoria": "Almacen",
-    "precio_antes": 1199.0,
-    "precio_hoy": 1440.0,
-    "diff_abs": 241.0,
-    "diff_pct": 20.1
+    "ean": "7791813828372",
+    "nombre": "gaseosa pepsi black x354ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 979.0,
+    "precio_hoy": 1091.96,
+    "diff_abs": 112.96,
+    "diff_pct": 11.54
   },
   {
-    "ean": "7790360967701",
-    "nombre": "hamb.swift casera 2x120gr.",
-    "categoria": "Congelados",
-    "precio_antes": 5449.0,
-    "precio_hoy": 6455.0,
-    "diff_abs": 1006.0,
-    "diff_pct": 18.46
+    "ean": "7791813888376",
+    "nombre": "gaseosa pepsi x 354 ml lata",
+    "categoria": "Bebidas",
+    "precio_antes": 979.0,
+    "precio_hoy": 1091.96,
+    "diff_abs": 112.96,
+    "diff_pct": 11.54
   },
   {
-    "ean": "7790360966797",
-    "nombre": "medallones de carne swift doble burger x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 1689.0,
-    "precio_hoy": 1978.0,
-    "diff_abs": 289.0,
-    "diff_pct": 17.11
+    "ean": "7791813777021",
+    "nombre": "gaseosa lima-limon seven up x 345 ml. lata",
+    "categoria": "Bebidas",
+    "precio_antes": 979.0,
+    "precio_hoy": 1092.02,
+    "diff_abs": 113.02,
+    "diff_pct": 11.54
+  },
+  {
+    "ean": "7791813800750",
+    "nombre": "gaseosa p.toros pomelo x269ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 979.0,
+    "precio_hoy": 1091.44,
+    "diff_abs": 112.44,
+    "diff_pct": 11.49
+  },
+  {
+    "ean": "2023890000002",
+    "nombre": "entrana x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 14215.0,
+    "precio_hoy": 15673.0,
+    "diff_abs": 1458.0,
+    "diff_pct": 10.26
+  },
+  {
+    "ean": "2023920000002",
+    "nombre": "mollejas x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 36278.0,
+    "precio_hoy": 39924.0,
+    "diff_abs": 3646.0,
+    "diff_pct": 10.05
+  },
+  {
+    "ean": "2023980000004",
+    "nombre": "rinones sgrasa x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 7513.0,
+    "precio_hoy": 8176.0,
+    "diff_abs": 663.0,
+    "diff_pct": 8.82
   }
 ]
