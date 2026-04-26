@@ -36,15 +36,6 @@
     "diff_pct": 99.81
   },
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2509.0,
-    "precio_hoy": 5007.0,
-    "diff_abs": 2498.0,
-    "diff_pct": 99.56
-  },
-  {
     "ean": "7791337010499",
     "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
     "categoria": "Lacteos Y Frescos",
@@ -54,6 +45,24 @@
     "diff_pct": 99.56
   },
   {
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2509.0,
+    "precio_hoy": 5007.0,
+    "diff_abs": 2498.0,
+    "diff_pct": 99.56
+  },
+  {
+    "ean": "2021790000009",
+    "nombre": "pimiento amarillo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
+  },
+  {
     "ean": "7793890261844",
     "nombre": "tostadas libre de gluten salmas x 90 gr clasicas",
     "categoria": "Almacen",
@@ -61,6 +70,15 @@
     "precio_hoy": 2579.0,
     "diff_abs": 1070.0,
     "diff_pct": 70.91
+  },
+  {
+    "ean": "7793126002012",
+    "nombre": "mermelada patagonia tradicional x 320 gm frutilla",
+    "categoria": "Perfumeria",
+    "precio_antes": 5687.57,
+    "precio_hoy": 9554.0,
+    "diff_abs": 3866.43,
+    "diff_pct": 67.98
   },
   {
     "ean": "7791337010505",
@@ -126,6 +144,15 @@
     "diff_pct": 60.07
   },
   {
+    "ean": "7790550029479",
+    "nombre": "cafe instantaneo cabrales la planta suave x 100 gr",
+    "categoria": "Perfumeria",
+    "precio_antes": 4869.0,
+    "precio_hoy": 7732.0,
+    "diff_abs": 2863.0,
+    "diff_pct": 58.8
+  },
+  {
     "ean": "7793890261530",
     "nombre": "braunichoc sabe bien! x 35 gr.",
     "categoria": "Perfumeria",
@@ -135,6 +162,15 @@
     "diff_pct": 58.64
   },
   {
+    "ean": "7792798014934",
+    "nombre": "cerveza andes lata x 473 ml oro",
+    "categoria": "Bebidas",
+    "precio_antes": 1769.0,
+    "precio_hoy": 2800.0,
+    "diff_abs": 1031.0,
+    "diff_pct": 58.28
+  },
+  {
     "ean": "2011810000003",
     "nombre": "higos secos negros medianos x kg.",
     "categoria": "Almacen",
@@ -142,41 +178,5 @@
     "precio_hoy": 19122.0,
     "diff_abs": 7038.0,
     "diff_pct": 58.24
-  },
-  {
-    "ean": "7794940000796",
-    "nombre": "edulcorante hileret stevia x 200 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 3239.0,
-    "precio_hoy": 5041.0,
-    "diff_abs": 1802.0,
-    "diff_pct": 55.63
-  },
-  {
-    "ean": "2011610000005",
-    "nombre": "queso reggianito canut x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 18629.0,
-    "precio_hoy": 28888.0,
-    "diff_abs": 10259.0,
-    "diff_pct": 55.07
-  },
-  {
-    "ean": "7797906054925",
-    "nombre": "papas noisette mc cain horneables x 600 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 6489.0,
-    "precio_hoy": 10000.0,
-    "diff_abs": 3511.0,
-    "diff_pct": 54.11
-  },
-  {
-    "ean": "7794080000212",
-    "nombre": "tapa para pascualina la morocha hojaldre x 2 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1249.0,
-    "precio_hoy": 1903.0,
-    "diff_abs": 654.0,
-    "diff_pct": 52.36
   }
 ]

@@ -1,30 +1,30 @@
 {
-  "fecha": "20260425",
-  "total_productos": 5865,
-  "variacion_dia": -0.23,
-  "variacion_7d": 0.97,
-  "variacion_mes": 2.02,
+  "fecha": "20260426",
+  "total_productos": 5936,
+  "variacion_dia": 0.0,
+  "variacion_7d": 0.81,
+  "variacion_mes": 2.05,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.14,
-      "productos_subieron": 47,
-      "productos_bajaron": 6,
-      "total_productos": 1299
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1300
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.17,
-      "productos_subieron": 17,
-      "productos_bajaron": 10,
-      "total_productos": 1121
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1133
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -2.55,
-      "productos_subieron": 1,
-      "productos_bajaron": 37,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
       "total_productos": 220
     },
     {
@@ -32,116 +32,116 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 674
+      "total_productos": 689
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.15,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 11,
-      "total_productos": 866
+      "productos_bajaron": 0,
+      "total_productos": 881
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.64,
-      "productos_subieron": 2,
-      "productos_bajaron": 54,
-      "total_productos": 1622
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1641
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790070265326",
-      "nombre": "rocio vegetal lira oliva x 120 gr.",
+      "ean": "7790310985830",
+      "nombre": "3ds queso x 85 gr.",
       "categoria": "Almacen",
-      "precio_antes": 6561.0,
-      "precio_hoy": 2479.0,
-      "diff_abs": -4082.0,
-      "diff_pct": -62.22
+      "precio_antes": 3649.0,
+      "precio_hoy": 3649.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7792360094586",
-      "nombre": "chocolate vizzio con almendras x 100 gr.",
+      "ean": "7790310985137",
+      "nombre": "3ds queso x143gr.",
       "categoria": "Almacen",
-      "precio_antes": 5965.0,
-      "precio_hoy": 3699.0,
-      "diff_abs": -2266.0,
-      "diff_pct": -37.99
+      "precio_antes": 5118.0,
+      "precio_hoy": 5118.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7792360094548",
-      "nombre": "chocolate vizzio mani x 85 gr.",
+      "ean": "7790310985113",
+      "nombre": "3ds sabor queso x 43 gm",
       "categoria": "Almacen",
-      "precio_antes": 3529.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -1330.0,
-      "diff_pct": -37.69
+      "precio_antes": 2271.0,
+      "precio_hoy": 2271.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790070431486",
-      "nombre": "arroz lucchetti x1kg.l.fino",
+      "ean": "763571722428",
+      "nombre": "ac.de coco entrenuts x200virg.",
       "categoria": "Almacen",
-      "precio_antes": 3113.0,
-      "precio_hoy": 1949.0,
-      "diff_abs": -1164.0,
-      "diff_pct": -37.39
+      "precio_antes": 9649.0,
+      "precio_hoy": 9649.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7792360094418",
-      "nombre": "chocolate blanco bonafide x 100 gr.",
+      "ean": "7798080520657",
+      "nombre": "ac.ol.l.toscana x250ml.ajo",
       "categoria": "Almacen",
-      "precio_antes": 4620.0,
-      "precio_hoy": 2899.0,
-      "diff_abs": -1721.0,
-      "diff_pct": -37.25
+      "precio_antes": 10263.0,
+      "precio_hoy": 10263.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790070337092",
-      "nombre": "fideos mostachol al huevo lucchetti x 500 gr.",
+      "ean": "7798080520534",
+      "nombre": "ac.ol.l.toscana x250ml.albahac",
       "categoria": "Almacen",
-      "precio_antes": 2148.0,
-      "precio_hoy": 1369.0,
-      "diff_abs": -779.0,
-      "diff_pct": -36.27
+      "precio_antes": 10263.0,
+      "precio_hoy": 10263.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790070431493",
-      "nombre": "arroz lucchetti x500gr.l.fino",
+      "ean": "41331014922",
+      "nombre": "acaitunas goya x 149 gm con pimiento picante",
       "categoria": "Almacen",
-      "precio_antes": 1646.0,
-      "precio_hoy": 1049.0,
-      "diff_abs": -597.0,
-      "diff_pct": -36.27
+      "precio_antes": 8703.0,
+      "precio_hoy": 8703.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790070433145",
-      "nombre": "arroz largo fino gallo x 500 gr.",
+      "ean": "7790580160807",
+      "nombre": "aceite arcor x900ml.maiz",
       "categoria": "Almacen",
-      "precio_antes": 1790.0,
-      "precio_hoy": 1149.0,
-      "diff_abs": -641.0,
-      "diff_pct": -35.81
+      "precio_antes": 5280.0,
+      "precio_hoy": 5280.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790670052418",
-      "nombre": "salchicha vienissima x 12 unid.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 6074.0,
-      "precio_hoy": 4159.0,
-      "diff_abs": -1915.0,
-      "diff_pct": -31.53
+      "ean": "7790070265142",
+      "nombre": "aceite cocinero puro de oliva x 500 ml",
+      "categoria": "Almacen",
+      "precio_antes": 10921.0,
+      "precio_hoy": 10921.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790670050650",
-      "nombre": "hamburguesas paty x 4 unid. clasicas",
-      "categoria": "Congelados",
-      "precio_antes": 9141.0,
-      "precio_hoy": 6259.0,
-      "diff_abs": -2882.0,
-      "diff_pct": -31.53
+      "ean": "7790070231598",
+      "nombre": "aceite cocinero x900 ml oliva y girasol",
+      "categoria": "Almacen",
+      "precio_antes": 5927.0,
+      "precio_hoy": 5927.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 67,
-  "productos_bajaron_dia": 118,
-  "productos_sin_cambio_dia": 5617
+  "productos_subieron_dia": 0,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 5864
 }
