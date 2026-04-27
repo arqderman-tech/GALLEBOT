@@ -1,9 +1,9 @@
 {
-  "fecha": "20260426",
-  "total_productos": 5936,
+  "fecha": "20260427",
+  "total_productos": 5927,
   "variacion_dia": 0.0,
   "variacion_7d": 0.81,
-  "variacion_mes": 2.05,
+  "variacion_mes": 2.15,
   "variacion_anio": null,
   "categorias_dia": [
     {
@@ -11,14 +11,14 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1300
+      "total_productos": 1311
     },
     {
       "categoria": "Frescos",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1133
+      "total_productos": 1142
     },
     {
       "categoria": "Congelados",
@@ -39,14 +39,14 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 881
+      "total_productos": 893
     },
     {
       "categoria": "Almacen",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1641
+      "total_productos": 1670
     }
   ],
   "ranking_baja_dia": [
@@ -143,5 +143,5 @@
   ],
   "productos_subieron_dia": 0,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 5864
+  "productos_sin_cambio_dia": 5925
 }

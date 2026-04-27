@@ -18,8 +18,8 @@
     "diff_pct": 181.82
   },
   {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2209.0,
     "precio_hoy": 5007.0,
@@ -27,8 +27,8 @@
     "diff_pct": 126.66
   },
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2209.0,
     "precio_hoy": 5007.0,
@@ -54,15 +54,6 @@
     "diff_pct": 100.1
   },
   {
-    "ean": "7792798002115",
-    "nombre": "cerveza andes rubia x1 lt. retornable",
-    "categoria": "Bebidas",
-    "precio_antes": 2549.0,
-    "precio_hoy": 5100.0,
-    "diff_abs": 2551.0,
-    "diff_pct": 100.08
-  },
-  {
     "ean": "7792798014972",
     "nombre": "cerveza andes original x1lt oro retornable",
     "categoria": "Bebidas",
@@ -72,8 +63,17 @@
     "diff_pct": 100.08
   },
   {
-    "ean": "7792798002757",
-    "nombre": "cerveza andes ipa retornable x 1 lt.",
+    "ean": "7792798002115",
+    "nombre": "cerveza andes rubia x1 lt. retornable",
+    "categoria": "Bebidas",
+    "precio_antes": 2549.0,
+    "precio_hoy": 5100.0,
+    "diff_abs": 2551.0,
+    "diff_pct": 100.08
+  },
+  {
+    "ean": "7792798002122",
+    "nombre": "cerveza andes roja x 1 lt. retornable",
     "categoria": "Bebidas",
     "precio_antes": 2609.0,
     "precio_hoy": 5200.0,
@@ -81,8 +81,8 @@
     "diff_pct": 99.31
   },
   {
-    "ean": "7792798002122",
-    "nombre": "cerveza andes roja x 1 lt. retornable",
+    "ean": "7792798002757",
+    "nombre": "cerveza andes ipa retornable x 1 lt.",
     "categoria": "Bebidas",
     "precio_antes": 2609.0,
     "precio_hoy": 5200.0,
@@ -135,6 +135,15 @@
     "diff_pct": 64.01
   },
   {
+    "ean": "78600010",
+    "nombre": "pastillas tic tac menta x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 679.0,
+    "precio_hoy": 1101.0,
+    "diff_abs": 422.0,
+    "diff_pct": 62.15
+  },
+  {
     "ean": "7797394001265",
     "nombre": "pastillas tic tac mix de frutas x 16 gr.",
     "categoria": "Almacen",
@@ -153,17 +162,8 @@
     "diff_pct": 62.15
   },
   {
-    "ean": "78600010",
-    "nombre": "pastillas tic tac menta x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 679.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 422.0,
-    "diff_pct": 62.15
-  },
-  {
-    "ean": "7791728242577",
-    "nombre": "vino santa julia rose x 269 ml.",
+    "ean": "7791728239324",
+    "nombre": "vino tinto santa julia tintillo malbec-bonarda x .",
     "categoria": "Bebidas",
     "precio_antes": 2309.0,
     "precio_hoy": 3575.0,
@@ -171,8 +171,8 @@
     "diff_pct": 54.83
   },
   {
-    "ean": "7791728237160",
-    "nombre": "vino blanco santa julia chenin dulce natural x 355",
+    "ean": "7791728239331",
+    "nombre": "vino tinto santa julia dulce natural x 269 ml.",
     "categoria": "Bebidas",
     "precio_antes": 2309.0,
     "precio_hoy": 3575.0,
