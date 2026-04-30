@@ -4,179 +4,179 @@
     "nombre": "pepino x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 1290.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 2700.0,
-    "diff_pct": 209.3
+    "precio_hoy": 4990.0,
+    "diff_abs": 3700.0,
+    "diff_pct": 286.82
+  },
+  {
+    "ean": "7622201704148",
+    "nombre": "jugo en polvo clight mandarina x 8 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 309.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 330.0,
+    "diff_pct": 106.8
+  },
+  {
+    "ean": "7622201703059",
+    "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 309.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 330.0,
+    "diff_pct": 106.8
+  },
+  {
+    "ean": "7622201703202",
+    "nombre": "jugo clight pera x7gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 309.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 330.0,
+    "diff_pct": 106.8
+  },
+  {
+    "ean": "7622201745936",
+    "nombre": "jugo tang durazno x15gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 299.0,
+    "precio_hoy": 611.0,
+    "diff_abs": 312.0,
+    "diff_pct": 104.35
+  },
+  {
+    "ean": "7622201733865",
+    "nombre": "jugo tang mandarina x 15 gm",
+    "categoria": "Bebidas",
+    "precio_antes": 299.0,
+    "precio_hoy": 611.0,
+    "diff_abs": 312.0,
+    "diff_pct": 104.35
+  },
+  {
+    "ean": "7622201746490",
+    "nombre": "jugo en polvo tang x 15 gr. frutilla",
+    "categoria": "Bebidas",
+    "precio_antes": 299.0,
+    "precio_hoy": 611.0,
+    "diff_abs": 312.0,
+    "diff_pct": 104.35
   },
   {
     "ean": "2022220000002",
     "nombre": "tomate redondo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 2790.0,
-    "diff_abs": 1800.0,
-    "diff_pct": 181.82
+    "precio_antes": 1590.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1400.0,
+    "diff_pct": 88.05
   },
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2209.0,
-    "precio_hoy": 5007.0,
-    "diff_abs": 2798.0,
-    "diff_pct": 126.66
+    "ean": "7793762006252",
+    "nombre": "cubeteras gemplast x 2 unid.",
+    "categoria": "Limpieza",
+    "precio_antes": 1190.0,
+    "precio_hoy": 2127.0,
+    "diff_abs": 937.0,
+    "diff_pct": 78.74
   },
   {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2209.0,
-    "precio_hoy": 5007.0,
-    "diff_abs": 2798.0,
-    "diff_pct": 126.66
-  },
-  {
-    "ean": "7792798014934",
-    "nombre": "cerveza andes lata x 473 ml oro",
-    "categoria": "Bebidas",
-    "precio_antes": 1399.0,
-    "precio_hoy": 2800.0,
-    "diff_abs": 1401.0,
-    "diff_pct": 100.14
-  },
-  {
-    "ean": "7792798014156",
-    "nombre": "cerveza andes rubia origen lata x 710 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 2099.0,
-    "precio_hoy": 4200.0,
-    "diff_abs": 2101.0,
-    "diff_pct": 100.1
-  },
-  {
-    "ean": "7792798014972",
-    "nombre": "cerveza andes original x1lt oro retornable",
-    "categoria": "Bebidas",
-    "precio_antes": 2449.0,
-    "precio_hoy": 4900.0,
-    "diff_abs": 2451.0,
-    "diff_pct": 100.08
-  },
-  {
-    "ean": "7792798002115",
-    "nombre": "cerveza andes rubia x1 lt. retornable",
-    "categoria": "Bebidas",
-    "precio_antes": 2549.0,
-    "precio_hoy": 5100.0,
-    "diff_abs": 2551.0,
-    "diff_pct": 100.08
-  },
-  {
-    "ean": "7792798002122",
-    "nombre": "cerveza andes roja x 1 lt. retornable",
-    "categoria": "Bebidas",
-    "precio_antes": 2609.0,
-    "precio_hoy": 5200.0,
-    "diff_abs": 2591.0,
-    "diff_pct": 99.31
-  },
-  {
-    "ean": "7792798002757",
-    "nombre": "cerveza andes ipa retornable x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2609.0,
-    "precio_hoy": 5200.0,
-    "diff_abs": 2591.0,
-    "diff_pct": 99.31
-  },
-  {
-    "ean": "7792798002320",
-    "nombre": "cerveza andes negra lata x 473ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 3025.0,
-    "diff_abs": 1506.0,
-    "diff_pct": 99.14
-  },
-  {
-    "ean": "7792798992317",
-    "nombre": "cerveza andes roja lata x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 3025.0,
-    "diff_abs": 1506.0,
-    "diff_pct": 99.14
-  },
-  {
-    "ean": "7793126002012",
-    "nombre": "mermelada patagonia tradicional x 320 gm frutilla",
-    "categoria": "Perfumeria",
-    "precio_antes": 5687.57,
-    "precio_hoy": 9554.0,
-    "diff_abs": 3866.43,
-    "diff_pct": 67.98
-  },
-  {
-    "ean": "7898024397861",
-    "nombre": "bombones ferrero rocher x 50 gr.",
+    "ean": "77969118",
+    "nombre": "chicle beldent frutilla x10gr.",
     "categoria": "Almacen",
-    "precio_antes": 3469.0,
-    "precio_hoy": 5697.0,
-    "diff_abs": 2228.0,
-    "diff_pct": 64.23
+    "precio_antes": 769.0,
+    "precio_hoy": 1286.0,
+    "diff_abs": 517.0,
+    "diff_pct": 67.23
   },
   {
-    "ean": "80052487",
-    "nombre": "bombon raffaello x 3 unidades",
-    "categoria": "Almacen",
-    "precio_antes": 1859.0,
-    "precio_hoy": 3049.0,
-    "diff_abs": 1190.0,
-    "diff_pct": 64.01
-  },
-  {
-    "ean": "78600010",
-    "nombre": "pastillas tic tac menta x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 679.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 422.0,
-    "diff_pct": 62.15
-  },
-  {
-    "ean": "7797394001265",
-    "nombre": "pastillas tic tac mix de frutas x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 679.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 422.0,
-    "diff_pct": 62.15
-  },
-  {
-    "ean": "78600027",
-    "nombre": "pastillas tic tac naranja x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 679.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 422.0,
-    "diff_pct": 62.15
-  },
-  {
-    "ean": "7791728239324",
-    "nombre": "vino tinto santa julia tintillo malbec-bonarda x .",
+    "ean": "7622201703080",
+    "nombre": "jugo clight manzana deliciosa x 7 gr.",
     "categoria": "Bebidas",
-    "precio_antes": 2309.0,
-    "precio_hoy": 3575.0,
-    "diff_abs": 1266.0,
-    "diff_pct": 54.83
+    "precio_antes": 399.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 240.0,
+    "diff_pct": 60.15
   },
   {
-    "ean": "7791728239331",
-    "nombre": "vino tinto santa julia dulce natural x 269 ml.",
+    "ean": "7622201682026",
+    "nombre": "jugo clight limo rosa x7.5gr",
     "categoria": "Bebidas",
-    "precio_antes": 2309.0,
-    "precio_hoy": 3575.0,
-    "diff_abs": 1266.0,
-    "diff_pct": 54.83
+    "precio_antes": 399.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 240.0,
+    "diff_pct": 60.15
+  },
+  {
+    "ean": "7622202236846",
+    "nombre": "jugo clight arandano x8gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 399.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 240.0,
+    "diff_pct": 60.15
+  },
+  {
+    "ean": "7622201703141",
+    "nombre": "jugo en polvo clight naranja dulce x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 399.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 240.0,
+    "diff_pct": 60.15
+  },
+  {
+    "ean": "7622201702717",
+    "nombre": "jugo en polvo clight naranja-durazno x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 399.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 240.0,
+    "diff_pct": 60.15
+  },
+  {
+    "ean": "7622201703110",
+    "nombre": "jugo en polvo clight x 7 gr. sabor naranja",
+    "categoria": "Bebidas",
+    "precio_antes": 399.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 240.0,
+    "diff_pct": 60.15
+  },
+  {
+    "ean": "7622201733834",
+    "nombre": "jugo en polvo clight limonada-maracuya x 7,5 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 399.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 240.0,
+    "diff_pct": 60.15
+  },
+  {
+    "ean": "7622201703172",
+    "nombre": "jugo clight pomelo rosado 7gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 399.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 240.0,
+    "diff_pct": 60.15
+  },
+  {
+    "ean": "7622202359927",
+    "nombre": "jugo cligh pomelada hibiscus x 8 gm",
+    "categoria": "Bebidas",
+    "precio_antes": 399.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 240.0,
+    "diff_pct": 60.15
+  },
+  {
+    "ean": "7622201702625",
+    "nombre": "jugo en polvo clight anana x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 399.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 240.0,
+    "diff_pct": 60.15
   }
 ]

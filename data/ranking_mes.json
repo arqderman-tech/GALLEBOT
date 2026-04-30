@@ -4,9 +4,9 @@
     "nombre": "pepino x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 1490.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 167.79
+    "precio_hoy": 4990.0,
+    "diff_abs": 3500.0,
+    "diff_pct": 234.9
   },
   {
     "ean": "2021950000009",
@@ -18,15 +18,6 @@
     "diff_pct": 151.26
   },
   {
-    "ean": "2020870000007",
-    "nombre": "kaki x kilo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 100.25
-  },
-  {
     "ean": "7862109430934",
     "nombre": "gatorade x 473 ml frutos tropicales",
     "categoria": "Bebidas",
@@ -34,6 +25,15 @@
     "precio_hoy": 5333.0,
     "diff_abs": 2664.0,
     "diff_pct": 99.81
+  },
+  {
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2509.0,
+    "precio_hoy": 5007.0,
+    "diff_abs": 2498.0,
+    "diff_pct": 99.56
   },
   {
     "ean": "7791337010499",
@@ -45,13 +45,31 @@
     "diff_pct": 99.56
   },
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2509.0,
-    "precio_hoy": 5007.0,
-    "diff_abs": 2498.0,
-    "diff_pct": 99.56
+    "ean": "7793762006252",
+    "nombre": "cubeteras gemplast x 2 unid.",
+    "categoria": "Limpieza",
+    "precio_antes": 1190.0,
+    "precio_hoy": 2127.0,
+    "diff_abs": 937.0,
+    "diff_pct": 78.74
+  },
+  {
+    "ean": "2020920000001",
+    "nombre": "lechuga mantecosa x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
+  },
+  {
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
   },
   {
     "ean": "2021790000009",
@@ -81,8 +99,8 @@
     "diff_pct": 67.98
   },
   {
-    "ean": "7791337010505",
-    "nombre": "yogur la seren. clasico entero sachet x 1.3 kilos sabor vain",
+    "ean": "7791337010512",
+    "nombre": "yogur la serenisima clasico entero sachet x 1.3 litros fruti",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3409.0,
     "precio_hoy": 5717.0,
@@ -90,8 +108,8 @@
     "diff_pct": 67.7
   },
   {
-    "ean": "7791337010512",
-    "nombre": "yogur la serenisima clasico entero sachet x 1.3 litros fruti",
+    "ean": "7791337010505",
+    "nombre": "yogur la seren. clasico entero sachet x 1.3 kilos sabor vain",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3409.0,
     "precio_hoy": 5717.0,
@@ -115,15 +133,6 @@
     "precio_hoy": 4990.0,
     "diff_abs": 2000.0,
     "diff_pct": 66.89
-  },
-  {
-    "ean": "8445291904392",
-    "nombre": "combo nescafe dolca x 170 gr. + coffee mate x 170.",
-    "categoria": "Perfumeria",
-    "precio_antes": 10046.0,
-    "precio_hoy": 16525.0,
-    "diff_abs": 6479.0,
-    "diff_pct": 64.49
   },
   {
     "ean": "2021660000009",
@@ -160,15 +169,6 @@
     "precio_hoy": 982.0,
     "diff_abs": 363.0,
     "diff_pct": 58.64
-  },
-  {
-    "ean": "7792798014934",
-    "nombre": "cerveza andes lata x 473 ml oro",
-    "categoria": "Bebidas",
-    "precio_antes": 1769.0,
-    "precio_hoy": 2800.0,
-    "diff_abs": 1031.0,
-    "diff_pct": 58.28
   },
   {
     "ean": "2011810000003",
