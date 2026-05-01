@@ -1,147 +1,147 @@
 {
-  "fecha": "20260430",
-  "total_productos": 5921,
-  "variacion_dia": 1.79,
-  "variacion_7d": 1.47,
-  "variacion_mes": 3.45,
+  "fecha": "20260501",
+  "total_productos": 5955,
+  "variacion_dia": 1.84,
+  "variacion_7d": 3.4,
+  "variacion_mes": 3.27,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 2.1,
-      "productos_subieron": 95,
-      "productos_bajaron": 2,
-      "total_productos": 1303
+      "variacion_pct_promedio": 2.51,
+      "productos_subieron": 112,
+      "productos_bajaron": 0,
+      "total_productos": 1310
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.78,
-      "productos_subieron": 123,
-      "productos_bajaron": 10,
-      "total_productos": 1133
+      "variacion_pct_promedio": 3.38,
+      "productos_subieron": 132,
+      "productos_bajaron": 1,
+      "total_productos": 1137
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 1.28,
-      "productos_subieron": 16,
+      "variacion_pct_promedio": 1.32,
+      "productos_subieron": 32,
       "productos_bajaron": 0,
       "total_productos": 216
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 2.24,
-      "productos_subieron": 45,
+      "variacion_pct_promedio": 0.86,
+      "productos_subieron": 36,
       "productos_bajaron": 0,
-      "total_productos": 687
+      "total_productos": 692
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 2.43,
-      "productos_subieron": 161,
-      "productos_bajaron": 5,
-      "total_productos": 875
+      "variacion_pct_promedio": 1.19,
+      "productos_subieron": 72,
+      "productos_bajaron": 0,
+      "total_productos": 889
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 1.76,
-      "productos_subieron": 182,
-      "productos_bajaron": 1,
-      "total_productos": 1642
+      "variacion_pct_promedio": 1.1,
+      "productos_subieron": 96,
+      "productos_bajaron": 0,
+      "total_productos": 1676
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2021850000000",
-      "nombre": "pia?a?a x kg.",
+      "ean": "2022030000001",
+      "nombre": "repollitos de brusellas en bandeja",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -3000.0,
-      "diff_pct": -42.92
-    },
-    {
-      "ean": "2020980000003",
-      "nombre": "limones x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 1990.0,
+      "precio_antes": 3990.0,
+      "precio_hoy": 2990.0,
       "diff_abs": -1000.0,
-      "diff_pct": -33.44
+      "diff_pct": -25.06
     },
     {
-      "ean": "2037320000005",
-      "nombre": "curcuma x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 14990.0,
-      "precio_hoy": 9990.0,
-      "diff_abs": -5000.0,
-      "diff_pct": -33.36
+      "ean": "2019870000001",
+      "nombre": "queso tybo ilolay x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 16286.0,
+      "precio_hoy": 16286.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7898024395232",
-      "nombre": "pasta de avellanas y chocolate nutella x 140 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 4738.0,
-      "precio_hoy": 3299.0,
-      "diff_abs": -1439.0,
-      "diff_pct": -30.37
+      "ean": "7790787016532",
+      "nombre": "queso untable ilolay x 190 gr jamon",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2239.0,
+      "precio_hoy": 2239.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7898024394181",
-      "nombre": "pasta de avellanas y chocolate nutella x 350 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 10452.0,
-      "precio_hoy": 7299.0,
-      "diff_abs": -3153.0,
-      "diff_pct": -30.17
+      "ean": "7790787016501",
+      "nombre": "queso untable ilolay x 190 gr gruyer",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2239.0,
+      "precio_hoy": 2239.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "2019880000008",
-      "nombre": "acelga x paquete",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1990.0,
-      "precio_hoy": 1490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -25.13
+      "ean": "7790787016518",
+      "nombre": "queso untable ilolay x 190 gr clasico",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2239.0,
+      "precio_hoy": 2239.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "8445291904392",
-      "nombre": "combo nescafe dolca x 170 gr. + coffee mate x 170.",
-      "categoria": "Perfumeria",
-      "precio_antes": 16525.0,
-      "precio_hoy": 12999.0,
-      "diff_abs": -3526.0,
-      "diff_pct": -21.34
+      "ean": "7790787016549",
+      "nombre": "queso untable ilolay x 190 gr 4 quesos",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2239.0,
+      "precio_hoy": 2239.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "2020860000000",
-      "nombre": "jengibre x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 9990.0,
-      "precio_hoy": 7990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -20.02
+      "ean": "7790787016310",
+      "nombre": "queso untable ilolay por salut balance x 190 gr",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2359.0,
+      "precio_hoy": 2359.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7794870001344",
-      "nombre": "arroz primor largo fino x 1 kg.",
-      "categoria": "Almacen",
-      "precio_antes": 1313.0,
-      "precio_hoy": 1099.0,
-      "diff_abs": -214.0,
-      "diff_pct": -16.3
+      "ean": "7790787960873",
+      "nombre": "queso untable ilolay crem clasico x 290 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2929.0,
+      "precio_hoy": 2929.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7792280000193",
-      "nombre": "mate cocido cachamate x 25 saquitos",
-      "categoria": "Perfumeria",
-      "precio_antes": 1269.0,
-      "precio_hoy": 1081.0,
-      "diff_abs": -188.0,
-      "diff_pct": -14.81
+      "ean": "7791564136672",
+      "nombre": "queso untable fundido adler x 100 gr. tomate y ala",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2503.0,
+      "precio_hoy": 2503.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798060853096",
+      "nombre": "queso untable cremoso tonadita cremette light x 48",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4661.0,
+      "precio_hoy": 4661.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 622,
-  "productos_bajaron_dia": 18,
-  "productos_sin_cambio_dia": 5216
+  "productos_subieron_dia": 480,
+  "productos_bajaron_dia": 1,
+  "productos_sin_cambio_dia": 5439
 }

@@ -18,31 +18,13 @@
     "diff_pct": 151.26
   },
   {
-    "ean": "7862109430934",
-    "nombre": "gatorade x 473 ml frutos tropicales",
-    "categoria": "Bebidas",
-    "precio_antes": 2669.0,
-    "precio_hoy": 5333.0,
-    "diff_abs": 2664.0,
-    "diff_pct": 99.81
-  },
-  {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2509.0,
-    "precio_hoy": 5007.0,
-    "diff_abs": 2498.0,
-    "diff_pct": 99.56
-  },
-  {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2509.0,
-    "precio_hoy": 5007.0,
-    "diff_abs": 2498.0,
-    "diff_pct": 99.56
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2500.0,
+    "diff_pct": 100.4
   },
   {
     "ean": "7793762006252",
@@ -52,6 +34,15 @@
     "precio_hoy": 2127.0,
     "diff_abs": 937.0,
     "diff_pct": 78.74
+  },
+  {
+    "ean": "2021790000009",
+    "nombre": "pimiento amarillo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
   },
   {
     "ean": "2020920000001",
@@ -65,15 +56,6 @@
   {
     "ean": "2020910000004",
     "nombre": "lechuga de hoja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 75.19
-  },
-  {
-    "ean": "2021790000009",
-    "nombre": "pimiento amarillo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 6990.0,
@@ -99,22 +81,13 @@
     "diff_pct": 67.98
   },
   {
-    "ean": "7791337010512",
-    "nombre": "yogur la serenisima clasico entero sachet x 1.3 litros fruti",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3409.0,
-    "precio_hoy": 5717.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 67.7
-  },
-  {
-    "ean": "7791337010505",
-    "nombre": "yogur la seren. clasico entero sachet x 1.3 kilos sabor vain",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3409.0,
-    "precio_hoy": 5717.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 67.7
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
   },
   {
     "ean": "2019900000001",
@@ -133,15 +106,6 @@
     "precio_hoy": 4990.0,
     "diff_abs": 2000.0,
     "diff_pct": 66.89
-  },
-  {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 60.24
   },
   {
     "ean": "7793890261578",
@@ -178,5 +142,41 @@
     "precio_hoy": 19122.0,
     "diff_abs": 7038.0,
     "diff_pct": 58.24
+  },
+  {
+    "ean": "7798340590062",
+    "nombre": "agua mineral asuncion x 600 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 682.0,
+    "precio_hoy": 1061.0,
+    "diff_abs": 379.0,
+    "diff_pct": 55.57
+  },
+  {
+    "ean": "7790550026478",
+    "nombre": "cappuccino l.planta x115g.moka",
+    "categoria": "Perfumeria",
+    "precio_antes": 3619.0,
+    "precio_hoy": 5608.0,
+    "diff_abs": 1989.0,
+    "diff_pct": 54.96
+  },
+  {
+    "ean": "7790550000065",
+    "nombre": "cappuccino l.planta x115gr.dp.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3619.0,
+    "precio_hoy": 5608.0,
+    "diff_abs": 1989.0,
+    "diff_pct": 54.96
+  },
+  {
+    "ean": "7790550026553",
+    "nombre": "cappuccino la planta x 100 gm caramelo",
+    "categoria": "Perfumeria",
+    "precio_antes": 3619.0,
+    "precio_hoy": 5608.0,
+    "diff_abs": 1989.0,
+    "diff_pct": 54.96
   }
 ]
