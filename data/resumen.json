@@ -1,147 +1,147 @@
 {
-  "fecha": "20260501",
-  "total_productos": 5955,
-  "variacion_dia": 1.84,
-  "variacion_7d": 3.4,
-  "variacion_mes": 3.27,
+  "fecha": "20260502",
+  "total_productos": 5959,
+  "variacion_dia": -0.01,
+  "variacion_7d": 3.6,
+  "variacion_mes": 4.56,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 2.51,
-      "productos_subieron": 112,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1310
+      "total_productos": 1315
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 3.38,
-      "productos_subieron": 132,
-      "productos_bajaron": 1,
-      "total_productos": 1137
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1146
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 1.32,
-      "productos_subieron": 32,
-      "productos_bajaron": 0,
-      "total_productos": 216
+      "variacion_pct_promedio": -0.15,
+      "productos_subieron": 0,
+      "productos_bajaron": 1,
+      "total_productos": 220
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.86,
-      "productos_subieron": 36,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 692
+      "total_productos": 700
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 1.19,
-      "productos_subieron": 72,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "total_productos": 889
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 1.1,
-      "productos_subieron": 96,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1676
+      "total_productos": 1678
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2022030000001",
-      "nombre": "repollitos de brusellas en bandeja",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -25.06
+      "ean": "7790670050650",
+      "nombre": "hamburguesas paty x 4 unid. clasicas",
+      "categoria": "Congelados",
+      "precio_antes": 9141.0,
+      "precio_hoy": 6219.0,
+      "diff_abs": -2922.0,
+      "diff_pct": -31.97
     },
     {
-      "ean": "2019870000001",
-      "nombre": "queso tybo ilolay x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 16286.0,
-      "precio_hoy": 16286.0,
+      "ean": "7790550000300",
+      "nombre": "yerba mate yer-vita x25 saquit",
+      "categoria": "Perfumeria",
+      "precio_antes": 1179.0,
+      "precio_hoy": 1179.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790787016532",
-      "nombre": "queso untable ilolay x 190 gr jamon",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2239.0,
-      "precio_hoy": 2239.0,
+      "ean": "7790387014631",
+      "nombre": "yerba mate union x 250 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 1306.0,
+      "precio_hoy": 1306.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790787016501",
-      "nombre": "queso untable ilolay x 190 gr gruyer",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2239.0,
-      "precio_hoy": 2239.0,
+      "ean": "7790387014143",
+      "nombre": "yerba mate union liviana x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2822.0,
+      "precio_hoy": 2822.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790787016518",
-      "nombre": "queso untable ilolay x 190 gr clasico",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2239.0,
-      "precio_hoy": 2239.0,
+      "ean": "7790387014136",
+      "nombre": "yerba mate union liviana x 1 kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 5245.0,
+      "precio_hoy": 5245.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790787016549",
-      "nombre": "queso untable ilolay x 190 gr 4 quesos",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2239.0,
-      "precio_hoy": 2239.0,
+      "ean": "7790387014624",
+      "nombre": "yerba mate union 4 flex x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2307.0,
+      "precio_hoy": 2307.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790787016310",
-      "nombre": "queso untable ilolay por salut balance x 190 gr",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2359.0,
-      "precio_hoy": 2359.0,
+      "ean": "7790387014617",
+      "nombre": "yerba mate union 4 flex x 1 kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 4582.0,
+      "precio_hoy": 4582.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790787960873",
-      "nombre": "queso untable ilolay crem clasico x 290 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2929.0,
-      "precio_hoy": 2929.0,
+      "ean": "7790387013634",
+      "nombre": "yerba mate taragui x 250 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 1306.0,
+      "precio_hoy": 1306.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7791564136672",
-      "nombre": "queso untable fundido adler x 100 gr. tomate y ala",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2503.0,
-      "precio_hoy": 2503.0,
+      "ean": "7790387013504",
+      "nombre": "yerba mate taragui sin palo x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 3273.0,
+      "precio_hoy": 3273.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7798060853096",
-      "nombre": "queso untable cremoso tonadita cremette light x 48",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4661.0,
-      "precio_hoy": 4661.0,
+      "ean": "7790387013498",
+      "nombre": "yerba mate taragui sin palo x 1 kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 6326.0,
+      "precio_hoy": 6326.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 480,
+  "productos_subieron_dia": 0,
   "productos_bajaron_dia": 1,
-  "productos_sin_cambio_dia": 5439
+  "productos_sin_cambio_dia": 5947
 }

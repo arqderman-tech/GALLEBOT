@@ -1,14 +1,5 @@
 [
   {
-    "ean": "7791337010468",
-    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2233.0,
-    "diff_pct": 111.71
-  },
-  {
     "ean": "7791337010376",
     "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
     "categoria": "Lacteos Y Frescos",
@@ -27,8 +18,8 @@
     "diff_pct": 111.71
   },
   {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "ean": "7791337010468",
+    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 1999.0,
     "precio_hoy": 4232.0,
@@ -43,6 +34,24 @@
     "precio_hoy": 4232.0,
     "diff_abs": 2233.0,
     "diff_pct": 111.71
+  },
+  {
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1999.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2233.0,
+    "diff_pct": 111.71
+  },
+  {
+    "ean": "7622201703059",
+    "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 309.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 330.0,
+    "diff_pct": 106.8
   },
   {
     "ean": "7622201703202",
@@ -63,17 +72,8 @@
     "diff_pct": 106.8
   },
   {
-    "ean": "7622201703059",
-    "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 309.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 330.0,
-    "diff_pct": 106.8
-  },
-  {
-    "ean": "7622201733865",
-    "nombre": "jugo tang mandarina x 15 gm",
+    "ean": "7622201745936",
+    "nombre": "jugo tang durazno x15gr.",
     "categoria": "Bebidas",
     "precio_antes": 299.0,
     "precio_hoy": 611.0,
@@ -81,8 +81,8 @@
     "diff_pct": 104.35
   },
   {
-    "ean": "7622201745936",
-    "nombre": "jugo tang durazno x15gr.",
+    "ean": "7622201733865",
+    "nombre": "jugo tang mandarina x 15 gm",
     "categoria": "Bebidas",
     "precio_antes": 299.0,
     "precio_hoy": 611.0,
@@ -99,8 +99,8 @@
     "diff_pct": 104.35
   },
   {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3719.0,
     "precio_hoy": 7018.0,
@@ -108,8 +108,8 @@
     "diff_pct": 88.71
   },
   {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3719.0,
     "precio_hoy": 7018.0,
@@ -162,8 +162,8 @@
     "diff_pct": 67.23
   },
   {
-    "ean": "7791337061361",
-    "nombre": "queso crema casancrem x 290 gr.",
+    "ean": "7791337060944",
+    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3299.0,
     "precio_hoy": 5394.0,
@@ -171,8 +171,8 @@
     "diff_pct": 63.5
   },
   {
-    "ean": "7791337060944",
-    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
+    "ean": "7791337061361",
+    "nombre": "queso crema casancrem x 290 gr.",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3299.0,
     "precio_hoy": 5394.0,

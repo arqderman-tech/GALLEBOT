@@ -18,6 +18,24 @@
     "diff_pct": 151.26
   },
   {
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2209.0,
+    "precio_hoy": 5007.0,
+    "diff_abs": 2798.0,
+    "diff_pct": 126.66
+  },
+  {
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2209.0,
+    "precio_hoy": 5007.0,
+    "diff_abs": 2798.0,
+    "diff_pct": 126.66
+  },
+  {
     "ean": "2021660000009",
     "nombre": "zapallito redondo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -25,6 +43,69 @@
     "precio_hoy": 4990.0,
     "diff_abs": 2500.0,
     "diff_pct": 100.4
+  },
+  {
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
+  },
+  {
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
+  },
+  {
+    "ean": "7791337010468",
+    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
+  },
+  {
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
+  },
+  {
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2033.0,
+    "diff_pct": 92.45
+  },
+  {
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3909.0,
+    "precio_hoy": 7018.0,
+    "diff_abs": 3109.0,
+    "diff_pct": 79.53
+  },
+  {
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3909.0,
+    "precio_hoy": 7018.0,
+    "diff_abs": 3109.0,
+    "diff_pct": 79.53
   },
   {
     "ean": "7793762006252",
@@ -36,8 +117,8 @@
     "diff_pct": 78.74
   },
   {
-    "ean": "2021790000009",
-    "nombre": "pimiento amarillo x kg.",
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 6990.0,
@@ -54,22 +135,13 @@
     "diff_pct": 75.19
   },
   {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
+    "ean": "2021790000009",
+    "nombre": "pimiento amarillo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 6990.0,
     "diff_abs": 3000.0,
     "diff_pct": 75.19
-  },
-  {
-    "ean": "7793890261844",
-    "nombre": "tostadas libre de gluten salmas x 90 gr clasicas",
-    "categoria": "Almacen",
-    "precio_antes": 1509.0,
-    "precio_hoy": 2579.0,
-    "diff_abs": 1070.0,
-    "diff_pct": 70.91
   },
   {
     "ean": "7793126002012",
@@ -81,13 +153,13 @@
     "diff_pct": 67.98
   },
   {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
+    "ean": "7791337007260",
+    "nombre": "leche chocolatada cindor x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1509.0,
+    "precio_hoy": 2524.0,
+    "diff_abs": 1015.0,
+    "diff_pct": 67.26
   },
   {
     "ean": "2019900000001",
@@ -99,84 +171,12 @@
     "diff_pct": 66.89
   },
   {
-    "ean": "2021840000003",
-    "nombre": "pimiento verde x kg.",
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 4990.0,
     "diff_abs": 2000.0,
     "diff_pct": 66.89
-  },
-  {
-    "ean": "7793890261578",
-    "nombre": "brownie chips sabe bien! x 62 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 889.0,
-    "precio_hoy": 1423.0,
-    "diff_abs": 534.0,
-    "diff_pct": 60.07
-  },
-  {
-    "ean": "7790550029479",
-    "nombre": "cafe instantaneo cabrales la planta suave x 100 gr",
-    "categoria": "Perfumeria",
-    "precio_antes": 4869.0,
-    "precio_hoy": 7732.0,
-    "diff_abs": 2863.0,
-    "diff_pct": 58.8
-  },
-  {
-    "ean": "7793890261530",
-    "nombre": "braunichoc sabe bien! x 35 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 619.0,
-    "precio_hoy": 982.0,
-    "diff_abs": 363.0,
-    "diff_pct": 58.64
-  },
-  {
-    "ean": "2011810000003",
-    "nombre": "higos secos negros medianos x kg.",
-    "categoria": "Almacen",
-    "precio_antes": 12084.0,
-    "precio_hoy": 19122.0,
-    "diff_abs": 7038.0,
-    "diff_pct": 58.24
-  },
-  {
-    "ean": "7798340590062",
-    "nombre": "agua mineral asuncion x 600 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 682.0,
-    "precio_hoy": 1061.0,
-    "diff_abs": 379.0,
-    "diff_pct": 55.57
-  },
-  {
-    "ean": "7790550026478",
-    "nombre": "cappuccino l.planta x115g.moka",
-    "categoria": "Perfumeria",
-    "precio_antes": 3619.0,
-    "precio_hoy": 5608.0,
-    "diff_abs": 1989.0,
-    "diff_pct": 54.96
-  },
-  {
-    "ean": "7790550000065",
-    "nombre": "cappuccino l.planta x115gr.dp.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3619.0,
-    "precio_hoy": 5608.0,
-    "diff_abs": 1989.0,
-    "diff_pct": 54.96
-  },
-  {
-    "ean": "7790550026553",
-    "nombre": "cappuccino la planta x 100 gm caramelo",
-    "categoria": "Perfumeria",
-    "precio_antes": 3619.0,
-    "precio_hoy": 5608.0,
-    "diff_abs": 1989.0,
-    "diff_pct": 54.96
   }
 ]
