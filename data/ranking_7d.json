@@ -1,14 +1,5 @@
 [
   {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2233.0,
-    "diff_pct": 111.71
-  },
-  {
     "ean": "7791337010369",
     "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
     "categoria": "Lacteos Y Frescos",
@@ -45,8 +36,17 @@
     "diff_pct": 111.71
   },
   {
-    "ean": "7622201703059",
-    "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1999.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2233.0,
+    "diff_pct": 111.71
+  },
+  {
+    "ean": "7622201704148",
+    "nombre": "jugo en polvo clight mandarina x 8 gr.",
     "categoria": "Bebidas",
     "precio_antes": 309.0,
     "precio_hoy": 639.0,
@@ -63,8 +63,8 @@
     "diff_pct": 106.8
   },
   {
-    "ean": "7622201704148",
-    "nombre": "jugo en polvo clight mandarina x 8 gr.",
+    "ean": "7622201703059",
+    "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
     "categoria": "Bebidas",
     "precio_antes": 309.0,
     "precio_hoy": 639.0,
@@ -72,8 +72,8 @@
     "diff_pct": 106.8
   },
   {
-    "ean": "7622201745936",
-    "nombre": "jugo tang durazno x15gr.",
+    "ean": "7622201746490",
+    "nombre": "jugo en polvo tang x 15 gr. frutilla",
     "categoria": "Bebidas",
     "precio_antes": 299.0,
     "precio_hoy": 611.0,
@@ -90,8 +90,8 @@
     "diff_pct": 104.35
   },
   {
-    "ean": "7622201746490",
-    "nombre": "jugo en polvo tang x 15 gr. frutilla",
+    "ean": "7622201745936",
+    "nombre": "jugo tang durazno x15gr.",
     "categoria": "Bebidas",
     "precio_antes": 299.0,
     "precio_hoy": 611.0,

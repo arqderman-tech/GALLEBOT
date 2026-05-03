@@ -90,8 +90,8 @@
     "diff_pct": 92.45
   },
   {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3909.0,
     "precio_hoy": 7018.0,
@@ -99,8 +99,8 @@
     "diff_pct": 79.53
   },
   {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3909.0,
     "precio_hoy": 7018.0,
@@ -117,6 +117,15 @@
     "diff_pct": 78.74
   },
   {
+    "ean": "2021790000009",
+    "nombre": "pimiento amarillo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
+  },
+  {
     "ean": "2020910000004",
     "nombre": "lechuga de hoja x kg.",
     "categoria": "Frutas Y Verduras",
@@ -128,15 +137,6 @@
   {
     "ean": "2020920000001",
     "nombre": "lechuga mantecosa x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 75.19
-  },
-  {
-    "ean": "2021790000009",
-    "nombre": "pimiento amarillo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 6990.0,

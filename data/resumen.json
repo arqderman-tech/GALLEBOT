@@ -1,8 +1,8 @@
 {
-  "fecha": "20260502",
-  "total_productos": 5959,
-  "variacion_dia": -0.01,
-  "variacion_7d": 3.6,
+  "fecha": "20260503",
+  "total_productos": 5982,
+  "variacion_dia": 0.0,
+  "variacion_7d": 3.62,
   "variacion_mes": 4.56,
   "variacion_anio": null,
   "categorias_dia": [
@@ -11,7 +11,7 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1315
+      "total_productos": 1310
     },
     {
       "categoria": "Frescos",
@@ -22,17 +22,17 @@
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -0.15,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "total_productos": 220
+      "productos_bajaron": 0,
+      "total_productos": 219
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 700
+      "total_productos": 704
     },
     {
       "categoria": "Cuidado Personal",
@@ -46,102 +46,102 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1678
+      "total_productos": 1674
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790670050650",
-      "nombre": "hamburguesas paty x 4 unid. clasicas",
-      "categoria": "Congelados",
-      "precio_antes": 9141.0,
-      "precio_hoy": 6219.0,
-      "diff_abs": -2922.0,
-      "diff_pct": -31.97
-    },
-    {
-      "ean": "7790550000300",
-      "nombre": "yerba mate yer-vita x25 saquit",
-      "categoria": "Perfumeria",
-      "precio_antes": 1179.0,
-      "precio_hoy": 1179.0,
+      "ean": "7790310985830",
+      "nombre": "3ds queso x 85 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 3649.0,
+      "precio_hoy": 3649.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790387014631",
-      "nombre": "yerba mate union x 250 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 1306.0,
-      "precio_hoy": 1306.0,
+      "ean": "7790310985137",
+      "nombre": "3ds queso x143gr.",
+      "categoria": "Almacen",
+      "precio_antes": 5118.0,
+      "precio_hoy": 5118.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790387014143",
-      "nombre": "yerba mate union liviana x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2822.0,
-      "precio_hoy": 2822.0,
+      "ean": "7790310985113",
+      "nombre": "3ds sabor queso x 43 gm",
+      "categoria": "Almacen",
+      "precio_antes": 2271.0,
+      "precio_hoy": 2271.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790387014136",
-      "nombre": "yerba mate union liviana x 1 kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 5245.0,
-      "precio_hoy": 5245.0,
+      "ean": "763571722428",
+      "nombre": "ac.de coco entrenuts x200virg.",
+      "categoria": "Almacen",
+      "precio_antes": 9649.0,
+      "precio_hoy": 9649.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790387014624",
-      "nombre": "yerba mate union 4 flex x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2307.0,
-      "precio_hoy": 2307.0,
+      "ean": "7798080520657",
+      "nombre": "ac.ol.l.toscana x250ml.ajo",
+      "categoria": "Almacen",
+      "precio_antes": 10263.0,
+      "precio_hoy": 10263.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790387014617",
-      "nombre": "yerba mate union 4 flex x 1 kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 4582.0,
-      "precio_hoy": 4582.0,
+      "ean": "7798080520534",
+      "nombre": "ac.ol.l.toscana x250ml.albahac",
+      "categoria": "Almacen",
+      "precio_antes": 10263.0,
+      "precio_hoy": 10263.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790387013634",
-      "nombre": "yerba mate taragui x 250 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 1306.0,
-      "precio_hoy": 1306.0,
+      "ean": "41331014922",
+      "nombre": "acaitunas goya x 149 gm con pimiento picante",
+      "categoria": "Almacen",
+      "precio_antes": 8703.0,
+      "precio_hoy": 8703.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790387013504",
-      "nombre": "yerba mate taragui sin palo x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 3273.0,
-      "precio_hoy": 3273.0,
+      "ean": "7790580160807",
+      "nombre": "aceite arcor x900ml.maiz",
+      "categoria": "Almacen",
+      "precio_antes": 5280.0,
+      "precio_hoy": 5280.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790387013498",
-      "nombre": "yerba mate taragui sin palo x 1 kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 6326.0,
-      "precio_hoy": 6326.0,
+      "ean": "7790070265142",
+      "nombre": "aceite cocinero puro de oliva x 500 ml",
+      "categoria": "Almacen",
+      "precio_antes": 10921.0,
+      "precio_hoy": 10921.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790070231598",
+      "nombre": "aceite cocinero x900 ml oliva y girasol",
+      "categoria": "Almacen",
+      "precio_antes": 5927.0,
+      "precio_hoy": 5927.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
   "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 1,
-  "productos_sin_cambio_dia": 5947
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 5942
 }
