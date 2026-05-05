@@ -1,30 +1,12 @@
 [
   {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2233.0,
-    "diff_pct": 111.71
-  },
-  {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2233.0,
-    "diff_pct": 111.71
-  },
-  {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2233.0,
-    "diff_pct": 111.71
+    "ean": "2019970000000",
+    "nombre": "alcauciles x unidad",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 790.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 3200.0,
+    "diff_pct": 405.06
   },
   {
     "ean": "7791337010369",
@@ -45,6 +27,33 @@
     "diff_pct": 111.71
   },
   {
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1999.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2233.0,
+    "diff_pct": 111.71
+  },
+  {
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1999.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2233.0,
+    "diff_pct": 111.71
+  },
+  {
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1999.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 2233.0,
+    "diff_pct": 111.71
+  },
+  {
     "ean": "7622201703202",
     "nombre": "jugo clight pera x7gr.",
     "categoria": "Bebidas",
@@ -54,8 +63,8 @@
     "diff_pct": 106.8
   },
   {
-    "ean": "7622201704148",
-    "nombre": "jugo en polvo clight mandarina x 8 gr.",
+    "ean": "7622201703059",
+    "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
     "categoria": "Bebidas",
     "precio_antes": 309.0,
     "precio_hoy": 639.0,
@@ -63,8 +72,8 @@
     "diff_pct": 106.8
   },
   {
-    "ean": "7622201703059",
-    "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
+    "ean": "7622201704148",
+    "nombre": "jugo en polvo clight mandarina x 8 gr.",
     "categoria": "Bebidas",
     "precio_antes": 309.0,
     "precio_hoy": 639.0,
@@ -144,39 +153,30 @@
     "diff_pct": 87.54
   },
   {
-    "ean": "7793762006252",
-    "nombre": "cubeteras gemplast x 2 unid.",
-    "categoria": "Limpieza",
-    "precio_antes": 1190.0,
-    "precio_hoy": 2127.0,
-    "diff_abs": 937.0,
-    "diff_pct": 78.74
+    "ean": "7791813405023",
+    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+    "categoria": "Bebidas",
+    "precio_antes": 1679.0,
+    "precio_hoy": 3050.0,
+    "diff_abs": 1371.0,
+    "diff_pct": 81.66
   },
   {
-    "ean": "77969118",
-    "nombre": "chicle beldent frutilla x10gr.",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1286.0,
-    "diff_abs": 517.0,
-    "diff_pct": 67.23
+    "ean": "7791813405030",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1679.0,
+    "precio_hoy": 3050.0,
+    "diff_abs": 1371.0,
+    "diff_pct": 81.66
   },
   {
-    "ean": "7791337060944",
-    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5394.0,
-    "diff_abs": 2095.0,
-    "diff_pct": 63.5
-  },
-  {
-    "ean": "7791337061361",
-    "nombre": "queso crema casancrem x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5394.0,
-    "diff_abs": 2095.0,
-    "diff_pct": 63.5
+    "ean": "7791813403012",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1231.0,
+    "diff_pct": 81.04
   }
 ]

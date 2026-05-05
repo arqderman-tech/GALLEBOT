@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2025600000005",
-    "nombre": "puchero de aguja ternera x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 8900.0,
+    "ean": "2019970000000",
+    "nombre": "alcauciles x unidad",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 790.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 3200.0,
+    "diff_pct": 405.06
+  },
+  {
+    "ean": "7791813405023",
+    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+    "categoria": "Bebidas",
+    "precio_antes": 1679.0,
+    "precio_hoy": 3050.0,
+    "diff_abs": 1371.0,
+    "diff_pct": 81.66
+  },
+  {
+    "ean": "7791813405030",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1679.0,
+    "precio_hoy": 3050.0,
+    "diff_abs": 1371.0,
+    "diff_pct": 81.66
+  },
+  {
+    "ean": "7791813403029",
+    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1231.0,
+    "diff_pct": 81.04
+  },
+  {
+    "ean": "7791813403036",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1231.0,
+    "diff_pct": 81.04
+  },
+  {
+    "ean": "7791813403012",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1231.0,
+    "diff_pct": 81.04
+  },
+  {
+    "ean": "7792798001965",
+    "nombre": "cerveza patagonia amber lager lata x 473 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 2699.0,
+    "precio_hoy": 4500.0,
+    "diff_abs": 1801.0,
+    "diff_pct": 66.73
+  },
+  {
+    "ean": "7792798013975",
+    "nombre": "cerveza stella artois lata x 710 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 3239.0,
+    "precio_hoy": 5400.0,
+    "diff_abs": 2161.0,
+    "diff_pct": 66.72
+  },
+  {
+    "ean": "7792798002399",
+    "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3839.0,
+    "precio_hoy": 6400.0,
+    "diff_abs": 2561.0,
+    "diff_pct": 66.71
+  },
+  {
+    "ean": "7792798002351",
+    "nombre": "cerveza patagonia amber lager x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3839.0,
+    "precio_hoy": 6400.0,
+    "diff_abs": 2561.0,
+    "diff_pct": 66.71
+  },
+  {
+    "ean": "7790670050780",
+    "nombre": "hamburguesas paty clasico x 20 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 26339.0,
+    "precio_hoy": 41604.0,
+    "diff_abs": 15265.0,
+    "diff_pct": 57.96
+  },
+  {
+    "ean": "7791813402039",
+    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 909.0,
+    "precio_hoy": 1400.0,
+    "diff_abs": 491.0,
+    "diff_pct": 54.02
+  },
+  {
+    "ean": "7791813402015",
+    "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 909.0,
+    "precio_hoy": 1400.0,
+    "diff_abs": 491.0,
+    "diff_pct": 54.02
+  },
+  {
+    "ean": "7790670050674",
+    "nombre": "hamburguesas paty x 2 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 3059.0,
+    "precio_hoy": 4662.0,
+    "diff_abs": 1603.0,
+    "diff_pct": 52.4
+  },
+  {
+    "ean": "7791813402886",
+    "nombre": "agua saborizada h2o x 500 ml sin gas naranja",
+    "categoria": "Bebidas",
+    "precio_antes": 919.0,
+    "precio_hoy": 1400.0,
+    "diff_abs": 481.0,
+    "diff_pct": 52.34
+  },
+  {
+    "ean": "78909434",
+    "nombre": "bombones ferrero rocher x 3 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 2499.0,
+    "precio_hoy": 3788.0,
+    "diff_abs": 1289.0,
+    "diff_pct": 51.58
+  },
+  {
+    "ean": "2022080000006",
+    "nombre": "rucula x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 12.66
+    "diff_pct": 50.25
   },
   {
-    "ean": "2025590000009",
-    "nombre": "puchero caracu ternera x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 8900.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 12.66
-  },
-  {
-    "ean": "2025610000002",
-    "nombre": "puchero especial osobuco ternera x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 11900.0,
-    "precio_hoy": 12900.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 8.4
-  },
-  {
-    "ean": "2025550000001",
-    "nombre": "carne picada comun ternera x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 8900.0,
-    "precio_hoy": 9500.0,
-    "diff_abs": 600.0,
-    "diff_pct": 6.74
-  },
-  {
-    "ean": "2025530000007",
-    "nombre": "picada ternera x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 15900.0,
-    "precio_hoy": 16900.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 6.29
-  },
-  {
-    "ean": "7790670052975",
-    "nombre": "salchicha vienissima picantes x 6 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3389.0,
-    "precio_hoy": 3389.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790670052388",
-    "nombre": "salchicha patyviena x6u.clasic",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2519.0,
-    "precio_hoy": 2519.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790079000560",
-    "nombre": "salchicha paladini big frankfurt x 12",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 10054.0,
-    "precio_hoy": 10054.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790360970053",
-    "nombre": "salchichas swift kids x 6 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2156.0,
-    "precio_hoy": 2156.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790670052395",
-    "nombre": "salchichas patyviena x 12 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4639.0,
-    "precio_hoy": 4639.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7794990184507",
-    "nombre": "queso untable ricrem jamon x 180 gr",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1668.0,
-    "precio_hoy": 1668.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7794990184491",
-    "nombre": "queso untable ricrem clasico x 180 gr",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1668.0,
-    "precio_hoy": 1668.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798060854475",
-    "nombre": "queso untable patagonia x 290 gr clasico",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3162.0,
-    "precio_hoy": 3162.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798060854482",
-    "nombre": "queso untable patagonia x 290 gm light",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3162.46,
-    "precio_hoy": 3162.46,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798060854345",
-    "nombre": "queso untable patagonia x 180 gm clasico",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2214.0,
-    "precio_hoy": 2214.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798060854352",
-    "nombre": "queso untable patagonia  x 180 gm light",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2214.0,
-    "precio_hoy": 2214.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790670052418",
-    "nombre": "salchicha vienissima x 12 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 6074.0,
-    "precio_hoy": 6074.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798151771445",
-    "nombre": "queso untable tremblay x 180 gm por salut",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2203.0,
+    "ean": "7792799000905",
+    "nombre": "agua mineral pureza vital x 1.5 litros sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1475.75,
     "precio_hoy": 2203.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "diff_abs": 727.25,
+    "diff_pct": 49.28
   },
   {
-    "ean": "2015580000003",
-    "nombre": "salame de milan paladini x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 29261.0,
-    "precio_hoy": 29261.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792799000899",
+    "nombre": "agua mineral nestle pureza vital x 500 ml. sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1142.94,
+    "precio_hoy": 1706.0,
+    "diff_abs": 563.06,
+    "diff_pct": 49.26
   },
   {
-    "ean": "2018840000003",
-    "nombre": "salame de milan lario x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 30770.0,
-    "precio_hoy": 30770.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7795930000550",
+    "nombre": "agua mineral glaciar x 6,3 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 5888.92,
+    "precio_hoy": 8782.0,
+    "diff_abs": 2893.08,
+    "diff_pct": 49.13
   }
 ]
