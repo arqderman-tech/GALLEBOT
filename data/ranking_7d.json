@@ -9,174 +9,174 @@
     "diff_pct": 405.06
   },
   {
-    "ean": "7791337010369",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2233.0,
-    "diff_pct": 111.71
-  },
-  {
-    "ean": "7791337010468",
-    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2233.0,
-    "diff_pct": 111.71
-  },
-  {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2233.0,
-    "diff_pct": 111.71
-  },
-  {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2233.0,
-    "diff_pct": 111.71
-  },
-  {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 2233.0,
-    "diff_pct": 111.71
-  },
-  {
-    "ean": "7622201703202",
-    "nombre": "jugo clight pera x7gr.",
+    "ean": "7792798001965",
+    "nombre": "cerveza patagonia amber lager lata x 473 ml",
     "categoria": "Bebidas",
-    "precio_antes": 309.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 330.0,
-    "diff_pct": 106.8
+    "precio_antes": 2699.0,
+    "precio_hoy": 4500.0,
+    "diff_abs": 1801.0,
+    "diff_pct": 66.73
   },
   {
-    "ean": "7622201703059",
-    "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
+    "ean": "7792798013975",
+    "nombre": "cerveza stella artois lata x 710 ml",
     "categoria": "Bebidas",
-    "precio_antes": 309.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 330.0,
-    "diff_pct": 106.8
+    "precio_antes": 3239.0,
+    "precio_hoy": 5400.0,
+    "diff_abs": 2161.0,
+    "diff_pct": 66.72
   },
   {
-    "ean": "7622201704148",
-    "nombre": "jugo en polvo clight mandarina x 8 gr.",
+    "ean": "7790310985465",
+    "nombre": "papas fritas lays clasicas x 134 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3199.0,
+    "precio_hoy": 5118.0,
+    "diff_abs": 1919.0,
+    "diff_pct": 59.99
+  },
+  {
+    "ean": "7790310988282",
+    "nombre": "doritos sabor pizza x 74 gm",
+    "categoria": "Almacen",
+    "precio_antes": 2399.0,
+    "precio_hoy": 3820.0,
+    "diff_abs": 1421.0,
+    "diff_pct": 59.23
+  },
+  {
+    "ean": "7790310985458",
+    "nombre": "papas lays x85gr.clasicas",
+    "categoria": "Almacen",
+    "precio_antes": 2299.0,
+    "precio_hoy": 3649.0,
+    "diff_abs": 1350.0,
+    "diff_pct": 58.72
+  },
+  {
+    "ean": "7790670050780",
+    "nombre": "hamburguesas paty clasico x 20 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 26339.0,
+    "precio_hoy": 41604.0,
+    "diff_abs": 15265.0,
+    "diff_pct": 57.96
+  },
+  {
+    "ean": "7790670050674",
+    "nombre": "hamburguesas paty x 2 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 3059.0,
+    "precio_hoy": 4662.0,
+    "diff_abs": 1603.0,
+    "diff_pct": 52.4
+  },
+  {
+    "ean": "7790310985649",
+    "nombre": "snack doritos sabor queso x 77 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2399.0,
+    "precio_hoy": 3649.0,
+    "diff_abs": 1250.0,
+    "diff_pct": 52.11
+  },
+  {
+    "ean": "78909434",
+    "nombre": "bombones ferrero rocher x 3 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 2499.0,
+    "precio_hoy": 3788.0,
+    "diff_abs": 1289.0,
+    "diff_pct": 51.58
+  },
+  {
+    "ean": "7790310985656",
+    "nombre": "doritos queso x 129 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3399.0,
+    "precio_hoy": 5118.0,
+    "diff_abs": 1719.0,
+    "diff_pct": 50.57
+  },
+  {
+    "ean": "2022080000006",
+    "nombre": "rucula x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
+    "ean": "2021280000007",
+    "nombre": "melon amarillo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.13
+  },
+  {
+    "ean": "7793147009137",
+    "nombre": "cerveza heineken long neck x 330 cc",
     "categoria": "Bebidas",
-    "precio_antes": 309.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 330.0,
-    "diff_pct": 106.8
+    "precio_antes": 2586.17,
+    "precio_hoy": 3850.0,
+    "diff_abs": 1263.83,
+    "diff_pct": 48.87
   },
   {
-    "ean": "7622201733865",
-    "nombre": "jugo tang mandarina x 15 gm",
+    "ean": "7790310985366",
+    "nombre": "papas pehuamar x135gr.clasica",
+    "categoria": "Almacen",
+    "precio_antes": 2499.0,
+    "precio_hoy": 3697.0,
+    "diff_abs": 1198.0,
+    "diff_pct": 47.94
+  },
+  {
+    "ean": "7898024394181",
+    "nombre": "pasta de avellanas y chocolate nutella x 350 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 7299.0,
+    "precio_hoy": 10452.0,
+    "diff_abs": 3153.0,
+    "diff_pct": 43.2
+  },
+  {
+    "ean": "7792798005888",
+    "nombre": "cerveza brahma lata x 473 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 299.0,
-    "precio_hoy": 611.0,
-    "diff_abs": 312.0,
-    "diff_pct": 104.35
+    "precio_antes": 1749.0,
+    "precio_hoy": 2500.0,
+    "diff_abs": 751.0,
+    "diff_pct": 42.94
   },
   {
-    "ean": "7622201746490",
-    "nombre": "jugo en polvo tang x 15 gr. frutilla",
+    "ean": "7792798015351",
+    "nombre": "cerveza corona 0 % x 473 ml lata",
     "categoria": "Bebidas",
-    "precio_antes": 299.0,
-    "precio_hoy": 611.0,
-    "diff_abs": 312.0,
-    "diff_pct": 104.35
+    "precio_antes": 2239.04,
+    "precio_hoy": 3200.0,
+    "diff_abs": 960.96,
+    "diff_pct": 42.92
   },
   {
-    "ean": "7622201745936",
-    "nombre": "jugo tang durazno x15gr.",
+    "ean": "7792798014873",
+    "nombre": "cerveza corona cero x 330 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 299.0,
-    "precio_hoy": 611.0,
-    "diff_abs": 312.0,
-    "diff_pct": 104.35
+    "precio_antes": 2379.0,
+    "precio_hoy": 3400.0,
+    "diff_abs": 1021.0,
+    "diff_pct": 42.92
   },
   {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3719.0,
-    "precio_hoy": 7018.0,
-    "diff_abs": 3299.0,
-    "diff_pct": 88.71
-  },
-  {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3719.0,
-    "precio_hoy": 7018.0,
-    "diff_abs": 3299.0,
-    "diff_pct": 88.71
-  },
-  {
-    "ean": "7791337007260",
-    "nombre": "leche chocolatada cindor x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1339.0,
-    "precio_hoy": 2524.0,
-    "diff_abs": 1185.0,
-    "diff_pct": 88.5
-  },
-  {
-    "ean": "7791337008403",
-    "nombre": "leche chocolatada la serenisima x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2619.0,
-    "precio_hoy": 4926.0,
-    "diff_abs": 2307.0,
-    "diff_pct": 88.09
-  },
-  {
-    "ean": "7791337008410",
-    "nombre": "leche chocolatada la serenisima x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 899.0,
-    "precio_hoy": 1686.0,
-    "diff_abs": 787.0,
-    "diff_pct": 87.54
-  },
-  {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+    "ean": "7792798015061",
+    "nombre": "cerveza brahma x 710 ml",
     "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3050.0,
-    "diff_abs": 1371.0,
-    "diff_pct": 81.66
-  },
-  {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3050.0,
-    "diff_abs": 1371.0,
-    "diff_pct": 81.66
-  },
-  {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1231.0,
-    "diff_pct": 81.04
+    "precio_antes": 2519.0,
+    "precio_hoy": 3600.0,
+    "diff_abs": 1081.0,
+    "diff_pct": 42.91
   }
 ]

@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2019970000000",
-    "nombre": "alcauciles x unidad",
+    "ean": "2021280000007",
+    "nombre": "melon amarillo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 790.0,
+    "precio_antes": 3990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.13
+  },
+  {
+    "ean": "7898024396529",
+    "nombre": "nutella x 650 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 11499.0,
+    "precio_hoy": 16526.0,
+    "diff_abs": 5027.0,
+    "diff_pct": 43.72
+  },
+  {
+    "ean": "7898024394181",
+    "nombre": "pasta de avellanas y chocolate nutella x 350 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 7299.0,
+    "precio_hoy": 10452.0,
+    "diff_abs": 3153.0,
+    "diff_pct": 43.2
+  },
+  {
+    "ean": "2020370000002",
+    "nombre": "chaucha rolliza x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 40.08
+  },
+  {
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 590.0,
+    "precio_hoy": 790.0,
+    "diff_abs": 200.0,
+    "diff_pct": 33.9
+  },
+  {
+    "ean": "2019950000006",
+    "nombre": "akusay x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
     "precio_hoy": 3990.0,
-    "diff_abs": 3200.0,
-    "diff_pct": 405.06
-  },
-  {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3050.0,
-    "diff_abs": 1371.0,
-    "diff_pct": 81.66
-  },
-  {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3050.0,
-    "diff_abs": 1371.0,
-    "diff_pct": 81.66
-  },
-  {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1231.0,
-    "diff_pct": 81.04
-  },
-  {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1231.0,
-    "diff_pct": 81.04
-  },
-  {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1231.0,
-    "diff_pct": 81.04
-  },
-  {
-    "ean": "7792798001965",
-    "nombre": "cerveza patagonia amber lager lata x 473 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 4500.0,
-    "diff_abs": 1801.0,
-    "diff_pct": 66.73
-  },
-  {
-    "ean": "7792798013975",
-    "nombre": "cerveza stella artois lata x 710 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 3239.0,
-    "precio_hoy": 5400.0,
-    "diff_abs": 2161.0,
-    "diff_pct": 66.72
-  },
-  {
-    "ean": "7792798002399",
-    "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3839.0,
-    "precio_hoy": 6400.0,
-    "diff_abs": 2561.0,
-    "diff_pct": 66.71
-  },
-  {
-    "ean": "7792798002351",
-    "nombre": "cerveza patagonia amber lager x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3839.0,
-    "precio_hoy": 6400.0,
-    "diff_abs": 2561.0,
-    "diff_pct": 66.71
-  },
-  {
-    "ean": "7790670050780",
-    "nombre": "hamburguesas paty clasico x 20 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 26339.0,
-    "precio_hoy": 41604.0,
-    "diff_abs": 15265.0,
-    "diff_pct": 57.96
-  },
-  {
-    "ean": "7791813402039",
-    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1400.0,
-    "diff_abs": 491.0,
-    "diff_pct": 54.02
-  },
-  {
-    "ean": "7791813402015",
-    "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1400.0,
-    "diff_abs": 491.0,
-    "diff_pct": 54.02
-  },
-  {
-    "ean": "7790670050674",
-    "nombre": "hamburguesas paty x 2 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 3059.0,
-    "precio_hoy": 4662.0,
-    "diff_abs": 1603.0,
-    "diff_pct": 52.4
-  },
-  {
-    "ean": "7791813402886",
-    "nombre": "agua saborizada h2o x 500 ml sin gas naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 919.0,
-    "precio_hoy": 1400.0,
-    "diff_abs": 481.0,
-    "diff_pct": 52.34
-  },
-  {
-    "ean": "78909434",
-    "nombre": "bombones ferrero rocher x 3 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 2499.0,
-    "precio_hoy": 3788.0,
-    "diff_abs": 1289.0,
-    "diff_pct": 51.58
-  },
-  {
-    "ean": "2022080000006",
-    "nombre": "rucula x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 50.25
+    "diff_pct": 33.44
   },
   {
-    "ean": "7792799000905",
-    "nombre": "agua mineral pureza vital x 1.5 litros sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1475.75,
-    "precio_hoy": 2203.0,
-    "diff_abs": 727.25,
-    "diff_pct": 49.28
+    "ean": "2017620000004",
+    "nombre": "queso cremon doble crema la serenisima x kilo env. al vacio",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 14899.0,
+    "precio_hoy": 18879.0,
+    "diff_abs": 3980.0,
+    "diff_pct": 26.71
   },
   {
-    "ean": "7792799000899",
-    "nombre": "agua mineral nestle pureza vital x 500 ml. sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1142.94,
-    "precio_hoy": 1706.0,
-    "diff_abs": 563.06,
-    "diff_pct": 49.26
+    "ean": "2025990000005",
+    "nombre": "queso cremoso la serenisima cremon fraccionado al vacio x ki",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 13349.0,
+    "precio_hoy": 16909.0,
+    "diff_abs": 3560.0,
+    "diff_pct": 26.67
   },
   {
-    "ean": "7795930000550",
-    "nombre": "agua mineral glaciar x 6,3 lt.",
+    "ean": "7790290101527",
+    "nombre": "vodka sernova wild berries x 700 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 5888.92,
-    "precio_hoy": 8782.0,
-    "diff_abs": 2893.08,
-    "diff_pct": 49.13
+    "precio_antes": 9129.0,
+    "precio_hoy": 11274.0,
+    "diff_abs": 2145.0,
+    "diff_pct": 23.5
+  },
+  {
+    "ean": "7790290101664",
+    "nombre": "vodka sernova x700ml.trop.pass",
+    "categoria": "Bebidas",
+    "precio_antes": 9129.0,
+    "precio_hoy": 11274.0,
+    "diff_abs": 2145.0,
+    "diff_pct": 23.5
+  },
+  {
+    "ean": "7790290101657",
+    "nombre": "vodka sernova x700ml.sweet app",
+    "categoria": "Bebidas",
+    "precio_antes": 9129.0,
+    "precio_hoy": 11274.0,
+    "diff_abs": 2145.0,
+    "diff_pct": 23.5
+  },
+  {
+    "ean": "7790290101534",
+    "nombre": "vodka sernova x700ml.fresh cit",
+    "categoria": "Bebidas",
+    "precio_antes": 9129.0,
+    "precio_hoy": 11274.0,
+    "diff_abs": 2145.0,
+    "diff_pct": 23.5
+  },
+  {
+    "ean": "7790290101510",
+    "nombre": "vodka sernova x 700 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 8299.0,
+    "precio_hoy": 10241.0,
+    "diff_abs": 1942.0,
+    "diff_pct": 23.4
+  },
+  {
+    "ean": "2037860000008",
+    "nombre": "queso cremon la serenisima cremoso x kilo x",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 12369.0,
+    "precio_hoy": 15179.0,
+    "diff_abs": 2810.0,
+    "diff_pct": 22.72
+  },
+  {
+    "ean": "2017610000007",
+    "nombre": "queso cremon light la serenisima x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 13779.0,
+    "precio_hoy": 16899.0,
+    "diff_abs": 3120.0,
+    "diff_pct": 22.64
+  },
+  {
+    "ean": "2017630000001",
+    "nombre": "queso doble crema cremon la serenisima x kilo",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 13779.0,
+    "precio_hoy": 16899.0,
+    "diff_abs": 3120.0,
+    "diff_pct": 22.64
+  },
+  {
+    "ean": "7791200000619",
+    "nombre": "aperitivo cynar proof x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 11399.0,
+    "precio_hoy": 13912.0,
+    "diff_abs": 2513.0,
+    "diff_pct": 22.05
+  },
+  {
+    "ean": "7791200200552",
+    "nombre": "aperitivo cinzano rosso x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 8189.0,
+    "precio_hoy": 9969.0,
+    "diff_abs": 1780.0,
+    "diff_pct": 21.74
+  },
+  {
+    "ean": "7790950133363",
+    "nombre": "amargo terma x 1,35 lt. pomelo rosado",
+    "categoria": "Bebidas",
+    "precio_antes": 2319.0,
+    "precio_hoy": 2823.0,
+    "diff_abs": 504.0,
+    "diff_pct": 21.73
+  },
+  {
+    "ean": "7790950133318",
+    "nombre": "amargo terma x 1,35 lt. serrano",
+    "categoria": "Bebidas",
+    "precio_antes": 2319.0,
+    "precio_hoy": 2823.0,
+    "diff_abs": 504.0,
+    "diff_pct": 21.73
   }
 ]
