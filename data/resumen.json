@@ -1,30 +1,30 @@
 {
-  "fecha": "20260507",
-  "total_productos": 5949,
-  "variacion_dia": -0.85,
-  "variacion_7d": 1.22,
-  "variacion_mes": 3.33,
+  "fecha": "20260508",
+  "total_productos": 5950,
+  "variacion_dia": 0.38,
+  "variacion_7d": 0.06,
+  "variacion_mes": 3.58,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -1.98,
-      "productos_subieron": 218,
-      "productos_bajaron": 221,
+      "variacion_pct_promedio": 0.11,
+      "productos_subieron": 58,
+      "productos_bajaron": 15,
       "total_productos": 1316
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.94,
-      "productos_subieron": 13,
-      "productos_bajaron": 54,
-      "total_productos": 1143
+      "variacion_pct_promedio": 0.17,
+      "productos_subieron": 37,
+      "productos_bajaron": 3,
+      "total_productos": 1144
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -2.13,
-      "productos_subieron": 1,
-      "productos_bajaron": 33,
+      "variacion_pct_promedio": 2.08,
+      "productos_subieron": 19,
+      "productos_bajaron": 0,
       "total_productos": 216
     },
     {
@@ -36,112 +36,112 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.52,
-      "productos_subieron": 16,
-      "productos_bajaron": 35,
+      "variacion_pct_promedio": 0.31,
+      "productos_subieron": 18,
+      "productos_bajaron": 2,
       "total_productos": 896
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.27,
-      "productos_subieron": 20,
-      "productos_bajaron": 39,
-      "total_productos": 1673
+      "variacion_pct_promedio": 0.73,
+      "productos_subieron": 78,
+      "productos_bajaron": 22,
+      "total_productos": 1674
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7797394001265",
-      "nombre": "pastillas tic tac mix de frutas x 16 gr.",
+      "ean": "7792798015351",
+      "nombre": "cerveza corona 0 % x 473 ml lata",
+      "categoria": "Bebidas",
+      "precio_antes": 3200.0,
+      "precio_hoy": 2239.0,
+      "diff_abs": -961.0,
+      "diff_pct": -30.03
+    },
+    {
+      "ean": "7792798014873",
+      "nombre": "cerveza corona cero x 330 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 3400.0,
+      "precio_hoy": 2379.07,
+      "diff_abs": -1020.93,
+      "diff_pct": -30.03
+    },
+    {
+      "ean": "7792798008858",
+      "nombre": "cerveza temple wolf ipa x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 4500.0,
+      "precio_hoy": 3149.0,
+      "diff_abs": -1351.0,
+      "diff_pct": -30.02
+    },
+    {
+      "ean": "2020570000000",
+      "nombre": "coliflor x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 4990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -28.61
+    },
+    {
+      "ean": "7501064198847",
+      "nombre": "cerveza corona x 330 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 3650.0,
+      "precio_hoy": 2709.0,
+      "diff_abs": -941.0,
+      "diff_pct": -25.78
+    },
+    {
+      "ean": "2021880000001",
+      "nombre": "pomelo sanguineo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 3990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -25.06
+    },
+    {
+      "ean": "7792798013951",
+      "nombre": "cerv.quilmes 1890 lata x473ml",
+      "categoria": "Bebidas",
+      "precio_antes": 2000.0,
+      "precio_hoy": 1649.0,
+      "diff_abs": -351.0,
+      "diff_pct": -17.55
+    },
+    {
+      "ean": "7792798013937",
+      "nombre": "cerveza quilmes 1890 rubia x 1 litro",
+      "categoria": "Bebidas",
+      "precio_antes": 3500.0,
+      "precio_hoy": 2979.0,
+      "diff_abs": -521.0,
+      "diff_pct": -14.89
+    },
+    {
+      "ean": "7790070231697",
+      "nombre": "aceite de maiz lira x 900 ml.",
       "categoria": "Almacen",
-      "precio_antes": 1101.0,
-      "precio_hoy": 499.0,
-      "diff_abs": -602.0,
-      "diff_pct": -54.68
+      "precio_antes": 5783.0,
+      "precio_hoy": 5199.0,
+      "diff_abs": -584.0,
+      "diff_pct": -10.1
     },
     {
-      "ean": "7791337010475",
-      "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4232.0,
-      "precio_hoy": 1999.0,
-      "diff_abs": -2233.0,
-      "diff_pct": -52.76
-    },
-    {
-      "ean": "7791337010369",
-      "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4232.0,
-      "precio_hoy": 1999.0,
-      "diff_abs": -2233.0,
-      "diff_pct": -52.76
-    },
-    {
-      "ean": "7791337010376",
-      "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4232.0,
-      "precio_hoy": 1999.0,
-      "diff_abs": -2233.0,
-      "diff_pct": -52.76
-    },
-    {
-      "ean": "7791337010215",
-      "nombre": "yogur ls.clas.ent.sh x900g.fru",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4232.0,
-      "precio_hoy": 1999.0,
-      "diff_abs": -2233.0,
-      "diff_pct": -52.76
-    },
-    {
-      "ean": "7791337010468",
-      "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4232.0,
-      "precio_hoy": 1999.0,
-      "diff_abs": -2233.0,
-      "diff_pct": -52.76
-    },
-    {
-      "ean": "7795930000543",
-      "nombre": "agua mineral pureza vital x2.25lt.sin gas",
+      "ean": "7792798012770",
+      "nombre": "gin ginkgo x 500 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 2603.0,
-      "precio_hoy": 1309.0,
-      "diff_abs": -1294.0,
-      "diff_pct": -49.71
-    },
-    {
-      "ean": "7792799000905",
-      "nombre": "agua mineral pureza vital x 1.5 litros sin gas",
-      "categoria": "Bebidas",
-      "precio_antes": 2203.0,
-      "precio_hoy": 1109.0,
-      "diff_abs": -1094.0,
-      "diff_pct": -49.66
-    },
-    {
-      "ean": "7792799000899",
-      "nombre": "agua mineral nestle pureza vital x 500 ml. sin gas",
-      "categoria": "Bebidas",
-      "precio_antes": 1706.0,
-      "precio_hoy": 859.0,
-      "diff_abs": -847.0,
-      "diff_pct": -49.65
-    },
-    {
-      "ean": "7791337007796",
-      "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 7018.0,
-      "precio_hoy": 3719.0,
-      "diff_abs": -3299.0,
-      "diff_pct": -47.01
+      "precio_antes": 13109.01,
+      "precio_hoy": 11891.58,
+      "diff_abs": -1217.43,
+      "diff_pct": -9.29
     }
   ],
-  "productos_subieron_dia": 268,
-  "productos_bajaron_dia": 382,
-  "productos_sin_cambio_dia": 5297
+  "productos_subieron_dia": 210,
+  "productos_bajaron_dia": 42,
+  "productos_sin_cambio_dia": 5697
 }

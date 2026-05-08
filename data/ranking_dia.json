@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2021280000007",
-    "nombre": "melon amarillo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
+    "ean": "7790070265326",
+    "nombre": "rocio vegetal lira oliva x 120 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2479.0,
+    "precio_hoy": 6561.0,
+    "diff_abs": 4082.0,
+    "diff_pct": 164.66
   },
   {
-    "ean": "7898024396529",
-    "nombre": "nutella x 650 gm",
+    "ean": "7790070337092",
+    "nombre": "fideos mostachol al huevo lucchetti x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1369.0,
+    "precio_hoy": 2148.0,
+    "diff_abs": 779.0,
+    "diff_pct": 56.9
+  },
+  {
+    "ean": "7790070433145",
+    "nombre": "arroz largo fino gallo x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1149.0,
+    "precio_hoy": 1721.0,
+    "diff_abs": 572.0,
+    "diff_pct": 49.78
+  },
+  {
+    "ean": "7790070040046",
+    "nombre": "pizza sibarita mozzarella y jamon x 530 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 11959.0,
+    "precio_hoy": 16460.0,
+    "diff_abs": 4501.0,
+    "diff_pct": 37.64
+  },
+  {
+    "ean": "7622300724306",
+    "nombre": "fideos terrabusi x 500 gr. municiones",
+    "categoria": "Almacen",
+    "precio_antes": 909.0,
+    "precio_hoy": 1223.0,
+    "diff_abs": 314.0,
+    "diff_pct": 34.54
+  },
+  {
+    "ean": "7622300724436",
+    "nombre": "fideos terrabusi x 500 gr. dedalitos",
+    "categoria": "Almacen",
+    "precio_antes": 909.0,
+    "precio_hoy": 1223.0,
+    "diff_abs": 314.0,
+    "diff_pct": 34.54
+  },
+  {
+    "ean": "7790070322074",
+    "nombre": "fideos matarazzo proteina plus x 400 gr tirabuzon",
+    "categoria": "Almacen",
+    "precio_antes": 3399.0,
+    "precio_hoy": 4570.0,
+    "diff_abs": 1171.0,
+    "diff_pct": 34.45
+  },
+  {
+    "ean": "7790070433114",
+    "nombre": "arroz gallo oro x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1407.0,
+    "precio_hoy": 1890.0,
+    "diff_abs": 483.0,
+    "diff_pct": 34.33
+  },
+  {
+    "ean": "7790070036025",
+    "nombre": "milanesas de vegetales granja de sol x 320 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 4219.0,
+    "precio_hoy": 5665.0,
+    "diff_abs": 1446.0,
+    "diff_pct": 34.27
+  },
+  {
+    "ean": "7790070431417",
+    "nombre": "arroz gallo oro x 1 kg.",
+    "categoria": "Almacen",
+    "precio_antes": 2675.0,
+    "precio_hoy": 3591.0,
+    "diff_abs": 916.0,
+    "diff_pct": 34.24
+  },
+  {
+    "ean": "7790070035981",
+    "nombre": "milan.soja gr.sol x330gr.espin",
+    "categoria": "Congelados",
+    "precio_antes": 3649.0,
+    "precio_hoy": 4895.0,
+    "diff_abs": 1246.0,
+    "diff_pct": 34.15
+  },
+  {
+    "ean": "7790070036001",
+    "nombre": "milanesas de arroz y vegetales granja del sol x 33",
+    "categoria": "Congelados",
+    "precio_antes": 4239.0,
+    "precio_hoy": 5685.0,
+    "diff_abs": 1446.0,
+    "diff_pct": 34.11
+  },
+  {
+    "ean": "7790070036155",
+    "nombre": "milanesas mix de legumbres granja del sol x 330 gr",
+    "categoria": "Congelados",
+    "precio_antes": 4249.0,
+    "precio_hoy": 5696.0,
+    "diff_abs": 1447.0,
+    "diff_pct": 34.06
+  },
+  {
+    "ean": "7790070102607",
+    "nombre": "milan.soja gr.sol x330gr.tc",
+    "categoria": "Congelados",
+    "precio_antes": 3609.0,
+    "precio_hoy": 4838.0,
+    "diff_abs": 1229.0,
+    "diff_pct": 34.05
+  },
+  {
+    "ean": "7790070760524",
+    "nombre": "vino aime x 750 ml rose",
+    "categoria": "Bebidas",
+    "precio_antes": 4999.0,
+    "precio_hoy": 6695.0,
+    "diff_abs": 1696.0,
+    "diff_pct": 33.93
+  },
+  {
+    "ean": "7790070431929",
+    "nombre": "oblea yogubar gallo 6x20gr.",
     "categoria": "Perfumeria",
-    "precio_antes": 11499.0,
-    "precio_hoy": 16526.0,
-    "diff_abs": 5027.0,
-    "diff_pct": 43.72
+    "precio_antes": 5379.0,
+    "precio_hoy": 7138.0,
+    "diff_abs": 1759.0,
+    "diff_pct": 32.7
   },
   {
-    "ean": "7898024394181",
-    "nombre": "pasta de avellanas y chocolate nutella x 350 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 7299.0,
-    "precio_hoy": 10452.0,
-    "diff_abs": 3153.0,
-    "diff_pct": 43.2
+    "ean": "7790070418401",
+    "nombre": "gall.gallo x100gr.crackeadas",
+    "categoria": "Almacen",
+    "precio_antes": 1979.0,
+    "precio_hoy": 2621.0,
+    "diff_abs": 642.0,
+    "diff_pct": 32.44
   },
   {
-    "ean": "2020370000002",
-    "nombre": "chaucha rolliza x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 40.08
+    "ean": "7790070431431",
+    "nombre": "arroz gallo doble carolina x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1789.0,
+    "precio_hoy": 2339.0,
+    "diff_abs": 550.0,
+    "diff_pct": 30.74
   },
   {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 590.0,
-    "precio_hoy": 790.0,
-    "diff_abs": 200.0,
-    "diff_pct": 33.9
+    "ean": "7790070265463",
+    "nombre": "aderezo para ensalada  cocinero x 500 ml clasico",
+    "categoria": "Almacen",
+    "precio_antes": 1909.0,
+    "precio_hoy": 2457.0,
+    "diff_abs": 548.0,
+    "diff_pct": 28.71
   },
   {
-    "ean": "2019950000006",
-    "nombre": "akusay x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
-    "ean": "2017620000004",
-    "nombre": "queso cremon doble crema la serenisima x kilo env. al vacio",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 14899.0,
-    "precio_hoy": 18879.0,
-    "diff_abs": 3980.0,
-    "diff_pct": 26.71
-  },
-  {
-    "ean": "2025990000005",
-    "nombre": "queso cremoso la serenisima cremon fraccionado al vacio x ki",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 13349.0,
-    "precio_hoy": 16909.0,
-    "diff_abs": 3560.0,
-    "diff_pct": 26.67
-  },
-  {
-    "ean": "7790290101527",
-    "nombre": "vodka sernova wild berries x 700 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 9129.0,
-    "precio_hoy": 11274.0,
-    "diff_abs": 2145.0,
-    "diff_pct": 23.5
-  },
-  {
-    "ean": "7790290101664",
-    "nombre": "vodka sernova x700ml.trop.pass",
-    "categoria": "Bebidas",
-    "precio_antes": 9129.0,
-    "precio_hoy": 11274.0,
-    "diff_abs": 2145.0,
-    "diff_pct": 23.5
-  },
-  {
-    "ean": "7790290101657",
-    "nombre": "vodka sernova x700ml.sweet app",
-    "categoria": "Bebidas",
-    "precio_antes": 9129.0,
-    "precio_hoy": 11274.0,
-    "diff_abs": 2145.0,
-    "diff_pct": 23.5
-  },
-  {
-    "ean": "7790290101534",
-    "nombre": "vodka sernova x700ml.fresh cit",
-    "categoria": "Bebidas",
-    "precio_antes": 9129.0,
-    "precio_hoy": 11274.0,
-    "diff_abs": 2145.0,
-    "diff_pct": 23.5
-  },
-  {
-    "ean": "7790290101510",
-    "nombre": "vodka sernova x 700 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 8299.0,
-    "precio_hoy": 10241.0,
-    "diff_abs": 1942.0,
-    "diff_pct": 23.4
-  },
-  {
-    "ean": "2037860000008",
-    "nombre": "queso cremon la serenisima cremoso x kilo x",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 12369.0,
-    "precio_hoy": 15179.0,
-    "diff_abs": 2810.0,
-    "diff_pct": 22.72
-  },
-  {
-    "ean": "2017610000007",
-    "nombre": "queso cremon light la serenisima x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 13779.0,
-    "precio_hoy": 16899.0,
-    "diff_abs": 3120.0,
-    "diff_pct": 22.64
-  },
-  {
-    "ean": "2017630000001",
-    "nombre": "queso doble crema cremon la serenisima x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 13779.0,
-    "precio_hoy": 16899.0,
-    "diff_abs": 3120.0,
-    "diff_pct": 22.64
-  },
-  {
-    "ean": "7791200000619",
-    "nombre": "aperitivo cynar proof x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 11399.0,
-    "precio_hoy": 13912.0,
-    "diff_abs": 2513.0,
-    "diff_pct": 22.05
-  },
-  {
-    "ean": "7791200200552",
-    "nombre": "aperitivo cinzano rosso x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 8189.0,
-    "precio_hoy": 9969.0,
-    "diff_abs": 1780.0,
-    "diff_pct": 21.74
-  },
-  {
-    "ean": "7790950133363",
-    "nombre": "amargo terma x 1,35 lt. pomelo rosado",
-    "categoria": "Bebidas",
-    "precio_antes": 2319.0,
-    "precio_hoy": 2823.0,
-    "diff_abs": 504.0,
-    "diff_pct": 21.73
-  },
-  {
-    "ean": "7790950133318",
-    "nombre": "amargo terma x 1,35 lt. serrano",
-    "categoria": "Bebidas",
-    "precio_antes": 2319.0,
-    "precio_hoy": 2823.0,
-    "diff_abs": 504.0,
-    "diff_pct": 21.73
+    "ean": "7790070507372",
+    "nombre": "jugo de limon minerva x 250 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 1539.0,
+    "precio_hoy": 1968.0,
+    "diff_abs": 429.0,
+    "diff_pct": 27.88
   }
 ]
