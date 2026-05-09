@@ -22,9 +22,9 @@
     "nombre": "tomate redondo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 1290.0,
-    "precio_hoy": 3490.0,
-    "diff_abs": 2200.0,
-    "diff_pct": 170.54
+    "precio_hoy": 3990.0,
+    "diff_abs": 2700.0,
+    "diff_pct": 209.3
   },
   {
     "ean": "2021950000009",
@@ -54,15 +54,6 @@
     "diff_pct": 126.66
   },
   {
-    "ean": "2019950000006",
-    "nombre": "akusay x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 100.5
-  },
-  {
     "ean": "2021660000009",
     "nombre": "zapallito redondo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -79,6 +70,15 @@
     "precio_hoy": 5990.0,
     "diff_abs": 3000.0,
     "diff_pct": 100.33
+  },
+  {
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1390.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 1100.0,
+    "diff_pct": 79.14
   },
   {
     "ean": "7793762006252",
@@ -135,6 +135,15 @@
     "diff_pct": 55.57
   },
   {
+    "ean": "7791728242577",
+    "nombre": "vino santa julia rose x 269 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2309.0,
+    "precio_hoy": 3575.0,
+    "diff_abs": 1266.0,
+    "diff_pct": 54.83
+  },
+  {
     "ean": "7791728239331",
     "nombre": "vino tinto santa julia dulce natural x 269 ml.",
     "categoria": "Bebidas",
@@ -146,15 +155,6 @@
   {
     "ean": "7791728239324",
     "nombre": "vino tinto santa julia tintillo malbec-bonarda x .",
-    "categoria": "Bebidas",
-    "precio_antes": 2309.0,
-    "precio_hoy": 3575.0,
-    "diff_abs": 1266.0,
-    "diff_pct": 54.83
-  },
-  {
-    "ean": "7791728242577",
-    "nombre": "vino santa julia rose x 269 ml.",
     "categoria": "Bebidas",
     "precio_antes": 2309.0,
     "precio_hoy": 3575.0,

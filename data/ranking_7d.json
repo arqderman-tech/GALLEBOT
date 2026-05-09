@@ -9,15 +9,6 @@
     "diff_pct": 405.06
   },
   {
-    "ean": "7790070265326",
-    "nombre": "rocio vegetal lira oliva x 120 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2479.0,
-    "precio_hoy": 6561.0,
-    "diff_abs": 4082.0,
-    "diff_pct": 164.66
-  },
-  {
     "ean": "7792798001965",
     "nombre": "cerveza patagonia amber lager lata x 473 ml",
     "categoria": "Bebidas",
@@ -36,15 +27,6 @@
     "diff_pct": 66.72
   },
   {
-    "ean": "7790670050780",
-    "nombre": "hamburguesas paty clasico x 20 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 26339.0,
-    "precio_hoy": 41604.0,
-    "diff_abs": 15265.0,
-    "diff_pct": 57.96
-  },
-  {
     "ean": "7790070337092",
     "nombre": "fideos mostachol al huevo lucchetti x 500 gr.",
     "categoria": "Almacen",
@@ -52,15 +34,6 @@
     "precio_hoy": 2148.0,
     "diff_abs": 779.0,
     "diff_pct": 56.9
-  },
-  {
-    "ean": "7790670050674",
-    "nombre": "hamburguesas paty x 2 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 3059.0,
-    "precio_hoy": 4662.0,
-    "diff_abs": 1603.0,
-    "diff_pct": 52.4
   },
   {
     "ean": "78909434",
@@ -81,15 +54,6 @@
     "diff_pct": 50.25
   },
   {
-    "ean": "2022130000000",
-    "nombre": "tomate cherry x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
-  },
-  {
     "ean": "2021280000007",
     "nombre": "melon amarillo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -99,13 +63,13 @@
     "diff_pct": 50.13
   },
   {
-    "ean": "7790070433145",
-    "nombre": "arroz largo fino gallo x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1149.0,
-    "precio_hoy": 1721.0,
-    "diff_abs": 572.0,
-    "diff_pct": 49.78
+    "ean": "2022130000000",
+    "nombre": "tomate cherry x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.13
   },
   {
     "ean": "7898024394181",
@@ -153,30 +117,66 @@
     "diff_pct": 40.08
   },
   {
-    "ean": "7790670050667",
-    "nombre": "hamburguesas paty x 12 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 18469.0,
-    "precio_hoy": 25519.0,
-    "diff_abs": 7050.0,
-    "diff_pct": 38.17
-  },
-  {
-    "ean": "7790070040046",
-    "nombre": "pizza sibarita mozzarella y jamon x 530 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 11959.0,
-    "precio_hoy": 16460.0,
-    "diff_abs": 4501.0,
-    "diff_pct": 37.64
-  },
-  {
-    "ean": "7622300724436",
-    "nombre": "fideos terrabusi x 500 gr. dedalitos",
+    "ean": "7622300724306",
+    "nombre": "fideos terrabusi x 500 gr. municiones",
     "categoria": "Almacen",
     "precio_antes": 909.0,
     "precio_hoy": 1223.0,
     "diff_abs": 314.0,
     "diff_pct": 34.54
+  },
+  {
+    "ean": "7790070322074",
+    "nombre": "fideos matarazzo proteina plus x 400 gr tirabuzon",
+    "categoria": "Almacen",
+    "precio_antes": 3399.0,
+    "precio_hoy": 4570.0,
+    "diff_abs": 1171.0,
+    "diff_pct": 34.45
+  },
+  {
+    "ean": "7790070760524",
+    "nombre": "vino aime x 750 ml rose",
+    "categoria": "Bebidas",
+    "precio_antes": 4999.0,
+    "precio_hoy": 6695.0,
+    "diff_abs": 1696.0,
+    "diff_pct": 33.93
+  },
+  {
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 590.0,
+    "precio_hoy": 790.0,
+    "diff_abs": 200.0,
+    "diff_pct": 33.9
+  },
+  {
+    "ean": "7790070265326",
+    "nombre": "rocio vegetal lira oliva x 120 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2479.0,
+    "precio_hoy": 3319.0,
+    "diff_abs": 840.0,
+    "diff_pct": 33.88
+  },
+  {
+    "ean": "2022220000002",
+    "nombre": "tomate redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
+  },
+  {
+    "ean": "2022030000001",
+    "nombre": "repollitos de brusellas en bandeja",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
   }
 ]

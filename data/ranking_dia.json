@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790070265326",
-    "nombre": "rocio vegetal lira oliva x 120 gr.",
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
+  },
+  {
+    "ean": "2022220000002",
+    "nombre": "tomate redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3490.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 14.33
+  },
+  {
+    "ean": "7790645000147",
+    "nombre": "duraznos en mitades gentleman x 820 gr bajas calorias",
     "categoria": "Almacen",
-    "precio_antes": 2479.0,
-    "precio_hoy": 6561.0,
-    "diff_abs": 4082.0,
-    "diff_pct": 164.66
+    "precio_antes": 3462.0,
+    "precio_hoy": 3832.0,
+    "diff_abs": 370.0,
+    "diff_pct": 10.69
   },
   {
-    "ean": "7790070337092",
-    "nombre": "fideos mostachol al huevo lucchetti x 500 gr.",
+    "ean": "7790645001120",
+    "nombre": "duraznos en mitades gentleman x 820 gr.",
     "categoria": "Almacen",
-    "precio_antes": 1369.0,
-    "precio_hoy": 2148.0,
-    "diff_abs": 779.0,
-    "diff_pct": 56.9
+    "precio_antes": 3462.0,
+    "precio_hoy": 3832.0,
+    "diff_abs": 370.0,
+    "diff_pct": 10.69
   },
   {
-    "ean": "7790070433145",
-    "nombre": "arroz largo fino gallo x 500 gr.",
+    "ean": "7790580103446",
+    "nombre": "choc.cofler x100gr.air.leche",
     "categoria": "Almacen",
-    "precio_antes": 1149.0,
-    "precio_hoy": 1721.0,
-    "diff_abs": 572.0,
-    "diff_pct": 49.78
+    "precio_antes": 6805.0,
+    "precio_hoy": 7463.0,
+    "diff_abs": 658.0,
+    "diff_pct": 9.67
   },
   {
-    "ean": "7790070040046",
-    "nombre": "pizza sibarita mozzarella y jamon x 530 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 11959.0,
-    "precio_hoy": 16460.0,
-    "diff_abs": 4501.0,
-    "diff_pct": 37.64
-  },
-  {
-    "ean": "7622300724306",
-    "nombre": "fideos terrabusi x 500 gr. municiones",
+    "ean": "7790580103477",
+    "nombre": "choc.cofler x100gr.air.almendr",
     "categoria": "Almacen",
-    "precio_antes": 909.0,
-    "precio_hoy": 1223.0,
-    "diff_abs": 314.0,
-    "diff_pct": 34.54
+    "precio_antes": 6805.0,
+    "precio_hoy": 7463.0,
+    "diff_abs": 658.0,
+    "diff_pct": 9.67
   },
   {
-    "ean": "7622300724436",
-    "nombre": "fideos terrabusi x 500 gr. dedalitos",
+    "ean": "7790580103460",
+    "nombre": "chocolate cofler aireado mixto x 100 gr.",
     "categoria": "Almacen",
-    "precio_antes": 909.0,
-    "precio_hoy": 1223.0,
-    "diff_abs": 314.0,
-    "diff_pct": 34.54
+    "precio_antes": 6805.0,
+    "precio_hoy": 7463.0,
+    "diff_abs": 658.0,
+    "diff_pct": 9.67
   },
   {
-    "ean": "7790070322074",
-    "nombre": "fideos matarazzo proteina plus x 400 gr tirabuzon",
+    "ean": "7790580103453",
+    "nombre": "chocolate cofler blanco aireado x 100 gr.",
     "categoria": "Almacen",
-    "precio_antes": 3399.0,
-    "precio_hoy": 4570.0,
-    "diff_abs": 1171.0,
-    "diff_pct": 34.45
+    "precio_antes": 6805.0,
+    "precio_hoy": 7463.0,
+    "diff_abs": 658.0,
+    "diff_pct": 9.67
   },
   {
-    "ean": "7790070433114",
-    "nombre": "arroz gallo oro x 500 gr.",
+    "ean": "7790150430392",
+    "nombre": "bicarbonato de sodio alicante x 50 gr.",
     "categoria": "Almacen",
-    "precio_antes": 1407.0,
-    "precio_hoy": 1890.0,
-    "diff_abs": 483.0,
-    "diff_pct": 34.33
+    "precio_antes": 695.0,
+    "precio_hoy": 758.0,
+    "diff_abs": 63.0,
+    "diff_pct": 9.06
   },
   {
-    "ean": "7790070036025",
-    "nombre": "milanesas de vegetales granja de sol x 320 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 4219.0,
-    "precio_hoy": 5665.0,
-    "diff_abs": 1446.0,
-    "diff_pct": 34.27
-  },
-  {
-    "ean": "7790070431417",
-    "nombre": "arroz gallo oro x 1 kg.",
+    "ean": "7790580128234",
+    "nombre": "chocolate cofler macizo x 140 gr. con almendras",
     "categoria": "Almacen",
-    "precio_antes": 2675.0,
-    "precio_hoy": 3591.0,
-    "diff_abs": 916.0,
-    "diff_pct": 34.24
+    "precio_antes": 7222.0,
+    "precio_hoy": 7822.0,
+    "diff_abs": 600.0,
+    "diff_pct": 8.31
   },
   {
-    "ean": "7790070035981",
-    "nombre": "milan.soja gr.sol x330gr.espin",
-    "categoria": "Congelados",
-    "precio_antes": 3649.0,
-    "precio_hoy": 4895.0,
-    "diff_abs": 1246.0,
-    "diff_pct": 34.15
+    "ean": "7790580127947",
+    "nombre": "choc.cofler x140gr.leche",
+    "categoria": "Almacen",
+    "precio_antes": 7222.0,
+    "precio_hoy": 7822.0,
+    "diff_abs": 600.0,
+    "diff_pct": 8.31
   },
   {
-    "ean": "7790070036001",
-    "nombre": "milanesas de arroz y vegetales granja del sol x 33",
-    "categoria": "Congelados",
-    "precio_antes": 4239.0,
-    "precio_hoy": 5685.0,
-    "diff_abs": 1446.0,
-    "diff_pct": 34.11
+    "ean": "7790580127336",
+    "nombre": "chocolate cofler blanco con chocolinas x 140 gm",
+    "categoria": "Almacen",
+    "precio_antes": 7222.0,
+    "precio_hoy": 7822.0,
+    "diff_abs": 600.0,
+    "diff_pct": 8.31
   },
   {
-    "ean": "7790070036155",
-    "nombre": "milanesas mix de legumbres granja del sol x 330 gr",
-    "categoria": "Congelados",
-    "precio_antes": 4249.0,
-    "precio_hoy": 5696.0,
-    "diff_abs": 1447.0,
-    "diff_pct": 34.06
+    "ean": "7794612066419",
+    "nombre": "choc.hamlet x43gr.frut-yogur",
+    "categoria": "Almacen",
+    "precio_antes": 1131.0,
+    "precio_hoy": 1222.0,
+    "diff_abs": 91.0,
+    "diff_pct": 8.05
   },
   {
-    "ean": "7790070102607",
-    "nombre": "milan.soja gr.sol x330gr.tc",
-    "categoria": "Congelados",
-    "precio_antes": 3609.0,
-    "precio_hoy": 4838.0,
-    "diff_abs": 1229.0,
-    "diff_pct": 34.05
+    "ean": "7794612065719",
+    "nombre": "choc.hamlet x45gr.almend-mani",
+    "categoria": "Almacen",
+    "precio_antes": 1131.0,
+    "precio_hoy": 1222.0,
+    "diff_abs": 91.0,
+    "diff_pct": 8.05
   },
   {
-    "ean": "7790070760524",
-    "nombre": "vino aime x 750 ml rose",
-    "categoria": "Bebidas",
-    "precio_antes": 4999.0,
-    "precio_hoy": 6695.0,
-    "diff_abs": 1696.0,
-    "diff_pct": 33.93
+    "ean": "7794612066211",
+    "nombre": "choc.hamlet x43gr.chocolatoso",
+    "categoria": "Almacen",
+    "precio_antes": 1131.0,
+    "precio_hoy": 1222.0,
+    "diff_abs": 91.0,
+    "diff_pct": 8.05
   },
   {
-    "ean": "7790070431929",
-    "nombre": "oblea yogubar gallo 6x20gr.",
+    "ean": "7794612491013",
+    "nombre": "choc.hamlet x42gr.bicolor",
+    "categoria": "Almacen",
+    "precio_antes": 1131.0,
+    "precio_hoy": 1222.0,
+    "diff_abs": 91.0,
+    "diff_pct": 8.05
+  },
+  {
+    "ean": "7790580103484",
+    "nombre": "choc.cofler x55gr.macizo leche",
+    "categoria": "Almacen",
+    "precio_antes": 3626.0,
+    "precio_hoy": 3904.0,
+    "diff_abs": 278.0,
+    "diff_pct": 7.67
+  },
+  {
+    "ean": "7790580103538",
+    "nombre": "chocolate cofler macizo x 55 gr. con chocolinas",
+    "categoria": "Almacen",
+    "precio_antes": 3626.0,
+    "precio_hoy": 3904.0,
+    "diff_abs": 278.0,
+    "diff_pct": 7.67
+  },
+  {
+    "ean": "7790580103521",
+    "nombre": "chocolate cofler macizo x 55 gr. con rocklets",
+    "categoria": "Almacen",
+    "precio_antes": 3626.0,
+    "precio_hoy": 3904.0,
+    "diff_abs": 278.0,
+    "diff_pct": 7.67
+  },
+  {
+    "ean": "7793360126987",
+    "nombre": "dce.membrillo l.camp.x700gr.la",
     "categoria": "Perfumeria",
-    "precio_antes": 5379.0,
-    "precio_hoy": 7138.0,
-    "diff_abs": 1759.0,
-    "diff_pct": 32.7
-  },
-  {
-    "ean": "7790070418401",
-    "nombre": "gall.gallo x100gr.crackeadas",
-    "categoria": "Almacen",
-    "precio_antes": 1979.0,
-    "precio_hoy": 2621.0,
-    "diff_abs": 642.0,
-    "diff_pct": 32.44
-  },
-  {
-    "ean": "7790070431431",
-    "nombre": "arroz gallo doble carolina x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1789.0,
-    "precio_hoy": 2339.0,
-    "diff_abs": 550.0,
-    "diff_pct": 30.74
-  },
-  {
-    "ean": "7790070265463",
-    "nombre": "aderezo para ensalada  cocinero x 500 ml clasico",
-    "categoria": "Almacen",
-    "precio_antes": 1909.0,
-    "precio_hoy": 2457.0,
-    "diff_abs": 548.0,
-    "diff_pct": 28.71
-  },
-  {
-    "ean": "7790070507372",
-    "nombre": "jugo de limon minerva x 250 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 1539.0,
-    "precio_hoy": 1968.0,
-    "diff_abs": 429.0,
-    "diff_pct": 27.88
+    "precio_antes": 5482.0,
+    "precio_hoy": 5859.0,
+    "diff_abs": 377.0,
+    "diff_pct": 6.88
   }
 ]

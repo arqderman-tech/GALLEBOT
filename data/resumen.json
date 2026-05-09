@@ -1,31 +1,31 @@
 {
-  "fecha": "20260508",
-  "total_productos": 5950,
-  "variacion_dia": 0.38,
-  "variacion_7d": 0.06,
-  "variacion_mes": 3.58,
+  "fecha": "20260509",
+  "total_productos": 5900,
+  "variacion_dia": -0.65,
+  "variacion_7d": -0.65,
+  "variacion_mes": 2.77,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.11,
-      "productos_subieron": 58,
-      "productos_bajaron": 15,
-      "total_productos": 1316
+      "variacion_pct_promedio": -0.38,
+      "productos_subieron": 2,
+      "productos_bajaron": 31,
+      "total_productos": 1310
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.17,
-      "productos_subieron": 37,
-      "productos_bajaron": 3,
-      "total_productos": 1144
+      "variacion_pct_promedio": -0.13,
+      "productos_subieron": 2,
+      "productos_bajaron": 11,
+      "total_productos": 1128
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 2.08,
-      "productos_subieron": 19,
-      "productos_bajaron": 0,
-      "total_productos": 216
+      "variacion_pct_promedio": -3.1,
+      "productos_subieron": 1,
+      "productos_bajaron": 46,
+      "total_productos": 214
     },
     {
       "categoria": "Limpieza",
@@ -36,112 +36,112 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.31,
-      "productos_subieron": 18,
-      "productos_bajaron": 2,
-      "total_productos": 896
+      "variacion_pct_promedio": -0.67,
+      "productos_subieron": 1,
+      "productos_bajaron": 56,
+      "total_productos": 886
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.73,
-      "productos_subieron": 78,
-      "productos_bajaron": 22,
-      "total_productos": 1674
+      "variacion_pct_promedio": -1.17,
+      "productos_subieron": 31,
+      "productos_bajaron": 173,
+      "total_productos": 1658
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7792798015351",
-      "nombre": "cerveza corona 0 % x 473 ml lata",
-      "categoria": "Bebidas",
-      "precio_antes": 3200.0,
-      "precio_hoy": 2239.0,
-      "diff_abs": -961.0,
-      "diff_pct": -30.03
-    },
-    {
-      "ean": "7792798014873",
-      "nombre": "cerveza corona cero x 330 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 3400.0,
-      "precio_hoy": 2379.07,
-      "diff_abs": -1020.93,
-      "diff_pct": -30.03
-    },
-    {
-      "ean": "7792798008858",
-      "nombre": "cerveza temple wolf ipa x 473 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 4500.0,
-      "precio_hoy": 3149.0,
-      "diff_abs": -1351.0,
-      "diff_pct": -30.02
-    },
-    {
-      "ean": "2020570000000",
-      "nombre": "coliflor x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -28.61
-    },
-    {
-      "ean": "7501064198847",
-      "nombre": "cerveza corona x 330 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 3650.0,
-      "precio_hoy": 2709.0,
-      "diff_abs": -941.0,
-      "diff_pct": -25.78
-    },
-    {
-      "ean": "2021880000001",
-      "nombre": "pomelo sanguineo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -25.06
-    },
-    {
-      "ean": "7792798013951",
-      "nombre": "cerv.quilmes 1890 lata x473ml",
-      "categoria": "Bebidas",
-      "precio_antes": 2000.0,
-      "precio_hoy": 1649.0,
-      "diff_abs": -351.0,
-      "diff_pct": -17.55
-    },
-    {
-      "ean": "7792798013937",
-      "nombre": "cerveza quilmes 1890 rubia x 1 litro",
-      "categoria": "Bebidas",
-      "precio_antes": 3500.0,
-      "precio_hoy": 2979.0,
-      "diff_abs": -521.0,
-      "diff_pct": -14.89
-    },
-    {
-      "ean": "7790070231697",
-      "nombre": "aceite de maiz lira x 900 ml.",
+      "ean": "7790580151898",
+      "nombre": "pure de tomate salsati x 340 gm passata",
       "categoria": "Almacen",
-      "precio_antes": 5783.0,
-      "precio_hoy": 5199.0,
-      "diff_abs": -584.0,
-      "diff_pct": -10.1
+      "precio_antes": 2472.0,
+      "precio_hoy": 1169.0,
+      "diff_abs": -1303.0,
+      "diff_pct": -52.71
     },
     {
-      "ean": "7792798012770",
-      "nombre": "gin ginkgo x 500 ml.",
+      "ean": "7790580151881",
+      "nombre": "pure tomate la campagnola  x 340 gm passats",
+      "categoria": "Almacen",
+      "precio_antes": 2150.0,
+      "precio_hoy": 1019.0,
+      "diff_abs": -1131.0,
+      "diff_pct": -52.6
+    },
+    {
+      "ean": "7790070265326",
+      "nombre": "rocio vegetal lira oliva x 120 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 6561.0,
+      "precio_hoy": 3319.0,
+      "diff_abs": -3242.0,
+      "diff_pct": -49.41
+    },
+    {
+      "ean": "7790070417299",
+      "nombre": "polvo pbizcochuelo favorita x 450 gr. chocolate",
+      "categoria": "Almacen",
+      "precio_antes": 2590.0,
+      "precio_hoy": 1569.0,
+      "diff_abs": -1021.0,
+      "diff_pct": -39.42
+    },
+    {
+      "ean": "8411144100402",
+      "nombre": "gin larios rose x 700 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 13109.01,
-      "precio_hoy": 11891.58,
-      "diff_abs": -1217.43,
-      "diff_pct": -9.29
+      "precio_antes": 18495.0,
+      "precio_hoy": 11604.0,
+      "diff_abs": -6891.0,
+      "diff_pct": -37.26
+    },
+    {
+      "ean": "78600027",
+      "nombre": "pastillas tic tac naranja x 16 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1101.0,
+      "precio_hoy": 699.0,
+      "diff_abs": -402.0,
+      "diff_pct": -36.51
+    },
+    {
+      "ean": "78600010",
+      "nombre": "pastillas tic tac menta x 16 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1101.0,
+      "precio_hoy": 699.0,
+      "diff_abs": -402.0,
+      "diff_pct": -36.51
+    },
+    {
+      "ean": "7790070431448",
+      "nombre": "arroz gallo largo fino x1kg.bolsa",
+      "categoria": "Almacen",
+      "precio_antes": 3267.0,
+      "precio_hoy": 2109.0,
+      "diff_abs": -1158.0,
+      "diff_pct": -35.45
+    },
+    {
+      "ean": "7790070431417",
+      "nombre": "arroz gallo oro x 1 kg.",
+      "categoria": "Almacen",
+      "precio_antes": 3591.0,
+      "precio_hoy": 2329.0,
+      "diff_abs": -1262.0,
+      "diff_pct": -35.14
+    },
+    {
+      "ean": "7790070433145",
+      "nombre": "arroz largo fino gallo x 500 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1721.0,
+      "precio_hoy": 1119.0,
+      "diff_abs": -602.0,
+      "diff_pct": -34.98
     }
   ],
-  "productos_subieron_dia": 210,
-  "productos_bajaron_dia": 42,
-  "productos_sin_cambio_dia": 5697
+  "productos_subieron_dia": 37,
+  "productos_bajaron_dia": 317,
+  "productos_sin_cambio_dia": 5545
 }
