@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2022040000008",
-    "nombre": "repollo blanco x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
-  },
-  {
-    "ean": "2022220000002",
-    "nombre": "tomate redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 14.33
-  },
-  {
-    "ean": "7790645000147",
-    "nombre": "duraznos en mitades gentleman x 820 gr bajas calorias",
+    "ean": "7792360094586",
+    "nombre": "chocolate vizzio con almendras x 100 gr.",
     "categoria": "Almacen",
-    "precio_antes": 3462.0,
-    "precio_hoy": 3832.0,
-    "diff_abs": 370.0,
-    "diff_pct": 10.69
+    "precio_antes": 3699.0,
+    "precio_hoy": 5965.0,
+    "diff_abs": 2266.0,
+    "diff_pct": 61.26
   },
   {
-    "ean": "7790645001120",
-    "nombre": "duraznos en mitades gentleman x 820 gr.",
+    "ean": "7792360094548",
+    "nombre": "chocolate vizzio mani x 85 gr.",
     "categoria": "Almacen",
-    "precio_antes": 3462.0,
-    "precio_hoy": 3832.0,
-    "diff_abs": 370.0,
-    "diff_pct": 10.69
+    "precio_antes": 2199.0,
+    "precio_hoy": 3529.0,
+    "diff_abs": 1330.0,
+    "diff_pct": 60.48
   },
   {
-    "ean": "7790580103446",
-    "nombre": "choc.cofler x100gr.air.leche",
+    "ean": "7792360094418",
+    "nombre": "chocolate blanco bonafide x 100 gr.",
     "categoria": "Almacen",
-    "precio_antes": 6805.0,
-    "precio_hoy": 7463.0,
-    "diff_abs": 658.0,
-    "diff_pct": 9.67
+    "precio_antes": 2899.0,
+    "precio_hoy": 4620.0,
+    "diff_abs": 1721.0,
+    "diff_pct": 59.37
   },
   {
-    "ean": "7790580103477",
-    "nombre": "choc.cofler x100gr.air.almendr",
+    "ean": "7797394001265",
+    "nombre": "pastillas tic tac mix de frutas x 16 gr.",
     "categoria": "Almacen",
-    "precio_antes": 6805.0,
-    "precio_hoy": 7463.0,
-    "diff_abs": 658.0,
-    "diff_pct": 9.67
+    "precio_antes": 499.0,
+    "precio_hoy": 699.0,
+    "diff_abs": 200.0,
+    "diff_pct": 40.08
   },
   {
-    "ean": "7790580103460",
-    "nombre": "chocolate cofler aireado mixto x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 6805.0,
-    "precio_hoy": 7463.0,
-    "diff_abs": 658.0,
-    "diff_pct": 9.67
+    "ean": "2018990000007",
+    "nombre": "salamin lario x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 29449.0,
+    "precio_hoy": 29449.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790580103453",
-    "nombre": "chocolate cofler blanco aireado x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 6805.0,
-    "precio_hoy": 7463.0,
-    "diff_abs": 658.0,
-    "diff_pct": 9.67
+    "ean": "7790079022647",
+    "nombre": "salame tipo milan paladini fetas + finas x 180 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 6082.0,
+    "precio_hoy": 6082.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790150430392",
-    "nombre": "bicarbonato de sodio alicante x 50 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 695.0,
-    "precio_hoy": 758.0,
-    "diff_abs": 63.0,
-    "diff_pct": 9.06
+    "ean": "7790079019326",
+    "nombre": "salame tipo fuet labratto x 150 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 9026.0,
+    "precio_hoy": 9026.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790580128234",
-    "nombre": "chocolate cofler macizo x 140 gr. con almendras",
-    "categoria": "Almacen",
-    "precio_antes": 7222.0,
-    "precio_hoy": 7822.0,
-    "diff_abs": 600.0,
-    "diff_pct": 8.31
+    "ean": "2018820000009",
+    "nombre": "salame picado fino `66` x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 14986.0,
+    "precio_hoy": 14986.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790580127947",
-    "nombre": "choc.cofler x140gr.leche",
-    "categoria": "Almacen",
-    "precio_antes": 7222.0,
-    "precio_hoy": 7822.0,
-    "diff_abs": 600.0,
-    "diff_pct": 8.31
+    "ean": "2018940000002",
+    "nombre": "salame lario tipo crespon x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 30919.0,
+    "precio_hoy": 30919.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790580127336",
-    "nombre": "chocolate cofler blanco con chocolinas x 140 gm",
-    "categoria": "Almacen",
-    "precio_antes": 7222.0,
-    "precio_hoy": 7822.0,
-    "diff_abs": 600.0,
-    "diff_pct": 8.31
+    "ean": "7790625005285",
+    "nombre": "salame lario fuet ev.x150gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 6096.0,
+    "precio_hoy": 6096.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7794612066419",
-    "nombre": "choc.hamlet x43gr.frut-yogur",
-    "categoria": "Almacen",
-    "precio_antes": 1131.0,
-    "precio_hoy": 1222.0,
-    "diff_abs": 91.0,
-    "diff_pct": 8.05
+    "ean": "2011320000005",
+    "nombre": "salame espaa?a?ol x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 27406.0,
+    "precio_hoy": 27406.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7794612065719",
-    "nombre": "choc.hamlet x45gr.almend-mani",
-    "categoria": "Almacen",
-    "precio_antes": 1131.0,
-    "precio_hoy": 1222.0,
-    "diff_abs": 91.0,
-    "diff_pct": 8.05
+    "ean": "2015580000003",
+    "nombre": "salame de milan paladini x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 29261.0,
+    "precio_hoy": 29261.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7794612066211",
-    "nombre": "choc.hamlet x43gr.chocolatoso",
-    "categoria": "Almacen",
-    "precio_antes": 1131.0,
-    "precio_hoy": 1222.0,
-    "diff_abs": 91.0,
-    "diff_pct": 8.05
+    "ean": "2018840000003",
+    "nombre": "salame de milan lario x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 29239.0,
+    "precio_hoy": 29239.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7794612491013",
-    "nombre": "choc.hamlet x42gr.bicolor",
-    "categoria": "Almacen",
-    "precio_antes": 1131.0,
-    "precio_hoy": 1222.0,
-    "diff_abs": 91.0,
-    "diff_pct": 8.05
+    "ean": "2015600000006",
+    "nombre": "salamin picado fino paladini x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 29635.0,
+    "precio_hoy": 29635.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790580103484",
-    "nombre": "choc.cofler x55gr.macizo leche",
-    "categoria": "Almacen",
-    "precio_antes": 3626.0,
-    "precio_hoy": 3904.0,
-    "diff_abs": 278.0,
-    "diff_pct": 7.67
+    "ean": "2015540000005",
+    "nombre": "salame de milan fela x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 19152.0,
+    "precio_hoy": 19152.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790580103538",
-    "nombre": "chocolate cofler macizo x 55 gr. con chocolinas",
-    "categoria": "Almacen",
-    "precio_antes": 3626.0,
-    "precio_hoy": 3904.0,
-    "diff_abs": 278.0,
-    "diff_pct": 7.67
+    "ean": "2015530000008",
+    "nombre": "salame crespon paladini x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 28243.0,
+    "precio_hoy": 28243.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790580103521",
-    "nombre": "chocolate cofler macizo x 55 gr. con rocklets",
-    "categoria": "Almacen",
-    "precio_antes": 3626.0,
-    "precio_hoy": 3904.0,
-    "diff_abs": 278.0,
-    "diff_pct": 7.67
+    "ean": "7793913013665",
+    "nombre": "ricotta untable entera tregar x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4021.0,
+    "precio_hoy": 4021.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7793360126987",
-    "nombre": "dce.membrillo l.camp.x700gr.la",
-    "categoria": "Perfumeria",
-    "precio_antes": 5482.0,
-    "precio_hoy": 5859.0,
-    "diff_abs": 377.0,
-    "diff_pct": 6.88
+    "ean": "7793913013672",
+    "nombre": "ricotta magra tregar x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4021.0,
+    "precio_hoy": 4021.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790742114204",
+    "nombre": "ricotta garcia x 500 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4337.0,
+    "precio_hoy": 4337.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790742102805",
+    "nombre": "ricotta entera garcia x 500 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4621.0,
+    "precio_hoy": 4621.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]

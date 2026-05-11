@@ -1,13 +1,147 @@
 {
-  "fecha": "20260510",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260511",
+  "total_productos": 5916,
+  "variacion_dia": 0.03,
+  "variacion_7d": -0.58,
+  "variacion_mes": 3.54,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1309
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": -0.04,
+      "productos_subieron": 0,
+      "productos_bajaron": 6,
+      "total_productos": 1122
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 214
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 703
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 880
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.13,
+      "productos_subieron": 4,
+      "productos_bajaron": 0,
+      "total_productos": 1647
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "2024850000001",
+      "nombre": "asado de costilla ternera x kg.",
+      "categoria": "Carniceria",
+      "precio_antes": 21900.0,
+      "precio_hoy": 19900.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -9.13
+    },
+    {
+      "ean": "7798151771308",
+      "nombre": "queso crema untable tremblay x 290 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3261.0,
+      "precio_hoy": 2999.0,
+      "diff_abs": -262.0,
+      "diff_pct": -8.03
+    },
+    {
+      "ean": "7798151770011",
+      "nombre": "crema de leche tremblay x 200 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2449.0,
+      "precio_hoy": 2279.0,
+      "diff_abs": -170.0,
+      "diff_pct": -6.94
+    },
+    {
+      "ean": "7798151770523",
+      "nombre": "manteca tremblay x 200 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3842.0,
+      "precio_hoy": 3579.0,
+      "diff_abs": -263.0,
+      "diff_pct": -6.85
+    },
+    {
+      "ean": "7798151770028",
+      "nombre": "crema de leche tremblay x 360 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4207.0,
+      "precio_hoy": 3919.0,
+      "diff_abs": -288.0,
+      "diff_pct": -6.85
+    },
+    {
+      "ean": "7798151770516",
+      "nombre": "manteca tremblay x100gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2012.0,
+      "precio_hoy": 1879.0,
+      "diff_abs": -133.0,
+      "diff_pct": -6.61
+    },
+    {
+      "ean": "7790079000317",
+      "nombre": "salchichas fela x 6 unidades",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1650.0,
+      "precio_hoy": 1650.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "2015530000008",
+      "nombre": "salame crespon paladini x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 28243.0,
+      "precio_hoy": 28243.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7793913013665",
+      "nombre": "ricotta untable entera tregar x 290 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4021.0,
+      "precio_hoy": 4021.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7793913013672",
+      "nombre": "ricotta magra tregar x 290 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4021.0,
+      "precio_hoy": 4021.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    }
+  ],
+  "productos_subieron_dia": 4,
+  "productos_bajaron_dia": 6,
+  "productos_sin_cambio_dia": 5865
 }

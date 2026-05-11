@@ -27,6 +27,33 @@
     "diff_pct": 66.72
   },
   {
+    "ean": "7792360094586",
+    "nombre": "chocolate vizzio con almendras x 100 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3699.0,
+    "precio_hoy": 5965.0,
+    "diff_abs": 2266.0,
+    "diff_pct": 61.26
+  },
+  {
+    "ean": "7792360094548",
+    "nombre": "chocolate vizzio mani x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2199.0,
+    "precio_hoy": 3529.0,
+    "diff_abs": 1330.0,
+    "diff_pct": 60.48
+  },
+  {
+    "ean": "7792360094418",
+    "nombre": "chocolate blanco bonafide x 100 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2899.0,
+    "precio_hoy": 4620.0,
+    "diff_abs": 1721.0,
+    "diff_pct": 59.37
+  },
+  {
     "ean": "7790070337092",
     "nombre": "fideos mostachol al huevo lucchetti x 500 gr.",
     "categoria": "Almacen",
@@ -70,6 +97,15 @@
     "precio_hoy": 5990.0,
     "diff_abs": 2000.0,
     "diff_pct": 50.13
+  },
+  {
+    "ean": "7898024396529",
+    "nombre": "nutella x 650 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 11499.0,
+    "precio_hoy": 16526.0,
+    "diff_abs": 5027.0,
+    "diff_pct": 43.72
   },
   {
     "ean": "7898024394181",
@@ -142,41 +178,5 @@
     "precio_hoy": 6695.0,
     "diff_abs": 1696.0,
     "diff_pct": 33.93
-  },
-  {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 590.0,
-    "precio_hoy": 790.0,
-    "diff_abs": 200.0,
-    "diff_pct": 33.9
-  },
-  {
-    "ean": "7790070265326",
-    "nombre": "rocio vegetal lira oliva x 120 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2479.0,
-    "precio_hoy": 3319.0,
-    "diff_abs": 840.0,
-    "diff_pct": 33.88
-  },
-  {
-    "ean": "2022220000002",
-    "nombre": "tomate redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
-    "ean": "2022030000001",
-    "nombre": "repollitos de brusellas en bandeja",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
   }
 ]

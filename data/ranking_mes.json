@@ -9,6 +9,15 @@
     "diff_pct": 405.06
   },
   {
+    "ean": "2022220000002",
+    "nombre": "tomate redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1190.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 2800.0,
+    "diff_pct": 235.29
+  },
+  {
     "ean": "2021550000003",
     "nombre": "pepino x kg.",
     "categoria": "Frutas Y Verduras",
@@ -16,33 +25,6 @@
     "precio_hoy": 4990.0,
     "diff_abs": 3500.0,
     "diff_pct": 234.9
-  },
-  {
-    "ean": "2022220000002",
-    "nombre": "tomate redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1290.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 2700.0,
-    "diff_pct": 209.3
-  },
-  {
-    "ean": "2021950000009",
-    "nombre": "radicheta x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1190.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1800.0,
-    "diff_pct": 151.26
-  },
-  {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2209.0,
-    "precio_hoy": 5007.0,
-    "diff_abs": 2798.0,
-    "diff_pct": 126.66
   },
   {
     "ean": "7791337010499",
@@ -54,13 +36,67 @@
     "diff_pct": 126.66
   },
   {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 100.4
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2209.0,
+    "precio_hoy": 5007.0,
+    "diff_abs": 2798.0,
+    "diff_pct": 126.66
+  },
+  {
+    "ean": "7622201703059",
+    "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 309.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 330.0,
+    "diff_pct": 106.8
+  },
+  {
+    "ean": "7622201704148",
+    "nombre": "jugo en polvo clight mandarina x 8 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 309.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 330.0,
+    "diff_pct": 106.8
+  },
+  {
+    "ean": "7622201703202",
+    "nombre": "jugo clight pera x7gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 309.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 330.0,
+    "diff_pct": 106.8
+  },
+  {
+    "ean": "7622201745936",
+    "nombre": "jugo tang durazno x15gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 299.0,
+    "precio_hoy": 611.0,
+    "diff_abs": 312.0,
+    "diff_pct": 104.35
+  },
+  {
+    "ean": "7622201733865",
+    "nombre": "jugo tang mandarina x 15 gm",
+    "categoria": "Bebidas",
+    "precio_antes": 299.0,
+    "precio_hoy": 611.0,
+    "diff_abs": 312.0,
+    "diff_pct": 104.35
+  },
+  {
+    "ean": "7622201746490",
+    "nombre": "jugo en polvo tang x 15 gr. frutilla",
+    "categoria": "Bebidas",
+    "precio_antes": 299.0,
+    "precio_hoy": 611.0,
+    "diff_abs": 312.0,
+    "diff_pct": 104.35
   },
   {
     "ean": "2021650000002",
@@ -72,15 +108,6 @@
     "diff_pct": 100.33
   },
   {
-    "ean": "2022040000008",
-    "nombre": "repollo blanco x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1390.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 1100.0,
-    "diff_pct": 79.14
-  },
-  {
     "ean": "7793762006252",
     "nombre": "cubeteras gemplast x 2 unid.",
     "categoria": "Limpieza",
@@ -90,22 +117,13 @@
     "diff_pct": 78.74
   },
   {
-    "ean": "2022210000005",
-    "nombre": "tomate perita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 3490.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 75.38
-  },
-  {
-    "ean": "2021790000009",
-    "nombre": "pimiento amarillo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 75.19
+    "ean": "77969118",
+    "nombre": "chicle beldent frutilla x10gr.",
+    "categoria": "Almacen",
+    "precio_antes": 769.0,
+    "precio_hoy": 1286.0,
+    "diff_abs": 517.0,
+    "diff_pct": 67.23
   },
   {
     "ean": "2019900000001",
@@ -117,66 +135,48 @@
     "diff_pct": 66.89
   },
   {
-    "ean": "7791337009615",
-    "nombre": "flan la serenisima vainilla x 95 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1049.0,
-    "precio_hoy": 1639.0,
-    "diff_abs": 590.0,
-    "diff_pct": 56.24
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
   },
   {
-    "ean": "7798340590062",
-    "nombre": "agua mineral asuncion x 600 ml.",
+    "ean": "7792798013975",
+    "nombre": "cerveza stella artois lata x 710 ml",
     "categoria": "Bebidas",
-    "precio_antes": 682.0,
-    "precio_hoy": 1061.0,
-    "diff_abs": 379.0,
-    "diff_pct": 55.57
+    "precio_antes": 3239.0,
+    "precio_hoy": 5400.0,
+    "diff_abs": 2161.0,
+    "diff_pct": 66.72
   },
   {
-    "ean": "7791728242577",
-    "nombre": "vino santa julia rose x 269 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2309.0,
-    "precio_hoy": 3575.0,
-    "diff_abs": 1266.0,
-    "diff_pct": 54.83
+    "ean": "7898024397861",
+    "nombre": "bombones ferrero rocher x 50 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3469.0,
+    "precio_hoy": 5697.0,
+    "diff_abs": 2228.0,
+    "diff_pct": 64.23
   },
   {
-    "ean": "7791728239331",
-    "nombre": "vino tinto santa julia dulce natural x 269 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2309.0,
-    "precio_hoy": 3575.0,
-    "diff_abs": 1266.0,
-    "diff_pct": 54.83
+    "ean": "80052487",
+    "nombre": "bombon raffaello x 3 unidades",
+    "categoria": "Almacen",
+    "precio_antes": 1859.0,
+    "precio_hoy": 3049.0,
+    "diff_abs": 1190.0,
+    "diff_pct": 64.01
   },
   {
-    "ean": "7791728239324",
-    "nombre": "vino tinto santa julia tintillo malbec-bonarda x .",
-    "categoria": "Bebidas",
-    "precio_antes": 2309.0,
-    "precio_hoy": 3575.0,
-    "diff_abs": 1266.0,
-    "diff_pct": 54.83
-  },
-  {
-    "ean": "7791728237160",
-    "nombre": "vino blanco santa julia chenin dulce natural x 355",
-    "categoria": "Bebidas",
-    "precio_antes": 2309.0,
-    "precio_hoy": 3575.0,
-    "diff_abs": 1266.0,
-    "diff_pct": 54.83
-  },
-  {
-    "ean": "7793147009137",
-    "nombre": "cerveza heineken long neck x 330 cc",
-    "categoria": "Bebidas",
-    "precio_antes": 2519.0,
-    "precio_hoy": 3850.0,
-    "diff_abs": 1331.0,
-    "diff_pct": 52.84
+    "ean": "7622300742621",
+    "nombre": "alfajor terrabusi x6 glaseado",
+    "categoria": "Almacen",
+    "precio_antes": 4639.0,
+    "precio_hoy": 7469.0,
+    "diff_abs": 2830.0,
+    "diff_pct": 61.0
   }
 ]
