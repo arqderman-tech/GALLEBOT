@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7792360094586",
-    "nombre": "chocolate vizzio con almendras x 100 gr.",
+    "ean": "7792798015351",
+    "nombre": "cerveza corona 0 % x 473 ml lata",
+    "categoria": "Bebidas",
+    "precio_antes": 2239.0,
+    "precio_hoy": 3200.0,
+    "diff_abs": 961.0,
+    "diff_pct": 42.92
+  },
+  {
+    "ean": "7792798014873",
+    "nombre": "cerveza corona cero x 330 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2379.07,
+    "precio_hoy": 3400.0,
+    "diff_abs": 1020.93,
+    "diff_pct": 42.91
+  },
+  {
+    "ean": "7792798008858",
+    "nombre": "cerveza temple wolf ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3149.0,
+    "precio_hoy": 4500.0,
+    "diff_abs": 1351.0,
+    "diff_pct": 42.9
+  },
+  {
+    "ean": "7790360967558",
+    "nombre": "medall.swift pollo x320gr.",
+    "categoria": "Congelados",
+    "precio_antes": 4609.0,
+    "precio_hoy": 6316.0,
+    "diff_abs": 1707.0,
+    "diff_pct": 37.04
+  },
+  {
+    "ean": "7501064198847",
+    "nombre": "cerveza corona x 330 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2709.0,
+    "precio_hoy": 3650.0,
+    "diff_abs": 941.0,
+    "diff_pct": 34.74
+  },
+  {
+    "ean": "2020410000009",
+    "nombre": "choclo elegido x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 33.39
+  },
+  {
+    "ean": "8445291904392",
+    "nombre": "combo nescafe dolca x 170 gr. + coffee mate x 170.",
+    "categoria": "Perfumeria",
+    "precio_antes": 12999.0,
+    "precio_hoy": 16525.0,
+    "diff_abs": 3526.0,
+    "diff_pct": 27.13
+  },
+  {
+    "ean": "7790360971395",
+    "nombre": "palitos de pollo swift x 1 kg.",
+    "categoria": "Congelados",
+    "precio_antes": 11619.0,
+    "precio_hoy": 14755.0,
+    "diff_abs": 3136.0,
+    "diff_pct": 26.99
+  },
+  {
+    "ean": "2021640000005",
+    "nombre": "zanahoria suelta x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
+  },
+  {
+    "ean": "2022220000002",
+    "nombre": "tomate redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
+  },
+  {
+    "ean": "7898335070040",
+    "nombre": "bolsa para lavarropas ordene 40 x 50 cm.",
+    "categoria": "Limpieza",
+    "precio_antes": 5224.0,
+    "precio_hoy": 6458.0,
+    "diff_abs": 1234.0,
+    "diff_pct": 23.62
+  },
+  {
+    "ean": "7790787002931",
+    "nombre": "queso rallado ilolay x 120 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3879.0,
+    "precio_hoy": 4789.0,
+    "diff_abs": 910.0,
+    "diff_pct": 23.46
+  },
+  {
+    "ean": "7790787251780",
+    "nombre": "queso rallado ilolay x 40 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1409.0,
+    "precio_hoy": 1734.0,
+    "diff_abs": 325.0,
+    "diff_pct": 23.07
+  },
+  {
+    "ean": "7792070001133",
+    "nombre": "aceitunas nucete verdes con carozo sachet x 800 g.",
     "categoria": "Almacen",
-    "precio_antes": 3699.0,
-    "precio_hoy": 5965.0,
-    "diff_abs": 2266.0,
-    "diff_pct": 61.26
+    "precio_antes": 5417.0,
+    "precio_hoy": 6594.0,
+    "diff_abs": 1177.0,
+    "diff_pct": 21.73
   },
   {
-    "ean": "7792360094548",
-    "nombre": "chocolate vizzio mani x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2199.0,
-    "precio_hoy": 3529.0,
-    "diff_abs": 1330.0,
-    "diff_pct": 60.48
+    "ean": "7792798013951",
+    "nombre": "cerv.quilmes 1890 lata x473ml",
+    "categoria": "Bebidas",
+    "precio_antes": 1649.0,
+    "precio_hoy": 2000.0,
+    "diff_abs": 351.0,
+    "diff_pct": 21.29
   },
   {
-    "ean": "7792360094418",
-    "nombre": "chocolate blanco bonafide x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2899.0,
-    "precio_hoy": 4620.0,
-    "diff_abs": 1721.0,
-    "diff_pct": 59.37
+    "ean": "7790787153664",
+    "nombre": "dulce de leche ilolay x 400 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2559.0,
+    "precio_hoy": 3082.0,
+    "diff_abs": 523.0,
+    "diff_pct": 20.44
   },
   {
-    "ean": "7797394001265",
-    "nombre": "pastillas tic tac mix de frutas x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 499.0,
-    "precio_hoy": 699.0,
-    "diff_abs": 200.0,
-    "diff_pct": 40.08
+    "ean": "2021930000005",
+    "nombre": "rabanitos x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1490.0,
+    "precio_hoy": 1790.0,
+    "diff_abs": 300.0,
+    "diff_pct": 20.13
   },
   {
-    "ean": "2018990000007",
-    "nombre": "salamin lario x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 29449.0,
-    "precio_hoy": 29449.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2020270000003",
+    "nombre": "cebolla x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1490.0,
+    "precio_hoy": 1790.0,
+    "diff_abs": 300.0,
+    "diff_pct": 20.13
   },
   {
-    "ean": "7790079022647",
-    "nombre": "salame tipo milan paladini fetas + finas x 180 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 6082.0,
-    "precio_hoy": 6082.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2020570000000",
+    "nombre": "coliflor x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
   },
   {
-    "ean": "7790079019326",
-    "nombre": "salame tipo fuet labratto x 150 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 9026.0,
-    "precio_hoy": 9026.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "2018820000009",
-    "nombre": "salame picado fino `66` x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 14986.0,
-    "precio_hoy": 14986.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "2018940000002",
-    "nombre": "salame lario tipo crespon x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 30919.0,
-    "precio_hoy": 30919.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790625005285",
-    "nombre": "salame lario fuet ev.x150gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 6096.0,
-    "precio_hoy": 6096.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "2011320000005",
-    "nombre": "salame espaa?a?ol x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 27406.0,
-    "precio_hoy": 27406.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "2015580000003",
-    "nombre": "salame de milan paladini x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 29261.0,
-    "precio_hoy": 29261.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "2018840000003",
-    "nombre": "salame de milan lario x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 29239.0,
-    "precio_hoy": 29239.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "2015600000006",
-    "nombre": "salamin picado fino paladini x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 29635.0,
-    "precio_hoy": 29635.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "2015540000005",
-    "nombre": "salame de milan fela x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 19152.0,
-    "precio_hoy": 19152.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "2015530000008",
-    "nombre": "salame crespon paladini x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 28243.0,
-    "precio_hoy": 28243.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7793913013665",
-    "nombre": "ricotta untable entera tregar x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4021.0,
-    "precio_hoy": 4021.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7793913013672",
-    "nombre": "ricotta magra tregar x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4021.0,
-    "precio_hoy": 4021.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790742114204",
-    "nombre": "ricotta garcia x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4337.0,
-    "precio_hoy": 4337.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790742102805",
-    "nombre": "ricotta entera garcia x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4621.0,
-    "precio_hoy": 4621.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2022280000004",
+    "nombre": "uvas negras x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
   }
 ]

@@ -13,9 +13,9 @@
     "nombre": "tomate redondo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 1190.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 2800.0,
-    "diff_pct": 235.29
+    "precio_hoy": 4990.0,
+    "diff_abs": 3800.0,
+    "diff_pct": 319.33
   },
   {
     "ean": "2021550000003",
@@ -153,6 +153,15 @@
     "diff_pct": 66.72
   },
   {
+    "ean": "8445291904392",
+    "nombre": "combo nescafe dolca x 170 gr. + coffee mate x 170.",
+    "categoria": "Perfumeria",
+    "precio_antes": 10046.0,
+    "precio_hoy": 16525.0,
+    "diff_abs": 6479.0,
+    "diff_pct": 64.49
+  },
+  {
     "ean": "7898024397861",
     "nombre": "bombones ferrero rocher x 50 gr.",
     "categoria": "Almacen",
@@ -169,14 +178,5 @@
     "precio_hoy": 3049.0,
     "diff_abs": 1190.0,
     "diff_pct": 64.01
-  },
-  {
-    "ean": "7622300742621",
-    "nombre": "alfajor terrabusi x6 glaseado",
-    "categoria": "Almacen",
-    "precio_antes": 4639.0,
-    "precio_hoy": 7469.0,
-    "diff_abs": 2830.0,
-    "diff_pct": 61.0
   }
 ]

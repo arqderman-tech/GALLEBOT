@@ -1,147 +1,147 @@
 {
-  "fecha": "20260511",
+  "fecha": "20260512",
   "total_productos": 5916,
-  "variacion_dia": 0.03,
-  "variacion_7d": -0.58,
-  "variacion_mes": 3.54,
+  "variacion_dia": 0.6,
+  "variacion_7d": -0.6,
+  "variacion_mes": 4.13,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1309
+      "variacion_pct_promedio": 0.09,
+      "productos_subieron": 17,
+      "productos_bajaron": 35,
+      "total_productos": 1319
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.04,
-      "productos_subieron": 0,
-      "productos_bajaron": 6,
-      "total_productos": 1122
+      "variacion_pct_promedio": 0.79,
+      "productos_subieron": 91,
+      "productos_bajaron": 11,
+      "total_productos": 1143
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 214
+      "variacion_pct_promedio": 1.43,
+      "productos_subieron": 27,
+      "productos_bajaron": 1,
+      "total_productos": 216
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.08,
+      "productos_subieron": 5,
       "productos_bajaron": 0,
       "total_productos": 703
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 1.08,
+      "productos_subieron": 146,
       "productos_bajaron": 0,
-      "total_productos": 880
+      "total_productos": 885
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.13,
-      "productos_subieron": 4,
+      "variacion_pct_promedio": 0.71,
+      "productos_subieron": 156,
       "productos_bajaron": 0,
-      "total_productos": 1647
+      "total_productos": 1650
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2024850000001",
-      "nombre": "asado de costilla ternera x kg.",
-      "categoria": "Carniceria",
-      "precio_antes": 21900.0,
-      "precio_hoy": 19900.0,
+      "ean": "2019950000006",
+      "nombre": "akusay x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 3990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -25.06
+    },
+    {
+      "ean": "2020910000004",
+      "nombre": "lechuga de hoja x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 8990.0,
+      "precio_hoy": 6990.0,
       "diff_abs": -2000.0,
-      "diff_pct": -9.13
+      "diff_pct": -22.25
     },
     {
-      "ean": "7798151771308",
-      "nombre": "queso crema untable tremblay x 290 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3261.0,
-      "precio_hoy": 2999.0,
-      "diff_abs": -262.0,
-      "diff_pct": -8.03
+      "ean": "2022040000008",
+      "nombre": "repollo blanco x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -500.0,
+      "diff_pct": -20.08
     },
     {
-      "ean": "7798151770011",
-      "nombre": "crema de leche tremblay x 200 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2449.0,
-      "precio_hoy": 2279.0,
-      "diff_abs": -170.0,
-      "diff_pct": -6.94
+      "ean": "2021390000003",
+      "nombre": "naranja de jugo x kilo.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -500.0,
+      "diff_pct": -20.08
     },
     {
-      "ean": "7798151770523",
-      "nombre": "manteca tremblay x 200 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3842.0,
-      "precio_hoy": 3579.0,
-      "diff_abs": -263.0,
-      "diff_pct": -6.85
+      "ean": "2021840000003",
+      "nombre": "pimiento verde x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -20.04
     },
     {
-      "ean": "7798151770028",
-      "nombre": "crema de leche tremblay x 360 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4207.0,
-      "precio_hoy": 3919.0,
-      "diff_abs": -288.0,
-      "diff_pct": -6.85
+      "ean": "2021880000001",
+      "nombre": "pomelo sanguineo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2990.0,
+      "precio_hoy": 2490.0,
+      "diff_abs": -500.0,
+      "diff_pct": -16.72
     },
     {
-      "ean": "7798151770516",
-      "nombre": "manteca tremblay x100gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2012.0,
-      "precio_hoy": 1879.0,
-      "diff_abs": -133.0,
-      "diff_pct": -6.61
+      "ean": "2020730000000",
+      "nombre": "espinaca atado",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2990.0,
+      "precio_hoy": 2490.0,
+      "diff_abs": -500.0,
+      "diff_pct": -16.72
     },
     {
-      "ean": "7790079000317",
-      "nombre": "salchichas fela x 6 unidades",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1650.0,
-      "precio_hoy": 1650.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2020300000003",
+      "nombre": "cebolla de verdeo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -14.31
     },
     {
-      "ean": "2015530000008",
-      "nombre": "salame crespon paladini x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 28243.0,
-      "precio_hoy": 28243.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2020120000009",
+      "nombre": "berengena negra x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 3990.0,
+      "precio_hoy": 3490.0,
+      "diff_abs": -500.0,
+      "diff_pct": -12.53
     },
     {
-      "ean": "7793913013665",
-      "nombre": "ricotta untable entera tregar x 290 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4021.0,
-      "precio_hoy": 4021.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7793913013672",
-      "nombre": "ricotta magra tregar x 290 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4021.0,
-      "precio_hoy": 4021.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790950610581",
+      "nombre": "aperitivo pronto bitt x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 2713.0,
+      "precio_hoy": 2401.0,
+      "diff_abs": -312.0,
+      "diff_pct": -11.5
     }
   ],
-  "productos_subieron_dia": 4,
-  "productos_bajaron_dia": 6,
-  "productos_sin_cambio_dia": 5865
+  "productos_subieron_dia": 442,
+  "productos_bajaron_dia": 47,
+  "productos_sin_cambio_dia": 5427
 }
