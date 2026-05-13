@@ -1,103 +1,85 @@
 {
-  "fecha": "20260512",
-  "total_productos": 5916,
-  "variacion_dia": 0.6,
-  "variacion_7d": -0.6,
-  "variacion_mes": 4.13,
+  "fecha": "20260513",
+  "total_productos": 5891,
+  "variacion_dia": 0.02,
+  "variacion_7d": -0.59,
+  "variacion_mes": 4.29,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.09,
-      "productos_subieron": 17,
-      "productos_bajaron": 35,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 1,
+      "productos_bajaron": 0,
       "total_productos": 1319
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.79,
-      "productos_subieron": 91,
-      "productos_bajaron": 11,
-      "total_productos": 1143
+      "variacion_pct_promedio": -0.14,
+      "productos_subieron": 18,
+      "productos_bajaron": 32,
+      "total_productos": 1123
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 1.43,
-      "productos_subieron": 27,
-      "productos_bajaron": 1,
-      "total_productos": 216
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 215
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.08,
-      "productos_subieron": 5,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 703
+      "total_productos": 702
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 1.08,
-      "productos_subieron": 146,
-      "productos_bajaron": 0,
-      "total_productos": 885
+      "variacion_pct_promedio": 0.12,
+      "productos_subieron": 34,
+      "productos_bajaron": 18,
+      "total_productos": 884
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.71,
-      "productos_subieron": 156,
-      "productos_bajaron": 0,
-      "total_productos": 1650
+      "variacion_pct_promedio": 0.09,
+      "productos_subieron": 18,
+      "productos_bajaron": 2,
+      "total_productos": 1646
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2019950000006",
-      "nombre": "akusay x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -25.06
+      "ean": "7790040613706",
+      "nombre": "alf.bon o bon x40gr.negro",
+      "categoria": "Almacen",
+      "precio_antes": 1146.0,
+      "precio_hoy": 919.0,
+      "diff_abs": -227.0,
+      "diff_pct": -19.81
     },
     {
-      "ean": "2020910000004",
-      "nombre": "lechuga de hoja x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 8990.0,
-      "precio_hoy": 6990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -22.25
+      "ean": "7790787002931",
+      "nombre": "queso rallado ilolay x 120 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4789.0,
+      "precio_hoy": 3879.0,
+      "diff_abs": -910.0,
+      "diff_pct": -19.0
     },
     {
-      "ean": "2022040000008",
-      "nombre": "repollo blanco x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2490.0,
-      "precio_hoy": 1990.0,
-      "diff_abs": -500.0,
-      "diff_pct": -20.08
+      "ean": "7790787251780",
+      "nombre": "queso rallado ilolay x 40 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1734.0,
+      "precio_hoy": 1409.0,
+      "diff_abs": -325.0,
+      "diff_pct": -18.74
     },
     {
-      "ean": "2021390000003",
-      "nombre": "naranja de jugo x kilo.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2490.0,
-      "precio_hoy": 1990.0,
-      "diff_abs": -500.0,
-      "diff_pct": -20.08
-    },
-    {
-      "ean": "2021840000003",
-      "nombre": "pimiento verde x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
-    },
-    {
-      "ean": "2021880000001",
-      "nombre": "pomelo sanguineo x kg.",
+      "ean": "2022080000006",
+      "nombre": "rucula x paquete",
       "categoria": "Frutas Y Verduras",
       "precio_antes": 2990.0,
       "precio_hoy": 2490.0,
@@ -105,43 +87,61 @@
       "diff_pct": -16.72
     },
     {
-      "ean": "2020730000000",
-      "nombre": "espinaca atado",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 2490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -16.72
+      "ean": "7790040133488",
+      "nombre": "galletitas sonrisas x 108 gr. frambuesa",
+      "categoria": "Perfumeria",
+      "precio_antes": 1345.0,
+      "precio_hoy": 1159.0,
+      "diff_abs": -186.0,
+      "diff_pct": -13.83
     },
     {
-      "ean": "2020300000003",
-      "nombre": "cebolla de verdeo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 5990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -14.31
+      "ean": "7790040152946",
+      "nombre": "galletitas traviatas 3 x 96 gm toque porteaita",
+      "categoria": "Perfumeria",
+      "precio_antes": 2270.0,
+      "precio_hoy": 1959.0,
+      "diff_abs": -311.0,
+      "diff_pct": -13.7
     },
     {
-      "ean": "2020120000009",
-      "nombre": "berengena negra x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 3490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -12.53
+      "ean": "7790040147720",
+      "nombre": "galletitas surtido bagley x 400 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 3110.0,
+      "precio_hoy": 2739.0,
+      "diff_abs": -371.0,
+      "diff_pct": -11.93
     },
     {
-      "ean": "7790950610581",
-      "nombre": "aperitivo pronto bitt x 473 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 2713.0,
-      "precio_hoy": 2401.0,
-      "diff_abs": -312.0,
-      "diff_pct": -11.5
+      "ean": "7790787153664",
+      "nombre": "dulce de leche ilolay x 400 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 3082.0,
+      "precio_hoy": 2719.0,
+      "diff_abs": -363.0,
+      "diff_pct": -11.78
+    },
+    {
+      "ean": "7790040139657",
+      "nombre": "gall.merengadas x88gr.frutila",
+      "categoria": "Perfumeria",
+      "precio_antes": 1345.0,
+      "precio_hoy": 1189.0,
+      "diff_abs": -156.0,
+      "diff_pct": -11.6
+    },
+    {
+      "ean": "7790040143364",
+      "nombre": "galletitas surtidas diversion x 400 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2522.0,
+      "precio_hoy": 2253.42,
+      "diff_abs": -268.58,
+      "diff_pct": -10.65
     }
   ],
-  "productos_subieron_dia": 442,
-  "productos_bajaron_dia": 47,
-  "productos_sin_cambio_dia": 5427
+  "productos_subieron_dia": 71,
+  "productos_bajaron_dia": 52,
+  "productos_sin_cambio_dia": 5766
 }

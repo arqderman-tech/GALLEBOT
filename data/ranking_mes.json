@@ -1,5 +1,14 @@
 [
   {
+    "ean": "6934097727622",
+    "nombre": "destornillador juego x 3 piezas hoteche",
+    "categoria": "Limpieza",
+    "precio_antes": 790.0,
+    "precio_hoy": 7729.0,
+    "diff_abs": 6939.0,
+    "diff_pct": 878.35
+  },
+  {
     "ean": "2019970000000",
     "nombre": "alcauciles x unidad",
     "categoria": "Frutas Y Verduras",
@@ -27,8 +36,8 @@
     "diff_pct": 234.9
   },
   {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2209.0,
     "precio_hoy": 5007.0,
@@ -36,8 +45,8 @@
     "diff_pct": 126.66
   },
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2209.0,
     "precio_hoy": 5007.0,
@@ -72,15 +81,6 @@
     "diff_pct": 106.8
   },
   {
-    "ean": "7622201745936",
-    "nombre": "jugo tang durazno x15gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 299.0,
-    "precio_hoy": 611.0,
-    "diff_abs": 312.0,
-    "diff_pct": 104.35
-  },
-  {
     "ean": "7622201733865",
     "nombre": "jugo tang mandarina x 15 gm",
     "categoria": "Bebidas",
@@ -92,6 +92,15 @@
   {
     "ean": "7622201746490",
     "nombre": "jugo en polvo tang x 15 gr. frutilla",
+    "categoria": "Bebidas",
+    "precio_antes": 299.0,
+    "precio_hoy": 611.0,
+    "diff_abs": 312.0,
+    "diff_pct": 104.35
+  },
+  {
+    "ean": "7622201745936",
+    "nombre": "jugo tang durazno x15gr.",
     "categoria": "Bebidas",
     "precio_antes": 299.0,
     "precio_hoy": 611.0,
@@ -169,14 +178,5 @@
     "precio_hoy": 5697.0,
     "diff_abs": 2228.0,
     "diff_pct": 64.23
-  },
-  {
-    "ean": "80052487",
-    "nombre": "bombon raffaello x 3 unidades",
-    "categoria": "Almacen",
-    "precio_antes": 1859.0,
-    "precio_hoy": 3049.0,
-    "diff_abs": 1190.0,
-    "diff_pct": 64.01
   }
 ]

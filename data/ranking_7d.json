@@ -36,6 +36,15 @@
     "diff_pct": 56.9
   },
   {
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 590.0,
+    "precio_hoy": 890.0,
+    "diff_abs": 300.0,
+    "diff_pct": 50.85
+  },
+  {
     "ean": "2021280000007",
     "nombre": "melon amarillo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -90,6 +99,15 @@
     "diff_pct": 39.11
   },
   {
+    "ean": "2021680000003",
+    "nombre": "zapallo brasilero x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1090.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 400.0,
+    "diff_pct": 36.7
+  },
+  {
     "ean": "7622300724306",
     "nombre": "fideos terrabusi x 500 gr. municiones",
     "categoria": "Almacen",
@@ -115,15 +133,6 @@
     "precio_hoy": 6695.0,
     "diff_abs": 1696.0,
     "diff_pct": 33.93
-  },
-  {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 590.0,
-    "precio_hoy": 790.0,
-    "diff_abs": 200.0,
-    "diff_pct": 33.9
   },
   {
     "ean": "7790070265326",
@@ -169,14 +178,5 @@
     "precio_hoy": 18879.0,
     "diff_abs": 3980.0,
     "diff_pct": 26.71
-  },
-  {
-    "ean": "2025990000005",
-    "nombre": "queso cremoso la serenisima cremon fraccionado al vacio x ki",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 13349.0,
-    "precio_hoy": 16909.0,
-    "diff_abs": 3560.0,
-    "diff_pct": 26.67
   }
 ]
