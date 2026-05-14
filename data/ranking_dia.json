@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2021680000003",
-    "nombre": "zapallo brasilero x kg.",
+    "ean": "7797906054918",
+    "nombre": "papas mc cain noisette x 1.2 kg.",
+    "categoria": "Congelados",
+    "precio_antes": 13299.0,
+    "precio_hoy": 18999.0,
+    "diff_abs": 5700.0,
+    "diff_pct": 42.86
+  },
+  {
+    "ean": "7797906054956",
+    "nombre": "papas congeladas mc cain smiles x 700 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 8819.0,
+    "precio_hoy": 12599.0,
+    "diff_abs": 3780.0,
+    "diff_pct": 42.86
+  },
+  {
+    "ean": "7797906054819",
+    "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
+    "categoria": "Congelados",
+    "precio_antes": 10099.0,
+    "precio_hoy": 14425.0,
+    "diff_abs": 4326.0,
+    "diff_pct": 42.84
+  },
+  {
+    "ean": "7797906000700",
+    "nombre": "papas mc cain tradicional x 400 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3349.0,
+    "precio_hoy": 4783.0,
+    "diff_abs": 1434.0,
+    "diff_pct": 42.82
+  },
+  {
+    "ean": "7797906054864",
+    "nombre": "papas mc cain horneables tradicional x 700 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 6759.0,
+    "precio_hoy": 9651.0,
+    "diff_abs": 2892.0,
+    "diff_pct": 42.79
+  },
+  {
+    "ean": "7791337010208",
+    "nombre": "yogur batido la serenisima clasico vainilla x 120.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 899.0,
+    "precio_hoy": 1191.0,
+    "diff_abs": 292.0,
+    "diff_pct": 32.48
+  },
+  {
+    "ean": "7790360975195",
+    "nombre": "grasa vacuna ref.swift x500gr.",
+    "categoria": "Carniceria",
+    "precio_antes": 3625.0,
+    "precio_hoy": 4719.0,
+    "diff_abs": 1094.0,
+    "diff_pct": 30.18
+  },
+  {
+    "ean": "2020100000005",
+    "nombre": "berenjena morada x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1090.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 400.0,
-    "diff_pct": 36.7
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
   },
   {
-    "ean": "7795735000519",
-    "nombre": "bizcochos don satur x 200 gr queso",
-    "categoria": "Perfumeria",
-    "precio_antes": 2564.0,
-    "precio_hoy": 2898.0,
-    "diff_abs": 334.0,
-    "diff_pct": 13.03
+    "ean": "7790360026590",
+    "nombre": "hamb.swift clasica x12",
+    "categoria": "Congelados",
+    "precio_antes": 19378.0,
+    "precio_hoy": 24203.0,
+    "diff_abs": 4825.0,
+    "diff_pct": 24.9
   },
   {
-    "ean": "7795735000106",
-    "nombre": "talitas don satur tradicional x 140 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1505.0,
-    "precio_hoy": 1701.0,
-    "diff_abs": 196.0,
-    "diff_pct": 13.02
+    "ean": "7791337008410",
+    "nombre": "leche chocolatada la serenisima x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 899.0,
+    "precio_hoy": 1099.0,
+    "diff_abs": 200.0,
+    "diff_pct": 22.25
   },
   {
-    "ean": "7790040127944",
-    "nombre": "galletitas cofler cookies x 120 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1429.0,
-    "precio_hoy": 1615.0,
-    "diff_abs": 186.0,
-    "diff_pct": 13.02
+    "ean": "7793015000594",
+    "nombre": "termo alfa",
+    "categoria": "Limpieza",
+    "precio_antes": 11350.0,
+    "precio_hoy": 13550.0,
+    "diff_abs": 2200.0,
+    "diff_pct": 19.38
   },
   {
-    "ean": "7795735000328",
-    "nombre": "bizcochos don satur x 200 gr salados",
-    "categoria": "Perfumeria",
-    "precio_antes": 1377.0,
-    "precio_hoy": 1556.0,
-    "diff_abs": 179.0,
-    "diff_pct": 13.0
+    "ean": "7798432810771",
+    "nombre": "toallon rosario central",
+    "categoria": "Limpieza",
+    "precio_antes": 17923.59,
+    "precio_hoy": 20484.0,
+    "diff_abs": 2560.41,
+    "diff_pct": 14.29
   },
   {
-    "ean": "7795735000342",
-    "nombre": "bizcochos don satur tortitas negra x 200 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 1377.0,
-    "precio_hoy": 1556.0,
-    "diff_abs": 179.0,
-    "diff_pct": 13.0
+    "ean": "7798432810788",
+    "nombre": "toallon newells",
+    "categoria": "Limpieza",
+    "precio_antes": 17923.59,
+    "precio_hoy": 20484.0,
+    "diff_abs": 2560.41,
+    "diff_pct": 14.29
   },
   {
-    "ean": "7795735601228",
-    "nombre": "bizcochos don satur x 170 gm 100 % vegetal",
-    "categoria": "Perfumeria",
-    "precio_antes": 1377.0,
-    "precio_hoy": 1556.0,
-    "diff_abs": 179.0,
-    "diff_pct": 13.0
+    "ean": "7790360971135",
+    "nombre": "palitos de pollo swift x 260 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 4725.0,
+    "precio_hoy": 5377.0,
+    "diff_abs": 652.0,
+    "diff_pct": 13.8
   },
   {
-    "ean": "7795735000335",
-    "nombre": "bizcochos don satur x 200 gr dulces",
-    "categoria": "Perfumeria",
-    "precio_antes": 1377.0,
-    "precio_hoy": 1556.0,
-    "diff_abs": 179.0,
-    "diff_pct": 13.0
+    "ean": "7790360026576",
+    "nombre": "hamburguesas swift x 4 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 8164.0,
+    "precio_hoy": 9246.0,
+    "diff_abs": 1082.0,
+    "diff_pct": 13.25
   },
   {
-    "ean": "7795735600924",
-    "nombre": "galletitas don satur x 300 gm pepas",
-    "categoria": "Perfumeria",
-    "precio_antes": 1603.0,
-    "precio_hoy": 1811.0,
-    "diff_abs": 208.0,
-    "diff_pct": 12.98
+    "ean": "7790360966841",
+    "nombre": "medallones de carne swift burger x 4 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 4684.0,
+    "precio_hoy": 5297.0,
+    "diff_abs": 613.0,
+    "diff_pct": 13.09
   },
   {
-    "ean": "7795735600917",
-    "nombre": "talitas don satur mix de semillas x 140 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1656.0,
-    "precio_hoy": 1871.0,
-    "diff_abs": 215.0,
-    "diff_pct": 12.98
+    "ean": "7790360967411",
+    "nombre": "hamburguesas swift xl x 2 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 6709.0,
+    "precio_hoy": 7578.0,
+    "diff_abs": 869.0,
+    "diff_pct": 12.95
   },
   {
-    "ean": "7795735000243",
-    "nombre": "talitas don satur x 110 gr queso",
-    "categoria": "Perfumeria",
-    "precio_antes": 1656.0,
-    "precio_hoy": 1871.0,
-    "diff_abs": 215.0,
-    "diff_pct": 12.98
+    "ean": "7791337007260",
+    "nombre": "leche chocolatada cindor x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1339.0,
+    "precio_hoy": 1509.0,
+    "diff_abs": 170.0,
+    "diff_pct": 12.7
   },
   {
-    "ean": "7795735601198",
-    "nombre": "magdalena don satur x 200 gr con chips",
-    "categoria": "Perfumeria",
-    "precio_antes": 2350.0,
-    "precio_hoy": 2655.0,
-    "diff_abs": 305.0,
-    "diff_pct": 12.98
+    "ean": "7798125291320",
+    "nombre": "toalla wossen",
+    "categoria": "Limpieza",
+    "precio_antes": 5810.0,
+    "precio_hoy": 6514.0,
+    "diff_abs": 704.0,
+    "diff_pct": 12.12
   },
   {
-    "ean": "7795735601181",
-    "nombre": "magdalena don satur marmoladas x 200 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 2350.0,
-    "precio_hoy": 2655.0,
-    "diff_abs": 305.0,
-    "diff_pct": 12.98
-  },
-  {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 790.0,
-    "precio_hoy": 890.0,
-    "diff_abs": 100.0,
-    "diff_pct": 12.66
-  },
-  {
-    "ean": "7791826000475",
-    "nombre": "palitos salados pedrin x 80 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 827.0,
-    "precio_hoy": 910.0,
-    "diff_abs": 83.0,
-    "diff_pct": 10.04
-  },
-  {
-    "ean": "7791826000055",
-    "nombre": "papas fritas pedrin jamon serrano x 70 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2376.0,
-    "precio_hoy": 2614.0,
-    "diff_abs": 238.0,
-    "diff_pct": 10.02
-  },
-  {
-    "ean": "7791826000659",
-    "nombre": "chalitas pedrin x 50 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1597.0,
-    "precio_hoy": 1757.0,
-    "diff_abs": 160.0,
-    "diff_pct": 10.02
-  },
-  {
-    "ean": "7791826000086",
-    "nombre": "copos de maiz con queso pedrin",
-    "categoria": "Almacen",
-    "precio_antes": 1597.0,
-    "precio_hoy": 1757.0,
-    "diff_abs": 160.0,
-    "diff_pct": 10.02
-  },
-  {
-    "ean": "7791826000758",
-    "nombre": "mani pelado salado pedrin x 150 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1597.0,
-    "precio_hoy": 1757.0,
-    "diff_abs": 160.0,
-    "diff_pct": 10.02
-  },
-  {
-    "ean": "7791826000130",
-    "nombre": "mani tostado pedrin x 140 gm",
-    "categoria": "Almacen",
-    "precio_antes": 1597.0,
-    "precio_hoy": 1757.0,
-    "diff_abs": 160.0,
-    "diff_pct": 10.02
+    "ean": "7793015102700",
+    "nombre": "termo lumilagro supertermica 1 lt.",
+    "categoria": "Limpieza",
+    "precio_antes": 9736.0,
+    "precio_hoy": 10916.0,
+    "diff_abs": 1180.0,
+    "diff_pct": 12.12
   }
 ]

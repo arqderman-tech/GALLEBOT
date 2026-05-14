@@ -1,147 +1,147 @@
 {
-  "fecha": "20260513",
-  "total_productos": 5891,
-  "variacion_dia": 0.02,
-  "variacion_7d": -0.59,
-  "variacion_mes": 4.29,
+  "fecha": "20260514",
+  "total_productos": 5849,
+  "variacion_dia": 0.11,
+  "variacion_7d": 0.39,
+  "variacion_mes": 4.4,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 5,
       "productos_bajaron": 0,
-      "total_productos": 1319
+      "total_productos": 1313
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.14,
-      "productos_subieron": 18,
-      "productos_bajaron": 32,
-      "total_productos": 1123
+      "variacion_pct_promedio": 0.1,
+      "productos_subieron": 9,
+      "productos_bajaron": 4,
+      "total_productos": 1118
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": 1.82,
+      "productos_subieron": 43,
+      "productos_bajaron": 12,
       "total_productos": 215
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.22,
+      "productos_subieron": 18,
       "productos_bajaron": 0,
       "total_productos": 702
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.12,
-      "productos_subieron": 34,
-      "productos_bajaron": 18,
-      "total_productos": 884
+      "variacion_pct_promedio": -0.09,
+      "productos_subieron": 29,
+      "productos_bajaron": 43,
+      "total_productos": 871
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.09,
-      "productos_subieron": 18,
-      "productos_bajaron": 2,
-      "total_productos": 1646
+      "variacion_pct_promedio": 0.03,
+      "productos_subieron": 44,
+      "productos_bajaron": 32,
+      "total_productos": 1630
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790040613706",
-      "nombre": "alf.bon o bon x40gr.negro",
+      "ean": "7622201740399",
+      "nombre": "gall.mini pepitos x50gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 1239.0,
+      "precio_hoy": 1070.0,
+      "diff_abs": -169.0,
+      "diff_pct": -13.64
+    },
+    {
+      "ean": "7622201761288",
+      "nombre": "gall.mini oreo x50gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 1239.0,
+      "precio_hoy": 1070.0,
+      "diff_abs": -169.0,
+      "diff_pct": -13.64
+    },
+    {
+      "ean": "7622201745608",
+      "nombre": "gall.oreo x119gr.ban.choc.bco.",
+      "categoria": "Perfumeria",
+      "precio_antes": 6444.0,
+      "precio_hoy": 5568.0,
+      "diff_abs": -876.0,
+      "diff_pct": -13.59
+    },
+    {
+      "ean": "7790670052678",
+      "nombre": "hamburguesas paty de casa x 2 unid.",
+      "categoria": "Congelados",
+      "precio_antes": 6907.0,
+      "precio_hoy": 6039.0,
+      "diff_abs": -868.0,
+      "diff_pct": -12.57
+    },
+    {
+      "ean": "7790580138837",
+      "nombre": "caramelos menthoplus x 100 gm cafe",
       "categoria": "Almacen",
-      "precio_antes": 1146.0,
-      "precio_hoy": 919.0,
-      "diff_abs": -227.0,
-      "diff_pct": -19.81
+      "precio_antes": 3061.0,
+      "precio_hoy": 2715.0,
+      "diff_abs": -346.0,
+      "diff_pct": -11.3
     },
     {
-      "ean": "7790787002931",
-      "nombre": "queso rallado ilolay x 120 gr.",
+      "ean": "7798338290479",
+      "nombre": "leche apostoles x 1 litro entera larga vida",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4789.0,
-      "precio_hoy": 3879.0,
-      "diff_abs": -910.0,
-      "diff_pct": -19.0
+      "precio_antes": 1938.03,
+      "precio_hoy": 1769.0,
+      "diff_abs": -169.03,
+      "diff_pct": -8.72
     },
     {
-      "ean": "7790787251780",
-      "nombre": "queso rallado ilolay x 40 gr.",
+      "ean": "7798338290110",
+      "nombre": "leche apostoles descremada larga vida x 1 litro",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1734.0,
-      "precio_hoy": 1409.0,
-      "diff_abs": -325.0,
-      "diff_pct": -18.74
+      "precio_antes": 1938.03,
+      "precio_hoy": 1769.0,
+      "diff_abs": -169.03,
+      "diff_pct": -8.72
     },
     {
-      "ean": "2022080000006",
-      "nombre": "rucula x paquete",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 2490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -16.72
-    },
-    {
-      "ean": "7790040133488",
-      "nombre": "galletitas sonrisas x 108 gr. frambuesa",
+      "ean": "7622202218729",
+      "nombre": "gall.duquesa x345gr.",
       "categoria": "Perfumeria",
-      "precio_antes": 1345.0,
-      "precio_hoy": 1159.0,
-      "diff_abs": -186.0,
-      "diff_pct": -13.83
+      "precio_antes": 4231.0,
+      "precio_hoy": 3864.0,
+      "diff_abs": -367.0,
+      "diff_pct": -8.67
     },
     {
-      "ean": "7790040152946",
-      "nombre": "galletitas traviatas 3 x 96 gm toque porteaita",
-      "categoria": "Perfumeria",
-      "precio_antes": 2270.0,
-      "precio_hoy": 1959.0,
-      "diff_abs": -311.0,
-      "diff_pct": -13.7
+      "ean": "7790580152239",
+      "nombre": "caramelos mogul x 80 gm conitos",
+      "categoria": "Almacen",
+      "precio_antes": 1573.0,
+      "precio_hoy": 1521.0,
+      "diff_abs": -52.0,
+      "diff_pct": -3.31
     },
     {
-      "ean": "7790040147720",
-      "nombre": "galletitas surtido bagley x 400 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 3110.0,
-      "precio_hoy": 2739.0,
-      "diff_abs": -371.0,
-      "diff_pct": -11.93
-    },
-    {
-      "ean": "7790787153664",
-      "nombre": "dulce de leche ilolay x 400 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 3082.0,
-      "precio_hoy": 2719.0,
-      "diff_abs": -363.0,
-      "diff_pct": -11.78
-    },
-    {
-      "ean": "7790040139657",
-      "nombre": "gall.merengadas x88gr.frutila",
-      "categoria": "Perfumeria",
-      "precio_antes": 1345.0,
-      "precio_hoy": 1189.0,
-      "diff_abs": -156.0,
-      "diff_pct": -11.6
-    },
-    {
-      "ean": "7790040143364",
-      "nombre": "galletitas surtidas diversion x 400 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2522.0,
-      "precio_hoy": 2253.42,
-      "diff_abs": -268.58,
-      "diff_pct": -10.65
+      "ean": "7790580118617",
+      "nombre": "caramelos mogul x 80 gr moras",
+      "categoria": "Almacen",
+      "precio_antes": 1573.0,
+      "precio_hoy": 1521.0,
+      "diff_abs": -52.0,
+      "diff_pct": -3.31
     }
   ],
-  "productos_subieron_dia": 71,
-  "productos_bajaron_dia": 52,
-  "productos_sin_cambio_dia": 5766
+  "productos_subieron_dia": 148,
+  "productos_bajaron_dia": 91,
+  "productos_sin_cambio_dia": 5610
 }

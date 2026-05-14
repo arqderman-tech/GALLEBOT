@@ -9,15 +9,6 @@
     "diff_pct": 61.26
   },
   {
-    "ean": "7792360094548",
-    "nombre": "chocolate vizzio mani x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2199.0,
-    "precio_hoy": 3529.0,
-    "diff_abs": 1330.0,
-    "diff_pct": 60.48
-  },
-  {
     "ean": "7792360094418",
     "nombre": "chocolate blanco bonafide x 100 gr.",
     "categoria": "Almacen",
@@ -36,42 +27,6 @@
     "diff_pct": 56.9
   },
   {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 590.0,
-    "precio_hoy": 890.0,
-    "diff_abs": 300.0,
-    "diff_pct": 50.85
-  },
-  {
-    "ean": "2021280000007",
-    "nombre": "melon amarillo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
-  },
-  {
-    "ean": "7898024396529",
-    "nombre": "nutella x 650 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 11499.0,
-    "precio_hoy": 16526.0,
-    "diff_abs": 5027.0,
-    "diff_pct": 43.72
-  },
-  {
-    "ean": "7898024394181",
-    "nombre": "pasta de avellanas y chocolate nutella x 350 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 7299.0,
-    "precio_hoy": 10452.0,
-    "diff_abs": 3153.0,
-    "diff_pct": 43.2
-  },
-  {
     "ean": "2022220000002",
     "nombre": "tomate redondo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -81,13 +36,85 @@
     "diff_pct": 42.98
   },
   {
-    "ean": "2020370000002",
-    "nombre": "chaucha rolliza x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 2000.0,
+    "ean": "7797906054918",
+    "nombre": "papas mc cain noisette x 1.2 kg.",
+    "categoria": "Congelados",
+    "precio_antes": 13299.0,
+    "precio_hoy": 18999.0,
+    "diff_abs": 5700.0,
+    "diff_pct": 42.86
+  },
+  {
+    "ean": "7797906054956",
+    "nombre": "papas congeladas mc cain smiles x 700 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 8819.0,
+    "precio_hoy": 12599.0,
+    "diff_abs": 3780.0,
+    "diff_pct": 42.86
+  },
+  {
+    "ean": "7797906054819",
+    "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
+    "categoria": "Congelados",
+    "precio_antes": 10099.0,
+    "precio_hoy": 14425.0,
+    "diff_abs": 4326.0,
+    "diff_pct": 42.84
+  },
+  {
+    "ean": "7797906000700",
+    "nombre": "papas mc cain tradicional x 400 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3349.0,
+    "precio_hoy": 4783.0,
+    "diff_abs": 1434.0,
+    "diff_pct": 42.82
+  },
+  {
+    "ean": "7797906054864",
+    "nombre": "papas mc cain horneables tradicional x 700 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 6759.0,
+    "precio_hoy": 9651.0,
+    "diff_abs": 2892.0,
+    "diff_pct": 42.79
+  },
+  {
+    "ean": "7797394001265",
+    "nombre": "pastillas tic tac mix de frutas x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 499.0,
+    "precio_hoy": 699.0,
+    "diff_abs": 200.0,
     "diff_pct": 40.08
+  },
+  {
+    "ean": "7790360967558",
+    "nombre": "medall.swift pollo x320gr.",
+    "categoria": "Congelados",
+    "precio_antes": 4609.0,
+    "precio_hoy": 6454.0,
+    "diff_abs": 1845.0,
+    "diff_pct": 40.03
+  },
+  {
+    "ean": "7790360975195",
+    "nombre": "grasa vacuna ref.swift x500gr.",
+    "categoria": "Carniceria",
+    "precio_antes": 3379.0,
+    "precio_hoy": 4719.0,
+    "diff_abs": 1340.0,
+    "diff_pct": 39.66
+  },
+  {
+    "ean": "7790360026590",
+    "nombre": "hamb.swift clasica x12",
+    "categoria": "Congelados",
+    "precio_antes": 17339.0,
+    "precio_hoy": 24203.0,
+    "diff_abs": 6864.0,
+    "diff_pct": 39.59
   },
   {
     "ean": "2021640000005",
@@ -151,32 +178,5 @@
     "precio_hoy": 7990.0,
     "diff_abs": 2000.0,
     "diff_pct": 33.39
-  },
-  {
-    "ean": "7790070431431",
-    "nombre": "arroz gallo doble carolina x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1789.0,
-    "precio_hoy": 2339.0,
-    "diff_abs": 550.0,
-    "diff_pct": 30.74
-  },
-  {
-    "ean": "8445291904392",
-    "nombre": "combo nescafe dolca x 170 gr. + coffee mate x 170.",
-    "categoria": "Perfumeria",
-    "precio_antes": 12999.0,
-    "precio_hoy": 16525.0,
-    "diff_abs": 3526.0,
-    "diff_pct": 27.13
-  },
-  {
-    "ean": "2017620000004",
-    "nombre": "queso cremon doble crema la serenisima x kilo env. al vacio",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 14899.0,
-    "precio_hoy": 18879.0,
-    "diff_abs": 3980.0,
-    "diff_pct": 26.71
   }
 ]
