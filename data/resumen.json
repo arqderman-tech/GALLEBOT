@@ -1,147 +1,147 @@
 {
-  "fecha": "20260514",
-  "total_productos": 5849,
-  "variacion_dia": 0.11,
-  "variacion_7d": 0.39,
-  "variacion_mes": 4.4,
+  "fecha": "20260515",
+  "total_productos": 5838,
+  "variacion_dia": -0.33,
+  "variacion_7d": -0.25,
+  "variacion_mes": 4.07,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 5,
-      "productos_bajaron": 0,
-      "total_productos": 1313
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 9,
+      "productos_bajaron": 33,
+      "total_productos": 1311
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.1,
-      "productos_subieron": 9,
-      "productos_bajaron": 4,
-      "total_productos": 1118
+      "variacion_pct_promedio": -0.14,
+      "productos_subieron": 85,
+      "productos_bajaron": 65,
+      "total_productos": 1113
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 1.82,
-      "productos_subieron": 43,
-      "productos_bajaron": 12,
-      "total_productos": 215
+      "variacion_pct_promedio": -1.67,
+      "productos_subieron": 0,
+      "productos_bajaron": 30,
+      "total_productos": 213
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.22,
-      "productos_subieron": 18,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "total_productos": 702
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.09,
-      "productos_subieron": 29,
-      "productos_bajaron": 43,
-      "total_productos": 871
+      "variacion_pct_promedio": -0.61,
+      "productos_subieron": 10,
+      "productos_bajaron": 42,
+      "total_productos": 857
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.03,
-      "productos_subieron": 44,
-      "productos_bajaron": 32,
-      "total_productos": 1630
+      "variacion_pct_promedio": -0.53,
+      "productos_subieron": 13,
+      "productos_bajaron": 64,
+      "total_productos": 1612
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7622201740399",
-      "nombre": "gall.mini pepitos x50gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 1239.0,
-      "precio_hoy": 1070.0,
-      "diff_abs": -169.0,
-      "diff_pct": -13.64
+      "ean": "7790895650598",
+      "nombre": "gaseosa sprite x 237 ml botella de vidrio",
+      "categoria": "Bebidas",
+      "precio_antes": 1425.33,
+      "precio_hoy": 899.0,
+      "diff_abs": -526.33,
+      "diff_pct": -36.93
     },
     {
-      "ean": "7622201761288",
-      "nombre": "gall.mini oreo x50gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 1239.0,
-      "precio_hoy": 1070.0,
-      "diff_abs": -169.0,
-      "diff_pct": -13.64
+      "ean": "7790895067594",
+      "nombre": "gaseosa coca cola x 237 ml botella de vidrio sin azucar",
+      "categoria": "Bebidas",
+      "precio_antes": 1425.33,
+      "precio_hoy": 899.0,
+      "diff_abs": -526.33,
+      "diff_pct": -36.93
     },
     {
-      "ean": "7622201745608",
-      "nombre": "gall.oreo x119gr.ban.choc.bco.",
-      "categoria": "Perfumeria",
-      "precio_antes": 6444.0,
-      "precio_hoy": 5568.0,
-      "diff_abs": -876.0,
-      "diff_pct": -13.59
+      "ean": "7790895006753",
+      "nombre": "gaseosa coca cola x 237 ml botella de vidrio",
+      "categoria": "Bebidas",
+      "precio_antes": 1425.33,
+      "precio_hoy": 899.0,
+      "diff_abs": -526.33,
+      "diff_pct": -36.93
     },
     {
-      "ean": "7790670052678",
-      "nombre": "hamburguesas paty de casa x 2 unid.",
+      "ean": "7790895651267",
+      "nombre": "gaseosa fanta x 237 ml botella vidrio",
+      "categoria": "Bebidas",
+      "precio_antes": 1425.33,
+      "precio_hoy": 899.0,
+      "diff_abs": -526.33,
+      "diff_pct": -36.93
+    },
+    {
+      "ean": "7898024394181",
+      "nombre": "pasta de avellanas y chocolate nutella x 350 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 10452.0,
+      "precio_hoy": 7299.0,
+      "diff_abs": -3153.0,
+      "diff_pct": -30.17
+    },
+    {
+      "ean": "7792798015351",
+      "nombre": "cerveza corona 0 % x 473 ml lata",
+      "categoria": "Bebidas",
+      "precio_antes": 3200.0,
+      "precio_hoy": 2239.0,
+      "diff_abs": -961.0,
+      "diff_pct": -30.03
+    },
+    {
+      "ean": "7792798014873",
+      "nombre": "cerveza corona cero x 330 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 3400.0,
+      "precio_hoy": 2379.0,
+      "diff_abs": -1021.0,
+      "diff_pct": -30.03
+    },
+    {
+      "ean": "7792798008858",
+      "nombre": "cerveza temple wolf ipa x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 4500.0,
+      "precio_hoy": 3149.0,
+      "diff_abs": -1351.0,
+      "diff_pct": -30.02
+    },
+    {
+      "ean": "7797906054833",
+      "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
       "categoria": "Congelados",
-      "precio_antes": 6907.0,
-      "precio_hoy": 6039.0,
-      "diff_abs": -868.0,
-      "diff_pct": -12.57
+      "precio_antes": 8071.0,
+      "precio_hoy": 5649.0,
+      "diff_abs": -2422.0,
+      "diff_pct": -30.01
     },
     {
-      "ean": "7790580138837",
-      "nombre": "caramelos menthoplus x 100 gm cafe",
-      "categoria": "Almacen",
-      "precio_antes": 3061.0,
-      "precio_hoy": 2715.0,
-      "diff_abs": -346.0,
-      "diff_pct": -11.3
-    },
-    {
-      "ean": "7798338290479",
-      "nombre": "leche apostoles x 1 litro entera larga vida",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1938.03,
-      "precio_hoy": 1769.0,
-      "diff_abs": -169.03,
-      "diff_pct": -8.72
-    },
-    {
-      "ean": "7798338290110",
-      "nombre": "leche apostoles descremada larga vida x 1 litro",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1938.03,
-      "precio_hoy": 1769.0,
-      "diff_abs": -169.03,
-      "diff_pct": -8.72
-    },
-    {
-      "ean": "7622202218729",
-      "nombre": "gall.duquesa x345gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 4231.0,
-      "precio_hoy": 3864.0,
-      "diff_abs": -367.0,
-      "diff_pct": -8.67
-    },
-    {
-      "ean": "7790580152239",
-      "nombre": "caramelos mogul x 80 gm conitos",
-      "categoria": "Almacen",
-      "precio_antes": 1573.0,
-      "precio_hoy": 1521.0,
-      "diff_abs": -52.0,
-      "diff_pct": -3.31
-    },
-    {
-      "ean": "7790580118617",
-      "nombre": "caramelos mogul x 80 gr moras",
-      "categoria": "Almacen",
-      "precio_antes": 1573.0,
-      "precio_hoy": 1521.0,
-      "diff_abs": -52.0,
-      "diff_pct": -3.31
+      "ean": "7797906054826",
+      "nombre": "papas fritas mc cain clasicas x 700 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 7592.0,
+      "precio_hoy": 5319.0,
+      "diff_abs": -2273.0,
+      "diff_pct": -29.94
     }
   ],
-  "productos_subieron_dia": 148,
-  "productos_bajaron_dia": 91,
-  "productos_sin_cambio_dia": 5610
+  "productos_subieron_dia": 117,
+  "productos_bajaron_dia": 234,
+  "productos_sin_cambio_dia": 5457
 }

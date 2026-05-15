@@ -36,15 +36,6 @@
     "diff_pct": 234.9
   },
   {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2209.0,
-    "precio_hoy": 5007.0,
-    "diff_abs": 2798.0,
-    "diff_pct": 126.66
-  },
-  {
     "ean": "7791337010482",
     "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
     "categoria": "Lacteos Y Frescos",
@@ -54,8 +45,17 @@
     "diff_pct": 126.66
   },
   {
-    "ean": "7622201703059",
-    "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2209.0,
+    "precio_hoy": 5007.0,
+    "diff_abs": 2798.0,
+    "diff_pct": 126.66
+  },
+  {
+    "ean": "7622201703202",
+    "nombre": "jugo clight pera x7gr.",
     "categoria": "Bebidas",
     "precio_antes": 309.0,
     "precio_hoy": 639.0,
@@ -72,22 +72,13 @@
     "diff_pct": 106.8
   },
   {
-    "ean": "7622201703202",
-    "nombre": "jugo clight pera x7gr.",
+    "ean": "7622201703059",
+    "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
     "categoria": "Bebidas",
     "precio_antes": 309.0,
     "precio_hoy": 639.0,
     "diff_abs": 330.0,
     "diff_pct": 106.8
-  },
-  {
-    "ean": "7622201733865",
-    "nombre": "jugo tang mandarina x 15 gm",
-    "categoria": "Bebidas",
-    "precio_antes": 299.0,
-    "precio_hoy": 611.0,
-    "diff_abs": 312.0,
-    "diff_pct": 104.35
   },
   {
     "ean": "7622201745936",
@@ -108,8 +99,17 @@
     "diff_pct": 104.35
   },
   {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
+    "ean": "7622201733865",
+    "nombre": "jugo tang mandarina x 15 gm",
+    "categoria": "Bebidas",
+    "precio_antes": 299.0,
+    "precio_hoy": 611.0,
+    "diff_abs": 312.0,
+    "diff_pct": 104.35
+  },
+  {
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 5990.0,
@@ -126,6 +126,24 @@
     "diff_pct": 78.74
   },
   {
+    "ean": "2022210000005",
+    "nombre": "tomate perita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 3490.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 75.38
+  },
+  {
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
+  },
+  {
     "ean": "77969118",
     "nombre": "chicle beldent frutilla x10gr.",
     "categoria": "Almacen",
@@ -135,26 +153,8 @@
     "diff_pct": 67.23
   },
   {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
-  },
-  {
     "ean": "2019900000001",
     "nombre": "ajies x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
-  },
-  {
-    "ean": "2020100000005",
-    "nombre": "berenjena morada x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 4990.0,
@@ -171,12 +171,12 @@
     "diff_pct": 66.72
   },
   {
-    "ean": "8445291904392",
-    "nombre": "combo nescafe dolca x 170 gr. + coffee mate x 170.",
-    "categoria": "Perfumeria",
-    "precio_antes": 10046.0,
-    "precio_hoy": 16525.0,
-    "diff_abs": 6479.0,
-    "diff_pct": 64.49
+    "ean": "7898024397861",
+    "nombre": "bombones ferrero rocher x 50 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3469.0,
+    "precio_hoy": 5697.0,
+    "diff_abs": 2228.0,
+    "diff_pct": 64.23
   }
 ]
