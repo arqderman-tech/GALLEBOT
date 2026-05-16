@@ -18,13 +18,13 @@
     "diff_pct": 59.37
   },
   {
-    "ean": "2022220000002",
-    "nombre": "tomate redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 42.98
+    "ean": "7791866000572",
+    "nombre": "mayonesa cada dia liviana x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1199.0,
+    "precio_hoy": 1831.0,
+    "diff_abs": 632.0,
+    "diff_pct": 52.71
   },
   {
     "ean": "7797906054956",
@@ -72,6 +72,15 @@
     "diff_pct": 42.79
   },
   {
+    "ean": "7791337010208",
+    "nombre": "yogur batido la serenisima clasico vainilla x 120.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 899.0,
+    "precio_hoy": 1268.0,
+    "diff_abs": 369.0,
+    "diff_pct": 41.05
+  },
+  {
     "ean": "7797394001265",
     "nombre": "pastillas tic tac mix de frutas x 16 gr.",
     "categoria": "Almacen",
@@ -79,6 +88,15 @@
     "precio_hoy": 699.0,
     "diff_abs": 200.0,
     "diff_pct": 40.08
+  },
+  {
+    "ean": "7794990184507",
+    "nombre": "queso untable ricrem clasico x 180 gr",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1668.0,
+    "precio_hoy": 2317.0,
+    "diff_abs": 649.0,
+    "diff_pct": 38.91
   },
   {
     "ean": "7790360975195",
@@ -99,6 +117,15 @@
     "diff_pct": 34.74
   },
   {
+    "ean": "2019880000008",
+    "nombre": "acelga x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1490.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 33.56
+  },
+  {
     "ean": "2020410000009",
     "nombre": "choclo elegido x kg.",
     "categoria": "Frutas Y Verduras",
@@ -117,15 +144,6 @@
     "diff_pct": 33.36
   },
   {
-    "ean": "7790895001000",
-    "nombre": "gaseosa lima limon sprite x 2.25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 3639.0,
-    "precio_hoy": 4850.0,
-    "diff_abs": 1211.0,
-    "diff_pct": 33.28
-  },
-  {
     "ean": "7790895001017",
     "nombre": "gaseosa naranja fanta x 2,25 lt.",
     "categoria": "Bebidas",
@@ -135,8 +153,8 @@
     "diff_pct": 33.28
   },
   {
-    "ean": "7790895001031",
-    "nombre": "gaseosa fanta limon x 2.25 lt.",
+    "ean": "7790895001000",
+    "nombre": "gaseosa lima limon sprite x 2.25 lt.",
     "categoria": "Bebidas",
     "precio_antes": 3639.0,
     "precio_hoy": 4850.0,
@@ -153,30 +171,12 @@
     "diff_pct": 33.28
   },
   {
-    "ean": "7790895068096",
-    "nombre": "gaseosa coca cola x 2,50 lt. sin azucar",
+    "ean": "7790895001031",
+    "nombre": "gaseosa fanta limon x 2.25 lt.",
     "categoria": "Bebidas",
-    "precio_antes": 4049.0,
-    "precio_hoy": 5389.0,
-    "diff_abs": 1340.0,
-    "diff_pct": 33.09
-  },
-  {
-    "ean": "7790895007392",
-    "nombre": "gaseosa crush pomelo x 2,25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1999.0,
-    "precio_hoy": 2660.0,
-    "diff_abs": 661.0,
-    "diff_pct": 33.07
-  },
-  {
-    "ean": "7790895006951",
-    "nombre": "gaseosa crush naranja x 2,25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1999.0,
-    "precio_hoy": 2660.0,
-    "diff_abs": 661.0,
-    "diff_pct": 33.07
+    "precio_antes": 3639.0,
+    "precio_hoy": 4850.0,
+    "diff_abs": 1211.0,
+    "diff_pct": 33.28
   }
 ]

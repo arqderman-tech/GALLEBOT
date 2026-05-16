@@ -1,147 +1,147 @@
 {
-  "fecha": "20260515",
-  "total_productos": 5838,
-  "variacion_dia": -0.33,
-  "variacion_7d": -0.25,
-  "variacion_mes": 4.07,
+  "fecha": "20260516",
+  "total_productos": 5810,
+  "variacion_dia": 0.2,
+  "variacion_7d": 0.55,
+  "variacion_mes": 4.27,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.01,
-      "productos_subieron": 9,
-      "productos_bajaron": 33,
-      "total_productos": 1311
+      "variacion_pct_promedio": -0.83,
+      "productos_subieron": 2,
+      "productos_bajaron": 48,
+      "total_productos": 1312
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.14,
-      "productos_subieron": 85,
-      "productos_bajaron": 65,
-      "total_productos": 1113
+      "variacion_pct_promedio": 1.71,
+      "productos_subieron": 236,
+      "productos_bajaron": 19,
+      "total_productos": 1112
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -1.67,
-      "productos_subieron": 0,
-      "productos_bajaron": 30,
-      "total_productos": 213
+      "variacion_pct_promedio": 0.06,
+      "productos_subieron": 1,
+      "productos_bajaron": 0,
+      "total_productos": 212
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.13,
+      "productos_subieron": 9,
       "productos_bajaron": 0,
-      "total_productos": 702
+      "total_productos": 701
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.61,
-      "productos_subieron": 10,
-      "productos_bajaron": 42,
-      "total_productos": 857
+      "variacion_pct_promedio": 0.03,
+      "productos_subieron": 8,
+      "productos_bajaron": 2,
+      "total_productos": 860
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.53,
-      "productos_subieron": 13,
-      "productos_bajaron": 64,
-      "total_productos": 1612
+      "variacion_pct_promedio": 0.13,
+      "productos_subieron": 39,
+      "productos_bajaron": 6,
+      "total_productos": 1610
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790895650598",
-      "nombre": "gaseosa sprite x 237 ml botella de vidrio",
+      "ean": "7798074864019",
+      "nombre": "vino portillo x1.5lt.malbec",
       "categoria": "Bebidas",
-      "precio_antes": 1425.33,
-      "precio_hoy": 899.0,
-      "diff_abs": -526.33,
-      "diff_pct": -36.93
+      "precio_antes": 12567.0,
+      "precio_hoy": 9389.0,
+      "diff_abs": -3178.0,
+      "diff_pct": -25.29
     },
     {
-      "ean": "7790895067594",
-      "nombre": "gaseosa coca cola x 237 ml botella de vidrio sin azucar",
+      "ean": "7798074865139",
+      "nombre": "vino tinto killka cabernet sauvignon x 750 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 1425.33,
-      "precio_hoy": 899.0,
-      "diff_abs": -526.33,
-      "diff_pct": -36.93
+      "precio_antes": 9046.0,
+      "precio_hoy": 6759.0,
+      "diff_abs": -2287.0,
+      "diff_pct": -25.28
     },
     {
-      "ean": "7790895006753",
-      "nombre": "gaseosa coca cola x 237 ml botella de vidrio",
+      "ean": "7798074865115",
+      "nombre": "vino blanco killka chardonnay x 750 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 1425.33,
-      "precio_hoy": 899.0,
-      "diff_abs": -526.33,
-      "diff_pct": -36.93
+      "precio_antes": 9046.0,
+      "precio_hoy": 6759.0,
+      "diff_abs": -2287.0,
+      "diff_pct": -25.28
     },
     {
-      "ean": "7790895651267",
-      "nombre": "gaseosa fanta x 237 ml botella vidrio",
+      "ean": "7798074865153",
+      "nombre": "vino killka x 750 ml corte tinta",
       "categoria": "Bebidas",
-      "precio_antes": 1425.33,
-      "precio_hoy": 899.0,
-      "diff_abs": -526.33,
-      "diff_pct": -36.93
+      "precio_antes": 9046.0,
+      "precio_hoy": 6759.0,
+      "diff_abs": -2287.0,
+      "diff_pct": -25.28
     },
     {
-      "ean": "7898024394181",
-      "nombre": "pasta de avellanas y chocolate nutella x 350 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 10452.0,
-      "precio_hoy": 7299.0,
-      "diff_abs": -3153.0,
-      "diff_pct": -30.17
-    },
-    {
-      "ean": "7792798015351",
-      "nombre": "cerveza corona 0 % x 473 ml lata",
+      "ean": "7798074865191",
+      "nombre": "vino killka x 750 ml malbec",
       "categoria": "Bebidas",
-      "precio_antes": 3200.0,
-      "precio_hoy": 2239.0,
-      "diff_abs": -961.0,
-      "diff_pct": -30.03
+      "precio_antes": 9046.0,
+      "precio_hoy": 6759.0,
+      "diff_abs": -2287.0,
+      "diff_pct": -25.28
     },
     {
-      "ean": "7792798014873",
-      "nombre": "cerveza corona cero x 330 ml.",
+      "ean": "7798074862756",
+      "nombre": "vino killka x 750 ml. sauvignon blanc",
       "categoria": "Bebidas",
-      "precio_antes": 3400.0,
-      "precio_hoy": 2379.0,
-      "diff_abs": -1021.0,
-      "diff_pct": -30.03
+      "precio_antes": 9046.0,
+      "precio_hoy": 6759.0,
+      "diff_abs": -2287.0,
+      "diff_pct": -25.28
     },
     {
-      "ean": "7792798008858",
-      "nombre": "cerveza temple wolf ipa x 473 ml.",
+      "ean": "7798074864750",
+      "nombre": "vino portillo chardonnay x 750 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 4500.0,
-      "precio_hoy": 3149.0,
-      "diff_abs": -1351.0,
-      "diff_pct": -30.02
+      "precio_antes": 6329.0,
+      "precio_hoy": 4729.0,
+      "diff_abs": -1600.0,
+      "diff_pct": -25.28
     },
     {
-      "ean": "7797906054833",
-      "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 8071.0,
-      "precio_hoy": 5649.0,
-      "diff_abs": -2422.0,
-      "diff_pct": -30.01
+      "ean": "7798074864873",
+      "nombre": "vino blanco portillo x 750ml dulce natural",
+      "categoria": "Bebidas",
+      "precio_antes": 6422.0,
+      "precio_hoy": 4799.0,
+      "diff_abs": -1623.0,
+      "diff_pct": -25.27
     },
     {
-      "ean": "7797906054826",
-      "nombre": "papas fritas mc cain clasicas x 700 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 7592.0,
-      "precio_hoy": 5319.0,
-      "diff_abs": -2273.0,
-      "diff_pct": -29.94
+      "ean": "7798074864897",
+      "nombre": "vino portillo x750ml.syrah",
+      "categoria": "Bebidas",
+      "precio_antes": 6283.0,
+      "precio_hoy": 4699.0,
+      "diff_abs": -1584.0,
+      "diff_pct": -25.21
+    },
+    {
+      "ean": "7798108834179",
+      "nombre": "vino tardio callia x 750 ml. rosado malbec",
+      "categoria": "Bebidas",
+      "precio_antes": 5240.0,
+      "precio_hoy": 3919.0,
+      "diff_abs": -1321.0,
+      "diff_pct": -25.21
     }
   ],
-  "productos_subieron_dia": 117,
-  "productos_bajaron_dia": 234,
-  "productos_sin_cambio_dia": 5457
+  "productos_subieron_dia": 295,
+  "productos_bajaron_dia": 75,
+  "productos_sin_cambio_dia": 5437
 }

@@ -40,18 +40,18 @@
     "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2209.0,
-    "precio_hoy": 5007.0,
-    "diff_abs": 2798.0,
-    "diff_pct": 126.66
+    "precio_hoy": 5332.0,
+    "diff_abs": 3123.0,
+    "diff_pct": 141.38
   },
   {
     "ean": "7791337010499",
     "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2209.0,
-    "precio_hoy": 5007.0,
-    "diff_abs": 2798.0,
-    "diff_pct": 126.66
+    "precio_hoy": 5332.0,
+    "diff_abs": 3123.0,
+    "diff_pct": 141.38
   },
   {
     "ean": "7622201703202",
@@ -81,6 +81,15 @@
     "diff_pct": 106.8
   },
   {
+    "ean": "7622201733865",
+    "nombre": "jugo tang mandarina x 15 gm",
+    "categoria": "Bebidas",
+    "precio_antes": 299.0,
+    "precio_hoy": 611.0,
+    "diff_abs": 312.0,
+    "diff_pct": 104.35
+  },
+  {
     "ean": "7622201745936",
     "nombre": "jugo tang durazno x15gr.",
     "categoria": "Bebidas",
@@ -92,15 +101,6 @@
   {
     "ean": "7622201746490",
     "nombre": "jugo en polvo tang x 15 gr. frutilla",
-    "categoria": "Bebidas",
-    "precio_antes": 299.0,
-    "precio_hoy": 611.0,
-    "diff_abs": 312.0,
-    "diff_pct": 104.35
-  },
-  {
-    "ean": "7622201733865",
-    "nombre": "jugo tang mandarina x 15 gm",
     "categoria": "Bebidas",
     "precio_antes": 299.0,
     "precio_hoy": 611.0,
