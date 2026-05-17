@@ -1,147 +1,147 @@
 {
-  "fecha": "20260516",
-  "total_productos": 5810,
-  "variacion_dia": 0.2,
-  "variacion_7d": 0.55,
-  "variacion_mes": 4.27,
+  "fecha": "20260517",
+  "total_productos": 5791,
+  "variacion_dia": 0.18,
+  "variacion_7d": 0.73,
+  "variacion_mes": 3.86,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.83,
-      "productos_subieron": 2,
-      "productos_bajaron": 48,
-      "total_productos": 1312
+      "variacion_pct_promedio": 0.54,
+      "productos_subieron": 27,
+      "productos_bajaron": 0,
+      "total_productos": 1310
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 1.71,
-      "productos_subieron": 236,
-      "productos_bajaron": 19,
-      "total_productos": 1112
+      "variacion_pct_promedio": 0.27,
+      "productos_subieron": 32,
+      "productos_bajaron": 0,
+      "total_productos": 1110
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.06,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "total_productos": 212
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.13,
-      "productos_subieron": 9,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "total_productos": 701
     },
     {
       "categoria": "Cuidado Personal",
       "variacion_pct_promedio": 0.03,
-      "productos_subieron": 8,
-      "productos_bajaron": 2,
-      "total_productos": 860
+      "productos_subieron": 2,
+      "productos_bajaron": 0,
+      "total_productos": 857
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.13,
-      "productos_subieron": 39,
-      "productos_bajaron": 6,
-      "total_productos": 1610
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1600
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7798074864019",
-      "nombre": "vino portillo x1.5lt.malbec",
-      "categoria": "Bebidas",
-      "precio_antes": 12567.0,
-      "precio_hoy": 9389.0,
-      "diff_abs": -3178.0,
-      "diff_pct": -25.29
+      "ean": "2015610000003",
+      "nombre": "salamin tipo crespon paladini x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 29635.0,
+      "precio_hoy": 29635.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7798074865139",
-      "nombre": "vino tinto killka cabernet sauvignon x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 9046.0,
-      "precio_hoy": 6759.0,
-      "diff_abs": -2287.0,
-      "diff_pct": -25.28
+      "ean": "7790079010835",
+      "nombre": "salchichas paladini x 12 unidades de viena",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4845.0,
+      "precio_hoy": 4845.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7798074865115",
-      "nombre": "vino blanco killka chardonnay x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 9046.0,
-      "precio_hoy": 6759.0,
-      "diff_abs": -2287.0,
-      "diff_pct": -25.28
+      "ean": "7790360026002",
+      "nombre": "salchichas la blanca x6 190g",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1299.0,
+      "precio_hoy": 1299.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7798074865153",
-      "nombre": "vino killka x 750 ml corte tinta",
-      "categoria": "Bebidas",
-      "precio_antes": 9046.0,
-      "precio_hoy": 6759.0,
-      "diff_abs": -2287.0,
-      "diff_pct": -25.28
+      "ean": "7798164602880",
+      "nombre": "salchichas granja iris x 12 unid.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5021.0,
+      "precio_hoy": 5021.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7798074865191",
-      "nombre": "vino killka x 750 ml malbec",
-      "categoria": "Bebidas",
-      "precio_antes": 9046.0,
-      "precio_hoy": 6759.0,
-      "diff_abs": -2287.0,
-      "diff_pct": -25.28
+      "ean": "7798164602606",
+      "nombre": "salchichas granja iris clasicas x 6 unid.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2766.0,
+      "precio_hoy": 2766.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7798074862756",
-      "nombre": "vino killka x 750 ml. sauvignon blanc",
-      "categoria": "Bebidas",
-      "precio_antes": 9046.0,
-      "precio_hoy": 6759.0,
-      "diff_abs": -2287.0,
-      "diff_pct": -25.28
+      "ean": "7790079000317",
+      "nombre": "salchichas fela x 6 unidades",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1650.0,
+      "precio_hoy": 1650.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7798074864750",
-      "nombre": "vino portillo chardonnay x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 6329.0,
-      "precio_hoy": 4729.0,
-      "diff_abs": -1600.0,
-      "diff_pct": -25.28
+      "ean": "7790625010401",
+      "nombre": "salchichas 66 x 6 unid.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1249.0,
+      "precio_hoy": 1249.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7798074864873",
-      "nombre": "vino blanco portillo x 750ml dulce natural",
-      "categoria": "Bebidas",
-      "precio_antes": 6422.0,
-      "precio_hoy": 4799.0,
-      "diff_abs": -1623.0,
-      "diff_pct": -25.27
+      "ean": "7790670052401",
+      "nombre": "salchicha vienissima x 6 unid.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2469.0,
+      "precio_hoy": 2469.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7798074864897",
-      "nombre": "vino portillo x750ml.syrah",
-      "categoria": "Bebidas",
-      "precio_antes": 6283.0,
-      "precio_hoy": 4699.0,
-      "diff_abs": -1584.0,
-      "diff_pct": -25.21
+      "ean": "7790670052418",
+      "nombre": "salchicha vienissima x 12 unid.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4399.0,
+      "precio_hoy": 4399.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7798108834179",
-      "nombre": "vino tardio callia x 750 ml. rosado malbec",
-      "categoria": "Bebidas",
-      "precio_antes": 5240.0,
-      "precio_hoy": 3919.0,
-      "diff_abs": -1321.0,
-      "diff_pct": -25.21
+      "ean": "7790670052975",
+      "nombre": "salchicha vienissima picantes x 6 unid.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3389.0,
+      "precio_hoy": 3389.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 295,
-  "productos_bajaron_dia": 75,
-  "productos_sin_cambio_dia": 5437
+  "productos_subieron_dia": 61,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 5729
 }

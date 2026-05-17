@@ -27,21 +27,21 @@
     "diff_pct": 52.71
   },
   {
-    "ean": "7797906054956",
-    "nombre": "papas congeladas mc cain smiles x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 8819.0,
-    "precio_hoy": 12599.0,
-    "diff_abs": 3780.0,
-    "diff_pct": 42.86
-  },
-  {
     "ean": "7797906054918",
     "nombre": "papas mc cain noisette x 1.2 kg.",
     "categoria": "Congelados",
     "precio_antes": 13299.0,
     "precio_hoy": 18999.0,
     "diff_abs": 5700.0,
+    "diff_pct": 42.86
+  },
+  {
+    "ean": "7797906054956",
+    "nombre": "papas congeladas mc cain smiles x 700 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 8819.0,
+    "precio_hoy": 12599.0,
+    "diff_abs": 3780.0,
     "diff_pct": 42.86
   },
   {
@@ -153,15 +153,6 @@
     "diff_pct": 33.28
   },
   {
-    "ean": "7790895001000",
-    "nombre": "gaseosa lima limon sprite x 2.25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 3639.0,
-    "precio_hoy": 4850.0,
-    "diff_abs": 1211.0,
-    "diff_pct": 33.28
-  },
-  {
     "ean": "7790895064166",
     "nombre": "gaseosa sprite zero x 2,25 lt.",
     "categoria": "Bebidas",
@@ -173,6 +164,15 @@
   {
     "ean": "7790895001031",
     "nombre": "gaseosa fanta limon x 2.25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3639.0,
+    "precio_hoy": 4850.0,
+    "diff_abs": 1211.0,
+    "diff_pct": 33.28
+  },
+  {
+    "ean": "7790895001000",
+    "nombre": "gaseosa lima limon sprite x 2.25 lt.",
     "categoria": "Bebidas",
     "precio_antes": 3639.0,
     "precio_hoy": 4850.0,

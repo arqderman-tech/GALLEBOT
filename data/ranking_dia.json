@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7791866000572",
-    "nombre": "mayonesa cada dia liviana x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1199.0,
-    "precio_hoy": 1831.0,
-    "diff_abs": 632.0,
-    "diff_pct": 52.71
+    "ean": "7790895003301",
+    "nombre": "agua saborizada aquarius cepita manzana x 2.25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3039.0,
+    "precio_hoy": 4050.0,
+    "diff_abs": 1011.0,
+    "diff_pct": 33.27
   },
   {
-    "ean": "7794990184507",
-    "nombre": "queso untable ricrem clasico x 180 gr",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1668.0,
-    "precio_hoy": 2317.0,
-    "diff_abs": 649.0,
-    "diff_pct": 38.91
+    "ean": "7790895003325",
+    "nombre": "agua saborizada aquarius cepita naranja x 2.25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3039.0,
+    "precio_hoy": 4050.0,
+    "diff_abs": 1011.0,
+    "diff_pct": 33.27
   },
   {
-    "ean": "2019880000008",
-    "nombre": "acelga x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 33.56
+    "ean": "7790895003295",
+    "nombre": "agua saborizada aquarius cepita pera x 2.25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3039.0,
+    "precio_hoy": 4050.0,
+    "diff_abs": 1011.0,
+    "diff_pct": 33.27
   },
   {
-    "ean": "7790398100132",
-    "nombre": "queso rallado la paulina x 150 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3994.0,
-    "precio_hoy": 5153.0,
-    "diff_abs": 1159.0,
-    "diff_pct": 29.02
+    "ean": "7790895003318",
+    "nombre": "agua saborizada aquarius cepita uva x 2.25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3039.0,
+    "precio_hoy": 4050.0,
+    "diff_abs": 1011.0,
+    "diff_pct": 33.27
   },
   {
-    "ean": "2022040000008",
-    "nombre": "repollo blanco x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
+    "ean": "7790895640025",
+    "nombre": "powerade x 500 ml mountain blast",
+    "categoria": "Bebidas",
+    "precio_antes": 1569.0,
+    "precio_hoy": 2090.0,
+    "diff_abs": 521.0,
+    "diff_pct": 33.21
   },
   {
-    "ean": "2021780000002",
-    "nombre": "perejil x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
+    "ean": "7790895648687",
+    "nombre": "powerade uva x 500 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1569.0,
+    "precio_hoy": 2090.0,
+    "diff_abs": 521.0,
+    "diff_pct": 33.21
   },
   {
-    "ean": "7790398000272",
-    "nombre": "crema de leche la paulina x 350 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3300.0,
-    "precio_hoy": 4109.0,
-    "diff_abs": 809.0,
+    "ean": "7790895641183",
+    "nombre": "powerade frutas topicales x 500 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1569.0,
+    "precio_hoy": 2090.0,
+    "diff_abs": 521.0,
+    "diff_pct": 33.21
+  },
+  {
+    "ean": "7790895640032",
+    "nombre": "powerade naranja x 500 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1569.0,
+    "precio_hoy": 2090.0,
+    "diff_abs": 521.0,
+    "diff_pct": 33.21
+  },
+  {
+    "ean": "7790895640018",
+    "nombre": "powerade manzana x 500 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1569.0,
+    "precio_hoy": 2090.0,
+    "diff_abs": 521.0,
+    "diff_pct": 33.21
+  },
+  {
+    "ean": "7790895643804",
+    "nombre": "ades x1lt.anana",
+    "categoria": "Bebidas",
+    "precio_antes": 2459.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 810.0,
+    "diff_pct": 32.94
+  },
+  {
+    "ean": "7790895643842",
+    "nombre": "alimento de soja ades naranja x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2459.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 810.0,
+    "diff_pct": 32.94
+  },
+  {
+    "ean": "7790895643835",
+    "nombre": "alimento de soja ades manzana x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2459.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 810.0,
+    "diff_pct": 32.94
+  },
+  {
+    "ean": "7790895643828",
+    "nombre": "alimento de soja ades durazno x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2459.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 810.0,
+    "diff_pct": 32.94
+  },
+  {
+    "ean": "7790895643866",
+    "nombre": "alimento de soja ades frutas tropicales x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2459.0,
+    "precio_hoy": 3269.0,
+    "diff_abs": 810.0,
+    "diff_pct": 32.94
+  },
+  {
+    "ean": "7790895003875",
+    "nombre": "agua mineral bonaqua x 1,5 ml. sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1839.0,
+    "precio_hoy": 2290.0,
+    "diff_abs": 451.0,
     "diff_pct": 24.52
   },
   {
-    "ean": "7794990186273",
-    "nombre": "crema de leche la paulina para cocinar pote x 200 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2125.0,
-    "precio_hoy": 2600.0,
-    "diff_abs": 475.0,
-    "diff_pct": 22.35
+    "ean": "7790895003950",
+    "nombre": "agua bonaqua x 1,5 lt. con gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1839.0,
+    "precio_hoy": 2290.0,
+    "diff_abs": 451.0,
+    "diff_pct": 24.52
   },
   {
-    "ean": "7790398000265",
-    "nombre": "crema de leche la paulina x 200 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2014.0,
-    "precio_hoy": 2464.0,
-    "diff_abs": 450.0,
-    "diff_pct": 22.34
+    "ean": "7790895647659",
+    "nombre": "agua benedictino x 1.5 litros sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1679.0,
+    "precio_hoy": 2090.0,
+    "diff_abs": 411.0,
+    "diff_pct": 24.48
   },
   {
-    "ean": "7790272008394",
-    "nombre": "aceite de oliva natura suave x 500 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 12999.0,
-    "precio_hoy": 15900.0,
-    "diff_abs": 2901.0,
-    "diff_pct": 22.32
+    "ean": "7798422620021",
+    "nombre": "energizante monster x 473 ml ultra",
+    "categoria": "Bebidas",
+    "precio_antes": 2629.0,
+    "precio_hoy": 3090.0,
+    "diff_abs": 461.0,
+    "diff_pct": 17.54
   },
   {
-    "ean": "7790272008417",
-    "nombre": "aceite de oliva natura fuerte x 500 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 12999.0,
-    "precio_hoy": 15900.0,
-    "diff_abs": 2901.0,
-    "diff_pct": 22.32
+    "ean": "7798422620045",
+    "nombre": "energizante monster x 473 ml mango loco",
+    "categoria": "Bebidas",
+    "precio_antes": 2629.0,
+    "precio_hoy": 3090.0,
+    "diff_abs": 461.0,
+    "diff_pct": 17.54
   },
   {
-    "ean": "7790272008387",
-    "nombre": "aceite de oliva natura andino x 500 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 15199.0,
-    "precio_hoy": 18550.0,
-    "diff_abs": 3351.0,
-    "diff_pct": 22.05
-  },
-  {
-    "ean": "7794990876570",
-    "nombre": "queso en hebras la paulina mini x 80 gr. cuatro qu",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2316.0,
-    "precio_hoy": 2821.0,
-    "diff_abs": 505.0,
-    "diff_pct": 21.8
-  },
-  {
-    "ean": "2017470000001",
-    "nombre": "queso gouda la paulina x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 19453.0,
-    "precio_hoy": 23621.0,
-    "diff_abs": 4168.0,
-    "diff_pct": 21.43
-  },
-  {
-    "ean": "7790398100644",
-    "nombre": "leche en polvo la paulina entera x 800 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 11127.0,
-    "precio_hoy": 13455.0,
-    "diff_abs": 2328.0,
-    "diff_pct": 20.92
-  },
-  {
-    "ean": "2016040000007",
-    "nombre": "queso fontina la paulina x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 24305.0,
-    "precio_hoy": 29377.0,
-    "diff_abs": 5072.0,
-    "diff_pct": 20.87
-  },
-  {
-    "ean": "2026780000007",
-    "nombre": "queso sardo la paulina trozado x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 34587.0,
-    "precio_hoy": 41585.0,
-    "diff_abs": 6998.0,
-    "diff_pct": 20.23
-  },
-  {
-    "ean": "7794990880003",
-    "nombre": "queso rallado la paulina x 450 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 12821.0,
-    "precio_hoy": 15410.0,
-    "diff_abs": 2589.0,
-    "diff_pct": 20.19
-  },
-  {
-    "ean": "2017360000005",
-    "nombre": "queso sardo la paulina x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 26878.0,
-    "precio_hoy": 32277.0,
-    "diff_abs": 5399.0,
-    "diff_pct": 20.09
-  },
-  {
-    "ean": "7794990879823",
-    "nombre": "queso untable la paulina 4 quesos x 190 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2102.0,
-    "precio_hoy": 2503.0,
-    "diff_abs": 401.0,
-    "diff_pct": 19.08
+    "ean": "7798422620120",
+    "nombre": "energizante monster x 473 ml pepeline",
+    "categoria": "Bebidas",
+    "precio_antes": 2629.0,
+    "precio_hoy": 3090.0,
+    "diff_abs": 461.0,
+    "diff_pct": 17.54
   }
 ]
