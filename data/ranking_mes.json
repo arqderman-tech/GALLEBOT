@@ -12,10 +12,10 @@
     "ean": "2022220000002",
     "nombre": "tomate redondo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1190.0,
+    "precio_antes": 990.0,
     "precio_hoy": 4990.0,
-    "diff_abs": 3800.0,
-    "diff_pct": 319.33
+    "diff_abs": 4000.0,
+    "diff_pct": 404.04
   },
   {
     "ean": "2021550000003",
@@ -54,15 +54,6 @@
     "diff_pct": 106.8
   },
   {
-    "ean": "7622201704148",
-    "nombre": "jugo en polvo clight mandarina x 8 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 309.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 330.0,
-    "diff_pct": 106.8
-  },
-  {
     "ean": "7622201703059",
     "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
     "categoria": "Bebidas",
@@ -72,8 +63,17 @@
     "diff_pct": 106.8
   },
   {
-    "ean": "7622201745936",
-    "nombre": "jugo tang durazno x15gr.",
+    "ean": "7622201704148",
+    "nombre": "jugo en polvo clight mandarina x 8 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 309.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 330.0,
+    "diff_pct": 106.8
+  },
+  {
+    "ean": "7622201746490",
+    "nombre": "jugo en polvo tang x 15 gr. frutilla",
     "categoria": "Bebidas",
     "precio_antes": 299.0,
     "precio_hoy": 611.0,
@@ -90,8 +90,8 @@
     "diff_pct": 104.35
   },
   {
-    "ean": "7622201746490",
-    "nombre": "jugo en polvo tang x 15 gr. frutilla",
+    "ean": "7622201745936",
+    "nombre": "jugo tang durazno x15gr.",
     "categoria": "Bebidas",
     "precio_antes": 299.0,
     "precio_hoy": 611.0,

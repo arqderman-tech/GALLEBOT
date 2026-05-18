@@ -1,23 +1,5 @@
 [
   {
-    "ean": "7792360094586",
-    "nombre": "chocolate vizzio con almendras x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3699.0,
-    "precio_hoy": 5965.0,
-    "diff_abs": 2266.0,
-    "diff_pct": 61.26
-  },
-  {
-    "ean": "7792360094418",
-    "nombre": "chocolate blanco bonafide x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2899.0,
-    "precio_hoy": 4620.0,
-    "diff_abs": 1721.0,
-    "diff_pct": 59.37
-  },
-  {
     "ean": "7791866000572",
     "nombre": "mayonesa cada dia liviana x 500 gr.",
     "categoria": "Almacen",
@@ -27,21 +9,21 @@
     "diff_pct": 52.71
   },
   {
-    "ean": "7797906054918",
-    "nombre": "papas mc cain noisette x 1.2 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 13299.0,
-    "precio_hoy": 18999.0,
-    "diff_abs": 5700.0,
-    "diff_pct": 42.86
-  },
-  {
     "ean": "7797906054956",
     "nombre": "papas congeladas mc cain smiles x 700 gr.",
     "categoria": "Congelados",
     "precio_antes": 8819.0,
     "precio_hoy": 12599.0,
     "diff_abs": 3780.0,
+    "diff_pct": 42.86
+  },
+  {
+    "ean": "7797906054918",
+    "nombre": "papas mc cain noisette x 1.2 kg.",
+    "categoria": "Congelados",
+    "precio_antes": 13299.0,
+    "precio_hoy": 18999.0,
+    "diff_abs": 5700.0,
     "diff_pct": 42.86
   },
   {
@@ -81,16 +63,7 @@
     "diff_pct": 41.05
   },
   {
-    "ean": "7797394001265",
-    "nombre": "pastillas tic tac mix de frutas x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 499.0,
-    "precio_hoy": 699.0,
-    "diff_abs": 200.0,
-    "diff_pct": 40.08
-  },
-  {
-    "ean": "7794990184507",
+    "ean": "7794990184491",
     "nombre": "queso untable ricrem clasico x 180 gr",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 1668.0,
@@ -144,8 +117,8 @@
     "diff_pct": 33.36
   },
   {
-    "ean": "7790895001017",
-    "nombre": "gaseosa naranja fanta x 2,25 lt.",
+    "ean": "7790895001000",
+    "nombre": "gaseosa lima limon sprite x 2.25 lt.",
     "categoria": "Bebidas",
     "precio_antes": 3639.0,
     "precio_hoy": 4850.0,
@@ -162,6 +135,15 @@
     "diff_pct": 33.28
   },
   {
+    "ean": "7790895001017",
+    "nombre": "gaseosa naranja fanta x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3639.0,
+    "precio_hoy": 4850.0,
+    "diff_abs": 1211.0,
+    "diff_pct": 33.28
+  },
+  {
     "ean": "7790895001031",
     "nombre": "gaseosa fanta limon x 2.25 lt.",
     "categoria": "Bebidas",
@@ -171,12 +153,30 @@
     "diff_pct": 33.28
   },
   {
-    "ean": "7790895001000",
-    "nombre": "gaseosa lima limon sprite x 2.25 lt.",
+    "ean": "7790895003318",
+    "nombre": "agua saborizada aquarius cepita uva x 2.25 lt.",
     "categoria": "Bebidas",
-    "precio_antes": 3639.0,
-    "precio_hoy": 4850.0,
-    "diff_abs": 1211.0,
-    "diff_pct": 33.28
+    "precio_antes": 3039.0,
+    "precio_hoy": 4050.0,
+    "diff_abs": 1011.0,
+    "diff_pct": 33.27
+  },
+  {
+    "ean": "7790895003295",
+    "nombre": "agua saborizada aquarius cepita pera x 2.25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3039.0,
+    "precio_hoy": 4050.0,
+    "diff_abs": 1011.0,
+    "diff_pct": 33.27
+  },
+  {
+    "ean": "7790895003325",
+    "nombre": "agua saborizada aquarius cepita naranja x 2.25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3039.0,
+    "precio_hoy": 4050.0,
+    "diff_abs": 1011.0,
+    "diff_pct": 33.27
   }
 ]

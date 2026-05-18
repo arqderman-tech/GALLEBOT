@@ -1,22 +1,22 @@
 {
-  "fecha": "20260517",
+  "fecha": "20260518",
   "total_productos": 5791,
-  "variacion_dia": 0.18,
-  "variacion_7d": 0.73,
-  "variacion_mes": 3.86,
+  "variacion_dia": -0.04,
+  "variacion_7d": 0.68,
+  "variacion_mes": 4.14,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.54,
-      "productos_subieron": 27,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": -0.2,
+      "productos_subieron": 0,
+      "productos_bajaron": 13,
       "total_productos": 1310
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.27,
-      "productos_subieron": 32,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "total_productos": 1110
     },
@@ -36,8 +36,8 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.03,
-      "productos_subieron": 2,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "total_productos": 857
     },
@@ -51,97 +51,97 @@
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2015610000003",
-      "nombre": "salamin tipo crespon paladini x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 29635.0,
-      "precio_hoy": 29635.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895010088",
+      "nombre": "gaseosa schweppes zero x 1.5 lt. pomelo",
+      "categoria": "Bebidas",
+      "precio_antes": 3590.0,
+      "precio_hoy": 2699.0,
+      "diff_abs": -891.0,
+      "diff_pct": -24.82
     },
     {
-      "ean": "7790079010835",
-      "nombre": "salchichas paladini x 12 unidades de viena",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4845.0,
-      "precio_hoy": 4845.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895000447",
+      "nombre": "gaseosa sprite x 1.5 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 3590.0,
+      "precio_hoy": 2699.0,
+      "diff_abs": -891.0,
+      "diff_pct": -24.82
     },
     {
-      "ean": "7790360026002",
-      "nombre": "salchichas la blanca x6 190g",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1299.0,
-      "precio_hoy": 1299.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895006722",
+      "nombre": "gaseosa schweppes citrus x 1.5 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 3590.0,
+      "precio_hoy": 2699.0,
+      "diff_abs": -891.0,
+      "diff_pct": -24.82
     },
     {
-      "ean": "7798164602880",
-      "nombre": "salchichas granja iris x 12 unid.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 5021.0,
-      "precio_hoy": 5021.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895002304",
+      "nombre": "gaseosa naranja fanta zero x 1,5 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 3590.0,
+      "precio_hoy": 2699.0,
+      "diff_abs": -891.0,
+      "diff_pct": -24.82
     },
     {
-      "ean": "7798164602606",
-      "nombre": "salchichas granja iris clasicas x 6 unid.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2766.0,
-      "precio_hoy": 2766.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895064173",
+      "nombre": "gaseosa lima limon sprite zero x 1.5 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 3590.0,
+      "precio_hoy": 2699.0,
+      "diff_abs": -891.0,
+      "diff_pct": -24.82
     },
     {
-      "ean": "7790079000317",
-      "nombre": "salchichas fela x 6 unidades",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1650.0,
-      "precio_hoy": 1650.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895001451",
+      "nombre": "coca-cola light x 1,5 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 3590.0,
+      "precio_hoy": 2699.0,
+      "diff_abs": -891.0,
+      "diff_pct": -24.82
     },
     {
-      "ean": "7790625010401",
-      "nombre": "salchichas 66 x 6 unid.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1249.0,
-      "precio_hoy": 1249.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895067556",
+      "nombre": "gaseosa coca cola sin azucar x 1.5 lts.",
+      "categoria": "Bebidas",
+      "precio_antes": 3590.0,
+      "precio_hoy": 2699.0,
+      "diff_abs": -891.0,
+      "diff_pct": -24.82
     },
     {
-      "ean": "7790670052401",
-      "nombre": "salchicha vienissima x 6 unid.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2469.0,
-      "precio_hoy": 2469.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895648014",
+      "nombre": "gaseosa agua tonica schweppes zero x 1.5 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 3590.0,
+      "precio_hoy": 2699.0,
+      "diff_abs": -891.0,
+      "diff_pct": -24.82
     },
     {
-      "ean": "7790670052418",
-      "nombre": "salchicha vienissima x 12 unid.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4399.0,
-      "precio_hoy": 4399.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895006715",
+      "nombre": "agua tonica schweppes x 1.5 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 3590.0,
+      "precio_hoy": 2699.0,
+      "diff_abs": -891.0,
+      "diff_pct": -24.82
     },
     {
-      "ean": "7790670052975",
-      "nombre": "salchicha vienissima picantes x 6 unid.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3389.0,
-      "precio_hoy": 3389.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895067617",
+      "nombre": "gaseosa coca cola sin azucar x 2 lt. retornable",
+      "categoria": "Bebidas",
+      "precio_antes": 3490.0,
+      "precio_hoy": 3149.0,
+      "diff_abs": -341.0,
+      "diff_pct": -9.77
     }
   ],
-  "productos_subieron_dia": 61,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 5729
+  "productos_subieron_dia": 0,
+  "productos_bajaron_dia": 13,
+  "productos_sin_cambio_dia": 5777
 }
