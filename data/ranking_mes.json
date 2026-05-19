@@ -27,8 +27,17 @@
     "diff_pct": 286.82
   },
   {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "ean": "2022130000000",
+    "nombre": "tomate cherry x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 5000.0,
+    "diff_pct": 167.22
+  },
+  {
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2209.0,
     "precio_hoy": 5332.0,
@@ -36,8 +45,8 @@
     "diff_pct": 141.38
   },
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2209.0,
     "precio_hoy": 5332.0,
@@ -72,6 +81,51 @@
     "diff_pct": 106.8
   },
   {
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
+  },
+  {
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
+  },
+  {
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
+  },
+  {
+    "ean": "7791337010468",
+    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
+  },
+  {
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
+  },
+  {
     "ean": "7622201746490",
     "nombre": "jugo en polvo tang x 15 gr. frutilla",
     "categoria": "Bebidas",
@@ -99,15 +153,6 @@
     "diff_pct": 104.35
   },
   {
-    "ean": "2022130000000",
-    "nombre": "tomate cherry x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 100.33
-  },
-  {
     "ean": "2020370000002",
     "nombre": "chaucha rolliza x kg.",
     "categoria": "Frutas Y Verduras",
@@ -126,57 +171,12 @@
     "diff_pct": 78.74
   },
   {
-    "ean": "2022210000005",
-    "nombre": "tomate perita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 3490.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 75.38
-  },
-  {
-    "ean": "2022300000007",
-    "nombre": "uvas rosadas x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 75.19
-  },
-  {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 75.19
-  },
-  {
-    "ean": "77969118",
-    "nombre": "chicle beldent frutilla x10gr.",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1286.0,
-    "diff_abs": 517.0,
-    "diff_pct": 67.23
-  },
-  {
-    "ean": "7792798013975",
-    "nombre": "cerveza stella artois lata x 710 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 3239.0,
-    "precio_hoy": 5400.0,
-    "diff_abs": 2161.0,
-    "diff_pct": 66.72
-  },
-  {
-    "ean": "7898024397861",
-    "nombre": "bombones ferrero rocher x 50 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3469.0,
-    "precio_hoy": 5697.0,
-    "diff_abs": 2228.0,
-    "diff_pct": 64.23
+    "ean": "7791337061361",
+    "nombre": "queso crema casancrem x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3299.0,
+    "precio_hoy": 5852.0,
+    "diff_abs": 2553.0,
+    "diff_pct": 77.39
   }
 ]
