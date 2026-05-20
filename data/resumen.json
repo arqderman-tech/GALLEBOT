@@ -1,31 +1,31 @@
 {
-  "fecha": "20260519",
-  "total_productos": 5788,
-  "variacion_dia": 1.1,
-  "variacion_7d": 1.23,
-  "variacion_mes": 5.07,
+  "fecha": "20260520",
+  "total_productos": 5776,
+  "variacion_dia": -0.33,
+  "variacion_7d": 0.72,
+  "variacion_mes": 4.58,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.88,
-      "productos_subieron": 75,
-      "productos_bajaron": 23,
+      "variacion_pct_promedio": -0.27,
+      "productos_subieron": 8,
+      "productos_bajaron": 47,
       "total_productos": 1308
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 3.68,
-      "productos_subieron": 298,
-      "productos_bajaron": 19,
-      "total_productos": 1110
+      "variacion_pct_promedio": -1.67,
+      "productos_subieron": 4,
+      "productos_bajaron": 93,
+      "total_productos": 1108
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 2.85,
-      "productos_subieron": 54,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 211
+      "total_productos": 212
     },
     {
       "categoria": "Limpieza",
@@ -36,112 +36,112 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.13,
-      "productos_subieron": 12,
-      "productos_bajaron": 2,
-      "total_productos": 852
+      "variacion_pct_promedio": -0.17,
+      "productos_subieron": 3,
+      "productos_bajaron": 19,
+      "total_productos": 846
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.24,
-      "productos_subieron": 41,
-      "productos_bajaron": 0,
-      "total_productos": 1590
+      "variacion_pct_promedio": 0.28,
+      "productos_subieron": 17,
+      "productos_bajaron": 1,
+      "total_productos": 1588
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7792798001972",
-      "nombre": "cerveza lata patagonia x 473 ml 24.7",
-      "categoria": "Bebidas",
-      "precio_antes": 4500.0,
-      "precio_hoy": 2699.0,
-      "diff_abs": -1801.0,
-      "diff_pct": -40.02
+      "ean": "7791337010369",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2209.0,
+      "diff_abs": -2298.0,
+      "diff_pct": -50.99
     },
     {
-      "ean": "7792798001965",
-      "nombre": "cerveza patagonia amber lager lata x 473 ml",
-      "categoria": "Bebidas",
-      "precio_antes": 4500.0,
-      "precio_hoy": 2699.0,
-      "diff_abs": -1801.0,
-      "diff_pct": -40.02
+      "ean": "7791337007253",
+      "nombre": "leche chocolatada cindor x 1 lt.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 7510.0,
+      "precio_hoy": 3809.0,
+      "diff_abs": -3701.0,
+      "diff_pct": -49.28
     },
     {
-      "ean": "7792798013975",
-      "nombre": "cerveza stella artois lata x 710 ml",
-      "categoria": "Bebidas",
-      "precio_antes": 5400.0,
-      "precio_hoy": 3509.0,
-      "diff_abs": -1891.0,
-      "diff_pct": -35.02
+      "ean": "7791337010475",
+      "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2289.0,
+      "diff_abs": -2218.0,
+      "diff_pct": -49.21
     },
     {
-      "ean": "7792798013470",
-      "nombre": "cerveza stella artois 0 a?a? x 330 ml",
-      "categoria": "Bebidas",
-      "precio_antes": 3000.0,
-      "precio_hoy": 2069.0,
-      "diff_abs": -931.0,
-      "diff_pct": -31.03
+      "ean": "7791337010215",
+      "nombre": "yogur ls.clas.ent.sh x900g.fru",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2289.0,
+      "diff_abs": -2218.0,
+      "diff_pct": -49.21
     },
     {
-      "ean": "7792798015061",
-      "nombre": "cerveza brahma x 710 ml",
-      "categoria": "Bebidas",
-      "precio_antes": 3600.0,
-      "precio_hoy": 2519.07,
-      "diff_abs": -1080.93,
-      "diff_pct": -30.03
+      "ean": "7791337010468",
+      "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2289.0,
+      "diff_abs": -2218.0,
+      "diff_pct": -49.21
     },
     {
-      "ean": "7501064198847",
-      "nombre": "cerveza corona x 330 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 3650.0,
-      "precio_hoy": 2709.0,
-      "diff_abs": -941.0,
-      "diff_pct": -25.78
+      "ean": "7791337010376",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2289.0,
+      "diff_abs": -2218.0,
+      "diff_pct": -49.21
     },
     {
-      "ean": "2020410000009",
-      "nombre": "choclo elegido x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 7990.0,
-      "precio_hoy": 5990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -25.03
+      "ean": "7791337007796",
+      "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 7510.0,
+      "precio_hoy": 3819.0,
+      "diff_abs": -3691.0,
+      "diff_pct": -49.15
     },
     {
-      "ean": "7792798007493",
-      "nombre": "cerveza brahma chopp x 1 lt. retornable",
-      "categoria": "Bebidas",
-      "precio_antes": 4400.0,
-      "precio_hoy": 3299.0,
-      "diff_abs": -1101.0,
-      "diff_pct": -25.02
+      "ean": "7791337007260",
+      "nombre": "leche chocolatada cindor x 200 ml.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2701.0,
+      "precio_hoy": 1509.0,
+      "diff_abs": -1192.0,
+      "diff_pct": -44.13
     },
     {
-      "ean": "7792798005888",
-      "nombre": "cerveza brahma lata x 473 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 2500.0,
-      "precio_hoy": 1879.0,
-      "diff_abs": -621.0,
-      "diff_pct": -24.84
+      "ean": "7791337061385",
+      "nombre": "queso crema casancrem balance x 290 gm",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5852.0,
+      "precio_hoy": 3319.0,
+      "diff_abs": -2533.0,
+      "diff_pct": -43.28
     },
     {
-      "ean": "7792798015290",
-      "nombre": "cerveza quilmes bajo cero x 473 ml",
-      "categoria": "Bebidas",
-      "precio_antes": 1800.0,
-      "precio_hoy": 1495.55,
-      "diff_abs": -304.45,
-      "diff_pct": -16.91
+      "ean": "7791337061361",
+      "nombre": "queso crema casancrem x 290 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5852.0,
+      "precio_hoy": 3319.0,
+      "diff_abs": -2533.0,
+      "diff_pct": -43.28
     }
   ],
-  "productos_subieron_dia": 480,
-  "productos_bajaron_dia": 44,
-  "productos_sin_cambio_dia": 5248
+  "productos_subieron_dia": 32,
+  "productos_bajaron_dia": 160,
+  "productos_sin_cambio_dia": 5571
 }

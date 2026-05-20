@@ -1,77 +1,5 @@
 [
   {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2508.0,
-    "diff_pct": 125.46
-  },
-  {
-    "ean": "7791337010468",
-    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2508.0,
-    "diff_pct": 125.46
-  },
-  {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2508.0,
-    "diff_pct": 125.46
-  },
-  {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2508.0,
-    "diff_pct": 125.46
-  },
-  {
-    "ean": "7791337010369",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2508.0,
-    "diff_pct": 125.46
-  },
-  {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3719.0,
-    "precio_hoy": 7510.0,
-    "diff_abs": 3791.0,
-    "diff_pct": 101.94
-  },
-  {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3719.0,
-    "precio_hoy": 7510.0,
-    "diff_abs": 3791.0,
-    "diff_pct": 101.94
-  },
-  {
-    "ean": "7791337007260",
-    "nombre": "leche chocolatada cindor x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1339.0,
-    "precio_hoy": 2701.0,
-    "diff_abs": 1362.0,
-    "diff_pct": 101.72
-  },
-  {
     "ean": "7791337008403",
     "nombre": "leche chocolatada la serenisima x 1 lt.",
     "categoria": "Lacteos Y Frescos",
@@ -88,24 +16,6 @@
     "precio_hoy": 1804.0,
     "diff_abs": 905.0,
     "diff_pct": 100.67
-  },
-  {
-    "ean": "7791337060944",
-    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5852.0,
-    "diff_abs": 2553.0,
-    "diff_pct": 77.39
-  },
-  {
-    "ean": "7791337061361",
-    "nombre": "queso crema casancrem x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5852.0,
-    "diff_abs": 2553.0,
-    "diff_pct": 77.39
   },
   {
     "ean": "7792798002399",
@@ -126,57 +36,147 @@
     "diff_pct": 66.78
   },
   {
-    "ean": "7799155000197",
-    "nombre": "agua mineral villavicencio x 2 litros sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1999.0,
-    "precio_hoy": 3177.0,
-    "diff_abs": 1178.0,
-    "diff_pct": 58.93
+    "ean": "78600010",
+    "nombre": "pastillas tic tac menta x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 699.0,
+    "precio_hoy": 1101.0,
+    "diff_abs": 402.0,
+    "diff_pct": 57.51
   },
   {
-    "ean": "7791337061439",
-    "nombre": "queso untable la serenisima light x 290 gr.",
+    "ean": "7797394001265",
+    "nombre": "pastillas tic tac mix de frutas x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 699.0,
+    "precio_hoy": 1101.0,
+    "diff_abs": 402.0,
+    "diff_pct": 57.51
+  },
+  {
+    "ean": "78600027",
+    "nombre": "pastillas tic tac naranja x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 699.0,
+    "precio_hoy": 1101.0,
+    "diff_abs": 402.0,
+    "diff_pct": 57.51
+  },
+  {
+    "ean": "7791866000572",
+    "nombre": "mayonesa cada dia liviana x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1199.0,
+    "precio_hoy": 1831.0,
+    "diff_abs": 632.0,
+    "diff_pct": 52.71
+  },
+  {
+    "ean": "7790670050674",
+    "nombre": "hamburguesas paty x 2 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 3059.0,
+    "precio_hoy": 4662.0,
+    "diff_abs": 1603.0,
+    "diff_pct": 52.4
+  },
+  {
+    "ean": "7790670050780",
+    "nombre": "hamburguesas paty clasico x 20 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 27399.0,
+    "precio_hoy": 41604.0,
+    "diff_abs": 14205.0,
+    "diff_pct": 51.84
+  },
+  {
+    "ean": "7790139100582",
+    "nombre": "salsa chimichurri casalta x 300 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3046.83,
+    "precio_hoy": 4625.0,
+    "diff_abs": 1578.17,
+    "diff_pct": 51.8
+  },
+  {
+    "ean": "7790139100575",
+    "nombre": "salsa barbacoa casalta x 350 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3469.12,
+    "precio_hoy": 5254.0,
+    "diff_abs": 1784.88,
+    "diff_pct": 51.45
+  },
+  {
+    "ean": "7792798013388",
+    "nombre": "cerveza quilmes ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1749.0,
+    "precio_hoy": 2613.0,
+    "diff_abs": 864.0,
+    "diff_pct": 49.4
+  },
+  {
+    "ean": "7792798012923",
+    "nombre": "cerveza quilmes lata x 473 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 1679.0,
+    "precio_hoy": 2500.0,
+    "diff_abs": 821.0,
+    "diff_pct": 48.9
+  },
+  {
+    "ean": "7791337007918",
+    "nombre": "alimento liquido silk almendra x 1lt sin azucar .",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2599.0,
-    "precio_hoy": 4095.0,
-    "diff_abs": 1496.0,
-    "diff_pct": 57.56
+    "precio_antes": 4029.0,
+    "precio_hoy": 5992.0,
+    "diff_abs": 1963.0,
+    "diff_pct": 48.72
   },
   {
-    "ean": "7791337061422",
-    "nombre": "queso crema la serenisima x 290 gm entero",
+    "ean": "7791337007949",
+    "nombre": "leche de almendras silk sin azucar x 1 lt. vainila",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2599.0,
-    "precio_hoy": 4095.0,
-    "diff_abs": 1496.0,
-    "diff_pct": 57.56
+    "precio_antes": 4029.0,
+    "precio_hoy": 5992.0,
+    "diff_abs": 1963.0,
+    "diff_pct": 48.72
   },
   {
-    "ean": "7798062547559",
-    "nombre": "agua mineral sin gas villa del sur x 2,25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1699.0,
-    "precio_hoy": 2640.0,
-    "diff_abs": 941.0,
-    "diff_pct": 55.39
+    "ean": "7791337010161",
+    "nombre": "alimento liquido silk almendra x 1 litro mocha",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4029.0,
+    "precio_hoy": 5992.0,
+    "diff_abs": 1963.0,
+    "diff_pct": 48.72
   },
   {
-    "ean": "7799155001408",
-    "nombre": "agua saborizada levite  x 2.25 litros pomelo rosado",
-    "categoria": "Bebidas",
-    "precio_antes": 2499.0,
-    "precio_hoy": 3866.0,
-    "diff_abs": 1367.0,
-    "diff_pct": 54.7
+    "ean": "7791337007932",
+    "nombre": "alimento liquido silk x 1 litro coco sin azucar",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4029.0,
+    "precio_hoy": 5992.0,
+    "diff_abs": 1963.0,
+    "diff_pct": 48.72
   },
   {
-    "ean": "7790315001085",
-    "nombre": "agua saborizada vds levite cero manzana x 2.25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2499.0,
-    "precio_hoy": 3866.0,
-    "diff_abs": 1367.0,
-    "diff_pct": 54.7
+    "ean": "7791337007901",
+    "nombre": "alimento liquido silk x 1 litro almendras endulzado",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4029.0,
+    "precio_hoy": 5992.0,
+    "diff_abs": 1963.0,
+    "diff_pct": 48.72
+  },
+  {
+    "ean": "7791337007956",
+    "nombre": "alimento silk almendras x 1 litro chocolate",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4029.0,
+    "precio_hoy": 5992.0,
+    "diff_abs": 1963.0,
+    "diff_pct": 48.72
   }
 ]
