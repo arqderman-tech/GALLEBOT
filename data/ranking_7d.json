@@ -3,19 +3,28 @@
     "ean": "7791337008403",
     "nombre": "leche chocolatada la serenisima x 1 lt.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2619.0,
+    "precio_antes": 2809.0,
     "precio_hoy": 5271.0,
-    "diff_abs": 2652.0,
-    "diff_pct": 101.26
+    "diff_abs": 2462.0,
+    "diff_pct": 87.65
   },
   {
-    "ean": "7791337008410",
-    "nombre": "leche chocolatada la serenisima x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 899.0,
-    "precio_hoy": 1804.0,
-    "diff_abs": 905.0,
-    "diff_pct": 100.67
+    "ean": "7791540053153",
+    "nombre": "vino frizze",
+    "categoria": "Bebidas",
+    "precio_antes": 1499.0,
+    "precio_hoy": 2693.0,
+    "diff_abs": 1194.0,
+    "diff_pct": 79.65
+  },
+  {
+    "ean": "7791540053160",
+    "nombre": "vino frizze italian limonata x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1499.0,
+    "precio_hoy": 2688.0,
+    "diff_abs": 1189.0,
+    "diff_pct": 79.32
   },
   {
     "ean": "7792798002399",
@@ -36,6 +45,24 @@
     "diff_pct": 66.78
   },
   {
+    "ean": "7791337008410",
+    "nombre": "leche chocolatada la serenisima x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1099.0,
+    "precio_hoy": 1804.0,
+    "diff_abs": 705.0,
+    "diff_pct": 64.15
+  },
+  {
+    "ean": "78600027",
+    "nombre": "pastillas tic tac naranja x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 699.0,
+    "precio_hoy": 1101.0,
+    "diff_abs": 402.0,
+    "diff_pct": 57.51
+  },
+  {
     "ean": "78600010",
     "nombre": "pastillas tic tac menta x 16 gr.",
     "categoria": "Almacen",
@@ -54,24 +81,6 @@
     "diff_pct": 57.51
   },
   {
-    "ean": "78600027",
-    "nombre": "pastillas tic tac naranja x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 699.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 402.0,
-    "diff_pct": 57.51
-  },
-  {
-    "ean": "7791866000572",
-    "nombre": "mayonesa cada dia liviana x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1199.0,
-    "precio_hoy": 1831.0,
-    "diff_abs": 632.0,
-    "diff_pct": 52.71
-  },
-  {
     "ean": "7790670050674",
     "nombre": "hamburguesas paty x 2 unid. clasicas",
     "categoria": "Congelados",
@@ -79,15 +88,6 @@
     "precio_hoy": 4662.0,
     "diff_abs": 1603.0,
     "diff_pct": 52.4
-  },
-  {
-    "ean": "7790670050780",
-    "nombre": "hamburguesas paty clasico x 20 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 27399.0,
-    "precio_hoy": 41604.0,
-    "diff_abs": 14205.0,
-    "diff_pct": 51.84
   },
   {
     "ean": "7790139100582",
@@ -108,6 +108,15 @@
     "diff_pct": 51.45
   },
   {
+    "ean": "7790670050780",
+    "nombre": "hamburguesas paty clasico x 20 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 27699.0,
+    "precio_hoy": 41604.0,
+    "diff_abs": 13905.0,
+    "diff_pct": 50.2
+  },
+  {
     "ean": "7792798013388",
     "nombre": "cerveza quilmes ipa x 473 ml.",
     "categoria": "Bebidas",
@@ -126,26 +135,17 @@
     "diff_pct": 48.9
   },
   {
+    "ean": "7791337007901",
+    "nombre": "alimento liquido silk x 1 litro almendras endulzado",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4029.0,
+    "precio_hoy": 5992.0,
+    "diff_abs": 1963.0,
+    "diff_pct": 48.72
+  },
+  {
     "ean": "7791337007918",
     "nombre": "alimento liquido silk almendra x 1lt sin azucar .",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4029.0,
-    "precio_hoy": 5992.0,
-    "diff_abs": 1963.0,
-    "diff_pct": 48.72
-  },
-  {
-    "ean": "7791337007949",
-    "nombre": "leche de almendras silk sin azucar x 1 lt. vainila",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4029.0,
-    "precio_hoy": 5992.0,
-    "diff_abs": 1963.0,
-    "diff_pct": 48.72
-  },
-  {
-    "ean": "7791337010161",
-    "nombre": "alimento liquido silk almendra x 1 litro mocha",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 4029.0,
     "precio_hoy": 5992.0,
@@ -162,8 +162,8 @@
     "diff_pct": 48.72
   },
   {
-    "ean": "7791337007901",
-    "nombre": "alimento liquido silk x 1 litro almendras endulzado",
+    "ean": "7791337007956",
+    "nombre": "alimento silk almendras x 1 litro chocolate",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 4029.0,
     "precio_hoy": 5992.0,
@@ -171,8 +171,8 @@
     "diff_pct": 48.72
   },
   {
-    "ean": "7791337007956",
-    "nombre": "alimento silk almendras x 1 litro chocolate",
+    "ean": "7791337010161",
+    "nombre": "alimento liquido silk almendra x 1 litro mocha",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 4029.0,
     "precio_hoy": 5992.0,

@@ -1,147 +1,147 @@
 {
-  "fecha": "20260520",
-  "total_productos": 5776,
-  "variacion_dia": -0.33,
-  "variacion_7d": 0.72,
-  "variacion_mes": 4.58,
+  "fecha": "20260521",
+  "total_productos": 5757,
+  "variacion_dia": -0.27,
+  "variacion_7d": 0.31,
+  "variacion_mes": 3.66,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.27,
-      "productos_subieron": 8,
-      "productos_bajaron": 47,
-      "total_productos": 1308
+      "variacion_pct_promedio": -0.4,
+      "productos_subieron": 60,
+      "productos_bajaron": 223,
+      "total_productos": 1307
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -1.67,
-      "productos_subieron": 4,
-      "productos_bajaron": 93,
-      "total_productos": 1108
+      "variacion_pct_promedio": -0.4,
+      "productos_subieron": 14,
+      "productos_bajaron": 68,
+      "total_productos": 1109
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 212
+      "variacion_pct_promedio": 0.06,
+      "productos_subieron": 1,
+      "productos_bajaron": 1,
+      "total_productos": 213
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 701
+      "total_productos": 700
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.17,
-      "productos_subieron": 3,
-      "productos_bajaron": 19,
-      "total_productos": 846
+      "variacion_pct_promedio": -0.7,
+      "productos_subieron": 2,
+      "productos_bajaron": 36,
+      "total_productos": 839
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.28,
-      "productos_subieron": 17,
-      "productos_bajaron": 1,
-      "total_productos": 1588
+      "variacion_pct_promedio": -0.0,
+      "productos_subieron": 88,
+      "productos_bajaron": 103,
+      "total_productos": 1587
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7791337010369",
-      "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2209.0,
-      "diff_abs": -2298.0,
-      "diff_pct": -50.99
+      "ean": "7790936000436",
+      "nombre": "sal tresal x500gr.fina ligh es",
+      "categoria": "Almacen",
+      "precio_antes": 5961.0,
+      "precio_hoy": 1999.0,
+      "diff_abs": -3962.0,
+      "diff_pct": -66.47
     },
     {
-      "ean": "7791337007253",
-      "nombre": "leche chocolatada cindor x 1 lt.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 7510.0,
-      "precio_hoy": 3809.0,
-      "diff_abs": -3701.0,
-      "diff_pct": -49.28
+      "ean": "7791866000510",
+      "nombre": "mostaza natura x 500 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 2394.0,
+      "precio_hoy": 1499.0,
+      "diff_abs": -895.0,
+      "diff_pct": -37.39
     },
     {
-      "ean": "7791337010475",
-      "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2289.0,
-      "diff_abs": -2218.0,
-      "diff_pct": -49.21
+      "ean": "7791866000558",
+      "nombre": "mayonesa cada dia liviana x 250 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 943.0,
+      "precio_hoy": 599.0,
+      "diff_abs": -344.0,
+      "diff_pct": -36.48
     },
     {
-      "ean": "7791337010215",
-      "nombre": "yogur ls.clas.ent.sh x900g.fru",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2289.0,
-      "diff_abs": -2218.0,
-      "diff_pct": -49.21
+      "ean": "7791866000664",
+      "nombre": "ketchup natura x 500 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 3567.0,
+      "precio_hoy": 2299.0,
+      "diff_abs": -1268.0,
+      "diff_pct": -35.55
     },
     {
-      "ean": "7791337010468",
-      "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2289.0,
-      "diff_abs": -2218.0,
-      "diff_pct": -49.21
+      "ean": "7791866000572",
+      "nombre": "mayonesa cada dia liviana x 500 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1831.0,
+      "precio_hoy": 1199.0,
+      "diff_abs": -632.0,
+      "diff_pct": -34.52
     },
     {
-      "ean": "7791337010376",
-      "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2289.0,
-      "diff_abs": -2218.0,
-      "diff_pct": -49.21
+      "ean": "7791866004211",
+      "nombre": "mostaza natura x 250 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1214.0,
+      "precio_hoy": 799.0,
+      "diff_abs": -415.0,
+      "diff_pct": -34.18
     },
     {
-      "ean": "7791337007796",
-      "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 7510.0,
-      "precio_hoy": 3819.0,
-      "diff_abs": -3691.0,
-      "diff_pct": -49.15
+      "ean": "7791866000381",
+      "nombre": "ketchup natura x 250 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1814.0,
+      "precio_hoy": 1199.0,
+      "diff_abs": -615.0,
+      "diff_pct": -33.9
     },
     {
-      "ean": "7791337007260",
-      "nombre": "leche chocolatada cindor x 200 ml.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2701.0,
-      "precio_hoy": 1509.0,
-      "diff_abs": -1192.0,
-      "diff_pct": -44.13
+      "ean": "7790040144095",
+      "nombre": "gall.traviatas x540gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2790.0,
+      "precio_hoy": 1899.0,
+      "diff_abs": -891.0,
+      "diff_pct": -31.94
     },
     {
-      "ean": "7791337061385",
-      "nombre": "queso crema casancrem balance x 290 gm",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 5852.0,
-      "precio_hoy": 3319.0,
-      "diff_abs": -2533.0,
-      "diff_pct": -43.28
+      "ean": "7790040144088",
+      "nombre": "gall.traviatas 3x118gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 1833.0,
+      "precio_hoy": 1249.0,
+      "diff_abs": -584.0,
+      "diff_pct": -31.86
     },
     {
-      "ean": "7791337061361",
-      "nombre": "queso crema casancrem x 290 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 5852.0,
-      "precio_hoy": 3319.0,
-      "diff_abs": -2533.0,
-      "diff_pct": -43.28
+      "ean": "7790040143005",
+      "nombre": "gall.media tarde sand.x321gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 1862.0,
+      "precio_hoy": 1279.0,
+      "diff_abs": -583.0,
+      "diff_pct": -31.31
     }
   ],
-  "productos_subieron_dia": 32,
-  "productos_bajaron_dia": 160,
-  "productos_sin_cambio_dia": 5571
+  "productos_subieron_dia": 165,
+  "productos_bajaron_dia": 431,
+  "productos_sin_cambio_dia": 5159
 }

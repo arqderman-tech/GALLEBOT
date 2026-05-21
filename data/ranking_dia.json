@@ -1,182 +1,182 @@
 [
   {
-    "ean": "78600010",
-    "nombre": "pastillas tic tac menta x 16 gr.",
+    "ean": "7791540053153",
+    "nombre": "vino frizze",
+    "categoria": "Bebidas",
+    "precio_antes": 1499.0,
+    "precio_hoy": 2693.0,
+    "diff_abs": 1194.0,
+    "diff_pct": 79.65
+  },
+  {
+    "ean": "7791540053160",
+    "nombre": "vino frizze italian limonata x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1499.0,
+    "precio_hoy": 2688.0,
+    "diff_abs": 1189.0,
+    "diff_pct": 79.32
+  },
+  {
+    "ean": "7791540052057",
+    "nombre": "vino tinto el que rie ultimo rie mejor x 750 ml. b",
+    "categoria": "Bebidas",
+    "precio_antes": 6999.0,
+    "precio_hoy": 10168.0,
+    "diff_abs": 3169.0,
+    "diff_pct": 45.28
+  },
+  {
+    "ean": "7797906054833",
+    "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 5649.0,
+    "precio_hoy": 8071.0,
+    "diff_abs": 2422.0,
+    "diff_pct": 42.87
+  },
+  {
+    "ean": "7793551001055",
+    "nombre": "vinagre de alcohol marvavic x 1 lt.",
     "categoria": "Almacen",
-    "precio_antes": 699.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 402.0,
-    "diff_pct": 57.51
+    "precio_antes": 1499.0,
+    "precio_hoy": 2100.0,
+    "diff_abs": 601.0,
+    "diff_pct": 40.09
   },
   {
-    "ean": "7797394001265",
-    "nombre": "pastillas tic tac mix de frutas x 16 gr.",
+    "ean": "2024590000002",
+    "nombre": "aceitunas marvavic negras sin carozo x kg.",
     "categoria": "Almacen",
-    "precio_antes": 699.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 402.0,
-    "diff_pct": 57.51
+    "precio_antes": 14499.0,
+    "precio_hoy": 19857.0,
+    "diff_abs": 5358.0,
+    "diff_pct": 36.95
   },
   {
-    "ean": "78600027",
-    "nombre": "pastillas tic tac naranja x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 699.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 402.0,
-    "diff_pct": 57.51
-  },
-  {
-    "ean": "7898024395232",
-    "nombre": "pasta de avellanas y chocolate nutella x 140 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3299.0,
-    "precio_hoy": 4737.0,
-    "diff_abs": 1438.0,
-    "diff_pct": 43.59
-  },
-  {
-    "ean": "7898024394181",
-    "nombre": "pasta de avellanas y chocolate nutella x 350 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 7299.0,
-    "precio_hoy": 10452.0,
-    "diff_abs": 3153.0,
-    "diff_pct": 43.2
-  },
-  {
-    "ean": "7790070104403",
-    "nombre": "alfajor chocoarroz 6 x 25 gm sabor pistacho",
-    "categoria": "Almacen",
-    "precio_antes": 6239.0,
-    "precio_hoy": 8912.0,
-    "diff_abs": 2673.0,
-    "diff_pct": 42.84
-  },
-  {
-    "ean": "7790070103314",
-    "nombre": "alfajor chocoarroz 6 x 36 gm dulce de leche",
-    "categoria": "Almacen",
-    "precio_antes": 6239.0,
-    "precio_hoy": 8912.0,
-    "diff_abs": 2673.0,
-    "diff_pct": 42.84
-  },
-  {
-    "ean": "80052760",
-    "nombre": "oblea con chocolate kinder bueno regular x 43 gm",
+    "ean": "7793551001079",
+    "nombre": "vinagre de manzana marvavic x 1 lt.",
     "categoria": "Almacen",
     "precio_antes": 2199.0,
-    "precio_hoy": 3117.0,
-    "diff_abs": 918.0,
-    "diff_pct": 41.75
+    "precio_hoy": 3000.0,
+    "diff_abs": 801.0,
+    "diff_pct": 36.43
   },
   {
-    "ean": "80761761",
-    "nombre": "chocolate kinder bueno white x 39 gr.",
+    "ean": "2024650000003",
+    "nombre": "aceitunas marvavic verdes con carozo x kg.",
     "categoria": "Almacen",
-    "precio_antes": 2199.0,
-    "precio_hoy": 3117.0,
-    "diff_abs": 918.0,
-    "diff_pct": 41.75
+    "precio_antes": 10099.0,
+    "precio_hoy": 13752.0,
+    "diff_abs": 3653.0,
+    "diff_pct": 36.17
   },
   {
-    "ean": "7898024396529",
-    "nombre": "pasta de avellanas y cacao x 650 gm nutella",
-    "categoria": "Perfumeria",
-    "precio_antes": 11999.0,
-    "precio_hoy": 16526.0,
-    "diff_abs": 4527.0,
-    "diff_pct": 37.73
+    "ean": "2024580000005",
+    "nombre": "aceitunas marvavic negras con carozo x kg.",
+    "categoria": "Almacen",
+    "precio_antes": 12899.0,
+    "precio_hoy": 17463.0,
+    "diff_abs": 4564.0,
+    "diff_pct": 35.38
   },
   {
-    "ean": "7791250000935",
-    "nombre": "vino los arboles seleccion x 750 ml. malbec",
+    "ean": "2024640000006",
+    "nombre": "aceitunas marvavic verdes descarozadas x kg.",
+    "categoria": "Almacen",
+    "precio_antes": 13599.0,
+    "precio_hoy": 18324.0,
+    "diff_abs": 4725.0,
+    "diff_pct": 34.75
+  },
+  {
+    "ean": "7793551000300",
+    "nombre": "ajies marvavic en vinagre de alcohol x 220 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 6799.0,
+    "precio_hoy": 9001.0,
+    "diff_abs": 2202.0,
+    "diff_pct": 32.39
+  },
+  {
+    "ean": "7793551000249",
+    "nombre": "pickles en vinagre marvavic x 420 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5199.0,
+    "precio_hoy": 6801.0,
+    "diff_abs": 1602.0,
+    "diff_pct": 30.81
+  },
+  {
+    "ean": "7791100000344",
+    "nombre": "coco rallado chango x 50 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2576.63,
+    "precio_hoy": 3331.0,
+    "diff_abs": 754.37,
+    "diff_pct": 29.28
+  },
+  {
+    "ean": "7791540049767",
+    "nombre": "vino alma mora reserva x 750 ml blend",
+    "categoria": "Bebidas",
+    "precio_antes": 5999.0,
+    "precio_hoy": 7738.0,
+    "diff_abs": 1739.0,
+    "diff_pct": 28.99
+  },
+  {
+    "ean": "7791540044106",
+    "nombre": "vino alma mora reserva x 7850 ml malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 5999.0,
+    "precio_hoy": 7734.0,
+    "diff_abs": 1735.0,
+    "diff_pct": 28.92
+  },
+  {
+    "ean": "7791540048500",
+    "nombre": "vino tinto alma mora reserva x 750 ml. cabernet sa",
+    "categoria": "Bebidas",
+    "precio_antes": 5999.0,
+    "precio_hoy": 7734.0,
+    "diff_abs": 1735.0,
+    "diff_pct": 28.92
+  },
+  {
+    "ean": "7791540047909",
+    "nombre": "vino blanco finca las moras x 750 ml. dulce naturl",
+    "categoria": "Bebidas",
+    "precio_antes": 3499.0,
+    "precio_hoy": 4485.0,
+    "diff_abs": 986.0,
+    "diff_pct": 28.18
+  },
+  {
+    "ean": "7791250003257",
+    "nombre": "vino tinto los arboles red blend x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4199.0,
+    "precio_hoy": 5382.0,
+    "diff_abs": 1183.0,
+    "diff_pct": 28.17
+  },
+  {
+    "ean": "7791250000959",
+    "nombre": "vino los arboles chardonnay x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4199.0,
+    "precio_hoy": 5381.0,
+    "diff_abs": 1182.0,
+    "diff_pct": 28.15
+  },
+  {
+    "ean": "7791250000942",
+    "nombre": "vino los arboles seleccion x 750 ml. cabernet sauv",
     "categoria": "Bebidas",
     "precio_antes": 4199.0,
     "precio_hoy": 5379.0,
     "diff_abs": 1180.0,
     "diff_pct": 28.1
-  },
-  {
-    "ean": "7791540000164",
-    "nombre": "vino alma mora x 750 ml blanco dulce",
-    "categoria": "Bebidas",
-    "precio_antes": 4799.0,
-    "precio_hoy": 6087.0,
-    "diff_abs": 1288.0,
-    "diff_pct": 26.84
-  },
-  {
-    "ean": "7791250801839",
-    "nombre": "gin gordons x 700 ml tropical",
-    "categoria": "Bebidas",
-    "precio_antes": 10699.0,
-    "precio_hoy": 13412.0,
-    "diff_abs": 2713.0,
-    "diff_pct": 25.36
-  },
-  {
-    "ean": "7791540000218",
-    "nombre": "sidra dada x 750 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 5499.0,
-    "precio_hoy": 6887.0,
-    "diff_abs": 1388.0,
-    "diff_pct": 25.24
-  },
-  {
-    "ean": "2021840000003",
-    "nombre": "pimiento verde x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
-    "ean": "7791540000522",
-    "nombre": "vino frizze x 1 litro bubble mood",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3375.0,
-    "diff_abs": 676.0,
-    "diff_pct": 25.05
-  },
-  {
-    "ean": "2020290000007",
-    "nombre": "cebolla blanca x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2390.0,
-    "diff_abs": 400.0,
-    "diff_pct": 20.1
-  },
-  {
-    "ean": "2020310000000",
-    "nombre": "cebolla morada x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2390.0,
-    "diff_abs": 400.0,
-    "diff_pct": 20.1
-  },
-  {
-    "ean": "7794000009431",
-    "nombre": "mayonesa hellmanns x 250 gm sabor asado",
-    "categoria": "Almacen",
-    "precio_antes": 2599.0,
-    "precio_hoy": 3062.0,
-    "diff_abs": 463.0,
-    "diff_pct": 17.81
-  },
-  {
-    "ean": "7794000005150",
-    "nombre": "mayonesa hellmann`s receta casera x 232 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2199.0,
-    "precio_hoy": 2549.0,
-    "diff_abs": 350.0,
-    "diff_pct": 15.92
   }
 ]
