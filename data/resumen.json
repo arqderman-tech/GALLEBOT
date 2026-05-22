@@ -1,147 +1,147 @@
 {
-  "fecha": "20260521",
+  "fecha": "20260522",
   "total_productos": 5757,
-  "variacion_dia": -0.27,
-  "variacion_7d": 0.31,
-  "variacion_mes": 3.66,
+  "variacion_dia": -0.21,
+  "variacion_7d": 0.42,
+  "variacion_mes": 3.27,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.4,
-      "productos_subieron": 60,
-      "productos_bajaron": 223,
-      "total_productos": 1307
+      "variacion_pct_promedio": -0.23,
+      "productos_subieron": 0,
+      "productos_bajaron": 12,
+      "total_productos": 1303
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.4,
-      "productos_subieron": 14,
-      "productos_bajaron": 68,
-      "total_productos": 1109
+      "variacion_pct_promedio": 0.05,
+      "productos_subieron": 42,
+      "productos_bajaron": 32,
+      "total_productos": 1105
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.06,
-      "productos_subieron": 1,
-      "productos_bajaron": 1,
-      "total_productos": 213
+      "variacion_pct_promedio": -2.02,
+      "productos_subieron": 8,
+      "productos_bajaron": 39,
+      "total_productos": 211
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 700
+      "total_productos": 699
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.7,
-      "productos_subieron": 2,
-      "productos_bajaron": 36,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
       "total_productos": 839
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.0,
-      "productos_subieron": 88,
-      "productos_bajaron": 103,
-      "total_productos": 1587
+      "variacion_pct_promedio": -0.32,
+      "productos_subieron": 7,
+      "productos_bajaron": 35,
+      "total_productos": 1579
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790936000436",
-      "nombre": "sal tresal x500gr.fina ligh es",
-      "categoria": "Almacen",
-      "precio_antes": 5961.0,
+      "ean": "7790670050674",
+      "nombre": "hamburguesas paty x 2 unid. clasicas",
+      "categoria": "Congelados",
+      "precio_antes": 4662.0,
+      "precio_hoy": 3059.0,
+      "diff_abs": -1603.0,
+      "diff_pct": -34.38
+    },
+    {
+      "ean": "7790670050780",
+      "nombre": "hamburguesas paty clasico x 20 unid.",
+      "categoria": "Congelados",
+      "precio_antes": 41604.0,
+      "precio_hoy": 28899.0,
+      "diff_abs": -12705.0,
+      "diff_pct": -30.54
+    },
+    {
+      "ean": "7790895647666",
+      "nombre": "agua benedictino sin gas x 2,25 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 2590.0,
+      "precio_hoy": 1869.0,
+      "diff_abs": -721.0,
+      "diff_pct": -27.84
+    },
+    {
+      "ean": "7790895003882",
+      "nombre": "agua mineral bonaqua sin gas x 2 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 2760.0,
       "precio_hoy": 1999.0,
-      "diff_abs": -3962.0,
-      "diff_pct": -66.47
+      "diff_abs": -761.0,
+      "diff_pct": -27.57
     },
     {
-      "ean": "7791866000510",
-      "nombre": "mostaza natura x 500 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2394.0,
-      "precio_hoy": 1499.0,
-      "diff_abs": -895.0,
-      "diff_pct": -37.39
+      "ean": "7790895008498",
+      "nombre": "agua saborizada aquarius x 1,5 lt. limonada",
+      "categoria": "Bebidas",
+      "precio_antes": 3060.0,
+      "precio_hoy": 2249.0,
+      "diff_abs": -811.0,
+      "diff_pct": -26.5
     },
     {
-      "ean": "7791866000558",
-      "nombre": "mayonesa cada dia liviana x 250 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 943.0,
-      "precio_hoy": 599.0,
-      "diff_abs": -344.0,
-      "diff_pct": -36.48
+      "ean": "7790895008146",
+      "nombre": "agua bonaqua x 2.5 lt. sin gas",
+      "categoria": "Bebidas",
+      "precio_antes": 3040.0,
+      "precio_hoy": 2279.0,
+      "diff_abs": -761.0,
+      "diff_pct": -25.03
     },
     {
-      "ean": "7791866000664",
-      "nombre": "ketchup natura x 500 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 3567.0,
-      "precio_hoy": 2299.0,
-      "diff_abs": -1268.0,
-      "diff_pct": -35.55
+      "ean": "7790895641749",
+      "nombre": "jugo cepita anana x 1.5 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 3351.0,
+      "precio_hoy": 2519.0,
+      "diff_abs": -832.0,
+      "diff_pct": -24.83
     },
     {
-      "ean": "7791866000572",
-      "nombre": "mayonesa cada dia liviana x 500 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1831.0,
-      "precio_hoy": 1199.0,
-      "diff_abs": -632.0,
-      "diff_pct": -34.52
+      "ean": "7790895641534",
+      "nombre": "jugo cepita botella x 1,5 lt. durazno",
+      "categoria": "Bebidas",
+      "precio_antes": 3351.0,
+      "precio_hoy": 2519.0,
+      "diff_abs": -832.0,
+      "diff_pct": -24.83
     },
     {
-      "ean": "7791866004211",
-      "nombre": "mostaza natura x 250 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1214.0,
-      "precio_hoy": 799.0,
-      "diff_abs": -415.0,
-      "diff_pct": -34.18
+      "ean": "7790895641800",
+      "nombre": "jugo cepita botella x 1.5 lt. naranja",
+      "categoria": "Bebidas",
+      "precio_antes": 3351.0,
+      "precio_hoy": 2519.0,
+      "diff_abs": -832.0,
+      "diff_pct": -24.83
     },
     {
-      "ean": "7791866000381",
-      "nombre": "ketchup natura x 250 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1814.0,
-      "precio_hoy": 1199.0,
-      "diff_abs": -615.0,
-      "diff_pct": -33.9
-    },
-    {
-      "ean": "7790040144095",
-      "nombre": "gall.traviatas x540gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2790.0,
-      "precio_hoy": 1899.0,
-      "diff_abs": -891.0,
-      "diff_pct": -31.94
-    },
-    {
-      "ean": "7790040144088",
-      "nombre": "gall.traviatas 3x118gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 1833.0,
-      "precio_hoy": 1249.0,
-      "diff_abs": -584.0,
-      "diff_pct": -31.86
-    },
-    {
-      "ean": "7790040143005",
-      "nombre": "gall.media tarde sand.x321gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 1862.0,
-      "precio_hoy": 1279.0,
-      "diff_abs": -583.0,
-      "diff_pct": -31.31
+      "ean": "7790895640476",
+      "nombre": "aquarius cepita sabor pera x 1.5 lts.",
+      "categoria": "Bebidas",
+      "precio_antes": 2990.0,
+      "precio_hoy": 2249.0,
+      "diff_abs": -741.0,
+      "diff_pct": -24.78
     }
   ],
-  "productos_subieron_dia": 165,
-  "productos_bajaron_dia": 431,
-  "productos_sin_cambio_dia": 5159
+  "productos_subieron_dia": 57,
+  "productos_bajaron_dia": 118,
+  "productos_sin_cambio_dia": 5561
 }

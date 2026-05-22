@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7791540053153",
-    "nombre": "vino frizze",
-    "categoria": "Bebidas",
-    "precio_antes": 1499.0,
-    "precio_hoy": 2693.0,
-    "diff_abs": 1194.0,
-    "diff_pct": 79.65
+    "ean": "2019880000008",
+    "nombre": "acelga x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1790.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 700.0,
+    "diff_pct": 39.11
   },
   {
-    "ean": "7791540053160",
-    "nombre": "vino frizze italian limonata x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1499.0,
-    "precio_hoy": 2688.0,
-    "diff_abs": 1189.0,
-    "diff_pct": 79.32
+    "ean": "2019960000003",
+    "nombre": "albahaca x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
   },
   {
-    "ean": "7791540052057",
-    "nombre": "vino tinto el que rie ultimo rie mejor x 750 ml. b",
-    "categoria": "Bebidas",
-    "precio_antes": 6999.0,
-    "precio_hoy": 10168.0,
-    "diff_abs": 3169.0,
-    "diff_pct": 45.28
+    "ean": "2031910000000",
+    "nombre": "albahaca hidroponica",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
   },
   {
-    "ean": "7797906054833",
-    "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
+    "ean": "2021680000003",
+    "nombre": "zapallo brasilero x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1190.0,
+    "precio_hoy": 1390.0,
+    "diff_abs": 200.0,
+    "diff_pct": 16.81
+  },
+  {
+    "ean": "2022300000007",
+    "nombre": "uvas rosadas x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 14.31
+  },
+  {
+    "ean": "7790079000638",
+    "nombre": "leberwurst paladini x 250 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2638.0,
+    "precio_hoy": 2877.0,
+    "diff_abs": 239.0,
+    "diff_pct": 9.06
+  },
+  {
+    "ean": "7790079000904",
+    "nombre": "mortadela paladini x 500 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 7339.0,
+    "precio_hoy": 8004.0,
+    "diff_abs": 665.0,
+    "diff_pct": 9.06
+  },
+  {
+    "ean": "7790079023354",
+    "nombre": "medallon de carne paladini + rapidas x 138 gr.",
     "categoria": "Congelados",
-    "precio_antes": 5649.0,
-    "precio_hoy": 8071.0,
-    "diff_abs": 2422.0,
-    "diff_pct": 42.87
+    "precio_antes": 1992.0,
+    "precio_hoy": 2092.0,
+    "diff_abs": 100.0,
+    "diff_pct": 5.02
   },
   {
-    "ean": "7793551001055",
-    "nombre": "vinagre de alcohol marvavic x 1 lt.",
+    "ean": "7790079021237",
+    "nombre": "hamburguesas de cerdo paladini x 2 unid. criolla",
+    "categoria": "Congelados",
+    "precio_antes": 2477.0,
+    "precio_hoy": 2601.0,
+    "diff_abs": 124.0,
+    "diff_pct": 5.01
+  },
+  {
+    "ean": "7790079021251",
+    "nombre": "hamburguesas de cerdo paladini x 2 unid. bacon y c",
+    "categoria": "Congelados",
+    "precio_antes": 2477.0,
+    "precio_hoy": 2601.0,
+    "diff_abs": 124.0,
+    "diff_pct": 5.01
+  },
+  {
+    "ean": "7790079015649",
+    "nombre": "medallones de carne fela x 4 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 3118.0,
+    "precio_hoy": 3274.0,
+    "diff_abs": 156.0,
+    "diff_pct": 5.0
+  },
+  {
+    "ean": "7790079021015",
+    "nombre": "medallones de carne fela max x 2 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 2974.0,
+    "precio_hoy": 3122.0,
+    "diff_abs": 148.0,
+    "diff_pct": 4.98
+  },
+  {
+    "ean": "7790079011085",
+    "nombre": "pate de foie paladini untable x 90 gr.",
     "categoria": "Almacen",
-    "precio_antes": 1499.0,
-    "precio_hoy": 2100.0,
-    "diff_abs": 601.0,
-    "diff_pct": 40.09
+    "precio_antes": 1172.0,
+    "precio_hoy": 1208.0,
+    "diff_abs": 36.0,
+    "diff_pct": 3.07
   },
   {
-    "ean": "2024590000002",
-    "nombre": "aceitunas marvavic negras sin carozo x kg.",
+    "ean": "7790079011078",
+    "nombre": "picadillo de carne paladini x 90 gr.",
     "categoria": "Almacen",
-    "precio_antes": 14499.0,
-    "precio_hoy": 19857.0,
-    "diff_abs": 5358.0,
-    "diff_pct": 36.95
+    "precio_antes": 1307.0,
+    "precio_hoy": 1347.0,
+    "diff_abs": 40.0,
+    "diff_pct": 3.06
   },
   {
-    "ean": "7793551001079",
-    "nombre": "vinagre de manzana marvavic x 1 lt.",
-    "categoria": "Almacen",
-    "precio_antes": 2199.0,
-    "precio_hoy": 3000.0,
-    "diff_abs": 801.0,
-    "diff_pct": 36.43
+    "ean": "7790079019173",
+    "nombre": "mortadela con pistachos labratto fet. x 100 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2982.0,
+    "precio_hoy": 3072.0,
+    "diff_abs": 90.0,
+    "diff_pct": 3.02
   },
   {
-    "ean": "2024650000003",
-    "nombre": "aceitunas marvavic verdes con carozo x kg.",
-    "categoria": "Almacen",
-    "precio_antes": 10099.0,
-    "precio_hoy": 13752.0,
-    "diff_abs": 3653.0,
-    "diff_pct": 36.17
+    "ean": "7790079021114",
+    "nombre": "bacon en fetas paladini x 150 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4872.0,
+    "precio_hoy": 5019.0,
+    "diff_abs": 147.0,
+    "diff_pct": 3.02
   },
   {
-    "ean": "2024580000005",
-    "nombre": "aceitunas marvavic negras con carozo x kg.",
-    "categoria": "Almacen",
-    "precio_antes": 12899.0,
-    "precio_hoy": 17463.0,
-    "diff_abs": 4564.0,
-    "diff_pct": 35.38
+    "ean": "7790079025297",
+    "nombre": "ravioles paladini x 500 gr. carne y verdura",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4413.0,
+    "precio_hoy": 4546.0,
+    "diff_abs": 133.0,
+    "diff_pct": 3.01
   },
   {
-    "ean": "2024640000006",
-    "nombre": "aceitunas marvavic verdes descarozadas x kg.",
-    "categoria": "Almacen",
-    "precio_antes": 13599.0,
-    "precio_hoy": 18324.0,
-    "diff_abs": 4725.0,
-    "diff_pct": 34.75
+    "ean": "7790079025303",
+    "nombre": "ravioles paladini x 500 gr. jamon y mozarella",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4645.0,
+    "precio_hoy": 4785.0,
+    "diff_abs": 140.0,
+    "diff_pct": 3.01
   },
   {
-    "ean": "7793551000300",
-    "nombre": "ajies marvavic en vinagre de alcohol x 220 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 6799.0,
-    "precio_hoy": 9001.0,
-    "diff_abs": 2202.0,
-    "diff_pct": 32.39
+    "ean": "7790079019876",
+    "nombre": "nuggets de pollo paladini x 380 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 7047.0,
+    "precio_hoy": 7259.0,
+    "diff_abs": 212.0,
+    "diff_pct": 3.01
   },
   {
-    "ean": "7793551000249",
-    "nombre": "pickles en vinagre marvavic x 420 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5199.0,
-    "precio_hoy": 6801.0,
-    "diff_abs": 1602.0,
-    "diff_pct": 30.81
-  },
-  {
-    "ean": "7791100000344",
-    "nombre": "coco rallado chango x 50 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2576.63,
-    "precio_hoy": 3331.0,
-    "diff_abs": 754.37,
-    "diff_pct": 29.28
-  },
-  {
-    "ean": "7791540049767",
-    "nombre": "vino alma mora reserva x 750 ml blend",
-    "categoria": "Bebidas",
-    "precio_antes": 5999.0,
-    "precio_hoy": 7738.0,
-    "diff_abs": 1739.0,
-    "diff_pct": 28.99
-  },
-  {
-    "ean": "7791540044106",
-    "nombre": "vino alma mora reserva x 7850 ml malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 5999.0,
-    "precio_hoy": 7734.0,
-    "diff_abs": 1735.0,
-    "diff_pct": 28.92
-  },
-  {
-    "ean": "7791540048500",
-    "nombre": "vino tinto alma mora reserva x 750 ml. cabernet sa",
-    "categoria": "Bebidas",
-    "precio_antes": 5999.0,
-    "precio_hoy": 7734.0,
-    "diff_abs": 1735.0,
-    "diff_pct": 28.92
-  },
-  {
-    "ean": "7791540047909",
-    "nombre": "vino blanco finca las moras x 750 ml. dulce naturl",
-    "categoria": "Bebidas",
-    "precio_antes": 3499.0,
-    "precio_hoy": 4485.0,
-    "diff_abs": 986.0,
-    "diff_pct": 28.18
-  },
-  {
-    "ean": "7791250003257",
-    "nombre": "vino tinto los arboles red blend x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4199.0,
-    "precio_hoy": 5382.0,
-    "diff_abs": 1183.0,
-    "diff_pct": 28.17
-  },
-  {
-    "ean": "7791250000959",
-    "nombre": "vino los arboles chardonnay x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4199.0,
-    "precio_hoy": 5381.0,
-    "diff_abs": 1182.0,
-    "diff_pct": 28.15
-  },
-  {
-    "ean": "7791250000942",
-    "nombre": "vino los arboles seleccion x 750 ml. cabernet sauv",
-    "categoria": "Bebidas",
-    "precio_antes": 4199.0,
-    "precio_hoy": 5379.0,
-    "diff_abs": 1180.0,
-    "diff_pct": 28.1
+    "ean": "2028170000000",
+    "nombre": "churrasquito cerdo paladini in",
+    "categoria": "Carniceria",
+    "precio_antes": 14339.0,
+    "precio_hoy": 14770.0,
+    "diff_abs": 431.0,
+    "diff_pct": 3.01
   }
 ]

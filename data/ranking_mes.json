@@ -9,15 +9,6 @@
     "diff_pct": 405.06
   },
   {
-    "ean": "2022220000002",
-    "nombre": "tomate redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1190.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 3800.0,
-    "diff_pct": 319.33
-  },
-  {
     "ean": "2021550000003",
     "nombre": "pepino x kg.",
     "categoria": "Frutas Y Verduras",
@@ -27,13 +18,13 @@
     "diff_pct": 286.82
   },
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2209.0,
-    "precio_hoy": 5332.0,
-    "diff_abs": 3123.0,
-    "diff_pct": 141.38
+    "ean": "2022220000002",
+    "nombre": "tomate redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1590.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 3400.0,
+    "diff_pct": 213.84
   },
   {
     "ean": "7791337010499",
@@ -43,15 +34,6 @@
     "precio_hoy": 5332.0,
     "diff_abs": 3123.0,
     "diff_pct": 141.38
-  },
-  {
-    "ean": "2022130000000",
-    "nombre": "tomate cherry x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 4500.0,
-    "diff_pct": 128.94
   },
   {
     "ean": "7622201704148",
@@ -90,6 +72,15 @@
     "diff_pct": 104.35
   },
   {
+    "ean": "7622201746490",
+    "nombre": "jugo en polvo tang x 15 gr. frutilla",
+    "categoria": "Bebidas",
+    "precio_antes": 299.0,
+    "precio_hoy": 611.0,
+    "diff_abs": 312.0,
+    "diff_pct": 104.35
+  },
+  {
     "ean": "7622201745936",
     "nombre": "jugo tang durazno x15gr.",
     "categoria": "Bebidas",
@@ -99,13 +90,31 @@
     "diff_pct": 104.35
   },
   {
-    "ean": "7622201746490",
-    "nombre": "jugo en polvo tang x 15 gr. frutilla",
-    "categoria": "Bebidas",
-    "precio_antes": 299.0,
-    "precio_hoy": 611.0,
-    "diff_abs": 312.0,
-    "diff_pct": 104.35
+    "ean": "2022130000000",
+    "nombre": "tomate cherry x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 100.25
+  },
+  {
+    "ean": "2019880000008",
+    "nombre": "acelga x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1390.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 1100.0,
+    "diff_pct": 79.14
+  },
+  {
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1390.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 1100.0,
+    "diff_pct": 79.14
   },
   {
     "ean": "7793762006252",
@@ -126,13 +135,22 @@
     "diff_pct": 75.38
   },
   {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
+    "ean": "7792798002399",
+    "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3839.0,
+    "precio_hoy": 6720.0,
+    "diff_abs": 2881.0,
+    "diff_pct": 75.05
+  },
+  {
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 75.19
+    "precio_antes": 3490.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2500.0,
+    "diff_pct": 71.63
   },
   {
     "ean": "7790139004569",
@@ -160,23 +178,5 @@
     "precio_hoy": 9990.0,
     "diff_abs": 4000.0,
     "diff_pct": 66.78
-  },
-  {
-    "ean": "7622201703141",
-    "nombre": "jugo en polvo clight naranja dulce x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 399.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 240.0,
-    "diff_pct": 60.15
-  },
-  {
-    "ean": "7622201702717",
-    "nombre": "jugo en polvo clight naranja-durazno x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 399.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 240.0,
-    "diff_pct": 60.15
   }
 ]
