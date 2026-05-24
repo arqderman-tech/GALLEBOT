@@ -9,44 +9,8 @@
     "diff_pct": 405.06
   },
   {
-    "ean": "2021550000003",
-    "nombre": "pepino x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1290.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 3700.0,
-    "diff_pct": 286.82
-  },
-  {
-    "ean": "2022220000002",
-    "nombre": "tomate redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1590.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 3400.0,
-    "diff_pct": 213.84
-  },
-  {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2209.0,
-    "precio_hoy": 5332.0,
-    "diff_abs": 3123.0,
-    "diff_pct": 141.38
-  },
-  {
     "ean": "7622201704148",
     "nombre": "jugo en polvo clight mandarina x 8 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 309.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 330.0,
-    "diff_pct": 106.8
-  },
-  {
-    "ean": "7622201703202",
-    "nombre": "jugo clight pera x7gr.",
     "categoria": "Bebidas",
     "precio_antes": 309.0,
     "precio_hoy": 639.0,
@@ -63,13 +27,13 @@
     "diff_pct": 106.8
   },
   {
-    "ean": "7622201733865",
-    "nombre": "jugo tang mandarina x 15 gm",
+    "ean": "7622201703202",
+    "nombre": "jugo clight pera x7gr.",
     "categoria": "Bebidas",
-    "precio_antes": 299.0,
-    "precio_hoy": 611.0,
-    "diff_abs": 312.0,
-    "diff_pct": 104.35
+    "precio_antes": 309.0,
+    "precio_hoy": 639.0,
+    "diff_abs": 330.0,
+    "diff_pct": 106.8
   },
   {
     "ean": "7622201746490",
@@ -90,6 +54,33 @@
     "diff_pct": 104.35
   },
   {
+    "ean": "7622201733865",
+    "nombre": "jugo tang mandarina x 15 gm",
+    "categoria": "Bebidas",
+    "precio_antes": 299.0,
+    "precio_hoy": 611.0,
+    "diff_abs": 312.0,
+    "diff_pct": 104.35
+  },
+  {
+    "ean": "7791337008403",
+    "nombre": "leche chocolatada la serenisima x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2619.0,
+    "precio_hoy": 5271.0,
+    "diff_abs": 2652.0,
+    "diff_pct": 101.26
+  },
+  {
+    "ean": "7791337008410",
+    "nombre": "leche chocolatada la serenisima x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 899.0,
+    "precio_hoy": 1804.0,
+    "diff_abs": 905.0,
+    "diff_pct": 100.67
+  },
+  {
     "ean": "2022130000000",
     "nombre": "tomate cherry x kg.",
     "categoria": "Frutas Y Verduras",
@@ -99,13 +90,13 @@
     "diff_pct": 100.25
   },
   {
-    "ean": "2019880000008",
-    "nombre": "acelga x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1390.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 1100.0,
-    "diff_pct": 79.14
+    "ean": "7791540053153",
+    "nombre": "vino frizze",
+    "categoria": "Bebidas",
+    "precio_antes": 1499.0,
+    "precio_hoy": 2693.0,
+    "diff_abs": 1194.0,
+    "diff_pct": 79.65
   },
   {
     "ean": "2022040000008",
@@ -126,15 +117,6 @@
     "diff_pct": 78.74
   },
   {
-    "ean": "2022210000005",
-    "nombre": "tomate perita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 3490.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 75.38
-  },
-  {
     "ean": "7792798002399",
     "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
     "categoria": "Bebidas",
@@ -153,13 +135,13 @@
     "diff_pct": 71.63
   },
   {
-    "ean": "7790139004569",
-    "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
-    "categoria": "Almacen",
-    "precio_antes": 18719.0,
-    "precio_hoy": 31578.0,
-    "diff_abs": 12859.0,
-    "diff_pct": 68.69
+    "ean": "7791540053160",
+    "nombre": "vino frizze italian limonata x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1499.0,
+    "precio_hoy": 2548.0,
+    "diff_abs": 1049.0,
+    "diff_pct": 69.98
   },
   {
     "ean": "77969118",
@@ -178,5 +160,23 @@
     "precio_hoy": 9990.0,
     "diff_abs": 4000.0,
     "diff_pct": 66.78
+  },
+  {
+    "ean": "7790139004569",
+    "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
+    "categoria": "Almacen",
+    "precio_antes": 19502.98,
+    "precio_hoy": 31578.0,
+    "diff_abs": 12075.02,
+    "diff_pct": 61.91
+  },
+  {
+    "ean": "7790139004828",
+    "nombre": "aceite de oliva casalta extra virgen medio x 250 .",
+    "categoria": "Almacen",
+    "precio_antes": 12709.94,
+    "precio_hoy": 20571.0,
+    "diff_abs": 7861.06,
+    "diff_pct": 61.85
   }
 ]

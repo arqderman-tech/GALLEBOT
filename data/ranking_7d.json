@@ -1,14 +1,5 @@
 [
   {
-    "ean": "7791337008403",
-    "nombre": "leche chocolatada la serenisima x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2809.0,
-    "precio_hoy": 5271.0,
-    "diff_abs": 2462.0,
-    "diff_pct": 87.65
-  },
-  {
     "ean": "7791540053153",
     "nombre": "vino frizze",
     "categoria": "Bebidas",
@@ -18,13 +9,13 @@
     "diff_pct": 79.65
   },
   {
-    "ean": "7791540053160",
-    "nombre": "vino frizze italian limonata x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1499.0,
-    "precio_hoy": 2688.0,
-    "diff_abs": 1189.0,
-    "diff_pct": 79.32
+    "ean": "7791337008403",
+    "nombre": "leche chocolatada la serenisima x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3005.63,
+    "precio_hoy": 5271.0,
+    "diff_abs": 2265.37,
+    "diff_pct": 75.37
   },
   {
     "ean": "7792798002399",
@@ -36,13 +27,13 @@
     "diff_pct": 75.05
   },
   {
-    "ean": "2019880000008",
-    "nombre": "acelga x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 67.11
+    "ean": "7791540053160",
+    "nombre": "vino frizze italian limonata x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1499.0,
+    "precio_hoy": 2548.0,
+    "diff_abs": 1049.0,
+    "diff_pct": 69.98
   },
   {
     "ean": "2019910000008",
@@ -54,24 +45,6 @@
     "diff_pct": 66.78
   },
   {
-    "ean": "7791337008410",
-    "nombre": "leche chocolatada la serenisima x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1099.0,
-    "precio_hoy": 1804.0,
-    "diff_abs": 705.0,
-    "diff_pct": 64.15
-  },
-  {
-    "ean": "78600010",
-    "nombre": "pastillas tic tac menta x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 699.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 402.0,
-    "diff_pct": 57.51
-  },
-  {
     "ean": "7797394001265",
     "nombre": "pastillas tic tac mix de frutas x 16 gr.",
     "categoria": "Almacen",
@@ -81,13 +54,13 @@
     "diff_pct": 57.51
   },
   {
-    "ean": "78600027",
-    "nombre": "pastillas tic tac naranja x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 699.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 402.0,
-    "diff_pct": 57.51
+    "ean": "7791337008410",
+    "nombre": "leche chocolatada la serenisima x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1175.94,
+    "precio_hoy": 1804.0,
+    "diff_abs": 628.06,
+    "diff_pct": 53.41
   },
   {
     "ean": "7790139100582",
@@ -135,6 +108,15 @@
     "diff_pct": 45.28
   },
   {
+    "ean": "7791250001253",
+    "nombre": "whisky white horse x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 13999.0,
+    "precio_hoy": 20283.0,
+    "diff_abs": 6284.0,
+    "diff_pct": 44.89
+  },
+  {
     "ean": "7792798010615",
     "nombre": "cerv.stella artois x473ml.lata",
     "categoria": "Bebidas",
@@ -162,21 +144,39 @@
     "diff_pct": 43.59
   },
   {
-    "ean": "7791337010161",
-    "nombre": "alimento liquido silk almendra x 1 litro mocha",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4179.74,
-    "precio_hoy": 5992.0,
-    "diff_abs": 1812.26,
-    "diff_pct": 43.36
+    "ean": "7898024394181",
+    "nombre": "pasta de avellanas y chocolate nutella x 350 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 7299.0,
+    "precio_hoy": 10452.0,
+    "diff_abs": 3153.0,
+    "diff_pct": 43.2
   },
   {
-    "ean": "7791337007918",
-    "nombre": "alimento liquido silk almendra x 1lt sin azucar .",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4179.74,
-    "precio_hoy": 5992.0,
-    "diff_abs": 1812.26,
-    "diff_pct": 43.36
+    "ean": "7792798001316",
+    "nombre": "cerveza quilmes stout x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1749.0,
+    "precio_hoy": 2500.0,
+    "diff_abs": 751.0,
+    "diff_pct": 42.94
+  },
+  {
+    "ean": "7792798008858",
+    "nombre": "cerveza temple wolf ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3149.0,
+    "precio_hoy": 4500.0,
+    "diff_abs": 1351.0,
+    "diff_pct": 42.9
+  },
+  {
+    "ean": "7792798007387",
+    "nombre": "cerveza quilmes cristal x 1 lt. retornable",
+    "categoria": "Bebidas",
+    "precio_antes": 3079.0,
+    "precio_hoy": 4400.0,
+    "diff_abs": 1321.0,
+    "diff_pct": 42.9
   }
 ]

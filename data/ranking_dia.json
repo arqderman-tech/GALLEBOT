@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2019880000008",
-    "nombre": "acelga x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1790.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 700.0,
-    "diff_pct": 39.11
+    "ean": "7791250001253",
+    "nombre": "whisky white horse x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 17557.0,
+    "precio_hoy": 20283.0,
+    "diff_abs": 2726.0,
+    "diff_pct": 15.53
   },
   {
-    "ean": "2019960000003",
-    "nombre": "albahaca x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
+    "ean": "7791250001857",
+    "nombre": "vodka smirnoff green apple x 700 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 9659.0,
+    "precio_hoy": 10968.1,
+    "diff_abs": 1309.1,
+    "diff_pct": 13.55
   },
   {
-    "ean": "2031910000000",
-    "nombre": "albahaca hidroponica",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
+    "ean": "7791250001871",
+    "nombre": "vodka smirnoff raspberry x 700 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 9659.0,
+    "precio_hoy": 10968.1,
+    "diff_abs": 1309.1,
+    "diff_pct": 13.55
   },
   {
-    "ean": "2021680000003",
-    "nombre": "zapallo brasilero x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1190.0,
-    "precio_hoy": 1390.0,
-    "diff_abs": 200.0,
-    "diff_pct": 16.81
+    "ean": "7791250001345",
+    "nombre": "vodka smirnoff red x 700 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 8759.0,
+    "precio_hoy": 9897.08,
+    "diff_abs": 1138.08,
+    "diff_pct": 12.99
   },
   {
-    "ean": "2022300000007",
-    "nombre": "uvas rosadas x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 14.31
-  },
-  {
-    "ean": "7790079000638",
-    "nombre": "leberwurst paladini x 250 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2638.0,
-    "precio_hoy": 2877.0,
-    "diff_abs": 239.0,
-    "diff_pct": 9.06
-  },
-  {
-    "ean": "7790079000904",
-    "nombre": "mortadela paladini x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 7339.0,
-    "precio_hoy": 8004.0,
-    "diff_abs": 665.0,
-    "diff_pct": 9.06
-  },
-  {
-    "ean": "7790079023354",
-    "nombre": "medallon de carne paladini + rapidas x 138 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 1992.0,
-    "precio_hoy": 2092.0,
-    "diff_abs": 100.0,
-    "diff_pct": 5.02
-  },
-  {
-    "ean": "7790079021237",
-    "nombre": "hamburguesas de cerdo paladini x 2 unid. criolla",
-    "categoria": "Congelados",
-    "precio_antes": 2477.0,
-    "precio_hoy": 2601.0,
-    "diff_abs": 124.0,
-    "diff_pct": 5.01
-  },
-  {
-    "ean": "7790079021251",
-    "nombre": "hamburguesas de cerdo paladini x 2 unid. bacon y c",
-    "categoria": "Congelados",
-    "precio_antes": 2477.0,
-    "precio_hoy": 2601.0,
-    "diff_abs": 124.0,
-    "diff_pct": 5.01
-  },
-  {
-    "ean": "7790079015649",
-    "nombre": "medallones de carne fela x 4 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 3118.0,
-    "precio_hoy": 3274.0,
-    "diff_abs": 156.0,
-    "diff_pct": 5.0
-  },
-  {
-    "ean": "7790079021015",
-    "nombre": "medallones de carne fela max x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 2974.0,
-    "precio_hoy": 3122.0,
-    "diff_abs": 148.0,
-    "diff_pct": 4.98
-  },
-  {
-    "ean": "7790079011085",
-    "nombre": "pate de foie paladini untable x 90 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1172.0,
-    "precio_hoy": 1208.0,
-    "diff_abs": 36.0,
-    "diff_pct": 3.07
-  },
-  {
-    "ean": "7790079011078",
-    "nombre": "picadillo de carne paladini x 90 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1307.0,
-    "precio_hoy": 1347.0,
-    "diff_abs": 40.0,
-    "diff_pct": 3.06
-  },
-  {
-    "ean": "7790079019173",
-    "nombre": "mortadela con pistachos labratto fet. x 100 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2982.0,
-    "precio_hoy": 3072.0,
-    "diff_abs": 90.0,
-    "diff_pct": 3.02
-  },
-  {
-    "ean": "7790079021114",
-    "nombre": "bacon en fetas paladini x 150 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4872.0,
-    "precio_hoy": 5019.0,
-    "diff_abs": 147.0,
-    "diff_pct": 3.02
-  },
-  {
-    "ean": "7790079025297",
-    "nombre": "ravioles paladini x 500 gr. carne y verdura",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4413.0,
-    "precio_hoy": 4546.0,
-    "diff_abs": 133.0,
-    "diff_pct": 3.01
-  },
-  {
-    "ean": "7790079025303",
-    "nombre": "ravioles paladini x 500 gr. jamon y mozarella",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4645.0,
-    "precio_hoy": 4785.0,
+    "ean": "7798113302670",
+    "nombre": "agua saborizada cellier manzana x 1.5 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1392.0,
+    "precio_hoy": 1532.0,
     "diff_abs": 140.0,
-    "diff_pct": 3.01
+    "diff_pct": 10.06
   },
   {
-    "ean": "7790079019876",
-    "nombre": "nuggets de pollo paladini x 380 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 7047.0,
-    "precio_hoy": 7259.0,
-    "diff_abs": 212.0,
-    "diff_pct": 3.01
+    "ean": "7798113302700",
+    "nombre": "agua saborizada cellier naranja x 1.5 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1392.0,
+    "precio_hoy": 1532.0,
+    "diff_abs": 140.0,
+    "diff_pct": 10.06
   },
   {
-    "ean": "2028170000000",
-    "nombre": "churrasquito cerdo paladini in",
-    "categoria": "Carniceria",
-    "precio_antes": 14339.0,
-    "precio_hoy": 14770.0,
-    "diff_abs": 431.0,
-    "diff_pct": 3.01
+    "ean": "7791250003103",
+    "nombre": "bitter smirnoff citric x 700 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 10298.0,
+    "precio_hoy": 11065.0,
+    "diff_abs": 767.0,
+    "diff_pct": 7.45
+  },
+  {
+    "ean": "7791250003097",
+    "nombre": "bitter smirnoff naranja rubi y lima x 700 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 10298.0,
+    "precio_hoy": 11065.0,
+    "diff_abs": 767.0,
+    "diff_pct": 7.45
+  },
+  {
+    "ean": "7791250003400",
+    "nombre": "vodka smirnoff tamarind x 700 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 9659.0,
+    "precio_hoy": 10378.41,
+    "diff_abs": 719.41,
+    "diff_pct": 7.45
+  },
+  {
+    "ean": "7791250003202",
+    "nombre": "vodka smirnoff tropical fruits x 700 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 9659.0,
+    "precio_hoy": 10378.41,
+    "diff_abs": 719.41,
+    "diff_pct": 7.45
+  },
+  {
+    "ean": "7791250002243",
+    "nombre": "vodka smirnoff watermelon x 700 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 9659.0,
+    "precio_hoy": 10378.42,
+    "diff_abs": 719.42,
+    "diff_pct": 7.45
+  },
+  {
+    "ean": "7791250003011",
+    "nombre": "bitter smirnoff citrus pomelo y lima x 700 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 10298.0,
+    "precio_hoy": 11065.0,
+    "diff_abs": 767.0,
+    "diff_pct": 7.45
+  },
+  {
+    "ean": "7791250003325",
+    "nombre": "gin gordon`s pink x 700 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 13459.0,
+    "precio_hoy": 14435.3,
+    "diff_abs": 976.3,
+    "diff_pct": 7.25
+  },
+  {
+    "ean": "7791250801839",
+    "nombre": "gin gordons x 700 ml tropical",
+    "categoria": "Bebidas",
+    "precio_antes": 10429.0,
+    "precio_hoy": 11185.51,
+    "diff_abs": 756.51,
+    "diff_pct": 7.25
+  },
+  {
+    "ean": "7791250002267",
+    "nombre": "gin gordons london dry x 700 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 11509.0,
+    "precio_hoy": 12331.05,
+    "diff_abs": 822.05,
+    "diff_pct": 7.14
+  },
+  {
+    "ean": "7792664000269",
+    "nombre": "vainillas massarini x 180 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 1352.0,
+    "precio_hoy": 1447.0,
+    "diff_abs": 95.0,
+    "diff_pct": 7.03
+  },
+  {
+    "ean": "7791250003189",
+    "nombre": "vodka berr",
+    "categoria": "Bebidas",
+    "precio_antes": 2973.0,
+    "precio_hoy": 3101.0,
+    "diff_abs": 128.0,
+    "diff_pct": 4.31
+  },
+  {
+    "ean": "7791250003127",
+    "nombre": "vodka smirnof x 473 ml ice green  apple",
+    "categoria": "Bebidas",
+    "precio_antes": 2973.0,
+    "precio_hoy": 3101.0,
+    "diff_abs": 128.0,
+    "diff_pct": 4.31
+  },
+  {
+    "ean": "7791250003110",
+    "nombre": "vodka smirnoff x 473 ml ice lata",
+    "categoria": "Bebidas",
+    "precio_antes": 2973.0,
+    "precio_hoy": 3101.0,
+    "diff_abs": 128.0,
+    "diff_pct": 4.31
+  },
+  {
+    "ean": "7791250003271",
+    "nombre": "gin tonic gordons x 473 ml lata",
+    "categoria": "Bebidas",
+    "precio_antes": 2429.0,
+    "precio_hoy": 2533.43,
+    "diff_abs": 104.43,
+    "diff_pct": 4.3
   }
 ]
