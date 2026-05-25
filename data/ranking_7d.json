@@ -162,21 +162,21 @@
     "diff_pct": 42.94
   },
   {
-    "ean": "7792798008858",
-    "nombre": "cerveza temple wolf ipa x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3149.0,
-    "precio_hoy": 4500.0,
-    "diff_abs": 1351.0,
-    "diff_pct": 42.9
-  },
-  {
     "ean": "7792798007387",
     "nombre": "cerveza quilmes cristal x 1 lt. retornable",
     "categoria": "Bebidas",
     "precio_antes": 3079.0,
     "precio_hoy": 4400.0,
     "diff_abs": 1321.0,
+    "diff_pct": 42.9
+  },
+  {
+    "ean": "7792798008858",
+    "nombre": "cerveza temple wolf ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3149.0,
+    "precio_hoy": 4500.0,
+    "diff_abs": 1351.0,
     "diff_pct": 42.9
   }
 ]

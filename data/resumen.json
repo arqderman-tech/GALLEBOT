@@ -1,24 +1,24 @@
 {
-  "fecha": "20260524",
-  "total_productos": 5784,
-  "variacion_dia": 0.0,
-  "variacion_7d": 0.05,
-  "variacion_mes": 3.07,
+  "fecha": "20260525",
+  "total_productos": 5776,
+  "variacion_dia": 0.06,
+  "variacion_7d": 0.15,
+  "variacion_mes": 3.3,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.16,
-      "productos_subieron": 78,
-      "productos_bajaron": 41,
-      "total_productos": 1301
+      "variacion_pct_promedio": 0.26,
+      "productos_subieron": 10,
+      "productos_bajaron": 0,
+      "total_productos": 1307
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 24,
-      "productos_bajaron": 4,
-      "total_productos": 1099
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1103
     },
     {
       "categoria": "Congelados",
@@ -32,116 +32,116 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 697
+      "total_productos": 710
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.16,
-      "productos_subieron": 1,
-      "productos_bajaron": 7,
-      "total_productos": 828
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 833
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.06,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "total_productos": 1585
+      "productos_bajaron": 0,
+      "total_productos": 1611
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "78600027",
-      "nombre": "pastillas tic tac naranja x 16 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1101.0,
-      "precio_hoy": 559.0,
-      "diff_abs": -542.0,
-      "diff_pct": -49.23
+      "ean": "2011230000003",
+      "nombre": "ricota magra el destino x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 8708.0,
+      "precio_hoy": 8708.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "78600010",
-      "nombre": "pastillas tic tac menta x 16 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1101.0,
-      "precio_hoy": 559.0,
-      "diff_abs": -542.0,
-      "diff_pct": -49.23
+      "ean": "2011320000005",
+      "nombre": "salame espaa?a?ol x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 27958.0,
+      "precio_hoy": 27958.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7793046004141",
-      "nombre": "dulce de membrillo dulcor sachet x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 3333.0,
-      "precio_hoy": 2389.0,
-      "diff_abs": -944.0,
-      "diff_pct": -28.32
+      "ean": "2015580000003",
+      "nombre": "salame de milan paladini x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 30140.0,
+      "precio_hoy": 30140.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791451080040",
-      "nombre": "dulce de membrillo esnaola x 500 gm",
-      "categoria": "Perfumeria",
-      "precio_antes": 3843.0,
-      "precio_hoy": 2839.0,
-      "diff_abs": -1004.0,
-      "diff_pct": -26.13
+      "ean": "2018840000003",
+      "nombre": "salame de milan lario x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 30116.52,
+      "precio_hoy": 30116.52,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790895005794",
-      "nombre": "gaseosa coca cola x 2,50 lt. no retornable",
-      "categoria": "Bebidas",
-      "precio_antes": 5389.0,
-      "precio_hoy": 4049.0,
-      "diff_abs": -1340.0,
-      "diff_pct": -24.87
+      "ean": "2015540000005",
+      "nombre": "salame de milan fela x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 19728.0,
+      "precio_hoy": 19728.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7798062547559",
-      "nombre": "agua mineral sin gas villa del sur x 2,25 lt.",
-      "categoria": "Bebidas",
-      "precio_antes": 1699.0,
-      "precio_hoy": 1299.0,
-      "diff_abs": -400.0,
-      "diff_pct": -23.54
+      "ean": "2015530000008",
+      "nombre": "salame crespon paladini x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 29092.0,
+      "precio_hoy": 29092.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "2022220000002",
-      "nombre": "tomate redondo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
+      "ean": "7793913013665",
+      "nombre": "ricotta untable entera tregar x 290 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4222.0,
+      "precio_hoy": 4222.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7793046002215",
-      "nombre": "dulce de batata dulcor x 500 gr. vanilla y chocole",
-      "categoria": "Perfumeria",
-      "precio_antes": 2388.0,
-      "precio_hoy": 1919.0,
-      "diff_abs": -469.0,
-      "diff_pct": -19.64
+      "ean": "7793913013672",
+      "nombre": "ricotta magra tregar x 290 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4222.0,
+      "precio_hoy": 4222.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791451071000",
-      "nombre": "dulce de batanta esnaola x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2803.0,
-      "precio_hoy": 2329.0,
-      "diff_abs": -474.0,
-      "diff_pct": -16.91
+      "ean": "7790742114204",
+      "nombre": "ricotta garcia x 500 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4337.0,
+      "precio_hoy": 4337.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7793046001256",
-      "nombre": "dulce de batata cormilot x 430 gm",
-      "categoria": "Perfumeria",
-      "precio_antes": 2484.0,
-      "precio_hoy": 2079.0,
-      "diff_abs": -405.0,
-      "diff_pct": -16.3
+      "ean": "7790742102805",
+      "nombre": "ricotta entera garcia x 500 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4621.0,
+      "precio_hoy": 4621.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 103,
-  "productos_bajaron_dia": 54,
-  "productos_sin_cambio_dia": 5564
+  "productos_subieron_dia": 10,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 5765
 }
