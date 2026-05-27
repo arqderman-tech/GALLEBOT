@@ -1,13 +1,147 @@
 {
-  "fecha": "20260526",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260527",
+  "total_productos": 5802,
+  "variacion_dia": 0.09,
+  "variacion_7d": -0.32,
+  "variacion_mes": 3.45,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1305
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": 0.03,
+      "productos_subieron": 10,
+      "productos_bajaron": 7,
+      "total_productos": 1101
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 209
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 707
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.04,
+      "productos_subieron": 2,
+      "productos_bajaron": 0,
+      "total_productos": 825
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.27,
+      "productos_subieron": 24,
+      "productos_bajaron": 4,
+      "total_productos": 1606
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "2021950000009",
+      "nombre": "radicheta x paquete",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2990.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -33.44
+    },
+    {
+      "ean": "2019880000008",
+      "nombre": "acelga x paquete",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -500.0,
+      "diff_pct": -20.08
+    },
+    {
+      "ean": "2031910000000",
+      "nombre": "albahaca hidroponica",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -500.0,
+      "diff_pct": -20.08
+    },
+    {
+      "ean": "2019960000003",
+      "nombre": "albahaca x paquete",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -500.0,
+      "diff_pct": -20.08
+    },
+    {
+      "ean": "7790139003371",
+      "nombre": "aceto balsamico casalta manzana x 400 ml.",
+      "categoria": "Almacen",
+      "precio_antes": 6268.0,
+      "precio_hoy": 5140.0,
+      "diff_abs": -1128.0,
+      "diff_pct": -18.0
+    },
+    {
+      "ean": "2022300000007",
+      "nombre": "uvas rosadas x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 7990.0,
+      "precio_hoy": 6990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -12.52
+    },
+    {
+      "ean": "7794080000212",
+      "nombre": "tapa para pascualina la morocha hojaldre x 2 unid.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1903.0,
+      "precio_hoy": 1709.0,
+      "diff_abs": -194.0,
+      "diff_pct": -10.19
+    },
+    {
+      "ean": "7794080001509",
+      "nombre": "aoquis de semolin la morocha x 500 gm",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2672.0,
+      "precio_hoy": 2408.99,
+      "diff_abs": -263.01,
+      "diff_pct": -9.84
+    },
+    {
+      "ean": "7790139004828",
+      "nombre": "aceite de oliva casalta extra virgen medio x 250 .",
+      "categoria": "Almacen",
+      "precio_antes": 20571.0,
+      "precio_hoy": 20223.0,
+      "diff_abs": -348.0,
+      "diff_pct": -1.69
+    },
+    {
+      "ean": "7790139004569",
+      "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
+      "categoria": "Almacen",
+      "precio_antes": 31578.0,
+      "precio_hoy": 31043.0,
+      "diff_abs": -535.0,
+      "diff_pct": -1.69
+    }
+  ],
+  "productos_subieron_dia": 36,
+  "productos_bajaron_dia": 11,
+  "productos_sin_cambio_dia": 5706
 }

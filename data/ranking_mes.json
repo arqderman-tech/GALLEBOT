@@ -18,8 +18,8 @@
     "diff_pct": 106.8
   },
   {
-    "ean": "7622201703202",
-    "nombre": "jugo clight pera x7gr.",
+    "ean": "7622201703059",
+    "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
     "categoria": "Bebidas",
     "precio_antes": 309.0,
     "precio_hoy": 639.0,
@@ -27,8 +27,8 @@
     "diff_pct": 106.8
   },
   {
-    "ean": "7622201703059",
-    "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
+    "ean": "7622201703202",
+    "nombre": "jugo clight pera x7gr.",
     "categoria": "Bebidas",
     "precio_antes": 309.0,
     "precio_hoy": 639.0,
@@ -45,8 +45,8 @@
     "diff_pct": 104.35
   },
   {
-    "ean": "7622201733865",
-    "nombre": "jugo tang mandarina x 15 gm",
+    "ean": "7622201746490",
+    "nombre": "jugo en polvo tang x 15 gr. frutilla",
     "categoria": "Bebidas",
     "precio_antes": 299.0,
     "precio_hoy": 611.0,
@@ -54,8 +54,8 @@
     "diff_pct": 104.35
   },
   {
-    "ean": "7622201746490",
-    "nombre": "jugo en polvo tang x 15 gr. frutilla",
+    "ean": "7622201733865",
+    "nombre": "jugo tang mandarina x 15 gm",
     "categoria": "Bebidas",
     "precio_antes": 299.0,
     "precio_hoy": 611.0,
@@ -88,6 +88,15 @@
     "precio_hoy": 7990.0,
     "diff_abs": 4000.0,
     "diff_pct": 100.25
+  },
+  {
+    "ean": "7790139100582",
+    "nombre": "salsa chimichurri casalta x 300 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3020.41,
+    "precio_hoy": 5441.0,
+    "diff_abs": 2420.59,
+    "diff_pct": 80.14
   },
   {
     "ean": "7791540053153",
@@ -144,24 +153,6 @@
     "diff_pct": 66.78
   },
   {
-    "ean": "7790139004569",
-    "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
-    "categoria": "Almacen",
-    "precio_antes": 19502.98,
-    "precio_hoy": 31578.0,
-    "diff_abs": 12075.02,
-    "diff_pct": 61.91
-  },
-  {
-    "ean": "7790139004828",
-    "nombre": "aceite de oliva casalta extra virgen medio x 250 .",
-    "categoria": "Almacen",
-    "precio_antes": 12709.94,
-    "precio_hoy": 20571.0,
-    "diff_abs": 7861.06,
-    "diff_pct": 61.85
-  },
-  {
     "ean": "7792360094586",
     "nombre": "chocolate vizzio con almendras x 100 gr.",
     "categoria": "Almacen",
@@ -171,12 +162,21 @@
     "diff_pct": 61.26
   },
   {
-    "ean": "7622201702625",
-    "nombre": "jugo en polvo clight anana x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 399.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 240.0,
-    "diff_pct": 60.15
+    "ean": "7622300742584",
+    "nombre": "alfajor terrabusi x6 chocolate",
+    "categoria": "Almacen",
+    "precio_antes": 5149.0,
+    "precio_hoy": 8291.0,
+    "diff_abs": 3142.0,
+    "diff_pct": 61.02
+  },
+  {
+    "ean": "7622300742621",
+    "nombre": "alfajor terrabusi x6 glaseado",
+    "categoria": "Almacen",
+    "precio_antes": 4639.0,
+    "precio_hoy": 7469.0,
+    "diff_abs": 2830.0,
+    "diff_pct": 61.0
   }
 ]

@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790895010088",
-    "nombre": "gaseosa schweppes zero x 1.5 lt. pomelo",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3690.0,
-    "diff_abs": 991.0,
-    "diff_pct": 36.72
+    "ean": "7798048721966",
+    "nombre": "porotos colorados don elio x 300 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 899.0,
+    "precio_hoy": 1162.0,
+    "diff_abs": 263.0,
+    "diff_pct": 29.25
   },
   {
-    "ean": "7790895064173",
-    "nombre": "gaseosa lima limon sprite zero x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3690.0,
-    "diff_abs": 991.0,
-    "diff_pct": 36.72
+    "ean": "7798048722284",
+    "nombre": "porotos don elio x 400 gr pallares",
+    "categoria": "Almacen",
+    "precio_antes": 4049.0,
+    "precio_hoy": 5120.0,
+    "diff_abs": 1071.0,
+    "diff_pct": 26.45
   },
   {
-    "ean": "7790895067556",
-    "nombre": "gaseosa coca cola sin azucar x 1.5 lts.",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3690.0,
-    "diff_abs": 991.0,
-    "diff_pct": 36.72
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
   },
   {
-    "ean": "7790895006722",
-    "nombre": "gaseosa schweppes citrus x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3590.0,
-    "diff_abs": 891.0,
-    "diff_pct": 33.01
+    "ean": "7798048720914",
+    "nombre": "maiz pisado blanco don elio x 400 gm",
+    "categoria": "Almacen",
+    "precio_antes": 1999.0,
+    "precio_hoy": 2466.0,
+    "diff_abs": 467.0,
+    "diff_pct": 23.36
   },
   {
-    "ean": "7790895001451",
-    "nombre": "coca-cola light x 1,5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3590.0,
-    "diff_abs": 891.0,
-    "diff_pct": 33.01
+    "ean": "7798048720945",
+    "nombre": "garbanzos don elio x 400 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1249.0,
+    "precio_hoy": 1532.0,
+    "diff_abs": 283.0,
+    "diff_pct": 22.66
   },
   {
-    "ean": "7790895002304",
-    "nombre": "gaseosa naranja fanta zero x 1,5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3590.0,
-    "diff_abs": 891.0,
-    "diff_pct": 33.01
+    "ean": "7798048720211",
+    "nombre": "porotos manteca don elio x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2999.0,
+    "precio_hoy": 3660.0,
+    "diff_abs": 661.0,
+    "diff_pct": 22.04
   },
   {
-    "ean": "7790895000447",
-    "nombre": "gaseosa sprite x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3590.0,
-    "diff_abs": 891.0,
-    "diff_pct": 33.01
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 20.08
   },
   {
-    "ean": "7790895648014",
-    "nombre": "gaseosa agua tonica schweppes zero x 1.5 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3590.0,
-    "diff_abs": 891.0,
-    "diff_pct": 33.01
+    "ean": "7790139101565",
+    "nombre": "vinagre favinco sabor finas hierbas x 1 lt.",
+    "categoria": "Almacen",
+    "precio_antes": 2256.0,
+    "precio_hoy": 2655.0,
+    "diff_abs": 399.0,
+    "diff_pct": 17.69
   },
   {
-    "ean": "7790895006715",
-    "nombre": "agua tonica schweppes x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3590.0,
-    "diff_abs": 891.0,
-    "diff_pct": 33.01
+    "ean": "7790139003296",
+    "nombre": "vinagre de vino casalta x 500 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 1867.0,
+    "precio_hoy": 2197.0,
+    "diff_abs": 330.0,
+    "diff_pct": 17.68
   },
   {
-    "ean": "7790895000454",
-    "nombre": "gaseosa naranja fanta x 1,5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3590.0,
-    "diff_abs": 891.0,
-    "diff_pct": 33.01
+    "ean": "7790139003265",
+    "nombre": "vinagre de manzana casalta x 1 lt.",
+    "categoria": "Almacen",
+    "precio_antes": 3764.0,
+    "precio_hoy": 4429.0,
+    "diff_abs": 665.0,
+    "diff_pct": 17.67
   },
   {
-    "ean": "2018840000003",
-    "nombre": "salame de milan lario x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 30116.52,
-    "precio_hoy": 30116.52,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790139101176",
+    "nombre": "vinagre favinco x1lt.manzana",
+    "categoria": "Almacen",
+    "precio_antes": 3675.0,
+    "precio_hoy": 4324.0,
+    "diff_abs": 649.0,
+    "diff_pct": 17.66
   },
   {
-    "ean": "2015540000005",
-    "nombre": "salame de milan fela x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 19728.0,
-    "precio_hoy": 19728.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790139004330",
+    "nombre": "aceto balsamico casalta original x 250 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 4745.0,
+    "precio_hoy": 5583.0,
+    "diff_abs": 838.0,
+    "diff_pct": 17.66
   },
   {
-    "ean": "2015530000008",
-    "nombre": "salame crespon paladini x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 29092.0,
-    "precio_hoy": 29092.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790139004521",
+    "nombre": "aceto balsamico glaze casalta x 250 ml. ahumado",
+    "categoria": "Almacen",
+    "precio_antes": 4745.0,
+    "precio_hoy": 5583.0,
+    "diff_abs": 838.0,
+    "diff_pct": 17.66
   },
   {
-    "ean": "7793913013665",
-    "nombre": "ricotta untable entera tregar x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4222.0,
-    "precio_hoy": 4222.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790139004965",
+    "nombre": "aceto espeso favinco x 500 ml. original",
+    "categoria": "Almacen",
+    "precio_antes": 5818.0,
+    "precio_hoy": 6845.0,
+    "diff_abs": 1027.0,
+    "diff_pct": 17.65
   },
   {
-    "ean": "7793913013672",
-    "nombre": "ricotta magra tregar x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4222.0,
-    "precio_hoy": 4222.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790139003166",
+    "nombre": "vinagre de alcohol casalta x 500 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 1173.0,
+    "precio_hoy": 1380.0,
+    "diff_abs": 207.0,
+    "diff_pct": 17.65
   },
   {
-    "ean": "7790742114204",
-    "nombre": "ricotta garcia x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4337.0,
-    "precio_hoy": 4337.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790139002121",
+    "nombre": "aceto balsamico favinco x 500 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 4097.0,
+    "precio_hoy": 4820.0,
+    "diff_abs": 723.0,
+    "diff_pct": 17.65
   },
   {
-    "ean": "2015580000003",
-    "nombre": "salame de milan paladini x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 30140.0,
-    "precio_hoy": 30140.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790139003425",
+    "nombre": "aceto balsamico favinco x 250 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 2822.0,
+    "precio_hoy": 3320.0,
+    "diff_abs": 498.0,
+    "diff_pct": 17.65
   },
   {
-    "ean": "2011060000006",
-    "nombre": "ricota rosalat x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5708.0,
-    "precio_hoy": 5708.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790139004958",
+    "nombre": "aceto espeso favinco x 250 ml. ahumado",
+    "categoria": "Almacen",
+    "precio_antes": 3799.0,
+    "precio_hoy": 4469.0,
+    "diff_abs": 670.0,
+    "diff_pct": 17.64
   },
   {
-    "ean": "2011070000003",
-    "nombre": "ricota rosalat envasada x 500 gr aprox",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5979.0,
-    "precio_hoy": 5979.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790139100575",
+    "nombre": "salsa barbacoa casalta x 350 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5254.0,
+    "precio_hoy": 6181.0,
+    "diff_abs": 927.0,
+    "diff_pct": 17.64
   },
   {
-    "ean": "2011230000003",
-    "nombre": "ricota magra el destino x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 8708.0,
-    "precio_hoy": 8708.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790139004606",
+    "nombre": "aceto reduccion glaze casalta x 250 ml mostaza",
+    "categoria": "Almacen",
+    "precio_antes": 4678.0,
+    "precio_hoy": 5503.0,
+    "diff_abs": 825.0,
+    "diff_pct": 17.64
   }
 ]

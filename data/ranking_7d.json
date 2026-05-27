@@ -9,24 +9,6 @@
     "diff_pct": 79.65
   },
   {
-    "ean": "7791337008403",
-    "nombre": "leche chocolatada la serenisima x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3005.63,
-    "precio_hoy": 5271.0,
-    "diff_abs": 2265.37,
-    "diff_pct": 75.37
-  },
-  {
-    "ean": "7792798002399",
-    "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3839.0,
-    "precio_hoy": 6720.0,
-    "diff_abs": 2881.0,
-    "diff_pct": 75.05
-  },
-  {
     "ean": "7791540053160",
     "nombre": "vino frizze italian limonata x 473 ml.",
     "categoria": "Bebidas",
@@ -34,69 +16,6 @@
     "precio_hoy": 2548.0,
     "diff_abs": 1049.0,
     "diff_pct": 69.98
-  },
-  {
-    "ean": "2019910000008",
-    "nombre": "ajies x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 66.78
-  },
-  {
-    "ean": "7797394001265",
-    "nombre": "pastillas tic tac mix de frutas x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 699.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 402.0,
-    "diff_pct": 57.51
-  },
-  {
-    "ean": "7791337008410",
-    "nombre": "leche chocolatada la serenisima x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1175.94,
-    "precio_hoy": 1804.0,
-    "diff_abs": 628.06,
-    "diff_pct": 53.41
-  },
-  {
-    "ean": "7790139100582",
-    "nombre": "salsa chimichurri casalta x 300 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3046.83,
-    "precio_hoy": 4625.0,
-    "diff_abs": 1578.17,
-    "diff_pct": 51.8
-  },
-  {
-    "ean": "7790139100575",
-    "nombre": "salsa barbacoa casalta x 350 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3469.12,
-    "precio_hoy": 5254.0,
-    "diff_abs": 1784.88,
-    "diff_pct": 51.45
-  },
-  {
-    "ean": "7792798013388",
-    "nombre": "cerveza quilmes ipa x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1749.0,
-    "precio_hoy": 2613.0,
-    "diff_abs": 864.0,
-    "diff_pct": 49.4
-  },
-  {
-    "ean": "7792798012923",
-    "nombre": "cerveza quilmes lata x 473 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 2500.0,
-    "diff_abs": 821.0,
-    "diff_pct": 48.9
   },
   {
     "ean": "7791540052057",
@@ -117,66 +36,147 @@
     "diff_pct": 44.89
   },
   {
-    "ean": "7792798010615",
-    "nombre": "cerv.stella artois x473ml.lata",
+    "ean": "7797906054833",
+    "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 5649.0,
+    "precio_hoy": 8071.0,
+    "diff_abs": 2422.0,
+    "diff_pct": 42.87
+  },
+  {
+    "ean": "7793551001055",
+    "nombre": "vinagre de alcohol marvavic x 1 lt.",
+    "categoria": "Almacen",
+    "precio_antes": 1499.0,
+    "precio_hoy": 2100.0,
+    "diff_abs": 601.0,
+    "diff_pct": 40.09
+  },
+  {
+    "ean": "2024590000002",
+    "nombre": "aceitunas marvavic negras sin carozo x kg.",
+    "categoria": "Almacen",
+    "precio_antes": 14499.0,
+    "precio_hoy": 19857.0,
+    "diff_abs": 5358.0,
+    "diff_pct": 36.95
+  },
+  {
+    "ean": "7790895064173",
+    "nombre": "gaseosa lima limon sprite zero x 1.5 lt.",
     "categoria": "Bebidas",
-    "precio_antes": 2629.0,
-    "precio_hoy": 3798.0,
-    "diff_abs": 1169.0,
-    "diff_pct": 44.47
+    "precio_antes": 2699.0,
+    "precio_hoy": 3690.0,
+    "diff_abs": 991.0,
+    "diff_pct": 36.72
   },
   {
-    "ean": "7792798010639",
-    "nombre": "cerveza stella artois noir premium x 473 ml.",
+    "ean": "7790895067556",
+    "nombre": "gaseosa coca cola sin azucar x 1.5 lts.",
     "categoria": "Bebidas",
-    "precio_antes": 2629.0,
-    "precio_hoy": 3798.0,
-    "diff_abs": 1169.0,
-    "diff_pct": 44.47
+    "precio_antes": 2699.0,
+    "precio_hoy": 3690.0,
+    "diff_abs": 991.0,
+    "diff_pct": 36.72
   },
   {
-    "ean": "7898024395232",
-    "nombre": "pasta de avellanas y chocolate nutella x 140 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3299.0,
-    "precio_hoy": 4737.0,
-    "diff_abs": 1438.0,
-    "diff_pct": 43.59
-  },
-  {
-    "ean": "7898024394181",
-    "nombre": "pasta de avellanas y chocolate nutella x 350 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 7299.0,
-    "precio_hoy": 10452.0,
-    "diff_abs": 3153.0,
-    "diff_pct": 43.2
-  },
-  {
-    "ean": "7792798001316",
-    "nombre": "cerveza quilmes stout x 473 ml.",
+    "ean": "7790895010088",
+    "nombre": "gaseosa schweppes zero x 1.5 lt. pomelo",
     "categoria": "Bebidas",
-    "precio_antes": 1749.0,
-    "precio_hoy": 2500.0,
-    "diff_abs": 751.0,
-    "diff_pct": 42.94
+    "precio_antes": 2699.0,
+    "precio_hoy": 3690.0,
+    "diff_abs": 991.0,
+    "diff_pct": 36.72
   },
   {
-    "ean": "7792798007387",
-    "nombre": "cerveza quilmes cristal x 1 lt. retornable",
-    "categoria": "Bebidas",
-    "precio_antes": 3079.0,
-    "precio_hoy": 4400.0,
-    "diff_abs": 1321.0,
-    "diff_pct": 42.9
+    "ean": "7793551001079",
+    "nombre": "vinagre de manzana marvavic x 1 lt.",
+    "categoria": "Almacen",
+    "precio_antes": 2199.0,
+    "precio_hoy": 3000.0,
+    "diff_abs": 801.0,
+    "diff_pct": 36.43
   },
   {
-    "ean": "7792798008858",
-    "nombre": "cerveza temple wolf ipa x 473 ml.",
+    "ean": "2024650000003",
+    "nombre": "aceitunas marvavic verdes con carozo x kg.",
+    "categoria": "Almacen",
+    "precio_antes": 10099.0,
+    "precio_hoy": 13752.0,
+    "diff_abs": 3653.0,
+    "diff_pct": 36.17
+  },
+  {
+    "ean": "2024580000005",
+    "nombre": "aceitunas marvavic negras con carozo x kg.",
+    "categoria": "Almacen",
+    "precio_antes": 12899.0,
+    "precio_hoy": 17463.0,
+    "diff_abs": 4564.0,
+    "diff_pct": 35.38
+  },
+  {
+    "ean": "2024640000006",
+    "nombre": "aceitunas marvavic verdes descarozadas x kg.",
+    "categoria": "Almacen",
+    "precio_antes": 13599.0,
+    "precio_hoy": 18324.0,
+    "diff_abs": 4725.0,
+    "diff_pct": 34.75
+  },
+  {
+    "ean": "7791250001871",
+    "nombre": "vodka smirnoff raspberry x 700 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 3149.0,
-    "precio_hoy": 4500.0,
-    "diff_abs": 1351.0,
-    "diff_pct": 42.9
+    "precio_antes": 8199.0,
+    "precio_hoy": 10968.1,
+    "diff_abs": 2769.1,
+    "diff_pct": 33.77
+  },
+  {
+    "ean": "7791250001857",
+    "nombre": "vodka smirnoff green apple x 700 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 8199.0,
+    "precio_hoy": 10968.1,
+    "diff_abs": 2769.1,
+    "diff_pct": 33.77
+  },
+  {
+    "ean": "7790240041460",
+    "nombre": "vino fond de cave x 750 ml. malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 6999.0,
+    "precio_hoy": 9313.0,
+    "diff_abs": 2314.0,
+    "diff_pct": 33.06
+  },
+  {
+    "ean": "7790895006715",
+    "nombre": "agua tonica schweppes x 1.5 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2699.0,
+    "precio_hoy": 3590.0,
+    "diff_abs": 891.0,
+    "diff_pct": 33.01
+  },
+  {
+    "ean": "7790895000447",
+    "nombre": "gaseosa sprite x 1.5 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2699.0,
+    "precio_hoy": 3590.0,
+    "diff_abs": 891.0,
+    "diff_pct": 33.01
+  },
+  {
+    "ean": "7790895000454",
+    "nombre": "gaseosa naranja fanta x 1,5 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2699.0,
+    "precio_hoy": 3590.0,
+    "diff_abs": 891.0,
+    "diff_pct": 33.01
   }
 ]
