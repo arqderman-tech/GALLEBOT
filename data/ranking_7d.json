@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7791540053153",
-    "nombre": "vino frizze",
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2209.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2298.0,
+    "diff_pct": 104.03
+  },
+  {
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3809.0,
+    "precio_hoy": 7510.0,
+    "diff_abs": 3701.0,
+    "diff_pct": 97.16
+  },
+  {
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2289.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2218.0,
+    "diff_pct": 96.9
+  },
+  {
+    "ean": "7791337010468",
+    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2289.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2218.0,
+    "diff_pct": 96.9
+  },
+  {
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2289.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2218.0,
+    "diff_pct": 96.9
+  },
+  {
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2289.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2218.0,
+    "diff_pct": 96.9
+  },
+  {
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3819.0,
+    "precio_hoy": 7510.0,
+    "diff_abs": 3691.0,
+    "diff_pct": 96.65
+  },
+  {
+    "ean": "7791337007260",
+    "nombre": "leche chocolatada cindor x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1509.0,
+    "precio_hoy": 2701.0,
+    "diff_abs": 1192.0,
+    "diff_pct": 78.99
+  },
+  {
+    "ean": "7791337061385",
+    "nombre": "queso crema casancrem balance x 290 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3319.0,
+    "precio_hoy": 5852.0,
+    "diff_abs": 2533.0,
+    "diff_pct": 76.32
+  },
+  {
+    "ean": "7791337060944",
+    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3319.0,
+    "precio_hoy": 5852.0,
+    "diff_abs": 2533.0,
+    "diff_pct": 76.32
+  },
+  {
+    "ean": "7791337061361",
+    "nombre": "queso crema casancrem x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3319.0,
+    "precio_hoy": 5852.0,
+    "diff_abs": 2533.0,
+    "diff_pct": 76.32
+  },
+  {
+    "ean": "7790703205101",
+    "nombre": "vino blanco don valentin lacrado torrontes x 750 .",
     "categoria": "Bebidas",
-    "precio_antes": 1499.0,
-    "precio_hoy": 2693.0,
-    "diff_abs": 1194.0,
-    "diff_pct": 79.65
+    "precio_antes": 3747.0,
+    "precio_hoy": 6228.0,
+    "diff_abs": 2481.0,
+    "diff_pct": 66.21
   },
   {
-    "ean": "7791540053160",
-    "nombre": "vino frizze italian limonata x 473 ml.",
+    "ean": "7790703205064",
+    "nombre": "vino don valentin lacr.rob.mal",
     "categoria": "Bebidas",
-    "precio_antes": 1499.0,
-    "precio_hoy": 2548.0,
-    "diff_abs": 1049.0,
-    "diff_pct": 69.98
+    "precio_antes": 3747.0,
+    "precio_hoy": 6228.0,
+    "diff_abs": 2481.0,
+    "diff_pct": 66.21
   },
   {
-    "ean": "7791540052057",
-    "nombre": "vino tinto el que rie ultimo rie mejor x 750 ml. b",
+    "ean": "7790703205095",
+    "nombre": "vino don valentin lacrado cabernet x 750 ml",
     "categoria": "Bebidas",
-    "precio_antes": 6999.0,
-    "precio_hoy": 10168.0,
-    "diff_abs": 3169.0,
-    "diff_pct": 45.28
+    "precio_antes": 3747.0,
+    "precio_hoy": 6228.0,
+    "diff_abs": 2481.0,
+    "diff_pct": 66.21
   },
   {
-    "ean": "7791250001253",
-    "nombre": "whisky white horse x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 13999.0,
-    "precio_hoy": 20283.0,
-    "diff_abs": 6284.0,
-    "diff_pct": 44.89
+    "ean": "7791337061422",
+    "nombre": "queso crema la serenisima x 290 gm entero",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2599.0,
+    "precio_hoy": 4095.0,
+    "diff_abs": 1496.0,
+    "diff_pct": 57.56
   },
   {
-    "ean": "7797906054833",
-    "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 5649.0,
-    "precio_hoy": 8071.0,
-    "diff_abs": 2422.0,
-    "diff_pct": 42.87
+    "ean": "7791337061439",
+    "nombre": "queso untable la serenisima light x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2599.0,
+    "precio_hoy": 4095.0,
+    "diff_abs": 1496.0,
+    "diff_pct": 57.56
   },
   {
-    "ean": "7793551001055",
-    "nombre": "vinagre de alcohol marvavic x 1 lt.",
-    "categoria": "Almacen",
-    "precio_antes": 1499.0,
-    "precio_hoy": 2100.0,
-    "diff_abs": 601.0,
-    "diff_pct": 40.09
+    "ean": "7791337009691",
+    "nombre": "yogur gran compra bebible x 900 gr vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1799.0,
+    "precio_hoy": 2757.0,
+    "diff_abs": 958.0,
+    "diff_pct": 53.25
   },
   {
-    "ean": "2024590000002",
-    "nombre": "aceitunas marvavic negras sin carozo x kg.",
-    "categoria": "Almacen",
-    "precio_antes": 14499.0,
-    "precio_hoy": 19857.0,
-    "diff_abs": 5358.0,
-    "diff_pct": 36.95
+    "ean": "7791337009684",
+    "nombre": "yogur bebible gran compra frutilla x 900 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1799.0,
+    "precio_hoy": 2757.0,
+    "diff_abs": 958.0,
+    "diff_pct": 53.25
   },
   {
-    "ean": "7790895064173",
-    "nombre": "gaseosa lima limon sprite zero x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3690.0,
-    "diff_abs": 991.0,
-    "diff_pct": 36.72
+    "ean": "7791337010017",
+    "nombre": "yogur yogurisimo griego x 300 gr natural sin end",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3009.0,
+    "precio_hoy": 4587.0,
+    "diff_abs": 1578.0,
+    "diff_pct": 52.44
   },
   {
-    "ean": "7790895067556",
-    "nombre": "gaseosa coca cola sin azucar x 1.5 lts.",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3690.0,
-    "diff_abs": 991.0,
-    "diff_pct": 36.72
-  },
-  {
-    "ean": "7790895010088",
-    "nombre": "gaseosa schweppes zero x 1.5 lt. pomelo",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3690.0,
-    "diff_abs": 991.0,
-    "diff_pct": 36.72
-  },
-  {
-    "ean": "7793551001079",
-    "nombre": "vinagre de manzana marvavic x 1 lt.",
-    "categoria": "Almacen",
-    "precio_antes": 2199.0,
-    "precio_hoy": 3000.0,
-    "diff_abs": 801.0,
-    "diff_pct": 36.43
-  },
-  {
-    "ean": "2024650000003",
-    "nombre": "aceitunas marvavic verdes con carozo x kg.",
-    "categoria": "Almacen",
-    "precio_antes": 10099.0,
-    "precio_hoy": 13752.0,
-    "diff_abs": 3653.0,
-    "diff_pct": 36.17
-  },
-  {
-    "ean": "2024580000005",
-    "nombre": "aceitunas marvavic negras con carozo x kg.",
-    "categoria": "Almacen",
-    "precio_antes": 12899.0,
-    "precio_hoy": 17463.0,
-    "diff_abs": 4564.0,
-    "diff_pct": 35.38
-  },
-  {
-    "ean": "2024640000006",
-    "nombre": "aceitunas marvavic verdes descarozadas x kg.",
-    "categoria": "Almacen",
-    "precio_antes": 13599.0,
-    "precio_hoy": 18324.0,
-    "diff_abs": 4725.0,
-    "diff_pct": 34.75
-  },
-  {
-    "ean": "7791250001871",
-    "nombre": "vodka smirnoff raspberry x 700 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 8199.0,
-    "precio_hoy": 10968.1,
-    "diff_abs": 2769.1,
-    "diff_pct": 33.77
-  },
-  {
-    "ean": "7791250001857",
-    "nombre": "vodka smirnoff green apple x 700 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 8199.0,
-    "precio_hoy": 10968.1,
-    "diff_abs": 2769.1,
-    "diff_pct": 33.77
-  },
-  {
-    "ean": "7790240041460",
-    "nombre": "vino fond de cave x 750 ml. malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 6999.0,
-    "precio_hoy": 9313.0,
-    "diff_abs": 2314.0,
-    "diff_pct": 33.06
-  },
-  {
-    "ean": "7790895006715",
-    "nombre": "agua tonica schweppes x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3590.0,
-    "diff_abs": 891.0,
-    "diff_pct": 33.01
-  },
-  {
-    "ean": "7790895000447",
-    "nombre": "gaseosa sprite x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3590.0,
-    "diff_abs": 891.0,
-    "diff_pct": 33.01
-  },
-  {
-    "ean": "7790895000454",
-    "nombre": "gaseosa naranja fanta x 1,5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3590.0,
-    "diff_abs": 891.0,
-    "diff_pct": 33.01
+    "ean": "7791337010000",
+    "nombre": "yogur yogurisimo griego x 300 ml natural endulz",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3019.0,
+    "precio_hoy": 4587.0,
+    "diff_abs": 1568.0,
+    "diff_pct": 51.94
   }
 ]

@@ -9,6 +9,51 @@
     "diff_pct": 405.06
   },
   {
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1999.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2508.0,
+    "diff_pct": 125.46
+  },
+  {
+    "ean": "7791337010468",
+    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1999.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2508.0,
+    "diff_pct": 125.46
+  },
+  {
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1999.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2508.0,
+    "diff_pct": 125.46
+  },
+  {
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1999.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2508.0,
+    "diff_pct": 125.46
+  },
+  {
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1999.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2508.0,
+    "diff_pct": 125.46
+  },
+  {
     "ean": "7622201704148",
     "nombre": "jugo en polvo clight mandarina x 8 gr.",
     "categoria": "Bebidas",
@@ -63,6 +108,33 @@
     "diff_pct": 104.35
   },
   {
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3719.0,
+    "precio_hoy": 7510.0,
+    "diff_abs": 3791.0,
+    "diff_pct": 101.94
+  },
+  {
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3719.0,
+    "precio_hoy": 7510.0,
+    "diff_abs": 3791.0,
+    "diff_pct": 101.94
+  },
+  {
+    "ean": "7791337007260",
+    "nombre": "leche chocolatada cindor x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1339.0,
+    "precio_hoy": 2701.0,
+    "diff_abs": 1362.0,
+    "diff_pct": 101.72
+  },
+  {
     "ean": "7791337008403",
     "nombre": "leche chocolatada la serenisima x 1 lt.",
     "categoria": "Lacteos Y Frescos",
@@ -90,6 +162,15 @@
     "diff_pct": 100.25
   },
   {
+    "ean": "2020370000002",
+    "nombre": "chaucha rolliza x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 8990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 80.16
+  },
+  {
     "ean": "7790139100582",
     "nombre": "salsa chimichurri casalta x 300 gr.",
     "categoria": "Almacen",
@@ -97,86 +178,5 @@
     "precio_hoy": 5441.0,
     "diff_abs": 2420.59,
     "diff_pct": 80.14
-  },
-  {
-    "ean": "7791540053153",
-    "nombre": "vino frizze",
-    "categoria": "Bebidas",
-    "precio_antes": 1499.0,
-    "precio_hoy": 2693.0,
-    "diff_abs": 1194.0,
-    "diff_pct": 79.65
-  },
-  {
-    "ean": "7793762006252",
-    "nombre": "cubeteras gemplast x 2 unid.",
-    "categoria": "Limpieza",
-    "precio_antes": 1190.0,
-    "precio_hoy": 2127.0,
-    "diff_abs": 937.0,
-    "diff_pct": 78.74
-  },
-  {
-    "ean": "7792798002399",
-    "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3839.0,
-    "precio_hoy": 6720.0,
-    "diff_abs": 2881.0,
-    "diff_pct": 75.05
-  },
-  {
-    "ean": "7791540053160",
-    "nombre": "vino frizze italian limonata x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1499.0,
-    "precio_hoy": 2548.0,
-    "diff_abs": 1049.0,
-    "diff_pct": 69.98
-  },
-  {
-    "ean": "77969118",
-    "nombre": "chicle beldent frutilla x10gr.",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1286.0,
-    "diff_abs": 517.0,
-    "diff_pct": 67.23
-  },
-  {
-    "ean": "2019910000008",
-    "nombre": "ajies x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 66.78
-  },
-  {
-    "ean": "7792360094586",
-    "nombre": "chocolate vizzio con almendras x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3699.0,
-    "precio_hoy": 5965.0,
-    "diff_abs": 2266.0,
-    "diff_pct": 61.26
-  },
-  {
-    "ean": "7622300742584",
-    "nombre": "alfajor terrabusi x6 chocolate",
-    "categoria": "Almacen",
-    "precio_antes": 5149.0,
-    "precio_hoy": 8291.0,
-    "diff_abs": 3142.0,
-    "diff_pct": 61.02
-  },
-  {
-    "ean": "7622300742621",
-    "nombre": "alfajor terrabusi x6 glaseado",
-    "categoria": "Almacen",
-    "precio_antes": 4639.0,
-    "precio_hoy": 7469.0,
-    "diff_abs": 2830.0,
-    "diff_pct": 61.0
   }
 ]

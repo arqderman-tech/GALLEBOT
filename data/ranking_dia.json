@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7798048721966",
-    "nombre": "porotos colorados don elio x 300 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 899.0,
-    "precio_hoy": 1162.0,
-    "diff_abs": 263.0,
-    "diff_pct": 29.25
+    "ean": "7791337010468",
+    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
   },
   {
-    "ean": "7798048722284",
-    "nombre": "porotos don elio x 400 gr pallares",
-    "categoria": "Almacen",
-    "precio_antes": 4049.0,
-    "precio_hoy": 5120.0,
-    "diff_abs": 1071.0,
-    "diff_pct": 26.45
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
   },
   {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
   },
   {
-    "ean": "7798048720914",
-    "nombre": "maiz pisado blanco don elio x 400 gm",
-    "categoria": "Almacen",
-    "precio_antes": 1999.0,
-    "precio_hoy": 2466.0,
-    "diff_abs": 467.0,
-    "diff_pct": 23.36
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
   },
   {
-    "ean": "7798048720945",
-    "nombre": "garbanzos don elio x 400 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1249.0,
-    "precio_hoy": 1532.0,
-    "diff_abs": 283.0,
-    "diff_pct": 22.66
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
   },
   {
-    "ean": "7798048720211",
-    "nombre": "porotos manteca don elio x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2999.0,
-    "precio_hoy": 3660.0,
-    "diff_abs": 661.0,
-    "diff_pct": 22.04
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3809.0,
+    "precio_hoy": 7510.0,
+    "diff_abs": 3701.0,
+    "diff_pct": 97.16
   },
   {
-    "ean": "2022060000002",
-    "nombre": "repollo colorado x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 20.08
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3809.0,
+    "precio_hoy": 7510.0,
+    "diff_abs": 3701.0,
+    "diff_pct": 97.16
   },
   {
-    "ean": "7790139101565",
-    "nombre": "vinagre favinco sabor finas hierbas x 1 lt.",
-    "categoria": "Almacen",
-    "precio_antes": 2256.0,
-    "precio_hoy": 2655.0,
-    "diff_abs": 399.0,
-    "diff_pct": 17.69
+    "ean": "7791337007260",
+    "nombre": "leche chocolatada cindor x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1509.0,
+    "precio_hoy": 2701.0,
+    "diff_abs": 1192.0,
+    "diff_pct": 78.99
   },
   {
-    "ean": "7790139003296",
-    "nombre": "vinagre de vino casalta x 500 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 1867.0,
-    "precio_hoy": 2197.0,
-    "diff_abs": 330.0,
-    "diff_pct": 17.68
+    "ean": "7791337061385",
+    "nombre": "queso crema casancrem balance x 290 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3299.0,
+    "precio_hoy": 5852.0,
+    "diff_abs": 2553.0,
+    "diff_pct": 77.39
   },
   {
-    "ean": "7790139003265",
-    "nombre": "vinagre de manzana casalta x 1 lt.",
-    "categoria": "Almacen",
-    "precio_antes": 3764.0,
-    "precio_hoy": 4429.0,
-    "diff_abs": 665.0,
-    "diff_pct": 17.67
+    "ean": "7791337061361",
+    "nombre": "queso crema casancrem x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3299.0,
+    "precio_hoy": 5852.0,
+    "diff_abs": 2553.0,
+    "diff_pct": 77.39
   },
   {
-    "ean": "7790139101176",
-    "nombre": "vinagre favinco x1lt.manzana",
-    "categoria": "Almacen",
-    "precio_antes": 3675.0,
-    "precio_hoy": 4324.0,
-    "diff_abs": 649.0,
-    "diff_pct": 17.66
+    "ean": "7791337060944",
+    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3299.0,
+    "precio_hoy": 5852.0,
+    "diff_abs": 2553.0,
+    "diff_pct": 77.39
   },
   {
-    "ean": "7790139004330",
-    "nombre": "aceto balsamico casalta original x 250 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 4745.0,
-    "precio_hoy": 5583.0,
-    "diff_abs": 838.0,
-    "diff_pct": 17.66
+    "ean": "7790703205101",
+    "nombre": "vino blanco don valentin lacrado torrontes x 750 .",
+    "categoria": "Bebidas",
+    "precio_antes": 3747.0,
+    "precio_hoy": 6228.0,
+    "diff_abs": 2481.0,
+    "diff_pct": 66.21
   },
   {
-    "ean": "7790139004521",
-    "nombre": "aceto balsamico glaze casalta x 250 ml. ahumado",
-    "categoria": "Almacen",
-    "precio_antes": 4745.0,
-    "precio_hoy": 5583.0,
-    "diff_abs": 838.0,
-    "diff_pct": 17.66
+    "ean": "7790703205064",
+    "nombre": "vino don valentin lacr.rob.mal",
+    "categoria": "Bebidas",
+    "precio_antes": 3747.0,
+    "precio_hoy": 6228.0,
+    "diff_abs": 2481.0,
+    "diff_pct": 66.21
   },
   {
-    "ean": "7790139004965",
-    "nombre": "aceto espeso favinco x 500 ml. original",
-    "categoria": "Almacen",
-    "precio_antes": 5818.0,
-    "precio_hoy": 6845.0,
-    "diff_abs": 1027.0,
-    "diff_pct": 17.65
+    "ean": "7790703205095",
+    "nombre": "vino don valentin lacrado cabernet x 750 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 3747.0,
+    "precio_hoy": 6228.0,
+    "diff_abs": 2481.0,
+    "diff_pct": 66.21
   },
   {
-    "ean": "7790139003166",
-    "nombre": "vinagre de alcohol casalta x 500 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 1173.0,
-    "precio_hoy": 1380.0,
-    "diff_abs": 207.0,
-    "diff_pct": 17.65
+    "ean": "7791337061439",
+    "nombre": "queso untable la serenisima light x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2599.0,
+    "precio_hoy": 4095.0,
+    "diff_abs": 1496.0,
+    "diff_pct": 57.56
   },
   {
-    "ean": "7790139002121",
-    "nombre": "aceto balsamico favinco x 500 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 4097.0,
-    "precio_hoy": 4820.0,
-    "diff_abs": 723.0,
-    "diff_pct": 17.65
+    "ean": "7791337061422",
+    "nombre": "queso crema la serenisima x 290 gm entero",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2599.0,
+    "precio_hoy": 4095.0,
+    "diff_abs": 1496.0,
+    "diff_pct": 57.56
   },
   {
-    "ean": "7790139003425",
-    "nombre": "aceto balsamico favinco x 250 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 2822.0,
-    "precio_hoy": 3320.0,
-    "diff_abs": 498.0,
-    "diff_pct": 17.65
+    "ean": "7791337009691",
+    "nombre": "yogur gran compra bebible x 900 gr vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1799.0,
+    "precio_hoy": 2757.0,
+    "diff_abs": 958.0,
+    "diff_pct": 53.25
   },
   {
-    "ean": "7790139004958",
-    "nombre": "aceto espeso favinco x 250 ml. ahumado",
-    "categoria": "Almacen",
-    "precio_antes": 3799.0,
-    "precio_hoy": 4469.0,
-    "diff_abs": 670.0,
-    "diff_pct": 17.64
+    "ean": "7791337009684",
+    "nombre": "yogur bebible gran compra frutilla x 900 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1799.0,
+    "precio_hoy": 2757.0,
+    "diff_abs": 958.0,
+    "diff_pct": 53.25
   },
   {
-    "ean": "7790139100575",
-    "nombre": "salsa barbacoa casalta x 350 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5254.0,
-    "precio_hoy": 6181.0,
-    "diff_abs": 927.0,
-    "diff_pct": 17.64
+    "ean": "7791337010017",
+    "nombre": "yogur yogurisimo griego x 300 gr natural sin end",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3009.0,
+    "precio_hoy": 4587.0,
+    "diff_abs": 1578.0,
+    "diff_pct": 52.44
   },
   {
-    "ean": "7790139004606",
-    "nombre": "aceto reduccion glaze casalta x 250 ml mostaza",
-    "categoria": "Almacen",
-    "precio_antes": 4678.0,
-    "precio_hoy": 5503.0,
-    "diff_abs": 825.0,
-    "diff_pct": 17.64
+    "ean": "7791337010000",
+    "nombre": "yogur yogurisimo griego x 300 ml natural endulz",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3009.0,
+    "precio_hoy": 4587.0,
+    "diff_abs": 1578.0,
+    "diff_pct": 52.44
   }
 ]
