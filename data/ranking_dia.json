@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7791337010468",
-    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+    "ean": "2021820000009",
+    "nombre": "pimiento rojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
+  },
+  {
+    "ean": "7790199603856",
+    "nombre": "harina de trigo integral morixe x 1 kg.",
+    "categoria": "Almacen",
+    "precio_antes": 1170.0,
+    "precio_hoy": 1358.0,
+    "diff_abs": 188.0,
+    "diff_pct": 16.07
+  },
+  {
+    "ean": "7790199604273",
+    "nombre": "harina para pizzas caseras morixe x 1 kg.",
+    "categoria": "Almacen",
+    "precio_antes": 1568.0,
+    "precio_hoy": 1772.0,
+    "diff_abs": 204.0,
+    "diff_pct": 13.01
+  },
+  {
+    "ean": "7790199000051",
+    "nombre": "harina leudante morixe x 1 kg.",
+    "categoria": "Almacen",
+    "precio_antes": 1604.0,
+    "precio_hoy": 1807.0,
+    "diff_abs": 203.0,
+    "diff_pct": 12.66
+  },
+  {
+    "ean": "2022130000000",
+    "nombre": "tomate cherry x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 8990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 12.52
+  },
+  {
+    "ean": "7790580149963",
+    "nombre": "ramen arcor sabor pollo x 70 gm",
+    "categoria": "Almacen",
+    "precio_antes": 1188.0,
+    "precio_hoy": 1307.0,
+    "diff_abs": 119.0,
+    "diff_pct": 10.02
+  },
+  {
+    "ean": "7790580149970",
+    "nombre": "ramen arcor sabor carne x 70 gr",
+    "categoria": "Almacen",
+    "precio_antes": 1188.0,
+    "precio_hoy": 1307.0,
+    "diff_abs": 119.0,
+    "diff_pct": 10.02
+  },
+  {
+    "ean": "7790199000013",
+    "nombre": "harina 000 morixe x 1 kg.",
+    "categoria": "Almacen",
+    "precio_antes": 1018.0,
+    "precio_hoy": 1109.0,
+    "diff_abs": 91.0,
+    "diff_pct": 8.94
+  },
+  {
+    "ean": "7790199000020",
+    "nombre": "harina 0000 morixe x 1 kg.",
+    "categoria": "Almacen",
+    "precio_antes": 1316.0,
+    "precio_hoy": 1424.0,
+    "diff_abs": 108.0,
+    "diff_pct": 8.21
+  },
+  {
+    "ean": "7790236018346",
+    "nombre": "tapas para empaandas la salteaa x 22 unidades hojaldradas",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
+    "precio_antes": 4108.0,
+    "precio_hoy": 4394.0,
+    "diff_abs": 286.0,
+    "diff_pct": 6.96
   },
   {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "ean": "7790236018353",
+    "nombre": "tapas pempanadas la saltena criollas x 22 unid.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
+    "precio_antes": 4108.0,
+    "precio_hoy": 4394.0,
+    "diff_abs": 286.0,
+    "diff_pct": 6.96
   },
   {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "ean": "7790070507280",
+    "nombre": "yerba mate nobleza gaucha seleccion x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4342.0,
+    "precio_hoy": 4561.0,
+    "diff_abs": 219.0,
+    "diff_pct": 5.04
+  },
+  {
+    "ean": "7790199604969",
+    "nombre": "champignones enteros morixe x 400 gm",
+    "categoria": "Almacen",
+    "precio_antes": 3314.0,
+    "precio_hoy": 3465.0,
+    "diff_abs": 151.0,
+    "diff_pct": 4.56
+  },
+  {
+    "ean": "7790787960873",
+    "nombre": "queso untable ilolay crem clasico x 290 gr.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
+    "precio_antes": 3255.0,
+    "precio_hoy": 3353.0,
+    "diff_abs": 98.0,
+    "diff_pct": 3.01
   },
   {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "ean": "7790787960880",
+    "nombre": "queso ilolay crem x 290 gr balance",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
+    "precio_antes": 3255.0,
+    "precio_hoy": 3353.0,
+    "diff_abs": 98.0,
+    "diff_pct": 3.01
   },
   {
-    "ean": "7791337010369",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "ean": "7790070431028",
+    "nombre": "premezcla pbudin exquisita x 300 gr. chocolate",
+    "categoria": "Almacen",
+    "precio_antes": 2968.0,
+    "precio_hoy": 2969.0,
+    "diff_abs": 1.0,
+    "diff_pct": 0.03
+  },
+  {
+    "ean": "7790787960569",
+    "nombre": "yogur bebible descremado ilolay x 900 gr. vainilla",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
+    "precio_antes": 2069.0,
+    "precio_hoy": 2069.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "ean": "7794820902707",
+    "nombre": "yogur bebible descremado milkaut frutilla x 900 g.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3809.0,
-    "precio_hoy": 7510.0,
-    "diff_abs": 3701.0,
-    "diff_pct": 97.16
+    "precio_antes": 2529.0,
+    "precio_hoy": 2529.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
+    "ean": "7790787960811",
+    "nombre": "yogur bebible descremado ilolay vainilla x 950 gr.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3809.0,
-    "precio_hoy": 7510.0,
-    "diff_abs": 3701.0,
-    "diff_pct": 97.16
+    "precio_antes": 2661.0,
+    "precio_hoy": 2661.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791337007260",
-    "nombre": "leche chocolatada cindor x 200 ml.",
+    "ean": "7793913013597",
+    "nombre": "yogur bebible descremado tregar x 900 gr. frutilla",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1509.0,
-    "precio_hoy": 2701.0,
-    "diff_abs": 1192.0,
-    "diff_pct": 78.99
-  },
-  {
-    "ean": "7791337061385",
-    "nombre": "queso crema casancrem balance x 290 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5852.0,
-    "diff_abs": 2553.0,
-    "diff_pct": 77.39
-  },
-  {
-    "ean": "7791337061361",
-    "nombre": "queso crema casancrem x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5852.0,
-    "diff_abs": 2553.0,
-    "diff_pct": 77.39
-  },
-  {
-    "ean": "7791337060944",
-    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5852.0,
-    "diff_abs": 2553.0,
-    "diff_pct": 77.39
-  },
-  {
-    "ean": "7790703205101",
-    "nombre": "vino blanco don valentin lacrado torrontes x 750 .",
-    "categoria": "Bebidas",
-    "precio_antes": 3747.0,
-    "precio_hoy": 6228.0,
-    "diff_abs": 2481.0,
-    "diff_pct": 66.21
-  },
-  {
-    "ean": "7790703205064",
-    "nombre": "vino don valentin lacr.rob.mal",
-    "categoria": "Bebidas",
-    "precio_antes": 3747.0,
-    "precio_hoy": 6228.0,
-    "diff_abs": 2481.0,
-    "diff_pct": 66.21
-  },
-  {
-    "ean": "7790703205095",
-    "nombre": "vino don valentin lacrado cabernet x 750 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 3747.0,
-    "precio_hoy": 6228.0,
-    "diff_abs": 2481.0,
-    "diff_pct": 66.21
-  },
-  {
-    "ean": "7791337061439",
-    "nombre": "queso untable la serenisima light x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2599.0,
-    "precio_hoy": 4095.0,
-    "diff_abs": 1496.0,
-    "diff_pct": 57.56
-  },
-  {
-    "ean": "7791337061422",
-    "nombre": "queso crema la serenisima x 290 gm entero",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2599.0,
-    "precio_hoy": 4095.0,
-    "diff_abs": 1496.0,
-    "diff_pct": 57.56
-  },
-  {
-    "ean": "7791337009691",
-    "nombre": "yogur gran compra bebible x 900 gr vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1799.0,
-    "precio_hoy": 2757.0,
-    "diff_abs": 958.0,
-    "diff_pct": 53.25
-  },
-  {
-    "ean": "7791337009684",
-    "nombre": "yogur bebible gran compra frutilla x 900 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1799.0,
-    "precio_hoy": 2757.0,
-    "diff_abs": 958.0,
-    "diff_pct": 53.25
-  },
-  {
-    "ean": "7791337010017",
-    "nombre": "yogur yogurisimo griego x 300 gr natural sin end",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3009.0,
-    "precio_hoy": 4587.0,
-    "diff_abs": 1578.0,
-    "diff_pct": 52.44
-  },
-  {
-    "ean": "7791337010000",
-    "nombre": "yogur yogurisimo griego x 300 ml natural endulz",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3009.0,
-    "precio_hoy": 4587.0,
-    "diff_abs": 1578.0,
-    "diff_pct": 52.44
+    "precio_antes": 2239.0,
+    "precio_hoy": 2239.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]
