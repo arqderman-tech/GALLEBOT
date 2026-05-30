@@ -1,147 +1,147 @@
 {
-  "fecha": "20260529",
-  "total_productos": 5823,
-  "variacion_dia": -0.02,
-  "variacion_7d": 0.58,
-  "variacion_mes": 3.9,
+  "fecha": "20260530",
+  "total_productos": 5806,
+  "variacion_dia": 0.07,
+  "variacion_7d": 0.65,
+  "variacion_mes": 2.19,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
       "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "total_productos": 1228
+      "total_productos": 1307
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.03,
-      "productos_subieron": 6,
-      "productos_bajaron": 3,
-      "total_productos": 1032
+      "variacion_pct_promedio": 0.07,
+      "productos_subieron": 10,
+      "productos_bajaron": 5,
+      "total_productos": 1101
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 153
+      "variacion_pct_promedio": 0.98,
+      "productos_subieron": 28,
+      "productos_bajaron": 3,
+      "total_productos": 213
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 695
+      "total_productos": 723
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.01,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 827
+      "total_productos": 825
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.06,
-      "productos_subieron": 9,
-      "productos_bajaron": 10,
-      "total_productos": 1537
+      "variacion_pct_promedio": 0.07,
+      "productos_subieron": 11,
+      "productos_bajaron": 0,
+      "total_productos": 1611
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "8000500232057",
-      "nombre": "bombones rafaello x 9 unid.",
-      "categoria": "Almacen",
-      "precio_antes": 8303.0,
-      "precio_hoy": 4159.0,
-      "diff_abs": -4144.0,
-      "diff_pct": -49.91
+      "ean": "7797906054918",
+      "nombre": "papas mc cain noisette x 1.2 kg.",
+      "categoria": "Congelados",
+      "precio_antes": 18999.0,
+      "precio_hoy": 13299.0,
+      "diff_abs": -5700.0,
+      "diff_pct": -30.0
     },
     {
-      "ean": "7797394001265",
-      "nombre": "pastillas tic tac mix de frutas x 16 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1101.0,
-      "precio_hoy": 559.0,
-      "diff_abs": -542.0,
-      "diff_pct": -49.23
+      "ean": "7797906000700",
+      "nombre": "papas mc cain tradicional x 400 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 4783.0,
+      "precio_hoy": 3349.0,
+      "diff_abs": -1434.0,
+      "diff_pct": -29.98
     },
     {
-      "ean": "2021020000007",
-      "nombre": "hinojo x kg.",
+      "ean": "7797906054864",
+      "nombre": "papas mc cain horneables tradicional x 700 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 9651.0,
+      "precio_hoy": 6759.0,
+      "diff_abs": -2892.0,
+      "diff_pct": -29.97
+    },
+    {
+      "ean": "2022080000006",
+      "nombre": "rucula x paquete",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -33.39
+      "precio_antes": 2490.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -500.0,
+      "diff_pct": -20.08
     },
     {
-      "ean": "7794990184491",
-      "nombre": "queso untable ricrem clasico x 180 gr",
+      "ean": "7794990172757",
+      "nombre": "queso untable la paulina x 190 gr. salame",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2317.0,
-      "precio_hoy": 1812.0,
-      "diff_abs": -505.0,
-      "diff_pct": -21.8
+      "precio_antes": 2503.0,
+      "precio_hoy": 2367.0,
+      "diff_abs": -136.0,
+      "diff_pct": -5.43
     },
     {
-      "ean": "2021780000002",
-      "nombre": "perejil x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
+      "ean": "7790398100132",
+      "nombre": "queso rallado la paulina x 150 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5153.0,
+      "precio_hoy": 4979.0,
+      "diff_abs": -174.0,
+      "diff_pct": -3.38
     },
     {
-      "ean": "7794580000026",
-      "nombre": "arroz mocovi x 500 gr. doble carolina",
-      "categoria": "Almacen",
-      "precio_antes": 1487.0,
-      "precio_hoy": 1349.0,
-      "diff_abs": -138.0,
-      "diff_pct": -9.28
+      "ean": "7790398100644",
+      "nombre": "leche en polvo la paulina entera x 800 gm",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 13455.0,
+      "precio_hoy": 13017.0,
+      "diff_abs": -438.0,
+      "diff_pct": -3.26
     },
     {
-      "ean": "7794580003058",
-      "nombre": "arroz mocovi x 1 kilo largo fino",
-      "categoria": "Almacen",
-      "precio_antes": 1553.0,
-      "precio_hoy": 1409.0,
-      "diff_abs": -144.0,
-      "diff_pct": -9.27
+      "ean": "7790398000265",
+      "nombre": "crema de leche la paulina x 200 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2464.0,
+      "precio_hoy": 2423.0,
+      "diff_abs": -41.0,
+      "diff_pct": -1.66
     },
     {
-      "ean": "7794580003065",
-      "nombre": "arroz mocovi doble carolina x 1 kg.",
-      "categoria": "Almacen",
-      "precio_antes": 2465.0,
-      "precio_hoy": 2238.0,
-      "diff_abs": -227.0,
-      "diff_pct": -9.21
+      "ean": "2011070000003",
+      "nombre": "ricota rosalat envasada x 500 gr aprox",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5979.0,
+      "precio_hoy": 5979.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7794580003041",
-      "nombre": "arroz mocovi largo fino x 500 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 815.0,
-      "precio_hoy": 740.0,
-      "diff_abs": -75.0,
-      "diff_pct": -9.2
-    },
-    {
-      "ean": "7794580000255",
-      "nombre": "arroz vincha de oro largo fino x 1 kg.",
-      "categoria": "Almacen",
-      "precio_antes": 1371.0,
-      "precio_hoy": 1245.0,
-      "diff_abs": -126.0,
-      "diff_pct": -9.19
+      "ean": "7790079019326",
+      "nombre": "salame tipo fuet labratto x 150 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 9297.0,
+      "precio_hoy": 9297.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 16,
-  "productos_bajaron_dia": 13,
-  "productos_sin_cambio_dia": 5443
+  "productos_subieron_dia": 50,
+  "productos_bajaron_dia": 8,
+  "productos_sin_cambio_dia": 5722
 }

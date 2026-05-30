@@ -18,15 +18,6 @@
     "diff_pct": 125.46
   },
   {
-    "ean": "7791337010468",
-    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2508.0,
-    "diff_pct": 125.46
-  },
-  {
     "ean": "7791337010215",
     "nombre": "yogur ls.clas.ent.sh x900g.fru",
     "categoria": "Lacteos Y Frescos",
@@ -38,6 +29,15 @@
   {
     "ean": "7791337010475",
     "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1999.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2508.0,
+    "diff_pct": 125.46
+  },
+  {
+    "ean": "7791337010468",
+    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 1999.0,
     "precio_hoy": 4507.0,
@@ -63,62 +63,8 @@
     "diff_pct": 125.31
   },
   {
-    "ean": "7622201704148",
-    "nombre": "jugo en polvo clight mandarina x 8 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 309.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 330.0,
-    "diff_pct": 106.8
-  },
-  {
-    "ean": "7622201703202",
-    "nombre": "jugo clight pera x7gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 309.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 330.0,
-    "diff_pct": 106.8
-  },
-  {
-    "ean": "7622201703059",
-    "nombre": "jugo en polvo clight manzana verde x 7,5 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 309.0,
-    "precio_hoy": 639.0,
-    "diff_abs": 330.0,
-    "diff_pct": 106.8
-  },
-  {
-    "ean": "7622201746490",
-    "nombre": "jugo en polvo tang x 15 gr. frutilla",
-    "categoria": "Bebidas",
-    "precio_antes": 299.0,
-    "precio_hoy": 611.0,
-    "diff_abs": 312.0,
-    "diff_pct": 104.35
-  },
-  {
-    "ean": "7622201733865",
-    "nombre": "jugo tang mandarina x 15 gm",
-    "categoria": "Bebidas",
-    "precio_antes": 299.0,
-    "precio_hoy": 611.0,
-    "diff_abs": 312.0,
-    "diff_pct": 104.35
-  },
-  {
-    "ean": "7622201745936",
-    "nombre": "jugo tang durazno x15gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 299.0,
-    "precio_hoy": 611.0,
-    "diff_abs": 312.0,
-    "diff_pct": 104.35
-  },
-  {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3719.0,
     "precio_hoy": 7510.0,
@@ -126,8 +72,8 @@
     "diff_pct": 101.94
   },
   {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3719.0,
     "precio_hoy": 7510.0,
@@ -171,12 +117,66 @@
     "diff_pct": 80.16
   },
   {
+    "ean": "7791540053153",
+    "nombre": "vino frizze",
+    "categoria": "Bebidas",
+    "precio_antes": 1499.0,
+    "precio_hoy": 2693.0,
+    "diff_abs": 1194.0,
+    "diff_pct": 79.65
+  },
+  {
+    "ean": "7791337061361",
+    "nombre": "queso crema casancrem x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3299.0,
+    "precio_hoy": 5852.0,
+    "diff_abs": 2553.0,
+    "diff_pct": 77.39
+  },
+  {
+    "ean": "7791337060944",
+    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3299.0,
+    "precio_hoy": 5852.0,
+    "diff_abs": 2553.0,
+    "diff_pct": 77.39
+  },
+  {
+    "ean": "7792798002399",
+    "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3839.0,
+    "precio_hoy": 6720.0,
+    "diff_abs": 2881.0,
+    "diff_pct": 75.05
+  },
+  {
     "ean": "7790139100582",
     "nombre": "salsa chimichurri casalta x 300 gr.",
     "categoria": "Almacen",
-    "precio_antes": 3020.41,
+    "precio_antes": 3130.92,
     "precio_hoy": 5441.0,
-    "diff_abs": 2420.59,
-    "diff_pct": 80.14
+    "diff_abs": 2310.08,
+    "diff_pct": 73.78
+  },
+  {
+    "ean": "7791540053160",
+    "nombre": "vino frizze italian limonata x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1499.0,
+    "precio_hoy": 2548.0,
+    "diff_abs": 1049.0,
+    "diff_pct": 69.98
+  },
+  {
+    "ean": "2019910000008",
+    "nombre": "ajies x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 66.78
   }
 ]

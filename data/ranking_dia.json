@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2021820000009",
-    "nombre": "pimiento rojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
+    "ean": "7790360967558",
+    "nombre": "medall.swift pollo x320gr.",
+    "categoria": "Congelados",
+    "precio_antes": 4789.0,
+    "precio_hoy": 6454.0,
+    "diff_abs": 1665.0,
+    "diff_pct": 34.77
   },
   {
-    "ean": "7790199603856",
-    "nombre": "harina de trigo integral morixe x 1 kg.",
-    "categoria": "Almacen",
-    "precio_antes": 1170.0,
-    "precio_hoy": 1358.0,
-    "diff_abs": 188.0,
-    "diff_pct": 16.07
+    "ean": "7790360971395",
+    "nombre": "palitos de pollo swift x 1 kg.",
+    "categoria": "Congelados",
+    "precio_antes": 11659.0,
+    "precio_hoy": 14804.0,
+    "diff_abs": 3145.0,
+    "diff_pct": 26.97
   },
   {
-    "ean": "7790199604273",
-    "nombre": "harina para pizzas caseras morixe x 1 kg.",
-    "categoria": "Almacen",
-    "precio_antes": 1568.0,
-    "precio_hoy": 1772.0,
-    "diff_abs": 204.0,
-    "diff_pct": 13.01
-  },
-  {
-    "ean": "7790199000051",
-    "nombre": "harina leudante morixe x 1 kg.",
-    "categoria": "Almacen",
-    "precio_antes": 1604.0,
-    "precio_hoy": 1807.0,
-    "diff_abs": 203.0,
-    "diff_pct": 12.66
-  },
-  {
-    "ean": "2022130000000",
-    "nombre": "tomate cherry x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 8990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 12.52
-  },
-  {
-    "ean": "7790580149963",
-    "nombre": "ramen arcor sabor pollo x 70 gm",
-    "categoria": "Almacen",
-    "precio_antes": 1188.0,
-    "precio_hoy": 1307.0,
-    "diff_abs": 119.0,
-    "diff_pct": 10.02
-  },
-  {
-    "ean": "7790580149970",
-    "nombre": "ramen arcor sabor carne x 70 gr",
-    "categoria": "Almacen",
-    "precio_antes": 1188.0,
-    "precio_hoy": 1307.0,
-    "diff_abs": 119.0,
-    "diff_pct": 10.02
-  },
-  {
-    "ean": "7790199000013",
-    "nombre": "harina 000 morixe x 1 kg.",
-    "categoria": "Almacen",
-    "precio_antes": 1018.0,
-    "precio_hoy": 1109.0,
-    "diff_abs": 91.0,
-    "diff_pct": 8.94
-  },
-  {
-    "ean": "7790199000020",
-    "nombre": "harina 0000 morixe x 1 kg.",
-    "categoria": "Almacen",
-    "precio_antes": 1316.0,
-    "precio_hoy": 1424.0,
-    "diff_abs": 108.0,
-    "diff_pct": 8.21
-  },
-  {
-    "ean": "7790236018346",
-    "nombre": "tapas para empaandas la salteaa x 22 unidades hojaldradas",
+    "ean": "2011390000004",
+    "nombre": "queso danbo psandwich canut x kg.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4108.0,
-    "precio_hoy": 4394.0,
-    "diff_abs": 286.0,
-    "diff_pct": 6.96
+    "precio_antes": 18489.0,
+    "precio_hoy": 21804.0,
+    "diff_abs": 3315.0,
+    "diff_pct": 17.93
   },
   {
-    "ean": "7790236018353",
-    "nombre": "tapas pempanadas la saltena criollas x 22 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4108.0,
-    "precio_hoy": 4394.0,
-    "diff_abs": 286.0,
-    "diff_pct": 6.96
-  },
-  {
-    "ean": "7790070507280",
-    "nombre": "yerba mate nobleza gaucha seleccion x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4342.0,
-    "precio_hoy": 4561.0,
-    "diff_abs": 219.0,
-    "diff_pct": 5.04
-  },
-  {
-    "ean": "7790199604969",
-    "nombre": "champignones enteros morixe x 400 gm",
+    "ean": "7790360964557",
+    "nombre": "jamon del diablo swift88 facil",
     "categoria": "Almacen",
-    "precio_antes": 3314.0,
-    "precio_hoy": 3465.0,
-    "diff_abs": 151.0,
-    "diff_pct": 4.56
+    "precio_antes": 1269.0,
+    "precio_hoy": 1482.0,
+    "diff_abs": 213.0,
+    "diff_pct": 16.78
   },
   {
-    "ean": "7790787960873",
-    "nombre": "queso untable ilolay crem clasico x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3255.0,
-    "precio_hoy": 3353.0,
-    "diff_abs": 98.0,
-    "diff_pct": 3.01
-  },
-  {
-    "ean": "7790787960880",
-    "nombre": "queso ilolay crem x 290 gr balance",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3255.0,
-    "precio_hoy": 3353.0,
-    "diff_abs": 98.0,
-    "diff_pct": 3.01
-  },
-  {
-    "ean": "7790070431028",
-    "nombre": "premezcla pbudin exquisita x 300 gr. chocolate",
+    "ean": "7790360964526",
+    "nombre": "pate swift a la crema x88gr.",
     "categoria": "Almacen",
-    "precio_antes": 2968.0,
-    "precio_hoy": 2969.0,
-    "diff_abs": 1.0,
-    "diff_pct": 0.03
+    "precio_antes": 1269.0,
+    "precio_hoy": 1482.0,
+    "diff_abs": 213.0,
+    "diff_pct": 16.78
   },
   {
-    "ean": "7790787960569",
-    "nombre": "yogur bebible descremado ilolay x 900 gr. vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2069.0,
-    "precio_hoy": 2069.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790360967961",
+    "nombre": "medallones de carne swift receta especial x 4 unid",
+    "categoria": "Congelados",
+    "precio_antes": 6979.0,
+    "precio_hoy": 8062.0,
+    "diff_abs": 1083.0,
+    "diff_pct": 15.52
   },
   {
-    "ean": "7794820902707",
-    "nombre": "yogur bebible descremado milkaut frutilla x 900 g.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2529.0,
-    "precio_hoy": 2529.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790360026682",
+    "nombre": "medallones de carne swift parrilleras x 4 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 8289.0,
+    "precio_hoy": 9420.0,
+    "diff_abs": 1131.0,
+    "diff_pct": 13.64
   },
   {
-    "ean": "7790787960811",
-    "nombre": "yogur bebible descremado ilolay vainilla x 950 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2661.0,
-    "precio_hoy": 2661.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790360977960",
+    "nombre": "medallones de carne swift burger mega x 2 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 3009.0,
+    "precio_hoy": 3410.0,
+    "diff_abs": 401.0,
+    "diff_pct": 13.33
   },
   {
-    "ean": "7793913013597",
-    "nombre": "yogur bebible descremado tregar x 900 gr. frutilla",
+    "ean": "7790360983954",
+    "nombre": "salchichas swift x 12 unid.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2239.0,
-    "precio_hoy": 2239.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 3909.0,
+    "precio_hoy": 4423.0,
+    "diff_abs": 514.0,
+    "diff_pct": 13.15
+  },
+  {
+    "ean": "7790360026002",
+    "nombre": "salchichas la blanca x6 190g",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1299.0,
+    "precio_hoy": 1469.0,
+    "diff_abs": 170.0,
+    "diff_pct": 13.09
+  },
+  {
+    "ean": "7790360026583",
+    "nombre": "hamb.swift clasica x20",
+    "categoria": "Congelados",
+    "precio_antes": 29769.0,
+    "precio_hoy": 33647.0,
+    "diff_abs": 3878.0,
+    "diff_pct": 13.03
+  },
+  {
+    "ean": "7790360970053",
+    "nombre": "salchichas swift kids x 6 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1909.0,
+    "precio_hoy": 2156.0,
+    "diff_abs": 247.0,
+    "diff_pct": 12.94
+  },
+  {
+    "ean": "7790360967701",
+    "nombre": "hamb.swift casera 2x120gr.",
+    "categoria": "Congelados",
+    "precio_antes": 5889.0,
+    "precio_hoy": 6616.0,
+    "diff_abs": 727.0,
+    "diff_pct": 12.35
+  },
+  {
+    "ean": "7790360982537",
+    "nombre": "milanesitas swift x 400 gm carne",
+    "categoria": "Congelados",
+    "precio_antes": 6569.0,
+    "precio_hoy": 7378.0,
+    "diff_abs": 809.0,
+    "diff_pct": 12.32
+  },
+  {
+    "ean": "7790360982445",
+    "nombre": "bocaditos swift x 400 gm pollo",
+    "categoria": "Congelados",
+    "precio_antes": 6069.0,
+    "precio_hoy": 6811.0,
+    "diff_abs": 742.0,
+    "diff_pct": 12.23
+  },
+  {
+    "ean": "7790360026590",
+    "nombre": "hamb.swift clasica x12",
+    "categoria": "Congelados",
+    "precio_antes": 21649.0,
+    "precio_hoy": 24203.0,
+    "diff_abs": 2554.0,
+    "diff_pct": 11.8
+  },
+  {
+    "ean": "7790360984715",
+    "nombre": "pate swift jalapeao x 90 gm",
+    "categoria": "Almacen",
+    "precio_antes": 1299.0,
+    "precio_hoy": 1441.0,
+    "diff_abs": 142.0,
+    "diff_pct": 10.93
+  },
+  {
+    "ean": "7790360984302",
+    "nombre": "picadillo swift picante chile x 90 gm",
+    "categoria": "Almacen",
+    "precio_antes": 1299.0,
+    "precio_hoy": 1441.0,
+    "diff_abs": 142.0,
+    "diff_pct": 10.93
+  },
+  {
+    "ean": "7790360983947",
+    "nombre": "salchichas swift x6unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2299.0,
+    "precio_hoy": 2548.0,
+    "diff_abs": 249.0,
+    "diff_pct": 10.83
+  },
+  {
+    "ean": "7790360966841",
+    "nombre": "medallones de carne swift burger x 4 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 4789.0,
+    "precio_hoy": 5297.0,
+    "diff_abs": 508.0,
+    "diff_pct": 10.61
   }
 ]
