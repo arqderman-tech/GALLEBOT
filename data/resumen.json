@@ -1,31 +1,31 @@
 {
-  "fecha": "20260530",
-  "total_productos": 5806,
-  "variacion_dia": 0.07,
-  "variacion_7d": 0.65,
-  "variacion_mes": 2.19,
+  "fecha": "20260531",
+  "total_productos": 5789,
+  "variacion_dia": 0.0,
+  "variacion_7d": 0.64,
+  "variacion_mes": 0.42,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
       "variacion_pct_promedio": 0.0,
-      "productos_subieron": 1,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1307
+      "total_productos": 1306
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.07,
-      "productos_subieron": 10,
-      "productos_bajaron": 5,
-      "total_productos": 1101
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1093
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.98,
-      "productos_subieron": 28,
-      "productos_bajaron": 3,
-      "total_productos": 213
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 212
     },
     {
       "categoria": "Limpieza",
@@ -39,109 +39,109 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 825
+      "total_productos": 828
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.07,
-      "productos_subieron": 11,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "total_productos": 1611
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7797906054918",
-      "nombre": "papas mc cain noisette x 1.2 kg.",
-      "categoria": "Congelados",
-      "precio_antes": 18999.0,
-      "precio_hoy": 13299.0,
-      "diff_abs": -5700.0,
-      "diff_pct": -30.0
-    },
-    {
-      "ean": "7797906000700",
-      "nombre": "papas mc cain tradicional x 400 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 4783.0,
-      "precio_hoy": 3349.0,
-      "diff_abs": -1434.0,
-      "diff_pct": -29.98
-    },
-    {
-      "ean": "7797906054864",
-      "nombre": "papas mc cain horneables tradicional x 700 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 9651.0,
-      "precio_hoy": 6759.0,
-      "diff_abs": -2892.0,
-      "diff_pct": -29.97
-    },
-    {
-      "ean": "2022080000006",
-      "nombre": "rucula x paquete",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2490.0,
-      "precio_hoy": 1990.0,
-      "diff_abs": -500.0,
-      "diff_pct": -20.08
-    },
-    {
-      "ean": "7794990172757",
-      "nombre": "queso untable la paulina x 190 gr. salame",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2503.0,
-      "precio_hoy": 2367.0,
-      "diff_abs": -136.0,
-      "diff_pct": -5.43
-    },
-    {
-      "ean": "7790398100132",
-      "nombre": "queso rallado la paulina x 150 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 5153.0,
-      "precio_hoy": 4979.0,
-      "diff_abs": -174.0,
-      "diff_pct": -3.38
-    },
-    {
-      "ean": "7790398100644",
-      "nombre": "leche en polvo la paulina entera x 800 gm",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 13455.0,
-      "precio_hoy": 13017.0,
-      "diff_abs": -438.0,
-      "diff_pct": -3.26
-    },
-    {
-      "ean": "7790398000265",
-      "nombre": "crema de leche la paulina x 200 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2464.0,
-      "precio_hoy": 2423.0,
-      "diff_abs": -41.0,
-      "diff_pct": -1.66
-    },
-    {
-      "ean": "2011070000003",
-      "nombre": "ricota rosalat envasada x 500 gr aprox",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 5979.0,
-      "precio_hoy": 5979.0,
+      "ean": "7790310985830",
+      "nombre": "3ds queso x 85 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 3649.0,
+      "precio_hoy": 3649.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790079019326",
-      "nombre": "salame tipo fuet labratto x 150 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 9297.0,
-      "precio_hoy": 9297.0,
+      "ean": "7790310985137",
+      "nombre": "3ds queso x143gr.",
+      "categoria": "Almacen",
+      "precio_antes": 5118.0,
+      "precio_hoy": 5118.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790310985113",
+      "nombre": "3ds sabor queso x 43 gm",
+      "categoria": "Almacen",
+      "precio_antes": 2271.0,
+      "precio_hoy": 2271.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7791728246629",
+      "nombre": "ac. de oliva zuccardi x 500 ml coratina",
+      "categoria": "Almacen",
+      "precio_antes": 24261.0,
+      "precio_hoy": 24261.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "763571722428",
+      "nombre": "ac.de coco entrenuts x200virg.",
+      "categoria": "Almacen",
+      "precio_antes": 9649.0,
+      "precio_hoy": 9649.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798080520657",
+      "nombre": "ac.ol.l.toscana x250ml.ajo",
+      "categoria": "Almacen",
+      "precio_antes": 9903.0,
+      "precio_hoy": 9903.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798080520534",
+      "nombre": "ac.ol.l.toscana x250ml.albahac",
+      "categoria": "Almacen",
+      "precio_antes": 9903.0,
+      "precio_hoy": 9903.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7791728246612",
+      "nombre": "ac.ol.zuccardi x250ml.coratina",
+      "categoria": "Almacen",
+      "precio_antes": 14152.0,
+      "precio_hoy": 14152.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7791728246575",
+      "nombre": "ac.ol.zuccardi x250ml.picual",
+      "categoria": "Almacen",
+      "precio_antes": 14152.0,
+      "precio_hoy": 14152.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7791728241181",
+      "nombre": "ac.ol.zuelo x500ml.bot.intenso",
+      "categoria": "Almacen",
+      "precio_antes": 18903.0,
+      "precio_hoy": 18903.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 50,
-  "productos_bajaron_dia": 8,
-  "productos_sin_cambio_dia": 5722
+  "productos_subieron_dia": 0,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 5773
 }

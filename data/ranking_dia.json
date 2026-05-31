@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790360967558",
-    "nombre": "medall.swift pollo x320gr.",
-    "categoria": "Congelados",
-    "precio_antes": 4789.0,
-    "precio_hoy": 6454.0,
-    "diff_abs": 1665.0,
-    "diff_pct": 34.77
-  },
-  {
-    "ean": "7790360971395",
-    "nombre": "palitos de pollo swift x 1 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 11659.0,
-    "precio_hoy": 14804.0,
-    "diff_abs": 3145.0,
-    "diff_pct": 26.97
-  },
-  {
-    "ean": "2011390000004",
-    "nombre": "queso danbo psandwich canut x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 18489.0,
-    "precio_hoy": 21804.0,
-    "diff_abs": 3315.0,
-    "diff_pct": 17.93
-  },
-  {
-    "ean": "7790360964557",
-    "nombre": "jamon del diablo swift88 facil",
+    "ean": "7790310985830",
+    "nombre": "3ds queso x 85 gr.",
     "categoria": "Almacen",
-    "precio_antes": 1269.0,
-    "precio_hoy": 1482.0,
-    "diff_abs": 213.0,
-    "diff_pct": 16.78
+    "precio_antes": 3649.0,
+    "precio_hoy": 3649.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790360964526",
-    "nombre": "pate swift a la crema x88gr.",
+    "ean": "7790310985137",
+    "nombre": "3ds queso x143gr.",
     "categoria": "Almacen",
-    "precio_antes": 1269.0,
-    "precio_hoy": 1482.0,
-    "diff_abs": 213.0,
-    "diff_pct": 16.78
+    "precio_antes": 5118.0,
+    "precio_hoy": 5118.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790360967961",
-    "nombre": "medallones de carne swift receta especial x 4 unid",
-    "categoria": "Congelados",
-    "precio_antes": 6979.0,
-    "precio_hoy": 8062.0,
-    "diff_abs": 1083.0,
-    "diff_pct": 15.52
-  },
-  {
-    "ean": "7790360026682",
-    "nombre": "medallones de carne swift parrilleras x 4 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 8289.0,
-    "precio_hoy": 9420.0,
-    "diff_abs": 1131.0,
-    "diff_pct": 13.64
-  },
-  {
-    "ean": "7790360977960",
-    "nombre": "medallones de carne swift burger mega x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 3009.0,
-    "precio_hoy": 3410.0,
-    "diff_abs": 401.0,
-    "diff_pct": 13.33
-  },
-  {
-    "ean": "7790360983954",
-    "nombre": "salchichas swift x 12 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3909.0,
-    "precio_hoy": 4423.0,
-    "diff_abs": 514.0,
-    "diff_pct": 13.15
-  },
-  {
-    "ean": "7790360026002",
-    "nombre": "salchichas la blanca x6 190g",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1299.0,
-    "precio_hoy": 1469.0,
-    "diff_abs": 170.0,
-    "diff_pct": 13.09
-  },
-  {
-    "ean": "7790360026583",
-    "nombre": "hamb.swift clasica x20",
-    "categoria": "Congelados",
-    "precio_antes": 29769.0,
-    "precio_hoy": 33647.0,
-    "diff_abs": 3878.0,
-    "diff_pct": 13.03
-  },
-  {
-    "ean": "7790360970053",
-    "nombre": "salchichas swift kids x 6 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1909.0,
-    "precio_hoy": 2156.0,
-    "diff_abs": 247.0,
-    "diff_pct": 12.94
-  },
-  {
-    "ean": "7790360967701",
-    "nombre": "hamb.swift casera 2x120gr.",
-    "categoria": "Congelados",
-    "precio_antes": 5889.0,
-    "precio_hoy": 6616.0,
-    "diff_abs": 727.0,
-    "diff_pct": 12.35
-  },
-  {
-    "ean": "7790360982537",
-    "nombre": "milanesitas swift x 400 gm carne",
-    "categoria": "Congelados",
-    "precio_antes": 6569.0,
-    "precio_hoy": 7378.0,
-    "diff_abs": 809.0,
-    "diff_pct": 12.32
-  },
-  {
-    "ean": "7790360982445",
-    "nombre": "bocaditos swift x 400 gm pollo",
-    "categoria": "Congelados",
-    "precio_antes": 6069.0,
-    "precio_hoy": 6811.0,
-    "diff_abs": 742.0,
-    "diff_pct": 12.23
-  },
-  {
-    "ean": "7790360026590",
-    "nombre": "hamb.swift clasica x12",
-    "categoria": "Congelados",
-    "precio_antes": 21649.0,
-    "precio_hoy": 24203.0,
-    "diff_abs": 2554.0,
-    "diff_pct": 11.8
-  },
-  {
-    "ean": "7790360984715",
-    "nombre": "pate swift jalapeao x 90 gm",
+    "ean": "7790310985113",
+    "nombre": "3ds sabor queso x 43 gm",
     "categoria": "Almacen",
-    "precio_antes": 1299.0,
-    "precio_hoy": 1441.0,
-    "diff_abs": 142.0,
-    "diff_pct": 10.93
+    "precio_antes": 2271.0,
+    "precio_hoy": 2271.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790360984302",
-    "nombre": "picadillo swift picante chile x 90 gm",
+    "ean": "7791728246629",
+    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
     "categoria": "Almacen",
-    "precio_antes": 1299.0,
-    "precio_hoy": 1441.0,
-    "diff_abs": 142.0,
-    "diff_pct": 10.93
+    "precio_antes": 24261.0,
+    "precio_hoy": 24261.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790360983947",
-    "nombre": "salchichas swift x6unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2299.0,
-    "precio_hoy": 2548.0,
-    "diff_abs": 249.0,
-    "diff_pct": 10.83
+    "ean": "763571722428",
+    "nombre": "ac.de coco entrenuts x200virg.",
+    "categoria": "Almacen",
+    "precio_antes": 9649.0,
+    "precio_hoy": 9649.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790360966841",
-    "nombre": "medallones de carne swift burger x 4 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 4789.0,
-    "precio_hoy": 5297.0,
-    "diff_abs": 508.0,
-    "diff_pct": 10.61
+    "ean": "7798080520657",
+    "nombre": "ac.ol.l.toscana x250ml.ajo",
+    "categoria": "Almacen",
+    "precio_antes": 9903.0,
+    "precio_hoy": 9903.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798080520534",
+    "nombre": "ac.ol.l.toscana x250ml.albahac",
+    "categoria": "Almacen",
+    "precio_antes": 9903.0,
+    "precio_hoy": 9903.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7791728246612",
+    "nombre": "ac.ol.zuccardi x250ml.coratina",
+    "categoria": "Almacen",
+    "precio_antes": 14152.0,
+    "precio_hoy": 14152.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7791728246575",
+    "nombre": "ac.ol.zuccardi x250ml.picual",
+    "categoria": "Almacen",
+    "precio_antes": 14152.0,
+    "precio_hoy": 14152.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7791728241181",
+    "nombre": "ac.ol.zuelo x500ml.bot.intenso",
+    "categoria": "Almacen",
+    "precio_antes": 18903.0,
+    "precio_hoy": 18903.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "41331014922",
+    "nombre": "acaitunas goya x 149 gm con pimiento picante",
+    "categoria": "Almacen",
+    "precio_antes": 9280.0,
+    "precio_hoy": 9280.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790070265142",
+    "nombre": "aceite cocinero puro de oliva x 500 ml",
+    "categoria": "Almacen",
+    "precio_antes": 10921.0,
+    "precio_hoy": 10921.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790070231598",
+    "nombre": "aceite cocinero x900 ml oliva y girasol",
+    "categoria": "Almacen",
+    "precio_antes": 5809.0,
+    "precio_hoy": 5809.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790272006819",
+    "nombre": "aceite copisi x 900 ml. girasol y oliva",
+    "categoria": "Almacen",
+    "precio_antes": 6162.0,
+    "precio_hoy": 6162.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "656750783931",
+    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 8902.0,
+    "precio_hoy": 8902.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "763571722435",
+    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 16512.0,
+    "precio_hoy": 16512.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7794870000040",
+    "nombre": "aceite de girasol alsamar x 5 lts.",
+    "categoria": "Almacen",
+    "precio_antes": 20159.0,
+    "precio_hoy": 20159.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798316700907",
+    "nombre": "aceite de girasol alsamar x 900 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 3676.0,
+    "precio_hoy": 3676.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798316700815",
+    "nombre": "aceite de girasol legitimo x 1,5 lt.",
+    "categoria": "Almacen",
+    "precio_antes": 5963.0,
+    "precio_hoy": 5963.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798316700822",
+    "nombre": "aceite de girasol legitimo x 3 lt.",
+    "categoria": "Almacen",
+    "precio_antes": 12315.0,
+    "precio_hoy": 12315.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]
