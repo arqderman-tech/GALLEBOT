@@ -9,13 +9,13 @@
     "diff_pct": 125.31
   },
   {
-    "ean": "2020370000002",
-    "nombre": "chaucha rolliza x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 8990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 80.16
+    "ean": "7791813403036",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1231.0,
+    "diff_pct": 81.04
   },
   {
     "ean": "7791540053153",
@@ -27,13 +27,22 @@
     "diff_pct": 79.65
   },
   {
-    "ean": "7792798002399",
-    "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3839.0,
-    "precio_hoy": 6720.0,
-    "diff_abs": 2881.0,
-    "diff_pct": 75.05
+    "ean": "2016350000001",
+    "nombre": "dulce de membrillo en caja dulcor x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3332.51,
+    "precio_hoy": 5850.0,
+    "diff_abs": 2517.49,
+    "diff_pct": 75.54
+  },
+  {
+    "ean": "2016360000008",
+    "nombre": "dulce de membrillo dulcor lata x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4513.36,
+    "precio_hoy": 7794.0,
+    "diff_abs": 3280.64,
+    "diff_pct": 72.69
   },
   {
     "ean": "7791540053160",
@@ -54,8 +63,8 @@
     "diff_pct": 66.78
   },
   {
-    "ean": "7790703205101",
-    "nombre": "vino blanco don valentin lacrado torrontes x 750 .",
+    "ean": "7790703205095",
+    "nombre": "vino don valentin lacrado cabernet x 750 ml",
     "categoria": "Bebidas",
     "precio_antes": 3747.0,
     "precio_hoy": 6228.0,
@@ -72,22 +81,13 @@
     "diff_pct": 66.21
   },
   {
-    "ean": "7790703205095",
-    "nombre": "vino don valentin lacrado cabernet x 750 ml",
+    "ean": "7790703205101",
+    "nombre": "vino blanco don valentin lacrado torrontes x 750 .",
     "categoria": "Bebidas",
     "precio_antes": 3747.0,
     "precio_hoy": 6228.0,
     "diff_abs": 2481.0,
     "diff_pct": 66.21
-  },
-  {
-    "ean": "7792360094586",
-    "nombre": "chocolate vizzio con almendras x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3699.0,
-    "precio_hoy": 5965.0,
-    "diff_abs": 2266.0,
-    "diff_pct": 61.26
   },
   {
     "ean": "7790703205293",
@@ -99,22 +99,22 @@
     "diff_pct": 60.49
   },
   {
-    "ean": "7792360094418",
-    "nombre": "chocolate blanco bonafide x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2899.0,
-    "precio_hoy": 4620.0,
-    "diff_abs": 1721.0,
-    "diff_pct": 59.37
+    "ean": "2020370000002",
+    "nombre": "chaucha rolliza x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 60.12
   },
   {
-    "ean": "7790070337092",
-    "nombre": "fideos mostachol al huevo lucchetti x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1369.0,
-    "precio_hoy": 2148.0,
-    "diff_abs": 779.0,
-    "diff_pct": 56.9
+    "ean": "7790670050780",
+    "nombre": "hamburguesas paty clasico x 20 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 26339.0,
+    "precio_hoy": 41604.0,
+    "diff_abs": 15265.0,
+    "diff_pct": 57.96
   },
   {
     "ean": "7790703166556",
@@ -126,57 +126,57 @@
     "diff_pct": 56.4
   },
   {
-    "ean": "78909434",
-    "nombre": "bombones ferrero rocher x 3 unid.",
-    "categoria": "Almacen",
+    "ean": "7792798015351",
+    "nombre": "cerveza corona 0 % x 473 ml lata",
+    "categoria": "Bebidas",
+    "precio_antes": 2239.04,
+    "precio_hoy": 3500.0,
+    "diff_abs": 1260.96,
+    "diff_pct": 56.32
+  },
+  {
+    "ean": "2016310000003",
+    "nombre": "dulce de batata dulcor con chocolate x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2726.39,
+    "precio_hoy": 4244.0,
+    "diff_abs": 1517.61,
+    "diff_pct": 55.66
+  },
+  {
+    "ean": "7798062547559",
+    "nombre": "agua mineral sin gas villa del sur x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1699.0,
+    "precio_hoy": 2640.0,
+    "diff_abs": 941.0,
+    "diff_pct": 55.39
+  },
+  {
+    "ean": "7798062541014",
+    "nombre": "agua saborizada villa del sur levite x 2,25 lt. pe",
+    "categoria": "Bebidas",
     "precio_antes": 2499.0,
-    "precio_hoy": 3788.0,
-    "diff_abs": 1289.0,
-    "diff_pct": 51.58
+    "precio_hoy": 3866.0,
+    "diff_abs": 1367.0,
+    "diff_pct": 54.7
   },
   {
-    "ean": "2021280000007",
-    "nombre": "melon amarillo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
-  },
-  {
-    "ean": "7791540052057",
-    "nombre": "vino tinto el que rie ultimo rie mejor x 750 ml. b",
-    "categoria": "Bebidas",
-    "precio_antes": 6999.0,
-    "precio_hoy": 10168.0,
-    "diff_abs": 3169.0,
-    "diff_pct": 45.28
-  },
-  {
-    "ean": "7791250001253",
-    "nombre": "whisky white horse x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 13999.0,
-    "precio_hoy": 20283.0,
-    "diff_abs": 6284.0,
-    "diff_pct": 44.89
-  },
-  {
-    "ean": "7898024395232",
-    "nombre": "pasta de avellanas y chocolate nutella x 140 gr.",
+    "ean": "2016340000004",
+    "nombre": "dulce de batata dulcor lata x kg.",
     "categoria": "Perfumeria",
-    "precio_antes": 3299.0,
-    "precio_hoy": 4737.0,
-    "diff_abs": 1438.0,
-    "diff_pct": 43.59
+    "precio_antes": 3687.82,
+    "precio_hoy": 5664.0,
+    "diff_abs": 1976.18,
+    "diff_pct": 53.59
   },
   {
-    "ean": "7898024394181",
-    "nombre": "pasta de avellanas y chocolate nutella x 350 gr.",
+    "ean": "2016320000000",
+    "nombre": "batata con chocolate dulcor x kg lata x kg.",
     "categoria": "Perfumeria",
-    "precio_antes": 7299.0,
-    "precio_hoy": 10452.0,
-    "diff_abs": 3153.0,
-    "diff_pct": 43.2
+    "precio_antes": 3687.82,
+    "precio_hoy": 5664.0,
+    "diff_abs": 1976.18,
+    "diff_pct": 53.59
   }
 ]

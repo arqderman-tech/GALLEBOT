@@ -1,13 +1,147 @@
 {
-  "fecha": "20260601",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260602",
+  "total_productos": 3601,
+  "variacion_dia": 1.88,
+  "variacion_7d": 2.22,
+  "variacion_mes": 1.82,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 2.54,
+      "productos_subieron": 177,
+      "productos_bajaron": 23,
+      "total_productos": 1307
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": -0.69,
+      "productos_subieron": 15,
+      "productos_bajaron": 30,
+      "total_productos": 619
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 2.51,
+      "productos_subieron": 37,
+      "productos_bajaron": 0,
+      "total_productos": 211
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 160
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 2.85,
+      "productos_subieron": 138,
+      "productos_bajaron": 1,
+      "total_productos": 824
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 2.04,
+      "productos_subieron": 41,
+      "productos_bajaron": 0,
+      "total_productos": 480
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "7791337007253",
+      "nombre": "leche chocolatada cindor x 1 lt.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 7510.0,
+      "precio_hoy": 3809.0,
+      "diff_abs": -3701.0,
+      "diff_pct": -49.28
+    },
+    {
+      "ean": "7791337007796",
+      "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 7510.0,
+      "precio_hoy": 3809.0,
+      "diff_abs": -3701.0,
+      "diff_pct": -49.28
+    },
+    {
+      "ean": "7791337007260",
+      "nombre": "leche chocolatada cindor x 200 ml.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2701.0,
+      "precio_hoy": 1509.0,
+      "diff_abs": -1192.0,
+      "diff_pct": -44.13
+    },
+    {
+      "ean": "7791337061385",
+      "nombre": "queso crema casancrem balance x 290 gm",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5852.0,
+      "precio_hoy": 3299.0,
+      "diff_abs": -2553.0,
+      "diff_pct": -43.63
+    },
+    {
+      "ean": "7791337060944",
+      "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5852.0,
+      "precio_hoy": 3299.0,
+      "diff_abs": -2553.0,
+      "diff_pct": -43.63
+    },
+    {
+      "ean": "7791337061361",
+      "nombre": "queso crema casancrem x 290 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5852.0,
+      "precio_hoy": 3299.0,
+      "diff_abs": -2553.0,
+      "diff_pct": -43.63
+    },
+    {
+      "ean": "7791337061422",
+      "nombre": "queso crema la serenisima x 290 gm entero",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4095.0,
+      "precio_hoy": 2599.0,
+      "diff_abs": -1496.0,
+      "diff_pct": -36.53
+    },
+    {
+      "ean": "7792798002399",
+      "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 6720.0,
+      "precio_hoy": 4369.0,
+      "diff_abs": -2351.0,
+      "diff_pct": -34.99
+    },
+    {
+      "ean": "7793147572327",
+      "nombre": "cerveza salta cautiva rubia  x 473 m",
+      "categoria": "Bebidas",
+      "precio_antes": 2850.0,
+      "precio_hoy": 1909.0,
+      "diff_abs": -941.0,
+      "diff_pct": -33.02
+    },
+    {
+      "ean": "7793147573683",
+      "nombre": "cerveza salta cautiva ipa x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 2850.0,
+      "precio_hoy": 1909.0,
+      "diff_abs": -941.0,
+      "diff_pct": -33.02
+    }
+  ],
+  "productos_subieron_dia": 408,
+  "productos_bajaron_dia": 54,
+  "productos_sin_cambio_dia": 3139
 }

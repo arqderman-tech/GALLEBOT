@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790310985830",
-    "nombre": "3ds queso x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3649.0,
-    "precio_hoy": 3649.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798062547559",
+    "nombre": "agua mineral sin gas villa del sur x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1299.0,
+    "precio_hoy": 2640.0,
+    "diff_abs": 1341.0,
+    "diff_pct": 103.23
   },
   {
-    "ean": "7790310985137",
-    "nombre": "3ds queso x143gr.",
+    "ean": "8000500232057",
+    "nombre": "bombones rafaello x 9 unid.",
     "categoria": "Almacen",
-    "precio_antes": 5118.0,
-    "precio_hoy": 5118.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 4159.0,
+    "precio_hoy": 8303.0,
+    "diff_abs": 4144.0,
+    "diff_pct": 99.64
   },
   {
-    "ean": "7790310985113",
-    "nombre": "3ds sabor queso x 43 gm",
-    "categoria": "Almacen",
-    "precio_antes": 2271.0,
-    "precio_hoy": 2271.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7791813403036",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1231.0,
+    "diff_pct": 81.04
   },
   {
-    "ean": "7791728246629",
-    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
-    "categoria": "Almacen",
-    "precio_antes": 24261.0,
-    "precio_hoy": 24261.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2016350000001",
+    "nombre": "dulce de membrillo en caja dulcor x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3332.51,
+    "precio_hoy": 5850.0,
+    "diff_abs": 2517.49,
+    "diff_pct": 75.54
   },
   {
-    "ean": "763571722428",
-    "nombre": "ac.de coco entrenuts x200virg.",
-    "categoria": "Almacen",
-    "precio_antes": 9649.0,
-    "precio_hoy": 9649.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2016360000008",
+    "nombre": "dulce de membrillo dulcor lata x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4513.36,
+    "precio_hoy": 7794.0,
+    "diff_abs": 3280.64,
+    "diff_pct": 72.69
   },
   {
-    "ean": "7798080520657",
-    "nombre": "ac.ol.l.toscana x250ml.ajo",
-    "categoria": "Almacen",
-    "precio_antes": 9903.0,
-    "precio_hoy": 9903.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790314064012",
+    "nombre": "vino tinto finca magnolia x 750 ml. cabernet sauvi",
+    "categoria": "Bebidas",
+    "precio_antes": 3324.26,
+    "precio_hoy": 5595.0,
+    "diff_abs": 2270.74,
+    "diff_pct": 68.31
   },
   {
-    "ean": "7798080520534",
-    "nombre": "ac.ol.l.toscana x250ml.albahac",
-    "categoria": "Almacen",
-    "precio_antes": 9903.0,
-    "precio_hoy": 9903.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790314079993",
+    "nombre": "vino tinto finca magnolia x 750 ml. malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 3324.26,
+    "precio_hoy": 5595.0,
+    "diff_abs": 2270.74,
+    "diff_pct": 68.31
   },
   {
-    "ean": "7791728246612",
-    "nombre": "ac.ol.zuccardi x250ml.coratina",
-    "categoria": "Almacen",
-    "precio_antes": 14152.0,
-    "precio_hoy": 14152.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792798015351",
+    "nombre": "cerveza corona 0 % x 473 ml lata",
+    "categoria": "Bebidas",
+    "precio_antes": 2239.0,
+    "precio_hoy": 3500.0,
+    "diff_abs": 1261.0,
+    "diff_pct": 56.32
   },
   {
-    "ean": "7791728246575",
-    "nombre": "ac.ol.zuccardi x250ml.picual",
-    "categoria": "Almacen",
-    "precio_antes": 14152.0,
-    "precio_hoy": 14152.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2016310000003",
+    "nombre": "dulce de batata dulcor con chocolate x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2726.39,
+    "precio_hoy": 4244.0,
+    "diff_abs": 1517.61,
+    "diff_pct": 55.66
   },
   {
-    "ean": "7791728241181",
-    "nombre": "ac.ol.zuelo x500ml.bot.intenso",
-    "categoria": "Almacen",
-    "precio_antes": 18903.0,
-    "precio_hoy": 18903.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792798013470",
+    "nombre": "cerveza stella artois 0 a?a? x 330 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 2069.0,
+    "precio_hoy": 3210.0,
+    "diff_abs": 1141.0,
+    "diff_pct": 55.15
   },
   {
-    "ean": "41331014922",
-    "nombre": "acaitunas goya x 149 gm con pimiento picante",
-    "categoria": "Almacen",
-    "precio_antes": 9280.0,
-    "precio_hoy": 9280.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790314080036",
+    "nombre": "vino finca magnolia rosado de bonarda x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3499.21,
+    "precio_hoy": 5422.0,
+    "diff_abs": 1922.79,
+    "diff_pct": 54.95
   },
   {
-    "ean": "7790070265142",
-    "nombre": "aceite cocinero puro de oliva x 500 ml",
-    "categoria": "Almacen",
-    "precio_antes": 10921.0,
-    "precio_hoy": 10921.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790314064036",
+    "nombre": "vino fca.magnolia x750ml.b.bca",
+    "categoria": "Bebidas",
+    "precio_antes": 3499.21,
+    "precio_hoy": 5422.0,
+    "diff_abs": 1922.79,
+    "diff_pct": 54.95
   },
   {
-    "ean": "7790070231598",
-    "nombre": "aceite cocinero x900 ml oliva y girasol",
-    "categoria": "Almacen",
-    "precio_antes": 5809.0,
-    "precio_hoy": 5809.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790314077654",
+    "nombre": "vino blanco finca magnolia x 750 ml. dulce",
+    "categoria": "Bebidas",
+    "precio_antes": 3499.21,
+    "precio_hoy": 5422.0,
+    "diff_abs": 1922.79,
+    "diff_pct": 54.95
   },
   {
-    "ean": "7790272006819",
-    "nombre": "aceite copisi x 900 ml. girasol y oliva",
-    "categoria": "Almacen",
-    "precio_antes": 6162.0,
-    "precio_hoy": 6162.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798062541014",
+    "nombre": "agua saborizada villa del sur levite x 2,25 lt. pe",
+    "categoria": "Bebidas",
+    "precio_antes": 2499.0,
+    "precio_hoy": 3866.0,
+    "diff_abs": 1367.0,
+    "diff_pct": 54.7
   },
   {
-    "ean": "656750783931",
-    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 8902.0,
-    "precio_hoy": 8902.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790314077623",
+    "nombre": "vino magnolia negra malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4098.81,
+    "precio_hoy": 6332.0,
+    "diff_abs": 2233.19,
+    "diff_pct": 54.48
   },
   {
-    "ean": "763571722435",
-    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 16512.0,
-    "precio_hoy": 16512.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790314077630",
+    "nombre": "vino tinto finca magnolia cabernet sauvignon x 750",
+    "categoria": "Bebidas",
+    "precio_antes": 4098.81,
+    "precio_hoy": 6332.0,
+    "diff_abs": 2233.19,
+    "diff_pct": 54.48
   },
   {
-    "ean": "7794870000040",
-    "nombre": "aceite de girasol alsamar x 5 lts.",
-    "categoria": "Almacen",
-    "precio_antes": 20159.0,
-    "precio_hoy": 20159.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2016320000000",
+    "nombre": "batata con chocolate dulcor x kg lata x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3687.82,
+    "precio_hoy": 5664.0,
+    "diff_abs": 1976.18,
+    "diff_pct": 53.59
   },
   {
-    "ean": "7798316700907",
-    "nombre": "aceite de girasol alsamar x 900 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 3676.0,
-    "precio_hoy": 3676.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2016340000004",
+    "nombre": "dulce de batata dulcor lata x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3687.82,
+    "precio_hoy": 5664.0,
+    "diff_abs": 1976.18,
+    "diff_pct": 53.59
   },
   {
-    "ean": "7798316700815",
-    "nombre": "aceite de girasol legitimo x 1,5 lt.",
-    "categoria": "Almacen",
-    "precio_antes": 5963.0,
-    "precio_hoy": 5963.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2016330000007",
+    "nombre": "dulce de batata en caja dulcor x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2726.41,
+    "precio_hoy": 4179.0,
+    "diff_abs": 1452.59,
+    "diff_pct": 53.28
   },
   {
-    "ean": "7798316700822",
-    "nombre": "aceite de girasol legitimo x 3 lt.",
-    "categoria": "Almacen",
-    "precio_antes": 12315.0,
-    "precio_hoy": 12315.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7793126002012",
+    "nombre": "mermelada patagonia tradicional x 320 gm frutilla",
+    "categoria": "Perfumeria",
+    "precio_antes": 6269.0,
+    "precio_hoy": 9554.0,
+    "diff_abs": 3285.0,
+    "diff_pct": 52.4
   }
 ]

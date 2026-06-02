@@ -1,111 +1,57 @@
 [
   {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010369",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010468",
-    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3809.0,
-    "precio_hoy": 7510.0,
-    "diff_abs": 3701.0,
-    "diff_pct": 97.16
-  },
-  {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3809.0,
-    "precio_hoy": 7510.0,
-    "diff_abs": 3701.0,
-    "diff_pct": 97.16
-  },
-  {
-    "ean": "7791337007260",
-    "nombre": "leche chocolatada cindor x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1509.0,
-    "precio_hoy": 2701.0,
-    "diff_abs": 1192.0,
-    "diff_pct": 78.99
-  },
-  {
-    "ean": "7791337060944",
-    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5852.0,
-    "diff_abs": 2553.0,
-    "diff_pct": 77.39
-  },
-  {
-    "ean": "7791337061361",
-    "nombre": "queso crema casancrem x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5852.0,
-    "diff_abs": 2553.0,
-    "diff_pct": 77.39
-  },
-  {
-    "ean": "7791337061385",
-    "nombre": "queso crema casancrem balance x 290 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5852.0,
-    "diff_abs": 2553.0,
-    "diff_pct": 77.39
-  },
-  {
-    "ean": "7790703205101",
-    "nombre": "vino blanco don valentin lacrado torrontes x 750 .",
+    "ean": "7798062547559",
+    "nombre": "agua mineral sin gas villa del sur x 2,25 lt.",
     "categoria": "Bebidas",
-    "precio_antes": 3747.0,
-    "precio_hoy": 6228.0,
-    "diff_abs": 2481.0,
-    "diff_pct": 66.21
+    "precio_antes": 1299.0,
+    "precio_hoy": 2640.0,
+    "diff_abs": 1341.0,
+    "diff_pct": 103.23
+  },
+  {
+    "ean": "7791813403036",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2750.0,
+    "diff_abs": 1231.0,
+    "diff_pct": 81.04
+  },
+  {
+    "ean": "2016350000001",
+    "nombre": "dulce de membrillo en caja dulcor x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3332.51,
+    "precio_hoy": 5850.0,
+    "diff_abs": 2517.49,
+    "diff_pct": 75.54
+  },
+  {
+    "ean": "2016360000008",
+    "nombre": "dulce de membrillo dulcor lata x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4513.36,
+    "precio_hoy": 7794.0,
+    "diff_abs": 3280.64,
+    "diff_pct": 72.69
+  },
+  {
+    "ean": "7790314079993",
+    "nombre": "vino tinto finca magnolia x 750 ml. malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 3324.26,
+    "precio_hoy": 5595.0,
+    "diff_abs": 2270.74,
+    "diff_pct": 68.31
+  },
+  {
+    "ean": "7790314064012",
+    "nombre": "vino tinto finca magnolia x 750 ml. cabernet sauvi",
+    "categoria": "Bebidas",
+    "precio_antes": 3324.26,
+    "precio_hoy": 5595.0,
+    "diff_abs": 2270.74,
+    "diff_pct": 68.31
   },
   {
     "ean": "7790703205064",
@@ -126,57 +72,111 @@
     "diff_pct": 66.21
   },
   {
-    "ean": "7791337061439",
-    "nombre": "queso untable la serenisima light x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2599.0,
-    "precio_hoy": 4095.0,
-    "diff_abs": 1496.0,
-    "diff_pct": 57.56
+    "ean": "7790703205101",
+    "nombre": "vino blanco don valentin lacrado torrontes x 750 .",
+    "categoria": "Bebidas",
+    "precio_antes": 3747.0,
+    "precio_hoy": 6228.0,
+    "diff_abs": 2481.0,
+    "diff_pct": 66.21
   },
   {
-    "ean": "7791337061422",
-    "nombre": "queso crema la serenisima x 290 gm entero",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2599.0,
-    "precio_hoy": 4095.0,
-    "diff_abs": 1496.0,
-    "diff_pct": 57.56
+    "ean": "7792798015351",
+    "nombre": "cerveza corona 0 % x 473 ml lata",
+    "categoria": "Bebidas",
+    "precio_antes": 2239.0,
+    "precio_hoy": 3500.0,
+    "diff_abs": 1261.0,
+    "diff_pct": 56.32
   },
   {
-    "ean": "7791337009691",
-    "nombre": "yogur gran compra bebible x 900 gr vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1799.0,
-    "precio_hoy": 2757.0,
-    "diff_abs": 958.0,
-    "diff_pct": 53.25
+    "ean": "2016310000003",
+    "nombre": "dulce de batata dulcor con chocolate x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2726.39,
+    "precio_hoy": 4244.0,
+    "diff_abs": 1517.61,
+    "diff_pct": 55.66
   },
   {
-    "ean": "7791337009684",
-    "nombre": "yogur bebible gran compra frutilla x 900 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1799.0,
-    "precio_hoy": 2757.0,
-    "diff_abs": 958.0,
-    "diff_pct": 53.25
+    "ean": "7792798013470",
+    "nombre": "cerveza stella artois 0 a?a? x 330 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 2069.0,
+    "precio_hoy": 3210.0,
+    "diff_abs": 1141.0,
+    "diff_pct": 55.15
   },
   {
-    "ean": "7791337010017",
-    "nombre": "yogur yogurisimo griego x 300 gr natural sin end",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3009.0,
-    "precio_hoy": 4587.0,
-    "diff_abs": 1578.0,
-    "diff_pct": 52.44
+    "ean": "7790314077654",
+    "nombre": "vino blanco finca magnolia x 750 ml. dulce",
+    "categoria": "Bebidas",
+    "precio_antes": 3499.21,
+    "precio_hoy": 5422.0,
+    "diff_abs": 1922.79,
+    "diff_pct": 54.95
   },
   {
-    "ean": "7797906054826",
-    "nombre": "papas fritas mc cain clasicas x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 5319.0,
-    "precio_hoy": 7592.0,
-    "diff_abs": 2273.0,
-    "diff_pct": 42.73
+    "ean": "7790314064036",
+    "nombre": "vino fca.magnolia x750ml.b.bca",
+    "categoria": "Bebidas",
+    "precio_antes": 3499.21,
+    "precio_hoy": 5422.0,
+    "diff_abs": 1922.79,
+    "diff_pct": 54.95
+  },
+  {
+    "ean": "7790314080036",
+    "nombre": "vino finca magnolia rosado de bonarda x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3499.21,
+    "precio_hoy": 5422.0,
+    "diff_abs": 1922.79,
+    "diff_pct": 54.95
+  },
+  {
+    "ean": "7798062541014",
+    "nombre": "agua saborizada villa del sur levite x 2,25 lt. pe",
+    "categoria": "Bebidas",
+    "precio_antes": 2499.0,
+    "precio_hoy": 3866.0,
+    "diff_abs": 1367.0,
+    "diff_pct": 54.7
+  },
+  {
+    "ean": "7790314077630",
+    "nombre": "vino tinto finca magnolia cabernet sauvignon x 750",
+    "categoria": "Bebidas",
+    "precio_antes": 4098.81,
+    "precio_hoy": 6332.0,
+    "diff_abs": 2233.19,
+    "diff_pct": 54.48
+  },
+  {
+    "ean": "7790314077623",
+    "nombre": "vino magnolia negra malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4098.81,
+    "precio_hoy": 6332.0,
+    "diff_abs": 2233.19,
+    "diff_pct": 54.48
+  },
+  {
+    "ean": "2016340000004",
+    "nombre": "dulce de batata dulcor lata x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3687.82,
+    "precio_hoy": 5664.0,
+    "diff_abs": 1976.18,
+    "diff_pct": 53.59
+  },
+  {
+    "ean": "2016320000000",
+    "nombre": "batata con chocolate dulcor x kg lata x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3687.82,
+    "precio_hoy": 5664.0,
+    "diff_abs": 1976.18,
+    "diff_pct": 53.59
   }
 ]
