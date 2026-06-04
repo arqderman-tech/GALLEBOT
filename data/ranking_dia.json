@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7798062547559",
-    "nombre": "agua mineral sin gas villa del sur x 2,25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1299.0,
-    "precio_hoy": 2640.0,
-    "diff_abs": 1341.0,
-    "diff_pct": 103.23
+    "ean": "7797906000700",
+    "nombre": "papas mc cain tradicional x 400 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3349.0,
+    "precio_hoy": 5070.0,
+    "diff_abs": 1721.0,
+    "diff_pct": 51.39
   },
   {
-    "ean": "8000500232057",
-    "nombre": "bombones rafaello x 9 unid.",
+    "ean": "7797906054864",
+    "nombre": "papas mc cain horneables tradicional x 700 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 6759.0,
+    "precio_hoy": 10231.0,
+    "diff_abs": 3472.0,
+    "diff_pct": 51.37
+  },
+  {
+    "ean": "7790580153656",
+    "nombre": "bon o bon x 150 gm leche doy pack",
     "categoria": "Almacen",
-    "precio_antes": 4159.0,
-    "precio_hoy": 8303.0,
-    "diff_abs": 4144.0,
-    "diff_pct": 99.64
+    "precio_antes": 3829.0,
+    "precio_hoy": 4948.0,
+    "diff_abs": 1119.0,
+    "diff_pct": 29.22
   },
   {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1231.0,
-    "diff_pct": 81.04
-  },
-  {
-    "ean": "2016350000001",
-    "nombre": "dulce de membrillo en caja dulcor x kg.",
+    "ean": "7790550000065",
+    "nombre": "cappuccino l.planta x115gr.dp.",
     "categoria": "Perfumeria",
-    "precio_antes": 3332.51,
-    "precio_hoy": 5850.0,
-    "diff_abs": 2517.49,
-    "diff_pct": 75.54
+    "precio_antes": 4389.0,
+    "precio_hoy": 5608.0,
+    "diff_abs": 1219.0,
+    "diff_pct": 27.77
   },
   {
-    "ean": "2016360000008",
-    "nombre": "dulce de membrillo dulcor lata x kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4513.36,
-    "precio_hoy": 7794.0,
-    "diff_abs": 3280.64,
-    "diff_pct": 72.69
-  },
-  {
-    "ean": "7790314064012",
-    "nombre": "vino tinto finca magnolia x 750 ml. cabernet sauvi",
+    "ean": "7793147573591",
+    "nombre": "cerv.amstel x1lt.ret.lager",
     "categoria": "Bebidas",
-    "precio_antes": 3324.26,
-    "precio_hoy": 5595.0,
-    "diff_abs": 2270.74,
-    "diff_pct": 68.31
+    "precio_antes": 3519.0,
+    "precio_hoy": 4400.0,
+    "diff_abs": 881.0,
+    "diff_pct": 25.04
   },
   {
-    "ean": "7790314079993",
-    "nombre": "vino tinto finca magnolia x 750 ml. malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 3324.26,
-    "precio_hoy": 5595.0,
-    "diff_abs": 2270.74,
-    "diff_pct": 68.31
+    "ean": "77939753",
+    "nombre": "chicle topline seven x 14 gm atomic strong",
+    "categoria": "Almacen",
+    "precio_antes": 877.69,
+    "precio_hoy": 1091.0,
+    "diff_abs": 213.31,
+    "diff_pct": 24.3
   },
   {
-    "ean": "7792798015351",
-    "nombre": "cerveza corona 0 % x 473 ml lata",
+    "ean": "7790580137922",
+    "nombre": "chicle topline 7 x 14 gm bubble fun",
+    "categoria": "Almacen",
+    "precio_antes": 878.0,
+    "precio_hoy": 1091.0,
+    "diff_abs": 213.0,
+    "diff_pct": 24.26
+  },
+  {
+    "ean": "7792798013999",
+    "nombre": "cerveza quilmes bajo cero x 1 lt.",
     "categoria": "Bebidas",
-    "precio_antes": 2239.0,
+    "precio_antes": 2979.0,
     "precio_hoy": 3500.0,
-    "diff_abs": 1261.0,
-    "diff_pct": 56.32
+    "diff_abs": 521.0,
+    "diff_pct": 17.49
   },
   {
-    "ean": "2016310000003",
-    "nombre": "dulce de batata dulcor con chocolate x kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2726.39,
-    "precio_hoy": 4244.0,
-    "diff_abs": 1517.61,
-    "diff_pct": 55.66
+    "ean": "7790580124557",
+    "nombre": "bon o bon x 36 gm supreme",
+    "categoria": "Almacen",
+    "precio_antes": 1790.57,
+    "precio_hoy": 2061.0,
+    "diff_abs": 270.43,
+    "diff_pct": 15.1
   },
   {
-    "ean": "7792798013470",
-    "nombre": "cerveza stella artois 0 a?a? x 330 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 2069.0,
-    "precio_hoy": 3210.0,
-    "diff_abs": 1141.0,
-    "diff_pct": 55.15
+    "ean": "2022300000007",
+    "nombre": "uvas rosadas x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 14.31
   },
   {
-    "ean": "7790314080036",
-    "nombre": "vino finca magnolia rosado de bonarda x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3499.21,
-    "precio_hoy": 5422.0,
-    "diff_abs": 1922.79,
-    "diff_pct": 54.95
+    "ean": "7790580140441",
+    "nombre": "caram.mogul x620gr.tubito frut",
+    "categoria": "Almacen",
+    "precio_antes": 11549.0,
+    "precio_hoy": 12935.0,
+    "diff_abs": 1386.0,
+    "diff_pct": 12.0
   },
   {
-    "ean": "7790314064036",
-    "nombre": "vino fca.magnolia x750ml.b.bca",
-    "categoria": "Bebidas",
-    "precio_antes": 3499.21,
-    "precio_hoy": 5422.0,
-    "diff_abs": 1922.79,
-    "diff_pct": 54.95
+    "ean": "7790580153922",
+    "nombre": "bon o bon  x 144 gm supreme",
+    "categoria": "Almacen",
+    "precio_antes": 6175.0,
+    "precio_hoy": 6874.0,
+    "diff_abs": 699.0,
+    "diff_pct": 11.32
   },
   {
-    "ean": "7790314077654",
-    "nombre": "vino blanco finca magnolia x 750 ml. dulce",
-    "categoria": "Bebidas",
-    "precio_antes": 3499.21,
-    "precio_hoy": 5422.0,
-    "diff_abs": 1922.79,
-    "diff_pct": 54.95
+    "ean": "2013780000007",
+    "nombre": "noquis de espinaca la gallega x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5900.0,
+    "precio_hoy": 6500.0,
+    "diff_abs": 600.0,
+    "diff_pct": 10.17
   },
   {
-    "ean": "7798062541014",
-    "nombre": "agua saborizada villa del sur levite x 2,25 lt. pe",
-    "categoria": "Bebidas",
-    "precio_antes": 2499.0,
-    "precio_hoy": 3866.0,
-    "diff_abs": 1367.0,
-    "diff_pct": 54.7
+    "ean": "2013790000004",
+    "nombre": "noquis de semola la gallega x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5900.0,
+    "precio_hoy": 6500.0,
+    "diff_abs": 600.0,
+    "diff_pct": 10.17
   },
   {
-    "ean": "7790314077623",
-    "nombre": "vino magnolia negra malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4098.81,
-    "precio_hoy": 6332.0,
-    "diff_abs": 2233.19,
-    "diff_pct": 54.48
+    "ean": "7790580151065",
+    "nombre": "caramelos mogul extrem x 100 gm mini tubo mix",
+    "categoria": "Almacen",
+    "precio_antes": 1722.0,
+    "precio_hoy": 1894.0,
+    "diff_abs": 172.0,
+    "diff_pct": 9.99
   },
   {
-    "ean": "7790314077630",
-    "nombre": "vino tinto finca magnolia cabernet sauvignon x 750",
-    "categoria": "Bebidas",
-    "precio_antes": 4098.81,
-    "precio_hoy": 6332.0,
-    "diff_abs": 2233.19,
-    "diff_pct": 54.48
+    "ean": "7790580152734",
+    "nombre": "caramelos mogul  x 100 gm ladrilos xtrem",
+    "categoria": "Almacen",
+    "precio_antes": 1722.0,
+    "precio_hoy": 1894.0,
+    "diff_abs": 172.0,
+    "diff_pct": 9.99
   },
   {
-    "ean": "2016320000000",
-    "nombre": "batata con chocolate dulcor x kg lata x kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3687.82,
-    "precio_hoy": 5664.0,
-    "diff_abs": 1976.18,
-    "diff_pct": 53.59
+    "ean": "2017480000008",
+    "nombre": "pan de queso x kilo x kg.",
+    "categoria": "Congelados",
+    "precio_antes": 22000.0,
+    "precio_hoy": 24000.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 9.09
   },
   {
-    "ean": "2016340000004",
-    "nombre": "dulce de batata dulcor lata x kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3687.82,
-    "precio_hoy": 5664.0,
-    "diff_abs": 1976.18,
-    "diff_pct": 53.59
+    "ean": "2013770000000",
+    "nombre": "fideos la gallega yemitas x kilo x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3300.0,
+    "precio_hoy": 3600.0,
+    "diff_abs": 300.0,
+    "diff_pct": 9.09
   },
   {
-    "ean": "2016330000007",
-    "nombre": "dulce de batata en caja dulcor x kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2726.41,
-    "precio_hoy": 4179.0,
-    "diff_abs": 1452.59,
-    "diff_pct": 53.28
+    "ean": "2013740000009",
+    "nombre": "fideos la gallega gomeritas x kilo x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3300.0,
+    "precio_hoy": 3600.0,
+    "diff_abs": 300.0,
+    "diff_pct": 9.09
   },
   {
-    "ean": "7793126002012",
-    "nombre": "mermelada patagonia tradicional x 320 gm frutilla",
-    "categoria": "Perfumeria",
-    "precio_antes": 6269.0,
-    "precio_hoy": 9554.0,
-    "diff_abs": 3285.0,
-    "diff_pct": 52.4
+    "ean": "2013670000001",
+    "nombre": "fideos la gallega cinta ancha x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3300.0,
+    "precio_hoy": 3600.0,
+    "diff_abs": 300.0,
+    "diff_pct": 9.09
   }
 ]

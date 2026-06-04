@@ -1,12 +1,48 @@
 [
   {
+    "ean": "7790580151898",
+    "nombre": "pure de tomate salsati x 340 gm passata",
+    "categoria": "Almacen",
+    "precio_antes": 1169.0,
+    "precio_hoy": 2472.0,
+    "diff_abs": 1303.0,
+    "diff_pct": 111.46
+  },
+  {
+    "ean": "7790580151881",
+    "nombre": "pure tomate la campagnola  x 340 gm passats",
+    "categoria": "Almacen",
+    "precio_antes": 1019.0,
+    "precio_hoy": 2150.0,
+    "diff_abs": 1131.0,
+    "diff_pct": 110.99
+  },
+  {
     "ean": "7798062547559",
     "nombre": "agua mineral sin gas villa del sur x 2,25 lt.",
     "categoria": "Bebidas",
     "precio_antes": 1299.0,
-    "precio_hoy": 2640.0,
-    "diff_abs": 1341.0,
-    "diff_pct": 103.23
+    "precio_hoy": 2693.0,
+    "diff_abs": 1394.0,
+    "diff_pct": 107.31
+  },
+  {
+    "ean": "78600027",
+    "nombre": "pastillas tic tac naranja x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 559.0,
+    "precio_hoy": 1101.0,
+    "diff_abs": 542.0,
+    "diff_pct": 96.96
+  },
+  {
+    "ean": "78600010",
+    "nombre": "pastillas tic tac menta x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 559.0,
+    "precio_hoy": 1101.0,
+    "diff_abs": 542.0,
+    "diff_pct": 96.96
   },
   {
     "ean": "7791813403036",
@@ -54,33 +90,6 @@
     "diff_pct": 68.31
   },
   {
-    "ean": "7790703205064",
-    "nombre": "vino don valentin lacr.rob.mal",
-    "categoria": "Bebidas",
-    "precio_antes": 3747.0,
-    "precio_hoy": 6228.0,
-    "diff_abs": 2481.0,
-    "diff_pct": 66.21
-  },
-  {
-    "ean": "7790703205095",
-    "nombre": "vino don valentin lacrado cabernet x 750 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 3747.0,
-    "precio_hoy": 6228.0,
-    "diff_abs": 2481.0,
-    "diff_pct": 66.21
-  },
-  {
-    "ean": "7790703205101",
-    "nombre": "vino blanco don valentin lacrado torrontes x 750 .",
-    "categoria": "Bebidas",
-    "precio_antes": 3747.0,
-    "precio_hoy": 6228.0,
-    "diff_abs": 2481.0,
-    "diff_pct": 66.21
-  },
-  {
     "ean": "7792798015351",
     "nombre": "cerveza corona 0 % x 473 ml lata",
     "categoria": "Bebidas",
@@ -117,15 +126,6 @@
     "diff_pct": 54.95
   },
   {
-    "ean": "7790314064036",
-    "nombre": "vino fca.magnolia x750ml.b.bca",
-    "categoria": "Bebidas",
-    "precio_antes": 3499.21,
-    "precio_hoy": 5422.0,
-    "diff_abs": 1922.79,
-    "diff_pct": 54.95
-  },
-  {
     "ean": "7790314080036",
     "nombre": "vino finca magnolia rosado de bonarda x 750 ml.",
     "categoria": "Bebidas",
@@ -135,17 +135,17 @@
     "diff_pct": 54.95
   },
   {
-    "ean": "7798062541014",
-    "nombre": "agua saborizada villa del sur levite x 2,25 lt. pe",
+    "ean": "7790314064036",
+    "nombre": "vino fca.magnolia x750ml.b.bca",
     "categoria": "Bebidas",
-    "precio_antes": 2499.0,
-    "precio_hoy": 3866.0,
-    "diff_abs": 1367.0,
-    "diff_pct": 54.7
+    "precio_antes": 3499.21,
+    "precio_hoy": 5422.0,
+    "diff_abs": 1922.79,
+    "diff_pct": 54.95
   },
   {
-    "ean": "7790314077630",
-    "nombre": "vino tinto finca magnolia cabernet sauvignon x 750",
+    "ean": "7790314077623",
+    "nombre": "vino magnolia negra malbec x 750 ml.",
     "categoria": "Bebidas",
     "precio_antes": 4098.81,
     "precio_hoy": 6332.0,
@@ -153,8 +153,8 @@
     "diff_pct": 54.48
   },
   {
-    "ean": "7790314077623",
-    "nombre": "vino magnolia negra malbec x 750 ml.",
+    "ean": "7790314077630",
+    "nombre": "vino tinto finca magnolia cabernet sauvignon x 750",
     "categoria": "Bebidas",
     "precio_antes": 4098.81,
     "precio_hoy": 6332.0,

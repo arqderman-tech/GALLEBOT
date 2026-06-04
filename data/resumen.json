@@ -1,13 +1,147 @@
 {
-  "fecha": "20260603",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260604",
+  "total_productos": 5781,
+  "variacion_dia": -0.48,
+  "variacion_7d": 0.97,
+  "variacion_mes": 0.6,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": -0.18,
+      "productos_subieron": 51,
+      "productos_bajaron": 47,
+      "total_productos": 1303
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 8,
+      "productos_bajaron": 8,
+      "total_productos": 619
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": -2.25,
+      "productos_subieron": 35,
+      "productos_bajaron": 68,
+      "total_productos": 209
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 160
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": -1.42,
+      "productos_subieron": 4,
+      "productos_bajaron": 67,
+      "total_productos": 813
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.26,
+      "productos_subieron": 24,
+      "productos_bajaron": 24,
+      "total_productos": 475
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "7790387800142",
+      "nombre": "te taragui x 50 saquitos",
+      "categoria": "Perfumeria",
+      "precio_antes": 1926.0,
+      "precio_hoy": 1289.0,
+      "diff_abs": -637.0,
+      "diff_pct": -33.07
+    },
+    {
+      "ean": "7790387800159",
+      "nombre": "te taragui x 100 saquitos sin ensobrar",
+      "categoria": "Perfumeria",
+      "precio_antes": 3581.0,
+      "precio_hoy": 2399.0,
+      "diff_abs": -1182.0,
+      "diff_pct": -33.01
+    },
+    {
+      "ean": "7790387800135",
+      "nombre": "te taragui x 25 saquitos",
+      "categoria": "Perfumeria",
+      "precio_antes": 1069.0,
+      "precio_hoy": 719.0,
+      "diff_abs": -350.0,
+      "diff_pct": -32.74
+    },
+    {
+      "ean": "7790670050674",
+      "nombre": "hamburguesas paty x 2 unid. clasicas",
+      "categoria": "Congelados",
+      "precio_antes": 4662.0,
+      "precio_hoy": 3149.0,
+      "diff_abs": -1513.0,
+      "diff_pct": -32.45
+    },
+    {
+      "ean": "7798422330289",
+      "nombre": "vino tinto finjamos demencia x 750 ml malbec",
+      "categoria": "Bebidas",
+      "precio_antes": 6342.0,
+      "precio_hoy": 4529.0,
+      "diff_abs": -1813.0,
+      "diff_pct": -28.59
+    },
+    {
+      "ean": "7798422330340",
+      "nombre": "vino finjamos demencia x 750 ml blend",
+      "categoria": "Bebidas",
+      "precio_antes": 6342.0,
+      "precio_hoy": 4529.0,
+      "diff_abs": -1813.0,
+      "diff_pct": -28.59
+    },
+    {
+      "ean": "7798422330296",
+      "nombre": "vino tinto finajmos demencia x 750 ml corte de tin",
+      "categoria": "Bebidas",
+      "precio_antes": 6342.0,
+      "precio_hoy": 4529.0,
+      "diff_abs": -1813.0,
+      "diff_pct": -28.59
+    },
+    {
+      "ean": "7798039590151",
+      "nombre": "vino tinto tribu malbec x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 5261.0,
+      "precio_hoy": 3759.0,
+      "diff_abs": -1502.0,
+      "diff_pct": -28.55
+    },
+    {
+      "ean": "7798039590373",
+      "nombre": "vino tinto tribu cabernet sauvignon x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 5261.0,
+      "precio_hoy": 3759.0,
+      "diff_abs": -1502.0,
+      "diff_pct": -28.55
+    },
+    {
+      "ean": "7798039599031",
+      "nombre": "vino blanco tribu dulce x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 5261.0,
+      "precio_hoy": 3759.0,
+      "diff_abs": -1502.0,
+      "diff_pct": -28.55
+    }
+  ],
+  "productos_subieron_dia": 122,
+  "productos_bajaron_dia": 214,
+  "productos_sin_cambio_dia": 3243
 }
