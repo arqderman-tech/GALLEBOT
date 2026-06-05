@@ -4,9 +4,9 @@
     "nombre": "tomate cherry x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 4990.0,
-    "precio_hoy": 8990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 80.16
+    "precio_hoy": 9990.0,
+    "diff_abs": 5000.0,
+    "diff_pct": 100.2
   },
   {
     "ean": "7791540053153",
@@ -81,8 +81,8 @@
     "diff_pct": 66.21
   },
   {
-    "ean": "7790703205101",
-    "nombre": "vino blanco don valentin lacrado torrontes x 750 .",
+    "ean": "7790703205095",
+    "nombre": "vino don valentin lacrado cabernet x 750 ml",
     "categoria": "Bebidas",
     "precio_antes": 3747.0,
     "precio_hoy": 6228.0,
@@ -90,8 +90,8 @@
     "diff_pct": 66.21
   },
   {
-    "ean": "7790703205095",
-    "nombre": "vino don valentin lacrado cabernet x 750 ml",
+    "ean": "7790703205101",
+    "nombre": "vino blanco don valentin lacrado torrontes x 750 .",
     "categoria": "Bebidas",
     "precio_antes": 3747.0,
     "precio_hoy": 6228.0,

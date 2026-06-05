@@ -1,88 +1,88 @@
 [
   {
-    "ean": "7797906000700",
-    "nombre": "papas mc cain tradicional x 400 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 3349.0,
-    "precio_hoy": 5070.0,
-    "diff_abs": 1721.0,
-    "diff_pct": 51.39
+    "ean": "2021790000009",
+    "nombre": "pimiento amarillo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 8990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 28.61
   },
   {
-    "ean": "7797906054864",
-    "nombre": "papas mc cain horneables tradicional x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 6759.0,
-    "precio_hoy": 10231.0,
-    "diff_abs": 3472.0,
-    "diff_pct": 51.37
+    "ean": "2022010000007",
+    "nombre": "remolacha x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
   },
   {
-    "ean": "7790580153656",
-    "nombre": "bon o bon x 150 gm leche doy pack",
+    "ean": "7794820903308",
+    "nombre": "manteca milkaut x 200 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3869.0,
+    "precio_hoy": 4542.0,
+    "diff_abs": 673.0,
+    "diff_pct": 17.39
+  },
+  {
+    "ean": "7622300759506",
+    "nombre": "alfajor milka mousse x 42 gr.",
     "categoria": "Almacen",
-    "precio_antes": 3829.0,
-    "precio_hoy": 4948.0,
-    "diff_abs": 1119.0,
-    "diff_pct": 29.22
+    "precio_antes": 1501.0,
+    "precio_hoy": 1761.0,
+    "diff_abs": 260.0,
+    "diff_pct": 17.32
   },
   {
-    "ean": "7790550000065",
-    "nombre": "cappuccino l.planta x115gr.dp.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4389.0,
-    "precio_hoy": 5608.0,
-    "diff_abs": 1219.0,
-    "diff_pct": 27.77
+    "ean": "7794820902707",
+    "nombre": "yogur bebible descremado milkaut frutilla x 900 g.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2529.0,
+    "precio_hoy": 2931.0,
+    "diff_abs": 402.0,
+    "diff_pct": 15.9
   },
   {
-    "ean": "7793147573591",
-    "nombre": "cerv.amstel x1lt.ret.lager",
-    "categoria": "Bebidas",
-    "precio_antes": 3519.0,
-    "precio_hoy": 4400.0,
-    "diff_abs": 881.0,
-    "diff_pct": 25.04
+    "ean": "7794820902257",
+    "nombre": "yogur bebible milkaut x 900 gr. vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2529.0,
+    "precio_hoy": 2931.0,
+    "diff_abs": 402.0,
+    "diff_pct": 15.9
   },
   {
-    "ean": "77939753",
-    "nombre": "chicle topline seven x 14 gm atomic strong",
-    "categoria": "Almacen",
-    "precio_antes": 877.69,
-    "precio_hoy": 1091.0,
-    "diff_abs": 213.31,
-    "diff_pct": 24.3
+    "ean": "7794820902240",
+    "nombre": "yogur bebible milkaut sabor durazno x 900 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2529.0,
+    "precio_hoy": 2931.0,
+    "diff_abs": 402.0,
+    "diff_pct": 15.9
   },
   {
-    "ean": "7790580137922",
-    "nombre": "chicle topline 7 x 14 gm bubble fun",
-    "categoria": "Almacen",
-    "precio_antes": 878.0,
-    "precio_hoy": 1091.0,
-    "diff_abs": 213.0,
-    "diff_pct": 24.26
+    "ean": "7794820902264",
+    "nombre": "yogur bebible milkaut x 900 gr. frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2529.0,
+    "precio_hoy": 2931.0,
+    "diff_abs": 402.0,
+    "diff_pct": 15.9
   },
   {
-    "ean": "7792798013999",
-    "nombre": "cerveza quilmes bajo cero x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2979.0,
-    "precio_hoy": 3500.0,
-    "diff_abs": 521.0,
-    "diff_pct": 17.49
+    "ean": "7794820902714",
+    "nombre": "yog.milkaut desc.sh.x900g.vain",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2529.0,
+    "precio_hoy": 2931.0,
+    "diff_abs": 402.0,
+    "diff_pct": 15.9
   },
   {
-    "ean": "7790580124557",
-    "nombre": "bon o bon x 36 gm supreme",
-    "categoria": "Almacen",
-    "precio_antes": 1790.57,
-    "precio_hoy": 2061.0,
-    "diff_abs": 270.43,
-    "diff_pct": 15.1
-  },
-  {
-    "ean": "2022300000007",
-    "nombre": "uvas rosadas x kg.",
+    "ean": "2021820000009",
+    "nombre": "pimiento rojo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 6990.0,
     "precio_hoy": 7990.0,
@@ -90,93 +90,93 @@
     "diff_pct": 14.31
   },
   {
-    "ean": "7790580140441",
-    "nombre": "caram.mogul x620gr.tubito frut",
-    "categoria": "Almacen",
-    "precio_antes": 11549.0,
-    "precio_hoy": 12935.0,
-    "diff_abs": 1386.0,
-    "diff_pct": 12.0
-  },
-  {
-    "ean": "7790580153922",
-    "nombre": "bon o bon  x 144 gm supreme",
-    "categoria": "Almacen",
-    "precio_antes": 6175.0,
-    "precio_hoy": 6874.0,
-    "diff_abs": 699.0,
-    "diff_pct": 11.32
-  },
-  {
-    "ean": "2013780000007",
-    "nombre": "noquis de espinaca la gallega x kg.",
+    "ean": "7794820903292",
+    "nombre": "manteca milkaut x 100 gr.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5900.0,
-    "precio_hoy": 6500.0,
-    "diff_abs": 600.0,
-    "diff_pct": 10.17
+    "precio_antes": 2069.0,
+    "precio_hoy": 2351.0,
+    "diff_abs": 282.0,
+    "diff_pct": 13.63
   },
   {
-    "ean": "2013790000004",
-    "nombre": "noquis de semola la gallega x kg.",
+    "ean": "7794820903124",
+    "nombre": "chocolatada milkaut l.v. x 1 lt.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5900.0,
-    "precio_hoy": 6500.0,
-    "diff_abs": 600.0,
-    "diff_pct": 10.17
+    "precio_antes": 3609.0,
+    "precio_hoy": 4099.0,
+    "diff_abs": 490.0,
+    "diff_pct": 13.58
   },
   {
-    "ean": "7790580151065",
-    "nombre": "caramelos mogul extrem x 100 gm mini tubo mix",
-    "categoria": "Almacen",
-    "precio_antes": 1722.0,
-    "precio_hoy": 1894.0,
-    "diff_abs": 172.0,
-    "diff_pct": 9.99
-  },
-  {
-    "ean": "7790580152734",
-    "nombre": "caramelos mogul  x 100 gm ladrilos xtrem",
-    "categoria": "Almacen",
-    "precio_antes": 1722.0,
-    "precio_hoy": 1894.0,
-    "diff_abs": 172.0,
-    "diff_pct": 9.99
-  },
-  {
-    "ean": "2017480000008",
-    "nombre": "pan de queso x kilo x kg.",
-    "categoria": "Congelados",
-    "precio_antes": 22000.0,
-    "precio_hoy": 24000.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 9.09
-  },
-  {
-    "ean": "2013770000000",
-    "nombre": "fideos la gallega yemitas x kilo x kg.",
+    "ean": "7794820903087",
+    "nombre": "queso crema milkaut crematto x 445 gm balance",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3300.0,
-    "precio_hoy": 3600.0,
-    "diff_abs": 300.0,
-    "diff_pct": 9.09
+    "precio_antes": 5329.0,
+    "precio_hoy": 6050.0,
+    "diff_abs": 721.0,
+    "diff_pct": 13.53
   },
   {
-    "ean": "2013740000009",
-    "nombre": "fideos la gallega gomeritas x kilo x kg.",
+    "ean": "7794820903070",
+    "nombre": "qs.milkaut crematto x445g.clas",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3300.0,
-    "precio_hoy": 3600.0,
-    "diff_abs": 300.0,
-    "diff_pct": 9.09
+    "precio_antes": 5329.0,
+    "precio_hoy": 6050.0,
+    "diff_abs": 721.0,
+    "diff_pct": 13.53
   },
   {
-    "ean": "2013670000001",
-    "nombre": "fideos la gallega cinta ancha x kg.",
+    "ean": "7794820902950",
+    "nombre": "dulce de leche milkaut de campo x 395 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2719.0,
+    "precio_hoy": 3085.0,
+    "diff_abs": 366.0,
+    "diff_pct": 13.46
+  },
+  {
+    "ean": "7794820903094",
+    "nombre": "queso untable milkaut crematto balance x 285 gr.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3300.0,
-    "precio_hoy": 3600.0,
-    "diff_abs": 300.0,
-    "diff_pct": 9.09
+    "precio_antes": 3549.0,
+    "precio_hoy": 4026.0,
+    "diff_abs": 477.0,
+    "diff_pct": 13.44
+  },
+  {
+    "ean": "7794820004159",
+    "nombre": "leche chocolatada milkaut x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1019.0,
+    "precio_hoy": 1155.0,
+    "diff_abs": 136.0,
+    "diff_pct": 13.35
+  },
+  {
+    "ean": "7794820903216",
+    "nombre": "yogur bebible milkaut vainilla x 950 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2999.0,
+    "precio_hoy": 3385.0,
+    "diff_abs": 386.0,
+    "diff_pct": 12.87
+  },
+  {
+    "ean": "7794820903209",
+    "nombre": "yogur bebible milkaut frutilla x 950 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2999.0,
+    "precio_hoy": 3385.0,
+    "diff_abs": 386.0,
+    "diff_pct": 12.87
+  },
+  {
+    "ean": "2022130000000",
+    "nombre": "tomate cherry x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 8990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 11.12
   }
 ]
