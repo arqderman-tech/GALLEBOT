@@ -1,147 +1,147 @@
 {
-  "fecha": "20260605",
-  "total_productos": 5741,
-  "variacion_dia": 0.09,
-  "variacion_7d": 1.11,
-  "variacion_mes": 0.68,
+  "fecha": "20260606",
+  "total_productos": 5728,
+  "variacion_dia": 0.1,
+  "variacion_7d": 1.15,
+  "variacion_mes": 1.93,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.14,
-      "productos_subieron": 40,
-      "productos_bajaron": 23,
-      "total_productos": 1300
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 1,
+      "productos_bajaron": 0,
+      "total_productos": 1295
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.23,
-      "productos_subieron": 37,
-      "productos_bajaron": 19,
-      "total_productos": 1099
+      "variacion_pct_promedio": 0.16,
+      "productos_subieron": 13,
+      "productos_bajaron": 4,
+      "total_productos": 1095
     },
     {
       "categoria": "Congelados",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 211
+      "total_productos": 209
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.01,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "total_productos": 734
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.32,
-      "productos_subieron": 39,
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 2,
       "productos_bajaron": 0,
-      "total_productos": 805
+      "total_productos": 800
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.12,
-      "productos_subieron": 48,
-      "productos_bajaron": 14,
-      "total_productos": 1589
+      "variacion_pct_promedio": 0.23,
+      "productos_subieron": 78,
+      "productos_bajaron": 0,
+      "total_productos": 1577
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7794000008922",
-      "nombre": "aderezo hellmann`s picante x 340 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 3579.0,
-      "precio_hoy": 2299.0,
-      "diff_abs": -1280.0,
-      "diff_pct": -35.76
+      "ean": "2020930000008",
+      "nombre": "lechuga morada x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 5990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -33.39
     },
     {
-      "ean": "7794000007741",
-      "nombre": "salsa golf hellmann`s x 250 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2479.0,
-      "precio_hoy": 1599.0,
-      "diff_abs": -880.0,
-      "diff_pct": -35.5
+      "ean": "2021650000002",
+      "nombre": "zapallito largo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 5990.0,
+      "precio_hoy": 4990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -16.69
     },
     {
-      "ean": "7794000008540",
-      "nombre": "caldo sabor gallina knorr x 12 cubos",
-      "categoria": "Almacen",
-      "precio_antes": 2409.0,
-      "precio_hoy": 1559.0,
-      "diff_abs": -850.0,
-      "diff_pct": -35.28
+      "ean": "2020920000001",
+      "nombre": "lechuga mantecosa x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -14.31
     },
     {
-      "ean": "7794000009196",
-      "nombre": "sabor knorr mix x 4 sobres sabor barbacoa ahumada",
-      "categoria": "Almacen",
-      "precio_antes": 1419.0,
-      "precio_hoy": 919.0,
-      "diff_abs": -500.0,
-      "diff_pct": -35.24
+      "ean": "2020960000009",
+      "nombre": "lechuga repollada x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -14.31
     },
     {
-      "ean": "7794000009172",
-      "nombre": "mix de sabores knorr pollos x 4 sobres",
-      "categoria": "Almacen",
-      "precio_antes": 1419.0,
-      "precio_hoy": 919.0,
-      "diff_abs": -500.0,
-      "diff_pct": -35.24
+      "ean": "2011070000003",
+      "nombre": "ricota rosalat envasada x 500 gr aprox",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5979.0,
+      "precio_hoy": 5979.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7794000009189",
-      "nombre": "mix de sabor knorr aji,comino y pimenton x 4 sobrs",
-      "categoria": "Almacen",
-      "precio_antes": 1419.0,
-      "precio_hoy": 919.0,
-      "diff_abs": -500.0,
-      "diff_pct": -35.24
+      "ean": "2018940000002",
+      "nombre": "salame lario tipo crespon x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 31839.0,
+      "precio_hoy": 31839.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7794000009141",
-      "nombre": "mix de sabores knorr oregano, tomate y ajo x 4 sos",
-      "categoria": "Almacen",
-      "precio_antes": 1419.0,
-      "precio_hoy": 919.0,
-      "diff_abs": -500.0,
-      "diff_pct": -35.24
+      "ean": "7790625005285",
+      "nombre": "salame lario fuet ev.x150gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 6279.0,
+      "precio_hoy": 6279.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7794000007116",
-      "nombre": "mayonesa hellmans liviana x 320 gr botellita",
-      "categoria": "Almacen",
-      "precio_antes": 3517.0,
-      "precio_hoy": 2279.0,
-      "diff_abs": -1238.0,
-      "diff_pct": -35.2
+      "ean": "2011320000005",
+      "nombre": "salame espaa?a?ol x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 27958.0,
+      "precio_hoy": 27958.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7794000009295",
-      "nombre": "mix de sabores knorr coboulette y puerro x 4 sobres",
-      "categoria": "Almacen",
-      "precio_antes": 1419.0,
-      "precio_hoy": 920.0,
-      "diff_abs": -499.0,
-      "diff_pct": -35.17
+      "ean": "2015580000003",
+      "nombre": "salame de milan paladini x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 30140.0,
+      "precio_hoy": 30140.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7794000008229",
-      "nombre": "bizcochuelo maizena libre de gluten x 450 gr. vaia",
-      "categoria": "Almacen",
-      "precio_antes": 5179.0,
-      "precio_hoy": 3359.0,
-      "diff_abs": -1820.0,
-      "diff_pct": -35.14
+      "ean": "2018840000003",
+      "nombre": "salame de milan lario x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 28529.0,
+      "precio_hoy": 28529.01,
+      "diff_abs": 0.01,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 165,
-  "productos_bajaron_dia": 56,
-  "productos_sin_cambio_dia": 5517
+  "productos_subieron_dia": 94,
+  "productos_bajaron_dia": 4,
+  "productos_sin_cambio_dia": 5612
 }

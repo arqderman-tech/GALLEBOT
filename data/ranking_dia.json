@@ -1,16 +1,25 @@
 [
   {
-    "ean": "2021790000009",
-    "nombre": "pimiento amarillo x kg.",
+    "ean": "2020100000005",
+    "nombre": "berenjena morada x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 8990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 28.61
+    "precio_antes": 4490.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 33.41
   },
   {
-    "ean": "2022010000007",
-    "nombre": "remolacha x paquete",
+    "ean": "2020160000007",
+    "nombre": "brocoli x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 9990.0,
+    "precio_hoy": 12990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 30.03
+  },
+  {
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 1990.0,
     "precio_hoy": 2490.0,
@@ -18,165 +27,156 @@
     "diff_pct": 25.13
   },
   {
-    "ean": "7794820903308",
-    "nombre": "manteca milkaut x 200 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3869.0,
-    "precio_hoy": 4542.0,
-    "diff_abs": 673.0,
-    "diff_pct": 17.39
-  },
-  {
-    "ean": "7622300759506",
-    "nombre": "alfajor milka mousse x 42 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1501.0,
-    "precio_hoy": 1761.0,
-    "diff_abs": 260.0,
-    "diff_pct": 17.32
-  },
-  {
-    "ean": "7794820902707",
-    "nombre": "yogur bebible descremado milkaut frutilla x 900 g.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2529.0,
-    "precio_hoy": 2931.0,
-    "diff_abs": 402.0,
-    "diff_pct": 15.9
-  },
-  {
-    "ean": "7794820902257",
-    "nombre": "yogur bebible milkaut x 900 gr. vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2529.0,
-    "precio_hoy": 2931.0,
-    "diff_abs": 402.0,
-    "diff_pct": 15.9
-  },
-  {
-    "ean": "7794820902240",
-    "nombre": "yogur bebible milkaut sabor durazno x 900 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2529.0,
-    "precio_hoy": 2931.0,
-    "diff_abs": 402.0,
-    "diff_pct": 15.9
-  },
-  {
-    "ean": "7794820902264",
-    "nombre": "yogur bebible milkaut x 900 gr. frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2529.0,
-    "precio_hoy": 2931.0,
-    "diff_abs": 402.0,
-    "diff_pct": 15.9
-  },
-  {
-    "ean": "7794820902714",
-    "nombre": "yog.milkaut desc.sh.x900g.vain",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2529.0,
-    "precio_hoy": 2931.0,
-    "diff_abs": 402.0,
-    "diff_pct": 15.9
-  },
-  {
-    "ean": "2021820000009",
-    "nombre": "pimiento rojo x kg.",
+    "ean": "2020120000009",
+    "nombre": "berengena negra x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 7990.0,
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 14.31
+    "diff_pct": 25.06
   },
   {
-    "ean": "7794820903292",
-    "nombre": "manteca milkaut x 100 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2069.0,
-    "precio_hoy": 2351.0,
-    "diff_abs": 282.0,
-    "diff_pct": 13.63
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 20.08
   },
   {
-    "ean": "7794820903124",
-    "nombre": "chocolatada milkaut l.v. x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3609.0,
-    "precio_hoy": 4099.0,
-    "diff_abs": 490.0,
-    "diff_pct": 13.58
+    "ean": "2021840000003",
+    "nombre": "pimiento verde x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
   },
   {
-    "ean": "7794820903087",
-    "nombre": "queso crema milkaut crematto x 445 gm balance",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5329.0,
-    "precio_hoy": 6050.0,
-    "diff_abs": 721.0,
-    "diff_pct": 13.53
+    "ean": "2019910000008",
+    "nombre": "ajies x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 9990.0,
+    "precio_hoy": 11990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 20.02
   },
   {
-    "ean": "7794820903070",
-    "nombre": "qs.milkaut crematto x445g.clas",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5329.0,
-    "precio_hoy": 6050.0,
-    "diff_abs": 721.0,
-    "diff_pct": 13.53
+    "ean": "2037380000007",
+    "nombre": "lechuga manteca hidroponica x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 16.72
   },
   {
-    "ean": "7794820902950",
-    "nombre": "dulce de leche milkaut de campo x 395 gr.",
+    "ean": "2022190000002",
+    "nombre": "tomate larga vida x kilo",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
+  },
+  {
+    "ean": "2020410000009",
+    "nombre": "choclo elegido x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
+  },
+  {
+    "ean": "2024850000001",
+    "nombre": "asado de costilla ternera x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 19900.0,
+    "precio_hoy": 21900.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 10.05
+  },
+  {
+    "ean": "7798085681582",
+    "nombre": "jugo citric x500cc.limon",
+    "categoria": "Bebidas",
+    "precio_antes": 2543.0,
+    "precio_hoy": 2784.0,
+    "diff_abs": 241.0,
+    "diff_pct": 9.48
+  },
+  {
+    "ean": "7793890261530",
+    "nombre": "braunichoc sabe bien! x 35 gr.",
     "categoria": "Perfumeria",
-    "precio_antes": 2719.0,
-    "precio_hoy": 3085.0,
-    "diff_abs": 366.0,
-    "diff_pct": 13.46
+    "precio_antes": 982.0,
+    "precio_hoy": 1071.0,
+    "diff_abs": 89.0,
+    "diff_pct": 9.06
   },
   {
-    "ean": "7794820903094",
-    "nombre": "queso untable milkaut crematto balance x 285 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3549.0,
-    "precio_hoy": 4026.0,
-    "diff_abs": 477.0,
-    "diff_pct": 13.44
-  },
-  {
-    "ean": "7794820004159",
-    "nombre": "leche chocolatada milkaut x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1019.0,
-    "precio_hoy": 1155.0,
-    "diff_abs": 136.0,
-    "diff_pct": 13.35
-  },
-  {
-    "ean": "7794820903216",
-    "nombre": "yogur bebible milkaut vainilla x 950 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2999.0,
-    "precio_hoy": 3385.0,
-    "diff_abs": 386.0,
-    "diff_pct": 12.87
-  },
-  {
-    "ean": "7794820903209",
-    "nombre": "yogur bebible milkaut frutilla x 950 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2999.0,
-    "precio_hoy": 3385.0,
-    "diff_abs": 386.0,
-    "diff_pct": 12.87
-  },
-  {
-    "ean": "2022130000000",
-    "nombre": "tomate cherry x kg.",
+    "ean": "2020770000008",
+    "nombre": "granada x kilo",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 8990.0,
-    "precio_hoy": 9990.0,
+    "precio_antes": 11990.0,
+    "precio_hoy": 12990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 11.12
+    "diff_pct": 8.34
+  },
+  {
+    "ean": "2021680000003",
+    "nombre": "zapallo brasilero x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1390.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 100.0,
+    "diff_pct": 7.19
+  },
+  {
+    "ean": "7793890261578",
+    "nombre": "brownie chips sabe bien! x 62 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1423.0,
+    "precio_hoy": 1517.0,
+    "diff_abs": 94.0,
+    "diff_pct": 6.61
+  },
+  {
+    "ean": "7798146138857",
+    "nombre": "mayonesa heinz light x 200 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1677.0,
+    "precio_hoy": 1778.0,
+    "diff_abs": 101.0,
+    "diff_pct": 6.02
+  },
+  {
+    "ean": "7792900809021",
+    "nombre": "jugo de limon dos anclas x 500 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 2677.0,
+    "precio_hoy": 2838.0,
+    "diff_abs": 161.0,
+    "diff_pct": 6.01
+  },
+  {
+    "ean": "7792900916606",
+    "nombre": "bano de reposteria dos anclas semiamargo x 150 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3444.0,
+    "precio_hoy": 3651.0,
+    "diff_abs": 207.0,
+    "diff_pct": 6.01
+  },
+  {
+    "ean": "7792900990835",
+    "nombre": "salsa de frutilla dos anclas x 320 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4639.0,
+    "precio_hoy": 4918.0,
+    "diff_abs": 279.0,
+    "diff_pct": 6.01
   }
 ]

@@ -36,6 +36,15 @@
     "diff_pct": 99.64
   },
   {
+    "ean": "78600010",
+    "nombre": "pastillas tic tac menta x 16 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 559.0,
+    "precio_hoy": 1101.0,
+    "diff_abs": 542.0,
+    "diff_pct": 96.96
+  },
+  {
     "ean": "7797394001265",
     "nombre": "pastillas tic tac mix de frutas x 16 gr.",
     "categoria": "Almacen",
@@ -47,15 +56,6 @@
   {
     "ean": "78600027",
     "nombre": "pastillas tic tac naranja x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 559.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 542.0,
-    "diff_pct": 96.96
-  },
-  {
-    "ean": "78600010",
-    "nombre": "pastillas tic tac menta x 16 gr.",
     "categoria": "Almacen",
     "precio_antes": 559.0,
     "precio_hoy": 1101.0,
@@ -90,8 +90,8 @@
     "diff_pct": 72.69
   },
   {
-    "ean": "7790314064012",
-    "nombre": "vino tinto finca magnolia x 750 ml. cabernet sauvi",
+    "ean": "7790314079993",
+    "nombre": "vino tinto finca magnolia x 750 ml. malbec",
     "categoria": "Bebidas",
     "precio_antes": 3324.26,
     "precio_hoy": 5595.0,
@@ -99,8 +99,8 @@
     "diff_pct": 68.31
   },
   {
-    "ean": "7790314079993",
-    "nombre": "vino tinto finca magnolia x 750 ml. malbec",
+    "ean": "7790314064012",
+    "nombre": "vino tinto finca magnolia x 750 ml. cabernet sauvi",
     "categoria": "Bebidas",
     "precio_antes": 3324.26,
     "precio_hoy": 5595.0,
@@ -135,15 +135,6 @@
     "diff_pct": 54.95
   },
   {
-    "ean": "7790314064036",
-    "nombre": "vino fca.magnolia x750ml.b.bca",
-    "categoria": "Bebidas",
-    "precio_antes": 3499.21,
-    "precio_hoy": 5422.0,
-    "diff_abs": 1922.79,
-    "diff_pct": 54.95
-  },
-  {
     "ean": "7790314080036",
     "nombre": "vino finca magnolia rosado de bonarda x 750 ml.",
     "categoria": "Bebidas",
@@ -153,8 +144,17 @@
     "diff_pct": 54.95
   },
   {
-    "ean": "7790314077630",
-    "nombre": "vino tinto finca magnolia cabernet sauvignon x 750",
+    "ean": "7790314064036",
+    "nombre": "vino fca.magnolia x750ml.b.bca",
+    "categoria": "Bebidas",
+    "precio_antes": 3499.21,
+    "precio_hoy": 5422.0,
+    "diff_abs": 1922.79,
+    "diff_pct": 54.95
+  },
+  {
+    "ean": "7790314077623",
+    "nombre": "vino magnolia negra malbec x 750 ml.",
     "categoria": "Bebidas",
     "precio_antes": 4098.81,
     "precio_hoy": 6332.0,
@@ -162,8 +162,8 @@
     "diff_pct": 54.48
   },
   {
-    "ean": "7790314077623",
-    "nombre": "vino magnolia negra malbec x 750 ml.",
+    "ean": "7790314077630",
+    "nombre": "vino tinto finca magnolia cabernet sauvignon x 750",
     "categoria": "Bebidas",
     "precio_antes": 4098.81,
     "precio_hoy": 6332.0,
