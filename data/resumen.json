@@ -1,29 +1,29 @@
 {
-  "fecha": "20260606",
+  "fecha": "20260607",
   "total_productos": 5728,
-  "variacion_dia": 0.1,
-  "variacion_7d": 1.15,
-  "variacion_mes": 1.93,
+  "variacion_dia": 0.01,
+  "variacion_7d": 1.16,
+  "variacion_mes": 1.68,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.01,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1295
+      "total_productos": 1297
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.16,
-      "productos_subieron": 13,
-      "productos_bajaron": 4,
-      "total_productos": 1095
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1097
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.32,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
       "total_productos": 209
     },
@@ -32,116 +32,116 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 734
+      "total_productos": 746
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 2,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 800
+      "total_productos": 801
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.23,
-      "productos_subieron": 78,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1577
+      "total_productos": 1578
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2020930000008",
-      "nombre": "lechuga morada x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -33.39
-    },
-    {
-      "ean": "2021650000002",
-      "nombre": "zapallito largo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -16.69
-    },
-    {
-      "ean": "2020920000001",
-      "nombre": "lechuga mantecosa x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 5990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -14.31
-    },
-    {
-      "ean": "2020960000009",
-      "nombre": "lechuga repollada x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 5990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -14.31
-    },
-    {
-      "ean": "2011070000003",
-      "nombre": "ricota rosalat envasada x 500 gr aprox",
+      "ean": "7790670052418",
+      "nombre": "salchicha vienissima x 12 unid.",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 5979.0,
-      "precio_hoy": 5979.0,
+      "precio_antes": 4829.0,
+      "precio_hoy": 4829.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "2018940000002",
-      "nombre": "salame lario tipo crespon x kg.",
+      "ean": "7790670052395",
+      "nombre": "salchichas patyviena x 12 unid.",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 31839.0,
-      "precio_hoy": 31839.0,
+      "precio_antes": 5548.0,
+      "precio_hoy": 5548.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790625005285",
-      "nombre": "salame lario fuet ev.x150gr.",
+      "ean": "7790670045502",
+      "nombre": "salchichas patyviena tipo alemana x 4 unid.",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 6279.0,
-      "precio_hoy": 6279.0,
+      "precio_antes": 5405.0,
+      "precio_hoy": 5405.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "2011320000005",
-      "nombre": "salame espaa?a?ol x kg.",
+      "ean": "7790670052364",
+      "nombre": "salchichas patyviena fun x 6 unid.",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 27958.0,
-      "precio_hoy": 27958.0,
+      "precio_antes": 2139.0,
+      "precio_hoy": 2139.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "2015580000003",
-      "nombre": "salame de milan paladini x kg.",
+      "ean": "7790079010828",
+      "nombre": "salchichas paladini x 6 unidades",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 30140.0,
-      "precio_hoy": 30140.0,
+      "precio_antes": 2832.0,
+      "precio_hoy": 2832.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "2018840000003",
-      "nombre": "salame de milan lario x kg.",
+      "ean": "7790079010835",
+      "nombre": "salchichas paladini x 12 unidades de viena",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 28529.0,
-      "precio_hoy": 28529.01,
-      "diff_abs": 0.01,
+      "precio_antes": 4991.0,
+      "precio_hoy": 4991.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790360026002",
+      "nombre": "salchichas la blanca x6 190g",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1299.0,
+      "precio_hoy": 1299.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798164602880",
+      "nombre": "salchichas granja iris x 12 unid.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5021.0,
+      "precio_hoy": 5021.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798164602606",
+      "nombre": "salchichas granja iris clasicas x 6 unid.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2766.0,
+      "precio_hoy": 2766.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790079000317",
+      "nombre": "salchichas fela x 6 unidades",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1699.0,
+      "precio_hoy": 1699.0,
+      "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 94,
-  "productos_bajaron_dia": 4,
-  "productos_sin_cambio_dia": 5612
+  "productos_subieron_dia": 1,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 5727
 }

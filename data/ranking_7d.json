@@ -108,6 +108,15 @@
     "diff_pct": 68.31
   },
   {
+    "ean": "2031890000007",
+    "nombre": "boga despinada envasada al vacio x kilo",
+    "categoria": "Congelados",
+    "precio_antes": 19169.0,
+    "precio_hoy": 32118.0,
+    "diff_abs": 12949.0,
+    "diff_pct": 67.55
+  },
+  {
     "ean": "2016310000003",
     "nombre": "dulce de batata dulcor con chocolate x kg.",
     "categoria": "Perfumeria",
@@ -124,15 +133,6 @@
     "precio_hoy": 3210.0,
     "diff_abs": 1141.0,
     "diff_pct": 55.15
-  },
-  {
-    "ean": "7790314077654",
-    "nombre": "vino blanco finca magnolia x 750 ml. dulce",
-    "categoria": "Bebidas",
-    "precio_antes": 3499.21,
-    "precio_hoy": 5422.0,
-    "diff_abs": 1922.79,
-    "diff_pct": 54.95
   },
   {
     "ean": "7790314080036",
@@ -153,13 +153,13 @@
     "diff_pct": 54.95
   },
   {
-    "ean": "7790314077623",
-    "nombre": "vino magnolia negra malbec x 750 ml.",
+    "ean": "7790314077654",
+    "nombre": "vino blanco finca magnolia x 750 ml. dulce",
     "categoria": "Bebidas",
-    "precio_antes": 4098.81,
-    "precio_hoy": 6332.0,
-    "diff_abs": 2233.19,
-    "diff_pct": 54.48
+    "precio_antes": 3499.21,
+    "precio_hoy": 5422.0,
+    "diff_abs": 1922.79,
+    "diff_pct": 54.95
   },
   {
     "ean": "7790314077630",
@@ -171,12 +171,12 @@
     "diff_pct": 54.48
   },
   {
-    "ean": "2016340000004",
-    "nombre": "dulce de batata dulcor lata x kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3687.82,
-    "precio_hoy": 5664.0,
-    "diff_abs": 1976.18,
-    "diff_pct": 53.59
+    "ean": "7790314077623",
+    "nombre": "vino magnolia negra malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4098.81,
+    "precio_hoy": 6332.0,
+    "diff_abs": 2233.19,
+    "diff_pct": 54.48
   }
 ]

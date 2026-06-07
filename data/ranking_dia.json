@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2020100000005",
-    "nombre": "berenjena morada x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4490.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 33.41
+    "ean": "2031890000007",
+    "nombre": "boga despinada envasada al vacio x kilo",
+    "categoria": "Congelados",
+    "precio_antes": 19169.0,
+    "precio_hoy": 32118.0,
+    "diff_abs": 12949.0,
+    "diff_pct": 67.55
   },
   {
-    "ean": "2020160000007",
-    "nombre": "brocoli x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 9990.0,
-    "precio_hoy": 12990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 30.03
+    "ean": "7790670052364",
+    "nombre": "salchichas patyviena fun x 6 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2139.0,
+    "precio_hoy": 2139.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2022040000008",
-    "nombre": "repollo blanco x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
+    "ean": "7790079010828",
+    "nombre": "salchichas paladini x 6 unidades",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2832.0,
+    "precio_hoy": 2832.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2020120000009",
-    "nombre": "berengena negra x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
+    "ean": "7790079010835",
+    "nombre": "salchichas paladini x 12 unidades de viena",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4991.0,
+    "precio_hoy": 4991.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2022060000002",
-    "nombre": "repollo colorado x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 20.08
+    "ean": "7790360026002",
+    "nombre": "salchichas la blanca x6 190g",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1299.0,
+    "precio_hoy": 1299.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2021840000003",
-    "nombre": "pimiento verde x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
+    "ean": "7798164602880",
+    "nombre": "salchichas granja iris x 12 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5021.0,
+    "precio_hoy": 5021.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2019910000008",
-    "nombre": "ajies x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 9990.0,
-    "precio_hoy": 11990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 20.02
+    "ean": "7798164602606",
+    "nombre": "salchichas granja iris clasicas x 6 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2766.0,
+    "precio_hoy": 2766.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2037380000007",
-    "nombre": "lechuga manteca hidroponica x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 16.72
+    "ean": "7790079000317",
+    "nombre": "salchichas fela x 6 unidades",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1699.0,
+    "precio_hoy": 1699.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2022190000002",
-    "nombre": "tomate larga vida x kilo",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
+    "ean": "7790625010401",
+    "nombre": "salchichas 66 x 6 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1289.0,
+    "precio_hoy": 1289.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2020410000009",
-    "nombre": "choclo elegido x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
+    "ean": "7790670052401",
+    "nombre": "salchicha vienissima x 6 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2789.0,
+    "precio_hoy": 2789.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2024850000001",
-    "nombre": "asado de costilla ternera x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 19900.0,
-    "precio_hoy": 21900.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 10.05
+    "ean": "7798151771421",
+    "nombre": "queso untable tremblay x 180 gm sabor jamon",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2246.0,
+    "precio_hoy": 2246.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798085681582",
-    "nombre": "jugo citric x500cc.limon",
-    "categoria": "Bebidas",
-    "precio_antes": 2543.0,
-    "precio_hoy": 2784.0,
-    "diff_abs": 241.0,
-    "diff_pct": 9.48
+    "ean": "7790670052975",
+    "nombre": "salchicha vienissima picantes x 6 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3389.0,
+    "precio_hoy": 3389.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7793890261530",
-    "nombre": "braunichoc sabe bien! x 35 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 982.0,
-    "precio_hoy": 1071.0,
-    "diff_abs": 89.0,
-    "diff_pct": 9.06
+    "ean": "7790670052388",
+    "nombre": "salchicha patyviena x6u.clasic",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2878.0,
+    "precio_hoy": 2878.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2020770000008",
-    "nombre": "granada x kilo",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 11990.0,
-    "precio_hoy": 12990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 8.34
+    "ean": "7790079000560",
+    "nombre": "salchicha paladini big frankfurt x 12",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 10356.0,
+    "precio_hoy": 10356.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2021680000003",
-    "nombre": "zapallo brasilero x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1390.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 100.0,
-    "diff_pct": 7.19
+    "ean": "2015610000003",
+    "nombre": "salamin tipo crespon paladini x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 30526.0,
+    "precio_hoy": 30526.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7793890261578",
-    "nombre": "brownie chips sabe bien! x 62 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1423.0,
-    "precio_hoy": 1517.0,
-    "diff_abs": 94.0,
-    "diff_pct": 6.61
+    "ean": "2019000000000",
+    "nombre": "salamin tandilero lario x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 28648.99,
+    "precio_hoy": 28648.99,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798146138857",
-    "nombre": "mayonesa heinz light x 200 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1677.0,
-    "precio_hoy": 1778.0,
-    "diff_abs": 101.0,
-    "diff_pct": 6.02
+    "ean": "2015600000006",
+    "nombre": "salamin picado fino paladini x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 30526.0,
+    "precio_hoy": 30526.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792900809021",
-    "nombre": "jugo de limon dos anclas x 500 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 2677.0,
-    "precio_hoy": 2838.0,
-    "diff_abs": 161.0,
-    "diff_pct": 6.01
+    "ean": "2018990000007",
+    "nombre": "salamin lario x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 28648.99,
+    "precio_hoy": 28648.99,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792900916606",
-    "nombre": "bano de reposteria dos anclas semiamargo x 150 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3444.0,
-    "precio_hoy": 3651.0,
-    "diff_abs": 207.0,
-    "diff_pct": 6.01
+    "ean": "7790079022647",
+    "nombre": "salame tipo milan paladini fetas + finas x 180 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 6265.0,
+    "precio_hoy": 6265.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792900990835",
-    "nombre": "salsa de frutilla dos anclas x 320 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 4639.0,
-    "precio_hoy": 4918.0,
-    "diff_abs": 279.0,
-    "diff_pct": 6.01
+    "ean": "7790079019326",
+    "nombre": "salame tipo fuet labratto x 150 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 9297.0,
+    "precio_hoy": 9297.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]
