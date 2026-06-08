@@ -9,6 +9,24 @@
     "diff_pct": 120.64
   },
   {
+    "ean": "7790580151898",
+    "nombre": "pure de tomate salsati x 340 gm passata",
+    "categoria": "Almacen",
+    "precio_antes": 1169.0,
+    "precio_hoy": 2472.0,
+    "diff_abs": 1303.0,
+    "diff_pct": 111.46
+  },
+  {
+    "ean": "7790580151881",
+    "nombre": "pure tomate la campagnola  x 340 gm passats",
+    "categoria": "Almacen",
+    "precio_antes": 1019.0,
+    "precio_hoy": 2150.0,
+    "diff_abs": 1131.0,
+    "diff_pct": 110.99
+  },
+  {
     "ean": "7791337008403",
     "nombre": "leche chocolatada la serenisima x 1 lt.",
     "categoria": "Lacteos Y Frescos",
@@ -117,8 +135,8 @@
     "diff_pct": 66.78
   },
   {
-    "ean": "7790703205095",
-    "nombre": "vino don valentin lacrado cabernet x 750 ml",
+    "ean": "7790703205064",
+    "nombre": "vino don valentin lacr.rob.mal",
     "categoria": "Bebidas",
     "precio_antes": 3747.0,
     "precio_hoy": 6228.0,
@@ -135,8 +153,8 @@
     "diff_pct": 66.21
   },
   {
-    "ean": "7790703205064",
-    "nombre": "vino don valentin lacr.rob.mal",
+    "ean": "7790703205095",
+    "nombre": "vino don valentin lacrado cabernet x 750 ml",
     "categoria": "Bebidas",
     "precio_antes": 3747.0,
     "precio_hoy": 6228.0,
@@ -153,15 +171,6 @@
     "diff_pct": 61.26
   },
   {
-    "ean": "7790314064012",
-    "nombre": "vino tinto finca magnolia x 750 ml. cabernet sauvi",
-    "categoria": "Bebidas",
-    "precio_antes": 3499.0,
-    "precio_hoy": 5595.0,
-    "diff_abs": 2096.0,
-    "diff_pct": 59.9
-  },
-  {
     "ean": "7790314079993",
     "nombre": "vino tinto finca magnolia x 750 ml. malbec",
     "categoria": "Bebidas",
@@ -169,14 +178,5 @@
     "precio_hoy": 5595.0,
     "diff_abs": 2096.0,
     "diff_pct": 59.9
-  },
-  {
-    "ean": "7792360094418",
-    "nombre": "chocolate blanco bonafide x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2899.0,
-    "precio_hoy": 4620.0,
-    "diff_abs": 1721.0,
-    "diff_pct": 59.37
   }
 ]

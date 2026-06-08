@@ -1,16 +1,16 @@
 {
-  "fecha": "20260607",
+  "fecha": "20260608",
   "total_productos": 5728,
-  "variacion_dia": 0.01,
-  "variacion_7d": 1.16,
-  "variacion_mes": 1.68,
+  "variacion_dia": -0.09,
+  "variacion_7d": 1.06,
+  "variacion_mes": 2.28,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -0.38,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "productos_bajaron": 26,
       "total_productos": 1297
     },
     {
@@ -22,8 +22,8 @@
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.32,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "total_productos": 209
     },
@@ -51,97 +51,97 @@
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790670052418",
-      "nombre": "salchicha vienissima x 12 unid.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4829.0,
-      "precio_hoy": 4829.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895008498",
+      "nombre": "agua saborizada aquarius x 1,5 lt. limonada",
+      "categoria": "Bebidas",
+      "precio_antes": 3060.0,
+      "precio_hoy": 2299.0,
+      "diff_abs": -761.0,
+      "diff_pct": -24.87
     },
     {
-      "ean": "7790670052395",
-      "nombre": "salchichas patyviena x 12 unid.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 5548.0,
-      "precio_hoy": 5548.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895640018",
+      "nombre": "powerade manzana x 500 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 2190.0,
+      "precio_hoy": 1649.0,
+      "diff_abs": -541.0,
+      "diff_pct": -24.7
     },
     {
-      "ean": "7790670045502",
-      "nombre": "salchichas patyviena tipo alemana x 4 unid.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 5405.0,
-      "precio_hoy": 5405.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895648687",
+      "nombre": "powerade uva x 500 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 2190.0,
+      "precio_hoy": 1649.0,
+      "diff_abs": -541.0,
+      "diff_pct": -24.7
     },
     {
-      "ean": "7790670052364",
-      "nombre": "salchichas patyviena fun x 6 unid.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2139.0,
-      "precio_hoy": 2139.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895640032",
+      "nombre": "powerade naranja x 500 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 2190.0,
+      "precio_hoy": 1649.0,
+      "diff_abs": -541.0,
+      "diff_pct": -24.7
     },
     {
-      "ean": "7790079010828",
-      "nombre": "salchichas paladini x 6 unidades",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2832.0,
-      "precio_hoy": 2832.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895640025",
+      "nombre": "powerade x 500 ml mountain blast",
+      "categoria": "Bebidas",
+      "precio_antes": 2190.0,
+      "precio_hoy": 1649.0,
+      "diff_abs": -541.0,
+      "diff_pct": -24.7
     },
     {
-      "ean": "7790079010835",
-      "nombre": "salchichas paladini x 12 unidades de viena",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4991.0,
-      "precio_hoy": 4991.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895640490",
+      "nombre": "agua saborizada aquarius cepita pomelo x 1.5 lts.",
+      "categoria": "Bebidas",
+      "precio_antes": 2990.0,
+      "precio_hoy": 2299.0,
+      "diff_abs": -691.0,
+      "diff_pct": -23.11
     },
     {
-      "ean": "7790360026002",
-      "nombre": "salchichas la blanca x6 190g",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1299.0,
-      "precio_hoy": 1299.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895641237",
+      "nombre": "agua saborizada aquarius cepita naranja x 1.5 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 2990.0,
+      "precio_hoy": 2299.0,
+      "diff_abs": -691.0,
+      "diff_pct": -23.11
     },
     {
-      "ean": "7798164602880",
-      "nombre": "salchichas granja iris x 12 unid.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 5021.0,
-      "precio_hoy": 5021.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895641220",
+      "nombre": "agua saborizada aquarius cepita uva x 1.5 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 2990.0,
+      "precio_hoy": 2299.0,
+      "diff_abs": -691.0,
+      "diff_pct": -23.11
     },
     {
-      "ean": "7798164602606",
-      "nombre": "salchichas granja iris clasicas x 6 unid.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2766.0,
-      "precio_hoy": 2766.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895640483",
+      "nombre": "agua saborizada aquarius cepita manzana x 1.5 lts.",
+      "categoria": "Bebidas",
+      "precio_antes": 2990.0,
+      "precio_hoy": 2299.0,
+      "diff_abs": -691.0,
+      "diff_pct": -23.11
     },
     {
-      "ean": "7790079000317",
-      "nombre": "salchichas fela x 6 unidades",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1699.0,
-      "precio_hoy": 1699.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895641800",
+      "nombre": "jugo cepita botella x 1.5 lt. naranja",
+      "categoria": "Bebidas",
+      "precio_antes": 3351.0,
+      "precio_hoy": 2599.0,
+      "diff_abs": -752.0,
+      "diff_pct": -22.44
     }
   ],
-  "productos_subieron_dia": 1,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 5727
+  "productos_subieron_dia": 0,
+  "productos_bajaron_dia": 26,
+  "productos_sin_cambio_dia": 5702
 }
