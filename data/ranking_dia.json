@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790387014624",
-    "nombre": "yerba mate union 4 flex x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2307.0,
-    "precio_hoy": 2307.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790290101459",
+    "nombre": "fernet vittone x 750 ml. speciale",
+    "categoria": "Bebidas",
+    "precio_antes": 6327.0,
+    "precio_hoy": 12654.0,
+    "diff_abs": 6327.0,
+    "diff_pct": 100.0
   },
   {
-    "ean": "7790387014617",
-    "nombre": "yerba mate union 4 flex x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4582.0,
-    "precio_hoy": 4582.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7794170016932",
+    "nombre": "toallon palette",
+    "categoria": "Limpieza",
+    "precio_antes": 12347.15,
+    "precio_hoy": 20927.0,
+    "diff_abs": 8579.85,
+    "diff_pct": 69.49
   },
   {
-    "ean": "7790387013634",
-    "nombre": "yerba mate taragui x 250 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1306.0,
-    "precio_hoy": 1306.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2020350000008",
+    "nombre": "chaucha ballina x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 60.12
   },
   {
-    "ean": "7790387013504",
-    "nombre": "yerba mate taragui sin palo x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3273.0,
-    "precio_hoy": 3273.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790387013498",
-    "nombre": "yerba mate taragui sin palo x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 6326.0,
-    "precio_hoy": 6326.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790387013627",
-    "nombre": "yerba mate taragui 4 flex x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2307.0,
-    "precio_hoy": 2307.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790387013610",
-    "nombre": "yerba mate taragui 4 flex x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4582.0,
-    "precio_hoy": 4582.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790070508539",
-    "nombre": "yerba mate salus x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4098.0,
-    "precio_hoy": 4098.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411002122",
-    "nombre": "yerba mate rosamonte x 250 gm organica",
-    "categoria": "Perfumeria",
-    "precio_antes": 2275.0,
-    "precio_hoy": 2275.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411000890",
-    "nombre": "yerba mate rosamonte terere x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2572.0,
-    "precio_hoy": 2572.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411000548",
-    "nombre": "yerba mate rosamonte suave seleccion especial x 50",
-    "categoria": "Perfumeria",
-    "precio_antes": 3044.0,
-    "precio_hoy": 3044.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411000531",
-    "nombre": "yerba mate rosamonte suave seleccion especial x 1k",
-    "categoria": "Perfumeria",
-    "precio_antes": 5773.0,
-    "precio_hoy": 5773.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411001507",
-    "nombre": "yerba mate rosamonte plus x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2466.0,
-    "precio_hoy": 2466.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411001491",
-    "nombre": "yerba mate rosamonte plus x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4530.0,
-    "precio_hoy": 4530.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411001392",
-    "nombre": "yerba mate rosamonte fundacion favaloro x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 5367.0,
-    "precio_hoy": 5367.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411001408",
-    "nombre": "yerba mate rosamonte edicion fundacion favaloro x",
-    "categoria": "Perfumeria",
-    "precio_antes": 2829.0,
-    "precio_hoy": 2829.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798123974812",
-    "nombre": "aceite de oliva cortijo extra virgen x 1,5 lts.",
+    "ean": "7790070418401",
+    "nombre": "gall.gallo x100gr.crackeadas",
     "categoria": "Almacen",
-    "precio_antes": 49248.0,
-    "precio_hoy": 49248.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 1769.0,
+    "precio_hoy": 2731.0,
+    "diff_abs": 962.0,
+    "diff_pct": 54.38
   },
   {
-    "ean": "7798080521265",
-    "nombre": "aceite de oliva con limon la toscana x 250 ml.",
+    "ean": "7790070431448",
+    "nombre": "arroz gallo largo fino x1kg.bolsa",
     "categoria": "Almacen",
-    "precio_antes": 9903.0,
-    "precio_hoy": 9903.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 2109.0,
+    "precio_hoy": 3249.0,
+    "diff_abs": 1140.0,
+    "diff_pct": 54.05
   },
   {
-    "ean": "7790070265098",
-    "nombre": "aceite de oliva cocinero extra virgen x 500 ml.",
+    "ean": "7790070418265",
+    "nombre": "alfajor chocoarroz limon x 6 unid.",
     "categoria": "Almacen",
-    "precio_antes": 12905.0,
-    "precio_hoy": 12905.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 4819.0,
+    "precio_hoy": 7146.0,
+    "diff_abs": 2327.0,
+    "diff_pct": 48.29
   },
   {
-    "ean": "7790139004576",
-    "nombre": "aceite de oliva casalta medio x 400 ml.",
+    "ean": "7790670050674",
+    "nombre": "hamburguesas paty x 2 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 3149.0,
+    "precio_hoy": 4662.0,
+    "diff_abs": 1513.0,
+    "diff_pct": 48.05
+  },
+  {
+    "ean": "7790070418463",
+    "nombre": "bizcochos salados de arroz gallo x 100 gr.",
     "categoria": "Almacen",
-    "precio_antes": 31043.0,
-    "precio_hoy": 31043.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 1869.0,
+    "precio_hoy": 2761.0,
+    "diff_abs": 892.0,
+    "diff_pct": 47.73
+  },
+  {
+    "ean": "7790070418425",
+    "nombre": "bizcochos dulces de arroz gallo x 100 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1869.0,
+    "precio_hoy": 2761.0,
+    "diff_abs": 892.0,
+    "diff_pct": 47.73
+  },
+  {
+    "ean": "7790070036155",
+    "nombre": "milanesas mix de legumbres granja del sol x 330 gr",
+    "categoria": "Congelados",
+    "precio_antes": 3899.0,
+    "precio_hoy": 5705.0,
+    "diff_abs": 1806.0,
+    "diff_pct": 46.32
+  },
+  {
+    "ean": "7790070102607",
+    "nombre": "milan.soja gr.sol x330gr.tc",
+    "categoria": "Congelados",
+    "precio_antes": 3319.0,
+    "precio_hoy": 4846.0,
+    "diff_abs": 1527.0,
+    "diff_pct": 46.01
+  },
+  {
+    "ean": "7790070036001",
+    "nombre": "milanesas de arroz y vegetales granja del sol x 33",
+    "categoria": "Congelados",
+    "precio_antes": 3899.0,
+    "precio_hoy": 5693.0,
+    "diff_abs": 1794.0,
+    "diff_pct": 46.01
+  },
+  {
+    "ean": "7790670053033",
+    "nombre": "medallones de carne barfy x 276 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3069.0,
+    "precio_hoy": 4402.0,
+    "diff_abs": 1333.0,
+    "diff_pct": 43.43
+  },
+  {
+    "ean": "7792798015351",
+    "nombre": "cerveza corona 0 % x 473 ml lata",
+    "categoria": "Bebidas",
+    "precio_antes": 2449.0,
+    "precio_hoy": 3500.0,
+    "diff_abs": 1051.0,
+    "diff_pct": 42.92
+  },
+  {
+    "ean": "7790070507273",
+    "nombre": "yerba mate nobleza gaucha seleccion x 500 ml.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2049.0,
+    "precio_hoy": 2917.0,
+    "diff_abs": 868.0,
+    "diff_pct": 42.36
+  },
+  {
+    "ean": "7790070040022",
+    "nombre": "pizza",
+    "categoria": "Congelados",
+    "precio_antes": 12369.0,
+    "precio_hoy": 17456.0,
+    "diff_abs": 5087.0,
+    "diff_pct": 41.13
+  },
+  {
+    "ean": "7790070040015",
+    "nombre": "pizza sibarita mozzarella x 470 ml.",
+    "categoria": "Congelados",
+    "precio_antes": 8839.0,
+    "precio_hoy": 12469.0,
+    "diff_abs": 3630.0,
+    "diff_pct": 41.07
+  },
+  {
+    "ean": "7790070265463",
+    "nombre": "aderezo para ensalada  cocinero x 500 ml clasico",
+    "categoria": "Almacen",
+    "precio_antes": 1749.0,
+    "precio_hoy": 2457.0,
+    "diff_abs": 708.0,
+    "diff_pct": 40.48
+  },
+  {
+    "ean": "7790070228031",
+    "nombre": "aceto balsamico cocinero x 250 ml. modena",
+    "categoria": "Almacen",
+    "precio_antes": 2149.0,
+    "precio_hoy": 3000.0,
+    "diff_abs": 851.0,
+    "diff_pct": 39.6
+  },
+  {
+    "ean": "7790070320315",
+    "nombre": "fideos favorita x 500 gr. mostacholes",
+    "categoria": "Almacen",
+    "precio_antes": 879.0,
+    "precio_hoy": 1215.0,
+    "diff_abs": 336.0,
+    "diff_pct": 38.23
   }
 ]

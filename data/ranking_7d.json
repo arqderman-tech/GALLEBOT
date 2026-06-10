@@ -1,111 +1,12 @@
 [
   {
-    "ean": "7790580151898",
-    "nombre": "pure de tomate salsati x 340 gm passata",
-    "categoria": "Almacen",
-    "precio_antes": 1169.0,
-    "precio_hoy": 2472.0,
-    "diff_abs": 1303.0,
-    "diff_pct": 111.46
-  },
-  {
-    "ean": "7790580151881",
-    "nombre": "pure tomate la campagnola  x 340 gm passats",
-    "categoria": "Almacen",
-    "precio_antes": 1019.0,
-    "precio_hoy": 2150.0,
-    "diff_abs": 1131.0,
-    "diff_pct": 110.99
-  },
-  {
-    "ean": "7798062547559",
-    "nombre": "agua mineral sin gas villa del sur x 2,25 lt.",
+    "ean": "7790290101459",
+    "nombre": "fernet vittone x 750 ml. speciale",
     "categoria": "Bebidas",
-    "precio_antes": 1299.0,
-    "precio_hoy": 2693.0,
-    "diff_abs": 1394.0,
-    "diff_pct": 107.31
-  },
-  {
-    "ean": "8000500232057",
-    "nombre": "bombones rafaello x 9 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 4159.0,
-    "precio_hoy": 8303.0,
-    "diff_abs": 4144.0,
-    "diff_pct": 99.64
-  },
-  {
-    "ean": "78600027",
-    "nombre": "pastillas tic tac naranja x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 559.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 542.0,
-    "diff_pct": 96.96
-  },
-  {
-    "ean": "7797394001265",
-    "nombre": "pastillas tic tac mix de frutas x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 559.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 542.0,
-    "diff_pct": 96.96
-  },
-  {
-    "ean": "78600010",
-    "nombre": "pastillas tic tac menta x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 559.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 542.0,
-    "diff_pct": 96.96
-  },
-  {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2750.0,
-    "diff_abs": 1231.0,
-    "diff_pct": 81.04
-  },
-  {
-    "ean": "2016350000001",
-    "nombre": "dulce de membrillo en caja dulcor x kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3332.51,
-    "precio_hoy": 5850.0,
-    "diff_abs": 2517.49,
-    "diff_pct": 75.54
-  },
-  {
-    "ean": "2016360000008",
-    "nombre": "dulce de membrillo dulcor lata x kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4513.36,
-    "precio_hoy": 7794.0,
-    "diff_abs": 3280.64,
-    "diff_pct": 72.69
-  },
-  {
-    "ean": "7790314079993",
-    "nombre": "vino tinto finca magnolia x 750 ml. malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 3324.26,
-    "precio_hoy": 5595.0,
-    "diff_abs": 2270.74,
-    "diff_pct": 68.31
-  },
-  {
-    "ean": "7790314064012",
-    "nombre": "vino tinto finca magnolia x 750 ml. cabernet sauvi",
-    "categoria": "Bebidas",
-    "precio_antes": 3324.26,
-    "precio_hoy": 5595.0,
-    "diff_abs": 2270.74,
-    "diff_pct": 68.31
+    "precio_antes": 6327.0,
+    "precio_hoy": 12654.0,
+    "diff_abs": 6327.0,
+    "diff_pct": 100.0
   },
   {
     "ean": "2031890000007",
@@ -117,66 +18,165 @@
     "diff_pct": 67.55
   },
   {
-    "ean": "2016310000003",
-    "nombre": "dulce de batata dulcor con chocolate x kg.",
+    "ean": "2020350000008",
+    "nombre": "chaucha ballina x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 60.12
+  },
+  {
+    "ean": "7790070431448",
+    "nombre": "arroz gallo largo fino x1kg.bolsa",
+    "categoria": "Almacen",
+    "precio_antes": 2109.0,
+    "precio_hoy": 3249.0,
+    "diff_abs": 1140.0,
+    "diff_pct": 54.05
+  },
+  {
+    "ean": "7797906000700",
+    "nombre": "papas mc cain tradicional x 400 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3349.0,
+    "precio_hoy": 5070.0,
+    "diff_abs": 1721.0,
+    "diff_pct": 51.39
+  },
+  {
+    "ean": "7797906054864",
+    "nombre": "papas mc cain horneables tradicional x 700 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 6759.0,
+    "precio_hoy": 10231.0,
+    "diff_abs": 3472.0,
+    "diff_pct": 51.37
+  },
+  {
+    "ean": "7790070418265",
+    "nombre": "alfajor chocoarroz limon x 6 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 4819.0,
+    "precio_hoy": 7146.0,
+    "diff_abs": 2327.0,
+    "diff_pct": 48.29
+  },
+  {
+    "ean": "7790070418463",
+    "nombre": "bizcochos salados de arroz gallo x 100 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1869.0,
+    "precio_hoy": 2761.0,
+    "diff_abs": 892.0,
+    "diff_pct": 47.73
+  },
+  {
+    "ean": "7790070418425",
+    "nombre": "bizcochos dulces de arroz gallo x 100 gr.",
     "categoria": "Perfumeria",
-    "precio_antes": 2726.39,
-    "precio_hoy": 4244.0,
-    "diff_abs": 1517.61,
-    "diff_pct": 55.66
+    "precio_antes": 1869.0,
+    "precio_hoy": 2761.0,
+    "diff_abs": 892.0,
+    "diff_pct": 47.73
   },
   {
-    "ean": "7792798013470",
-    "nombre": "cerveza stella artois 0 a?a? x 330 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 2069.0,
-    "precio_hoy": 3210.0,
-    "diff_abs": 1141.0,
-    "diff_pct": 55.15
+    "ean": "7790070036155",
+    "nombre": "milanesas mix de legumbres granja del sol x 330 gr",
+    "categoria": "Congelados",
+    "precio_antes": 3899.0,
+    "precio_hoy": 5705.0,
+    "diff_abs": 1806.0,
+    "diff_pct": 46.32
   },
   {
-    "ean": "7790314064036",
-    "nombre": "vino fca.magnolia x750ml.b.bca",
-    "categoria": "Bebidas",
-    "precio_antes": 3499.21,
-    "precio_hoy": 5422.0,
-    "diff_abs": 1922.79,
-    "diff_pct": 54.95
+    "ean": "7790070036001",
+    "nombre": "milanesas de arroz y vegetales granja del sol x 33",
+    "categoria": "Congelados",
+    "precio_antes": 3899.0,
+    "precio_hoy": 5693.0,
+    "diff_abs": 1794.0,
+    "diff_pct": 46.01
   },
   {
-    "ean": "7790314080036",
-    "nombre": "vino finca magnolia rosado de bonarda x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3499.21,
-    "precio_hoy": 5422.0,
-    "diff_abs": 1922.79,
-    "diff_pct": 54.95
+    "ean": "7790070102607",
+    "nombre": "milan.soja gr.sol x330gr.tc",
+    "categoria": "Congelados",
+    "precio_antes": 3319.0,
+    "precio_hoy": 4846.0,
+    "diff_abs": 1527.0,
+    "diff_pct": 46.01
   },
   {
-    "ean": "7790314077654",
-    "nombre": "vino blanco finca magnolia x 750 ml. dulce",
-    "categoria": "Bebidas",
-    "precio_antes": 3499.21,
-    "precio_hoy": 5422.0,
-    "diff_abs": 1922.79,
-    "diff_pct": 54.95
+    "ean": "7790070507273",
+    "nombre": "yerba mate nobleza gaucha seleccion x 500 ml.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2049.0,
+    "precio_hoy": 2917.0,
+    "diff_abs": 868.0,
+    "diff_pct": 42.36
   },
   {
-    "ean": "7790314077623",
-    "nombre": "vino magnolia negra malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4098.81,
-    "precio_hoy": 6332.0,
-    "diff_abs": 2233.19,
-    "diff_pct": 54.48
+    "ean": "7790070040022",
+    "nombre": "pizza",
+    "categoria": "Congelados",
+    "precio_antes": 12369.0,
+    "precio_hoy": 17456.0,
+    "diff_abs": 5087.0,
+    "diff_pct": 41.13
   },
   {
-    "ean": "7790314077630",
-    "nombre": "vino tinto finca magnolia cabernet sauvignon x 750",
+    "ean": "7790070040015",
+    "nombre": "pizza sibarita mozzarella x 470 ml.",
+    "categoria": "Congelados",
+    "precio_antes": 8839.0,
+    "precio_hoy": 12469.0,
+    "diff_abs": 3630.0,
+    "diff_pct": 41.07
+  },
+  {
+    "ean": "7790070265463",
+    "nombre": "aderezo para ensalada  cocinero x 500 ml clasico",
+    "categoria": "Almacen",
+    "precio_antes": 1749.0,
+    "precio_hoy": 2457.0,
+    "diff_abs": 708.0,
+    "diff_pct": 40.48
+  },
+  {
+    "ean": "7790070228031",
+    "nombre": "aceto balsamico cocinero x 250 ml. modena",
+    "categoria": "Almacen",
+    "precio_antes": 2149.0,
+    "precio_hoy": 3000.0,
+    "diff_abs": 851.0,
+    "diff_pct": 39.6
+  },
+  {
+    "ean": "7790070231949",
+    "nombre": "aceto balsamico lira x 250 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 2419.0,
+    "precio_hoy": 3306.0,
+    "diff_abs": 887.0,
+    "diff_pct": 36.67
+  },
+  {
+    "ean": "7793147573591",
+    "nombre": "cerv.amstel x1lt.ret.lager",
     "categoria": "Bebidas",
-    "precio_antes": 4098.81,
-    "precio_hoy": 6332.0,
-    "diff_abs": 2233.19,
-    "diff_pct": 54.48
+    "precio_antes": 3519.0,
+    "precio_hoy": 4795.0,
+    "diff_abs": 1276.0,
+    "diff_pct": 36.26
+  },
+  {
+    "ean": "2020100000005",
+    "nombre": "berenjena morada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4490.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 33.41
   }
 ]

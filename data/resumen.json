@@ -1,13 +1,147 @@
 {
-  "fecha": "20260609",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260610",
+  "total_productos": 5704,
+  "variacion_dia": 0.17,
+  "variacion_7d": -0.3,
+  "variacion_mes": 2.27,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 0.1,
+      "productos_subieron": 181,
+      "productos_bajaron": 65,
+      "total_productos": 1292
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": 0.67,
+      "productos_subieron": 152,
+      "productos_bajaron": 30,
+      "total_productos": 1086
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 4.3,
+      "productos_subieron": 74,
+      "productos_bajaron": 9,
+      "total_productos": 201
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.36,
+      "productos_subieron": 15,
+      "productos_bajaron": 0,
+      "total_productos": 745
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": -0.51,
+      "productos_subieron": 37,
+      "productos_bajaron": 55,
+      "total_productos": 789
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": -0.41,
+      "productos_subieron": 63,
+      "productos_bajaron": 88,
+      "total_productos": 1547
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "7790580151898",
+      "nombre": "pure de tomate salsati x 340 gm passata",
+      "categoria": "Almacen",
+      "precio_antes": 2472.0,
+      "precio_hoy": 1169.0,
+      "diff_abs": -1303.0,
+      "diff_pct": -52.71
+    },
+    {
+      "ean": "7790580151881",
+      "nombre": "pure tomate la campagnola  x 340 gm passats",
+      "categoria": "Almacen",
+      "precio_antes": 2150.0,
+      "precio_hoy": 1019.0,
+      "diff_abs": -1131.0,
+      "diff_pct": -52.6
+    },
+    {
+      "ean": "7790580144180",
+      "nombre": "salsa la campagnola x 350 gr oliva fco vidrio",
+      "categoria": "Almacen",
+      "precio_antes": 3064.0,
+      "precio_hoy": 1649.0,
+      "diff_abs": -1415.0,
+      "diff_pct": -46.18
+    },
+    {
+      "ean": "7790580144197",
+      "nombre": "salsa la campagnol x 350 gm napolitana premium2000",
+      "categoria": "Almacen",
+      "precio_antes": 3064.0,
+      "precio_hoy": 1649.0,
+      "diff_abs": -1415.0,
+      "diff_pct": -46.18
+    },
+    {
+      "ean": "7790040659605",
+      "nombre": "alf. cofler block x60gr",
+      "categoria": "Almacen",
+      "precio_antes": 2084.0,
+      "precio_hoy": 1339.0,
+      "diff_abs": -745.0,
+      "diff_pct": -35.75
+    },
+    {
+      "ean": "7799155000180",
+      "nombre": "agua mineral villavicencio sin gas x 1.5 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 2969.0,
+      "precio_hoy": 1939.0,
+      "diff_abs": -1030.0,
+      "diff_pct": -34.69
+    },
+    {
+      "ean": "7797906054956",
+      "nombre": "papas congeladas mc cain smiles x 700 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 13481.0,
+      "precio_hoy": 8819.0,
+      "diff_abs": -4662.0,
+      "diff_pct": -34.58
+    },
+    {
+      "ean": "7797906054819",
+      "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
+      "categoria": "Congelados",
+      "precio_antes": 15291.0,
+      "precio_hoy": 10099.0,
+      "diff_abs": -5192.0,
+      "diff_pct": -33.95
+    },
+    {
+      "ean": "7790040133587",
+      "nombre": "alf.minitorta x69gr.clasico",
+      "categoria": "Almacen",
+      "precio_antes": 2084.0,
+      "precio_hoy": 1389.0,
+      "diff_abs": -695.0,
+      "diff_pct": -33.35
+    },
+    {
+      "ean": "7790040133600",
+      "nombre": "alfajor minitorta aguila coco",
+      "categoria": "Almacen",
+      "precio_antes": 2084.0,
+      "precio_hoy": 1389.0,
+      "diff_abs": -695.0,
+      "diff_pct": -33.35
+    }
+  ],
+  "productos_subieron_dia": 522,
+  "productos_bajaron_dia": 247,
+  "productos_sin_cambio_dia": 4891
 }
