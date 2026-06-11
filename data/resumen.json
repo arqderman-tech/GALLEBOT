@@ -1,147 +1,147 @@
 {
-  "fecha": "20260610",
-  "total_productos": 5704,
-  "variacion_dia": 0.17,
-  "variacion_7d": -0.3,
-  "variacion_mes": 2.27,
+  "fecha": "20260611",
+  "total_productos": 5772,
+  "variacion_dia": -0.76,
+  "variacion_7d": -0.58,
+  "variacion_mes": 0.8,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.1,
-      "productos_subieron": 181,
-      "productos_bajaron": 65,
-      "total_productos": 1292
+      "variacion_pct_promedio": -1.08,
+      "productos_subieron": 3,
+      "productos_bajaron": 43,
+      "total_productos": 1301
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.67,
-      "productos_subieron": 152,
-      "productos_bajaron": 30,
-      "total_productos": 1086
+      "variacion_pct_promedio": -0.44,
+      "productos_subieron": 2,
+      "productos_bajaron": 63,
+      "total_productos": 1093
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 4.3,
-      "productos_subieron": 74,
-      "productos_bajaron": 9,
-      "total_productos": 201
+      "variacion_pct_promedio": -1.53,
+      "productos_subieron": 2,
+      "productos_bajaron": 36,
+      "total_productos": 203
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.36,
-      "productos_subieron": 15,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 745
+      "total_productos": 761
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.51,
-      "productos_subieron": 37,
-      "productos_bajaron": 55,
+      "variacion_pct_promedio": -0.58,
+      "productos_subieron": 20,
+      "productos_bajaron": 42,
       "total_productos": 789
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.41,
-      "productos_subieron": 63,
-      "productos_bajaron": 88,
-      "total_productos": 1547
+      "variacion_pct_promedio": -1.07,
+      "productos_subieron": 14,
+      "productos_bajaron": 112,
+      "total_productos": 1554
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790580151898",
-      "nombre": "pure de tomate salsati x 340 gm passata",
-      "categoria": "Almacen",
-      "precio_antes": 2472.0,
-      "precio_hoy": 1169.0,
-      "diff_abs": -1303.0,
-      "diff_pct": -52.71
-    },
-    {
-      "ean": "7790580151881",
-      "nombre": "pure tomate la campagnola  x 340 gm passats",
-      "categoria": "Almacen",
-      "precio_antes": 2150.0,
-      "precio_hoy": 1019.0,
-      "diff_abs": -1131.0,
-      "diff_pct": -52.6
-    },
-    {
-      "ean": "7790580144180",
-      "nombre": "salsa la campagnola x 350 gr oliva fco vidrio",
-      "categoria": "Almacen",
-      "precio_antes": 3064.0,
-      "precio_hoy": 1649.0,
-      "diff_abs": -1415.0,
-      "diff_pct": -46.18
-    },
-    {
-      "ean": "7790580144197",
-      "nombre": "salsa la campagnol x 350 gm napolitana premium2000",
-      "categoria": "Almacen",
-      "precio_antes": 3064.0,
-      "precio_hoy": 1649.0,
-      "diff_abs": -1415.0,
-      "diff_pct": -46.18
-    },
-    {
-      "ean": "7790040659605",
-      "nombre": "alf. cofler block x60gr",
-      "categoria": "Almacen",
-      "precio_antes": 2084.0,
-      "precio_hoy": 1339.0,
-      "diff_abs": -745.0,
-      "diff_pct": -35.75
-    },
-    {
-      "ean": "7799155000180",
-      "nombre": "agua mineral villavicencio sin gas x 1.5 lt.",
+      "ean": "7622201704148",
+      "nombre": "jugo en polvo clight mandarina x 8 gr.",
       "categoria": "Bebidas",
-      "precio_antes": 2969.0,
-      "precio_hoy": 1939.0,
-      "diff_abs": -1030.0,
-      "diff_pct": -34.69
+      "precio_antes": 703.0,
+      "precio_hoy": 349.0,
+      "diff_abs": -354.0,
+      "diff_pct": -50.36
     },
     {
-      "ean": "7797906054956",
-      "nombre": "papas congeladas mc cain smiles x 700 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 13481.0,
-      "precio_hoy": 8819.0,
-      "diff_abs": -4662.0,
-      "diff_pct": -34.58
+      "ean": "7622202359927",
+      "nombre": "jugo cligh pomelada hibiscus x 8 gm",
+      "categoria": "Bebidas",
+      "precio_antes": 703.0,
+      "precio_hoy": 349.0,
+      "diff_abs": -354.0,
+      "diff_pct": -50.36
     },
     {
-      "ean": "7797906054819",
-      "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
-      "categoria": "Congelados",
-      "precio_antes": 15291.0,
-      "precio_hoy": 10099.0,
-      "diff_abs": -5192.0,
-      "diff_pct": -33.95
-    },
-    {
-      "ean": "7790040133587",
-      "nombre": "alf.minitorta x69gr.clasico",
+      "ean": "7622300742584",
+      "nombre": "alfajor terrabusi x6 chocolate",
       "categoria": "Almacen",
-      "precio_antes": 2084.0,
-      "precio_hoy": 1389.0,
-      "diff_abs": -695.0,
-      "diff_pct": -33.35
+      "precio_antes": 8613.0,
+      "precio_hoy": 4599.0,
+      "diff_abs": -4014.0,
+      "diff_pct": -46.6
     },
     {
-      "ean": "7790040133600",
-      "nombre": "alfajor minitorta aguila coco",
+      "ean": "7622300424084",
+      "nombre": "shot tableta x170gr.",
       "categoria": "Almacen",
-      "precio_antes": 2084.0,
-      "precio_hoy": 1389.0,
-      "diff_abs": -695.0,
-      "diff_pct": -33.35
+      "precio_antes": 10682.0,
+      "precio_hoy": 6009.0,
+      "diff_abs": -4673.0,
+      "diff_pct": -43.75
+    },
+    {
+      "ean": "7898024394181",
+      "nombre": "pasta de avellanas y chocolate nutella x 350 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 10452.0,
+      "precio_hoy": 6159.0,
+      "diff_abs": -4293.0,
+      "diff_pct": -41.07
+    },
+    {
+      "ean": "7898024395232",
+      "nombre": "pasta de avellanas y chocolate nutella x 140 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 4737.0,
+      "precio_hoy": 2799.0,
+      "diff_abs": -1938.0,
+      "diff_pct": -40.91
+    },
+    {
+      "ean": "7622300742621",
+      "nombre": "alfajor terrabusi x6 glaseado",
+      "categoria": "Almacen",
+      "precio_antes": 7755.0,
+      "precio_hoy": 4599.0,
+      "diff_abs": -3156.0,
+      "diff_pct": -40.7
+    },
+    {
+      "ean": "7622201735883",
+      "nombre": "gall.pepitos x357gr.clasica",
+      "categoria": "Perfumeria",
+      "precio_antes": 6177.0,
+      "precio_hoy": 3889.0,
+      "diff_abs": -2288.0,
+      "diff_pct": -37.04
+    },
+    {
+      "ean": "7622201759636",
+      "nombre": "galletitas oreo original x 354 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 6551.0,
+      "precio_hoy": 4129.0,
+      "diff_abs": -2422.0,
+      "diff_pct": -36.97
+    },
+    {
+      "ean": "7622202839962",
+      "nombre": "gall.variedad x390gr.mix",
+      "categoria": "Perfumeria",
+      "precio_antes": 3979.0,
+      "precio_hoy": 2509.0,
+      "diff_abs": -1470.0,
+      "diff_pct": -36.94
     }
   ],
-  "productos_subieron_dia": 522,
-  "productos_bajaron_dia": 247,
-  "productos_sin_cambio_dia": 4891
+  "productos_subieron_dia": 41,
+  "productos_bajaron_dia": 296,
+  "productos_sin_cambio_dia": 5364
 }
