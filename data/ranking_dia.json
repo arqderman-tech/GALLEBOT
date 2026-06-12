@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7791337007260",
-    "nombre": "leche chocolatada cindor x 200 ml.",
+    "ean": "2020930000008",
+    "nombre": "lechuga morada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.13
+  },
+  {
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 990.0,
+    "precio_hoy": 1190.0,
+    "diff_abs": 200.0,
+    "diff_pct": 20.2
+  },
+  {
+    "ean": "5000281015248",
+    "nombre": "dry gin tanqueray x 700 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 32849.0,
+    "precio_hoy": 35039.0,
+    "diff_abs": 2190.0,
+    "diff_pct": 6.67
+  },
+  {
+    "ean": "5000291026548",
+    "nombre": "gin tanqueray royale x 700 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 37189.0,
+    "precio_hoy": 39667.0,
+    "diff_abs": 2478.0,
+    "diff_pct": 6.66
+  },
+  {
+    "ean": "5000267024011",
+    "nombre": "whisky jonnie walker black label x 750 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 64639.0,
+    "precio_hoy": 68946.0,
+    "diff_abs": 4307.0,
+    "diff_pct": 6.66
+  },
+  {
+    "ean": "5000267023601",
+    "nombre": "whisky johnny walker black label x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 79479.0,
+    "precio_hoy": 84774.0,
+    "diff_abs": 5295.0,
+    "diff_pct": 6.66
+  },
+  {
+    "ean": "5000291023462",
+    "nombre": "gin tanqueray sevilla x 700 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 37189.0,
+    "precio_hoy": 39667.0,
+    "diff_abs": 2478.0,
+    "diff_pct": 6.66
+  },
+  {
+    "ean": "5000267116419",
+    "nombre": "whisky johnnie walker x 750 ml double black",
+    "categoria": "Bebidas",
+    "precio_antes": 73609.0,
+    "precio_hoy": 78511.0,
+    "diff_abs": 4902.0,
+    "diff_pct": 6.66
+  },
+  {
+    "ean": "5000267013602",
+    "nombre": "whisky johnnie walker red label x 1 litro",
+    "categoria": "Bebidas",
+    "precio_antes": 41349.0,
+    "precio_hoy": 44101.0,
+    "diff_abs": 2752.0,
+    "diff_pct": 6.66
+  },
+  {
+    "ean": "5000267024004",
+    "nombre": "whisky johnnie walker black label 12 anos x 750 m.",
+    "categoria": "Bebidas",
+    "precio_antes": 64639.0,
+    "precio_hoy": 68946.0,
+    "diff_abs": 4307.0,
+    "diff_pct": 6.66
+  },
+  {
+    "ean": "5000267014005",
+    "nombre": "whisky johnnie walker red label x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 34369.0,
+    "precio_hoy": 36655.0,
+    "diff_abs": 2286.0,
+    "diff_pct": 6.65
+  },
+  {
+    "ean": "7793913013672",
+    "nombre": "ricotta magra tregar x 290 gr.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1509.0,
-    "precio_hoy": 2701.0,
-    "diff_abs": 1192.0,
-    "diff_pct": 78.99
+    "precio_antes": 4222.0,
+    "precio_hoy": 4222.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7797906054956",
-    "nombre": "papas congeladas mc cain smiles x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 8819.0,
-    "precio_hoy": 13481.0,
-    "diff_abs": 4662.0,
-    "diff_pct": 52.86
+    "ean": "7790360970053",
+    "nombre": "salchichas swift kids x 6 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2156.0,
+    "precio_hoy": 2156.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7500810034354",
-    "nombre": "snack takis original x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2929.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1524.0,
-    "diff_pct": 52.03
+    "ean": "7790670052395",
+    "nombre": "salchichas patyviena x 12 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4339.0,
+    "precio_hoy": 4339.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7500810034477",
-    "nombre": "snack takis original x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1938.62,
-    "precio_hoy": 2945.0,
-    "diff_abs": 1006.38,
-    "diff_pct": 51.91
+    "ean": "7790670045502",
+    "nombre": "salchichas patyviena tipo alemana x 4 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5405.0,
+    "precio_hoy": 5405.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7797906054819",
-    "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 10099.0,
-    "precio_hoy": 15291.0,
-    "diff_abs": 5192.0,
-    "diff_pct": 51.41
+    "ean": "7790670052364",
+    "nombre": "salchichas patyviena fun x 6 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2209.0,
+    "precio_hoy": 2209.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7500810034347",
-    "nombre": "snack takis xplosion x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2959.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1494.0,
-    "diff_pct": 50.49
+    "ean": "7790079010828",
+    "nombre": "salchichas paladini x 6 unidades",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2832.0,
+    "precio_hoy": 2832.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7500810034361",
-    "nombre": "snack takis fuego x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1959.82,
-    "precio_hoy": 2945.0,
-    "diff_abs": 985.18,
-    "diff_pct": 50.27
+    "ean": "7790079010835",
+    "nombre": "salchichas paladini x 12 unidades de viena",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4991.0,
+    "precio_hoy": 4991.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7500810034460",
-    "nombre": "snack takis xplosion x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1981.02,
-    "precio_hoy": 2945.0,
-    "diff_abs": 963.98,
-    "diff_pct": 48.66
+    "ean": "7790360026002",
+    "nombre": "salchichas la blanca x6 190g",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1469.0,
+    "precio_hoy": 1469.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7500810034330",
-    "nombre": "snack takis fuego x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3119.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1334.0,
-    "diff_pct": 42.77
-  },
-  {
-    "ean": "7790387070019",
-    "nombre": "arroz largo fino maria x 1 kg.",
-    "categoria": "Almacen",
-    "precio_antes": 1339.0,
-    "precio_hoy": 1844.0,
-    "diff_abs": 505.0,
-    "diff_pct": 37.71
-  },
-  {
-    "ean": "7891962072326",
-    "nombre": "galletitas rellenas x 108 gm sabor frutilla bauducco",
-    "categoria": "Perfumeria",
-    "precio_antes": 949.0,
-    "precio_hoy": 1300.0,
-    "diff_abs": 351.0,
-    "diff_pct": 36.99
-  },
-  {
-    "ean": "7891962072319",
-    "nombre": "galletitas rellenas x 108 gm chocolate bauducco",
-    "categoria": "Perfumeria",
-    "precio_antes": 949.0,
-    "precio_hoy": 1300.0,
-    "diff_abs": 351.0,
-    "diff_pct": 36.99
-  },
-  {
-    "ean": "7896004009186",
-    "nombre": "papas fritas pringles original x 37 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1799.0,
-    "precio_hoy": 2460.0,
-    "diff_abs": 661.0,
-    "diff_pct": 36.74
-  },
-  {
-    "ean": "7896004009193",
-    "nombre": "papas pringles crema y cebolla x 39 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1799.0,
-    "precio_hoy": 2460.0,
-    "diff_abs": 661.0,
-    "diff_pct": 36.74
-  },
-  {
-    "ean": "7896004009179",
-    "nombre": "papas fritas pringles queso x 109 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3709.0,
-    "precio_hoy": 5068.0,
-    "diff_abs": 1359.0,
-    "diff_pct": 36.64
-  },
-  {
-    "ean": "7896004009155",
-    "nombre": "papas fritas pringles original x 104 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3709.0,
-    "precio_hoy": 5068.0,
-    "diff_abs": 1359.0,
-    "diff_pct": 36.64
-  },
-  {
-    "ean": "7896004009162",
-    "nombre": "papas fritas pringles crema y cebolla x 109 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3709.0,
-    "precio_hoy": 5068.0,
-    "diff_abs": 1359.0,
-    "diff_pct": 36.64
-  },
-  {
-    "ean": "7790387070026",
-    "nombre": "arroz largo fino maria x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 709.0,
-    "precio_hoy": 967.0,
-    "diff_abs": 258.0,
-    "diff_pct": 36.39
-  },
-  {
-    "ean": "7891962060477",
-    "nombre": "tostadas bauducco x 142 gr. multigranos",
-    "categoria": "Perfumeria",
-    "precio_antes": 1549.0,
-    "precio_hoy": 1838.0,
-    "diff_abs": 289.0,
-    "diff_pct": 18.66
-  },
-  {
-    "ean": "7891962060453",
-    "nombre": "tostadas bauducco x 142 gr. clasico",
-    "categoria": "Perfumeria",
-    "precio_antes": 1549.0,
-    "precio_hoy": 1838.0,
-    "diff_abs": 289.0,
-    "diff_pct": 18.66
+    "ean": "7798164602880",
+    "nombre": "salchichas granja iris x 12 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5021.0,
+    "precio_hoy": 5021.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]

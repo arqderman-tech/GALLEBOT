@@ -108,15 +108,6 @@
     "diff_pct": 67.55
   },
   {
-    "ean": "7790703205101",
-    "nombre": "vino blanco don valentin lacrado torrontes x 750 .",
-    "categoria": "Bebidas",
-    "precio_antes": 3747.0,
-    "precio_hoy": 6228.0,
-    "diff_abs": 2481.0,
-    "diff_pct": 66.21
-  },
-  {
     "ean": "7790703205095",
     "nombre": "vino don valentin lacrado cabernet x 750 ml",
     "categoria": "Bebidas",
@@ -128,6 +119,15 @@
   {
     "ean": "7790703205064",
     "nombre": "vino don valentin lacr.rob.mal",
+    "categoria": "Bebidas",
+    "precio_antes": 3747.0,
+    "precio_hoy": 6228.0,
+    "diff_abs": 2481.0,
+    "diff_pct": 66.21
+  },
+  {
+    "ean": "7790703205101",
+    "nombre": "vino blanco don valentin lacrado torrontes x 750 .",
     "categoria": "Bebidas",
     "precio_antes": 3747.0,
     "precio_hoy": 6228.0,

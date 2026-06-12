@@ -90,6 +90,15 @@
     "diff_pct": 52.03
   },
   {
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 790.0,
+    "precio_hoy": 1190.0,
+    "diff_abs": 400.0,
+    "diff_pct": 50.63
+  },
+  {
     "ean": "7500810034347",
     "nombre": "snack takis xplosion x 140 gr.",
     "categoria": "Almacen",
@@ -135,15 +144,6 @@
     "diff_pct": 46.32
   },
   {
-    "ean": "7790070102607",
-    "nombre": "milan.soja gr.sol x330gr.tc",
-    "categoria": "Congelados",
-    "precio_antes": 3319.0,
-    "precio_hoy": 4846.0,
-    "diff_abs": 1527.0,
-    "diff_pct": 46.01
-  },
-  {
     "ean": "7790070036001",
     "nombre": "milanesas de arroz y vegetales granja del sol x 33",
     "categoria": "Congelados",
@@ -153,6 +153,24 @@
     "diff_pct": 46.01
   },
   {
+    "ean": "7790070102607",
+    "nombre": "milan.soja gr.sol x330gr.tc",
+    "categoria": "Congelados",
+    "precio_antes": 3319.0,
+    "precio_hoy": 4846.0,
+    "diff_abs": 1527.0,
+    "diff_pct": 46.01
+  },
+  {
+    "ean": "7792798015351",
+    "nombre": "cerveza corona 0 % x 473 ml lata",
+    "categoria": "Bebidas",
+    "precio_antes": 2449.0,
+    "precio_hoy": 3500.0,
+    "diff_abs": 1051.0,
+    "diff_pct": 42.92
+  },
+  {
     "ean": "7500810034330",
     "nombre": "snack takis fuego x 140 gr.",
     "categoria": "Almacen",
@@ -160,23 +178,5 @@
     "precio_hoy": 4453.0,
     "diff_abs": 1334.0,
     "diff_pct": 42.77
-  },
-  {
-    "ean": "7790070507273",
-    "nombre": "yerba mate nobleza gaucha seleccion x 500 ml.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2049.0,
-    "precio_hoy": 2917.0,
-    "diff_abs": 868.0,
-    "diff_pct": 42.36
-  },
-  {
-    "ean": "7790070040022",
-    "nombre": "pizza",
-    "categoria": "Congelados",
-    "precio_antes": 12369.0,
-    "precio_hoy": 17456.0,
-    "diff_abs": 5087.0,
-    "diff_pct": 41.13
   }
 ]
