@@ -1,147 +1,147 @@
 {
-  "fecha": "20260612",
-  "total_productos": 5789,
-  "variacion_dia": -0.08,
-  "variacion_7d": -0.7,
-  "variacion_mes": 0.7,
+  "fecha": "20260613",
+  "total_productos": 5839,
+  "variacion_dia": 0.12,
+  "variacion_7d": -0.65,
+  "variacion_mes": 0.67,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.17,
-      "productos_subieron": 9,
-      "productos_bajaron": 11,
-      "total_productos": 1306
+      "variacion_pct_promedio": 0.32,
+      "productos_subieron": 11,
+      "productos_bajaron": 1,
+      "total_productos": 1308
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.04,
-      "productos_subieron": 2,
-      "productos_bajaron": 7,
-      "total_productos": 1101
+      "variacion_pct_promedio": 0.1,
+      "productos_subieron": 25,
+      "productos_bajaron": 2,
+      "total_productos": 1115
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -0.11,
+      "variacion_pct_promedio": -0.08,
       "productos_subieron": 0,
       "productos_bajaron": 1,
       "total_productos": 206
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.26,
+      "productos_subieron": 7,
       "productos_bajaron": 0,
-      "total_productos": 764
+      "total_productos": 763
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": -0.06,
+      "productos_subieron": 2,
+      "productos_bajaron": 5,
       "total_productos": 803
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.1,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 8,
+      "productos_bajaron": 0,
       "total_productos": 1592
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790310985458",
-      "nombre": "papas lays x85gr.clasicas",
-      "categoria": "Almacen",
-      "precio_antes": 3649.0,
-      "precio_hoy": 2399.0,
-      "diff_abs": -1250.0,
-      "diff_pct": -34.26
+      "ean": "2021790000009",
+      "nombre": "pimiento amarillo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 8990.0,
+      "precio_hoy": 6990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -22.25
     },
     {
-      "ean": "7790310985557",
-      "nombre": "papas fritas lays queso crema y cebolla x 77 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 3649.0,
-      "precio_hoy": 2399.0,
-      "diff_abs": -1250.0,
-      "diff_pct": -34.26
-    },
-    {
-      "ean": "7790310985434",
-      "nombre": "papas lays x77gr.jamon serrano",
-      "categoria": "Almacen",
-      "precio_antes": 3649.0,
-      "precio_hoy": 2399.0,
-      "diff_abs": -1250.0,
-      "diff_pct": -34.26
-    },
-    {
-      "ean": "7793147573744",
-      "nombre": "cerv.santa fe x1lt.ret.",
+      "ean": "7793147572082",
+      "nombre": "cerveza santa fe pilsen x 1 litro",
       "categoria": "Bebidas",
       "precio_antes": 4580.0,
-      "precio_hoy": 3359.0,
-      "diff_abs": -1221.0,
-      "diff_pct": -26.66
+      "precio_hoy": 3669.0,
+      "diff_abs": -911.0,
+      "diff_pct": -19.89
     },
     {
-      "ean": "7793147000899",
-      "nombre": "cerveza heineken x 1 lt. retornable",
-      "categoria": "Bebidas",
-      "precio_antes": 6865.0,
-      "precio_hoy": 5039.0,
-      "diff_abs": -1826.0,
-      "diff_pct": -26.6
+      "ean": "7613036961448",
+      "nombre": "cafe en capsulas starbucks colombia x 12 unid.",
+      "categoria": "Perfumeria",
+      "precio_antes": 14487.0,
+      "precio_hoy": 11799.0,
+      "diff_abs": -2688.0,
+      "diff_pct": -18.55
     },
     {
-      "ean": "2022030000001",
-      "nombre": "repollitos de brusellas en bandeja",
+      "ean": "7613037048063",
+      "nombre": "starbucks esprs.rst.srp x10u",
+      "categoria": "Perfumeria",
+      "precio_antes": 14487.0,
+      "precio_hoy": 11799.0,
+      "diff_abs": -2688.0,
+      "diff_pct": -18.55
+    },
+    {
+      "ean": "7613037046526",
+      "nombre": "cafe en capsulas starbucks house blend x 10 unid",
+      "categoria": "Perfumeria",
+      "precio_antes": 14487.0,
+      "precio_hoy": 11799.0,
+      "diff_abs": -2688.0,
+      "diff_pct": -18.55
+    },
+    {
+      "ean": "8445290814425",
+      "nombre": "cafe en capsulas starbucks blonde espresso roast x",
+      "categoria": "Perfumeria",
+      "precio_antes": 14487.0,
+      "precio_hoy": 11799.0,
+      "diff_abs": -2688.0,
+      "diff_pct": -18.55
+    },
+    {
+      "ean": "7790360026576",
+      "nombre": "hamburguesas swift x 4 unid.",
+      "categoria": "Congelados",
+      "precio_antes": 9246.0,
+      "precio_hoy": 7649.0,
+      "diff_abs": -1597.0,
+      "diff_pct": -17.27
+    },
+    {
+      "ean": "2020160000007",
+      "nombre": "brocoli x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -25.06
+      "precio_antes": 11990.0,
+      "precio_hoy": 9990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -16.68
     },
     {
-      "ean": "7790315000934",
-      "nombre": "villa del sur levite cero x 1,5 lt. naranja",
-      "categoria": "Bebidas",
-      "precio_antes": 3307.0,
-      "precio_hoy": 2489.0,
-      "diff_abs": -818.0,
-      "diff_pct": -24.74
+      "ean": "7798136871337",
+      "nombre": "mermelada masseube x 260 gm frambuesa light",
+      "categoria": "Perfumeria",
+      "precio_antes": 8462.0,
+      "precio_hoy": 8460.0,
+      "diff_abs": -2.0,
+      "diff_pct": -0.02
     },
     {
-      "ean": "7798062548648",
-      "nombre": "agua saborizada vds levite naranja x 1,5 lt.",
-      "categoria": "Bebidas",
-      "precio_antes": 3307.0,
-      "precio_hoy": 2489.0,
-      "diff_abs": -818.0,
-      "diff_pct": -24.74
-    },
-    {
-      "ean": "7798062540253",
-      "nombre": "agua saborizada vds levite pera x 1.5 lt.",
-      "categoria": "Bebidas",
-      "precio_antes": 3307.0,
-      "precio_hoy": 2489.0,
-      "diff_abs": -818.0,
-      "diff_pct": -24.74
-    },
-    {
-      "ean": "7799155001699",
-      "nombre": "villa del sur levite x 1.5 litros limonada",
-      "categoria": "Bebidas",
-      "precio_antes": 3307.0,
-      "precio_hoy": 2489.0,
-      "diff_abs": -818.0,
-      "diff_pct": -24.74
+      "ean": "7790670052401",
+      "nombre": "salchicha vienissima x 6 unid.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3271.0,
+      "precio_hoy": 3271.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 11,
-  "productos_bajaron_dia": 27,
-  "productos_sin_cambio_dia": 5734
+  "productos_subieron_dia": 45,
+  "productos_bajaron_dia": 9,
+  "productos_sin_cambio_dia": 5733
 }

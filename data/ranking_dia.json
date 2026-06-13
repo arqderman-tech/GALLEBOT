@@ -1,7 +1,16 @@
 [
   {
-    "ean": "2020930000008",
-    "nombre": "lechuga morada x kg.",
+    "ean": "7798030340052",
+    "nombre": "bombilla mini",
+    "categoria": "Limpieza",
+    "precio_antes": 4509.0,
+    "precio_hoy": 8694.0,
+    "diff_abs": 4185.0,
+    "diff_pct": 92.81
+  },
+  {
+    "ean": "2030920000000",
+    "nombre": "puerro x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 5990.0,
@@ -9,174 +18,165 @@
     "diff_pct": 50.13
   },
   {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
+    "ean": "7320026",
+    "nombre": "ensaladera acril plast",
+    "categoria": "Limpieza",
+    "precio_antes": 4780.0,
+    "precio_hoy": 7071.0,
+    "diff_abs": 2291.0,
+    "diff_pct": 47.93
+  },
+  {
+    "ean": "7798422330289",
+    "nombre": "vino tinto finjamos demencia x 750 ml malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 4529.0,
+    "precio_hoy": 6342.0,
+    "diff_abs": 1813.0,
+    "diff_pct": 40.03
+  },
+  {
+    "ean": "7798422330340",
+    "nombre": "vino finjamos demencia x 750 ml blend",
+    "categoria": "Bebidas",
+    "precio_antes": 4529.0,
+    "precio_hoy": 6342.0,
+    "diff_abs": 1813.0,
+    "diff_pct": 40.03
+  },
+  {
+    "ean": "7798422330296",
+    "nombre": "vino tinto finajmos demencia x 750 ml corte de tin",
+    "categoria": "Bebidas",
+    "precio_antes": 4529.0,
+    "precio_hoy": 6342.0,
+    "diff_abs": 1813.0,
+    "diff_pct": 40.03
+  },
+  {
+    "ean": "7798039599437",
+    "nombre": "espumante casillero del diablo x 750 ml extra brut",
+    "categoria": "Bebidas",
+    "precio_antes": 9059.0,
+    "precio_hoy": 12682.0,
+    "diff_abs": 3623.0,
+    "diff_pct": 39.99
+  },
+  {
+    "ean": "7798039590151",
+    "nombre": "vino tinto tribu malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3759.0,
+    "precio_hoy": 5261.0,
+    "diff_abs": 1502.0,
+    "diff_pct": 39.96
+  },
+  {
+    "ean": "7798039599031",
+    "nombre": "vino blanco tribu dulce x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3759.0,
+    "precio_hoy": 5261.0,
+    "diff_abs": 1502.0,
+    "diff_pct": 39.96
+  },
+  {
+    "ean": "7798039590373",
+    "nombre": "vino tinto tribu cabernet sauvignon x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3759.0,
+    "precio_hoy": 5261.0,
+    "diff_abs": 1502.0,
+    "diff_pct": 39.96
+  },
+  {
+    "ean": "7798039599413",
+    "nombre": "vino casa del diablo x 750 ml chardonay",
+    "categoria": "Bebidas",
+    "precio_antes": 6489.0,
+    "precio_hoy": 9079.0,
+    "diff_abs": 2590.0,
+    "diff_pct": 39.91
+  },
+  {
+    "ean": "7798039599390",
+    "nombre": "vino casillero del diablo malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 6489.0,
+    "precio_hoy": 9079.0,
+    "diff_abs": 2590.0,
+    "diff_pct": 39.91
+  },
+  {
+    "ean": "7798039599406",
+    "nombre": "vino tinto casillero del diablo cabernet sauvignon",
+    "categoria": "Bebidas",
+    "precio_antes": 6489.0,
+    "precio_hoy": 9079.0,
+    "diff_abs": 2590.0,
+    "diff_pct": 39.91
+  },
+  {
+    "ean": "7798039599420",
+    "nombre": "vino casillero del diablo red blend x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 6489.0,
+    "precio_hoy": 9079.0,
+    "diff_abs": 2590.0,
+    "diff_pct": 39.91
+  },
+  {
+    "ean": "2022300000007",
+    "nombre": "uvas rosadas x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 1190.0,
-    "diff_abs": 200.0,
-    "diff_pct": 20.2
+    "precio_antes": 7990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 25.03
   },
   {
-    "ean": "5000281015248",
-    "nombre": "dry gin tanqueray x 700 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 32849.0,
-    "precio_hoy": 35039.0,
-    "diff_abs": 2190.0,
-    "diff_pct": 6.67
+    "ean": "225422552252",
+    "nombre": "felpudo goma varios modelos x unidad",
+    "categoria": "Limpieza",
+    "precio_antes": 12490.0,
+    "precio_hoy": 15568.0,
+    "diff_abs": 3078.0,
+    "diff_pct": 24.64
   },
   {
-    "ean": "5000291026548",
-    "nombre": "gin tanqueray royale x 700 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 37189.0,
-    "precio_hoy": 39667.0,
-    "diff_abs": 2478.0,
-    "diff_pct": 6.66
+    "ean": "7798136870910",
+    "nombre": "mermelada masseube x 280 gm arandanos y membrillo",
+    "categoria": "Perfumeria",
+    "precio_antes": 6408.0,
+    "precio_hoy": 7659.0,
+    "diff_abs": 1251.0,
+    "diff_pct": 19.52
   },
   {
-    "ean": "5000267024011",
-    "nombre": "whisky jonnie walker black label x 750 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 64639.0,
-    "precio_hoy": 68946.0,
-    "diff_abs": 4307.0,
-    "diff_pct": 6.66
+    "ean": "7795589002400",
+    "nombre": "molde para hamburguesas",
+    "categoria": "Limpieza",
+    "precio_antes": 3241.0,
+    "precio_hoy": 3601.0,
+    "diff_abs": 360.0,
+    "diff_pct": 11.11
   },
   {
-    "ean": "5000267023601",
-    "nombre": "whisky johnny walker black label x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 79479.0,
-    "precio_hoy": 84774.0,
-    "diff_abs": 5295.0,
-    "diff_pct": 6.66
+    "ean": "7795589007009",
+    "nombre": "jarra plastica",
+    "categoria": "Limpieza",
+    "precio_antes": 6764.0,
+    "precio_hoy": 7515.0,
+    "diff_abs": 751.0,
+    "diff_pct": 11.1
   },
   {
-    "ean": "5000291023462",
-    "nombre": "gin tanqueray sevilla x 700 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 37189.0,
-    "precio_hoy": 39667.0,
-    "diff_abs": 2478.0,
-    "diff_pct": 6.66
-  },
-  {
-    "ean": "5000267116419",
-    "nombre": "whisky johnnie walker x 750 ml double black",
-    "categoria": "Bebidas",
-    "precio_antes": 73609.0,
-    "precio_hoy": 78511.0,
-    "diff_abs": 4902.0,
-    "diff_pct": 6.66
-  },
-  {
-    "ean": "5000267013602",
-    "nombre": "whisky johnnie walker red label x 1 litro",
-    "categoria": "Bebidas",
-    "precio_antes": 41349.0,
-    "precio_hoy": 44101.0,
-    "diff_abs": 2752.0,
-    "diff_pct": 6.66
-  },
-  {
-    "ean": "5000267024004",
-    "nombre": "whisky johnnie walker black label 12 anos x 750 m.",
-    "categoria": "Bebidas",
-    "precio_antes": 64639.0,
-    "precio_hoy": 68946.0,
-    "diff_abs": 4307.0,
-    "diff_pct": 6.66
-  },
-  {
-    "ean": "5000267014005",
-    "nombre": "whisky johnnie walker red label x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 34369.0,
-    "precio_hoy": 36655.0,
-    "diff_abs": 2286.0,
-    "diff_pct": 6.65
-  },
-  {
-    "ean": "7793913013672",
-    "nombre": "ricotta magra tregar x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4222.0,
-    "precio_hoy": 4222.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790360970053",
-    "nombre": "salchichas swift kids x 6 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2156.0,
-    "precio_hoy": 2156.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790670052395",
-    "nombre": "salchichas patyviena x 12 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4339.0,
-    "precio_hoy": 4339.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790670045502",
-    "nombre": "salchichas patyviena tipo alemana x 4 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5405.0,
-    "precio_hoy": 5405.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790670052364",
-    "nombre": "salchichas patyviena fun x 6 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2209.0,
-    "precio_hoy": 2209.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790079010828",
-    "nombre": "salchichas paladini x 6 unidades",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2832.0,
-    "precio_hoy": 2832.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790079010835",
-    "nombre": "salchichas paladini x 12 unidades de viena",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4991.0,
-    "precio_hoy": 4991.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790360026002",
-    "nombre": "salchichas la blanca x6 190g",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1469.0,
-    "precio_hoy": 1469.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798164602880",
-    "nombre": "salchichas granja iris x 12 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5021.0,
-    "precio_hoy": 5021.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798136871559",
+    "nombre": "mermelada masseube x 350 gm cereza negra",
+    "categoria": "Perfumeria",
+    "precio_antes": 7411.0,
+    "precio_hoy": 7962.0,
+    "diff_abs": 551.0,
+    "diff_pct": 7.43
   }
 ]

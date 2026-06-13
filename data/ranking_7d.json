@@ -9,6 +9,15 @@
     "diff_pct": 100.0
   },
   {
+    "ean": "7798030340052",
+    "nombre": "bombilla mini",
+    "categoria": "Limpieza",
+    "precio_antes": 4509.0,
+    "precio_hoy": 8694.0,
+    "diff_abs": 4185.0,
+    "diff_pct": 92.81
+  },
+  {
     "ean": "7791337007260",
     "nombre": "leche chocolatada cindor x 200 ml.",
     "categoria": "Lacteos Y Frescos",
@@ -16,6 +25,15 @@
     "precio_hoy": 2701.0,
     "diff_abs": 1192.0,
     "diff_pct": 78.99
+  },
+  {
+    "ean": "7794170016932",
+    "nombre": "toallon palette",
+    "categoria": "Limpieza",
+    "precio_antes": 12347.15,
+    "precio_hoy": 20927.0,
+    "diff_abs": 8579.85,
+    "diff_pct": 69.49
   },
   {
     "ean": "2031890000007",
@@ -27,15 +45,6 @@
     "diff_pct": 67.55
   },
   {
-    "ean": "7500810034477",
-    "nombre": "snack takis original x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1829.0,
-    "precio_hoy": 2945.0,
-    "diff_abs": 1116.0,
-    "diff_pct": 61.02
-  },
-  {
     "ean": "2020350000008",
     "nombre": "chaucha ballina x kg.",
     "categoria": "Frutas Y Verduras",
@@ -43,24 +52,6 @@
     "precio_hoy": 7990.0,
     "diff_abs": 3000.0,
     "diff_pct": 60.12
-  },
-  {
-    "ean": "7500810034361",
-    "nombre": "snack takis fuego x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1849.0,
-    "precio_hoy": 2945.0,
-    "diff_abs": 1096.0,
-    "diff_pct": 59.28
-  },
-  {
-    "ean": "7500810034460",
-    "nombre": "snack takis xplosion x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1869.0,
-    "precio_hoy": 2945.0,
-    "diff_abs": 1076.0,
-    "diff_pct": 57.57
   },
   {
     "ean": "7790070418401",
@@ -90,6 +81,15 @@
     "diff_pct": 52.03
   },
   {
+    "ean": "7500810034477",
+    "nombre": "snack takis original x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1938.62,
+    "precio_hoy": 2945.0,
+    "diff_abs": 1006.38,
+    "diff_pct": 51.91
+  },
+  {
     "ean": "2020180000001",
     "nombre": "calabacita x kg.",
     "categoria": "Frutas Y Verduras",
@@ -108,6 +108,42 @@
     "diff_pct": 50.49
   },
   {
+    "ean": "7500810034361",
+    "nombre": "snack takis fuego x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1959.82,
+    "precio_hoy": 2945.0,
+    "diff_abs": 985.18,
+    "diff_pct": 50.27
+  },
+  {
+    "ean": "2030920000000",
+    "nombre": "puerro x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.13
+  },
+  {
+    "ean": "2020930000008",
+    "nombre": "lechuga morada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.13
+  },
+  {
+    "ean": "7500810034460",
+    "nombre": "snack takis xplosion x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1981.02,
+    "precio_hoy": 2945.0,
+    "diff_abs": 963.98,
+    "diff_pct": 48.66
+  },
+  {
     "ean": "7790070418265",
     "nombre": "alfajor chocoarroz limon x 6 unid.",
     "categoria": "Almacen",
@@ -115,6 +151,15 @@
     "precio_hoy": 7146.0,
     "diff_abs": 2327.0,
     "diff_pct": 48.29
+  },
+  {
+    "ean": "7320026",
+    "nombre": "ensaladera acril plast",
+    "categoria": "Limpieza",
+    "precio_antes": 4780.0,
+    "precio_hoy": 7071.0,
+    "diff_abs": 2291.0,
+    "diff_pct": 47.93
   },
   {
     "ean": "7790070418425",
@@ -133,50 +178,5 @@
     "precio_hoy": 2761.0,
     "diff_abs": 892.0,
     "diff_pct": 47.73
-  },
-  {
-    "ean": "7790070036155",
-    "nombre": "milanesas mix de legumbres granja del sol x 330 gr",
-    "categoria": "Congelados",
-    "precio_antes": 3899.0,
-    "precio_hoy": 5705.0,
-    "diff_abs": 1806.0,
-    "diff_pct": 46.32
-  },
-  {
-    "ean": "7790070036001",
-    "nombre": "milanesas de arroz y vegetales granja del sol x 33",
-    "categoria": "Congelados",
-    "precio_antes": 3899.0,
-    "precio_hoy": 5693.0,
-    "diff_abs": 1794.0,
-    "diff_pct": 46.01
-  },
-  {
-    "ean": "7790070102607",
-    "nombre": "milan.soja gr.sol x330gr.tc",
-    "categoria": "Congelados",
-    "precio_antes": 3319.0,
-    "precio_hoy": 4846.0,
-    "diff_abs": 1527.0,
-    "diff_pct": 46.01
-  },
-  {
-    "ean": "7792798015351",
-    "nombre": "cerveza corona 0 % x 473 ml lata",
-    "categoria": "Bebidas",
-    "precio_antes": 2449.0,
-    "precio_hoy": 3500.0,
-    "diff_abs": 1051.0,
-    "diff_pct": 42.92
-  },
-  {
-    "ean": "7500810034330",
-    "nombre": "snack takis fuego x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3119.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1334.0,
-    "diff_pct": 42.77
   }
 ]
