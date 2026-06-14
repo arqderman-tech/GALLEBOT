@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7798030340052",
-    "nombre": "bombilla mini",
-    "categoria": "Limpieza",
-    "precio_antes": 4509.0,
-    "precio_hoy": 8694.0,
-    "diff_abs": 4185.0,
-    "diff_pct": 92.81
-  },
-  {
-    "ean": "2030920000000",
-    "nombre": "puerro x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
-  },
-  {
-    "ean": "7320026",
-    "nombre": "ensaladera acril plast",
-    "categoria": "Limpieza",
-    "precio_antes": 4780.0,
-    "precio_hoy": 7071.0,
-    "diff_abs": 2291.0,
-    "diff_pct": 47.93
-  },
-  {
-    "ean": "7798422330289",
-    "nombre": "vino tinto finjamos demencia x 750 ml malbec",
+    "ean": "7798123970111",
+    "nombre": "vino tinto las perdices cabernet sauvingnon x 750.",
     "categoria": "Bebidas",
-    "precio_antes": 4529.0,
-    "precio_hoy": 6342.0,
-    "diff_abs": 1813.0,
-    "diff_pct": 40.03
+    "precio_antes": 7999.0,
+    "precio_hoy": 9500.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 18.76
   },
   {
-    "ean": "7798422330340",
-    "nombre": "vino finjamos demencia x 750 ml blend",
+    "ean": "7798123970098",
+    "nombre": "v.las perdices x750ml.malbec",
     "categoria": "Bebidas",
-    "precio_antes": 4529.0,
-    "precio_hoy": 6342.0,
-    "diff_abs": 1813.0,
-    "diff_pct": 40.03
+    "precio_antes": 7999.0,
+    "precio_hoy": 9500.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 18.76
   },
   {
-    "ean": "7798422330296",
-    "nombre": "vino tinto finajmos demencia x 750 ml corte de tin",
+    "ean": "7798123971170",
+    "nombre": "vino la sperdices x 750 ml red blend",
     "categoria": "Bebidas",
-    "precio_antes": 4529.0,
-    "precio_hoy": 6342.0,
-    "diff_abs": 1813.0,
-    "diff_pct": 40.03
+    "precio_antes": 7999.0,
+    "precio_hoy": 9500.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 18.76
   },
   {
-    "ean": "7798039599437",
-    "nombre": "espumante casillero del diablo x 750 ml extra brut",
+    "ean": "7798123970166",
+    "nombre": "vino las perdices x 750 ml sauvignon",
     "categoria": "Bebidas",
-    "precio_antes": 9059.0,
-    "precio_hoy": 12682.0,
-    "diff_abs": 3623.0,
-    "diff_pct": 39.99
+    "precio_antes": 7999.0,
+    "precio_hoy": 9500.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 18.76
   },
   {
-    "ean": "7798039590151",
-    "nombre": "vino tinto tribu malbec x 750 ml.",
+    "ean": "7798123970685",
+    "nombre": "vino blanco las perdices reserva x 750 ml. chardoy",
     "categoria": "Bebidas",
-    "precio_antes": 3759.0,
-    "precio_hoy": 5261.0,
-    "diff_abs": 1502.0,
-    "diff_pct": 39.96
+    "precio_antes": 12299.0,
+    "precio_hoy": 14500.0,
+    "diff_abs": 2201.0,
+    "diff_pct": 17.9
   },
   {
-    "ean": "7798039599031",
-    "nombre": "vino blanco tribu dulce x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3759.0,
-    "precio_hoy": 5261.0,
-    "diff_abs": 1502.0,
-    "diff_pct": 39.96
+    "ean": "7790079022661",
+    "nombre": "salchichon triple paladini x 300 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4138.0,
+    "precio_hoy": 4138.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798039590373",
-    "nombre": "vino tinto tribu cabernet sauvignon x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3759.0,
-    "precio_hoy": 5261.0,
-    "diff_abs": 1502.0,
-    "diff_pct": 39.96
+    "ean": "2019020000004",
+    "nombre": "salchichon primavera lario x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 10029.0,
+    "precio_hoy": 10029.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798039599413",
-    "nombre": "vino casa del diablo x 750 ml chardonay",
-    "categoria": "Bebidas",
-    "precio_antes": 6489.0,
-    "precio_hoy": 9079.0,
-    "diff_abs": 2590.0,
-    "diff_pct": 39.91
+    "ean": "7790625006886",
+    "nombre": "salchichon primavera lario x 300 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3450.0,
+    "precio_hoy": 3450.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798039599390",
-    "nombre": "vino casillero del diablo malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 6489.0,
-    "precio_hoy": 9079.0,
-    "diff_abs": 2590.0,
-    "diff_pct": 39.91
+    "ean": "7790079022678",
+    "nombre": "salchichon con jamon paladini x 300 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3921.0,
+    "precio_hoy": 3921.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798039599406",
-    "nombre": "vino tinto casillero del diablo cabernet sauvignon",
-    "categoria": "Bebidas",
-    "precio_antes": 6489.0,
-    "precio_hoy": 9079.0,
-    "diff_abs": 2590.0,
-    "diff_pct": 39.91
+    "ean": "7790360983947",
+    "nombre": "salchichas swift x6unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2548.0,
+    "precio_hoy": 2548.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798039599420",
-    "nombre": "vino casillero del diablo red blend x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 6489.0,
-    "precio_hoy": 9079.0,
-    "diff_abs": 2590.0,
-    "diff_pct": 39.91
+    "ean": "7790360983954",
+    "nombre": "salchichas swift x 12 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4423.0,
+    "precio_hoy": 4423.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2022300000007",
-    "nombre": "uvas rosadas x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 25.03
+    "ean": "7790360970053",
+    "nombre": "salchichas swift kids x 6 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2156.0,
+    "precio_hoy": 2156.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "225422552252",
-    "nombre": "felpudo goma varios modelos x unidad",
-    "categoria": "Limpieza",
-    "precio_antes": 12490.0,
-    "precio_hoy": 15568.0,
-    "diff_abs": 3078.0,
-    "diff_pct": 24.64
+    "ean": "7790670052395",
+    "nombre": "salchichas patyviena x 12 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4339.0,
+    "precio_hoy": 4339.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798136870910",
-    "nombre": "mermelada masseube x 280 gm arandanos y membrillo",
-    "categoria": "Perfumeria",
-    "precio_antes": 6408.0,
-    "precio_hoy": 7659.0,
-    "diff_abs": 1251.0,
-    "diff_pct": 19.52
+    "ean": "7790670045502",
+    "nombre": "salchichas patyviena tipo alemana x 4 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5405.0,
+    "precio_hoy": 5405.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7795589002400",
-    "nombre": "molde para hamburguesas",
-    "categoria": "Limpieza",
-    "precio_antes": 3241.0,
-    "precio_hoy": 3601.0,
-    "diff_abs": 360.0,
-    "diff_pct": 11.11
+    "ean": "7790670052364",
+    "nombre": "salchichas patyviena fun x 6 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2209.0,
+    "precio_hoy": 2209.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7795589007009",
-    "nombre": "jarra plastica",
-    "categoria": "Limpieza",
-    "precio_antes": 6764.0,
-    "precio_hoy": 7515.0,
-    "diff_abs": 751.0,
-    "diff_pct": 11.1
+    "ean": "7790079010835",
+    "nombre": "salchichas paladini x 12 unidades de viena",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4991.0,
+    "precio_hoy": 4991.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798136871559",
-    "nombre": "mermelada masseube x 350 gm cereza negra",
-    "categoria": "Perfumeria",
-    "precio_antes": 7411.0,
-    "precio_hoy": 7962.0,
-    "diff_abs": 551.0,
-    "diff_pct": 7.43
+    "ean": "2015670000005",
+    "nombre": "salchichon triple paladini x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 12395.0,
+    "precio_hoy": 12395.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790360026002",
+    "nombre": "salchichas la blanca x6 190g",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1469.0,
+    "precio_hoy": 1469.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798164602880",
+    "nombre": "salchichas granja iris x 12 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5021.0,
+    "precio_hoy": 5021.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798164602606",
+    "nombre": "salchichas granja iris clasicas x 6 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2766.0,
+    "precio_hoy": 2766.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]

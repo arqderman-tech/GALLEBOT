@@ -153,6 +153,15 @@
     "diff_pct": 60.12
   },
   {
+    "ean": "7792798015351",
+    "nombre": "cerveza corona 0 % x 473 ml lata",
+    "categoria": "Bebidas",
+    "precio_antes": 2239.0,
+    "precio_hoy": 3500.0,
+    "diff_abs": 1261.0,
+    "diff_pct": 56.32
+  },
+  {
     "ean": "7793147574130",
     "nombre": "cerveza imperial x 473 ml gold cero",
     "categoria": "Bebidas",
@@ -169,14 +178,5 @@
     "precio_hoy": 5670.0,
     "diff_abs": 2031.0,
     "diff_pct": 55.81
-  },
-  {
-    "ean": "7793147572624",
-    "nombre": "cerv.imperial x710ml.golden",
-    "categoria": "Bebidas",
-    "precio_antes": 2869.0,
-    "precio_hoy": 4470.0,
-    "diff_abs": 1601.0,
-    "diff_pct": 55.8
   }
 ]

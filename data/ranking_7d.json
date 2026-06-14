@@ -36,15 +36,6 @@
     "diff_pct": 69.49
   },
   {
-    "ean": "2031890000007",
-    "nombre": "boga despinada envasada al vacio x kilo",
-    "categoria": "Congelados",
-    "precio_antes": 19169.0,
-    "precio_hoy": 32118.0,
-    "diff_abs": 12949.0,
-    "diff_pct": 67.55
-  },
-  {
     "ean": "2020350000008",
     "nombre": "chaucha ballina x kg.",
     "categoria": "Frutas Y Verduras",
@@ -178,5 +169,14 @@
     "precio_hoy": 2761.0,
     "diff_abs": 892.0,
     "diff_pct": 47.73
+  },
+  {
+    "ean": "7790070036155",
+    "nombre": "milanesas mix de legumbres granja del sol x 330 gr",
+    "categoria": "Congelados",
+    "precio_antes": 3899.0,
+    "precio_hoy": 5705.0,
+    "diff_abs": 1806.0,
+    "diff_pct": 46.32
   }
 ]
