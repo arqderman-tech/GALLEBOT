@@ -18,15 +18,6 @@
     "diff_pct": 92.81
   },
   {
-    "ean": "7791337007260",
-    "nombre": "leche chocolatada cindor x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1509.0,
-    "precio_hoy": 2701.0,
-    "diff_abs": 1192.0,
-    "diff_pct": 78.99
-  },
-  {
     "ean": "7794170016932",
     "nombre": "toallon palette",
     "categoria": "Limpieza",
@@ -108,8 +99,8 @@
     "diff_pct": 50.27
   },
   {
-    "ean": "2030920000000",
-    "nombre": "puerro x kg.",
+    "ean": "2020930000008",
+    "nombre": "lechuga morada x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 5990.0,
@@ -117,8 +108,8 @@
     "diff_pct": 50.13
   },
   {
-    "ean": "2020930000008",
-    "nombre": "lechuga morada x kg.",
+    "ean": "2030920000000",
+    "nombre": "puerro x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 5990.0,
@@ -178,5 +169,14 @@
     "precio_hoy": 5705.0,
     "diff_abs": 1806.0,
     "diff_pct": 46.32
+  },
+  {
+    "ean": "7790070036025",
+    "nombre": "milanesas de vegetales granja de sol x 320 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3879.0,
+    "precio_hoy": 5673.0,
+    "diff_abs": 1794.0,
+    "diff_pct": 46.25
   }
 ]

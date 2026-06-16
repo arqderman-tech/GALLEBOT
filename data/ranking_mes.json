@@ -36,15 +36,6 @@
     "diff_pct": 92.81
   },
   {
-    "ean": "7791337008403",
-    "nombre": "leche chocolatada la serenisima x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2809.0,
-    "precio_hoy": 5271.0,
-    "diff_abs": 2462.0,
-    "diff_pct": 87.65
-  },
-  {
     "ean": "7791813403036",
     "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
     "categoria": "Bebidas",
@@ -61,15 +52,6 @@
     "precio_hoy": 2693.0,
     "diff_abs": 1194.0,
     "diff_pct": 79.65
-  },
-  {
-    "ean": "7791337007260",
-    "nombre": "leche chocolatada cindor x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1509.0,
-    "precio_hoy": 2701.0,
-    "diff_abs": 1192.0,
-    "diff_pct": 78.99
   },
   {
     "ean": "7790139100582",
@@ -90,6 +72,15 @@
     "diff_pct": 78.17
   },
   {
+    "ean": "7791337008403",
+    "nombre": "leche chocolatada la serenisima x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3005.63,
+    "precio_hoy": 5271.0,
+    "diff_abs": 2265.37,
+    "diff_pct": 75.37
+  },
+  {
     "ean": "7791540053160",
     "nombre": "vino frizze italian limonata x 473 ml.",
     "categoria": "Bebidas",
@@ -108,8 +99,8 @@
     "diff_pct": 67.55
   },
   {
-    "ean": "7790703205101",
-    "nombre": "vino blanco don valentin lacrado torrontes x 750 .",
+    "ean": "7790703205095",
+    "nombre": "vino don valentin lacrado cabernet x 750 ml",
     "categoria": "Bebidas",
     "precio_antes": 3747.0,
     "precio_hoy": 6228.0,
@@ -126,22 +117,13 @@
     "diff_pct": 66.21
   },
   {
-    "ean": "7790703205095",
-    "nombre": "vino don valentin lacrado cabernet x 750 ml",
+    "ean": "7790703205101",
+    "nombre": "vino blanco don valentin lacrado torrontes x 750 .",
     "categoria": "Bebidas",
     "precio_antes": 3747.0,
     "precio_hoy": 6228.0,
     "diff_abs": 2481.0,
     "diff_pct": 66.21
-  },
-  {
-    "ean": "7791337008410",
-    "nombre": "leche chocolatada la serenisima x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1099.0,
-    "precio_hoy": 1804.0,
-    "diff_abs": 705.0,
-    "diff_pct": 64.15
   },
   {
     "ean": "2020350000008",
@@ -178,5 +160,23 @@
     "precio_hoy": 5670.0,
     "diff_abs": 2031.0,
     "diff_pct": 55.81
+  },
+  {
+    "ean": "7793147572624",
+    "nombre": "cerv.imperial x710ml.golden",
+    "categoria": "Bebidas",
+    "precio_antes": 2869.0,
+    "precio_hoy": 4470.0,
+    "diff_abs": 1601.0,
+    "diff_pct": 55.8
+  },
+  {
+    "ean": "7793147573720",
+    "nombre": "cerveza imperial golden x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3359.0,
+    "precio_hoy": 5230.0,
+    "diff_abs": 1871.0,
+    "diff_pct": 55.7
   }
 ]
