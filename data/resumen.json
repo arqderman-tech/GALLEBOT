@@ -1,147 +1,147 @@
 {
-  "fecha": "20260616",
-  "total_productos": 5840,
-  "variacion_dia": 0.02,
-  "variacion_7d": -0.5,
-  "variacion_mes": 0.75,
+  "fecha": "20260617",
+  "total_productos": 5841,
+  "variacion_dia": 0.52,
+  "variacion_7d": -0.16,
+  "variacion_mes": 1.32,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.25,
-      "productos_subieron": 1,
-      "productos_bajaron": 15,
+      "variacion_pct_promedio": 2.77,
+      "productos_subieron": 155,
+      "productos_bajaron": 30,
       "total_productos": 1316
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.43,
-      "productos_subieron": 43,
-      "productos_bajaron": 4,
-      "total_productos": 1107
+      "variacion_pct_promedio": -0.3,
+      "productos_subieron": 22,
+      "productos_bajaron": 47,
+      "total_productos": 1099
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 215
+      "variacion_pct_promedio": 0.13,
+      "productos_subieron": 11,
+      "productos_bajaron": 1,
+      "total_productos": 211
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 788
+      "variacion_pct_promedio": -0.1,
+      "productos_subieron": 18,
+      "productos_bajaron": 38,
+      "total_productos": 793
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.01,
-      "productos_subieron": 2,
-      "productos_bajaron": 2,
-      "total_productos": 795
+      "variacion_pct_promedio": -0.38,
+      "productos_subieron": 5,
+      "productos_bajaron": 29,
+      "total_productos": 798
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1602
+      "variacion_pct_promedio": 0.04,
+      "productos_subieron": 24,
+      "productos_bajaron": 4,
+      "total_productos": 1590
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7791337007260",
-      "nombre": "leche chocolatada cindor x 200 ml.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2701.0,
-      "precio_hoy": 1499.0,
-      "diff_abs": -1202.0,
-      "diff_pct": -44.5
+      "ean": "7790070760678",
+      "nombre": "vino benjamin nieto senetiner x 750 ml. torrontes",
+      "categoria": "Bebidas",
+      "precio_antes": 6724.0,
+      "precio_hoy": 4099.0,
+      "diff_abs": -2625.0,
+      "diff_pct": -39.04
     },
     {
-      "ean": "5000267014005",
-      "nombre": "whisky johnnie walker red label x 750 ml.",
+      "ean": "7790070760555",
+      "nombre": "vino blanco benjamin nieto chardonnay x 750 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 36655.0,
-      "precio_hoy": 27999.0,
-      "diff_abs": -8656.0,
-      "diff_pct": -23.61
+      "precio_antes": 6724.0,
+      "precio_hoy": 4299.0,
+      "diff_abs": -2425.0,
+      "diff_pct": -36.06
     },
     {
-      "ean": "5000267116419",
-      "nombre": "whisky johnnie walker x 750 ml double black",
+      "ean": "7790070760623",
+      "nombre": "vino benjamin  nieto x 750 ml blanco dulce",
       "categoria": "Bebidas",
-      "precio_antes": 78511.0,
-      "precio_hoy": 59999.0,
-      "diff_abs": -18512.0,
-      "diff_pct": -23.58
+      "precio_antes": 6724.0,
+      "precio_hoy": 4299.0,
+      "diff_abs": -2425.0,
+      "diff_pct": -36.06
     },
     {
-      "ean": "7790240094732",
-      "nombre": "vino fond de cave gran reserva blend x 750 ml",
+      "ean": "7790070760630",
+      "nombre": "vino benjamin nieto rosado dulce x 750 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 23510.0,
-      "precio_hoy": 17999.0,
-      "diff_abs": -5511.0,
-      "diff_pct": -23.44
+      "precio_antes": 6724.0,
+      "precio_hoy": 4299.0,
+      "diff_abs": -2425.0,
+      "diff_pct": -36.06
     },
     {
-      "ean": "5000267024011",
-      "nombre": "whisky jonnie walker black label x 750 ml",
+      "ean": "7790070760562",
+      "nombre": "vino benjamin nieto cabernet sauvignon x 750 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 68946.0,
-      "precio_hoy": 52799.0,
-      "diff_abs": -16147.0,
-      "diff_pct": -23.42
+      "precio_antes": 6309.0,
+      "precio_hoy": 4099.0,
+      "diff_abs": -2210.0,
+      "diff_pct": -35.03
     },
     {
-      "ean": "5000267023601",
-      "nombre": "whisky johnny walker black label x 1 lt.",
+      "ean": "7790070760647",
+      "nombre": "vino benjamin nieto x 750 ml malbec-cabernet",
       "categoria": "Bebidas",
-      "precio_antes": 84774.0,
-      "precio_hoy": 64999.0,
-      "diff_abs": -19775.0,
-      "diff_pct": -23.33
+      "precio_antes": 6309.0,
+      "precio_hoy": 4099.0,
+      "diff_abs": -2210.0,
+      "diff_pct": -35.03
     },
     {
-      "ean": "7790240041446",
-      "nombre": "vino fonde de cave reserva cabernet sauvignon x 7.",
+      "ean": "7790070760593",
+      "nombre": "vino benjamin nieto tempranillo x 750 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 11735.0,
-      "precio_hoy": 8999.0,
-      "diff_abs": -2736.0,
-      "diff_pct": -23.31
+      "precio_antes": 6309.0,
+      "precio_hoy": 4099.0,
+      "diff_abs": -2210.0,
+      "diff_pct": -35.03
     },
     {
-      "ean": "7790240128673",
-      "nombre": "vino fond de cave res.malbec",
-      "categoria": "Bebidas",
-      "precio_antes": 11735.0,
-      "precio_hoy": 8999.0,
-      "diff_abs": -2736.0,
-      "diff_pct": -23.31
+      "ean": "7790070431516",
+      "nombre": "arroz lucchetti parb.sel.x500g",
+      "categoria": "Almacen",
+      "precio_antes": 1579.0,
+      "precio_hoy": 1049.0,
+      "diff_abs": -530.0,
+      "diff_pct": -33.57
     },
     {
-      "ean": "7790240041408",
-      "nombre": "vino fond de cave res.sauvigno",
+      "ean": "7790070760937",
+      "nombre": "vino don nicanor x750ml.cabern",
       "categoria": "Bebidas",
-      "precio_antes": 11730.0,
-      "precio_hoy": 8999.0,
-      "diff_abs": -2731.0,
-      "diff_pct": -23.28
+      "precio_antes": 19546.0,
+      "precio_hoy": 12999.0,
+      "diff_abs": -6547.0,
+      "diff_pct": -33.5
     },
     {
-      "ean": "7790240041170",
-      "nombre": "vino fond de cave reserva cabernet franc x 750 ml.",
+      "ean": "7790070760944",
+      "nombre": "vino tinto don nicanor blend x 750 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 11727.0,
-      "precio_hoy": 8999.0,
-      "diff_abs": -2728.0,
-      "diff_pct": -23.26
+      "precio_antes": 19546.0,
+      "precio_hoy": 12999.0,
+      "diff_abs": -6547.0,
+      "diff_pct": -33.5
     }
   ],
-  "productos_subieron_dia": 46,
-  "productos_bajaron_dia": 21,
-  "productos_sin_cambio_dia": 5756
+  "productos_subieron_dia": 235,
+  "productos_bajaron_dia": 149,
+  "productos_sin_cambio_dia": 5423
 }

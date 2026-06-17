@@ -1,12 +1,39 @@
 [
   {
-    "ean": "7790290101459",
-    "nombre": "fernet vittone x 750 ml. speciale",
+    "ean": "7791813403012",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
     "categoria": "Bebidas",
-    "precio_antes": 6327.0,
-    "precio_hoy": 12654.0,
-    "diff_abs": 6327.0,
-    "diff_pct": 100.0
+    "precio_antes": 1519.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1731.0,
+    "diff_pct": 113.96
+  },
+  {
+    "ean": "7791813403029",
+    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1731.0,
+    "diff_pct": 113.96
+  },
+  {
+    "ean": "7791813405030",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1679.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1671.0,
+    "diff_pct": 99.52
+  },
+  {
+    "ean": "7791813405023",
+    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+    "categoria": "Bebidas",
+    "precio_antes": 1679.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1671.0,
+    "diff_pct": 99.52
   },
   {
     "ean": "7798030340052",
@@ -18,40 +45,58 @@
     "diff_pct": 92.81
   },
   {
-    "ean": "7794170016932",
-    "nombre": "toallon palette",
-    "categoria": "Limpieza",
-    "precio_antes": 12347.15,
-    "precio_hoy": 20927.0,
-    "diff_abs": 8579.85,
-    "diff_pct": 69.49
+    "ean": "7791813402886",
+    "nombre": "agua saborizada h2o x 500 ml sin gas naranja",
+    "categoria": "Bebidas",
+    "precio_antes": 909.0,
+    "precio_hoy": 1750.0,
+    "diff_abs": 841.0,
+    "diff_pct": 92.52
   },
   {
-    "ean": "2020350000008",
-    "nombre": "chaucha ballina x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 60.12
+    "ean": "7791813402015",
+    "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 909.0,
+    "precio_hoy": 1750.0,
+    "diff_abs": 841.0,
+    "diff_pct": 92.52
   },
   {
-    "ean": "7790070418401",
-    "nombre": "gall.gallo x100gr.crackeadas",
-    "categoria": "Almacen",
-    "precio_antes": 1769.0,
-    "precio_hoy": 2731.0,
-    "diff_abs": 962.0,
-    "diff_pct": 54.38
+    "ean": "7791813402039",
+    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 909.0,
+    "precio_hoy": 1750.0,
+    "diff_abs": 841.0,
+    "diff_pct": 92.52
   },
   {
-    "ean": "7790070431448",
-    "nombre": "arroz gallo largo fino x1kg.bolsa",
-    "categoria": "Almacen",
-    "precio_antes": 2109.0,
-    "precio_hoy": 3249.0,
-    "diff_abs": 1140.0,
-    "diff_pct": 54.05
+    "ean": "7792798002399",
+    "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4369.0,
+    "precio_hoy": 6720.0,
+    "diff_abs": 2351.0,
+    "diff_pct": 53.81
+  },
+  {
+    "ean": "7792798008858",
+    "nombre": "cerveza temple wolf ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3079.0,
+    "precio_hoy": 4725.0,
+    "diff_abs": 1646.0,
+    "diff_pct": 53.46
+  },
+  {
+    "ean": "7797906054956",
+    "nombre": "papas congeladas mc cain smiles x 700 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 8819.0,
+    "precio_hoy": 13481.0,
+    "diff_abs": 4662.0,
+    "diff_pct": 52.86
   },
   {
     "ean": "7500810034354",
@@ -72,13 +117,13 @@
     "diff_pct": 51.91
   },
   {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 790.0,
-    "precio_hoy": 1190.0,
-    "diff_abs": 400.0,
-    "diff_pct": 50.63
+    "ean": "7797906054819",
+    "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
+    "categoria": "Congelados",
+    "precio_antes": 10099.0,
+    "precio_hoy": 15291.0,
+    "diff_abs": 5192.0,
+    "diff_pct": 51.41
   },
   {
     "ean": "7500810034347",
@@ -99,15 +144,6 @@
     "diff_pct": 50.27
   },
   {
-    "ean": "2020930000008",
-    "nombre": "lechuga morada x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
-  },
-  {
     "ean": "2030920000000",
     "nombre": "puerro x kg.",
     "categoria": "Frutas Y Verduras",
@@ -117,66 +153,30 @@
     "diff_pct": 50.13
   },
   {
-    "ean": "7500810034460",
-    "nombre": "snack takis xplosion x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1981.02,
-    "precio_hoy": 2945.0,
-    "diff_abs": 963.98,
-    "diff_pct": 48.66
+    "ean": "2021020000007",
+    "nombre": "hinojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.13
   },
   {
-    "ean": "7790070418265",
-    "nombre": "alfajor chocoarroz limon x 6 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 4819.0,
-    "precio_hoy": 7146.0,
-    "diff_abs": 2327.0,
-    "diff_pct": 48.29
+    "ean": "7792798002115",
+    "nombre": "cerveza andes rubia x1 lt. retornable",
+    "categoria": "Bebidas",
+    "precio_antes": 3409.0,
+    "precio_hoy": 5100.0,
+    "diff_abs": 1691.0,
+    "diff_pct": 49.6
   },
   {
-    "ean": "7320026",
-    "nombre": "ensaladera acril plast",
-    "categoria": "Limpieza",
-    "precio_antes": 4780.0,
-    "precio_hoy": 7071.0,
-    "diff_abs": 2291.0,
-    "diff_pct": 47.93
-  },
-  {
-    "ean": "7790070418425",
-    "nombre": "bizcochos dulces de arroz gallo x 100 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1869.0,
-    "precio_hoy": 2761.0,
-    "diff_abs": 892.0,
-    "diff_pct": 47.73
-  },
-  {
-    "ean": "7790070418463",
-    "nombre": "bizcochos salados de arroz gallo x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1869.0,
-    "precio_hoy": 2761.0,
-    "diff_abs": 892.0,
-    "diff_pct": 47.73
-  },
-  {
-    "ean": "7790070036155",
-    "nombre": "milanesas mix de legumbres granja del sol x 330 gr",
-    "categoria": "Congelados",
-    "precio_antes": 3899.0,
-    "precio_hoy": 5705.0,
-    "diff_abs": 1806.0,
-    "diff_pct": 46.32
-  },
-  {
-    "ean": "7790070036025",
-    "nombre": "milanesas de vegetales granja de sol x 320 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 3879.0,
-    "precio_hoy": 5673.0,
-    "diff_abs": 1794.0,
-    "diff_pct": 46.25
+    "ean": "7792931000022",
+    "nombre": "agua mineral glaciar sin gas x 1.5 litros",
+    "categoria": "Bebidas",
+    "precio_antes": 2079.0,
+    "precio_hoy": 3100.0,
+    "diff_abs": 1021.0,
+    "diff_pct": 49.11
   }
 ]
