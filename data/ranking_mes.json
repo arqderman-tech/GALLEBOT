@@ -1,113 +1,5 @@
 [
   {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1731.0,
-    "diff_pct": 113.96
-  },
-  {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1731.0,
-    "diff_pct": 113.96
-  },
-  {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1731.0,
-    "diff_pct": 113.96
-  },
-  {
-    "ean": "2022130000000",
-    "nombre": "tomate cherry x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 11990.0,
-    "diff_abs": 6000.0,
-    "diff_pct": 100.17
-  },
-  {
-    "ean": "2019910000008",
-    "nombre": "ajies x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 11990.0,
-    "diff_abs": 6000.0,
-    "diff_pct": 100.17
-  },
-  {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1671.0,
-    "diff_pct": 99.52
-  },
-  {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1671.0,
-    "diff_pct": 99.52
-  },
-  {
-    "ean": "7795930000543",
-    "nombre": "agua mineral pureza vital x2.25lt.sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1309.0,
-    "precio_hoy": 2603.0,
-    "diff_abs": 1294.0,
-    "diff_pct": 98.85
-  },
-  {
-    "ean": "7798030340052",
-    "nombre": "bombilla mini",
-    "categoria": "Limpieza",
-    "precio_antes": 4509.0,
-    "precio_hoy": 8694.0,
-    "diff_abs": 4185.0,
-    "diff_pct": 92.81
-  },
-  {
-    "ean": "7791813402886",
-    "nombre": "agua saborizada h2o x 500 ml sin gas naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1750.0,
-    "diff_abs": 841.0,
-    "diff_pct": 92.52
-  },
-  {
-    "ean": "7791813402015",
-    "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1750.0,
-    "diff_abs": 841.0,
-    "diff_pct": 92.52
-  },
-  {
-    "ean": "7791813402039",
-    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1750.0,
-    "diff_abs": 841.0,
-    "diff_pct": 92.52
-  },
-  {
     "ean": "7791540053153",
     "nombre": "vino frizze",
     "categoria": "Bebidas",
@@ -117,66 +9,174 @@
     "diff_pct": 79.65
   },
   {
-    "ean": "7790139100582",
-    "nombre": "salsa chimichurri casalta x 300 gr.",
+    "ean": "7791540053160",
+    "nombre": "vino frizze italian limonata x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1499.0,
+    "precio_hoy": 2548.0,
+    "diff_abs": 1049.0,
+    "diff_pct": 69.98
+  },
+  {
+    "ean": "2031890000007",
+    "nombre": "boga despinada envasada al vacio x kilo",
+    "categoria": "Congelados",
+    "precio_antes": 19169.0,
+    "precio_hoy": 32118.0,
+    "diff_abs": 12949.0,
+    "diff_pct": 67.55
+  },
+  {
+    "ean": "7790703205095",
+    "nombre": "vino don valentin lacrado cabernet x 750 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 3747.0,
+    "precio_hoy": 6228.0,
+    "diff_abs": 2481.0,
+    "diff_pct": 66.21
+  },
+  {
+    "ean": "7790703205101",
+    "nombre": "vino blanco don valentin lacrado torrontes x 750 .",
+    "categoria": "Bebidas",
+    "precio_antes": 3747.0,
+    "precio_hoy": 6228.0,
+    "diff_abs": 2481.0,
+    "diff_pct": 66.21
+  },
+  {
+    "ean": "7790703205064",
+    "nombre": "vino don valentin lacr.rob.mal",
+    "categoria": "Bebidas",
+    "precio_antes": 3747.0,
+    "precio_hoy": 6228.0,
+    "diff_abs": 2481.0,
+    "diff_pct": 66.21
+  },
+  {
+    "ean": "2020350000008",
+    "nombre": "chaucha ballina x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 60.12
+  },
+  {
+    "ean": "7790070040046",
+    "nombre": "pizza sibarita mozzarella y jamon x 530 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 10999.0,
+    "precio_hoy": 17456.0,
+    "diff_abs": 6457.0,
+    "diff_pct": 58.71
+  },
+  {
+    "ean": "7793147574130",
+    "nombre": "cerveza imperial x 473 ml gold cero",
+    "categoria": "Bebidas",
+    "precio_antes": 1469.0,
+    "precio_hoy": 2290.0,
+    "diff_abs": 821.0,
+    "diff_pct": 55.89
+  },
+  {
+    "ean": "7793147570330",
+    "nombre": "cerveza imperial red ipa x 1 lt. retornable",
+    "categoria": "Bebidas",
+    "precio_antes": 3639.0,
+    "precio_hoy": 5670.0,
+    "diff_abs": 2031.0,
+    "diff_pct": 55.81
+  },
+  {
+    "ean": "7793147572624",
+    "nombre": "cerv.imperial x710ml.golden",
+    "categoria": "Bebidas",
+    "precio_antes": 2869.0,
+    "precio_hoy": 4470.0,
+    "diff_abs": 1601.0,
+    "diff_pct": 55.8
+  },
+  {
+    "ean": "7793147573720",
+    "nombre": "cerveza imperial golden x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 3359.0,
+    "precio_hoy": 5230.0,
+    "diff_abs": 1871.0,
+    "diff_pct": 55.7
+  },
+  {
+    "ean": "7793147572723",
+    "nombre": "cerveza imperial roja lata x 473 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 2119.0,
+    "precio_hoy": 3295.0,
+    "diff_abs": 1176.0,
+    "diff_pct": 55.5
+  },
+  {
+    "ean": "7793147001742",
+    "nombre": "cerveza imperial stout lata x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2119.0,
+    "precio_hoy": 3295.0,
+    "diff_abs": 1176.0,
+    "diff_pct": 55.5
+  },
+  {
+    "ean": "7793147571160",
+    "nombre": "cerveza imperial lata x 473 ml apa",
+    "categoria": "Bebidas",
+    "precio_antes": 2119.0,
+    "precio_hoy": 3295.0,
+    "diff_abs": 1176.0,
+    "diff_pct": 55.5
+  },
+  {
+    "ean": "7793147570743",
+    "nombre": "cerveza imperial ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2119.0,
+    "precio_hoy": 3295.0,
+    "diff_abs": 1176.0,
+    "diff_pct": 55.5
+  },
+  {
+    "ean": "7793147571689",
+    "nombre": "cerveza imperial golden x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1999.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1106.0,
+    "diff_pct": 55.33
+  },
+  {
+    "ean": "7793147571412",
+    "nombre": "cerveza imperial x 710 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2579.0,
+    "precio_hoy": 4005.0,
+    "diff_abs": 1426.0,
+    "diff_pct": 55.29
+  },
+  {
+    "ean": "7794000008274",
+    "nombre": "caldo de verduras knorr cero sodio x 12 unid.",
     "categoria": "Almacen",
-    "precio_antes": 3046.83,
-    "precio_hoy": 5441.0,
-    "diff_abs": 2394.17,
-    "diff_pct": 78.58
+    "precio_antes": 2299.0,
+    "precio_hoy": 3569.0,
+    "diff_abs": 1270.0,
+    "diff_pct": 55.24
   },
   {
-    "ean": "7790139100575",
-    "nombre": "salsa barbacoa casalta x 350 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3469.12,
-    "precio_hoy": 6181.0,
-    "diff_abs": 2711.88,
-    "diff_pct": 78.17
-  },
-  {
-    "ean": "7792798992317",
-    "nombre": "cerveza andes roja lata x 473 ml.",
+    "ean": "7793147000752",
+    "nombre": "cerveza imperial lata x 473 ml",
     "categoria": "Bebidas",
-    "precio_antes": 1819.0,
-    "precio_hoy": 3191.0,
-    "diff_abs": 1372.0,
-    "diff_pct": 75.43
-  },
-  {
-    "ean": "7791337008403",
-    "nombre": "leche chocolatada la serenisima x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3005.63,
-    "precio_hoy": 5271.0,
-    "diff_abs": 2265.37,
-    "diff_pct": 75.37
-  },
-  {
-    "ean": "7792798002399",
-    "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3839.0,
-    "precio_hoy": 6720.0,
-    "diff_abs": 2881.0,
-    "diff_pct": 75.05
-  },
-  {
-    "ean": "7792799000059",
-    "nombre": "agua mineral sin gas eco de los andes x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1609.0,
-    "precio_hoy": 2815.0,
-    "diff_abs": 1206.0,
-    "diff_pct": 74.95
-  },
-  {
-    "ean": "7792799000097",
-    "nombre": "agua mineral eco de los andes x 2 lt. sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1829.0,
-    "precio_hoy": 3187.0,
-    "diff_abs": 1358.0,
-    "diff_pct": 74.25
+    "precio_antes": 1769.0,
+    "precio_hoy": 2745.0,
+    "diff_abs": 976.0,
+    "diff_pct": 55.17
   }
 ]

@@ -1,147 +1,147 @@
 {
-  "fecha": "20260617",
-  "total_productos": 5841,
-  "variacion_dia": 0.52,
-  "variacion_7d": -0.16,
-  "variacion_mes": 1.32,
+  "fecha": "20260618",
+  "total_productos": 5894,
+  "variacion_dia": 0.09,
+  "variacion_7d": 0.49,
+  "variacion_mes": 0.11,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 2.77,
-      "productos_subieron": 155,
-      "productos_bajaron": 30,
-      "total_productos": 1316
+      "variacion_pct_promedio": -1.49,
+      "productos_subieron": 68,
+      "productos_bajaron": 263,
+      "total_productos": 1317
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.3,
-      "productos_subieron": 22,
-      "productos_bajaron": 47,
-      "total_productos": 1099
+      "variacion_pct_promedio": -0.28,
+      "productos_subieron": 116,
+      "productos_bajaron": 35,
+      "total_productos": 1100
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.13,
-      "productos_subieron": 11,
-      "productos_bajaron": 1,
-      "total_productos": 211
+      "variacion_pct_promedio": 3.14,
+      "productos_subieron": 66,
+      "productos_bajaron": 2,
+      "total_productos": 213
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": -0.1,
-      "productos_subieron": 18,
-      "productos_bajaron": 38,
-      "total_productos": 793
+      "variacion_pct_promedio": -0.05,
+      "productos_subieron": 2,
+      "productos_bajaron": 1,
+      "total_productos": 821
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.38,
-      "productos_subieron": 5,
-      "productos_bajaron": 29,
+      "variacion_pct_promedio": 0.35,
+      "productos_subieron": 16,
+      "productos_bajaron": 11,
       "total_productos": 798
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.04,
-      "productos_subieron": 24,
-      "productos_bajaron": 4,
-      "total_productos": 1590
+      "variacion_pct_promedio": 1.17,
+      "productos_subieron": 110,
+      "productos_bajaron": 6,
+      "total_productos": 1591
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790070760678",
-      "nombre": "vino benjamin nieto senetiner x 750 ml. torrontes",
-      "categoria": "Bebidas",
-      "precio_antes": 6724.0,
-      "precio_hoy": 4099.0,
-      "diff_abs": -2625.0,
-      "diff_pct": -39.04
+      "ean": "7791337010482",
+      "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5332.0,
+      "precio_hoy": 2109.0,
+      "diff_abs": -3223.0,
+      "diff_pct": -60.45
     },
     {
-      "ean": "7790070760555",
-      "nombre": "vino blanco benjamin nieto chardonnay x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 6724.0,
-      "precio_hoy": 4299.0,
-      "diff_abs": -2425.0,
-      "diff_pct": -36.06
+      "ean": "7791337010499",
+      "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5332.0,
+      "precio_hoy": 2109.0,
+      "diff_abs": -3223.0,
+      "diff_pct": -60.45
     },
     {
-      "ean": "7790070760623",
-      "nombre": "vino benjamin  nieto x 750 ml blanco dulce",
+      "ean": "7791813403029",
+      "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
       "categoria": "Bebidas",
-      "precio_antes": 6724.0,
-      "precio_hoy": 4299.0,
-      "diff_abs": -2425.0,
-      "diff_pct": -36.06
+      "precio_antes": 3250.0,
+      "precio_hoy": 1519.0,
+      "diff_abs": -1731.0,
+      "diff_pct": -53.26
     },
     {
-      "ean": "7790070760630",
-      "nombre": "vino benjamin nieto rosado dulce x 750 ml.",
+      "ean": "7791813403012",
+      "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
       "categoria": "Bebidas",
-      "precio_antes": 6724.0,
-      "precio_hoy": 4299.0,
-      "diff_abs": -2425.0,
-      "diff_pct": -36.06
+      "precio_antes": 3250.0,
+      "precio_hoy": 1519.0,
+      "diff_abs": -1731.0,
+      "diff_pct": -53.26
     },
     {
-      "ean": "7790070760562",
-      "nombre": "vino benjamin nieto cabernet sauvignon x 750 ml.",
+      "ean": "7791813403036",
+      "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
       "categoria": "Bebidas",
-      "precio_antes": 6309.0,
-      "precio_hoy": 4099.0,
-      "diff_abs": -2210.0,
-      "diff_pct": -35.03
+      "precio_antes": 3250.0,
+      "precio_hoy": 1519.0,
+      "diff_abs": -1731.0,
+      "diff_pct": -53.26
     },
     {
-      "ean": "7790070760647",
-      "nombre": "vino benjamin nieto x 750 ml malbec-cabernet",
+      "ean": "7791813405030",
+      "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
       "categoria": "Bebidas",
-      "precio_antes": 6309.0,
-      "precio_hoy": 4099.0,
-      "diff_abs": -2210.0,
-      "diff_pct": -35.03
+      "precio_antes": 3350.0,
+      "precio_hoy": 1679.0,
+      "diff_abs": -1671.0,
+      "diff_pct": -49.88
     },
     {
-      "ean": "7790070760593",
-      "nombre": "vino benjamin nieto tempranillo x 750 ml.",
+      "ean": "7791813405023",
+      "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
       "categoria": "Bebidas",
-      "precio_antes": 6309.0,
-      "precio_hoy": 4099.0,
-      "diff_abs": -2210.0,
-      "diff_pct": -35.03
+      "precio_antes": 3350.0,
+      "precio_hoy": 1679.0,
+      "diff_abs": -1671.0,
+      "diff_pct": -49.88
     },
     {
-      "ean": "7790070431516",
-      "nombre": "arroz lucchetti parb.sel.x500g",
-      "categoria": "Almacen",
-      "precio_antes": 1579.0,
-      "precio_hoy": 1049.0,
-      "diff_abs": -530.0,
-      "diff_pct": -33.57
+      "ean": "7791813402039",
+      "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
+      "categoria": "Bebidas",
+      "precio_antes": 1750.0,
+      "precio_hoy": 909.0,
+      "diff_abs": -841.0,
+      "diff_pct": -48.06
     },
     {
-      "ean": "7790070760937",
-      "nombre": "vino don nicanor x750ml.cabern",
+      "ean": "7791813402015",
+      "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
       "categoria": "Bebidas",
-      "precio_antes": 19546.0,
-      "precio_hoy": 12999.0,
-      "diff_abs": -6547.0,
-      "diff_pct": -33.5
+      "precio_antes": 1750.0,
+      "precio_hoy": 909.0,
+      "diff_abs": -841.0,
+      "diff_pct": -48.06
     },
     {
-      "ean": "7790070760944",
-      "nombre": "vino tinto don nicanor blend x 750 ml.",
+      "ean": "7791813402886",
+      "nombre": "agua saborizada h2o x 500 ml sin gas naranja",
       "categoria": "Bebidas",
-      "precio_antes": 19546.0,
-      "precio_hoy": 12999.0,
-      "diff_abs": -6547.0,
-      "diff_pct": -33.5
+      "precio_antes": 1750.0,
+      "precio_hoy": 909.0,
+      "diff_abs": -841.0,
+      "diff_pct": -48.06
     }
   ],
-  "productos_subieron_dia": 235,
-  "productos_bajaron_dia": 149,
-  "productos_sin_cambio_dia": 5423
+  "productos_subieron_dia": 378,
+  "productos_bajaron_dia": 318,
+  "productos_sin_cambio_dia": 5144
 }

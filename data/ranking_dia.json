@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1731.0,
-    "diff_pct": 113.96
+    "ean": "7790936000436",
+    "nombre": "sal tresal x500gr.fina ligh es",
+    "categoria": "Almacen",
+    "precio_antes": 1999.0,
+    "precio_hoy": 6197.0,
+    "diff_abs": 4198.0,
+    "diff_pct": 210.01
   },
   {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1731.0,
-    "diff_pct": 113.96
+    "ean": "7790936000139",
+    "nombre": "sal fina tresal salero x 250 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1399.0,
+    "precio_hoy": 2215.0,
+    "diff_abs": 816.0,
+    "diff_pct": 58.33
   },
   {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1671.0,
-    "diff_pct": 99.52
+    "ean": "7791866000558",
+    "nombre": "mayonesa cada dia liviana x 250 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 599.0,
+    "precio_hoy": 943.0,
+    "diff_abs": 344.0,
+    "diff_pct": 57.43
   },
   {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1671.0,
-    "diff_pct": 99.52
+    "ean": "7791866000664",
+    "nombre": "ketchup natura x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2413.96,
+    "precio_hoy": 3745.0,
+    "diff_abs": 1331.04,
+    "diff_pct": 55.14
   },
   {
-    "ean": "7791813402886",
-    "nombre": "agua saborizada h2o x 500 ml sin gas naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1750.0,
-    "diff_abs": 841.0,
-    "diff_pct": 92.52
-  },
-  {
-    "ean": "7791813402015",
-    "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1750.0,
-    "diff_abs": 841.0,
-    "diff_pct": 92.52
-  },
-  {
-    "ean": "7791813402039",
-    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1750.0,
-    "diff_abs": 841.0,
-    "diff_pct": 92.52
-  },
-  {
-    "ean": "7792798002399",
-    "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4369.0,
-    "precio_hoy": 6720.0,
-    "diff_abs": 2351.0,
-    "diff_pct": 53.81
-  },
-  {
-    "ean": "7792798008858",
-    "nombre": "cerveza temple wolf ipa x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3079.0,
-    "precio_hoy": 4725.0,
-    "diff_abs": 1646.0,
-    "diff_pct": 53.46
-  },
-  {
-    "ean": "2021020000007",
-    "nombre": "hinojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
-  },
-  {
-    "ean": "7792798002115",
-    "nombre": "cerveza andes rubia x1 lt. retornable",
-    "categoria": "Bebidas",
-    "precio_antes": 3409.0,
-    "precio_hoy": 5100.0,
-    "diff_abs": 1691.0,
-    "diff_pct": 49.6
-  },
-  {
-    "ean": "7792931000022",
-    "nombre": "agua mineral glaciar sin gas x 1.5 litros",
-    "categoria": "Bebidas",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3100.0,
-    "diff_abs": 1021.0,
-    "diff_pct": 49.11
-  },
-  {
-    "ean": "7792799000059",
-    "nombre": "agua mineral sin gas eco de los andes x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1889.0,
-    "precio_hoy": 2815.0,
-    "diff_abs": 926.0,
-    "diff_pct": 49.02
-  },
-  {
-    "ean": "7792799000097",
-    "nombre": "agua mineral eco de los andes x 2 lt. sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 2139.0,
-    "precio_hoy": 3187.0,
-    "diff_abs": 1048.0,
-    "diff_pct": 48.99
-  },
-  {
-    "ean": "7795930002097",
-    "nombre": "agua mineral eco de los andes sin gas x 850 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1669.0,
-    "precio_hoy": 2486.0,
-    "diff_abs": 817.0,
-    "diff_pct": 48.95
-  },
-  {
-    "ean": "7792798992317",
-    "nombre": "cerveza andes roja lata x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2149.0,
-    "precio_hoy": 3191.0,
-    "diff_abs": 1042.0,
-    "diff_pct": 48.49
-  },
-  {
-    "ean": "7792798001965",
-    "nombre": "cerveza patagonia amber lager lata x 473 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 3229.0,
-    "precio_hoy": 4725.0,
-    "diff_abs": 1496.0,
-    "diff_pct": 46.33
-  },
-  {
-    "ean": "7792798001972",
-    "nombre": "cerveza lata patagonia x 473 ml 24.7",
-    "categoria": "Bebidas",
-    "precio_antes": 3229.0,
-    "precio_hoy": 4725.0,
-    "diff_abs": 1496.0,
-    "diff_pct": 46.33
-  },
-  {
-    "ean": "7792798012923",
-    "nombre": "cerveza quilmes lata x 473 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 1799.0,
-    "precio_hoy": 2613.0,
-    "diff_abs": 814.0,
-    "diff_pct": 45.25
-  },
-  {
-    "ean": "7792798005871",
-    "nombre": "cerveza brahma lata x 354 ml chopp",
-    "categoria": "Bebidas",
+    "ean": "7791866000572",
+    "nombre": "mayonesa cada dia liviana x 500 gr.",
+    "categoria": "Almacen",
     "precio_antes": 1199.0,
-    "precio_hoy": 1728.0,
-    "diff_abs": 529.0,
-    "diff_pct": 44.12
+    "precio_hoy": 1831.0,
+    "diff_abs": 632.0,
+    "diff_pct": 52.71
+  },
+  {
+    "ean": "7790936000115",
+    "nombre": "sal entrefina tresal salero x 750 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2539.0,
+    "precio_hoy": 3838.0,
+    "diff_abs": 1299.0,
+    "diff_pct": 51.16
+  },
+  {
+    "ean": "7790670050674",
+    "nombre": "hamburguesas paty x 2 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 3109.0,
+    "precio_hoy": 4662.0,
+    "diff_abs": 1553.0,
+    "diff_pct": 49.95
+  },
+  {
+    "ean": "7790070040046",
+    "nombre": "pizza sibarita mozzarella y jamon x 530 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 11665.01,
+    "precio_hoy": 17456.0,
+    "diff_abs": 5790.99,
+    "diff_pct": 49.64
+  },
+  {
+    "ean": "7790040144095",
+    "nombre": "gall.traviatas x540gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1899.0,
+    "precio_hoy": 2790.0,
+    "diff_abs": 891.0,
+    "diff_pct": 46.92
+  },
+  {
+    "ean": "7790040144088",
+    "nombre": "gall.traviatas 3x118gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1249.0,
+    "precio_hoy": 1833.0,
+    "diff_abs": 584.0,
+    "diff_pct": 46.76
+  },
+  {
+    "ean": "7790070035981",
+    "nombre": "milan.soja gr.sol x330gr.espin",
+    "categoria": "Congelados",
+    "precio_antes": 3359.0,
+    "precio_hoy": 4903.0,
+    "diff_abs": 1544.0,
+    "diff_pct": 45.97
+  },
+  {
+    "ean": "7790070035998",
+    "nombre": "milanesas de soja granja del sol x 330 gr. calabaz",
+    "categoria": "Congelados",
+    "precio_antes": 3359.0,
+    "precio_hoy": 4903.0,
+    "diff_abs": 1544.0,
+    "diff_pct": 45.97
+  },
+  {
+    "ean": "7790040143005",
+    "nombre": "gall.media tarde sand.x321gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1279.0,
+    "precio_hoy": 1862.0,
+    "diff_abs": 583.0,
+    "diff_pct": 45.58
+  },
+  {
+    "ean": "7797906054833",
+    "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 5989.0,
+    "precio_hoy": 8555.0,
+    "diff_abs": 2566.0,
+    "diff_pct": 42.85
+  },
+  {
+    "ean": "7797906054826",
+    "nombre": "papas fritas mc cain clasicas x 700 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 5639.0,
+    "precio_hoy": 8048.0,
+    "diff_abs": 2409.0,
+    "diff_pct": 42.72
+  },
+  {
+    "ean": "7791728248265",
+    "nombre": "vino santa julia x 750 ml. tinto dulce",
+    "categoria": "Bebidas",
+    "precio_antes": 4999.0,
+    "precio_hoy": 7133.0,
+    "diff_abs": 2134.0,
+    "diff_pct": 42.69
+  },
+  {
+    "ean": "7794000008274",
+    "nombre": "caldo de verduras knorr cero sodio x 12 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 2509.0,
+    "precio_hoy": 3569.0,
+    "diff_abs": 1060.0,
+    "diff_pct": 42.25
+  },
+  {
+    "ean": "7794000008526",
+    "nombre": "caldo knorr balance sabor gallina-verdura x 12 uni",
+    "categoria": "Almacen",
+    "precio_antes": 2259.0,
+    "precio_hoy": 3211.0,
+    "diff_abs": 952.0,
+    "diff_pct": 42.14
+  },
+  {
+    "ean": "7794000008519",
+    "nombre": "caldo de verduras knorr balance x 12 cubos",
+    "categoria": "Almacen",
+    "precio_antes": 2299.0,
+    "precio_hoy": 3211.0,
+    "diff_abs": 912.0,
+    "diff_pct": 39.67
+  },
+  {
+    "ean": "7799155000135",
+    "nombre": "agua mineral villa del sur x 6,2 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 4129.0,
+    "precio_hoy": 5712.0,
+    "diff_abs": 1583.0,
+    "diff_pct": 38.34
   }
 ]
