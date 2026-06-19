@@ -45,15 +45,6 @@
     "diff_pct": 53.81
   },
   {
-    "ean": "7792798008858",
-    "nombre": "cerveza temple wolf ipa x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3079.0,
-    "precio_hoy": 4725.0,
-    "diff_abs": 1646.0,
-    "diff_pct": 53.46
-  },
-  {
     "ean": "7791866000572",
     "nombre": "mayonesa cada dia liviana x 500 gr.",
     "categoria": "Almacen",
@@ -108,24 +99,6 @@
     "diff_pct": 50.13
   },
   {
-    "ean": "7790670050674",
-    "nombre": "hamburguesas paty x 2 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 3109.0,
-    "precio_hoy": 4662.0,
-    "diff_abs": 1553.0,
-    "diff_pct": 49.95
-  },
-  {
-    "ean": "7790070040046",
-    "nombre": "pizza sibarita mozzarella y jamon x 530 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 11665.01,
-    "precio_hoy": 17456.0,
-    "diff_abs": 5790.99,
-    "diff_pct": 49.64
-  },
-  {
     "ean": "7320026",
     "nombre": "ensaladera acril plast",
     "categoria": "Limpieza",
@@ -178,5 +151,32 @@
     "precio_hoy": 2613.0,
     "diff_abs": 814.0,
     "diff_pct": 45.25
+  },
+  {
+    "ean": "7790936000405",
+    "nombre": "salero tresal x100gr.fina ligh",
+    "categoria": "Almacen",
+    "precio_antes": 1569.0,
+    "precio_hoy": 2273.0,
+    "diff_abs": 704.0,
+    "diff_pct": 44.87
+  },
+  {
+    "ean": "7790936000146",
+    "nombre": "sal fina light tresal salero x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5149.0,
+    "precio_hoy": 7447.0,
+    "diff_abs": 2298.0,
+    "diff_pct": 44.63
+  },
+  {
+    "ean": "7790936000399",
+    "nombre": "sal fina light tresal x 250 gr salero",
+    "categoria": "Almacen",
+    "precio_antes": 3019.0,
+    "precio_hoy": 4360.0,
+    "diff_abs": 1341.0,
+    "diff_pct": 44.42
   }
 ]

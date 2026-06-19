@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790936000436",
-    "nombre": "sal tresal x500gr.fina ligh es",
-    "categoria": "Almacen",
-    "precio_antes": 1999.0,
-    "precio_hoy": 6197.0,
-    "diff_abs": 4198.0,
-    "diff_pct": 210.01
+    "ean": "2020920000001",
+    "nombre": "lechuga mantecosa x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
   },
   {
-    "ean": "7790936000139",
-    "nombre": "sal fina tresal salero x 250 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1399.0,
-    "precio_hoy": 2215.0,
-    "diff_abs": 816.0,
-    "diff_pct": 58.33
+    "ean": "2020960000009",
+    "nombre": "lechuga repollada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
   },
   {
-    "ean": "7791866000558",
-    "nombre": "mayonesa cada dia liviana x 250 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 599.0,
-    "precio_hoy": 943.0,
-    "diff_abs": 344.0,
-    "diff_pct": 57.43
+    "ean": "2021140000000",
+    "nombre": "mandarina nova x kilo",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1290.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 200.0,
+    "diff_pct": 15.5
   },
   {
-    "ean": "7791866000664",
-    "nombre": "ketchup natura x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2413.96,
-    "precio_hoy": 3745.0,
-    "diff_abs": 1331.04,
-    "diff_pct": 55.14
+    "ean": "2700001617969",
+    "nombre": "repasador",
+    "categoria": "Limpieza",
+    "precio_antes": 1914.0,
+    "precio_hoy": 2095.0,
+    "diff_abs": 181.0,
+    "diff_pct": 9.46
   },
   {
-    "ean": "7791866000572",
-    "nombre": "mayonesa cada dia liviana x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1199.0,
-    "precio_hoy": 1831.0,
-    "diff_abs": 632.0,
-    "diff_pct": 52.71
+    "ean": "7798105226731",
+    "nombre": "toalla bouquet aamrilla x 45 x 90 cm",
+    "categoria": "Limpieza",
+    "precio_antes": 6642.9,
+    "precio_hoy": 6904.0,
+    "diff_abs": 261.1,
+    "diff_pct": 3.93
   },
   {
-    "ean": "7790936000115",
-    "nombre": "sal entrefina tresal salero x 750 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2539.0,
-    "precio_hoy": 3838.0,
-    "diff_abs": 1299.0,
-    "diff_pct": 51.16
+    "ean": "7798105224386",
+    "nombre": "toalla bouquet",
+    "categoria": "Limpieza",
+    "precio_antes": 6642.9,
+    "precio_hoy": 6904.0,
+    "diff_abs": 261.1,
+    "diff_pct": 3.93
   },
   {
-    "ean": "7790670050674",
-    "nombre": "hamburguesas paty x 2 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 3109.0,
-    "precio_hoy": 4662.0,
-    "diff_abs": 1553.0,
-    "diff_pct": 49.95
+    "ean": "7790742324108",
+    "nombre": "queso unt finalndia mas liviano x 290 gr sin sal",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5019.0,
+    "precio_hoy": 5019.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790070040046",
-    "nombre": "pizza sibarita mozzarella y jamon x 530 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 11665.01,
-    "precio_hoy": 17456.0,
-    "diff_abs": 5790.99,
-    "diff_pct": 49.64
+    "ean": "2017380000009",
+    "nombre": "queso tybo descremado la paulina x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 17553.0,
+    "precio_hoy": 17553.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790040144095",
-    "nombre": "gall.traviatas x540gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1899.0,
-    "precio_hoy": 2790.0,
-    "diff_abs": 891.0,
-    "diff_pct": 46.92
+    "ean": "2010620000005",
+    "nombre": "queso tremblay por salut light x kilo",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 14449.0,
+    "precio_hoy": 14449.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790040144088",
-    "nombre": "gall.traviatas 3x118gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1249.0,
-    "precio_hoy": 1833.0,
-    "diff_abs": 584.0,
-    "diff_pct": 46.76
+    "ean": "7793913001013",
+    "nombre": "queso tregar mascarpone x 200 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3663.0,
+    "precio_hoy": 3663.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790070035981",
-    "nombre": "milan.soja gr.sol x330gr.espin",
-    "categoria": "Congelados",
-    "precio_antes": 3359.0,
-    "precio_hoy": 4903.0,
-    "diff_abs": 1544.0,
-    "diff_pct": 45.97
+    "ean": "2010680000007",
+    "nombre": "queso sardo tremblay x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 26428.0,
+    "precio_hoy": 26428.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790070035998",
-    "nombre": "milanesas de soja granja del sol x 330 gr. calabaz",
-    "categoria": "Congelados",
-    "precio_antes": 3359.0,
-    "precio_hoy": 4903.0,
-    "diff_abs": 1544.0,
-    "diff_pct": 45.97
+    "ean": "2024350000006",
+    "nombre": "queso sardo tremblay trozado x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 31901.0,
+    "precio_hoy": 31901.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790040143005",
-    "nombre": "gall.media tarde sand.x321gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1279.0,
-    "precio_hoy": 1862.0,
-    "diff_abs": 583.0,
-    "diff_pct": 45.58
+    "ean": "2011010000001",
+    "nombre": "queso sardo rosalat x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 23536.0,
+    "precio_hoy": 23536.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7797906054833",
-    "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 5989.0,
-    "precio_hoy": 8555.0,
-    "diff_abs": 2566.0,
-    "diff_pct": 42.85
+    "ean": "7794990000012",
+    "nombre": "queso untable la paulina port salut light x 190 g.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2367.0,
+    "precio_hoy": 2367.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7797906054826",
-    "nombre": "papas fritas mc cain clasicas x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 5639.0,
-    "precio_hoy": 8048.0,
-    "diff_abs": 2409.0,
-    "diff_pct": 42.72
+    "ean": "7794990878925",
+    "nombre": "queso untable la paulina jamon x 190 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2367.0,
+    "precio_hoy": 2367.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791728248265",
-    "nombre": "vino santa julia x 750 ml. tinto dulce",
-    "categoria": "Bebidas",
-    "precio_antes": 4999.0,
-    "precio_hoy": 7133.0,
-    "diff_abs": 2134.0,
-    "diff_pct": 42.69
+    "ean": "7794990878871",
+    "nombre": "queso untable la paulina fontina x 190 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2367.0,
+    "precio_hoy": 2367.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7794000008274",
-    "nombre": "caldo de verduras knorr cero sodio x 12 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 2509.0,
-    "precio_hoy": 3569.0,
-    "diff_abs": 1060.0,
-    "diff_pct": 42.25
+    "ean": "7794990878932",
+    "nombre": "queso untable la paulina clasico x 190 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2367.0,
+    "precio_hoy": 2367.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7794000008526",
-    "nombre": "caldo knorr balance sabor gallina-verdura x 12 uni",
-    "categoria": "Almacen",
-    "precio_antes": 2259.0,
-    "precio_hoy": 3211.0,
-    "diff_abs": 952.0,
-    "diff_pct": 42.14
+    "ean": "7794990879526",
+    "nombre": "queso untable la paulina cheddar x 190 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2367.0,
+    "precio_hoy": 2367.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7794000008519",
-    "nombre": "caldo de verduras knorr balance x 12 cubos",
-    "categoria": "Almacen",
-    "precio_antes": 2299.0,
-    "precio_hoy": 3211.0,
-    "diff_abs": 912.0,
-    "diff_pct": 39.67
+    "ean": "7794990878888",
+    "nombre": "queso untable la paulina azul x 190 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2367.0,
+    "precio_hoy": 2367.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7799155000135",
-    "nombre": "agua mineral villa del sur x 6,2 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 4129.0,
-    "precio_hoy": 5712.0,
-    "diff_abs": 1583.0,
-    "diff_pct": 38.34
+    "ean": "7794990879823",
+    "nombre": "queso untable la paulina 4 quesos x 190 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2367.0,
+    "precio_hoy": 2367.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]

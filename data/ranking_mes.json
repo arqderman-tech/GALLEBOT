@@ -27,15 +27,6 @@
     "diff_pct": 67.55
   },
   {
-    "ean": "7790703205095",
-    "nombre": "vino don valentin lacrado cabernet x 750 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 3747.0,
-    "precio_hoy": 6228.0,
-    "diff_abs": 2481.0,
-    "diff_pct": 66.21
-  },
-  {
     "ean": "7790703205101",
     "nombre": "vino blanco don valentin lacrado torrontes x 750 .",
     "categoria": "Bebidas",
@@ -54,6 +45,15 @@
     "diff_pct": 66.21
   },
   {
+    "ean": "7790703205095",
+    "nombre": "vino don valentin lacrado cabernet x 750 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 3747.0,
+    "precio_hoy": 6228.0,
+    "diff_abs": 2481.0,
+    "diff_pct": 66.21
+  },
+  {
     "ean": "2020350000008",
     "nombre": "chaucha ballina x kg.",
     "categoria": "Frutas Y Verduras",
@@ -61,15 +61,6 @@
     "precio_hoy": 7990.0,
     "diff_abs": 3000.0,
     "diff_pct": 60.12
-  },
-  {
-    "ean": "7790070040046",
-    "nombre": "pizza sibarita mozzarella y jamon x 530 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 10999.0,
-    "precio_hoy": 17456.0,
-    "diff_abs": 6457.0,
-    "diff_pct": 58.71
   },
   {
     "ean": "7793147574130",
@@ -108,8 +99,8 @@
     "diff_pct": 55.7
   },
   {
-    "ean": "7793147572723",
-    "nombre": "cerveza imperial roja lata x 473 ml",
+    "ean": "7793147571160",
+    "nombre": "cerveza imperial lata x 473 ml apa",
     "categoria": "Bebidas",
     "precio_antes": 2119.0,
     "precio_hoy": 3295.0,
@@ -126,8 +117,8 @@
     "diff_pct": 55.5
   },
   {
-    "ean": "7793147571160",
-    "nombre": "cerveza imperial lata x 473 ml apa",
+    "ean": "7793147570743",
+    "nombre": "cerveza imperial ipa x 473 ml.",
     "categoria": "Bebidas",
     "precio_antes": 2119.0,
     "precio_hoy": 3295.0,
@@ -135,8 +126,8 @@
     "diff_pct": 55.5
   },
   {
-    "ean": "7793147570743",
-    "nombre": "cerveza imperial ipa x 473 ml.",
+    "ean": "7793147572723",
+    "nombre": "cerveza imperial roja lata x 473 ml",
     "categoria": "Bebidas",
     "precio_antes": 2119.0,
     "precio_hoy": 3295.0,
@@ -162,15 +153,6 @@
     "diff_pct": 55.29
   },
   {
-    "ean": "7794000008274",
-    "nombre": "caldo de verduras knorr cero sodio x 12 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 2299.0,
-    "precio_hoy": 3569.0,
-    "diff_abs": 1270.0,
-    "diff_pct": 55.24
-  },
-  {
     "ean": "7793147000752",
     "nombre": "cerveza imperial lata x 473 ml",
     "categoria": "Bebidas",
@@ -178,5 +160,23 @@
     "precio_hoy": 2745.0,
     "diff_abs": 976.0,
     "diff_pct": 55.17
+  },
+  {
+    "ean": "2016340000004",
+    "nombre": "dulce de batata dulcor lata x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3687.82,
+    "precio_hoy": 5664.0,
+    "diff_abs": 1976.18,
+    "diff_pct": 53.59
+  },
+  {
+    "ean": "2016320000000",
+    "nombre": "batata con chocolate dulcor x kg lata x kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3687.82,
+    "precio_hoy": 5664.0,
+    "diff_abs": 1976.18,
+    "diff_pct": 53.59
   }
 ]
