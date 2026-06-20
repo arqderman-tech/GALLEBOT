@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2020920000001",
-    "nombre": "lechuga mantecosa x kg.",
+    "ean": "2020300000003",
+    "nombre": "cebolla de verdeo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 40.08
+  },
+  {
+    "ean": "2030920000000",
+    "nombre": "puerro x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
+    "precio_hoy": 7990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 33.39
   },
   {
-    "ean": "2020960000009",
-    "nombre": "lechuga repollada x kg.",
+    "ean": "2020350000008",
+    "nombre": "chaucha ballina x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
+    "precio_antes": 7990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 25.03
   },
   {
-    "ean": "2021140000000",
-    "nombre": "mandarina nova x kilo",
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1290.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 200.0,
-    "diff_pct": 15.5
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
   },
   {
-    "ean": "2700001617969",
-    "nombre": "repasador",
+    "ean": "7790119010931",
+    "nombre": "sidra 1888 saenz briones x 473 ml. rose",
+    "categoria": "Bebidas",
+    "precio_antes": 4150.0,
+    "precio_hoy": 4850.0,
+    "diff_abs": 700.0,
+    "diff_pct": 16.87
+  },
+  {
+    "ean": "7790119010917",
+    "nombre": "sidra 1888 saenz briones x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3800.0,
+    "precio_hoy": 4400.0,
+    "diff_abs": 600.0,
+    "diff_pct": 15.79
+  },
+  {
+    "ean": "7791971000016",
+    "nombre": "tapas para empanadas mil hojas para horno x 12 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1680.0,
+    "precio_hoy": 1943.0,
+    "diff_abs": 263.0,
+    "diff_pct": 15.65
+  },
+  {
+    "ean": "7791971000054",
+    "nombre": "tapas para pascualina mil hojas con hojaldre x 380",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1893.0,
+    "precio_hoy": 2188.0,
+    "diff_abs": 295.0,
+    "diff_pct": 15.58
+  },
+  {
+    "ean": "7791971000092",
+    "nombre": "pascualina mil hojas doble hojaldre x 390 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1893.0,
+    "precio_hoy": 2188.0,
+    "diff_abs": 295.0,
+    "diff_pct": 15.58
+  },
+  {
+    "ean": "7792281955157",
+    "nombre": "bowl ceramica 15 cm gris oscuro mas beige",
     "categoria": "Limpieza",
-    "precio_antes": 1914.0,
-    "precio_hoy": 2095.0,
-    "diff_abs": 181.0,
-    "diff_pct": 9.46
+    "precio_antes": 9982.6,
+    "precio_hoy": 11364.0,
+    "diff_abs": 1381.4,
+    "diff_pct": 13.84
   },
   {
-    "ean": "7798105226731",
-    "nombre": "toalla bouquet aamrilla x 45 x 90 cm",
+    "ean": "7792281950602",
+    "nombre": "bowl ceramica 10 cm gris claro mas beige",
     "categoria": "Limpieza",
-    "precio_antes": 6642.9,
-    "precio_hoy": 6904.0,
-    "diff_abs": 261.1,
-    "diff_pct": 3.93
+    "precio_antes": 5358.97,
+    "precio_hoy": 6100.0,
+    "diff_abs": 741.03,
+    "diff_pct": 13.83
   },
   {
-    "ean": "7798105224386",
-    "nombre": "toalla bouquet",
+    "ean": "7792281955102",
+    "nombre": "bowl ceramica 10 cm gris oscuro mas beige",
     "categoria": "Limpieza",
-    "precio_antes": 6642.9,
-    "precio_hoy": 6904.0,
-    "diff_abs": 261.1,
-    "diff_pct": 3.93
+    "precio_antes": 5358.97,
+    "precio_hoy": 6100.0,
+    "diff_abs": 741.03,
+    "diff_pct": 13.83
   },
   {
-    "ean": "7790742324108",
-    "nombre": "queso unt finalndia mas liviano x 290 gr sin sal",
+    "ean": "7793913013511",
+    "nombre": "queso rallado tregar x120gr.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5019.0,
-    "precio_hoy": 5019.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 4447.0,
+    "precio_hoy": 5012.0,
+    "diff_abs": 565.0,
+    "diff_pct": 12.71
   },
   {
-    "ean": "2017380000009",
-    "nombre": "queso tybo descremado la paulina x kg.",
+    "ean": "7793913000139",
+    "nombre": "queso rallado tregar x 40 gr.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 17553.0,
-    "precio_hoy": 17553.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 1319.0,
+    "precio_hoy": 1486.45,
+    "diff_abs": 167.45,
+    "diff_pct": 12.7
   },
   {
-    "ean": "2010620000005",
-    "nombre": "queso tremblay por salut light x kilo",
+    "ean": "7791971000122",
+    "nombre": "tapa para empanadas doble hojaldre mil hojas x 12 unidades",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 14449.0,
-    "precio_hoy": 14449.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 1942.0,
+    "precio_hoy": 2188.0,
+    "diff_abs": 246.0,
+    "diff_pct": 12.67
   },
   {
-    "ean": "7793913001013",
-    "nombre": "queso tregar mascarpone x 200 gr.",
+    "ean": "2011610000005",
+    "nombre": "queso reggianito canut x kg.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3663.0,
-    "precio_hoy": 3663.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 28888.0,
+    "precio_hoy": 31371.0,
+    "diff_abs": 2483.0,
+    "diff_pct": 8.6
   },
   {
-    "ean": "2010680000007",
-    "nombre": "queso sardo tremblay x kg.",
+    "ean": "2011640000006",
+    "nombre": "queso sardo canut x kg.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 26428.0,
-    "precio_hoy": 26428.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 28598.0,
+    "precio_hoy": 31057.0,
+    "diff_abs": 2459.0,
+    "diff_pct": 8.6
   },
   {
-    "ean": "2024350000006",
-    "nombre": "queso sardo tremblay trozado x kg.",
+    "ean": "2011450000005",
+    "nombre": "queso gruyere canut x kg.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 31901.0,
-    "precio_hoy": 31901.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 33548.0,
+    "precio_hoy": 36433.0,
+    "diff_abs": 2885.0,
+    "diff_pct": 8.6
   },
   {
-    "ean": "2011010000001",
-    "nombre": "queso sardo rosalat x kg.",
+    "ean": "2011370000000",
+    "nombre": "queso cremoso canut x kg.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 23536.0,
-    "precio_hoy": 23536.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 14873.0,
+    "precio_hoy": 16152.0,
+    "diff_abs": 1279.0,
+    "diff_pct": 8.6
   },
   {
-    "ean": "7794990000012",
-    "nombre": "queso untable la paulina port salut light x 190 g.",
+    "ean": "2011550000004",
+    "nombre": "queso pimentino ahumado canut x kg.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2367.0,
-    "precio_hoy": 2367.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7794990878925",
-    "nombre": "queso untable la paulina jamon x 190 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2367.0,
-    "precio_hoy": 2367.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7794990878871",
-    "nombre": "queso untable la paulina fontina x 190 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2367.0,
-    "precio_hoy": 2367.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7794990878932",
-    "nombre": "queso untable la paulina clasico x 190 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2367.0,
-    "precio_hoy": 2367.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7794990879526",
-    "nombre": "queso untable la paulina cheddar x 190 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2367.0,
-    "precio_hoy": 2367.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7794990878888",
-    "nombre": "queso untable la paulina azul x 190 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2367.0,
-    "precio_hoy": 2367.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7794990879823",
-    "nombre": "queso untable la paulina 4 quesos x 190 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2367.0,
-    "precio_hoy": 2367.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 28128.0,
+    "precio_hoy": 30546.0,
+    "diff_abs": 2418.0,
+    "diff_pct": 8.6
   }
 ]

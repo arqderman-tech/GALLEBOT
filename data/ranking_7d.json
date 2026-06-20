@@ -81,15 +81,6 @@
     "diff_pct": 50.47
   },
   {
-    "ean": "2030920000000",
-    "nombre": "puerro x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
-  },
-  {
     "ean": "2021020000007",
     "nombre": "hinojo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -97,15 +88,6 @@
     "precio_hoy": 5990.0,
     "diff_abs": 2000.0,
     "diff_pct": 50.13
-  },
-  {
-    "ean": "7320026",
-    "nombre": "ensaladera acril plast",
-    "categoria": "Limpieza",
-    "precio_antes": 4780.0,
-    "precio_hoy": 7071.0,
-    "diff_abs": 2291.0,
-    "diff_pct": 47.93
   },
   {
     "ean": "7790040144095",
@@ -178,5 +160,23 @@
     "precio_hoy": 4360.0,
     "diff_abs": 1341.0,
     "diff_pct": 44.42
+  },
+  {
+    "ean": "7797906054833",
+    "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 5989.0,
+    "precio_hoy": 8555.0,
+    "diff_abs": 2566.0,
+    "diff_pct": 42.85
+  },
+  {
+    "ean": "7797906054826",
+    "nombre": "papas fritas mc cain clasicas x 700 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 5639.0,
+    "precio_hoy": 8048.0,
+    "diff_abs": 2409.0,
+    "diff_pct": 42.72
   }
 ]

@@ -1,147 +1,147 @@
 {
-  "fecha": "20260619",
-  "total_productos": 5929,
-  "variacion_dia": -0.56,
-  "variacion_7d": 0.04,
-  "variacion_mes": -0.1,
+  "fecha": "20260620",
+  "total_productos": 5859,
+  "variacion_dia": 0.01,
+  "variacion_7d": -0.08,
+  "variacion_mes": 0.24,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.33,
-      "productos_subieron": 0,
-      "productos_bajaron": 19,
-      "total_productos": 1324
+      "variacion_pct_promedio": 0.05,
+      "productos_subieron": 8,
+      "productos_bajaron": 0,
+      "total_productos": 1316
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.04,
-      "productos_subieron": 3,
-      "productos_bajaron": 6,
-      "total_productos": 1111
+      "variacion_pct_promedio": 0.43,
+      "productos_subieron": 65,
+      "productos_bajaron": 11,
+      "total_productos": 1087
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -2.39,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 40,
-      "total_productos": 218
+      "productos_bajaron": 0,
+      "total_productos": 217
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.02,
+      "variacion_pct_promedio": 0.03,
       "productos_subieron": 3,
-      "productos_bajaron": 0,
-      "total_productos": 823
+      "productos_bajaron": 2,
+      "total_productos": 827
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.4,
+      "variacion_pct_promedio": -0.43,
       "productos_subieron": 0,
-      "productos_bajaron": 24,
-      "total_productos": 806
+      "productos_bajaron": 17,
+      "total_productos": 808
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -1.22,
-      "productos_subieron": 0,
-      "productos_bajaron": 123,
-      "total_productos": 1612
+      "variacion_pct_promedio": -0.11,
+      "productos_subieron": 1,
+      "productos_bajaron": 23,
+      "total_productos": 1603
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790070417572",
-      "nombre": "oblea de arroz gallo x 6 unid.",
-      "categoria": "Almacen",
-      "precio_antes": 7428.0,
-      "precio_hoy": 4729.0,
-      "diff_abs": -2699.0,
-      "diff_pct": -36.34
-    },
-    {
-      "ean": "7790070431899",
-      "nombre": "oblea de arroz chocobar x 6 unid.",
-      "categoria": "Almacen",
-      "precio_antes": 7426.0,
-      "precio_hoy": 4729.0,
-      "diff_abs": -2697.0,
-      "diff_pct": -36.32
-    },
-    {
-      "ean": "7790070418401",
-      "nombre": "gall.gallo x100gr.crackeadas",
-      "categoria": "Almacen",
-      "precio_antes": 2731.0,
-      "precio_hoy": 1739.0,
-      "diff_abs": -992.0,
-      "diff_pct": -36.32
-    },
-    {
-      "ean": "7790070431929",
-      "nombre": "oblea yogubar gallo 6x20gr.",
+      "ean": "7792280005716",
+      "nombre": "yerba mate cachamate mezcla de hierbas x 1 kg.",
       "categoria": "Perfumeria",
-      "precio_antes": 7434.0,
-      "precio_hoy": 4739.0,
-      "diff_abs": -2695.0,
-      "diff_pct": -36.25
+      "precio_antes": 3720.0,
+      "precio_hoy": 2789.0,
+      "diff_abs": -931.0,
+      "diff_pct": -25.03
     },
     {
-      "ean": "7790070431448",
-      "nombre": "arroz gallo largo fino x1kg.bolsa",
-      "categoria": "Almacen",
-      "precio_antes": 3249.0,
-      "precio_hoy": 2097.5,
-      "diff_abs": -1151.5,
-      "diff_pct": -35.44
-    },
-    {
-      "ean": "7790070433091",
-      "nombre": "arroz gallo oro x1kg.parb.est.",
-      "categoria": "Almacen",
-      "precio_antes": 4412.0,
-      "precio_hoy": 2863.75,
-      "diff_abs": -1548.25,
-      "diff_pct": -35.09
-    },
-    {
-      "ean": "7790070418463",
-      "nombre": "bizcochos salados de arroz gallo x 100 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2761.0,
-      "precio_hoy": 1829.0,
-      "diff_abs": -932.0,
-      "diff_pct": -33.76
-    },
-    {
-      "ean": "7790070418425",
-      "nombre": "bizcochos dulces de arroz gallo x 100 gr.",
+      "ean": "7792280005709",
+      "nombre": "yerba mate cachamate mezcla de hierbas x 1 kg.",
       "categoria": "Perfumeria",
-      "precio_antes": 2761.0,
-      "precio_hoy": 1829.0,
-      "diff_abs": -932.0,
-      "diff_pct": -33.76
+      "precio_antes": 3720.0,
+      "precio_hoy": 2789.0,
+      "diff_abs": -931.0,
+      "diff_pct": -25.03
     },
     {
-      "ean": "7790070418449",
-      "nombre": "bizcochos de arroz gallo tortita negra x 100 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2761.0,
-      "precio_hoy": 1829.0,
-      "diff_abs": -932.0,
-      "diff_pct": -33.76
+      "ean": "7792280000094",
+      "nombre": "yerba mate cachamate x 500 gr. hierbas pampeanas",
+      "categoria": "Perfumeria",
+      "precio_antes": 2225.0,
+      "precio_hoy": 1669.0,
+      "diff_abs": -556.0,
+      "diff_pct": -24.99
     },
     {
-      "ean": "7790070418302",
-      "nombre": "alfajor chocoarroz blanco x 6 unid.",
-      "categoria": "Almacen",
-      "precio_antes": 7163.0,
-      "precio_hoy": 4749.0,
-      "diff_abs": -2414.0,
-      "diff_pct": -33.7
+      "ean": "7792280000605",
+      "nombre": "yerba mate cachamate x 500 gr. hierbas del litoral",
+      "categoria": "Perfumeria",
+      "precio_antes": 2225.0,
+      "precio_hoy": 1669.0,
+      "diff_abs": -556.0,
+      "diff_pct": -24.99
+    },
+    {
+      "ean": "7792280002906",
+      "nombre": "yerba cachamate seleccion x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2158.0,
+      "precio_hoy": 1619.0,
+      "diff_abs": -539.0,
+      "diff_pct": -24.98
+    },
+    {
+      "ean": "7792280000285",
+      "nombre": "yerba mate cachamate suave x 500 gr. naranja",
+      "categoria": "Perfumeria",
+      "precio_antes": 2224.0,
+      "precio_hoy": 1669.0,
+      "diff_abs": -555.0,
+      "diff_pct": -24.96
+    },
+    {
+      "ean": "7792280000612",
+      "nombre": "yerba mate cachamate x 500 gr. hierbas cuyanas",
+      "categoria": "Perfumeria",
+      "precio_antes": 2024.0,
+      "precio_hoy": 1519.0,
+      "diff_abs": -505.0,
+      "diff_pct": -24.95
+    },
+    {
+      "ean": "7792280005730",
+      "nombre": "yerba mate cachamate hierbas serranas x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2024.0,
+      "precio_hoy": 1519.0,
+      "diff_abs": -505.0,
+      "diff_pct": -24.95
+    },
+    {
+      "ean": "7792280005686",
+      "nombre": "yerba cachamate x 500 gm hierbas digestivas",
+      "categoria": "Perfumeria",
+      "precio_antes": 2024.0,
+      "precio_hoy": 1519.0,
+      "diff_abs": -505.0,
+      "diff_pct": -24.95
+    },
+    {
+      "ean": "7792280005693",
+      "nombre": "yerba cachamate x500.rosa",
+      "categoria": "Perfumeria",
+      "precio_antes": 2024.0,
+      "precio_hoy": 1519.0,
+      "diff_abs": -505.0,
+      "diff_pct": -24.95
     }
   ],
-  "productos_subieron_dia": 6,
-  "productos_bajaron_dia": 212,
-  "productos_sin_cambio_dia": 5676
+  "productos_subieron_dia": 77,
+  "productos_bajaron_dia": 53,
+  "productos_sin_cambio_dia": 5728
 }
