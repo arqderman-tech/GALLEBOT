@@ -36,8 +36,8 @@
     "diff_pct": 67.55
   },
   {
-    "ean": "7790703205064",
-    "nombre": "vino don valentin lacr.rob.mal",
+    "ean": "7790703205101",
+    "nombre": "vino blanco don valentin lacrado torrontes x 750 .",
     "categoria": "Bebidas",
     "precio_antes": 3747.0,
     "precio_hoy": 6228.0,
@@ -45,8 +45,8 @@
     "diff_pct": 66.21
   },
   {
-    "ean": "7790703205101",
-    "nombre": "vino blanco don valentin lacrado torrontes x 750 .",
+    "ean": "7790703205064",
+    "nombre": "vino don valentin lacr.rob.mal",
     "categoria": "Bebidas",
     "precio_antes": 3747.0,
     "precio_hoy": 6228.0,
@@ -144,8 +144,8 @@
     "diff_pct": 55.5
   },
   {
-    "ean": "7793147572723",
-    "nombre": "cerveza imperial roja lata x 473 ml",
+    "ean": "7793147571160",
+    "nombre": "cerveza imperial lata x 473 ml apa",
     "categoria": "Bebidas",
     "precio_antes": 2119.0,
     "precio_hoy": 3295.0,
@@ -153,8 +153,8 @@
     "diff_pct": 55.5
   },
   {
-    "ean": "7793147571160",
-    "nombre": "cerveza imperial lata x 473 ml apa",
+    "ean": "7793147572723",
+    "nombre": "cerveza imperial roja lata x 473 ml",
     "categoria": "Bebidas",
     "precio_antes": 2119.0,
     "precio_hoy": 3295.0,

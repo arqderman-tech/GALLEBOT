@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2020300000003",
-    "nombre": "cebolla de verdeo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 40.08
+    "ean": "7790310985830",
+    "nombre": "3ds queso x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3649.0,
+    "precio_hoy": 3649.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2030920000000",
-    "nombre": "puerro x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 33.39
+    "ean": "7790310985137",
+    "nombre": "3ds queso x143gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5118.0,
+    "precio_hoy": 5118.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2020350000008",
-    "nombre": "chaucha ballina x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 25.03
+    "ean": "7790310985113",
+    "nombre": "3ds sabor queso x 43 gm",
+    "categoria": "Almacen",
+    "precio_antes": 2271.0,
+    "precio_hoy": 2271.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
+    "ean": "7791728246629",
+    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
+    "categoria": "Almacen",
+    "precio_antes": 24261.0,
+    "precio_hoy": 24261.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790119010931",
-    "nombre": "sidra 1888 saenz briones x 473 ml. rose",
-    "categoria": "Bebidas",
-    "precio_antes": 4150.0,
-    "precio_hoy": 4850.0,
-    "diff_abs": 700.0,
-    "diff_pct": 16.87
+    "ean": "763571722428",
+    "nombre": "ac.de coco entrenuts x200virg.",
+    "categoria": "Almacen",
+    "precio_antes": 9649.0,
+    "precio_hoy": 9649.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790119010917",
-    "nombre": "sidra 1888 saenz briones x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3800.0,
-    "precio_hoy": 4400.0,
-    "diff_abs": 600.0,
-    "diff_pct": 15.79
+    "ean": "7798080520657",
+    "nombre": "ac.ol.l.toscana x250ml.ajo",
+    "categoria": "Almacen",
+    "precio_antes": 9903.0,
+    "precio_hoy": 9903.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791971000016",
-    "nombre": "tapas para empanadas mil hojas para horno x 12 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1680.0,
-    "precio_hoy": 1943.0,
-    "diff_abs": 263.0,
-    "diff_pct": 15.65
+    "ean": "7798080520534",
+    "nombre": "ac.ol.l.toscana x250ml.albahac",
+    "categoria": "Almacen",
+    "precio_antes": 9903.0,
+    "precio_hoy": 9903.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791971000054",
-    "nombre": "tapas para pascualina mil hojas con hojaldre x 380",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1893.0,
-    "precio_hoy": 2188.0,
-    "diff_abs": 295.0,
-    "diff_pct": 15.58
+    "ean": "7791728246612",
+    "nombre": "ac.ol.zuccardi x250ml.coratina",
+    "categoria": "Almacen",
+    "precio_antes": 14152.0,
+    "precio_hoy": 14152.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791971000092",
-    "nombre": "pascualina mil hojas doble hojaldre x 390 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1893.0,
-    "precio_hoy": 2188.0,
-    "diff_abs": 295.0,
-    "diff_pct": 15.58
+    "ean": "7791728246575",
+    "nombre": "ac.ol.zuccardi x250ml.picual",
+    "categoria": "Almacen",
+    "precio_antes": 14152.0,
+    "precio_hoy": 14152.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281955157",
-    "nombre": "bowl ceramica 15 cm gris oscuro mas beige",
-    "categoria": "Limpieza",
-    "precio_antes": 9982.6,
-    "precio_hoy": 11364.0,
-    "diff_abs": 1381.4,
-    "diff_pct": 13.84
+    "ean": "7791728241181",
+    "nombre": "ac.ol.zuelo x500ml.bot.intenso",
+    "categoria": "Almacen",
+    "precio_antes": 18903.0,
+    "precio_hoy": 18903.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281950602",
-    "nombre": "bowl ceramica 10 cm gris claro mas beige",
-    "categoria": "Limpieza",
-    "precio_antes": 5358.97,
-    "precio_hoy": 6100.0,
-    "diff_abs": 741.03,
-    "diff_pct": 13.83
+    "ean": "41331014922",
+    "nombre": "acaitunas goya x 149 gm con pimiento picante",
+    "categoria": "Almacen",
+    "precio_antes": 9280.0,
+    "precio_hoy": 9280.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281955102",
-    "nombre": "bowl ceramica 10 cm gris oscuro mas beige",
-    "categoria": "Limpieza",
-    "precio_antes": 5358.97,
-    "precio_hoy": 6100.0,
-    "diff_abs": 741.03,
-    "diff_pct": 13.83
+    "ean": "7790070225023",
+    "nombre": "aceite cocinero mezcla x1.5lt.",
+    "categoria": "Almacen",
+    "precio_antes": 5489.0,
+    "precio_hoy": 5489.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7793913013511",
-    "nombre": "queso rallado tregar x120gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4447.0,
-    "precio_hoy": 5012.0,
-    "diff_abs": 565.0,
-    "diff_pct": 12.71
+    "ean": "7790070265142",
+    "nombre": "aceite cocinero puro de oliva x 500 ml",
+    "categoria": "Almacen",
+    "precio_antes": 10919.0,
+    "precio_hoy": 10919.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7793913000139",
-    "nombre": "queso rallado tregar x 40 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1319.0,
-    "precio_hoy": 1486.45,
-    "diff_abs": 167.45,
-    "diff_pct": 12.7
+    "ean": "7790070231598",
+    "nombre": "aceite cocinero x900 ml oliva y girasol",
+    "categoria": "Almacen",
+    "precio_antes": 5809.0,
+    "precio_hoy": 5809.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791971000122",
-    "nombre": "tapa para empanadas doble hojaldre mil hojas x 12 unidades",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1942.0,
-    "precio_hoy": 2188.0,
-    "diff_abs": 246.0,
-    "diff_pct": 12.67
+    "ean": "7790272006819",
+    "nombre": "aceite copisi x 900 ml. girasol y oliva",
+    "categoria": "Almacen",
+    "precio_antes": 6162.0,
+    "precio_hoy": 6162.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2011610000005",
-    "nombre": "queso reggianito canut x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 28888.0,
-    "precio_hoy": 31371.0,
-    "diff_abs": 2483.0,
-    "diff_pct": 8.6
+    "ean": "656750783931",
+    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 8902.0,
+    "precio_hoy": 8902.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2011640000006",
-    "nombre": "queso sardo canut x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 28598.0,
-    "precio_hoy": 31057.0,
-    "diff_abs": 2459.0,
-    "diff_pct": 8.6
+    "ean": "763571722435",
+    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 16512.0,
+    "precio_hoy": 16512.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2011450000005",
-    "nombre": "queso gruyere canut x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 33548.0,
-    "precio_hoy": 36433.0,
-    "diff_abs": 2885.0,
-    "diff_pct": 8.6
+    "ean": "7794870000040",
+    "nombre": "aceite de girasol alsamar x 5 lts.",
+    "categoria": "Almacen",
+    "precio_antes": 21090.0,
+    "precio_hoy": 21090.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2011370000000",
-    "nombre": "queso cremoso canut x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 14873.0,
-    "precio_hoy": 16152.0,
-    "diff_abs": 1279.0,
-    "diff_pct": 8.6
+    "ean": "7798316700907",
+    "nombre": "aceite de girasol alsamar x 900 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 3862.0,
+    "precio_hoy": 3862.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2011550000004",
-    "nombre": "queso pimentino ahumado canut x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 28128.0,
-    "precio_hoy": 30546.0,
-    "diff_abs": 2418.0,
-    "diff_pct": 8.6
+    "ean": "7790060023684",
+    "nombre": "aceite de girasol cocinero x 1,5 lt.",
+    "categoria": "Almacen",
+    "precio_antes": 6909.0,
+    "precio_hoy": 6909.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]
