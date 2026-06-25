@@ -9,15 +9,6 @@
     "diff_pct": 210.01
   },
   {
-    "ean": "2030920000000",
-    "nombre": "puerro x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 100.25
-  },
-  {
     "ean": "2020350000008",
     "nombre": "chaucha ballina x kg.",
     "categoria": "Frutas Y Verduras",
@@ -27,6 +18,33 @@
     "diff_pct": 100.2
   },
   {
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
+  },
+  {
+    "ean": "2030920000000",
+    "nombre": "puerro x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
+  },
+  {
+    "ean": "7791866000510",
+    "nombre": "mostaza natura x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1499.0,
+    "precio_hoy": 2513.0,
+    "diff_abs": 1014.0,
+    "diff_pct": 67.65
+  },
+  {
     "ean": "2031890000007",
     "nombre": "boga despinada envasada al vacio x kilo",
     "categoria": "Congelados",
@@ -34,15 +52,6 @@
     "precio_hoy": 32118.0,
     "diff_abs": 12949.0,
     "diff_pct": 67.55
-  },
-  {
-    "ean": "7790703205064",
-    "nombre": "vino don valentin lacr.rob.mal",
-    "categoria": "Bebidas",
-    "precio_antes": 3747.0,
-    "precio_hoy": 6228.0,
-    "diff_abs": 2481.0,
-    "diff_pct": 66.21
   },
   {
     "ean": "7790703205101",
@@ -63,6 +72,15 @@
     "diff_pct": 66.21
   },
   {
+    "ean": "7790703205064",
+    "nombre": "vino don valentin lacr.rob.mal",
+    "categoria": "Bebidas",
+    "precio_antes": 3747.0,
+    "precio_hoy": 6228.0,
+    "diff_abs": 2481.0,
+    "diff_pct": 66.21
+  },
+  {
     "ean": "7791866000664",
     "nombre": "ketchup natura x 500 gr.",
     "categoria": "Almacen",
@@ -70,6 +88,24 @@
     "precio_hoy": 3745.0,
     "diff_abs": 1446.0,
     "diff_pct": 62.9
+  },
+  {
+    "ean": "7791866004211",
+    "nombre": "mostaza natura x 250 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 799.0,
+    "precio_hoy": 1275.0,
+    "diff_abs": 476.0,
+    "diff_pct": 59.57
+  },
+  {
+    "ean": "7791866000381",
+    "nombre": "ketchup natura x 250 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1199.0,
+    "precio_hoy": 1904.0,
+    "diff_abs": 705.0,
+    "diff_pct": 58.8
   },
   {
     "ean": "7790936000139",
@@ -126,26 +162,8 @@
     "diff_pct": 55.7
   },
   {
-    "ean": "7793147001742",
-    "nombre": "cerveza imperial stout lata x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2119.0,
-    "precio_hoy": 3295.0,
-    "diff_abs": 1176.0,
-    "diff_pct": 55.5
-  },
-  {
     "ean": "7793147570743",
     "nombre": "cerveza imperial ipa x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2119.0,
-    "precio_hoy": 3295.0,
-    "diff_abs": 1176.0,
-    "diff_pct": 55.5
-  },
-  {
-    "ean": "7793147572723",
-    "nombre": "cerveza imperial roja lata x 473 ml",
     "categoria": "Bebidas",
     "precio_antes": 2119.0,
     "precio_hoy": 3295.0,
@@ -160,23 +178,5 @@
     "precio_hoy": 3295.0,
     "diff_abs": 1176.0,
     "diff_pct": 55.5
-  },
-  {
-    "ean": "7793147571689",
-    "nombre": "cerveza imperial golden x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1999.0,
-    "precio_hoy": 3105.0,
-    "diff_abs": 1106.0,
-    "diff_pct": 55.33
-  },
-  {
-    "ean": "7793147571412",
-    "nombre": "cerveza imperial x 710 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2579.0,
-    "precio_hoy": 4005.0,
-    "diff_abs": 1426.0,
-    "diff_pct": 55.29
   }
 ]

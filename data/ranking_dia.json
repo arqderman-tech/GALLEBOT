@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7798262020203",
-    "nombre": "pulpa de fruta manzanadurazno pouch x 110 gr",
+    "ean": "2022080000006",
+    "nombre": "rucula x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1590.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 900.0,
+    "diff_pct": 56.6
+  },
+  {
+    "ean": "2020570000000",
+    "nombre": "coliflor x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.13
+  },
+  {
+    "ean": "7797906000700",
+    "nombre": "papas mc cain tradicional x 400 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3549.0,
+    "precio_hoy": 5070.0,
+    "diff_abs": 1521.0,
+    "diff_pct": 42.86
+  },
+  {
+    "ean": "7797906054956",
+    "nombre": "papas congeladas mc cain smiles x 700 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 9439.0,
+    "precio_hoy": 13481.0,
+    "diff_abs": 4042.0,
+    "diff_pct": 42.82
+  },
+  {
+    "ean": "7792798008858",
+    "nombre": "cerveza temple wolf ipa x 473 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 1049.0,
-    "precio_hoy": 1463.0,
-    "diff_abs": 414.0,
-    "diff_pct": 39.47
+    "precio_antes": 3309.0,
+    "precio_hoy": 4725.0,
+    "diff_abs": 1416.0,
+    "diff_pct": 42.79
   },
   {
-    "ean": "7798262020234",
-    "nombre": "pulpa de fruta zummy ciruela pouch x 110 gr",
+    "ean": "7500810034347",
+    "nombre": "snack takis xplosion x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3119.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1334.0,
+    "diff_pct": 42.77
+  },
+  {
+    "ean": "7500810034330",
+    "nombre": "snack takis fuego x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3119.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1334.0,
+    "diff_pct": 42.77
+  },
+  {
+    "ean": "7500810034354",
+    "nombre": "snack takis original x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3119.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1334.0,
+    "diff_pct": 42.77
+  },
+  {
+    "ean": "7500810034361",
+    "nombre": "snack takis fuego x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2065.83,
+    "precio_hoy": 2945.0,
+    "diff_abs": 879.17,
+    "diff_pct": 42.56
+  },
+  {
+    "ean": "7500810034460",
+    "nombre": "snack takis xplosion x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2065.83,
+    "precio_hoy": 2945.0,
+    "diff_abs": 879.17,
+    "diff_pct": 42.56
+  },
+  {
+    "ean": "7798018100197",
+    "nombre": "tarteletas saladas para rellenar whisper x 150 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4322.0,
+    "precio_hoy": 5906.0,
+    "diff_abs": 1584.0,
+    "diff_pct": 36.65
+  },
+  {
+    "ean": "7798018100180",
+    "nombre": "tarteletas whisper x150gr.dce.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4322.0,
+    "precio_hoy": 5906.0,
+    "diff_abs": 1584.0,
+    "diff_pct": 36.65
+  },
+  {
+    "ean": "7792798013357",
+    "nombre": "cerv.budweiser x710ml.",
     "categoria": "Bebidas",
-    "precio_antes": 1049.0,
-    "precio_hoy": 1463.0,
-    "diff_abs": 414.0,
-    "diff_pct": 39.47
+    "precio_antes": 2849.0,
+    "precio_hoy": 3848.0,
+    "diff_abs": 999.0,
+    "diff_pct": 35.06
   },
   {
-    "ean": "7798262020180",
-    "nombre": "pulpa de fruta zummy manzana pouch x 110 gr",
+    "ean": "7790315000910",
+    "nombre": "agua saborizada levite cero x 1,5 lt. pomelo",
     "categoria": "Bebidas",
-    "precio_antes": 1049.0,
-    "precio_hoy": 1463.0,
-    "diff_abs": 414.0,
-    "diff_pct": 39.47
+    "precio_antes": 2489.0,
+    "precio_hoy": 3307.0,
+    "diff_abs": 818.0,
+    "diff_pct": 32.86
   },
   {
-    "ean": "7798262020135",
-    "nombre": "pulpa de fruta zummy disney mix frutal x 90 g",
+    "ean": "7790315001061",
+    "nombre": "agua saborizada vds levite cero manzana x 1.5 lt.",
     "categoria": "Bebidas",
-    "precio_antes": 999.0,
-    "precio_hoy": 1390.0,
-    "diff_abs": 391.0,
-    "diff_pct": 39.14
+    "precio_antes": 2489.0,
+    "precio_hoy": 3307.0,
+    "diff_abs": 818.0,
+    "diff_pct": 32.86
   },
   {
-    "ean": "7798262020104",
-    "nombre": "pulpa de fruta zummy disney pera x 90 gr",
+    "ean": "7798062548679",
+    "nombre": "agua saborizada levite x 1.5 litros sabor pomelo amarilo",
     "categoria": "Bebidas",
-    "precio_antes": 999.0,
-    "precio_hoy": 1390.0,
-    "diff_abs": 391.0,
-    "diff_pct": 39.14
+    "precio_antes": 2489.0,
+    "precio_hoy": 3307.0,
+    "diff_abs": 818.0,
+    "diff_pct": 32.86
   },
   {
-    "ean": "7798262020036",
-    "nombre": "pulpa de fruta zummy disney manzana x 90 gr",
+    "ean": "7799155001392",
+    "nombre": "agua saborizada levite x 1.5 lt pomelo rosado",
     "categoria": "Bebidas",
-    "precio_antes": 999.0,
-    "precio_hoy": 1390.0,
-    "diff_abs": 391.0,
-    "diff_pct": 39.14
+    "precio_antes": 2489.0,
+    "precio_hoy": 3307.0,
+    "diff_abs": 818.0,
+    "diff_pct": 32.86
   },
   {
-    "ean": "7798262020340",
-    "nombre": "pulpa de fruta zummy disney manzanafrutillax",
+    "ean": "7799155001699",
+    "nombre": "villa del sur levite x 1.5 litros limonada",
     "categoria": "Bebidas",
-    "precio_antes": 999.0,
-    "precio_hoy": 1390.0,
-    "diff_abs": 391.0,
-    "diff_pct": 39.14
+    "precio_antes": 2489.0,
+    "precio_hoy": 3307.0,
+    "diff_abs": 818.0,
+    "diff_pct": 32.86
   },
   {
-    "ean": "7790070622044",
-    "nombre": "tapa ppascualina la saltena x 400 gr. hojaldre",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3149.0,
-    "precio_hoy": 3149.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790315000934",
+    "nombre": "villa del sur levite cero x 1,5 lt. naranja",
+    "categoria": "Bebidas",
+    "precio_antes": 2489.0,
+    "precio_hoy": 3307.0,
+    "diff_abs": 818.0,
+    "diff_pct": 32.86
   },
   {
-    "ean": "7795293101314",
-    "nombre": "tapa ppascualina don yeyo x 400 gr. hojaldre",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2447.0,
-    "precio_hoy": 2447.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7795293101338",
-    "nombre": "tapa ppascualina don yeyo x 380 gr. criolla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2374.0,
-    "precio_hoy": 2374.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790670052975",
-    "nombre": "salchicha vienissima picantes x 6 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3389.0,
-    "precio_hoy": 3389.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790070622013",
-    "nombre": "tapa para empanadas la salteaa x 12 unidades hojaldradas",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2598.0,
-    "precio_hoy": 2598.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7791971000122",
-    "nombre": "tapa para empanadas doble hojaldre mil hojas x 12 unidades",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2188.0,
-    "precio_hoy": 2188.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790070622051",
-    "nombre": "tapa emp.l.salt.x20u.rot.hojal",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5530.0,
-    "precio_hoy": 5530.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790070622068",
-    "nombre": "tapa emp.l.salt.x20u.rot.criol",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5530.0,
-    "precio_hoy": 5530.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "2037340000009",
-    "nombre": "tabla de fiambres surtidos x kilo peso aproximad x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 19999.0,
-    "precio_hoy": 19999.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "8445291388918",
-    "nombre": "svelty x 200 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3855.0,
-    "precio_hoy": 3855.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790236001768",
-    "nombre": "sorrentinos la saltena x 300 gr. jamon y muzzarela",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3760.0,
-    "precio_hoy": 3760.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7794080001219",
-    "nombre": "sorrentinos la morocha jamon y queso x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4348.0,
-    "precio_hoy": 4348.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "2023490000006",
-    "nombre": "sandwich triple de miga x 8 unidades panaderos de",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 9900.0,
-    "precio_hoy": 9900.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798062548709",
+    "nombre": "agua saborizada vds levite manzana x 1.5 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2489.0,
+    "precio_hoy": 3307.0,
+    "diff_abs": 818.0,
+    "diff_pct": 32.86
   }
 ]
