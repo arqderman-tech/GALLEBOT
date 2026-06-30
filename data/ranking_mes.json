@@ -27,8 +27,8 @@
     "diff_pct": 99.64
   },
   {
-    "ean": "78600010",
-    "nombre": "pastillas tic tac menta x 16 gr.",
+    "ean": "78600027",
+    "nombre": "pastillas tic tac naranja x 16 gr.",
     "categoria": "Almacen",
     "precio_antes": 559.0,
     "precio_hoy": 1101.0,
@@ -36,8 +36,8 @@
     "diff_pct": 96.96
   },
   {
-    "ean": "78600027",
-    "nombre": "pastillas tic tac naranja x 16 gr.",
+    "ean": "78600010",
+    "nombre": "pastillas tic tac menta x 16 gr.",
     "categoria": "Almacen",
     "precio_antes": 559.0,
     "precio_hoy": 1101.0,
@@ -171,8 +171,8 @@
     "diff_pct": 55.5
   },
   {
-    "ean": "7793147001742",
-    "nombre": "cerveza imperial stout lata x 473 ml.",
+    "ean": "7793147571160",
+    "nombre": "cerveza imperial lata x 473 ml apa",
     "categoria": "Bebidas",
     "precio_antes": 2119.0,
     "precio_hoy": 3295.0,

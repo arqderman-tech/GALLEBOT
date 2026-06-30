@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7898024394181",
-    "nombre": "pasta de avellanas y chocolate nutella x 350 gr.",
+    "ean": "7622201704148",
+    "nombre": "jugo en polvo clight mandarina x 8 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 349.0,
+    "precio_hoy": 703.0,
+    "diff_abs": 354.0,
+    "diff_pct": 101.43
+  },
+  {
+    "ean": "7622202359927",
+    "nombre": "jugo cligh pomelada hibiscus x 8 gm",
+    "categoria": "Bebidas",
+    "precio_antes": 349.0,
+    "precio_hoy": 703.0,
+    "diff_abs": 354.0,
+    "diff_pct": 101.43
+  },
+  {
+    "ean": "7794000008540",
+    "nombre": "caldo sabor gallina knorr x 12 cubos",
+    "categoria": "Almacen",
+    "precio_antes": 1559.0,
+    "precio_hoy": 3014.0,
+    "diff_abs": 1455.0,
+    "diff_pct": 93.33
+  },
+  {
+    "ean": "7794000008922",
+    "nombre": "aderezo hellmann`s picante x 340 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2299.0,
+    "precio_hoy": 4423.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 92.39
+  },
+  {
+    "ean": "7794000008229",
+    "nombre": "bizcochuelo maizena libre de gluten x 450 gr. vaia",
+    "categoria": "Almacen",
+    "precio_antes": 3359.0,
+    "precio_hoy": 6285.0,
+    "diff_abs": 2926.0,
+    "diff_pct": 87.11
+  },
+  {
+    "ean": "7794000009196",
+    "nombre": "sabor knorr mix x 4 sobres sabor barbacoa ahumada",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1714.0,
+    "diff_abs": 795.0,
+    "diff_pct": 86.51
+  },
+  {
+    "ean": "7794000009479",
+    "nombre": "sabor knorr mix de sabores picante x 4 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1714.0,
+    "diff_abs": 795.0,
+    "diff_pct": 86.51
+  },
+  {
+    "ean": "7794000009158",
+    "nombre": "mix de sabores knorr hongos y champignones x 4 sos",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1714.0,
+    "diff_abs": 795.0,
+    "diff_pct": 86.51
+  },
+  {
+    "ean": "7794000009141",
+    "nombre": "mix de sabores knorr oregano, tomate y ajo x 4 sos",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1714.0,
+    "diff_abs": 795.0,
+    "diff_pct": 86.51
+  },
+  {
+    "ean": "7794000009486",
+    "nombre": "sabor knorr mix de sabores x 4 sobres panceta y cebolla",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1714.0,
+    "diff_abs": 795.0,
+    "diff_pct": 86.51
+  },
+  {
+    "ean": "7794000009189",
+    "nombre": "mix de sabor knorr aji,comino y pimenton x 4 sobrs",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1714.0,
+    "diff_abs": 795.0,
+    "diff_pct": 86.51
+  },
+  {
+    "ean": "7794000009172",
+    "nombre": "mix de sabores knorr pollos x 4 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1714.0,
+    "diff_abs": 795.0,
+    "diff_pct": 86.51
+  },
+  {
+    "ean": "7794000009295",
+    "nombre": "mix de sabores knorr coboulette y puerro x 4 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 920.0,
+    "precio_hoy": 1714.0,
+    "diff_abs": 794.0,
+    "diff_pct": 86.3
+  },
+  {
+    "ean": "7794000008915",
+    "nombre": "aderezo hellmann`s picante x 250 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1689.0,
+    "precio_hoy": 3133.0,
+    "diff_abs": 1444.0,
+    "diff_pct": 85.49
+  },
+  {
+    "ean": "7794000007796",
+    "nombre": "barbacoa hellmanns x 400 gm plastica",
+    "categoria": "Almacen",
+    "precio_antes": 3039.0,
+    "precio_hoy": 5578.0,
+    "diff_abs": 2539.0,
+    "diff_pct": 83.55
+  },
+  {
+    "ean": "7622300424084",
+    "nombre": "shot tableta x170gr.",
+    "categoria": "Almacen",
+    "precio_antes": 6009.01,
+    "precio_hoy": 10682.0,
+    "diff_abs": 4672.99,
+    "diff_pct": 77.77
+  },
+  {
+    "ean": "7794000007741",
+    "nombre": "salsa golf hellmann`s x 250 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1599.0,
+    "precio_hoy": 2840.0,
+    "diff_abs": 1241.0,
+    "diff_pct": 77.61
+  },
+  {
+    "ean": "7794000005846",
+    "nombre": "sopa de vegetales knorr con caracolitos verdes x80",
+    "categoria": "Almacen",
+    "precio_antes": 1599.0,
+    "precio_hoy": 2589.0,
+    "diff_abs": 990.0,
+    "diff_pct": 61.91
+  },
+  {
+    "ean": "7794000008687",
+    "nombre": "sopa crema knorr choclo x 67 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1599.0,
+    "precio_hoy": 2589.0,
+    "diff_abs": 990.0,
+    "diff_pct": 61.91
+  },
+  {
+    "ean": "7622201735883",
+    "nombre": "gall.pepitos x357gr.clasica",
     "categoria": "Perfumeria",
-    "precio_antes": 6159.0,
-    "precio_hoy": 10452.0,
-    "diff_abs": 4293.0,
-    "diff_pct": 69.7
-  },
-  {
-    "ean": "80052487",
-    "nombre": "bombones con coco y almendras x 3 unidades raffaello",
-    "categoria": "Almacen",
-    "precio_antes": 1929.0,
-    "precio_hoy": 3049.0,
-    "diff_abs": 1120.0,
-    "diff_pct": 58.06
-  },
-  {
-    "ean": "78600027",
-    "nombre": "pastillas tic tac naranja x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 699.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 402.0,
-    "diff_pct": 57.51
-  },
-  {
-    "ean": "78600010",
-    "nombre": "pastillas tic tac menta x 16 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 699.0,
-    "precio_hoy": 1101.0,
-    "diff_abs": 402.0,
-    "diff_pct": 57.51
-  },
-  {
-    "ean": "8000500009673",
-    "nombre": "bombones cubiertos con chocolate y leche y avellanas x 24 un",
-    "categoria": "Almacen",
-    "precio_antes": 19958.99,
-    "precio_hoy": 29570.0,
-    "diff_abs": 9611.01,
-    "diff_pct": 48.15
-  },
-  {
-    "ean": "7898024396994",
-    "nombre": "bombones cubiertos con choco.con leche y avellanas x 12 unid",
-    "categoria": "Almacen",
-    "precio_antes": 10819.0,
-    "precio_hoy": 16027.0,
-    "diff_abs": 5208.0,
-    "diff_pct": 48.14
-  },
-  {
-    "ean": "7898024397151",
-    "nombre": "bomobnes rellenos surtidos x 7 unidades ferrero colection",
-    "categoria": "Almacen",
-    "precio_antes": 8179.0,
-    "precio_hoy": 12108.0,
-    "diff_abs": 3929.0,
-    "diff_pct": 48.04
-  },
-  {
-    "ean": "8000500232057",
-    "nombre": "bombones rafaello x 9 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 5609.0,
-    "precio_hoy": 8303.0,
-    "diff_abs": 2694.0,
-    "diff_pct": 48.03
-  },
-  {
-    "ean": "7861002900117",
-    "nombre": "bombones ferrero rocher x 8 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 7179.0,
-    "precio_hoy": 10627.0,
-    "diff_abs": 3448.0,
-    "diff_pct": 48.03
-  },
-  {
-    "ean": "77949677",
-    "nombre": "chocolate kinder x 50 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2409.0,
-    "precio_hoy": 3563.0,
-    "diff_abs": 1154.0,
-    "diff_pct": 47.9
-  },
-  {
-    "ean": "77949707",
-    "nombre": "chocolate kinder x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 4609.0,
-    "precio_hoy": 6816.0,
-    "diff_abs": 2207.0,
-    "diff_pct": 47.88
-  },
-  {
-    "ean": "2020300000003",
-    "nombre": "cebolla de verdeo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 40.08
-  },
-  {
-    "ean": "7790895067594",
-    "nombre": "gaseosa coca cola x 237 ml botella de vidrio sin azucar",
-    "categoria": "Bebidas",
-    "precio_antes": 964.0,
-    "precio_hoy": 1330.0,
-    "diff_abs": 366.0,
-    "diff_pct": 37.97
-  },
-  {
-    "ean": "7790895650598",
-    "nombre": "gaseosa sprite x 237 ml botella de vidrio",
-    "categoria": "Bebidas",
-    "precio_antes": 964.0,
-    "precio_hoy": 1330.0,
-    "diff_abs": 366.0,
-    "diff_pct": 37.97
-  },
-  {
-    "ean": "7790895006753",
-    "nombre": "gaseosa coca cola x 237 ml botella de vidrio",
-    "categoria": "Bebidas",
-    "precio_antes": 964.0,
-    "precio_hoy": 1330.0,
-    "diff_abs": 366.0,
-    "diff_pct": 37.97
-  },
-  {
-    "ean": "7790895651267",
-    "nombre": "gaseosa fanta x 237 ml botella vidrio",
-    "categoria": "Bebidas",
-    "precio_antes": 964.0,
-    "precio_hoy": 1330.0,
-    "diff_abs": 366.0,
-    "diff_pct": 37.97
-  },
-  {
-    "ean": "77931764",
-    "nombre": "chicle topline 7 x14g.expl.min",
-    "categoria": "Almacen",
-    "precio_antes": 878.0,
-    "precio_hoy": 1175.0,
-    "diff_abs": 297.0,
-    "diff_pct": 33.83
-  },
-  {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 8990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 28.61
-  },
-  {
-    "ean": "2020730000000",
-    "nombre": "espinaca atado",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
-  },
-  {
-    "ean": "2022040000008",
-    "nombre": "repollo blanco x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
+    "precio_antes": 3889.0,
+    "precio_hoy": 6177.0,
+    "diff_abs": 2288.0,
+    "diff_pct": 58.83
   }
 ]
