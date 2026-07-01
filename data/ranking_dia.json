@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7622201704148",
-    "nombre": "jugo en polvo clight mandarina x 8 gr.",
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2109.0,
+    "precio_hoy": 5332.0,
+    "diff_abs": 3223.0,
+    "diff_pct": 152.82
+  },
+  {
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2109.0,
+    "precio_hoy": 5332.0,
+    "diff_abs": 3223.0,
+    "diff_pct": 152.82
+  },
+  {
+    "ean": "7791813403036",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
     "categoria": "Bebidas",
-    "precio_antes": 349.0,
-    "precio_hoy": 703.0,
-    "diff_abs": 354.0,
-    "diff_pct": 101.43
+    "precio_antes": 1519.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1731.0,
+    "diff_pct": 113.96
   },
   {
-    "ean": "7622202359927",
-    "nombre": "jugo cligh pomelada hibiscus x 8 gm",
+    "ean": "7791813403012",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
     "categoria": "Bebidas",
-    "precio_antes": 349.0,
-    "precio_hoy": 703.0,
-    "diff_abs": 354.0,
-    "diff_pct": 101.43
+    "precio_antes": 1519.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1731.0,
+    "diff_pct": 113.96
   },
   {
-    "ean": "7794000008540",
-    "nombre": "caldo sabor gallina knorr x 12 cubos",
-    "categoria": "Almacen",
-    "precio_antes": 1559.0,
-    "precio_hoy": 3014.0,
-    "diff_abs": 1455.0,
-    "diff_pct": 93.33
+    "ean": "7791813403029",
+    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1519.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1731.0,
+    "diff_pct": 113.96
   },
   {
-    "ean": "7794000008922",
-    "nombre": "aderezo hellmann`s picante x 340 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2299.0,
-    "precio_hoy": 4423.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 92.39
+    "ean": "2017510000008",
+    "nombre": "queso cheddar la serenisima x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 21255.0,
+    "precio_hoy": 43574.0,
+    "diff_abs": 22319.0,
+    "diff_pct": 105.01
   },
   {
-    "ean": "7794000008229",
-    "nombre": "bizcochuelo maizena libre de gluten x 450 gr. vaia",
-    "categoria": "Almacen",
-    "precio_antes": 3359.0,
-    "precio_hoy": 6285.0,
-    "diff_abs": 2926.0,
-    "diff_pct": 87.11
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
   },
   {
-    "ean": "7794000009196",
-    "nombre": "sabor knorr mix x 4 sobres sabor barbacoa ahumada",
-    "categoria": "Almacen",
-    "precio_antes": 919.0,
-    "precio_hoy": 1714.0,
-    "diff_abs": 795.0,
-    "diff_pct": 86.51
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
   },
   {
-    "ean": "7794000009479",
-    "nombre": "sabor knorr mix de sabores picante x 4 sobres",
-    "categoria": "Almacen",
-    "precio_antes": 919.0,
-    "precio_hoy": 1714.0,
-    "diff_abs": 795.0,
-    "diff_pct": 86.51
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
   },
   {
-    "ean": "7794000009158",
-    "nombre": "mix de sabores knorr hongos y champignones x 4 sos",
-    "categoria": "Almacen",
-    "precio_antes": 919.0,
-    "precio_hoy": 1714.0,
-    "diff_abs": 795.0,
-    "diff_pct": 86.51
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
   },
   {
-    "ean": "7794000009141",
-    "nombre": "mix de sabores knorr oregano, tomate y ajo x 4 sos",
-    "categoria": "Almacen",
-    "precio_antes": 919.0,
-    "precio_hoy": 1714.0,
-    "diff_abs": 795.0,
-    "diff_pct": 86.51
+    "ean": "7791813405023",
+    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+    "categoria": "Bebidas",
+    "precio_antes": 1679.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1671.0,
+    "diff_pct": 99.52
   },
   {
-    "ean": "7794000009486",
-    "nombre": "sabor knorr mix de sabores x 4 sobres panceta y cebolla",
-    "categoria": "Almacen",
-    "precio_antes": 919.0,
-    "precio_hoy": 1714.0,
-    "diff_abs": 795.0,
-    "diff_pct": 86.51
+    "ean": "7791813405030",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1679.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1671.0,
+    "diff_pct": 99.52
   },
   {
-    "ean": "7794000009189",
-    "nombre": "mix de sabor knorr aji,comino y pimenton x 4 sobrs",
-    "categoria": "Almacen",
-    "precio_antes": 919.0,
-    "precio_hoy": 1714.0,
-    "diff_abs": 795.0,
-    "diff_pct": 86.51
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3809.0,
+    "precio_hoy": 7510.0,
+    "diff_abs": 3701.0,
+    "diff_pct": 97.16
   },
   {
-    "ean": "7794000009172",
-    "nombre": "mix de sabores knorr pollos x 4 sobres",
-    "categoria": "Almacen",
-    "precio_antes": 919.0,
-    "precio_hoy": 1714.0,
-    "diff_abs": 795.0,
-    "diff_pct": 86.51
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3809.0,
+    "precio_hoy": 7510.0,
+    "diff_abs": 3701.0,
+    "diff_pct": 97.16
   },
   {
-    "ean": "7794000009295",
-    "nombre": "mix de sabores knorr coboulette y puerro x 4 sobres",
-    "categoria": "Almacen",
-    "precio_antes": 920.0,
-    "precio_hoy": 1714.0,
-    "diff_abs": 794.0,
-    "diff_pct": 86.3
+    "ean": "7791813402015",
+    "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 909.0,
+    "precio_hoy": 1750.0,
+    "diff_abs": 841.0,
+    "diff_pct": 92.52
   },
   {
-    "ean": "7794000008915",
-    "nombre": "aderezo hellmann`s picante x 250 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1689.0,
-    "precio_hoy": 3133.0,
-    "diff_abs": 1444.0,
-    "diff_pct": 85.49
+    "ean": "7791813402039",
+    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 909.0,
+    "precio_hoy": 1750.0,
+    "diff_abs": 841.0,
+    "diff_pct": 92.52
   },
   {
-    "ean": "7794000007796",
-    "nombre": "barbacoa hellmanns x 400 gm plastica",
-    "categoria": "Almacen",
-    "precio_antes": 3039.0,
-    "precio_hoy": 5578.0,
-    "diff_abs": 2539.0,
-    "diff_pct": 83.55
+    "ean": "7791813402886",
+    "nombre": "agua saborizada h2o x 500 ml sin gas naranja",
+    "categoria": "Bebidas",
+    "precio_antes": 909.0,
+    "precio_hoy": 1750.0,
+    "diff_abs": 841.0,
+    "diff_pct": 92.52
   },
   {
-    "ean": "7622300424084",
-    "nombre": "shot tableta x170gr.",
-    "categoria": "Almacen",
-    "precio_antes": 6009.01,
-    "precio_hoy": 10682.0,
-    "diff_abs": 4672.99,
-    "diff_pct": 77.77
+    "ean": "7791337008403",
+    "nombre": "leche chocolatada la serenisima x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2809.0,
+    "precio_hoy": 5271.0,
+    "diff_abs": 2462.0,
+    "diff_pct": 87.65
   },
   {
-    "ean": "7794000007741",
-    "nombre": "salsa golf hellmann`s x 250 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1599.0,
-    "precio_hoy": 2840.0,
-    "diff_abs": 1241.0,
-    "diff_pct": 77.61
+    "ean": "7791337061507",
+    "nombre": "queso untable cremoso casancrem balance x 500 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5009.0,
+    "precio_hoy": 9053.0,
+    "diff_abs": 4044.0,
+    "diff_pct": 80.73
   },
   {
-    "ean": "7794000005846",
-    "nombre": "sopa de vegetales knorr con caracolitos verdes x80",
-    "categoria": "Almacen",
-    "precio_antes": 1599.0,
-    "precio_hoy": 2589.0,
-    "diff_abs": 990.0,
-    "diff_pct": 61.91
-  },
-  {
-    "ean": "7794000008687",
-    "nombre": "sopa crema knorr choclo x 67 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1599.0,
-    "precio_hoy": 2589.0,
-    "diff_abs": 990.0,
-    "diff_pct": 61.91
-  },
-  {
-    "ean": "7622201735883",
-    "nombre": "gall.pepitos x357gr.clasica",
-    "categoria": "Perfumeria",
-    "precio_antes": 3889.0,
-    "precio_hoy": 6177.0,
-    "diff_abs": 2288.0,
-    "diff_pct": 58.83
+    "ean": "7791337007260",
+    "nombre": "leche chocolatada cindor x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1499.0,
+    "precio_hoy": 2701.0,
+    "diff_abs": 1202.0,
+    "diff_pct": 80.19
   }
 ]

@@ -1,147 +1,147 @@
 {
-  "fecha": "20260630",
-  "total_productos": 6037,
-  "variacion_dia": 1.12,
-  "variacion_7d": 1.55,
-  "variacion_mes": 1.37,
+  "fecha": "20260701",
+  "total_productos": 6035,
+  "variacion_dia": 1.98,
+  "variacion_7d": 3.42,
+  "variacion_mes": 3.2,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 1.69,
-      "productos_subieron": 77,
-      "productos_bajaron": 1,
-      "total_productos": 1309
+      "variacion_pct_promedio": 4.47,
+      "productos_subieron": 227,
+      "productos_bajaron": 79,
+      "total_productos": 1340
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.08,
-      "productos_subieron": 9,
-      "productos_bajaron": 13,
-      "total_productos": 1103
+      "variacion_pct_promedio": 4.07,
+      "productos_subieron": 242,
+      "productos_bajaron": 34,
+      "total_productos": 1111
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 2.31,
+      "productos_subieron": 38,
       "productos_bajaron": 0,
-      "total_productos": 214
+      "total_productos": 220
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 828
+      "total_productos": 840
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 1.29,
-      "productos_subieron": 90,
-      "productos_bajaron": 0,
-      "total_productos": 821
+      "variacion_pct_promedio": 2.17,
+      "productos_subieron": 141,
+      "productos_bajaron": 85,
+      "total_productos": 838
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 2.13,
-      "productos_subieron": 125,
-      "productos_bajaron": 1,
-      "total_productos": 1624
+      "variacion_pct_promedio": -0.57,
+      "productos_subieron": 47,
+      "productos_bajaron": 193,
+      "total_productos": 1657
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2021650000002",
-      "nombre": "zapallito largo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -25.06
+      "ean": "7622300424084",
+      "nombre": "shot tableta x170gr.",
+      "categoria": "Almacen",
+      "precio_antes": 10682.0,
+      "precio_hoy": 6409.0,
+      "diff_abs": -4273.0,
+      "diff_pct": -40.0
     },
     {
-      "ean": "2020930000008",
-      "nombre": "lechuga morada x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -25.06
+      "ean": "7622201492465",
+      "nombre": "tabl.milka x45gr.choc.pau.oreo",
+      "categoria": "Almacen",
+      "precio_antes": 2813.0,
+      "precio_hoy": 1969.0,
+      "diff_abs": -844.0,
+      "diff_pct": -30.0
     },
     {
-      "ean": "2022130000000",
-      "nombre": "tomate cherry x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 11990.0,
-      "precio_hoy": 8990.0,
-      "diff_abs": -3000.0,
-      "diff_pct": -25.02
+      "ean": "7622201492717",
+      "nombre": "tabl.milka x45gr.choco pause",
+      "categoria": "Almacen",
+      "precio_antes": 2813.0,
+      "precio_hoy": 1969.0,
+      "diff_abs": -844.0,
+      "diff_pct": -30.0
     },
     {
-      "ean": "2019880000008",
-      "nombre": "acelga x paquete",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1490.0,
-      "precio_hoy": 1190.0,
-      "diff_abs": -300.0,
-      "diff_pct": -20.13
+      "ean": "7622210788207",
+      "nombre": "obleas milka bis x 105 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 4910.0,
+      "precio_hoy": 3439.0,
+      "diff_abs": -1471.0,
+      "diff_pct": -29.96
     },
     {
-      "ean": "2020570000000",
-      "nombre": "coliflor x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -16.69
+      "ean": "7622210719829",
+      "nombre": "oblea milka bis oreo x 105 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 4910.0,
+      "precio_hoy": 3439.0,
+      "diff_abs": -1471.0,
+      "diff_pct": -29.96
     },
     {
-      "ean": "2030920000000",
-      "nombre": "puerro x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -16.69
+      "ean": "7622201759636",
+      "nombre": "galletitas oreo original x 354 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 6551.0,
+      "precio_hoy": 4589.0,
+      "diff_abs": -1962.0,
+      "diff_pct": -29.95
     },
     {
-      "ean": "2020300000003",
-      "nombre": "cebolla de verdeo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 5990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -14.31
+      "ean": "7622201735883",
+      "nombre": "gall.pepitos x357gr.clasica",
+      "categoria": "Perfumeria",
+      "precio_antes": 6177.0,
+      "precio_hoy": 4329.0,
+      "diff_abs": -1848.0,
+      "diff_pct": -29.92
     },
     {
-      "ean": "7794080000441",
-      "nombre": "ravioles la morocha ricota y queso x 500 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3355.0,
-      "precio_hoy": 2939.0,
-      "diff_abs": -416.0,
-      "diff_pct": -12.4
+      "ean": "7622202839962",
+      "nombre": "gall.variedad x390gr.mix",
+      "categoria": "Perfumeria",
+      "precio_antes": 3979.0,
+      "precio_hoy": 2789.0,
+      "diff_abs": -1190.0,
+      "diff_pct": -29.91
     },
     {
-      "ean": "7794080001257",
-      "nombre": "ravioles la morocha x 500 gr. ricota y espinaca",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3355.0,
-      "precio_hoy": 2939.0,
-      "diff_abs": -416.0,
-      "diff_pct": -12.4
+      "ean": "7622202816437",
+      "nombre": "alfajor shot x 36 gm triple blanco",
+      "categoria": "Almacen",
+      "precio_antes": 2120.0,
+      "precio_hoy": 1489.0,
+      "diff_abs": -631.0,
+      "diff_pct": -29.76
     },
     {
-      "ean": "2021060000005",
-      "nombre": "mandarina criolla x kilo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1790.0,
-      "precio_hoy": 1590.0,
-      "diff_abs": -200.0,
-      "diff_pct": -11.17
+      "ean": "77956699",
+      "nombre": "alfajor shot x60gr.triple",
+      "categoria": "Almacen",
+      "precio_antes": 2120.0,
+      "precio_hoy": 1489.0,
+      "diff_abs": -631.0,
+      "diff_pct": -29.76
     }
   ],
-  "productos_subieron_dia": 301,
-  "productos_bajaron_dia": 15,
-  "productos_sin_cambio_dia": 5583
+  "productos_subieron_dia": 695,
+  "productos_bajaron_dia": 391,
+  "productos_sin_cambio_dia": 4920
 }
