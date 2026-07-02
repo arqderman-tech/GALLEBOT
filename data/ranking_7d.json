@@ -1,23 +1,5 @@
 [
   {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2109.0,
-    "precio_hoy": 5332.0,
-    "diff_abs": 3223.0,
-    "diff_pct": 152.82
-  },
-  {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2109.0,
-    "precio_hoy": 5332.0,
-    "diff_abs": 3223.0,
-    "diff_pct": 152.82
-  },
-  {
     "ean": "7791813403029",
     "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
     "categoria": "Bebidas",
@@ -45,51 +27,6 @@
     "diff_pct": 113.96
   },
   {
-    "ean": "2017510000008",
-    "nombre": "queso cheddar la serenisima x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 21255.0,
-    "precio_hoy": 43574.0,
-    "diff_abs": 22319.0,
-    "diff_pct": 105.01
-  },
-  {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010369",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1671.0,
-    "diff_pct": 99.52
-  },
-  {
     "ean": "7791813405030",
     "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
     "categoria": "Bebidas",
@@ -99,22 +36,13 @@
     "diff_pct": 99.52
   },
   {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3809.0,
-    "precio_hoy": 7510.0,
-    "diff_abs": 3701.0,
-    "diff_pct": 97.16
-  },
-  {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3809.0,
-    "precio_hoy": 7510.0,
-    "diff_abs": 3701.0,
-    "diff_pct": 97.16
+    "ean": "7791813405023",
+    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+    "categoria": "Bebidas",
+    "precio_antes": 1679.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1671.0,
+    "diff_pct": 99.52
   },
   {
     "ean": "7794000008540",
@@ -162,15 +90,6 @@
     "diff_pct": 92.39
   },
   {
-    "ean": "7791337008403",
-    "nombre": "leche chocolatada la serenisima x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2809.0,
-    "precio_hoy": 5271.0,
-    "diff_abs": 2462.0,
-    "diff_pct": 87.65
-  },
-  {
     "ean": "7794000008229",
     "nombre": "bizcochuelo maizena libre de gluten x 450 gr. vaia",
     "categoria": "Almacen",
@@ -178,5 +97,86 @@
     "precio_hoy": 6285.0,
     "diff_abs": 2926.0,
     "diff_pct": 87.11
+  },
+  {
+    "ean": "7794000009172",
+    "nombre": "mix de sabores knorr pollos x 4 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1714.0,
+    "diff_abs": 795.0,
+    "diff_pct": 86.51
+  },
+  {
+    "ean": "7794000009196",
+    "nombre": "sabor knorr mix x 4 sobres sabor barbacoa ahumada",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1714.0,
+    "diff_abs": 795.0,
+    "diff_pct": 86.51
+  },
+  {
+    "ean": "7794000009141",
+    "nombre": "mix de sabores knorr oregano, tomate y ajo x 4 sos",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1714.0,
+    "diff_abs": 795.0,
+    "diff_pct": 86.51
+  },
+  {
+    "ean": "7794000009189",
+    "nombre": "mix de sabor knorr aji,comino y pimenton x 4 sobrs",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1714.0,
+    "diff_abs": 795.0,
+    "diff_pct": 86.51
+  },
+  {
+    "ean": "7794000009295",
+    "nombre": "mix de sabores knorr coboulette y puerro x 4 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 920.0,
+    "precio_hoy": 1714.0,
+    "diff_abs": 794.0,
+    "diff_pct": 86.3
+  },
+  {
+    "ean": "7794000008915",
+    "nombre": "aderezo hellmann`s picante x 250 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1689.0,
+    "precio_hoy": 3133.0,
+    "diff_abs": 1444.0,
+    "diff_pct": 85.49
+  },
+  {
+    "ean": "7794000007796",
+    "nombre": "barbacoa hellmanns x 400 gm plastica",
+    "categoria": "Almacen",
+    "precio_antes": 3039.0,
+    "precio_hoy": 5578.0,
+    "diff_abs": 2539.0,
+    "diff_pct": 83.55
+  },
+  {
+    "ean": "7794000007741",
+    "nombre": "salsa golf hellmann`s x 250 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1599.0,
+    "precio_hoy": 2840.0,
+    "diff_abs": 1241.0,
+    "diff_pct": 77.61
+  },
+  {
+    "ean": "7793147572327",
+    "nombre": "cerveza salta cautiva rubia  x 473 m",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 62.65
   }
 ]

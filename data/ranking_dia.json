@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2109.0,
-    "precio_hoy": 5332.0,
-    "diff_abs": 3223.0,
-    "diff_pct": 152.82
+    "ean": "7797906054819",
+    "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
+    "categoria": "Congelados",
+    "precio_antes": 9939.0,
+    "precio_hoy": 15291.0,
+    "diff_abs": 5352.0,
+    "diff_pct": 53.85
   },
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2109.0,
-    "precio_hoy": 5332.0,
-    "diff_abs": 3223.0,
-    "diff_pct": 152.82
+    "ean": "7790681000583",
+    "nombre": "lentejas michelon x 400 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1369.0,
+    "precio_hoy": 1880.0,
+    "diff_abs": 511.0,
+    "diff_pct": 37.33
   },
   {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1731.0,
-    "diff_pct": 113.96
+    "ean": "7790681002044",
+    "nombre": "lentejas las achiras x 400 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1319.0,
+    "precio_hoy": 1810.0,
+    "diff_abs": 491.0,
+    "diff_pct": 37.23
   },
   {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1731.0,
-    "diff_pct": 113.96
+    "ean": "7790681000880",
+    "nombre": "maiz pisingallo las achiras",
+    "categoria": "Almacen",
+    "precio_antes": 819.0,
+    "precio_hoy": 1112.0,
+    "diff_abs": 293.0,
+    "diff_pct": 35.78
   },
   {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1731.0,
-    "diff_pct": 113.96
+    "ean": "7790681000286",
+    "nombre": "maiz pisingallo la egipciana",
+    "categoria": "Almacen",
+    "precio_antes": 1079.0,
+    "precio_hoy": 1392.0,
+    "diff_abs": 313.0,
+    "diff_pct": 29.01
   },
   {
-    "ean": "2017510000008",
-    "nombre": "queso cheddar la serenisima x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 21255.0,
-    "precio_hoy": 43574.0,
-    "diff_abs": 22319.0,
-    "diff_pct": 105.01
+    "ean": "7790681002037",
+    "nombre": "lentejas l.egip.x400gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1619.0,
+    "precio_hoy": 2088.0,
+    "diff_abs": 469.0,
+    "diff_pct": 28.97
   },
   {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
+    "ean": "7790681000729",
+    "nombre": "lentejon michelon x400gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1699.0,
+    "precio_hoy": 2191.0,
+    "diff_abs": 492.0,
+    "diff_pct": 28.96
   },
   {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
+    "ean": "7790681000200",
+    "nombre": "arvejas partidas las achiras x 400 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 969.0,
+    "precio_hoy": 1182.0,
+    "diff_abs": 213.0,
+    "diff_pct": 21.98
   },
   {
-    "ean": "7791337010369",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
+    "ean": "7790681102652",
+    "nombre": "garbanzos las achiras x400gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1249.0,
+    "precio_hoy": 1523.0,
+    "diff_abs": 274.0,
+    "diff_pct": 21.94
   },
   {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
+    "ean": "7790681001313",
+    "nombre": "porotos l.achiras x500gr.alubi",
+    "categoria": "Almacen",
+    "precio_antes": 1599.0,
+    "precio_hoy": 1948.0,
+    "diff_abs": 349.0,
+    "diff_pct": 21.83
   },
   {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1671.0,
-    "diff_pct": 99.52
+    "ean": "7790681000897",
+    "nombre": "porotos pallares las achiras x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3429.0,
+    "precio_hoy": 4176.0,
+    "diff_abs": 747.0,
+    "diff_pct": 21.78
   },
   {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1671.0,
-    "diff_pct": 99.52
+    "ean": "7790681000354",
+    "nombre": "porotos alubias la egipciana",
+    "categoria": "Almacen",
+    "precio_antes": 2229.0,
+    "precio_hoy": 2714.0,
+    "diff_abs": 485.0,
+    "diff_pct": 21.76
   },
   {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3809.0,
-    "precio_hoy": 7510.0,
-    "diff_abs": 3701.0,
-    "diff_pct": 97.16
+    "ean": "7790681000347",
+    "nombre": "garbanzos la egipciana x 400 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1879.0,
+    "precio_hoy": 2286.0,
+    "diff_abs": 407.0,
+    "diff_pct": 21.66
   },
   {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3809.0,
-    "precio_hoy": 7510.0,
-    "diff_abs": 3701.0,
-    "diff_pct": 97.16
-  },
-  {
-    "ean": "7791813402015",
-    "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1750.0,
-    "diff_abs": 841.0,
-    "diff_pct": 92.52
-  },
-  {
-    "ean": "7791813402039",
-    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1750.0,
-    "diff_abs": 841.0,
-    "diff_pct": 92.52
-  },
-  {
-    "ean": "7791813402886",
-    "nombre": "agua saborizada h2o x 500 ml sin gas naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1750.0,
-    "diff_abs": 841.0,
-    "diff_pct": 92.52
-  },
-  {
-    "ean": "7791337008403",
-    "nombre": "leche chocolatada la serenisima x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2809.0,
-    "precio_hoy": 5271.0,
-    "diff_abs": 2462.0,
-    "diff_pct": 87.65
-  },
-  {
-    "ean": "7791337061507",
-    "nombre": "queso untable cremoso casancrem balance x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5009.0,
-    "precio_hoy": 9053.0,
-    "diff_abs": 4044.0,
-    "diff_pct": 80.73
-  },
-  {
-    "ean": "7791337007260",
-    "nombre": "leche chocolatada cindor x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
+    "ean": "7790681002235",
+    "nombre": "harina maiz l.egip.1min.x750gr",
+    "categoria": "Almacen",
     "precio_antes": 1499.0,
-    "precio_hoy": 2701.0,
-    "diff_abs": 1202.0,
-    "diff_pct": 80.19
+    "precio_hoy": 1777.0,
+    "diff_abs": 278.0,
+    "diff_pct": 18.55
+  },
+  {
+    "ean": "7790681002150",
+    "nombre": "arroz largo fino 00000 la egipciana x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 999.0,
+    "precio_hoy": 1183.0,
+    "diff_abs": 184.0,
+    "diff_pct": 18.42
+  },
+  {
+    "ean": "7790681000422",
+    "nombre": "harina de maiz la egipciana x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 989.0,
+    "precio_hoy": 1170.0,
+    "diff_abs": 181.0,
+    "diff_pct": 18.3
+  },
+  {
+    "ean": "7790681001139",
+    "nombre": "arroz l.egip.x500gr.fort.doble",
+    "categoria": "Almacen",
+    "precio_antes": 1379.0,
+    "precio_hoy": 1628.0,
+    "diff_abs": 249.0,
+    "diff_pct": 18.06
+  },
+  {
+    "ean": "7790681001931",
+    "nombre": "cereal de maiz la egipciana  inflado y ocnfitado x 100 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 1499.0,
+    "precio_hoy": 1763.0,
+    "diff_abs": 264.0,
+    "diff_pct": 17.61
+  },
+  {
+    "ean": "7790681001948",
+    "nombre": "cereal l.egip.x100gr.arroz",
+    "categoria": "Perfumeria",
+    "precio_antes": 1499.0,
+    "precio_hoy": 1763.0,
+    "diff_abs": 264.0,
+    "diff_pct": 17.61
+  },
+  {
+    "ean": "7790681001924",
+    "nombre": "cereal l.egip.x100gr.trigo",
+    "categoria": "Perfumeria",
+    "precio_antes": 1499.0,
+    "precio_hoy": 1763.0,
+    "diff_abs": 264.0,
+    "diff_pct": 17.61
   }
 ]

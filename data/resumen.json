@@ -1,147 +1,147 @@
 {
-  "fecha": "20260701",
-  "total_productos": 6035,
-  "variacion_dia": 1.98,
-  "variacion_7d": 3.42,
-  "variacion_mes": 3.2,
+  "fecha": "20260702",
+  "total_productos": 6070,
+  "variacion_dia": -0.39,
+  "variacion_7d": 2.5,
+  "variacion_mes": 1.99,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 4.47,
-      "productos_subieron": 227,
-      "productos_bajaron": 79,
-      "total_productos": 1340
+      "variacion_pct_promedio": 0.12,
+      "productos_subieron": 27,
+      "productos_bajaron": 2,
+      "total_productos": 1339
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 4.07,
-      "productos_subieron": 242,
-      "productos_bajaron": 34,
-      "total_productos": 1111
+      "variacion_pct_promedio": -2.23,
+      "productos_subieron": 6,
+      "productos_bajaron": 129,
+      "total_productos": 1107
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 2.31,
-      "productos_subieron": 38,
-      "productos_bajaron": 0,
-      "total_productos": 220
+      "variacion_pct_promedio": -1.63,
+      "productos_subieron": 1,
+      "productos_bajaron": 36,
+      "total_productos": 221
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 840
+      "total_productos": 854
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 2.17,
-      "productos_subieron": 141,
-      "productos_bajaron": 85,
-      "total_productos": 838
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 4,
+      "productos_bajaron": 5,
+      "total_productos": 835
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.57,
-      "productos_subieron": 47,
-      "productos_bajaron": 193,
-      "total_productos": 1657
+      "variacion_pct_promedio": 0.19,
+      "productos_subieron": 22,
+      "productos_bajaron": 6,
+      "total_productos": 1653
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7622300424084",
-      "nombre": "shot tableta x170gr.",
-      "categoria": "Almacen",
-      "precio_antes": 10682.0,
-      "precio_hoy": 6409.0,
-      "diff_abs": -4273.0,
-      "diff_pct": -40.0
+      "ean": "7791337010482",
+      "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5332.0,
+      "precio_hoy": 2109.0,
+      "diff_abs": -3223.0,
+      "diff_pct": -60.45
     },
     {
-      "ean": "7622201492465",
-      "nombre": "tabl.milka x45gr.choc.pau.oreo",
-      "categoria": "Almacen",
-      "precio_antes": 2813.0,
-      "precio_hoy": 1969.0,
-      "diff_abs": -844.0,
-      "diff_pct": -30.0
+      "ean": "7791337010499",
+      "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5332.0,
+      "precio_hoy": 2109.0,
+      "diff_abs": -3223.0,
+      "diff_pct": -60.45
     },
     {
-      "ean": "7622201492717",
-      "nombre": "tabl.milka x45gr.choco pause",
-      "categoria": "Almacen",
-      "precio_antes": 2813.0,
-      "precio_hoy": 1969.0,
-      "diff_abs": -844.0,
-      "diff_pct": -30.0
+      "ean": "7791337010369",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2099.0,
+      "diff_abs": -2408.0,
+      "diff_pct": -53.43
     },
     {
-      "ean": "7622210788207",
-      "nombre": "obleas milka bis x 105 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 4910.0,
-      "precio_hoy": 3439.0,
-      "diff_abs": -1471.0,
-      "diff_pct": -29.96
+      "ean": "7791337010215",
+      "nombre": "yogur ls.clas.ent.sh x900g.fru",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2099.0,
+      "diff_abs": -2408.0,
+      "diff_pct": -53.43
     },
     {
-      "ean": "7622210719829",
-      "nombre": "oblea milka bis oreo x 105 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 4910.0,
-      "precio_hoy": 3439.0,
-      "diff_abs": -1471.0,
-      "diff_pct": -29.96
+      "ean": "7791337010475",
+      "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2099.0,
+      "diff_abs": -2408.0,
+      "diff_pct": -53.43
     },
     {
-      "ean": "7622201759636",
-      "nombre": "galletitas oreo original x 354 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 6551.0,
-      "precio_hoy": 4589.0,
-      "diff_abs": -1962.0,
-      "diff_pct": -29.95
+      "ean": "7791337010376",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2099.0,
+      "diff_abs": -2408.0,
+      "diff_pct": -53.43
     },
     {
-      "ean": "7622201735883",
-      "nombre": "gall.pepitos x357gr.clasica",
-      "categoria": "Perfumeria",
-      "precio_antes": 6177.0,
-      "precio_hoy": 4329.0,
-      "diff_abs": -1848.0,
-      "diff_pct": -29.92
+      "ean": "2017510000008",
+      "nombre": "queso cheddar la serenisima x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 43574.0,
+      "precio_hoy": 21787.0,
+      "diff_abs": -21787.0,
+      "diff_pct": -50.0
     },
     {
-      "ean": "7622202839962",
-      "nombre": "gall.variedad x390gr.mix",
-      "categoria": "Perfumeria",
-      "precio_antes": 3979.0,
-      "precio_hoy": 2789.0,
-      "diff_abs": -1190.0,
-      "diff_pct": -29.91
+      "ean": "7791337008403",
+      "nombre": "leche chocolatada la serenisima x 1 lt.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5271.0,
+      "precio_hoy": 2809.0,
+      "diff_abs": -2462.0,
+      "diff_pct": -46.71
     },
     {
-      "ean": "7622202816437",
-      "nombre": "alfajor shot x 36 gm triple blanco",
-      "categoria": "Almacen",
-      "precio_antes": 2120.0,
-      "precio_hoy": 1489.0,
-      "diff_abs": -631.0,
-      "diff_pct": -29.76
+      "ean": "7791337061507",
+      "nombre": "queso untable cremoso casancrem balance x 500 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 9053.0,
+      "precio_hoy": 4999.0,
+      "diff_abs": -4054.0,
+      "diff_pct": -44.78
     },
     {
-      "ean": "77956699",
-      "nombre": "alfajor shot x60gr.triple",
-      "categoria": "Almacen",
-      "precio_antes": 2120.0,
-      "precio_hoy": 1489.0,
-      "diff_abs": -631.0,
-      "diff_pct": -29.76
+      "ean": "7791337061361",
+      "nombre": "queso crema casancrem x 290 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5852.0,
+      "precio_hoy": 3299.0,
+      "diff_abs": -2553.0,
+      "diff_pct": -43.63
     }
   ],
-  "productos_subieron_dia": 695,
-  "productos_bajaron_dia": 391,
-  "productos_sin_cambio_dia": 4920
+  "productos_subieron_dia": 60,
+  "productos_bajaron_dia": 178,
+  "productos_sin_cambio_dia": 5771
 }

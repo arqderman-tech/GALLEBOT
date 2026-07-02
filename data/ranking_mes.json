@@ -1,16 +1,7 @@
 [
   {
-    "ean": "7790936000436",
-    "nombre": "sal tresal x500gr.fina ligh es",
-    "categoria": "Almacen",
-    "precio_antes": 1999.0,
-    "precio_hoy": 6197.0,
-    "diff_abs": 4198.0,
-    "diff_pct": 210.01
-  },
-  {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "ean": "7791813403012",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
     "categoria": "Bebidas",
     "precio_antes": 1519.0,
     "precio_hoy": 3250.0,
@@ -27,51 +18,6 @@
     "diff_pct": 113.96
   },
   {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1731.0,
-    "diff_pct": 113.96
-  },
-  {
-    "ean": "7798062547559",
-    "nombre": "agua mineral sin gas villa del sur x 2,25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1299.0,
-    "precio_hoy": 2693.0,
-    "diff_abs": 1394.0,
-    "diff_pct": 107.31
-  },
-  {
-    "ean": "2017510000008",
-    "nombre": "queso cheddar la serenisima x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 21255.0,
-    "precio_hoy": 43574.0,
-    "diff_abs": 22319.0,
-    "diff_pct": 105.01
-  },
-  {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 100.25
-  },
-  {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1671.0,
-    "diff_pct": 99.52
-  },
-  {
     "ean": "7791813405030",
     "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
     "categoria": "Bebidas",
@@ -81,13 +27,13 @@
     "diff_pct": 99.52
   },
   {
-    "ean": "7795930000543",
-    "nombre": "agua mineral pureza vital x2.25lt.sin gas",
+    "ean": "7791813405023",
+    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
     "categoria": "Bebidas",
-    "precio_antes": 1309.0,
-    "precio_hoy": 2603.0,
-    "diff_abs": 1294.0,
-    "diff_pct": 98.85
+    "precio_antes": 1679.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1671.0,
+    "diff_pct": 99.52
   },
   {
     "ean": "7791813402039",
@@ -117,66 +63,120 @@
     "diff_pct": 92.52
   },
   {
-    "ean": "2016350000001",
-    "nombre": "dulce de membrillo en caja dulcor x kg.",
+    "ean": "2031890000007",
+    "nombre": "boga despinada envasada al vacio x kilo",
+    "categoria": "Congelados",
+    "precio_antes": 19169.0,
+    "precio_hoy": 32118.0,
+    "diff_abs": 12949.0,
+    "diff_pct": 67.55
+  },
+  {
+    "ean": "7793147574185",
+    "nombre": "cerveza salta cautiva x 473 ml fresh lager",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 62.65
+  },
+  {
+    "ean": "7793147572389",
+    "nombre": "cerveza salta cautiva roja -",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 62.65
+  },
+  {
+    "ean": "7793147572327",
+    "nombre": "cerveza salta cautiva rubia  x 473 m",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 62.65
+  },
+  {
+    "ean": "7793147573683",
+    "nombre": "cerveza salta cautiva ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 62.65
+  },
+  {
+    "ean": "7793147572334",
+    "nombre": "cerveza salta cautiva rubia x 1 lt. retornable",
+    "categoria": "Bebidas",
+    "precio_antes": 3219.0,
+    "precio_hoy": 5230.0,
+    "diff_abs": 2011.0,
+    "diff_pct": 62.47
+  },
+  {
+    "ean": "4000856005217",
+    "nombre": "cerveza wasteiner long x 330 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 2349.0,
+    "precio_hoy": 3815.0,
+    "diff_abs": 1466.0,
+    "diff_pct": 62.41
+  },
+  {
+    "ean": "7793147573492",
+    "nombre": "cerveza miller long neck x 330 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2349.0,
+    "precio_hoy": 3815.0,
+    "diff_abs": 1466.0,
+    "diff_pct": 62.41
+  },
+  {
+    "ean": "7793147574109",
+    "nombre": "cerveza imperial golden long neck x 330 cc",
+    "categoria": "Bebidas",
+    "precio_antes": 2149.0,
+    "precio_hoy": 3485.0,
+    "diff_abs": 1336.0,
+    "diff_pct": 62.17
+  },
+  {
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 60.12
+  },
+  {
+    "ean": "2020350000008",
+    "nombre": "chaucha ballina x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 60.12
+  },
+  {
+    "ean": "2022080000006",
+    "nombre": "rucula x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1590.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 900.0,
+    "diff_pct": 56.6
+  },
+  {
+    "ean": "7790040144095",
+    "nombre": "gall.traviatas x540gr.",
     "categoria": "Perfumeria",
-    "precio_antes": 3332.51,
-    "precio_hoy": 5850.0,
-    "diff_abs": 2517.49,
-    "diff_pct": 75.54
-  },
-  {
-    "ean": "7792798992317",
-    "nombre": "cerveza andes roja lata x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1819.0,
-    "precio_hoy": 3191.0,
-    "diff_abs": 1372.0,
-    "diff_pct": 75.43
-  },
-  {
-    "ean": "7792798001965",
-    "nombre": "cerveza patagonia amber lager lata x 473 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 2699.0,
-    "precio_hoy": 4725.0,
-    "diff_abs": 2026.0,
-    "diff_pct": 75.06
-  },
-  {
-    "ean": "7792799000059",
-    "nombre": "agua mineral sin gas eco de los andes x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1609.0,
-    "precio_hoy": 2815.0,
-    "diff_abs": 1206.0,
-    "diff_pct": 74.95
-  },
-  {
-    "ean": "7792799000097",
-    "nombre": "agua mineral eco de los andes x 2 lt. sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1829.0,
-    "precio_hoy": 3187.0,
-    "diff_abs": 1358.0,
-    "diff_pct": 74.25
-  },
-  {
-    "ean": "7795930002097",
-    "nombre": "agua mineral eco de los andes sin gas x 850 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1429.0,
-    "precio_hoy": 2486.0,
-    "diff_abs": 1057.0,
-    "diff_pct": 73.97
-  },
-  {
-    "ean": "7792798014156",
-    "nombre": "cerveza andes rubia origen lata x 710 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 2529.0,
-    "precio_hoy": 4368.0,
-    "diff_abs": 1839.0,
-    "diff_pct": 72.72
+    "precio_antes": 1899.0,
+    "precio_hoy": 2960.0,
+    "diff_abs": 1061.0,
+    "diff_pct": 55.87
   }
 ]
