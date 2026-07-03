@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7797906054819",
-    "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 9939.0,
-    "precio_hoy": 15291.0,
-    "diff_abs": 5352.0,
-    "diff_pct": 53.85
+    "ean": "7791250801839",
+    "nombre": "gin gordons x 700 ml tropical",
+    "categoria": "Bebidas",
+    "precio_antes": 13299.0,
+    "precio_hoy": 17357.0,
+    "diff_abs": 4058.0,
+    "diff_pct": 30.51
   },
   {
-    "ean": "7790681000583",
-    "nombre": "lentejas michelon x 400 gr.",
+    "ean": "7794000006492",
+    "nombre": "savora x 200 gr original patria sqz",
     "categoria": "Almacen",
-    "precio_antes": 1369.0,
-    "precio_hoy": 1880.0,
-    "diff_abs": 511.0,
-    "diff_pct": 37.33
+    "precio_antes": 2129.0,
+    "precio_hoy": 2501.0,
+    "diff_abs": 372.0,
+    "diff_pct": 17.47
   },
   {
-    "ean": "7790681002044",
-    "nombre": "lentejas las achiras x 400 gr.",
+    "ean": "7790415000469",
+    "nombre": "vino blanco familia gascon dulce natural x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5999.0,
+    "precio_hoy": 7023.2,
+    "diff_abs": 1024.2,
+    "diff_pct": 17.07
+  },
+  {
+    "ean": "7790415128033",
+    "nombre": "vino familia gascon rose x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5999.0,
+    "precio_hoy": 7023.2,
+    "diff_abs": 1024.2,
+    "diff_pct": 17.07
+  },
+  {
+    "ean": "7790415127814",
+    "nombre": "vino tinto familia gascon cabernet sauvignon x 750",
+    "categoria": "Bebidas",
+    "precio_antes": 5999.0,
+    "precio_hoy": 7023.2,
+    "diff_abs": 1024.2,
+    "diff_pct": 17.07
+  },
+  {
+    "ean": "7790415130791",
+    "nombre": "vino tinto familia gascon red blend x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5999.0,
+    "precio_hoy": 7023.2,
+    "diff_abs": 1024.2,
+    "diff_pct": 17.07
+  },
+  {
+    "ean": "7790415128217",
+    "nombre": "vino tinto familia gascon syrah x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5999.0,
+    "precio_hoy": 7023.2,
+    "diff_abs": 1024.2,
+    "diff_pct": 17.07
+  },
+  {
+    "ean": "7790415128767",
+    "nombre": "vino tinto familia gascon roble cabernet sauvignon",
+    "categoria": "Bebidas",
+    "precio_antes": 7099.0,
+    "precio_hoy": 8288.85,
+    "diff_abs": 1189.85,
+    "diff_pct": 16.76
+  },
+  {
+    "ean": "7790415130814",
+    "nombre": "vino tinto familia gascon roble blend x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 7099.0,
+    "precio_hoy": 8288.85,
+    "diff_abs": 1189.85,
+    "diff_pct": 16.76
+  },
+  {
+    "ean": "7790415128729",
+    "nombre": "vino tinto familia gascon roble malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 7099.0,
+    "precio_hoy": 8288.85,
+    "diff_abs": 1189.85,
+    "diff_pct": 16.76
+  },
+  {
+    "ean": "7790415131217",
+    "nombre": "vino tinto lola montes cabernet sauvignon x 750 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 4899.0,
+    "precio_hoy": 5718.06,
+    "diff_abs": 819.06,
+    "diff_pct": 16.72
+  },
+  {
+    "ean": "7790415131194",
+    "nombre": "vino tinto lola montes x 750 ml. malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 4899.0,
+    "precio_hoy": 5718.06,
+    "diff_abs": 819.06,
+    "diff_pct": 16.72
+  },
+  {
+    "ean": "7790415002760",
+    "nombre": "vino lola montes red blend x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4899.0,
+    "precio_hoy": 5718.06,
+    "diff_abs": 819.06,
+    "diff_pct": 16.72
+  },
+  {
+    "ean": "7790415130739",
+    "nombre": "vino lola montes rose x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4899.0,
+    "precio_hoy": 5718.06,
+    "diff_abs": 819.06,
+    "diff_pct": 16.72
+  },
+  {
+    "ean": "7790415130555",
+    "nombre": "vino tinto circus roble x 750 ml malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 4499.0,
+    "precio_hoy": 5244.17,
+    "diff_abs": 745.17,
+    "diff_pct": 16.56
+  },
+  {
+    "ean": "7790415130517",
+    "nombre": "vino circus roble x 750 ml. cabernet sauvignon",
+    "categoria": "Bebidas",
+    "precio_antes": 4499.0,
+    "precio_hoy": 5244.17,
+    "diff_abs": 745.17,
+    "diff_pct": 16.56
+  },
+  {
+    "ean": "7790415130630",
+    "nombre": "vino tinto circus roble x 750 ml. blend",
+    "categoria": "Bebidas",
+    "precio_antes": 4499.0,
+    "precio_hoy": 5244.17,
+    "diff_abs": 745.17,
+    "diff_pct": 16.56
+  },
+  {
+    "ean": "7794000009431",
+    "nombre": "mayonesa hellmanns x 250 gm sabor asado",
     "categoria": "Almacen",
-    "precio_antes": 1319.0,
-    "precio_hoy": 1810.0,
-    "diff_abs": 491.0,
-    "diff_pct": 37.23
+    "precio_antes": 2699.0,
+    "precio_hoy": 3133.0,
+    "diff_abs": 434.0,
+    "diff_pct": 16.08
   },
   {
-    "ean": "7790681000880",
-    "nombre": "maiz pisingallo las achiras",
+    "ean": "7791540000218",
+    "nombre": "sidra dada x 750 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 5999.0,
+    "precio_hoy": 6887.0,
+    "diff_abs": 888.0,
+    "diff_pct": 14.8
+  },
+  {
+    "ean": "7794000005150",
+    "nombre": "mayonesa hellmann`s receta casera x 232 gr.",
     "categoria": "Almacen",
-    "precio_antes": 819.0,
-    "precio_hoy": 1112.0,
-    "diff_abs": 293.0,
-    "diff_pct": 35.78
-  },
-  {
-    "ean": "7790681000286",
-    "nombre": "maiz pisingallo la egipciana",
-    "categoria": "Almacen",
-    "precio_antes": 1079.0,
-    "precio_hoy": 1392.0,
-    "diff_abs": 313.0,
-    "diff_pct": 29.01
-  },
-  {
-    "ean": "7790681002037",
-    "nombre": "lentejas l.egip.x400gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1619.0,
-    "precio_hoy": 2088.0,
-    "diff_abs": 469.0,
-    "diff_pct": 28.97
-  },
-  {
-    "ean": "7790681000729",
-    "nombre": "lentejon michelon x400gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1699.0,
-    "precio_hoy": 2191.0,
-    "diff_abs": 492.0,
-    "diff_pct": 28.96
-  },
-  {
-    "ean": "7790681000200",
-    "nombre": "arvejas partidas las achiras x 400 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 969.0,
-    "precio_hoy": 1182.0,
-    "diff_abs": 213.0,
-    "diff_pct": 21.98
-  },
-  {
-    "ean": "7790681102652",
-    "nombre": "garbanzos las achiras x400gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1249.0,
-    "precio_hoy": 1523.0,
-    "diff_abs": 274.0,
-    "diff_pct": 21.94
-  },
-  {
-    "ean": "7790681001313",
-    "nombre": "porotos l.achiras x500gr.alubi",
-    "categoria": "Almacen",
-    "precio_antes": 1599.0,
-    "precio_hoy": 1948.0,
-    "diff_abs": 349.0,
-    "diff_pct": 21.83
-  },
-  {
-    "ean": "7790681000897",
-    "nombre": "porotos pallares las achiras x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3429.0,
-    "precio_hoy": 4176.0,
-    "diff_abs": 747.0,
-    "diff_pct": 21.78
-  },
-  {
-    "ean": "7790681000354",
-    "nombre": "porotos alubias la egipciana",
-    "categoria": "Almacen",
-    "precio_antes": 2229.0,
-    "precio_hoy": 2714.0,
-    "diff_abs": 485.0,
-    "diff_pct": 21.76
-  },
-  {
-    "ean": "7790681000347",
-    "nombre": "garbanzos la egipciana x 400 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1879.0,
-    "precio_hoy": 2286.0,
-    "diff_abs": 407.0,
-    "diff_pct": 21.66
-  },
-  {
-    "ean": "7790681002235",
-    "nombre": "harina maiz l.egip.1min.x750gr",
-    "categoria": "Almacen",
-    "precio_antes": 1499.0,
-    "precio_hoy": 1777.0,
-    "diff_abs": 278.0,
-    "diff_pct": 18.55
-  },
-  {
-    "ean": "7790681002150",
-    "nombre": "arroz largo fino 00000 la egipciana x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 999.0,
-    "precio_hoy": 1183.0,
-    "diff_abs": 184.0,
-    "diff_pct": 18.42
-  },
-  {
-    "ean": "7790681000422",
-    "nombre": "harina de maiz la egipciana x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 989.0,
-    "precio_hoy": 1170.0,
-    "diff_abs": 181.0,
-    "diff_pct": 18.3
-  },
-  {
-    "ean": "7790681001139",
-    "nombre": "arroz l.egip.x500gr.fort.doble",
-    "categoria": "Almacen",
-    "precio_antes": 1379.0,
-    "precio_hoy": 1628.0,
-    "diff_abs": 249.0,
-    "diff_pct": 18.06
-  },
-  {
-    "ean": "7790681001931",
-    "nombre": "cereal de maiz la egipciana  inflado y ocnfitado x 100 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 1499.0,
-    "precio_hoy": 1763.0,
-    "diff_abs": 264.0,
-    "diff_pct": 17.61
-  },
-  {
-    "ean": "7790681001948",
-    "nombre": "cereal l.egip.x100gr.arroz",
-    "categoria": "Perfumeria",
-    "precio_antes": 1499.0,
-    "precio_hoy": 1763.0,
-    "diff_abs": 264.0,
-    "diff_pct": 17.61
-  },
-  {
-    "ean": "7790681001924",
-    "nombre": "cereal l.egip.x100gr.trigo",
-    "categoria": "Perfumeria",
-    "precio_antes": 1499.0,
-    "precio_hoy": 1763.0,
-    "diff_abs": 264.0,
-    "diff_pct": 17.61
+    "precio_antes": 2299.0,
+    "precio_hoy": 2633.0,
+    "diff_abs": 334.0,
+    "diff_pct": 14.53
   }
 ]

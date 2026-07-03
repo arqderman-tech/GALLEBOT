@@ -1,59 +1,5 @@
 [
   {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1731.0,
-    "diff_pct": 113.96
-  },
-  {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1731.0,
-    "diff_pct": 113.96
-  },
-  {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1671.0,
-    "diff_pct": 99.52
-  },
-  {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1671.0,
-    "diff_pct": 99.52
-  },
-  {
-    "ean": "7791813402039",
-    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1750.0,
-    "diff_abs": 841.0,
-    "diff_pct": 92.52
-  },
-  {
-    "ean": "7791813402015",
-    "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1750.0,
-    "diff_abs": 841.0,
-    "diff_pct": 92.52
-  },
-  {
     "ean": "7791813402886",
     "nombre": "agua saborizada h2o x 500 ml sin gas naranja",
     "categoria": "Bebidas",
@@ -81,8 +27,8 @@
     "diff_pct": 62.65
   },
   {
-    "ean": "7793147572389",
-    "nombre": "cerveza salta cautiva roja -",
+    "ean": "7793147572327",
+    "nombre": "cerveza salta cautiva rubia  x 473 m",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -90,8 +36,8 @@
     "diff_pct": 62.65
   },
   {
-    "ean": "7793147572327",
-    "nombre": "cerveza salta cautiva rubia  x 473 m",
+    "ean": "7793147572389",
+    "nombre": "cerveza salta cautiva roja -",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -144,8 +90,8 @@
     "diff_pct": 62.17
   },
   {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
+    "ean": "2020350000008",
+    "nombre": "chaucha ballina x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 4990.0,
     "precio_hoy": 7990.0,
@@ -153,8 +99,8 @@
     "diff_pct": 60.12
   },
   {
-    "ean": "2020350000008",
-    "nombre": "chaucha ballina x kg.",
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 4990.0,
     "precio_hoy": 7990.0,
@@ -178,5 +124,59 @@
     "precio_hoy": 2960.0,
     "diff_abs": 1061.0,
     "diff_pct": 55.87
+  },
+  {
+    "ean": "7791250801839",
+    "nombre": "gin gordons x 700 ml tropical",
+    "categoria": "Bebidas",
+    "precio_antes": 11185.51,
+    "precio_hoy": 17357.0,
+    "diff_abs": 6171.49,
+    "diff_pct": 55.17
+  },
+  {
+    "ean": "7790040144088",
+    "nombre": "gall.traviatas 3x118gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1249.0,
+    "precio_hoy": 1937.0,
+    "diff_abs": 688.0,
+    "diff_pct": 55.08
+  },
+  {
+    "ean": "7790040143005",
+    "nombre": "gall.media tarde sand.x321gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1279.0,
+    "precio_hoy": 1968.0,
+    "diff_abs": 689.0,
+    "diff_pct": 53.87
+  },
+  {
+    "ean": "7792798008858",
+    "nombre": "cerveza temple wolf ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3079.0,
+    "precio_hoy": 4725.0,
+    "diff_abs": 1646.0,
+    "diff_pct": 53.46
+  },
+  {
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 790.0,
+    "precio_hoy": 1190.0,
+    "diff_abs": 400.0,
+    "diff_pct": 50.63
+  },
+  {
+    "ean": "2021020000007",
+    "nombre": "hinojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.13
   }
 ]

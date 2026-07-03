@@ -1,59 +1,5 @@
 [
   {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1731.0,
-    "diff_pct": 113.96
-  },
-  {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1731.0,
-    "diff_pct": 113.96
-  },
-  {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1519.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1731.0,
-    "diff_pct": 113.96
-  },
-  {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1671.0,
-    "diff_pct": 99.52
-  },
-  {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-    "categoria": "Bebidas",
-    "precio_antes": 1679.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1671.0,
-    "diff_pct": 99.52
-  },
-  {
-    "ean": "7794000008540",
-    "nombre": "caldo sabor gallina knorr x 12 cubos",
-    "categoria": "Almacen",
-    "precio_antes": 1559.0,
-    "precio_hoy": 3014.0,
-    "diff_abs": 1455.0,
-    "diff_pct": 93.33
-  },
-  {
     "ean": "7791813402886",
     "nombre": "agua saborizada h2o x 500 ml sin gas naranja",
     "categoria": "Bebidas",
@@ -63,112 +9,58 @@
     "diff_pct": 92.52
   },
   {
-    "ean": "7791813402015",
-    "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1750.0,
-    "diff_abs": 841.0,
-    "diff_pct": 92.52
-  },
-  {
-    "ean": "7791813402039",
-    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1750.0,
-    "diff_abs": 841.0,
-    "diff_pct": 92.52
+    "ean": "7794000008540",
+    "nombre": "caldo sabor gallina knorr x 12 cubos",
+    "categoria": "Almacen",
+    "precio_antes": 1559.0,
+    "precio_hoy": 2579.0,
+    "diff_abs": 1020.0,
+    "diff_pct": 65.43
   },
   {
     "ean": "7794000008922",
     "nombre": "aderezo hellmann`s picante x 340 gr.",
     "categoria": "Almacen",
     "precio_antes": 2299.0,
-    "precio_hoy": 4423.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 92.39
-  },
-  {
-    "ean": "7794000008229",
-    "nombre": "bizcochuelo maizena libre de gluten x 450 gr. vaia",
-    "categoria": "Almacen",
-    "precio_antes": 3359.0,
-    "precio_hoy": 6285.0,
-    "diff_abs": 2926.0,
-    "diff_pct": 87.11
-  },
-  {
-    "ean": "7794000009172",
-    "nombre": "mix de sabores knorr pollos x 4 sobres",
-    "categoria": "Almacen",
-    "precio_antes": 919.0,
-    "precio_hoy": 1714.0,
-    "diff_abs": 795.0,
-    "diff_pct": 86.51
-  },
-  {
-    "ean": "7794000009196",
-    "nombre": "sabor knorr mix x 4 sobres sabor barbacoa ahumada",
-    "categoria": "Almacen",
-    "precio_antes": 919.0,
-    "precio_hoy": 1714.0,
-    "diff_abs": 795.0,
-    "diff_pct": 86.51
-  },
-  {
-    "ean": "7794000009141",
-    "nombre": "mix de sabores knorr oregano, tomate y ajo x 4 sos",
-    "categoria": "Almacen",
-    "precio_antes": 919.0,
-    "precio_hoy": 1714.0,
-    "diff_abs": 795.0,
-    "diff_pct": 86.51
-  },
-  {
-    "ean": "7794000009189",
-    "nombre": "mix de sabor knorr aji,comino y pimenton x 4 sobrs",
-    "categoria": "Almacen",
-    "precio_antes": 919.0,
-    "precio_hoy": 1714.0,
-    "diff_abs": 795.0,
-    "diff_pct": 86.51
-  },
-  {
-    "ean": "7794000009295",
-    "nombre": "mix de sabores knorr coboulette y puerro x 4 sobres",
-    "categoria": "Almacen",
-    "precio_antes": 920.0,
-    "precio_hoy": 1714.0,
-    "diff_abs": 794.0,
-    "diff_pct": 86.3
-  },
-  {
-    "ean": "7794000008915",
-    "nombre": "aderezo hellmann`s picante x 250 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1689.0,
-    "precio_hoy": 3133.0,
-    "diff_abs": 1444.0,
-    "diff_pct": 85.49
-  },
-  {
-    "ean": "7794000007796",
-    "nombre": "barbacoa hellmanns x 400 gm plastica",
-    "categoria": "Almacen",
-    "precio_antes": 3039.0,
-    "precio_hoy": 5578.0,
-    "diff_abs": 2539.0,
-    "diff_pct": 83.55
+    "precio_hoy": 3799.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 65.25
   },
   {
     "ean": "7794000007741",
     "nombre": "salsa golf hellmann`s x 250 gr.",
     "categoria": "Almacen",
     "precio_antes": 1599.0,
-    "precio_hoy": 2840.0,
-    "diff_abs": 1241.0,
-    "diff_pct": 77.61
+    "precio_hoy": 2639.0,
+    "diff_abs": 1040.0,
+    "diff_pct": 65.04
+  },
+  {
+    "ean": "7793147572389",
+    "nombre": "cerveza salta cautiva roja -",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 62.65
+  },
+  {
+    "ean": "7793147573683",
+    "nombre": "cerveza salta cautiva ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 62.65
+  },
+  {
+    "ean": "7793147574185",
+    "nombre": "cerveza salta cautiva x 473 ml fresh lager",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 62.65
   },
   {
     "ean": "7793147572327",
@@ -178,5 +70,113 @@
     "precio_hoy": 3105.0,
     "diff_abs": 1196.0,
     "diff_pct": 62.65
+  },
+  {
+    "ean": "7793147572334",
+    "nombre": "cerveza salta cautiva rubia x 1 lt. retornable",
+    "categoria": "Bebidas",
+    "precio_antes": 3219.0,
+    "precio_hoy": 5230.0,
+    "diff_abs": 2011.0,
+    "diff_pct": 62.47
+  },
+  {
+    "ean": "4000856005217",
+    "nombre": "cerveza wasteiner long x 330 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 2349.0,
+    "precio_hoy": 3815.0,
+    "diff_abs": 1466.0,
+    "diff_pct": 62.41
+  },
+  {
+    "ean": "7793147573492",
+    "nombre": "cerveza miller long neck x 330 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2349.0,
+    "precio_hoy": 3815.0,
+    "diff_abs": 1466.0,
+    "diff_pct": 62.41
+  },
+  {
+    "ean": "7793147574109",
+    "nombre": "cerveza imperial golden long neck x 330 cc",
+    "categoria": "Bebidas",
+    "precio_antes": 2149.0,
+    "precio_hoy": 3485.0,
+    "diff_abs": 1336.0,
+    "diff_pct": 62.17
+  },
+  {
+    "ean": "7794000005846",
+    "nombre": "sopa de vegetales knorr con caracolitos verdes x80",
+    "categoria": "Almacen",
+    "precio_antes": 1599.0,
+    "precio_hoy": 2589.0,
+    "diff_abs": 990.0,
+    "diff_pct": 61.91
+  },
+  {
+    "ean": "7794000007796",
+    "nombre": "barbacoa hellmanns x 400 gm plastica",
+    "categoria": "Almacen",
+    "precio_antes": 3039.0,
+    "precio_hoy": 4899.0,
+    "diff_abs": 1860.0,
+    "diff_pct": 61.2
+  },
+  {
+    "ean": "7794000008229",
+    "nombre": "bizcochuelo maizena libre de gluten x 450 gr. vaia",
+    "categoria": "Almacen",
+    "precio_antes": 3359.0,
+    "precio_hoy": 5399.0,
+    "diff_abs": 2040.0,
+    "diff_pct": 60.73
+  },
+  {
+    "ean": "7794000009196",
+    "nombre": "sabor knorr mix x 4 sobres sabor barbacoa ahumada",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1469.0,
+    "diff_abs": 550.0,
+    "diff_pct": 59.85
+  },
+  {
+    "ean": "7794000009189",
+    "nombre": "mix de sabor knorr aji,comino y pimenton x 4 sobrs",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1469.0,
+    "diff_abs": 550.0,
+    "diff_pct": 59.85
+  },
+  {
+    "ean": "7794000009141",
+    "nombre": "mix de sabores knorr oregano, tomate y ajo x 4 sos",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1469.0,
+    "diff_abs": 550.0,
+    "diff_pct": 59.85
+  },
+  {
+    "ean": "7794000009172",
+    "nombre": "mix de sabores knorr pollos x 4 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1469.0,
+    "diff_abs": 550.0,
+    "diff_pct": 59.85
+  },
+  {
+    "ean": "7794000009295",
+    "nombre": "mix de sabores knorr coboulette y puerro x 4 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 920.0,
+    "precio_hoy": 1469.0,
+    "diff_abs": 549.0,
+    "diff_pct": 59.67
   }
 ]
