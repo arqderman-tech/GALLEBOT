@@ -1,147 +1,147 @@
 {
-  "fecha": "20260703",
-  "total_productos": 6133,
-  "variacion_dia": -0.67,
-  "variacion_7d": 1.59,
-  "variacion_mes": 0.62,
+  "fecha": "20260704",
+  "total_productos": 6085,
+  "variacion_dia": -0.15,
+  "variacion_7d": 1.38,
+  "variacion_mes": 0.9,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -1.68,
-      "productos_subieron": 40,
-      "productos_bajaron": 112,
-      "total_productos": 1350
+      "variacion_pct_promedio": -0.68,
+      "productos_subieron": 1,
+      "productos_bajaron": 42,
+      "total_productos": 1362
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.08,
-      "productos_subieron": 2,
-      "productos_bajaron": 6,
-      "total_productos": 1118
+      "variacion_pct_promedio": 0.12,
+      "productos_subieron": 18,
+      "productos_bajaron": 2,
+      "total_productos": 1124
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -0.16,
+      "variacion_pct_promedio": -0.0,
       "productos_subieron": 0,
       "productos_bajaron": 1,
-      "total_productos": 222
+      "total_productos": 223
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 858
+      "total_productos": 857
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -1.63,
-      "productos_subieron": 14,
-      "productos_bajaron": 73,
-      "total_productos": 843
+      "variacion_pct_promedio": 0.07,
+      "productos_subieron": 19,
+      "productos_bajaron": 5,
+      "total_productos": 833
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.2,
-      "productos_subieron": 63,
-      "productos_bajaron": 47,
-      "total_productos": 1674
+      "variacion_pct_promedio": -0.1,
+      "productos_subieron": 25,
+      "productos_bajaron": 24,
+      "total_productos": 1681
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7791813403029",
-      "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+      "ean": "7793147572853",
+      "nombre": "cerveza amstel lata x 710 ml lager",
       "categoria": "Bebidas",
-      "precio_antes": 3250.0,
-      "precio_hoy": 1789.0,
-      "diff_abs": -1461.0,
-      "diff_pct": -44.95
+      "precio_antes": 3925.0,
+      "precio_hoy": 2629.0,
+      "diff_abs": -1296.0,
+      "diff_pct": -33.02
     },
     {
-      "ean": "7791813403012",
-      "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+      "ean": "7793147570286",
+      "nombre": "cerveza santa fe x 473 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 3250.0,
-      "precio_hoy": 1789.0,
-      "diff_abs": -1461.0,
-      "diff_pct": -44.95
+      "precio_antes": 2615.0,
+      "precio_hoy": 1839.0,
+      "diff_abs": -776.0,
+      "diff_pct": -29.67
     },
     {
-      "ean": "7791813403036",
-      "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+      "ean": "7793147572075",
+      "nombre": "cerveza santa fe pilsen x 473 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 3250.0,
-      "precio_hoy": 1789.0,
-      "diff_abs": -1461.0,
-      "diff_pct": -44.95
+      "precio_antes": 2615.0,
+      "precio_hoy": 1839.0,
+      "diff_abs": -776.0,
+      "diff_pct": -29.67
     },
     {
-      "ean": "7791813405023",
-      "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-      "categoria": "Bebidas",
-      "precio_antes": 3350.0,
-      "precio_hoy": 1849.0,
-      "diff_abs": -1501.0,
-      "diff_pct": -44.81
+      "ean": "7790681002044",
+      "nombre": "lentejas las achiras x 400 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1810.0,
+      "precio_hoy": 1279.0,
+      "diff_abs": -531.0,
+      "diff_pct": -29.34
     },
     {
-      "ean": "7791813405030",
-      "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-      "categoria": "Bebidas",
-      "precio_antes": 3350.0,
-      "precio_hoy": 1849.0,
-      "diff_abs": -1501.0,
-      "diff_pct": -44.81
+      "ean": "7790681000583",
+      "nombre": "lentejas michelon x 400 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1880.0,
+      "precio_hoy": 1329.0,
+      "diff_abs": -551.0,
+      "diff_pct": -29.31
     },
     {
-      "ean": "7795930000543",
-      "nombre": "agua mineral pureza vital x2.25lt.sin gas",
-      "categoria": "Bebidas",
-      "precio_antes": 2603.0,
-      "precio_hoy": 1509.0,
-      "diff_abs": -1094.0,
-      "diff_pct": -42.03
+      "ean": "7790681000880",
+      "nombre": "maiz pisingallo las achiras",
+      "categoria": "Almacen",
+      "precio_antes": 1112.0,
+      "precio_hoy": 789.0,
+      "diff_abs": -323.0,
+      "diff_pct": -29.05
     },
     {
-      "ean": "7792799000059",
-      "nombre": "agua mineral sin gas eco de los andes x 1.5 lt.",
+      "ean": "7790314077630",
+      "nombre": "vino tinto finca magnolia cabernet sauvignon x 750",
       "categoria": "Bebidas",
-      "precio_antes": 2815.0,
-      "precio_hoy": 1689.0,
-      "diff_abs": -1126.0,
-      "diff_pct": -40.0
+      "precio_antes": 6332.0,
+      "precio_hoy": 4499.0,
+      "diff_abs": -1833.0,
+      "diff_pct": -28.95
     },
     {
-      "ean": "7792799000097",
-      "nombre": "agua mineral eco de los andes x 2 lt. sin gas",
+      "ean": "7790314077623",
+      "nombre": "vino magnolia negra malbec x 750 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 3187.0,
-      "precio_hoy": 1919.0,
-      "diff_abs": -1268.0,
-      "diff_pct": -39.79
+      "precio_antes": 6332.0,
+      "precio_hoy": 4499.0,
+      "diff_abs": -1833.0,
+      "diff_pct": -28.95
     },
     {
-      "ean": "7795930002097",
-      "nombre": "agua mineral eco de los andes sin gas x 850 ml.",
+      "ean": "7790314079993",
+      "nombre": "vino tinto finca magnolia x 750 ml. malbec",
       "categoria": "Bebidas",
-      "precio_antes": 2486.0,
-      "precio_hoy": 1499.0,
-      "diff_abs": -987.0,
-      "diff_pct": -39.7
+      "precio_antes": 5595.0,
+      "precio_hoy": 3999.0,
+      "diff_abs": -1596.0,
+      "diff_pct": -28.53
     },
     {
-      "ean": "7792798002399",
-      "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
+      "ean": "7790314064012",
+      "nombre": "vino tinto finca magnolia x 750 ml. cabernet sauvi",
       "categoria": "Bebidas",
-      "precio_antes": 6720.0,
-      "precio_hoy": 4369.0,
-      "diff_abs": -2351.0,
-      "diff_pct": -34.99
+      "precio_antes": 5595.0,
+      "precio_hoy": 3999.0,
+      "diff_abs": -1596.0,
+      "diff_pct": -28.53
     }
   ],
-  "productos_subieron_dia": 119,
-  "productos_bajaron_dia": 239,
-  "productos_sin_cambio_dia": 5707
+  "productos_subieron_dia": 63,
+  "productos_bajaron_dia": 74,
+  "productos_sin_cambio_dia": 5943
 }

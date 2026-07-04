@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7791250801839",
-    "nombre": "gin gordons x 700 ml tropical",
+    "ean": "7790950147926",
+    "nombre": "americano gancia x 473 ml sin alcohol lata",
     "categoria": "Bebidas",
-    "precio_antes": 13299.0,
-    "precio_hoy": 17357.0,
-    "diff_abs": 4058.0,
-    "diff_pct": 30.51
+    "precio_antes": 1199.0,
+    "precio_hoy": 1800.0,
+    "diff_abs": 601.0,
+    "diff_pct": 50.13
   },
   {
-    "ean": "7794000006492",
-    "nombre": "savora x 200 gr original patria sqz",
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1190.0,
+    "precio_hoy": 1590.0,
+    "diff_abs": 400.0,
+    "diff_pct": 33.61
+  },
+  {
+    "ean": "2022010000007",
+    "nombre": "remolacha x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
+  },
+  {
+    "ean": "2021780000002",
+    "nombre": "perejil x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
+  },
+  {
+    "ean": "7896004009186",
+    "nombre": "papas fritas pringles original x 37 gr.",
     "categoria": "Almacen",
-    "precio_antes": 2129.0,
-    "precio_hoy": 2501.0,
-    "diff_abs": 372.0,
-    "diff_pct": 17.47
+    "precio_antes": 1969.0,
+    "precio_hoy": 2460.0,
+    "diff_abs": 491.0,
+    "diff_pct": 24.94
   },
   {
-    "ean": "7790415000469",
-    "nombre": "vino blanco familia gascon dulce natural x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 5999.0,
-    "precio_hoy": 7023.2,
-    "diff_abs": 1024.2,
-    "diff_pct": 17.07
-  },
-  {
-    "ean": "7790415128033",
-    "nombre": "vino familia gascon rose x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 5999.0,
-    "precio_hoy": 7023.2,
-    "diff_abs": 1024.2,
-    "diff_pct": 17.07
-  },
-  {
-    "ean": "7790415127814",
-    "nombre": "vino tinto familia gascon cabernet sauvignon x 750",
-    "categoria": "Bebidas",
-    "precio_antes": 5999.0,
-    "precio_hoy": 7023.2,
-    "diff_abs": 1024.2,
-    "diff_pct": 17.07
-  },
-  {
-    "ean": "7790415130791",
-    "nombre": "vino tinto familia gascon red blend x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 5999.0,
-    "precio_hoy": 7023.2,
-    "diff_abs": 1024.2,
-    "diff_pct": 17.07
-  },
-  {
-    "ean": "7790415128217",
-    "nombre": "vino tinto familia gascon syrah x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 5999.0,
-    "precio_hoy": 7023.2,
-    "diff_abs": 1024.2,
-    "diff_pct": 17.07
-  },
-  {
-    "ean": "7790415128767",
-    "nombre": "vino tinto familia gascon roble cabernet sauvignon",
-    "categoria": "Bebidas",
-    "precio_antes": 7099.0,
-    "precio_hoy": 8288.85,
-    "diff_abs": 1189.85,
-    "diff_pct": 16.76
-  },
-  {
-    "ean": "7790415130814",
-    "nombre": "vino tinto familia gascon roble blend x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 7099.0,
-    "precio_hoy": 8288.85,
-    "diff_abs": 1189.85,
-    "diff_pct": 16.76
-  },
-  {
-    "ean": "7790415128729",
-    "nombre": "vino tinto familia gascon roble malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 7099.0,
-    "precio_hoy": 8288.85,
-    "diff_abs": 1189.85,
-    "diff_pct": 16.76
-  },
-  {
-    "ean": "7790415131217",
-    "nombre": "vino tinto lola montes cabernet sauvignon x 750 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 4899.0,
-    "precio_hoy": 5718.06,
-    "diff_abs": 819.06,
-    "diff_pct": 16.72
-  },
-  {
-    "ean": "7790415131194",
-    "nombre": "vino tinto lola montes x 750 ml. malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 4899.0,
-    "precio_hoy": 5718.06,
-    "diff_abs": 819.06,
-    "diff_pct": 16.72
-  },
-  {
-    "ean": "7790415002760",
-    "nombre": "vino lola montes red blend x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4899.0,
-    "precio_hoy": 5718.06,
-    "diff_abs": 819.06,
-    "diff_pct": 16.72
-  },
-  {
-    "ean": "7790415130739",
-    "nombre": "vino lola montes rose x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4899.0,
-    "precio_hoy": 5718.06,
-    "diff_abs": 819.06,
-    "diff_pct": 16.72
-  },
-  {
-    "ean": "7790415130555",
-    "nombre": "vino tinto circus roble x 750 ml malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 4499.0,
-    "precio_hoy": 5244.17,
-    "diff_abs": 745.17,
-    "diff_pct": 16.56
-  },
-  {
-    "ean": "7790415130517",
-    "nombre": "vino circus roble x 750 ml. cabernet sauvignon",
-    "categoria": "Bebidas",
-    "precio_antes": 4499.0,
-    "precio_hoy": 5244.17,
-    "diff_abs": 745.17,
-    "diff_pct": 16.56
-  },
-  {
-    "ean": "7790415130630",
-    "nombre": "vino tinto circus roble x 750 ml. blend",
-    "categoria": "Bebidas",
-    "precio_antes": 4499.0,
-    "precio_hoy": 5244.17,
-    "diff_abs": 745.17,
-    "diff_pct": 16.56
-  },
-  {
-    "ean": "7794000009431",
-    "nombre": "mayonesa hellmanns x 250 gm sabor asado",
+    "ean": "7896004009193",
+    "nombre": "papas pringles crema y cebolla x 39 gr.",
     "categoria": "Almacen",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3133.0,
-    "diff_abs": 434.0,
-    "diff_pct": 16.08
+    "precio_antes": 1969.0,
+    "precio_hoy": 2460.0,
+    "diff_abs": 491.0,
+    "diff_pct": 24.94
   },
   {
-    "ean": "7791540000218",
-    "nombre": "sidra dada x 750 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 5999.0,
-    "precio_hoy": 6887.0,
-    "diff_abs": 888.0,
-    "diff_pct": 14.8
-  },
-  {
-    "ean": "7794000005150",
-    "nombre": "mayonesa hellmann`s receta casera x 232 gr.",
+    "ean": "7896004009179",
+    "nombre": "papas fritas pringles queso x 109 gr.",
     "categoria": "Almacen",
-    "precio_antes": 2299.0,
-    "precio_hoy": 2633.0,
-    "diff_abs": 334.0,
-    "diff_pct": 14.53
+    "precio_antes": 4059.0,
+    "precio_hoy": 5068.0,
+    "diff_abs": 1009.0,
+    "diff_pct": 24.86
+  },
+  {
+    "ean": "7896004009155",
+    "nombre": "papas fritas pringles original x 104 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4059.0,
+    "precio_hoy": 5068.0,
+    "diff_abs": 1009.0,
+    "diff_pct": 24.86
+  },
+  {
+    "ean": "7896004009162",
+    "nombre": "papas fritas pringles crema y cebolla x 109 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4059.0,
+    "precio_hoy": 5068.0,
+    "diff_abs": 1009.0,
+    "diff_pct": 24.86
+  },
+  {
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 20.08
+  },
+  {
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 20.08
+  },
+  {
+    "ean": "7791100046137",
+    "nombre": "azucar chango bajas calorias x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2399.0,
+    "precio_hoy": 2821.0,
+    "diff_abs": 422.0,
+    "diff_pct": 17.59
+  },
+  {
+    "ean": "7791100046151",
+    "nombre": "canela en polvo chango x 40 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3389.0,
+    "precio_hoy": 3977.0,
+    "diff_abs": 588.0,
+    "diff_pct": 17.35
+  },
+  {
+    "ean": "7791100000344",
+    "nombre": "coco rallado chango x 50 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2839.0,
+    "precio_hoy": 3331.0,
+    "diff_abs": 492.0,
+    "diff_pct": 17.33
+  },
+  {
+    "ean": "7798228641046",
+    "nombre": "snack crowie baked chips x 50 gr. crema y ciboulee",
+    "categoria": "Almacen",
+    "precio_antes": 1139.0,
+    "precio_hoy": 1282.0,
+    "diff_abs": 143.0,
+    "diff_pct": 12.55
+  },
+  {
+    "ean": "7798228640414",
+    "nombre": "snack crowie baked x 50 gr pizza",
+    "categoria": "Almacen",
+    "precio_antes": 1139.0,
+    "precio_hoy": 1282.0,
+    "diff_abs": 143.0,
+    "diff_pct": 12.55
+  },
+  {
+    "ean": "7798228640407",
+    "nombre": "snack crowie baked chips jamon x 50 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1139.0,
+    "precio_hoy": 1282.0,
+    "diff_abs": 143.0,
+    "diff_pct": 12.55
+  },
+  {
+    "ean": "7798228640421",
+    "nombre": "snack crowie baked chips queso x 50 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1139.0,
+    "precio_hoy": 1282.0,
+    "diff_abs": 143.0,
+    "diff_pct": 12.55
+  },
+  {
+    "ean": "7798228640636",
+    "nombre": "minibars crowie x 50 gm chocomani",
+    "categoria": "Almacen",
+    "precio_antes": 1614.0,
+    "precio_hoy": 1804.0,
+    "diff_abs": 190.0,
+    "diff_pct": 11.77
+  },
+  {
+    "ean": "7798228640629",
+    "nombre": "barras de arroz crowie mini bars x 50 gr. chocofrutilla",
+    "categoria": "Almacen",
+    "precio_antes": 1614.0,
+    "precio_hoy": 1804.0,
+    "diff_abs": 190.0,
+    "diff_pct": 11.77
   }
 ]

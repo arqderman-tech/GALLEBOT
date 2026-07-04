@@ -45,8 +45,8 @@
     "diff_pct": 62.65
   },
   {
-    "ean": "7793147573683",
-    "nombre": "cerveza salta cautiva ipa x 473 ml.",
+    "ean": "7793147574185",
+    "nombre": "cerveza salta cautiva x 473 ml fresh lager",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -54,8 +54,8 @@
     "diff_pct": 62.65
   },
   {
-    "ean": "7793147574185",
-    "nombre": "cerveza salta cautiva x 473 ml fresh lager",
+    "ean": "7793147573683",
+    "nombre": "cerveza salta cautiva ipa x 473 ml.",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -81,8 +81,8 @@
     "diff_pct": 62.47
   },
   {
-    "ean": "4000856005217",
-    "nombre": "cerveza wasteiner long x 330 ml",
+    "ean": "7793147573492",
+    "nombre": "cerveza miller long neck x 330 ml.",
     "categoria": "Bebidas",
     "precio_antes": 2349.0,
     "precio_hoy": 3815.0,
@@ -90,8 +90,8 @@
     "diff_pct": 62.41
   },
   {
-    "ean": "7793147573492",
-    "nombre": "cerveza miller long neck x 330 ml.",
+    "ean": "4000856005217",
+    "nombre": "cerveza wasteiner long x 330 ml",
     "categoria": "Bebidas",
     "precio_antes": 2349.0,
     "precio_hoy": 3815.0,
@@ -135,15 +135,6 @@
     "diff_pct": 60.73
   },
   {
-    "ean": "7794000009196",
-    "nombre": "sabor knorr mix x 4 sobres sabor barbacoa ahumada",
-    "categoria": "Almacen",
-    "precio_antes": 919.0,
-    "precio_hoy": 1469.0,
-    "diff_abs": 550.0,
-    "diff_pct": 59.85
-  },
-  {
     "ean": "7794000009189",
     "nombre": "mix de sabor knorr aji,comino y pimenton x 4 sobrs",
     "categoria": "Almacen",
@@ -153,8 +144,8 @@
     "diff_pct": 59.85
   },
   {
-    "ean": "7794000009141",
-    "nombre": "mix de sabores knorr oregano, tomate y ajo x 4 sos",
+    "ean": "7794000009196",
+    "nombre": "sabor knorr mix x 4 sobres sabor barbacoa ahumada",
     "categoria": "Almacen",
     "precio_antes": 919.0,
     "precio_hoy": 1469.0,
@@ -164,6 +155,15 @@
   {
     "ean": "7794000009172",
     "nombre": "mix de sabores knorr pollos x 4 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1469.0,
+    "diff_abs": 550.0,
+    "diff_pct": 59.85
+  },
+  {
+    "ean": "7794000009141",
+    "nombre": "mix de sabores knorr oregano, tomate y ajo x 4 sos",
     "categoria": "Almacen",
     "precio_antes": 919.0,
     "precio_hoy": 1469.0,
