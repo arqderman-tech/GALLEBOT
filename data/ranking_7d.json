@@ -36,15 +36,6 @@
     "diff_pct": 65.04
   },
   {
-    "ean": "7793147572389",
-    "nombre": "cerveza salta cautiva roja -",
-    "categoria": "Bebidas",
-    "precio_antes": 1909.0,
-    "precio_hoy": 3105.0,
-    "diff_abs": 1196.0,
-    "diff_pct": 62.65
-  },
-  {
     "ean": "7793147574185",
     "nombre": "cerveza salta cautiva x 473 ml fresh lager",
     "categoria": "Bebidas",
@@ -54,8 +45,8 @@
     "diff_pct": 62.65
   },
   {
-    "ean": "7793147573683",
-    "nombre": "cerveza salta cautiva ipa x 473 ml.",
+    "ean": "7793147572327",
+    "nombre": "cerveza salta cautiva rubia  x 473 m",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -63,8 +54,17 @@
     "diff_pct": 62.65
   },
   {
-    "ean": "7793147572327",
-    "nombre": "cerveza salta cautiva rubia  x 473 m",
+    "ean": "7793147572389",
+    "nombre": "cerveza salta cautiva roja -",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 62.65
+  },
+  {
+    "ean": "7793147573683",
+    "nombre": "cerveza salta cautiva ipa x 473 ml.",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -135,24 +135,6 @@
     "diff_pct": 60.73
   },
   {
-    "ean": "7794000009189",
-    "nombre": "mix de sabor knorr aji,comino y pimenton x 4 sobrs",
-    "categoria": "Almacen",
-    "precio_antes": 919.0,
-    "precio_hoy": 1469.0,
-    "diff_abs": 550.0,
-    "diff_pct": 59.85
-  },
-  {
-    "ean": "7794000009196",
-    "nombre": "sabor knorr mix x 4 sobres sabor barbacoa ahumada",
-    "categoria": "Almacen",
-    "precio_antes": 919.0,
-    "precio_hoy": 1469.0,
-    "diff_abs": 550.0,
-    "diff_pct": 59.85
-  },
-  {
     "ean": "7794000009172",
     "nombre": "mix de sabores knorr pollos x 4 sobres",
     "categoria": "Almacen",
@@ -171,12 +153,30 @@
     "diff_pct": 59.85
   },
   {
-    "ean": "7794000009295",
-    "nombre": "mix de sabores knorr coboulette y puerro x 4 sobres",
+    "ean": "7794000009158",
+    "nombre": "mix de sabores knorr hongos y champignones x 4 sos",
     "categoria": "Almacen",
-    "precio_antes": 920.0,
+    "precio_antes": 919.0,
     "precio_hoy": 1469.0,
-    "diff_abs": 549.0,
-    "diff_pct": 59.67
+    "diff_abs": 550.0,
+    "diff_pct": 59.85
+  },
+  {
+    "ean": "7794000009196",
+    "nombre": "sabor knorr mix x 4 sobres sabor barbacoa ahumada",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1469.0,
+    "diff_abs": 550.0,
+    "diff_pct": 59.85
+  },
+  {
+    "ean": "7794000009486",
+    "nombre": "sabor knorr mix de sabores x 4 sobres panceta y cebolla",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1469.0,
+    "diff_abs": 550.0,
+    "diff_pct": 59.85
   }
 ]

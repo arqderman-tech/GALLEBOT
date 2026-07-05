@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790950147926",
-    "nombre": "americano gancia x 473 ml sin alcohol lata",
-    "categoria": "Bebidas",
-    "precio_antes": 1199.0,
-    "precio_hoy": 1800.0,
-    "diff_abs": 601.0,
-    "diff_pct": 50.13
-  },
-  {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1190.0,
-    "precio_hoy": 1590.0,
-    "diff_abs": 400.0,
-    "diff_pct": 33.61
-  },
-  {
-    "ean": "2022010000007",
-    "nombre": "remolacha x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
-  },
-  {
-    "ean": "2021780000002",
-    "nombre": "perejil x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
-    "ean": "7896004009186",
-    "nombre": "papas fritas pringles original x 37 gr.",
+    "ean": "7790310985830",
+    "nombre": "3ds queso x 85 gr.",
     "categoria": "Almacen",
-    "precio_antes": 1969.0,
-    "precio_hoy": 2460.0,
-    "diff_abs": 491.0,
-    "diff_pct": 24.94
+    "precio_antes": 3649.0,
+    "precio_hoy": 3649.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7896004009193",
-    "nombre": "papas pringles crema y cebolla x 39 gr.",
+    "ean": "7790310985137",
+    "nombre": "3ds queso x143gr.",
     "categoria": "Almacen",
-    "precio_antes": 1969.0,
-    "precio_hoy": 2460.0,
-    "diff_abs": 491.0,
-    "diff_pct": 24.94
+    "precio_antes": 5118.0,
+    "precio_hoy": 5118.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7896004009179",
-    "nombre": "papas fritas pringles queso x 109 gr.",
+    "ean": "7790310985113",
+    "nombre": "3ds sabor queso x 43 gm",
     "categoria": "Almacen",
-    "precio_antes": 4059.0,
-    "precio_hoy": 5068.0,
-    "diff_abs": 1009.0,
-    "diff_pct": 24.86
+    "precio_antes": 2271.0,
+    "precio_hoy": 2271.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7896004009155",
-    "nombre": "papas fritas pringles original x 104 gr.",
+    "ean": "7791728246629",
+    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
     "categoria": "Almacen",
-    "precio_antes": 4059.0,
-    "precio_hoy": 5068.0,
-    "diff_abs": 1009.0,
-    "diff_pct": 24.86
+    "precio_antes": 24261.0,
+    "precio_hoy": 24261.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7896004009162",
-    "nombre": "papas fritas pringles crema y cebolla x 109 gr.",
+    "ean": "763571722428",
+    "nombre": "ac.de coco entrenuts x200virg.",
     "categoria": "Almacen",
-    "precio_antes": 4059.0,
-    "precio_hoy": 5068.0,
-    "diff_abs": 1009.0,
-    "diff_pct": 24.86
+    "precio_antes": 9649.0,
+    "precio_hoy": 9649.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2022040000008",
-    "nombre": "repollo blanco x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 20.08
-  },
-  {
-    "ean": "2022060000002",
-    "nombre": "repollo colorado x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 20.08
-  },
-  {
-    "ean": "7791100046137",
-    "nombre": "azucar chango bajas calorias x 500 gr.",
+    "ean": "7798080520657",
+    "nombre": "ac.ol.l.toscana x250ml.ajo",
     "categoria": "Almacen",
-    "precio_antes": 2399.0,
-    "precio_hoy": 2821.0,
-    "diff_abs": 422.0,
-    "diff_pct": 17.59
+    "precio_antes": 9903.0,
+    "precio_hoy": 9903.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791100046151",
-    "nombre": "canela en polvo chango x 40 gr.",
+    "ean": "7798080520534",
+    "nombre": "ac.ol.l.toscana x250ml.albahac",
     "categoria": "Almacen",
-    "precio_antes": 3389.0,
-    "precio_hoy": 3977.0,
-    "diff_abs": 588.0,
-    "diff_pct": 17.35
+    "precio_antes": 9903.0,
+    "precio_hoy": 9903.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791100000344",
-    "nombre": "coco rallado chango x 50 gr.",
+    "ean": "7791728246612",
+    "nombre": "ac.ol.zuccardi x250ml.coratina",
     "categoria": "Almacen",
-    "precio_antes": 2839.0,
-    "precio_hoy": 3331.0,
-    "diff_abs": 492.0,
-    "diff_pct": 17.33
+    "precio_antes": 14152.0,
+    "precio_hoy": 14152.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798228641046",
-    "nombre": "snack crowie baked chips x 50 gr. crema y ciboulee",
+    "ean": "7791728246575",
+    "nombre": "ac.ol.zuccardi x250ml.picual",
     "categoria": "Almacen",
-    "precio_antes": 1139.0,
-    "precio_hoy": 1282.0,
-    "diff_abs": 143.0,
-    "diff_pct": 12.55
+    "precio_antes": 14152.0,
+    "precio_hoy": 14152.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798228640414",
-    "nombre": "snack crowie baked x 50 gr pizza",
+    "ean": "7791728241181",
+    "nombre": "ac.ol.zuelo x500ml.bot.intenso",
     "categoria": "Almacen",
-    "precio_antes": 1139.0,
-    "precio_hoy": 1282.0,
-    "diff_abs": 143.0,
-    "diff_pct": 12.55
+    "precio_antes": 18903.0,
+    "precio_hoy": 18903.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798228640407",
-    "nombre": "snack crowie baked chips jamon x 50 gr.",
+    "ean": "41331014922",
+    "nombre": "acaitunas goya x 149 gm con pimiento picante",
     "categoria": "Almacen",
-    "precio_antes": 1139.0,
-    "precio_hoy": 1282.0,
-    "diff_abs": 143.0,
-    "diff_pct": 12.55
+    "precio_antes": 9280.0,
+    "precio_hoy": 9280.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798228640421",
-    "nombre": "snack crowie baked chips queso x 50 gr.",
+    "ean": "7790070265142",
+    "nombre": "aceite cocinero puro de oliva x 500 ml",
     "categoria": "Almacen",
-    "precio_antes": 1139.0,
-    "precio_hoy": 1282.0,
-    "diff_abs": 143.0,
-    "diff_pct": 12.55
+    "precio_antes": 10919.0,
+    "precio_hoy": 10919.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798228640636",
-    "nombre": "minibars crowie x 50 gm chocomani",
+    "ean": "7790070231598",
+    "nombre": "aceite cocinero x900 ml oliva y girasol",
     "categoria": "Almacen",
-    "precio_antes": 1614.0,
-    "precio_hoy": 1804.0,
-    "diff_abs": 190.0,
-    "diff_pct": 11.77
+    "precio_antes": 5809.0,
+    "precio_hoy": 5809.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798228640629",
-    "nombre": "barras de arroz crowie mini bars x 50 gr. chocofrutilla",
+    "ean": "7790272006819",
+    "nombre": "aceite copisi x 900 ml. girasol y oliva",
     "categoria": "Almacen",
-    "precio_antes": 1614.0,
-    "precio_hoy": 1804.0,
-    "diff_abs": 190.0,
-    "diff_pct": 11.77
+    "precio_antes": 6162.0,
+    "precio_hoy": 6162.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "656750783931",
+    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 8902.0,
+    "precio_hoy": 8902.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "763571722435",
+    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 16512.0,
+    "precio_hoy": 16512.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7794870000040",
+    "nombre": "aceite de girasol alsamar x 5 lts.",
+    "categoria": "Almacen",
+    "precio_antes": 21090.0,
+    "precio_hoy": 21090.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798316700907",
+    "nombre": "aceite de girasol alsamar x 900 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 3862.0,
+    "precio_hoy": 3862.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790060023684",
+    "nombre": "aceite de girasol cocinero x 1,5 lt.",
+    "categoria": "Almacen",
+    "precio_antes": 6909.0,
+    "precio_hoy": 6909.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790070012050",
+    "nombre": "aceite de girasol cocinero x 900 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 4359.0,
+    "precio_hoy": 4359.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]

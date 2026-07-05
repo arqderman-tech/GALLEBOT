@@ -45,6 +45,33 @@
     "diff_pct": 67.55
   },
   {
+    "ean": "7794000008540",
+    "nombre": "caldo sabor gallina knorr x 12 cubos",
+    "categoria": "Almacen",
+    "precio_antes": 1559.0,
+    "precio_hoy": 2579.0,
+    "diff_abs": 1020.0,
+    "diff_pct": 65.43
+  },
+  {
+    "ean": "7794000008922",
+    "nombre": "aderezo hellmann`s picante x 340 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2299.0,
+    "precio_hoy": 3799.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 65.25
+  },
+  {
+    "ean": "7794000007741",
+    "nombre": "salsa golf hellmann`s x 250 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1599.0,
+    "precio_hoy": 2639.0,
+    "diff_abs": 1040.0,
+    "diff_pct": 65.04
+  },
+  {
     "ean": "7791866000664",
     "nombre": "ketchup natura x 500 gr.",
     "categoria": "Almacen",
@@ -63,8 +90,8 @@
     "diff_pct": 62.65
   },
   {
-    "ean": "7793147573683",
-    "nombre": "cerveza salta cautiva ipa x 473 ml.",
+    "ean": "7793147572327",
+    "nombre": "cerveza salta cautiva rubia  x 473 m",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -81,8 +108,8 @@
     "diff_pct": 62.65
   },
   {
-    "ean": "7793147572327",
-    "nombre": "cerveza salta cautiva rubia  x 473 m",
+    "ean": "7793147573683",
+    "nombre": "cerveza salta cautiva ipa x 473 ml.",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -99,8 +126,8 @@
     "diff_pct": 62.47
   },
   {
-    "ean": "4000856005217",
-    "nombre": "cerveza wasteiner long x 330 ml",
+    "ean": "7793147573492",
+    "nombre": "cerveza miller long neck x 330 ml.",
     "categoria": "Bebidas",
     "precio_antes": 2349.0,
     "precio_hoy": 3815.0,
@@ -108,8 +135,8 @@
     "diff_pct": 62.41
   },
   {
-    "ean": "7793147573492",
-    "nombre": "cerveza miller long neck x 330 ml.",
+    "ean": "4000856005217",
+    "nombre": "cerveza wasteiner long x 330 ml",
     "categoria": "Bebidas",
     "precio_antes": 2349.0,
     "precio_hoy": 3815.0,
@@ -126,57 +153,30 @@
     "diff_pct": 62.17
   },
   {
-    "ean": "2020350000008",
-    "nombre": "chaucha ballina x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 60.12
-  },
-  {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 60.12
-  },
-  {
-    "ean": "7791866004211",
-    "nombre": "mostaza natura x 250 gr.",
+    "ean": "7794000005846",
+    "nombre": "sopa de vegetales knorr con caracolitos verdes x80",
     "categoria": "Almacen",
-    "precio_antes": 799.0,
-    "precio_hoy": 1275.0,
-    "diff_abs": 476.0,
-    "diff_pct": 59.57
+    "precio_antes": 1599.0,
+    "precio_hoy": 2589.0,
+    "diff_abs": 990.0,
+    "diff_pct": 61.91
   },
   {
-    "ean": "7791866000381",
-    "nombre": "ketchup natura x 250 gr.",
+    "ean": "7794000007796",
+    "nombre": "barbacoa hellmanns x 400 gm plastica",
     "categoria": "Almacen",
-    "precio_antes": 1199.0,
-    "precio_hoy": 1904.0,
-    "diff_abs": 705.0,
-    "diff_pct": 58.8
+    "precio_antes": 3039.0,
+    "precio_hoy": 4899.0,
+    "diff_abs": 1860.0,
+    "diff_pct": 61.2
   },
   {
-    "ean": "7790936000139",
-    "nombre": "sal fina tresal salero x 250 gr.",
+    "ean": "7794000008229",
+    "nombre": "bizcochuelo maizena libre de gluten x 450 gr. vaia",
     "categoria": "Almacen",
-    "precio_antes": 1399.0,
-    "precio_hoy": 2215.0,
-    "diff_abs": 816.0,
-    "diff_pct": 58.33
-  },
-  {
-    "ean": "7791866000558",
-    "nombre": "mayonesa cada dia liviana x 250 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 599.0,
-    "precio_hoy": 943.0,
-    "diff_abs": 344.0,
-    "diff_pct": 57.43
+    "precio_antes": 3359.0,
+    "precio_hoy": 5399.0,
+    "diff_abs": 2040.0,
+    "diff_pct": 60.73
   }
 ]
