@@ -135,24 +135,6 @@
     "diff_pct": 60.73
   },
   {
-    "ean": "7794000009172",
-    "nombre": "mix de sabores knorr pollos x 4 sobres",
-    "categoria": "Almacen",
-    "precio_antes": 919.0,
-    "precio_hoy": 1469.0,
-    "diff_abs": 550.0,
-    "diff_pct": 59.85
-  },
-  {
-    "ean": "7794000009141",
-    "nombre": "mix de sabores knorr oregano, tomate y ajo x 4 sos",
-    "categoria": "Almacen",
-    "precio_antes": 919.0,
-    "precio_hoy": 1469.0,
-    "diff_abs": 550.0,
-    "diff_pct": 59.85
-  },
-  {
     "ean": "7794000009158",
     "nombre": "mix de sabores knorr hongos y champignones x 4 sos",
     "categoria": "Almacen",
@@ -164,6 +146,24 @@
   {
     "ean": "7794000009196",
     "nombre": "sabor knorr mix x 4 sobres sabor barbacoa ahumada",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1469.0,
+    "diff_abs": 550.0,
+    "diff_pct": 59.85
+  },
+  {
+    "ean": "7794000009172",
+    "nombre": "mix de sabores knorr pollos x 4 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 919.0,
+    "precio_hoy": 1469.0,
+    "diff_abs": 550.0,
+    "diff_pct": 59.85
+  },
+  {
+    "ean": "7794000009189",
+    "nombre": "mix de sabor knorr aji,comino y pimenton x 4 sobrs",
     "categoria": "Almacen",
     "precio_antes": 919.0,
     "precio_hoy": 1469.0,

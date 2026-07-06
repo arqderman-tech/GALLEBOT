@@ -27,15 +27,6 @@
     "diff_pct": 92.52
   },
   {
-    "ean": "7791866000510",
-    "nombre": "mostaza natura x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1499.0,
-    "precio_hoy": 2513.0,
-    "diff_abs": 1014.0,
-    "diff_pct": 67.65
-  },
-  {
     "ean": "2031890000007",
     "nombre": "boga despinada envasada al vacio x kilo",
     "categoria": "Congelados",
@@ -70,15 +61,6 @@
     "precio_hoy": 2639.0,
     "diff_abs": 1040.0,
     "diff_pct": 65.04
-  },
-  {
-    "ean": "7791866000664",
-    "nombre": "ketchup natura x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2299.0,
-    "precio_hoy": 3745.0,
-    "diff_abs": 1446.0,
-    "diff_pct": 62.9
   },
   {
     "ean": "7793147572389",
@@ -126,8 +108,8 @@
     "diff_pct": 62.47
   },
   {
-    "ean": "7793147573492",
-    "nombre": "cerveza miller long neck x 330 ml.",
+    "ean": "4000856005217",
+    "nombre": "cerveza wasteiner long x 330 ml",
     "categoria": "Bebidas",
     "precio_antes": 2349.0,
     "precio_hoy": 3815.0,
@@ -135,8 +117,8 @@
     "diff_pct": 62.41
   },
   {
-    "ean": "4000856005217",
-    "nombre": "cerveza wasteiner long x 330 ml",
+    "ean": "7793147573492",
+    "nombre": "cerveza miller long neck x 330 ml.",
     "categoria": "Bebidas",
     "precio_antes": 2349.0,
     "precio_hoy": 3815.0,
@@ -171,6 +153,15 @@
     "diff_pct": 61.2
   },
   {
+    "ean": "7794170016932",
+    "nombre": "toallon palette",
+    "categoria": "Limpieza",
+    "precio_antes": 12347.15,
+    "precio_hoy": 19880.0,
+    "diff_abs": 7532.85,
+    "diff_pct": 61.01
+  },
+  {
     "ean": "7794000008229",
     "nombre": "bizcochuelo maizena libre de gluten x 450 gr. vaia",
     "categoria": "Almacen",
@@ -178,5 +169,14 @@
     "precio_hoy": 5399.0,
     "diff_abs": 2040.0,
     "diff_pct": 60.73
+  },
+  {
+    "ean": "2020350000008",
+    "nombre": "chaucha ballina x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 60.12
   }
 ]

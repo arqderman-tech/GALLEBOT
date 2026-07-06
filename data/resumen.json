@@ -1,23 +1,23 @@
 {
-  "fecha": "20260705",
-  "total_productos": 6091,
-  "variacion_dia": 0.0,
-  "variacion_7d": 1.3,
-  "variacion_mes": 0.9,
+  "fecha": "20260706",
+  "total_productos": 6090,
+  "variacion_dia": -0.2,
+  "variacion_7d": 1.09,
+  "variacion_mes": 0.56,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -0.52,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "productos_bajaron": 32,
       "total_productos": 1364
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -0.03,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "productos_bajaron": 2,
       "total_productos": 1124
     },
     {
@@ -32,116 +32,116 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 857
+      "total_productos": 858
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -0.35,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "productos_bajaron": 17,
       "total_productos": 833
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -0.12,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1684
+      "productos_bajaron": 11,
+      "total_productos": 1688
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790310985830",
-      "nombre": "3ds queso x 85 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 3649.0,
-      "precio_hoy": 3649.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7791250003097",
+      "nombre": "bitter smirnoff naranja rubi y lima x 700 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 11065.0,
+      "precio_hoy": 8299.0,
+      "diff_abs": -2766.0,
+      "diff_pct": -25.0
     },
     {
-      "ean": "7790310985137",
-      "nombre": "3ds queso x143gr.",
-      "categoria": "Almacen",
-      "precio_antes": 5118.0,
-      "precio_hoy": 5118.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7791250003103",
+      "nombre": "bitter smirnoff citric x 700 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 11065.0,
+      "precio_hoy": 8299.0,
+      "diff_abs": -2766.0,
+      "diff_pct": -25.0
     },
     {
-      "ean": "7790310985113",
-      "nombre": "3ds sabor queso x 43 gm",
-      "categoria": "Almacen",
-      "precio_antes": 2271.0,
-      "precio_hoy": 2271.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7791250003011",
+      "nombre": "bitter smirnoff citrus pomelo y lima x 700 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 11065.0,
+      "precio_hoy": 8299.0,
+      "diff_abs": -2766.0,
+      "diff_pct": -25.0
     },
     {
-      "ean": "7791728246629",
-      "nombre": "ac. de oliva zuccardi x 500 ml coratina",
-      "categoria": "Almacen",
-      "precio_antes": 24261.0,
-      "precio_hoy": 24261.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790240042085",
+      "nombre": "vino alma mora cabernet sauvignon x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 6331.0,
+      "precio_hoy": 4749.0,
+      "diff_abs": -1582.0,
+      "diff_pct": -24.99
     },
     {
-      "ean": "763571722428",
-      "nombre": "ac.de coco entrenuts x200virg.",
-      "categoria": "Almacen",
-      "precio_antes": 9649.0,
-      "precio_hoy": 9649.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790240042108",
+      "nombre": "vino alma mora malbec x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 6331.0,
+      "precio_hoy": 4749.0,
+      "diff_abs": -1582.0,
+      "diff_pct": -24.99
     },
     {
-      "ean": "7798080520657",
-      "nombre": "ac.ol.l.toscana x250ml.ajo",
-      "categoria": "Almacen",
-      "precio_antes": 9903.0,
-      "precio_hoy": 9903.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7791540999000",
+      "nombre": "vino tinto alma mora merlot x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 6331.0,
+      "precio_hoy": 4749.0,
+      "diff_abs": -1582.0,
+      "diff_pct": -24.99
     },
     {
-      "ean": "7798080520534",
-      "nombre": "ac.ol.l.toscana x250ml.albahac",
-      "categoria": "Almacen",
-      "precio_antes": 9903.0,
-      "precio_hoy": 9903.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790240042092",
+      "nombre": "vino alma mora syrah x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 6331.0,
+      "precio_hoy": 4749.0,
+      "diff_abs": -1582.0,
+      "diff_pct": -24.99
     },
     {
-      "ean": "7791728246612",
-      "nombre": "ac.ol.zuccardi x250ml.coratina",
-      "categoria": "Almacen",
-      "precio_antes": 14152.0,
-      "precio_hoy": 14152.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7791540045721",
+      "nombre": "vino alma mora x 750 ml blend tinto",
+      "categoria": "Bebidas",
+      "precio_antes": 6331.0,
+      "precio_hoy": 4749.0,
+      "diff_abs": -1582.0,
+      "diff_pct": -24.99
     },
     {
-      "ean": "7791728246575",
-      "nombre": "ac.ol.zuccardi x250ml.picual",
-      "categoria": "Almacen",
-      "precio_antes": 14152.0,
-      "precio_hoy": 14152.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7791250801839",
+      "nombre": "gin gordons x 700 ml tropical",
+      "categoria": "Bebidas",
+      "precio_antes": 17357.0,
+      "precio_hoy": 13019.0,
+      "diff_abs": -4338.0,
+      "diff_pct": -24.99
     },
     {
-      "ean": "7791728241181",
-      "nombre": "ac.ol.zuelo x500ml.bot.intenso",
-      "categoria": "Almacen",
-      "precio_antes": 18903.0,
-      "precio_hoy": 18903.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7791540044540",
+      "nombre": "vino blanco alma mora dulce viognier x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 6330.0,
+      "precio_hoy": 4749.0,
+      "diff_abs": -1581.0,
+      "diff_pct": -24.98
     }
   ],
   "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 6085
+  "productos_bajaron_dia": 62,
+  "productos_sin_cambio_dia": 6028
 }
