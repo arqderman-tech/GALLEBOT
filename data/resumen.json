@@ -1,23 +1,23 @@
 {
-  "fecha": "20260706",
+  "fecha": "20260707",
   "total_productos": 6090,
-  "variacion_dia": -0.2,
-  "variacion_7d": 1.09,
-  "variacion_mes": 0.56,
+  "variacion_dia": 0.44,
+  "variacion_7d": 0.48,
+  "variacion_mes": 0.9,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.52,
-      "productos_subieron": 0,
-      "productos_bajaron": 32,
+      "variacion_pct_promedio": 0.87,
+      "productos_subieron": 161,
+      "productos_bajaron": 40,
       "total_productos": 1364
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.03,
-      "productos_subieron": 0,
-      "productos_bajaron": 2,
+      "variacion_pct_promedio": 0.75,
+      "productos_subieron": 82,
+      "productos_bajaron": 16,
       "total_productos": 1124
     },
     {
@@ -36,112 +36,112 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.35,
-      "productos_subieron": 0,
-      "productos_bajaron": 17,
+      "variacion_pct_promedio": 0.26,
+      "productos_subieron": 28,
+      "productos_bajaron": 4,
       "total_productos": 833
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.12,
-      "productos_subieron": 0,
-      "productos_bajaron": 11,
+      "variacion_pct_promedio": 0.25,
+      "productos_subieron": 41,
+      "productos_bajaron": 76,
       "total_productos": 1688
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7791250003097",
-      "nombre": "bitter smirnoff naranja rubi y lima x 700 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 11065.0,
-      "precio_hoy": 8299.0,
-      "diff_abs": -2766.0,
-      "diff_pct": -25.0
+      "ean": "7891000248799",
+      "nombre": "chocolate kit kat x 41 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 2230.0,
+      "precio_hoy": 1499.0,
+      "diff_abs": -731.0,
+      "diff_pct": -32.78
     },
     {
-      "ean": "7791250003103",
-      "nombre": "bitter smirnoff citric x 700 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 11065.0,
-      "precio_hoy": 8299.0,
-      "diff_abs": -2766.0,
-      "diff_pct": -25.0
+      "ean": "7891000422052",
+      "nombre": "chocolate kit kat triple chocolate x 41,5 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 2230.0,
+      "precio_hoy": 1499.0,
+      "diff_abs": -731.0,
+      "diff_pct": -32.78
     },
     {
-      "ean": "7791250003011",
-      "nombre": "bitter smirnoff citrus pomelo y lima x 700 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 11065.0,
-      "precio_hoy": 8299.0,
-      "diff_abs": -2766.0,
-      "diff_pct": -25.0
+      "ean": "7891000379028",
+      "nombre": "chocolate kit-kat white x 41,5 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 2230.0,
+      "precio_hoy": 1499.0,
+      "diff_abs": -731.0,
+      "diff_pct": -32.78
     },
     {
-      "ean": "7790240042085",
-      "nombre": "vino alma mora cabernet sauvignon x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 6331.0,
-      "precio_hoy": 4749.0,
-      "diff_abs": -1582.0,
-      "diff_pct": -24.99
+      "ean": "7891000379073",
+      "nombre": "chocolate kit-kat dark x 41,5 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 2230.0,
+      "precio_hoy": 1499.0,
+      "diff_abs": -731.0,
+      "diff_pct": -32.78
     },
     {
-      "ean": "7790240042108",
-      "nombre": "vino alma mora malbec x 750 ml.",
+      "ean": "7790895641534",
+      "nombre": "jugo cepita botella x 1,5 lt. durazno",
       "categoria": "Bebidas",
-      "precio_antes": 6331.0,
-      "precio_hoy": 4749.0,
-      "diff_abs": -1582.0,
-      "diff_pct": -24.99
+      "precio_antes": 3548.0,
+      "precio_hoy": 2479.0,
+      "diff_abs": -1069.0,
+      "diff_pct": -30.13
     },
     {
-      "ean": "7791540999000",
-      "nombre": "vino tinto alma mora merlot x 750 ml.",
+      "ean": "7790895641800",
+      "nombre": "jugo cepita botella x 1.5 lt. naranja",
       "categoria": "Bebidas",
-      "precio_antes": 6331.0,
-      "precio_hoy": 4749.0,
-      "diff_abs": -1582.0,
-      "diff_pct": -24.99
+      "precio_antes": 3548.0,
+      "precio_hoy": 2479.0,
+      "diff_abs": -1069.0,
+      "diff_pct": -30.13
     },
     {
-      "ean": "7790240042092",
-      "nombre": "vino alma mora syrah x 750 ml.",
+      "ean": "7790895641749",
+      "nombre": "jugo cepita anana x 1.5 lt.",
       "categoria": "Bebidas",
-      "precio_antes": 6331.0,
-      "precio_hoy": 4749.0,
-      "diff_abs": -1582.0,
-      "diff_pct": -24.99
+      "precio_antes": 3548.0,
+      "precio_hoy": 2479.0,
+      "diff_abs": -1069.0,
+      "diff_pct": -30.13
     },
     {
-      "ean": "7791540045721",
-      "nombre": "vino alma mora x 750 ml blend tinto",
+      "ean": "7790895641237",
+      "nombre": "agua saborizada aquarius cepita naranja x 1.5 lt.",
       "categoria": "Bebidas",
-      "precio_antes": 6331.0,
-      "precio_hoy": 4749.0,
-      "diff_abs": -1582.0,
-      "diff_pct": -24.99
+      "precio_antes": 3150.0,
+      "precio_hoy": 2279.0,
+      "diff_abs": -871.0,
+      "diff_pct": -27.65
     },
     {
-      "ean": "7791250801839",
-      "nombre": "gin gordons x 700 ml tropical",
+      "ean": "7790895641220",
+      "nombre": "agua saborizada aquarius cepita uva x 1.5 lt.",
       "categoria": "Bebidas",
-      "precio_antes": 17357.0,
-      "precio_hoy": 13019.0,
-      "diff_abs": -4338.0,
-      "diff_pct": -24.99
+      "precio_antes": 3150.0,
+      "precio_hoy": 2279.0,
+      "diff_abs": -871.0,
+      "diff_pct": -27.65
     },
     {
-      "ean": "7791540044540",
-      "nombre": "vino blanco alma mora dulce viognier x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 6330.0,
-      "precio_hoy": 4749.0,
-      "diff_abs": -1581.0,
-      "diff_pct": -24.98
+      "ean": "2022420000000",
+      "nombre": "frutillas en bandeja chica",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 7990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -25.03
     }
   ],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 62,
-  "productos_sin_cambio_dia": 6028
+  "productos_subieron_dia": 312,
+  "productos_bajaron_dia": 136,
+  "productos_sin_cambio_dia": 5642
 }

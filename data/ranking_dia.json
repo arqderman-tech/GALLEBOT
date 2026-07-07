@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7896004004969",
-    "nombre": "zucaritas x490gr.caja",
-    "categoria": "Perfumeria",
-    "precio_antes": 5864.0,
-    "precio_hoy": 5864.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790310985830",
-    "nombre": "3ds queso x 85 gr.",
+    "ean": "7790150533154",
+    "nombre": "mis alicante parrillero vegetales x 25 gm",
     "categoria": "Almacen",
-    "precio_antes": 3649.0,
-    "precio_hoy": 3649.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 769.0,
+    "precio_hoy": 1535.0,
+    "diff_abs": 766.0,
+    "diff_pct": 99.61
   },
   {
-    "ean": "7790310985137",
-    "nombre": "3ds queso x143gr.",
+    "ean": "7790150533109",
+    "nombre": "mix alicante parrillero x 25 gm chimichurri ahumado",
     "categoria": "Almacen",
-    "precio_antes": 5118.0,
-    "precio_hoy": 5118.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 769.0,
+    "precio_hoy": 1535.0,
+    "diff_abs": 766.0,
+    "diff_pct": 99.61
   },
   {
-    "ean": "7790310985113",
-    "nombre": "3ds sabor queso x 43 gm",
+    "ean": "7790150533208",
+    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
     "categoria": "Almacen",
-    "precio_antes": 2271.0,
-    "precio_hoy": 2271.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 769.0,
+    "precio_hoy": 1535.0,
+    "diff_abs": 766.0,
+    "diff_pct": 99.61
   },
   {
-    "ean": "7791728246629",
-    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
+    "ean": "7790150533000",
+    "nombre": "mix alicante parrilla x 25 gr hamburguesas",
     "categoria": "Almacen",
-    "precio_antes": 24261.0,
-    "precio_hoy": 24261.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 769.0,
+    "precio_hoy": 1535.0,
+    "diff_abs": 766.0,
+    "diff_pct": 99.61
   },
   {
-    "ean": "763571722428",
-    "nombre": "ac.de coco entrenuts x200virg.",
+    "ean": "7790150533307",
+    "nombre": "mix alicante parrillero barbacoa x 25 gm",
     "categoria": "Almacen",
-    "precio_antes": 9649.0,
-    "precio_hoy": 9649.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 769.0,
+    "precio_hoy": 1535.0,
+    "diff_abs": 766.0,
+    "diff_pct": 99.61
   },
   {
-    "ean": "7798080520657",
-    "nombre": "ac.ol.l.toscana x250ml.ajo",
+    "ean": "7622300742584",
+    "nombre": "alfajor terrabusi x6 chocolate",
     "categoria": "Almacen",
-    "precio_antes": 9903.0,
-    "precio_hoy": 9903.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 4599.0,
+    "precio_hoy": 8613.0,
+    "diff_abs": 4014.0,
+    "diff_pct": 87.28
   },
   {
-    "ean": "7798080520534",
-    "nombre": "ac.ol.l.toscana x250ml.albahac",
+    "ean": "7622300742621",
+    "nombre": "alfajor terrabusi x6 glaseado",
     "categoria": "Almacen",
-    "precio_antes": 9903.0,
-    "precio_hoy": 9903.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 4599.0,
+    "precio_hoy": 7755.0,
+    "diff_abs": 3156.0,
+    "diff_pct": 68.62
   },
   {
-    "ean": "7791728246612",
-    "nombre": "ac.ol.zuccardi x250ml.coratina",
+    "ean": "2021820000009",
+    "nombre": "pimiento rojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 66.78
+  },
+  {
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 60.24
+  },
+  {
+    "ean": "7793147572853",
+    "nombre": "cerveza amstel lata x 710 ml lager",
+    "categoria": "Bebidas",
+    "precio_antes": 2629.0,
+    "precio_hoy": 3925.0,
+    "diff_abs": 1296.0,
+    "diff_pct": 49.3
+  },
+  {
+    "ean": "7793147570286",
+    "nombre": "cerveza santa fe x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1839.0,
+    "precio_hoy": 2615.0,
+    "diff_abs": 776.0,
+    "diff_pct": 42.2
+  },
+  {
+    "ean": "7793147572075",
+    "nombre": "cerveza santa fe pilsen x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1839.0,
+    "precio_hoy": 2615.0,
+    "diff_abs": 776.0,
+    "diff_pct": 42.2
+  },
+  {
+    "ean": "7790380270133",
+    "nombre": "mantecol x 111 gm salted caramel",
     "categoria": "Almacen",
-    "precio_antes": 14152.0,
-    "precio_hoy": 14152.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 2469.0,
+    "precio_hoy": 3394.0,
+    "diff_abs": 925.0,
+    "diff_pct": 37.46
   },
   {
-    "ean": "7791728246575",
-    "nombre": "ac.ol.zuccardi x250ml.picual",
+    "ean": "7790380270119",
+    "nombre": "mantecol x111gr.cafe",
     "categoria": "Almacen",
-    "precio_antes": 14152.0,
-    "precio_hoy": 14152.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 2469.0,
+    "precio_hoy": 3394.0,
+    "diff_abs": 925.0,
+    "diff_pct": 37.46
   },
   {
-    "ean": "7798028020270",
-    "nombre": "yerba mate pajaro azul x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1739.0,
-    "precio_hoy": 1739.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790380270126",
+    "nombre": "mantecol x111gr coco",
+    "categoria": "Almacen",
+    "precio_antes": 2469.0,
+    "precio_hoy": 3394.0,
+    "diff_abs": 925.0,
+    "diff_pct": 37.46
   },
   {
-    "ean": "7793704000928",
-    "nombre": "yerba mate playadito suave x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4960.0,
-    "precio_hoy": 4960.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7793147573744",
+    "nombre": "cerv.santa fe x1lt.ret.",
+    "categoria": "Bebidas",
+    "precio_antes": 3389.0,
+    "precio_hoy": 4580.0,
+    "diff_abs": 1191.0,
+    "diff_pct": 35.14
   },
   {
-    "ean": "7793704000881",
-    "nombre": "yerba mate playadito x 500 gr. despalada",
-    "categoria": "Perfumeria",
-    "precio_antes": 3605.0,
-    "precio_hoy": 3605.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7793147572082",
+    "nombre": "cerveza santa fe pilsen x 1 litro",
+    "categoria": "Bebidas",
+    "precio_antes": 3389.0,
+    "precio_hoy": 4580.0,
+    "diff_abs": 1191.0,
+    "diff_pct": 35.14
   },
   {
-    "ean": "7793704000508",
-    "nombre": "yerba mate playadito x 500 gr. hierbas",
-    "categoria": "Perfumeria",
-    "precio_antes": 3056.0,
-    "precio_hoy": 3056.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798108834193",
+    "nombre": "vino callia amable x750ml.t.ti",
+    "categoria": "Bebidas",
+    "precio_antes": 3919.0,
+    "precio_hoy": 5240.0,
+    "diff_abs": 1321.0,
+    "diff_pct": 33.71
   },
   {
-    "ean": "7793704000911",
-    "nombre": "yerba mate playadito x 500 gr. suave",
-    "categoria": "Perfumeria",
-    "precio_antes": 2653.0,
-    "precio_hoy": 2653.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798108834155",
+    "nombre": "vino blanco callia amable tardio x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3919.0,
+    "precio_hoy": 5240.0,
+    "diff_abs": 1321.0,
+    "diff_pct": 33.71
   },
   {
-    "ean": "7790411000807",
-    "nombre": "yerba mate rosamonte despalada x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 5616.0,
-    "precio_hoy": 5616.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411001408",
-    "nombre": "yerba mate rosamonte edicion fundacion favaloro x",
-    "categoria": "Perfumeria",
-    "precio_antes": 2829.0,
-    "precio_hoy": 2829.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411001392",
-    "nombre": "yerba mate rosamonte fundacion favaloro x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 5367.0,
-    "precio_hoy": 5367.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7793704000805",
-    "nombre": "yerba mate liebig original x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3239.0,
-    "precio_hoy": 3239.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790387015324",
-    "nombre": "yerba mate mananita 4 flex x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2307.0,
-    "precio_hoy": 2307.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798108834179",
+    "nombre": "vino tardio callia x 750 ml. rosado malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 3919.0,
+    "precio_hoy": 5240.0,
+    "diff_abs": 1321.0,
+    "diff_pct": 33.71
   }
 ]

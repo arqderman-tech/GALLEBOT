@@ -13,27 +13,18 @@
     "nombre": "calabacita x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 790.0,
-    "precio_hoy": 1590.0,
-    "diff_abs": 800.0,
-    "diff_pct": 101.27
+    "precio_hoy": 1790.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 126.58
   },
   {
     "ean": "7791813402886",
     "nombre": "agua saborizada h2o x 500 ml sin gas naranja",
     "categoria": "Bebidas",
     "precio_antes": 909.0,
-    "precio_hoy": 1750.0,
-    "diff_abs": 841.0,
-    "diff_pct": 92.52
-  },
-  {
-    "ean": "2031890000007",
-    "nombre": "boga despinada envasada al vacio x kilo",
-    "categoria": "Congelados",
-    "precio_antes": 19169.0,
-    "precio_hoy": 32118.0,
-    "diff_abs": 12949.0,
-    "diff_pct": 67.55
+    "precio_hoy": 1800.0,
+    "diff_abs": 891.0,
+    "diff_pct": 98.02
   },
   {
     "ean": "7794000008540",
@@ -63,24 +54,6 @@
     "diff_pct": 65.04
   },
   {
-    "ean": "7793147572389",
-    "nombre": "cerveza salta cautiva roja -",
-    "categoria": "Bebidas",
-    "precio_antes": 1909.0,
-    "precio_hoy": 3105.0,
-    "diff_abs": 1196.0,
-    "diff_pct": 62.65
-  },
-  {
-    "ean": "7793147572327",
-    "nombre": "cerveza salta cautiva rubia  x 473 m",
-    "categoria": "Bebidas",
-    "precio_antes": 1909.0,
-    "precio_hoy": 3105.0,
-    "diff_abs": 1196.0,
-    "diff_pct": 62.65
-  },
-  {
     "ean": "7793147574185",
     "nombre": "cerveza salta cautiva x 473 ml fresh lager",
     "categoria": "Bebidas",
@@ -92,6 +65,24 @@
   {
     "ean": "7793147573683",
     "nombre": "cerveza salta cautiva ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 62.65
+  },
+  {
+    "ean": "7793147572389",
+    "nombre": "cerveza salta cautiva roja -",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 62.65
+  },
+  {
+    "ean": "7793147572327",
+    "nombre": "cerveza salta cautiva rubia  x 473 m",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -151,6 +142,15 @@
     "precio_hoy": 4899.0,
     "diff_abs": 1860.0,
     "diff_pct": 61.2
+  },
+  {
+    "ean": "7792798008858",
+    "nombre": "cerveza temple wolf ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3079.0,
+    "precio_hoy": 4961.0,
+    "diff_abs": 1882.0,
+    "diff_pct": 61.12
   },
   {
     "ean": "7794170016932",
