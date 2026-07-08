@@ -1,5 +1,14 @@
 [
   {
+    "ean": "7790150533208",
+    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
+    "categoria": "Almacen",
+    "precio_antes": 769.0,
+    "precio_hoy": 1535.0,
+    "diff_abs": 766.0,
+    "diff_pct": 99.61
+  },
+  {
     "ean": "7790150533154",
     "nombre": "mis alicante parrillero vegetales x 25 gm",
     "categoria": "Almacen",
@@ -18,15 +27,6 @@
     "diff_pct": 99.61
   },
   {
-    "ean": "7790150533307",
-    "nombre": "mix alicante parrillero barbacoa x 25 gm",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
     "ean": "7790150533109",
     "nombre": "mix alicante parrillero x 25 gm chimichurri ahumado",
     "categoria": "Almacen",
@@ -36,22 +36,13 @@
     "diff_pct": 99.61
   },
   {
-    "ean": "7790150533208",
-    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
+    "ean": "7790150533307",
+    "nombre": "mix alicante parrillero barbacoa x 25 gm",
     "categoria": "Almacen",
     "precio_antes": 769.0,
     "precio_hoy": 1535.0,
     "diff_abs": 766.0,
     "diff_pct": 99.61
-  },
-  {
-    "ean": "7791813402886",
-    "nombre": "agua saborizada h2o x 500 ml sin gas naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1800.0,
-    "diff_abs": 891.0,
-    "diff_pct": 98.02
   },
   {
     "ean": "7622300742584",
@@ -63,6 +54,15 @@
     "diff_pct": 87.28
   },
   {
+    "ean": "7790950147926",
+    "nombre": "americano gancia x 473 ml sin alcohol lata",
+    "categoria": "Bebidas",
+    "precio_antes": 1199.0,
+    "precio_hoy": 2149.0,
+    "diff_abs": 950.0,
+    "diff_pct": 79.23
+  },
+  {
     "ean": "7622300742621",
     "nombre": "alfajor terrabusi x6 glaseado",
     "categoria": "Almacen",
@@ -70,6 +70,24 @@
     "precio_hoy": 7755.0,
     "diff_abs": 3156.0,
     "diff_pct": 68.62
+  },
+  {
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1190.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 800.0,
+    "diff_pct": 67.23
+  },
+  {
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
   },
   {
     "ean": "2021820000009",
@@ -81,102 +99,84 @@
     "diff_pct": 66.78
   },
   {
-    "ean": "7793147574185",
-    "nombre": "cerveza salta cautiva x 473 ml fresh lager",
+    "ean": "7790070760678",
+    "nombre": "vino benjamin nieto senetiner x 750 ml. torrontes",
     "categoria": "Bebidas",
-    "precio_antes": 1909.0,
-    "precio_hoy": 3105.0,
-    "diff_abs": 1196.0,
-    "diff_pct": 62.65
+    "precio_antes": 4099.0,
+    "precio_hoy": 6724.0,
+    "diff_abs": 2625.0,
+    "diff_pct": 64.04
   },
   {
-    "ean": "7793147573683",
-    "nombre": "cerveza salta cautiva ipa x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1909.0,
-    "precio_hoy": 3105.0,
-    "diff_abs": 1196.0,
-    "diff_pct": 62.65
+    "ean": "7790070417572",
+    "nombre": "oblea de arroz gallo x 6 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 4729.0,
+    "precio_hoy": 7428.0,
+    "diff_abs": 2699.0,
+    "diff_pct": 57.07
   },
   {
-    "ean": "7793147572389",
-    "nombre": "cerveza salta cautiva roja -",
-    "categoria": "Bebidas",
-    "precio_antes": 1909.0,
-    "precio_hoy": 3105.0,
-    "diff_abs": 1196.0,
-    "diff_pct": 62.65
+    "ean": "7790070418401",
+    "nombre": "gall.gallo x100gr.crackeadas",
+    "categoria": "Almacen",
+    "precio_antes": 1739.0,
+    "precio_hoy": 2731.0,
+    "diff_abs": 992.0,
+    "diff_pct": 57.04
   },
   {
-    "ean": "7793147572327",
-    "nombre": "cerveza salta cautiva rubia  x 473 m",
-    "categoria": "Bebidas",
-    "precio_antes": 1909.0,
-    "precio_hoy": 3105.0,
-    "diff_abs": 1196.0,
-    "diff_pct": 62.65
+    "ean": "7790070431899",
+    "nombre": "oblea de arroz chocobar x 6 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 4729.0,
+    "precio_hoy": 7426.0,
+    "diff_abs": 2697.0,
+    "diff_pct": 57.03
   },
   {
-    "ean": "7793147572334",
-    "nombre": "cerveza salta cautiva rubia x 1 lt. retornable",
+    "ean": "7790070760555",
+    "nombre": "vino blanco benjamin nieto chardonnay x 750 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 3219.0,
-    "precio_hoy": 5230.0,
-    "diff_abs": 2011.0,
-    "diff_pct": 62.47
+    "precio_antes": 4299.0,
+    "precio_hoy": 6724.0,
+    "diff_abs": 2425.0,
+    "diff_pct": 56.41
   },
   {
-    "ean": "4000856005217",
-    "nombre": "cerveza wasteiner long x 330 ml",
+    "ean": "7790070760623",
+    "nombre": "vino benjamin  nieto x 750 ml blanco dulce",
     "categoria": "Bebidas",
-    "precio_antes": 2349.0,
-    "precio_hoy": 3815.0,
-    "diff_abs": 1466.0,
-    "diff_pct": 62.41
+    "precio_antes": 4299.0,
+    "precio_hoy": 6724.0,
+    "diff_abs": 2425.0,
+    "diff_pct": 56.41
   },
   {
-    "ean": "7793147573492",
-    "nombre": "cerveza miller long neck x 330 ml.",
+    "ean": "7790070760630",
+    "nombre": "vino benjamin nieto rosado dulce x 750 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 2349.0,
-    "precio_hoy": 3815.0,
-    "diff_abs": 1466.0,
-    "diff_pct": 62.41
+    "precio_antes": 4299.0,
+    "precio_hoy": 6724.0,
+    "diff_abs": 2425.0,
+    "diff_pct": 56.41
   },
   {
-    "ean": "7793147574109",
-    "nombre": "cerveza imperial golden long neck x 330 cc",
+    "ean": "7790070760593",
+    "nombre": "vino benjamin nieto tempranillo x 750 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 2149.0,
-    "precio_hoy": 3485.0,
-    "diff_abs": 1336.0,
-    "diff_pct": 62.17
+    "precio_antes": 4099.0,
+    "precio_hoy": 6309.0,
+    "diff_abs": 2210.0,
+    "diff_pct": 53.92
   },
   {
-    "ean": "7793147118860",
-    "nombre": "cerveza schneider lata x 473 ml.",
+    "ean": "7790070760562",
+    "nombre": "vino benjamin nieto cabernet sauvignon x 750 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 1639.0,
-    "precio_hoy": 2615.0,
-    "diff_abs": 976.0,
-    "diff_pct": 59.55
-  },
-  {
-    "ean": "7797906054819",
-    "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 9939.0,
-    "precio_hoy": 15291.0,
-    "diff_abs": 5352.0,
-    "diff_pct": 53.85
-  },
-  {
-    "ean": "7799155000180",
-    "nombre": "agua mineral villavicencio sin gas x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1939.0,
-    "precio_hoy": 2969.0,
-    "diff_abs": 1030.0,
-    "diff_pct": 53.12
+    "precio_antes": 4099.0,
+    "precio_hoy": 6309.0,
+    "diff_abs": 2210.0,
+    "diff_pct": 53.92
   }
 ]

@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790150533154",
-    "nombre": "mis alicante parrillero vegetales x 25 gm",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
-    "ean": "7790150533109",
-    "nombre": "mix alicante parrillero x 25 gm chimichurri ahumado",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
-    "ean": "7790150533208",
-    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
-    "ean": "7790150533000",
-    "nombre": "mix alicante parrilla x 25 gr hamburguesas",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
-    "ean": "7790150533307",
-    "nombre": "mix alicante parrillero barbacoa x 25 gm",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
-    "ean": "7622300742584",
-    "nombre": "alfajor terrabusi x6 chocolate",
-    "categoria": "Almacen",
-    "precio_antes": 4599.0,
-    "precio_hoy": 8613.0,
-    "diff_abs": 4014.0,
-    "diff_pct": 87.28
-  },
-  {
-    "ean": "7622300742621",
-    "nombre": "alfajor terrabusi x6 glaseado",
-    "categoria": "Almacen",
-    "precio_antes": 4599.0,
-    "precio_hoy": 7755.0,
-    "diff_abs": 3156.0,
-    "diff_pct": 68.62
-  },
-  {
-    "ean": "2021820000009",
-    "nombre": "pimiento rojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 66.78
-  },
-  {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 60.24
-  },
-  {
-    "ean": "7793147572853",
-    "nombre": "cerveza amstel lata x 710 ml lager",
+    "ean": "7790070760678",
+    "nombre": "vino benjamin nieto senetiner x 750 ml. torrontes",
     "categoria": "Bebidas",
-    "precio_antes": 2629.0,
-    "precio_hoy": 3925.0,
-    "diff_abs": 1296.0,
-    "diff_pct": 49.3
+    "precio_antes": 4099.0,
+    "precio_hoy": 6724.0,
+    "diff_abs": 2625.0,
+    "diff_pct": 64.04
   },
   {
-    "ean": "7793147570286",
-    "nombre": "cerveza santa fe x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1839.0,
-    "precio_hoy": 2615.0,
-    "diff_abs": 776.0,
-    "diff_pct": 42.2
-  },
-  {
-    "ean": "7793147572075",
-    "nombre": "cerveza santa fe pilsen x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1839.0,
-    "precio_hoy": 2615.0,
-    "diff_abs": 776.0,
-    "diff_pct": 42.2
-  },
-  {
-    "ean": "7790380270133",
-    "nombre": "mantecol x 111 gm salted caramel",
+    "ean": "7790070417572",
+    "nombre": "oblea de arroz gallo x 6 unid.",
     "categoria": "Almacen",
-    "precio_antes": 2469.0,
-    "precio_hoy": 3394.0,
-    "diff_abs": 925.0,
-    "diff_pct": 37.46
+    "precio_antes": 4729.0,
+    "precio_hoy": 7428.0,
+    "diff_abs": 2699.0,
+    "diff_pct": 57.07
   },
   {
-    "ean": "7790380270119",
-    "nombre": "mantecol x111gr.cafe",
+    "ean": "7790070418401",
+    "nombre": "gall.gallo x100gr.crackeadas",
     "categoria": "Almacen",
-    "precio_antes": 2469.0,
-    "precio_hoy": 3394.0,
-    "diff_abs": 925.0,
-    "diff_pct": 37.46
+    "precio_antes": 1739.0,
+    "precio_hoy": 2731.0,
+    "diff_abs": 992.0,
+    "diff_pct": 57.04
   },
   {
-    "ean": "7790380270126",
-    "nombre": "mantecol x111gr coco",
+    "ean": "7790070431899",
+    "nombre": "oblea de arroz chocobar x 6 unid.",
     "categoria": "Almacen",
-    "precio_antes": 2469.0,
-    "precio_hoy": 3394.0,
-    "diff_abs": 925.0,
-    "diff_pct": 37.46
+    "precio_antes": 4729.0,
+    "precio_hoy": 7426.0,
+    "diff_abs": 2697.0,
+    "diff_pct": 57.03
   },
   {
-    "ean": "7793147573744",
-    "nombre": "cerv.santa fe x1lt.ret.",
+    "ean": "7790070760630",
+    "nombre": "vino benjamin nieto rosado dulce x 750 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 3389.0,
-    "precio_hoy": 4580.0,
-    "diff_abs": 1191.0,
-    "diff_pct": 35.14
+    "precio_antes": 4299.0,
+    "precio_hoy": 6724.0,
+    "diff_abs": 2425.0,
+    "diff_pct": 56.41
   },
   {
-    "ean": "7793147572082",
-    "nombre": "cerveza santa fe pilsen x 1 litro",
+    "ean": "7790070760555",
+    "nombre": "vino blanco benjamin nieto chardonnay x 750 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 3389.0,
-    "precio_hoy": 4580.0,
-    "diff_abs": 1191.0,
-    "diff_pct": 35.14
+    "precio_antes": 4299.0,
+    "precio_hoy": 6724.0,
+    "diff_abs": 2425.0,
+    "diff_pct": 56.41
   },
   {
-    "ean": "7798108834193",
-    "nombre": "vino callia amable x750ml.t.ti",
+    "ean": "7790070760623",
+    "nombre": "vino benjamin  nieto x 750 ml blanco dulce",
     "categoria": "Bebidas",
-    "precio_antes": 3919.0,
-    "precio_hoy": 5240.0,
-    "diff_abs": 1321.0,
-    "diff_pct": 33.71
+    "precio_antes": 4299.0,
+    "precio_hoy": 6724.0,
+    "diff_abs": 2425.0,
+    "diff_pct": 56.41
   },
   {
-    "ean": "7798108834155",
-    "nombre": "vino blanco callia amable tardio x 750 ml.",
+    "ean": "7790070760609",
+    "nombre": "vino benjamin nieto senetiner x 750 ml. merlot",
     "categoria": "Bebidas",
-    "precio_antes": 3919.0,
-    "precio_hoy": 5240.0,
-    "diff_abs": 1321.0,
-    "diff_pct": 33.71
+    "precio_antes": 4099.0,
+    "precio_hoy": 6309.0,
+    "diff_abs": 2210.0,
+    "diff_pct": 53.92
   },
   {
-    "ean": "7798108834179",
-    "nombre": "vino tardio callia x 750 ml. rosado malbec",
+    "ean": "7790070760647",
+    "nombre": "vino benjamin nieto x 750 ml malbec-cabernet",
     "categoria": "Bebidas",
-    "precio_antes": 3919.0,
-    "precio_hoy": 5240.0,
-    "diff_abs": 1321.0,
-    "diff_pct": 33.71
+    "precio_antes": 4099.0,
+    "precio_hoy": 6309.0,
+    "diff_abs": 2210.0,
+    "diff_pct": 53.92
+  },
+  {
+    "ean": "7790070760579",
+    "nombre": "vino benj.nieto x750ml.malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 4099.0,
+    "precio_hoy": 6309.0,
+    "diff_abs": 2210.0,
+    "diff_pct": 53.92
+  },
+  {
+    "ean": "7790070760562",
+    "nombre": "vino benjamin nieto cabernet sauvignon x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4099.0,
+    "precio_hoy": 6309.0,
+    "diff_abs": 2210.0,
+    "diff_pct": 53.92
+  },
+  {
+    "ean": "7790070760593",
+    "nombre": "vino benjamin nieto tempranillo x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4099.0,
+    "precio_hoy": 6309.0,
+    "diff_abs": 2210.0,
+    "diff_pct": 53.92
+  },
+  {
+    "ean": "7790070418449",
+    "nombre": "bizcochos de arroz gallo tortita negra x 100 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1829.0,
+    "precio_hoy": 2761.0,
+    "diff_abs": 932.0,
+    "diff_pct": 50.96
+  },
+  {
+    "ean": "7790070418463",
+    "nombre": "bizcochos salados de arroz gallo x 100 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1829.0,
+    "precio_hoy": 2761.0,
+    "diff_abs": 932.0,
+    "diff_pct": 50.96
+  },
+  {
+    "ean": "7790070418425",
+    "nombre": "bizcochos dulces de arroz gallo x 100 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1829.0,
+    "precio_hoy": 2761.0,
+    "diff_abs": 932.0,
+    "diff_pct": 50.96
+  },
+  {
+    "ean": "7790070103314",
+    "nombre": "alfajor chocoarroz 6 x 36 gm dulce de leche",
+    "categoria": "Almacen",
+    "precio_antes": 6139.0,
+    "precio_hoy": 9260.0,
+    "diff_abs": 3121.0,
+    "diff_pct": 50.84
+  },
+  {
+    "ean": "7790070418302",
+    "nombre": "alfajor chocoarroz blanco x 6 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 4749.0,
+    "precio_hoy": 7163.0,
+    "diff_abs": 2414.0,
+    "diff_pct": 50.83
+  },
+  {
+    "ean": "7790070418340",
+    "nombre": "alfajor chocoarroz marroc x 6 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 4739.0,
+    "precio_hoy": 7146.0,
+    "diff_abs": 2407.0,
+    "diff_pct": 50.79
+  },
+  {
+    "ean": "7790070418227",
+    "nombre": "alfajor chocoarroz dulce de leche x 6 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 4739.0,
+    "precio_hoy": 7146.0,
+    "diff_abs": 2407.0,
+    "diff_pct": 50.79
+  },
+  {
+    "ean": "7790070418265",
+    "nombre": "alfajor chocoarroz limon x 6 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 4739.0,
+    "precio_hoy": 7146.0,
+    "diff_abs": 2407.0,
+    "diff_pct": 50.79
   }
 ]

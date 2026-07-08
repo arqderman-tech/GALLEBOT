@@ -13,9 +13,9 @@
     "nombre": "calabacita x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 790.0,
-    "precio_hoy": 1790.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 126.58
+    "precio_hoy": 1990.0,
+    "diff_abs": 1200.0,
+    "diff_pct": 151.9
   },
   {
     "ean": "7791813402886",
@@ -54,17 +54,8 @@
     "diff_pct": 65.04
   },
   {
-    "ean": "7793147574185",
-    "nombre": "cerveza salta cautiva x 473 ml fresh lager",
-    "categoria": "Bebidas",
-    "precio_antes": 1909.0,
-    "precio_hoy": 3105.0,
-    "diff_abs": 1196.0,
-    "diff_pct": 62.65
-  },
-  {
-    "ean": "7793147573683",
-    "nombre": "cerveza salta cautiva ipa x 473 ml.",
+    "ean": "7793147572327",
+    "nombre": "cerveza salta cautiva rubia  x 473 m",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -81,8 +72,17 @@
     "diff_pct": 62.65
   },
   {
-    "ean": "7793147572327",
-    "nombre": "cerveza salta cautiva rubia  x 473 m",
+    "ean": "7793147573683",
+    "nombre": "cerveza salta cautiva ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 62.65
+  },
+  {
+    "ean": "7793147574185",
+    "nombre": "cerveza salta cautiva x 473 ml fresh lager",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -171,8 +171,8 @@
     "diff_pct": 60.73
   },
   {
-    "ean": "2020350000008",
-    "nombre": "chaucha ballina x kg.",
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 4990.0,
     "precio_hoy": 7990.0,

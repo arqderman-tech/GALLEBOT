@@ -1,147 +1,147 @@
 {
-  "fecha": "20260707",
-  "total_productos": 6090,
-  "variacion_dia": 0.44,
-  "variacion_7d": 0.48,
-  "variacion_mes": 0.9,
+  "fecha": "20260708",
+  "total_productos": 6089,
+  "variacion_dia": 0.73,
+  "variacion_7d": -0.32,
+  "variacion_mes": 1.49,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.87,
-      "productos_subieron": 161,
-      "productos_bajaron": 40,
+      "variacion_pct_promedio": 0.58,
+      "productos_subieron": 92,
+      "productos_bajaron": 167,
       "total_productos": 1364
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.75,
-      "productos_subieron": 82,
-      "productos_bajaron": 16,
+      "variacion_pct_promedio": 0.44,
+      "productos_subieron": 116,
+      "productos_bajaron": 4,
       "total_productos": 1124
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 1.48,
+      "productos_subieron": 19,
       "productos_bajaron": 0,
       "total_productos": 223
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.3,
+      "productos_subieron": 22,
       "productos_bajaron": 0,
       "total_productos": 858
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.26,
-      "productos_subieron": 28,
-      "productos_bajaron": 4,
-      "total_productos": 833
+      "variacion_pct_promedio": 0.48,
+      "productos_subieron": 65,
+      "productos_bajaron": 14,
+      "total_productos": 829
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.25,
-      "productos_subieron": 41,
-      "productos_bajaron": 76,
+      "variacion_pct_promedio": 1.3,
+      "productos_subieron": 95,
+      "productos_bajaron": 5,
       "total_productos": 1688
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7891000248799",
-      "nombre": "chocolate kit kat x 41 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2230.0,
-      "precio_hoy": 1499.0,
-      "diff_abs": -731.0,
-      "diff_pct": -32.78
-    },
-    {
-      "ean": "7891000422052",
-      "nombre": "chocolate kit kat triple chocolate x 41,5 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2230.0,
-      "precio_hoy": 1499.0,
-      "diff_abs": -731.0,
-      "diff_pct": -32.78
-    },
-    {
-      "ean": "7891000379028",
-      "nombre": "chocolate kit-kat white x 41,5 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2230.0,
-      "precio_hoy": 1499.0,
-      "diff_abs": -731.0,
-      "diff_pct": -32.78
-    },
-    {
-      "ean": "7891000379073",
-      "nombre": "chocolate kit-kat dark x 41,5 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2230.0,
-      "precio_hoy": 1499.0,
-      "diff_abs": -731.0,
-      "diff_pct": -32.78
-    },
-    {
-      "ean": "7790895641534",
-      "nombre": "jugo cepita botella x 1,5 lt. durazno",
+      "ean": "7792319971104",
+      "nombre": "vino tinto norton seleccion malbec x 750 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 3548.0,
-      "precio_hoy": 2479.0,
-      "diff_abs": -1069.0,
-      "diff_pct": -30.13
+      "precio_antes": 7664.06,
+      "precio_hoy": 6199.0,
+      "diff_abs": -1465.06,
+      "diff_pct": -19.12
     },
     {
-      "ean": "7790895641800",
-      "nombre": "jugo cepita botella x 1.5 lt. naranja",
+      "ean": "7791540000218",
+      "nombre": "sidra dada x 750 ml",
       "categoria": "Bebidas",
-      "precio_antes": 3548.0,
-      "precio_hoy": 2479.0,
-      "diff_abs": -1069.0,
-      "diff_pct": -30.13
+      "precio_antes": 6887.0,
+      "precio_hoy": 5889.0,
+      "diff_abs": -998.0,
+      "diff_pct": -14.49
     },
     {
-      "ean": "7790895641749",
-      "nombre": "jugo cepita anana x 1.5 lt.",
+      "ean": "7792319972231",
+      "nombre": "vino norton x750ml.cos.tar.tto",
       "categoria": "Bebidas",
-      "precio_antes": 3548.0,
-      "precio_hoy": 2479.0,
-      "diff_abs": -1069.0,
-      "diff_pct": -30.13
+      "precio_antes": 5563.52,
+      "precio_hoy": 4799.0,
+      "diff_abs": -764.52,
+      "diff_pct": -13.74
     },
     {
-      "ean": "7790895641237",
-      "nombre": "agua saborizada aquarius cepita naranja x 1.5 lt.",
+      "ean": "7792319972248",
+      "nombre": "vino blanco norton cosecha tardia x 750 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 3150.0,
-      "precio_hoy": 2279.0,
-      "diff_abs": -871.0,
-      "diff_pct": -27.65
+      "precio_antes": 5563.52,
+      "precio_hoy": 4799.0,
+      "diff_abs": -764.52,
+      "diff_pct": -13.74
     },
     {
-      "ean": "7790895641220",
-      "nombre": "agua saborizada aquarius cepita uva x 1.5 lt.",
+      "ean": "7791200200729",
+      "nombre": "espumante cinzano pro-spritz x 750 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 3150.0,
-      "precio_hoy": 2279.0,
-      "diff_abs": -871.0,
-      "diff_pct": -27.65
+      "precio_antes": 10892.0,
+      "precio_hoy": 9579.0,
+      "diff_abs": -1313.0,
+      "diff_pct": -12.05
     },
     {
-      "ean": "2022420000000",
-      "nombre": "frutillas en bandeja chica",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 7990.0,
-      "precio_hoy": 5990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -25.03
+      "ean": "7791200000626",
+      "nombre": "aperitivo cynar x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 11199.0,
+      "precio_hoy": 9899.0,
+      "diff_abs": -1300.0,
+      "diff_pct": -11.61
+    },
+    {
+      "ean": "7791200200781",
+      "nombre": "aperitivo campari x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 12099.0,
+      "precio_hoy": 10699.0,
+      "diff_abs": -1400.0,
+      "diff_pct": -11.57
+    },
+    {
+      "ean": "7794080001219",
+      "nombre": "sorrentinos la morocha jamon y queso x 500 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4348.0,
+      "precio_hoy": 3912.99,
+      "diff_abs": -435.01,
+      "diff_pct": -10.0
+    },
+    {
+      "ean": "8445291830806",
+      "nombre": "cafe en granos nescafe gold x 250 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 19104.0,
+      "precio_hoy": 17213.0,
+      "diff_abs": -1891.0,
+      "diff_pct": -9.9
+    },
+    {
+      "ean": "7794080000366",
+      "nombre": "fideos tallarines la morocha x 500 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2752.0,
+      "precio_hoy": 2481.26,
+      "diff_abs": -270.74,
+      "diff_pct": -9.84
     }
   ],
-  "productos_subieron_dia": 312,
-  "productos_bajaron_dia": 136,
-  "productos_sin_cambio_dia": 5642
+  "productos_subieron_dia": 409,
+  "productos_bajaron_dia": 190,
+  "productos_sin_cambio_dia": 5487
 }
