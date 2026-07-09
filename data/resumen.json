@@ -1,147 +1,147 @@
 {
-  "fecha": "20260708",
-  "total_productos": 6089,
-  "variacion_dia": 0.73,
-  "variacion_7d": -0.32,
-  "variacion_mes": 1.49,
+  "fecha": "20260709",
+  "total_productos": 6094,
+  "variacion_dia": 0.65,
+  "variacion_7d": 0.7,
+  "variacion_mes": 2.13,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.58,
-      "productos_subieron": 92,
-      "productos_bajaron": 167,
+      "variacion_pct_promedio": 0.11,
+      "productos_subieron": 30,
+      "productos_bajaron": 0,
       "total_productos": 1364
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.44,
-      "productos_subieron": 116,
-      "productos_bajaron": 4,
+      "variacion_pct_promedio": 2.28,
+      "productos_subieron": 63,
+      "productos_bajaron": 38,
       "total_productos": 1124
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 1.48,
-      "productos_subieron": 19,
+      "variacion_pct_promedio": 2.44,
+      "productos_subieron": 37,
       "productos_bajaron": 0,
       "total_productos": 223
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.3,
-      "productos_subieron": 22,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": 0.53,
+      "productos_subieron": 38,
+      "productos_bajaron": 3,
       "total_productos": 858
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.48,
-      "productos_subieron": 65,
-      "productos_bajaron": 14,
-      "total_productos": 829
+      "variacion_pct_promedio": -0.04,
+      "productos_subieron": 0,
+      "productos_bajaron": 3,
+      "total_productos": 832
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 1.3,
-      "productos_subieron": 95,
-      "productos_bajaron": 5,
+      "variacion_pct_promedio": 0.17,
+      "productos_subieron": 11,
+      "productos_bajaron": 0,
       "total_productos": 1688
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7792319971104",
-      "nombre": "vino tinto norton seleccion malbec x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 7664.06,
-      "precio_hoy": 6199.0,
-      "diff_abs": -1465.06,
-      "diff_pct": -19.12
+      "ean": "7798118413463",
+      "nombre": "plato playo firenze fume",
+      "categoria": "Limpieza",
+      "precio_antes": 3071.0,
+      "precio_hoy": 2611.0,
+      "diff_abs": -460.0,
+      "diff_pct": -14.98
     },
     {
-      "ean": "7791540000218",
-      "nombre": "sidra dada x 750 ml",
-      "categoria": "Bebidas",
-      "precio_antes": 6887.0,
-      "precio_hoy": 5889.0,
-      "diff_abs": -998.0,
-      "diff_pct": -14.49
-    },
-    {
-      "ean": "7792319972231",
-      "nombre": "vino norton x750ml.cos.tar.tto",
-      "categoria": "Bebidas",
-      "precio_antes": 5563.52,
-      "precio_hoy": 4799.0,
-      "diff_abs": -764.52,
-      "diff_pct": -13.74
-    },
-    {
-      "ean": "7792319972248",
-      "nombre": "vino blanco norton cosecha tardia x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 5563.52,
-      "precio_hoy": 4799.0,
-      "diff_abs": -764.52,
-      "diff_pct": -13.74
-    },
-    {
-      "ean": "7791200200729",
-      "nombre": "espumante cinzano pro-spritz x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 10892.0,
-      "precio_hoy": 9579.0,
-      "diff_abs": -1313.0,
-      "diff_pct": -12.05
-    },
-    {
-      "ean": "7791200000626",
-      "nombre": "aperitivo cynar x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 11199.0,
-      "precio_hoy": 9899.0,
-      "diff_abs": -1300.0,
-      "diff_pct": -11.61
-    },
-    {
-      "ean": "7791200200781",
-      "nombre": "aperitivo campari x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 12099.0,
-      "precio_hoy": 10699.0,
-      "diff_abs": -1400.0,
-      "diff_pct": -11.57
-    },
-    {
-      "ean": "7794080001219",
-      "nombre": "sorrentinos la morocha jamon y queso x 500 gr.",
+      "ean": "7794820903308",
+      "nombre": "manteca milkaut x 200 gr.",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4348.0,
-      "precio_hoy": 3912.99,
-      "diff_abs": -435.01,
-      "diff_pct": -10.0
+      "precio_antes": 4679.0,
+      "precio_hoy": 3979.0,
+      "diff_abs": -700.0,
+      "diff_pct": -14.96
     },
     {
-      "ean": "8445291830806",
-      "nombre": "cafe en granos nescafe gold x 250 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 19104.0,
-      "precio_hoy": 17213.0,
-      "diff_abs": -1891.0,
-      "diff_pct": -9.9
-    },
-    {
-      "ean": "7794080000366",
-      "nombre": "fideos tallarines la morocha x 500 gr.",
+      "ean": "7794820903216",
+      "nombre": "yogur bebible milkaut vainilla x 950 gr.",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2752.0,
-      "precio_hoy": 2481.26,
-      "diff_abs": -270.74,
-      "diff_pct": -9.84
+      "precio_antes": 3591.0,
+      "precio_hoy": 3089.0,
+      "diff_abs": -502.0,
+      "diff_pct": -13.98
+    },
+    {
+      "ean": "7794820903209",
+      "nombre": "yogur bebible milkaut frutilla x 950 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3591.0,
+      "precio_hoy": 3089.0,
+      "diff_abs": -502.0,
+      "diff_pct": -13.98
+    },
+    {
+      "ean": "7794820902264",
+      "nombre": "yogur bebible milkaut x 900 gr. frutilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3019.0,
+      "precio_hoy": 2599.0,
+      "diff_abs": -420.0,
+      "diff_pct": -13.91
+    },
+    {
+      "ean": "7794820902240",
+      "nombre": "yogur bebible milkaut sabor durazno x 900 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3019.0,
+      "precio_hoy": 2599.0,
+      "diff_abs": -420.0,
+      "diff_pct": -13.91
+    },
+    {
+      "ean": "7794820902257",
+      "nombre": "yogur bebible milkaut x 900 gr. vainilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3019.0,
+      "precio_hoy": 2599.0,
+      "diff_abs": -420.0,
+      "diff_pct": -13.91
+    },
+    {
+      "ean": "7794820902714",
+      "nombre": "yog.milkaut desc.sh.x900g.vain",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3019.0,
+      "precio_hoy": 2599.0,
+      "diff_abs": -420.0,
+      "diff_pct": -13.91
+    },
+    {
+      "ean": "7794820902707",
+      "nombre": "yogur bebible descremado milkaut frutilla x 900 g.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3019.0,
+      "precio_hoy": 2599.0,
+      "diff_abs": -420.0,
+      "diff_pct": -13.91
+    },
+    {
+      "ean": "7702147233428",
+      "nombre": "519 copa helado fiesta",
+      "categoria": "Limpieza",
+      "precio_antes": 2714.0,
+      "precio_hoy": 2368.0,
+      "diff_abs": -346.0,
+      "diff_pct": -12.75
     }
   ],
-  "productos_subieron_dia": 409,
-  "productos_bajaron_dia": 190,
-  "productos_sin_cambio_dia": 5487
+  "productos_subieron_dia": 179,
+  "productos_bajaron_dia": 44,
+  "productos_sin_cambio_dia": 5866
 }

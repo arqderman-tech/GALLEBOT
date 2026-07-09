@@ -1,7 +1,70 @@
 [
   {
-    "ean": "7790150533208",
-    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2109.0,
+    "precio_hoy": 5332.0,
+    "diff_abs": 3223.0,
+    "diff_pct": 152.82
+  },
+  {
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2109.0,
+    "precio_hoy": 5332.0,
+    "diff_abs": 3223.0,
+    "diff_pct": 152.82
+  },
+  {
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2099.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2408.0,
+    "diff_pct": 114.72
+  },
+  {
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2099.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2408.0,
+    "diff_pct": 114.72
+  },
+  {
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2099.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2408.0,
+    "diff_pct": 114.72
+  },
+  {
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2099.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2408.0,
+    "diff_pct": 114.72
+  },
+  {
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1190.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 1300.0,
+    "diff_pct": 109.24
+  },
+  {
+    "ean": "7790150533307",
+    "nombre": "mix alicante parrillero barbacoa x 25 gm",
     "categoria": "Almacen",
     "precio_antes": 769.0,
     "precio_hoy": 1535.0,
@@ -18,15 +81,6 @@
     "diff_pct": 99.61
   },
   {
-    "ean": "7790150533000",
-    "nombre": "mix alicante parrilla x 25 gr hamburguesas",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
     "ean": "7790150533109",
     "nombre": "mix alicante parrillero x 25 gm chimichurri ahumado",
     "categoria": "Almacen",
@@ -36,13 +90,31 @@
     "diff_pct": 99.61
   },
   {
-    "ean": "7790150533307",
-    "nombre": "mix alicante parrillero barbacoa x 25 gm",
+    "ean": "7790150533000",
+    "nombre": "mix alicante parrilla x 25 gr hamburguesas",
     "categoria": "Almacen",
     "precio_antes": 769.0,
     "precio_hoy": 1535.0,
     "diff_abs": 766.0,
     "diff_pct": 99.61
+  },
+  {
+    "ean": "7790150533208",
+    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
+    "categoria": "Almacen",
+    "precio_antes": 769.0,
+    "precio_hoy": 1535.0,
+    "diff_abs": 766.0,
+    "diff_pct": 99.61
+  },
+  {
+    "ean": "7791337008403",
+    "nombre": "leche chocolatada la serenisima x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2809.0,
+    "precio_hoy": 5271.0,
+    "diff_abs": 2462.0,
+    "diff_pct": 87.65
   },
   {
     "ean": "7622300742584",
@@ -54,6 +126,15 @@
     "diff_pct": 87.28
   },
   {
+    "ean": "7791337061507",
+    "nombre": "queso untable cremoso casancrem balance x 500 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4999.0,
+    "precio_hoy": 9053.0,
+    "diff_abs": 4054.0,
+    "diff_pct": 81.1
+  },
+  {
     "ean": "7790950147926",
     "nombre": "americano gancia x 473 ml sin alcohol lata",
     "categoria": "Bebidas",
@@ -61,6 +142,24 @@
     "precio_hoy": 2149.0,
     "diff_abs": 950.0,
     "diff_pct": 79.23
+  },
+  {
+    "ean": "7791337061385",
+    "nombre": "queso crema casancrem balance x 290 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3299.0,
+    "precio_hoy": 5852.0,
+    "diff_abs": 2553.0,
+    "diff_pct": 77.39
+  },
+  {
+    "ean": "7791337061361",
+    "nombre": "queso crema casancrem x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3299.0,
+    "precio_hoy": 5852.0,
+    "diff_abs": 2553.0,
+    "diff_pct": 77.39
   },
   {
     "ean": "7622300742621",
@@ -72,15 +171,6 @@
     "diff_pct": 68.62
   },
   {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1190.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 800.0,
-    "diff_pct": 67.23
-  },
-  {
     "ean": "2021650000002",
     "nombre": "zapallito largo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -88,95 +178,5 @@
     "precio_hoy": 4990.0,
     "diff_abs": 2000.0,
     "diff_pct": 66.89
-  },
-  {
-    "ean": "2021820000009",
-    "nombre": "pimiento rojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 66.78
-  },
-  {
-    "ean": "7790070760678",
-    "nombre": "vino benjamin nieto senetiner x 750 ml. torrontes",
-    "categoria": "Bebidas",
-    "precio_antes": 4099.0,
-    "precio_hoy": 6724.0,
-    "diff_abs": 2625.0,
-    "diff_pct": 64.04
-  },
-  {
-    "ean": "7790070417572",
-    "nombre": "oblea de arroz gallo x 6 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 4729.0,
-    "precio_hoy": 7428.0,
-    "diff_abs": 2699.0,
-    "diff_pct": 57.07
-  },
-  {
-    "ean": "7790070418401",
-    "nombre": "gall.gallo x100gr.crackeadas",
-    "categoria": "Almacen",
-    "precio_antes": 1739.0,
-    "precio_hoy": 2731.0,
-    "diff_abs": 992.0,
-    "diff_pct": 57.04
-  },
-  {
-    "ean": "7790070431899",
-    "nombre": "oblea de arroz chocobar x 6 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 4729.0,
-    "precio_hoy": 7426.0,
-    "diff_abs": 2697.0,
-    "diff_pct": 57.03
-  },
-  {
-    "ean": "7790070760555",
-    "nombre": "vino blanco benjamin nieto chardonnay x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4299.0,
-    "precio_hoy": 6724.0,
-    "diff_abs": 2425.0,
-    "diff_pct": 56.41
-  },
-  {
-    "ean": "7790070760623",
-    "nombre": "vino benjamin  nieto x 750 ml blanco dulce",
-    "categoria": "Bebidas",
-    "precio_antes": 4299.0,
-    "precio_hoy": 6724.0,
-    "diff_abs": 2425.0,
-    "diff_pct": 56.41
-  },
-  {
-    "ean": "7790070760630",
-    "nombre": "vino benjamin nieto rosado dulce x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4299.0,
-    "precio_hoy": 6724.0,
-    "diff_abs": 2425.0,
-    "diff_pct": 56.41
-  },
-  {
-    "ean": "7790070760593",
-    "nombre": "vino benjamin nieto tempranillo x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4099.0,
-    "precio_hoy": 6309.0,
-    "diff_abs": 2210.0,
-    "diff_pct": 53.92
-  },
-  {
-    "ean": "7790070760562",
-    "nombre": "vino benjamin nieto cabernet sauvignon x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4099.0,
-    "precio_hoy": 6309.0,
-    "diff_abs": 2210.0,
-    "diff_pct": 53.92
   }
 ]
