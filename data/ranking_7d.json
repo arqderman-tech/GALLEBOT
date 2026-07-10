@@ -18,15 +18,6 @@
     "diff_pct": 152.82
   },
   {
-    "ean": "7791337010369",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2099.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2408.0,
-    "diff_pct": 114.72
-  },
-  {
     "ean": "7791337010376",
     "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
     "categoria": "Lacteos Y Frescos",
@@ -45,8 +36,26 @@
     "diff_pct": 114.72
   },
   {
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2099.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2408.0,
+    "diff_pct": 114.72
+  },
+  {
     "ean": "7791337010475",
     "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2099.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2408.0,
+    "diff_pct": 114.72
+  },
+  {
+    "ean": "7791337010468",
+    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2099.0,
     "precio_hoy": 4507.0,
@@ -63,6 +72,15 @@
     "diff_pct": 109.24
   },
   {
+    "ean": "7790150533154",
+    "nombre": "mis alicante parrillero vegetales x 25 gm",
+    "categoria": "Almacen",
+    "precio_antes": 769.0,
+    "precio_hoy": 1535.0,
+    "diff_abs": 766.0,
+    "diff_pct": 99.61
+  },
+  {
     "ean": "7790150533307",
     "nombre": "mix alicante parrillero barbacoa x 25 gm",
     "categoria": "Almacen",
@@ -72,8 +90,8 @@
     "diff_pct": 99.61
   },
   {
-    "ean": "7790150533154",
-    "nombre": "mis alicante parrillero vegetales x 25 gm",
+    "ean": "7790150533208",
+    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
     "categoria": "Almacen",
     "precio_antes": 769.0,
     "precio_hoy": 1535.0,
@@ -99,15 +117,6 @@
     "diff_pct": 99.61
   },
   {
-    "ean": "7790150533208",
-    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
     "ean": "7791337008403",
     "nombre": "leche chocolatada la serenisima x 1 lt.",
     "categoria": "Lacteos Y Frescos",
@@ -124,6 +133,15 @@
     "precio_hoy": 8613.0,
     "diff_abs": 4014.0,
     "diff_pct": 87.28
+  },
+  {
+    "ean": "7791337061491",
+    "nombre": "queso casancrem x 500gr clasico",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4999.0,
+    "precio_hoy": 9053.0,
+    "diff_abs": 4054.0,
+    "diff_pct": 81.1
   },
   {
     "ean": "7791337061507",
@@ -160,23 +178,5 @@
     "precio_hoy": 5852.0,
     "diff_abs": 2553.0,
     "diff_pct": 77.39
-  },
-  {
-    "ean": "7622300742621",
-    "nombre": "alfajor terrabusi x6 glaseado",
-    "categoria": "Almacen",
-    "precio_antes": 4599.0,
-    "precio_hoy": 7755.0,
-    "diff_abs": 3156.0,
-    "diff_pct": 68.62
-  },
-  {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
   }
 ]

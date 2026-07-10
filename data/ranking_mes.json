@@ -1,14 +1,5 @@
 [
   {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 790.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 1700.0,
-    "diff_pct": 215.19
-  },
-  {
     "ean": "7790936000436",
     "nombre": "sal tresal x500gr.fina ligh es",
     "categoria": "Almacen",
@@ -18,8 +9,35 @@
     "diff_pct": 210.01
   },
   {
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 151.52
+  },
+  {
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
+  },
+  {
     "ean": "7791337010369",
     "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
+  },
+  {
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2199.0,
     "precio_hoy": 4507.0,
@@ -45,24 +63,6 @@
     "diff_pct": 104.96
   },
   {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
     "ean": "7791813402886",
     "nombre": "agua saborizada h2o x 500 ml sin gas naranja",
     "categoria": "Bebidas",
@@ -70,6 +70,15 @@
     "precio_hoy": 1800.0,
     "diff_abs": 891.0,
     "diff_pct": 98.02
+  },
+  {
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3809.0,
+    "precio_hoy": 7510.0,
+    "diff_abs": 3701.0,
+    "diff_pct": 97.16
   },
   {
     "ean": "7791337007796",
@@ -81,13 +90,13 @@
     "diff_pct": 97.16
   },
   {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3809.0,
-    "precio_hoy": 7510.0,
-    "diff_abs": 3701.0,
-    "diff_pct": 97.16
+    "ean": "2020300000003",
+    "nombre": "cebolla de verdeo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 8990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 80.16
   },
   {
     "ean": "7791337007260",
@@ -155,15 +164,6 @@
   {
     "ean": "7793147574185",
     "nombre": "cerveza salta cautiva x 473 ml fresh lager",
-    "categoria": "Bebidas",
-    "precio_antes": 1909.0,
-    "precio_hoy": 3105.0,
-    "diff_abs": 1196.0,
-    "diff_pct": 62.65
-  },
-  {
-    "ean": "7793147572389",
-    "nombre": "cerveza salta cautiva roja -",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
