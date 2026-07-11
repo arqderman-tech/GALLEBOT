@@ -18,51 +18,6 @@
     "diff_pct": 151.52
   },
   {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010369",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010468",
-    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
     "ean": "7791813402886",
     "nombre": "agua saborizada h2o x 500 ml sin gas naranja",
     "categoria": "Bebidas",
@@ -72,22 +27,13 @@
     "diff_pct": 98.02
   },
   {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3809.0,
-    "precio_hoy": 7510.0,
-    "diff_abs": 3701.0,
-    "diff_pct": 97.16
-  },
-  {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3809.0,
-    "precio_hoy": 7510.0,
-    "diff_abs": 3701.0,
-    "diff_pct": 97.16
+    "ean": "7622300742584",
+    "nombre": "alfajor terrabusi x6 chocolate",
+    "categoria": "Almacen",
+    "precio_antes": 4599.0,
+    "precio_hoy": 8613.0,
+    "diff_abs": 4014.0,
+    "diff_pct": 87.28
   },
   {
     "ean": "2020300000003",
@@ -99,40 +45,13 @@
     "diff_pct": 80.16
   },
   {
-    "ean": "7791337007260",
-    "nombre": "leche chocolatada cindor x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1509.0,
-    "precio_hoy": 2701.0,
-    "diff_abs": 1192.0,
-    "diff_pct": 78.99
-  },
-  {
-    "ean": "7791337061385",
-    "nombre": "queso crema casancrem balance x 290 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5852.0,
-    "diff_abs": 2553.0,
-    "diff_pct": 77.39
-  },
-  {
-    "ean": "7791337061361",
-    "nombre": "queso crema casancrem x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5852.0,
-    "diff_abs": 2553.0,
-    "diff_pct": 77.39
-  },
-  {
-    "ean": "7791337060944",
-    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5852.0,
-    "diff_abs": 2553.0,
-    "diff_pct": 77.39
+    "ean": "7622300742621",
+    "nombre": "alfajor terrabusi x6 glaseado",
+    "categoria": "Almacen",
+    "precio_antes": 4599.0,
+    "precio_hoy": 7755.0,
+    "diff_abs": 3156.0,
+    "diff_pct": 68.62
   },
   {
     "ean": "7794000008540",
@@ -162,6 +81,33 @@
     "diff_pct": 65.04
   },
   {
+    "ean": "7793147572327",
+    "nombre": "cerveza salta cautiva rubia  x 473 m",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 62.65
+  },
+  {
+    "ean": "7793147573683",
+    "nombre": "cerveza salta cautiva ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 62.65
+  },
+  {
+    "ean": "7793147572389",
+    "nombre": "cerveza salta cautiva roja -",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 62.65
+  },
+  {
     "ean": "7793147574185",
     "nombre": "cerveza salta cautiva x 473 ml fresh lager",
     "categoria": "Bebidas",
@@ -171,12 +117,66 @@
     "diff_pct": 62.65
   },
   {
-    "ean": "7793147572327",
-    "nombre": "cerveza salta cautiva rubia  x 473 m",
+    "ean": "7793147572334",
+    "nombre": "cerveza salta cautiva rubia x 1 lt. retornable",
     "categoria": "Bebidas",
-    "precio_antes": 1909.0,
-    "precio_hoy": 3105.0,
-    "diff_abs": 1196.0,
-    "diff_pct": 62.65
+    "precio_antes": 3219.0,
+    "precio_hoy": 5230.0,
+    "diff_abs": 2011.0,
+    "diff_pct": 62.47
+  },
+  {
+    "ean": "7793147573492",
+    "nombre": "cerveza miller long neck x 330 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2349.0,
+    "precio_hoy": 3815.0,
+    "diff_abs": 1466.0,
+    "diff_pct": 62.41
+  },
+  {
+    "ean": "4000856005217",
+    "nombre": "cerveza wasteiner long x 330 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 2349.0,
+    "precio_hoy": 3815.0,
+    "diff_abs": 1466.0,
+    "diff_pct": 62.41
+  },
+  {
+    "ean": "7793147574109",
+    "nombre": "cerveza imperial golden long neck x 330 cc",
+    "categoria": "Bebidas",
+    "precio_antes": 2149.0,
+    "precio_hoy": 3485.0,
+    "diff_abs": 1336.0,
+    "diff_pct": 62.17
+  },
+  {
+    "ean": "7794000005846",
+    "nombre": "sopa de vegetales knorr con caracolitos verdes x80",
+    "categoria": "Almacen",
+    "precio_antes": 1599.0,
+    "precio_hoy": 2589.0,
+    "diff_abs": 990.0,
+    "diff_pct": 61.91
+  },
+  {
+    "ean": "7794000007796",
+    "nombre": "barbacoa hellmanns x 400 gm plastica",
+    "categoria": "Almacen",
+    "precio_antes": 3039.0,
+    "precio_hoy": 4899.0,
+    "diff_abs": 1860.0,
+    "diff_pct": 61.2
+  },
+  {
+    "ean": "7792798008858",
+    "nombre": "cerveza temple wolf ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3079.0,
+    "precio_hoy": 4961.0,
+    "diff_abs": 1882.0,
+    "diff_pct": 61.12
   }
 ]

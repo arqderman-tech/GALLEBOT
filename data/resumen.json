@@ -1,31 +1,31 @@
 {
-  "fecha": "20260710",
+  "fecha": "20260711",
   "total_productos": 6094,
-  "variacion_dia": -0.01,
-  "variacion_7d": 1.42,
-  "variacion_mes": 1.91,
+  "variacion_dia": -0.12,
+  "variacion_7d": 1.24,
+  "variacion_mes": 2.41,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 45,
+      "productos_bajaron": 18,
       "total_productos": 1364
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.14,
-      "productos_subieron": 6,
-      "productos_bajaron": 2,
-      "total_productos": 1124
+      "variacion_pct_promedio": -1.2,
+      "productos_subieron": 112,
+      "productos_bajaron": 51,
+      "total_productos": 1123
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -0.27,
-      "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "total_productos": 223
+      "variacion_pct_promedio": -0.48,
+      "productos_subieron": 43,
+      "productos_bajaron": 38,
+      "total_productos": 222
     },
     {
       "categoria": "Limpieza",
@@ -36,112 +36,112 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": 0.3,
+      "productos_subieron": 15,
+      "productos_bajaron": 4,
       "total_productos": 832
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.11,
-      "productos_subieron": 0,
-      "productos_bajaron": 6,
-      "total_productos": 1693
+      "variacion_pct_promedio": 0.29,
+      "productos_subieron": 96,
+      "productos_bajaron": 20,
+      "total_productos": 1692
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7797906054956",
-      "nombre": "papas congeladas mc cain smiles x 700 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 13481.0,
-      "precio_hoy": 9439.0,
-      "diff_abs": -4042.0,
-      "diff_pct": -29.98
+      "ean": "7791337010499",
+      "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5332.0,
+      "precio_hoy": 2209.0,
+      "diff_abs": -3123.0,
+      "diff_pct": -58.57
     },
     {
-      "ean": "7797906054819",
-      "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
-      "categoria": "Congelados",
-      "precio_antes": 15291.0,
-      "precio_hoy": 10709.0,
-      "diff_abs": -4582.0,
-      "diff_pct": -29.97
+      "ean": "7791337010482",
+      "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5332.0,
+      "precio_hoy": 2209.0,
+      "diff_abs": -3123.0,
+      "diff_pct": -58.57
     },
     {
-      "ean": "7500810034330",
-      "nombre": "snack takis fuego x 140 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 4453.0,
-      "precio_hoy": 3119.0,
-      "diff_abs": -1334.0,
-      "diff_pct": -29.96
+      "ean": "7791337007253",
+      "nombre": "leche chocolatada cindor x 1 lt.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 7510.0,
+      "precio_hoy": 3399.0,
+      "diff_abs": -4111.0,
+      "diff_pct": -54.74
     },
     {
-      "ean": "7500810034347",
-      "nombre": "snack takis xplosion x 140 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 4453.0,
-      "precio_hoy": 3119.0,
-      "diff_abs": -1334.0,
-      "diff_pct": -29.96
+      "ean": "7791337007796",
+      "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 7510.0,
+      "precio_hoy": 3399.0,
+      "diff_abs": -4111.0,
+      "diff_pct": -54.74
     },
     {
-      "ean": "7500810034354",
-      "nombre": "snack takis original x 140 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 4453.0,
-      "precio_hoy": 3119.0,
-      "diff_abs": -1334.0,
-      "diff_pct": -29.96
+      "ean": "7791337010369",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2308.0,
+      "diff_pct": -51.21
     },
     {
-      "ean": "7500810034477",
-      "nombre": "snack takis original x 85 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2945.0,
-      "precio_hoy": 2069.0,
-      "diff_abs": -876.0,
-      "diff_pct": -29.75
+      "ean": "7791337010468",
+      "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2308.0,
+      "diff_pct": -51.21
     },
     {
-      "ean": "7500810034361",
-      "nombre": "snack takis fuego x 85 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2945.0,
-      "precio_hoy": 2069.0,
-      "diff_abs": -876.0,
-      "diff_pct": -29.75
+      "ean": "7791337010215",
+      "nombre": "yogur ls.clas.ent.sh x900g.fru",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2308.0,
+      "diff_pct": -51.21
     },
     {
-      "ean": "7500810034460",
-      "nombre": "snack takis xplosion x 85 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2945.0,
-      "precio_hoy": 2069.0,
-      "diff_abs": -876.0,
-      "diff_pct": -29.75
+      "ean": "7791337010376",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2308.0,
+      "diff_pct": -51.21
     },
     {
-      "ean": "2037380000007",
-      "nombre": "lechuga manteca hidroponica x paquete",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3490.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -500.0,
-      "diff_pct": -14.33
+      "ean": "7791337010475",
+      "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2308.0,
+      "diff_pct": -51.21
     },
     {
-      "ean": "2020910000004",
-      "nombre": "lechuga de hoja x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 7990.0,
-      "precio_hoy": 6990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -12.52
+      "ean": "7791337008403",
+      "nombre": "leche chocolatada la serenisima x 1 lt.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5271.0,
+      "precio_hoy": 2649.0,
+      "diff_abs": -2622.0,
+      "diff_pct": -49.74
     }
   ],
-  "productos_subieron_dia": 6,
-  "productos_bajaron_dia": 10,
-  "productos_sin_cambio_dia": 6078
+  "productos_subieron_dia": 311,
+  "productos_bajaron_dia": 131,
+  "productos_sin_cambio_dia": 5649
 }

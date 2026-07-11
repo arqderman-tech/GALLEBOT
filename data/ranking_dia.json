@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2019880000008",
-    "nombre": "acelga x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1190.0,
-    "precio_hoy": 1790.0,
-    "diff_abs": 600.0,
-    "diff_pct": 50.42
+    "ean": "7790070508805",
+    "nombre": "mate cocido nobleza gaucha x 25 saquitos",
+    "categoria": "Perfumeria",
+    "precio_antes": 1532.0,
+    "precio_hoy": 2110.0,
+    "diff_abs": 578.0,
+    "diff_pct": 37.73
   },
   {
-    "ean": "2020300000003",
-    "nombre": "cebolla de verdeo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 8990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 50.08
+    "ean": "7790070508812",
+    "nombre": "mate cocido nobleza gaucha x 50 saquitos",
+    "categoria": "Perfumeria",
+    "precio_antes": 2901.0,
+    "precio_hoy": 3987.0,
+    "diff_abs": 1086.0,
+    "diff_pct": 37.44
   },
   {
-    "ean": "2020160000007",
-    "nombre": "brocoli x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 9990.0,
-    "precio_hoy": 12990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 30.03
+    "ean": "7790070433152",
+    "nombre": "arroz integral gallo seleccion x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1340.0,
+    "precio_hoy": 1830.0,
+    "diff_abs": 490.0,
+    "diff_pct": 36.57
   },
   {
-    "ean": "2021880000001",
-    "nombre": "pomelo sanguineo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
+    "ean": "7790070104847",
+    "nombre": "vino blanco nieto senetiner 0 % alcohol x 750 ml  chardonay",
+    "categoria": "Bebidas",
+    "precio_antes": 11418.21,
+    "precio_hoy": 15058.0,
+    "diff_abs": 3639.79,
+    "diff_pct": 31.88
   },
   {
-    "ean": "2028610000003",
-    "nombre": "bondiola de cerdo el cheru x kilo x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 8934.0,
-    "precio_hoy": 10141.0,
-    "diff_abs": 1207.0,
-    "diff_pct": 13.51
+    "ean": "7790070509123",
+    "nombre": "yerba mate chamigo x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1816.0,
+    "precio_hoy": 2385.0,
+    "diff_abs": 569.0,
+    "diff_pct": 31.33
   },
   {
-    "ean": "2020730000000",
-    "nombre": "espinaca atado",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2790.0,
-    "diff_abs": 300.0,
-    "diff_pct": 12.05
+    "ean": "7790070509017",
+    "nombre": "yerba mate chamigo sin tacc x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3487.0,
+    "precio_hoy": 4567.0,
+    "diff_abs": 1080.0,
+    "diff_pct": 30.97
   },
   {
-    "ean": "7790079022128",
-    "nombre": "tapas de empanadas tipo criolla paladini x 12 unid",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1923.0,
-    "precio_hoy": 1923.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790070507389",
+    "nombre": "yerba mate cruz de malta seleccion especial x 500.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2483.0,
+    "precio_hoy": 3229.0,
+    "diff_abs": 746.0,
+    "diff_pct": 30.04
   },
   {
-    "ean": "7790070622037",
-    "nombre": "tapa ppascualina la saltena x 400 gr. criolla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3150.0,
-    "precio_hoy": 3150.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790070507266",
+    "nombre": "yerba mate cruz de malta seleccion especial x 1 k.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4752.0,
+    "precio_hoy": 6145.0,
+    "diff_abs": 1393.0,
+    "diff_pct": 29.31
   },
   {
-    "ean": "7795293101314",
-    "nombre": "tapa ppascualina don yeyo x 400 gr. hojaldre",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2520.0,
-    "precio_hoy": 2520.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790070431578",
+    "nombre": "arrozgallo doble carolina x 1 kilo estuche",
+    "categoria": "Almacen",
+    "precio_antes": 4206.0,
+    "precio_hoy": 5406.0,
+    "diff_abs": 1200.0,
+    "diff_pct": 28.53
   },
   {
-    "ean": "7795293101338",
-    "nombre": "tapa ppascualina don yeyo x 380 gr. criolla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2445.0,
-    "precio_hoy": 2445.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798140257424",
+    "nombre": "bebida hidratante suerox x 630 ml. manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1979.0,
+    "precio_hoy": 2474.0,
+    "diff_abs": 495.0,
+    "diff_pct": 25.01
   },
   {
-    "ean": "7794080000212",
-    "nombre": "tapa para pascualina la morocha hojaldre x 2 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1948.0,
-    "precio_hoy": 1948.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798420160857",
+    "nombre": "suerox limonanda x 630 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 1979.0,
+    "precio_hoy": 2474.0,
+    "diff_abs": 495.0,
+    "diff_pct": 25.01
   },
   {
-    "ean": "7790070622013",
-    "nombre": "tapa para empanadas la salteaa x 12 unidades hojaldradas",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2598.0,
-    "precio_hoy": 2598.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798140257417",
+    "nombre": "bebida hidratante suerox frutilla-kiwi x 630 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1979.0,
+    "precio_hoy": 2474.0,
+    "diff_abs": 495.0,
+    "diff_pct": 25.01
   },
   {
-    "ean": "7791971000122",
-    "nombre": "tapa para empanadas doble hojaldre mil hojas x 12 unidades",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2136.0,
-    "precio_hoy": 2136.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790070562074",
+    "nombre": "premez.pchipa lucchetti x400g",
+    "categoria": "Almacen",
+    "precio_antes": 5782.0,
+    "precio_hoy": 7090.0,
+    "diff_abs": 1308.0,
+    "diff_pct": 22.62
   },
   {
-    "ean": "7790070622051",
-    "nombre": "tapa emp.l.salt.x20u.rot.hojal",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5530.0,
-    "precio_hoy": 5530.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790070508829",
+    "nombre": "mate cocido nobleza gaucha x 100 saquitos",
+    "categoria": "Perfumeria",
+    "precio_antes": 5689.0,
+    "precio_hoy": 6900.0,
+    "diff_abs": 1211.0,
+    "diff_pct": 21.29
   },
   {
-    "ean": "7790670052975",
-    "nombre": "salchicha vienissima picantes x 6 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3389.0,
-    "precio_hoy": 3389.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790070335999",
+    "nombre": "fid.matarazzo x500gr.l.gl.penn",
+    "categoria": "Almacen",
+    "precio_antes": 4084.0,
+    "precio_hoy": 4947.0,
+    "diff_abs": 863.0,
+    "diff_pct": 21.13
   },
   {
-    "ean": "7790670052388",
-    "nombre": "salchicha patyviena x6u.clasic",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2878.0,
-    "precio_hoy": 2878.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790070336002",
+    "nombre": "fid.matarazzo x500gr.l.gl.spag",
+    "categoria": "Almacen",
+    "precio_antes": 4084.0,
+    "precio_hoy": 4947.0,
+    "diff_abs": 863.0,
+    "diff_pct": 21.13
   },
   {
-    "ean": "8445291388918",
-    "nombre": "svelty x 200 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3855.0,
-    "precio_hoy": 3855.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790070336224",
+    "nombre": "fideos matarazo stacc mix de legumbres x500gr tirabuzon",
+    "categoria": "Almacen",
+    "precio_antes": 4084.0,
+    "precio_hoy": 4947.0,
+    "diff_abs": 863.0,
+    "diff_pct": 21.13
   },
   {
-    "ean": "7790236001768",
-    "nombre": "sorrentinos la saltena x 300 gr. jamon y muzzarela",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3760.0,
-    "precio_hoy": 3760.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790070335982",
+    "nombre": "fideos matarazzo libres de gluten x500gr tirabuzon",
+    "categoria": "Almacen",
+    "precio_antes": 4084.0,
+    "precio_hoy": 4947.0,
+    "diff_abs": 863.0,
+    "diff_pct": 21.13
   },
   {
-    "ean": "7794080001219",
-    "nombre": "sorrentinos la morocha jamon y queso x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3912.99,
-    "precio_hoy": 3912.99,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790070508539",
+    "nombre": "yerba mate salus x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4098.0,
+    "precio_hoy": 4942.0,
+    "diff_abs": 844.0,
+    "diff_pct": 20.6
   },
   {
-    "ean": "7798046440746",
-    "nombre": "sandwiches estadio x 160 gm ruculapollo y queso",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5038.58,
-    "precio_hoy": 5038.58,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790070933638",
+    "nombre": "cafe instantaneo arlistan suave x 170 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 9962.0,
+    "precio_hoy": 11955.0,
+    "diff_abs": 1993.0,
+    "diff_pct": 20.01
   }
 ]
