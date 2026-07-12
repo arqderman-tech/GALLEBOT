@@ -1,7 +1,7 @@
 [
   {
-    "ean": "7790150533154",
-    "nombre": "mis alicante parrillero vegetales x 25 gm",
+    "ean": "7790150533208",
+    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
     "categoria": "Almacen",
     "precio_antes": 769.0,
     "precio_hoy": 1535.0,
@@ -18,26 +18,26 @@
     "diff_pct": 99.61
   },
   {
-    "ean": "7790150533109",
-    "nombre": "mix alicante parrillero x 25 gm chimichurri ahumado",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
-    "ean": "7790150533208",
-    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
     "ean": "7790150533000",
     "nombre": "mix alicante parrilla x 25 gr hamburguesas",
+    "categoria": "Almacen",
+    "precio_antes": 769.0,
+    "precio_hoy": 1535.0,
+    "diff_abs": 766.0,
+    "diff_pct": 99.61
+  },
+  {
+    "ean": "7790150533154",
+    "nombre": "mis alicante parrillero vegetales x 25 gm",
+    "categoria": "Almacen",
+    "precio_antes": 769.0,
+    "precio_hoy": 1535.0,
+    "diff_abs": 766.0,
+    "diff_pct": 99.61
+  },
+  {
+    "ean": "7790150533109",
+    "nombre": "mix alicante parrillero x 25 gm chimichurri ahumado",
     "categoria": "Almacen",
     "precio_antes": 769.0,
     "precio_hoy": 1535.0,
@@ -90,8 +90,8 @@
     "diff_pct": 66.78
   },
   {
-    "ean": "7790070417572",
-    "nombre": "oblea de arroz gallo x 6 unid.",
+    "ean": "7790070431899",
+    "nombre": "oblea de arroz chocobar x 6 unid.",
     "categoria": "Almacen",
     "precio_antes": 4729.0,
     "precio_hoy": 7870.0,
@@ -99,8 +99,8 @@
     "diff_pct": 66.42
   },
   {
-    "ean": "7790070431899",
-    "nombre": "oblea de arroz chocobar x 6 unid.",
+    "ean": "7790070417572",
+    "nombre": "oblea de arroz gallo x 6 unid.",
     "categoria": "Almacen",
     "precio_antes": 4729.0,
     "precio_hoy": 7870.0,
@@ -162,8 +162,8 @@
     "diff_pct": 60.24
   },
   {
-    "ean": "7790070418227",
-    "nombre": "alfajor chocoarroz dulce de leche x 6 unid.",
+    "ean": "7790070418340",
+    "nombre": "alfajor chocoarroz marroc x 6 unid.",
     "categoria": "Almacen",
     "precio_antes": 4739.0,
     "precio_hoy": 7568.0,
@@ -171,8 +171,8 @@
     "diff_pct": 59.7
   },
   {
-    "ean": "7790070418340",
-    "nombre": "alfajor chocoarroz marroc x 6 unid.",
+    "ean": "7790070418265",
+    "nombre": "alfajor chocoarroz limon x 6 unid.",
     "categoria": "Almacen",
     "precio_antes": 4739.0,
     "precio_hoy": 7568.0,

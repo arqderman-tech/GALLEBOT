@@ -1,31 +1,31 @@
 {
-  "fecha": "20260711",
+  "fecha": "20260712",
   "total_productos": 6094,
-  "variacion_dia": -0.12,
+  "variacion_dia": 0.0,
   "variacion_7d": 1.24,
-  "variacion_mes": 2.41,
+  "variacion_mes": 2.51,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.01,
-      "productos_subieron": 45,
-      "productos_bajaron": 18,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
       "total_productos": 1364
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -1.2,
-      "productos_subieron": 112,
-      "productos_bajaron": 51,
-      "total_productos": 1123
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1124
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -0.48,
-      "productos_subieron": 43,
-      "productos_bajaron": 38,
-      "total_productos": 222
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 223
     },
     {
       "categoria": "Limpieza",
@@ -36,112 +36,112 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.3,
-      "productos_subieron": 15,
-      "productos_bajaron": 4,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
       "total_productos": 832
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.29,
-      "productos_subieron": 96,
-      "productos_bajaron": 20,
-      "total_productos": 1692
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1693
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7791337010499",
-      "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 5332.0,
-      "precio_hoy": 2209.0,
-      "diff_abs": -3123.0,
-      "diff_pct": -58.57
+      "ean": "7790310985830",
+      "nombre": "3ds queso x 85 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 3649.0,
+      "precio_hoy": 3649.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791337010482",
-      "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 5332.0,
-      "precio_hoy": 2209.0,
-      "diff_abs": -3123.0,
-      "diff_pct": -58.57
+      "ean": "7790310985137",
+      "nombre": "3ds queso x143gr.",
+      "categoria": "Almacen",
+      "precio_antes": 5118.0,
+      "precio_hoy": 5118.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791337007253",
-      "nombre": "leche chocolatada cindor x 1 lt.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 7510.0,
-      "precio_hoy": 3399.0,
-      "diff_abs": -4111.0,
-      "diff_pct": -54.74
+      "ean": "7790310985113",
+      "nombre": "3ds sabor queso x 43 gm",
+      "categoria": "Almacen",
+      "precio_antes": 2271.0,
+      "precio_hoy": 2271.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791337007796",
-      "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 7510.0,
-      "precio_hoy": 3399.0,
-      "diff_abs": -4111.0,
-      "diff_pct": -54.74
+      "ean": "7791728246629",
+      "nombre": "ac. de oliva zuccardi x 500 ml coratina",
+      "categoria": "Almacen",
+      "precio_antes": 24261.0,
+      "precio_hoy": 24261.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791337010369",
-      "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2308.0,
-      "diff_pct": -51.21
+      "ean": "763571722428",
+      "nombre": "ac.de coco entrenuts x200virg.",
+      "categoria": "Almacen",
+      "precio_antes": 9649.0,
+      "precio_hoy": 9649.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791337010468",
-      "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2308.0,
-      "diff_pct": -51.21
+      "ean": "7798080520657",
+      "nombre": "ac.ol.l.toscana x250ml.ajo",
+      "categoria": "Almacen",
+      "precio_antes": 9903.0,
+      "precio_hoy": 9903.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791337010215",
-      "nombre": "yogur ls.clas.ent.sh x900g.fru",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2308.0,
-      "diff_pct": -51.21
+      "ean": "7798080520534",
+      "nombre": "ac.ol.l.toscana x250ml.albahac",
+      "categoria": "Almacen",
+      "precio_antes": 9903.0,
+      "precio_hoy": 9903.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791337010376",
-      "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2308.0,
-      "diff_pct": -51.21
+      "ean": "7791728246612",
+      "nombre": "ac.ol.zuccardi x250ml.coratina",
+      "categoria": "Almacen",
+      "precio_antes": 14152.0,
+      "precio_hoy": 14152.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791337010475",
-      "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2308.0,
-      "diff_pct": -51.21
+      "ean": "7791728246575",
+      "nombre": "ac.ol.zuccardi x250ml.picual",
+      "categoria": "Almacen",
+      "precio_antes": 14152.0,
+      "precio_hoy": 14152.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7791337008403",
-      "nombre": "leche chocolatada la serenisima x 1 lt.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 5271.0,
-      "precio_hoy": 2649.0,
-      "diff_abs": -2622.0,
-      "diff_pct": -49.74
+      "ean": "7791728241181",
+      "nombre": "ac.ol.zuelo x500ml.bot.intenso",
+      "categoria": "Almacen",
+      "precio_antes": 18903.0,
+      "precio_hoy": 18903.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 311,
-  "productos_bajaron_dia": 131,
-  "productos_sin_cambio_dia": 5649
+  "productos_subieron_dia": 0,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 6094
 }

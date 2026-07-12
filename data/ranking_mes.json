@@ -12,10 +12,10 @@
     "ean": "2020180000001",
     "nombre": "calabacita x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
+    "precio_antes": 1190.0,
     "precio_hoy": 2490.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 151.52
+    "diff_abs": 1300.0,
+    "diff_pct": 109.24
   },
   {
     "ean": "7791813402886",
@@ -54,6 +54,15 @@
     "diff_pct": 68.62
   },
   {
+    "ean": "2021820000009",
+    "nombre": "pimiento rojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 66.78
+  },
+  {
     "ean": "7794000008540",
     "nombre": "caldo sabor gallina knorr x 12 cubos",
     "categoria": "Almacen",
@@ -90,6 +99,15 @@
     "diff_pct": 62.65
   },
   {
+    "ean": "7793147574185",
+    "nombre": "cerveza salta cautiva x 473 ml fresh lager",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 62.65
+  },
+  {
     "ean": "7793147573683",
     "nombre": "cerveza salta cautiva ipa x 473 ml.",
     "categoria": "Bebidas",
@@ -101,15 +119,6 @@
   {
     "ean": "7793147572389",
     "nombre": "cerveza salta cautiva roja -",
-    "categoria": "Bebidas",
-    "precio_antes": 1909.0,
-    "precio_hoy": 3105.0,
-    "diff_abs": 1196.0,
-    "diff_pct": 62.65
-  },
-  {
-    "ean": "7793147574185",
-    "nombre": "cerveza salta cautiva x 473 ml fresh lager",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -169,14 +178,5 @@
     "precio_hoy": 4899.0,
     "diff_abs": 1860.0,
     "diff_pct": 61.2
-  },
-  {
-    "ean": "7792798008858",
-    "nombre": "cerveza temple wolf ipa x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3079.0,
-    "precio_hoy": 4961.0,
-    "diff_abs": 1882.0,
-    "diff_pct": 61.12
   }
 ]
