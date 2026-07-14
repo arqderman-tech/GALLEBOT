@@ -27,15 +27,6 @@
     "diff_pct": 98.02
   },
   {
-    "ean": "7622300742584",
-    "nombre": "alfajor terrabusi x6 chocolate",
-    "categoria": "Almacen",
-    "precio_antes": 4599.0,
-    "precio_hoy": 8613.0,
-    "diff_abs": 4014.0,
-    "diff_pct": 87.28
-  },
-  {
     "ean": "2020300000003",
     "nombre": "cebolla de verdeo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -45,13 +36,13 @@
     "diff_pct": 80.16
   },
   {
-    "ean": "7622300742621",
-    "nombre": "alfajor terrabusi x6 glaseado",
-    "categoria": "Almacen",
-    "precio_antes": 4599.0,
-    "precio_hoy": 7755.0,
-    "diff_abs": 3156.0,
-    "diff_pct": 68.62
+    "ean": "2022030000001",
+    "nombre": "repollitos de brusellas en bandeja",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
   },
   {
     "ean": "2021820000009",
@@ -90,8 +81,8 @@
     "diff_pct": 65.04
   },
   {
-    "ean": "7793147572327",
-    "nombre": "cerveza salta cautiva rubia  x 473 m",
+    "ean": "7793147572389",
+    "nombre": "cerveza salta cautiva roja -",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -108,8 +99,8 @@
     "diff_pct": 62.65
   },
   {
-    "ean": "7793147573683",
-    "nombre": "cerveza salta cautiva ipa x 473 ml.",
+    "ean": "7793147572327",
+    "nombre": "cerveza salta cautiva rubia  x 473 m",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -117,8 +108,8 @@
     "diff_pct": 62.65
   },
   {
-    "ean": "7793147572389",
-    "nombre": "cerveza salta cautiva roja -",
+    "ean": "7793147573683",
+    "nombre": "cerveza salta cautiva ipa x 473 ml.",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -178,5 +169,14 @@
     "precio_hoy": 4899.0,
     "diff_abs": 1860.0,
     "diff_pct": 61.2
+  },
+  {
+    "ean": "7792798008858",
+    "nombre": "cerveza temple wolf ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3079.0,
+    "precio_hoy": 4961.0,
+    "diff_abs": 1882.0,
+    "diff_pct": 61.12
   }
 ]

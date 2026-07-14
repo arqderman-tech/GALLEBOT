@@ -1,113 +1,5 @@
 [
   {
-    "ean": "7790150533208",
-    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
-    "ean": "7790150533307",
-    "nombre": "mix alicante parrillero barbacoa x 25 gm",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
-    "ean": "7790150533000",
-    "nombre": "mix alicante parrilla x 25 gr hamburguesas",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
-    "ean": "7790150533154",
-    "nombre": "mis alicante parrillero vegetales x 25 gm",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
-    "ean": "7790150533109",
-    "nombre": "mix alicante parrillero x 25 gm chimichurri ahumado",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
-    "ean": "7622300742584",
-    "nombre": "alfajor terrabusi x6 chocolate",
-    "categoria": "Almacen",
-    "precio_antes": 4599.0,
-    "precio_hoy": 8613.0,
-    "diff_abs": 4014.0,
-    "diff_pct": 87.28
-  },
-  {
-    "ean": "7622300742621",
-    "nombre": "alfajor terrabusi x6 glaseado",
-    "categoria": "Almacen",
-    "precio_antes": 4599.0,
-    "precio_hoy": 7755.0,
-    "diff_abs": 3156.0,
-    "diff_pct": 68.62
-  },
-  {
-    "ean": "7790070760678",
-    "nombre": "vino benjamin nieto senetiner x 750 ml. torrontes",
-    "categoria": "Bebidas",
-    "precio_antes": 4099.0,
-    "precio_hoy": 6900.0,
-    "diff_abs": 2801.0,
-    "diff_pct": 68.33
-  },
-  {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
-  },
-  {
-    "ean": "2021820000009",
-    "nombre": "pimiento rojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 66.78
-  },
-  {
-    "ean": "7790070431899",
-    "nombre": "oblea de arroz chocobar x 6 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 4729.0,
-    "precio_hoy": 7870.0,
-    "diff_abs": 3141.0,
-    "diff_pct": 66.42
-  },
-  {
-    "ean": "7790070417572",
-    "nombre": "oblea de arroz gallo x 6 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 4729.0,
-    "precio_hoy": 7870.0,
-    "diff_abs": 3141.0,
-    "diff_pct": 66.42
-  },
-  {
     "ean": "2020160000007",
     "nombre": "brocoli x kg.",
     "categoria": "Frutas Y Verduras",
@@ -117,66 +9,174 @@
     "diff_pct": 62.58
   },
   {
-    "ean": "7790070418401",
-    "nombre": "gall.gallo x100gr.crackeadas",
-    "categoria": "Almacen",
-    "precio_antes": 1739.0,
-    "precio_hoy": 2802.0,
-    "diff_abs": 1063.0,
-    "diff_pct": 61.13
+    "ean": "7797906000700",
+    "nombre": "papas mc cain tradicional x 400 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3299.0,
+    "precio_hoy": 5070.0,
+    "diff_abs": 1771.0,
+    "diff_pct": 53.68
   },
   {
-    "ean": "7790070760630",
-    "nombre": "vino benjamin nieto rosado dulce x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4299.0,
-    "precio_hoy": 6900.0,
-    "diff_abs": 2601.0,
-    "diff_pct": 60.5
-  },
-  {
-    "ean": "7790070760555",
-    "nombre": "vino blanco benjamin nieto chardonnay x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4299.0,
-    "precio_hoy": 6900.0,
-    "diff_abs": 2601.0,
-    "diff_pct": 60.5
-  },
-  {
-    "ean": "7790070760623",
-    "nombre": "vino benjamin  nieto x 750 ml blanco dulce",
-    "categoria": "Bebidas",
-    "precio_antes": 4299.0,
-    "precio_hoy": 6900.0,
-    "diff_abs": 2601.0,
-    "diff_pct": 60.5
-  },
-  {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
+    "ean": "2019880000008",
+    "nombre": "acelga x paquete",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 60.24
+    "precio_antes": 1190.0,
+    "precio_hoy": 1790.0,
+    "diff_abs": 600.0,
+    "diff_pct": 50.42
   },
   {
-    "ean": "7790070418340",
-    "nombre": "alfajor chocoarroz marroc x 6 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 4739.0,
-    "precio_hoy": 7568.0,
-    "diff_abs": 2829.0,
-    "diff_pct": 59.7
+    "ean": "2020300000003",
+    "nombre": "cebolla de verdeo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 8990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 50.08
   },
   {
-    "ean": "7790070418265",
-    "nombre": "alfajor chocoarroz limon x 6 unid.",
+    "ean": "2020490000005",
+    "nombre": "ciruela roja x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 11990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 50.06
+  },
+  {
+    "ean": "7891000336373",
+    "nombre": "chocolate nestle alpino x 85 gr.",
     "categoria": "Almacen",
-    "precio_antes": 4739.0,
-    "precio_hoy": 7568.0,
-    "diff_abs": 2829.0,
-    "diff_pct": 59.7
+    "precio_antes": 5379.0,
+    "precio_hoy": 7694.0,
+    "diff_abs": 2315.0,
+    "diff_pct": 43.04
+  },
+  {
+    "ean": "7790070760944",
+    "nombre": "vino tinto don nicanor blend x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 12999.0,
+    "precio_hoy": 18535.0,
+    "diff_abs": 5536.0,
+    "diff_pct": 42.59
+  },
+  {
+    "ean": "7790070760920",
+    "nombre": "vino tinto don nicanor malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 12999.0,
+    "precio_hoy": 18535.0,
+    "diff_abs": 5536.0,
+    "diff_pct": 42.59
+  },
+  {
+    "ean": "7790070760937",
+    "nombre": "vino don nicanor x750ml.cabern",
+    "categoria": "Bebidas",
+    "precio_antes": 12999.0,
+    "precio_hoy": 18535.0,
+    "diff_abs": 5536.0,
+    "diff_pct": 42.59
+  },
+  {
+    "ean": "7790070760821",
+    "nombre": "vino nieto senetiner x 750 ml malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 7499.0,
+    "precio_hoy": 10565.0,
+    "diff_abs": 3066.0,
+    "diff_pct": 40.89
+  },
+  {
+    "ean": "7790070760852",
+    "nombre": "vino tinto nieto senetiner blend x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 7499.0,
+    "precio_hoy": 10565.0,
+    "diff_abs": 3066.0,
+    "diff_pct": 40.89
+  },
+  {
+    "ean": "7790070760845",
+    "nombre": "vino nieto senetiner rose x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 7499.0,
+    "precio_hoy": 10565.0,
+    "diff_abs": 3066.0,
+    "diff_pct": 40.89
+  },
+  {
+    "ean": "7790070760807",
+    "nombre": "vino nsen.x750ml.chardonnay",
+    "categoria": "Bebidas",
+    "precio_antes": 7499.0,
+    "precio_hoy": 10565.0,
+    "diff_abs": 3066.0,
+    "diff_pct": 40.89
+  },
+  {
+    "ean": "2020270000003",
+    "nombre": "cebolla x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1790.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 700.0,
+    "diff_pct": 39.11
+  },
+  {
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1790.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 700.0,
+    "diff_pct": 39.11
+  },
+  {
+    "ean": "2020570000000",
+    "nombre": "coliflor x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 33.39
+  },
+  {
+    "ean": "7790240092011",
+    "nombre": "vino tinto medalla malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 13799.0,
+    "precio_hoy": 18239.0,
+    "diff_abs": 4440.0,
+    "diff_pct": 32.18
+  },
+  {
+    "ean": "7790070432933",
+    "nombre": "bizcochuelo exquisita libre de gluten x 450 gr. va",
+    "categoria": "Almacen",
+    "precio_antes": 3959.0,
+    "precio_hoy": 4992.0,
+    "diff_abs": 1033.0,
+    "diff_pct": 26.09
+  },
+  {
+    "ean": "7790197120218",
+    "nombre": "cognac reserva san juan extra anejo x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 9376.0,
+    "precio_hoy": 11764.0,
+    "diff_abs": 2388.0,
+    "diff_pct": 25.47
+  },
+  {
+    "ean": "2022030000001",
+    "nombre": "repollitos de brusellas en bandeja",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
   }
 ]

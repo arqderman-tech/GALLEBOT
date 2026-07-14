@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790310985830",
-    "nombre": "3ds queso x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3649.0,
-    "precio_hoy": 3649.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2020490000005",
+    "nombre": "ciruela roja x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 11990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 50.06
   },
   {
-    "ean": "7790310985137",
-    "nombre": "3ds queso x143gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5118.0,
-    "precio_hoy": 5118.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7793147572853",
+    "nombre": "cerveza amstel lata x 710 ml lager",
+    "categoria": "Bebidas",
+    "precio_antes": 2629.0,
+    "precio_hoy": 3925.0,
+    "diff_abs": 1296.0,
+    "diff_pct": 49.3
   },
   {
-    "ean": "7790310985113",
-    "nombre": "3ds sabor queso x 43 gm",
-    "categoria": "Almacen",
-    "precio_antes": 2271.0,
-    "precio_hoy": 2271.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7793147572075",
+    "nombre": "cerveza santa fe pilsen x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1819.0,
+    "precio_hoy": 2615.0,
+    "diff_abs": 796.0,
+    "diff_pct": 43.76
   },
   {
-    "ean": "7791728246629",
-    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
-    "categoria": "Almacen",
-    "precio_antes": 24261.0,
-    "precio_hoy": 24261.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7793147570286",
+    "nombre": "cerveza santa fe x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1819.0,
+    "precio_hoy": 2615.0,
+    "diff_abs": 796.0,
+    "diff_pct": 43.76
   },
   {
-    "ean": "763571722428",
-    "nombre": "ac.de coco entrenuts x200virg.",
-    "categoria": "Almacen",
-    "precio_antes": 9649.0,
-    "precio_hoy": 9649.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7799155001392",
+    "nombre": "agua saborizada levite x 1.5 lt pomelo rosado",
+    "categoria": "Bebidas",
+    "precio_antes": 2319.0,
+    "precio_hoy": 3307.0,
+    "diff_abs": 988.0,
+    "diff_pct": 42.6
   },
   {
-    "ean": "7798080520657",
-    "nombre": "ac.ol.l.toscana x250ml.ajo",
-    "categoria": "Almacen",
-    "precio_antes": 9903.0,
-    "precio_hoy": 9903.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7793147573515",
+    "nombre": "cerveza isenbeck lata x 473 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 1599.0,
+    "precio_hoy": 2205.0,
+    "diff_abs": 606.0,
+    "diff_pct": 37.9
   },
   {
-    "ean": "7798080520534",
-    "nombre": "ac.ol.l.toscana x250ml.albahac",
-    "categoria": "Almacen",
-    "precio_antes": 9903.0,
-    "precio_hoy": 9903.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7793147572082",
+    "nombre": "cerveza santa fe pilsen x 1 litro",
+    "categoria": "Bebidas",
+    "precio_antes": 3389.0,
+    "precio_hoy": 4580.0,
+    "diff_abs": 1191.0,
+    "diff_pct": 35.14
   },
   {
-    "ean": "7791728246612",
-    "nombre": "ac.ol.zuccardi x250ml.coratina",
-    "categoria": "Almacen",
-    "precio_antes": 14152.0,
-    "precio_hoy": 14152.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7793147573744",
+    "nombre": "cerv.santa fe x1lt.ret.",
+    "categoria": "Bebidas",
+    "precio_antes": 3389.0,
+    "precio_hoy": 4580.0,
+    "diff_abs": 1191.0,
+    "diff_pct": 35.14
   },
   {
-    "ean": "7791728246575",
-    "nombre": "ac.ol.zuccardi x250ml.picual",
-    "categoria": "Almacen",
-    "precio_antes": 14152.0,
-    "precio_hoy": 14152.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2020570000000",
+    "nombre": "coliflor x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 33.39
   },
   {
-    "ean": "7791728241181",
-    "nombre": "ac.ol.zuelo x500ml.bot.intenso",
-    "categoria": "Almacen",
-    "precio_antes": 18903.0,
-    "precio_hoy": 18903.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7793147573591",
+    "nombre": "cerv.amstel x1lt.ret.lager",
+    "categoria": "Bebidas",
+    "precio_antes": 3599.0,
+    "precio_hoy": 4795.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 33.23
   },
   {
-    "ean": "41331014922",
-    "nombre": "acaitunas goya x 149 gm con pimiento picante",
-    "categoria": "Almacen",
-    "precio_antes": 9280.0,
-    "precio_hoy": 9280.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7793147573546",
+    "nombre": "cerveza amstel lager x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2049.0,
+    "precio_hoy": 2725.0,
+    "diff_abs": 676.0,
+    "diff_pct": 32.99
   },
   {
-    "ean": "7790070265142",
-    "nombre": "aceite cocinero puro de oliva x 500 ml",
-    "categoria": "Almacen",
-    "precio_antes": 10919.0,
-    "precio_hoy": 10919.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798062547559",
+    "nombre": "agua mineral sin gas villa del sur x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2049.0,
+    "precio_hoy": 2693.0,
+    "diff_abs": 644.0,
+    "diff_pct": 31.43
   },
   {
-    "ean": "7790070231598",
-    "nombre": "aceite cocinero x900 ml oliva y girasol",
-    "categoria": "Almacen",
-    "precio_antes": 5809.0,
-    "precio_hoy": 5809.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7793147572211",
+    "nombre": "cerveza iguana x 1 lt. retornable",
+    "categoria": "Bebidas",
+    "precio_antes": 2999.0,
+    "precio_hoy": 3925.0,
+    "diff_abs": 926.0,
+    "diff_pct": 30.88
   },
   {
-    "ean": "7790272006819",
-    "nombre": "aceite copisi x 900 ml. girasol y oliva",
-    "categoria": "Almacen",
-    "precio_antes": 6162.0,
-    "precio_hoy": 6162.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2022030000001",
+    "nombre": "repollitos de brusellas en bandeja",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
   },
   {
-    "ean": "656750783931",
-    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 8902.0,
-    "precio_hoy": 8902.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790787153664",
+    "nombre": "dulce de leche ilolay x 400 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2949.0,
+    "precio_hoy": 3333.0,
+    "diff_abs": 384.0,
+    "diff_pct": 13.02
   },
   {
-    "ean": "763571722435",
-    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 16512.0,
-    "precio_hoy": 16512.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790787960668",
+    "nombre": "manteca ilolay x 200 gr",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3709.0,
+    "precio_hoy": 4122.0,
+    "diff_abs": 413.0,
+    "diff_pct": 11.14
   },
   {
-    "ean": "7794870000040",
-    "nombre": "aceite de girasol alsamar x 5 lts.",
-    "categoria": "Almacen",
-    "precio_antes": 21090.0,
-    "precio_hoy": 21090.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7794080001219",
+    "nombre": "sorrentinos la morocha jamon y queso x 500 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3912.99,
+    "precio_hoy": 4348.0,
+    "diff_abs": 435.01,
+    "diff_pct": 11.12
   },
   {
-    "ean": "7798316700907",
-    "nombre": "aceite de girasol alsamar x 900 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 3862.0,
-    "precio_hoy": 3862.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790787054022",
+    "nombre": "leche chocolatada ilolay kids x 1 litro sin lactosa",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3079.0,
+    "precio_hoy": 3421.0,
+    "diff_abs": 342.0,
+    "diff_pct": 11.11
   },
   {
-    "ean": "7790060023684",
-    "nombre": "aceite de girasol cocinero x 1,5 lt.",
-    "categoria": "Almacen",
-    "precio_antes": 7393.0,
-    "precio_hoy": 7393.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790787960873",
+    "nombre": "queso untable ilolay crem clasico x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3109.0,
+    "precio_hoy": 3453.0,
+    "diff_abs": 344.0,
+    "diff_pct": 11.06
   },
   {
-    "ean": "7790070012050",
-    "nombre": "aceite de girasol cocinero x 900 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 4666.0,
-    "precio_hoy": 4666.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790787960880",
+    "nombre": "queso ilolay crem x 290 gr balance",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3109.0,
+    "precio_hoy": 3453.0,
+    "diff_abs": 344.0,
+    "diff_pct": 11.06
   }
 ]
