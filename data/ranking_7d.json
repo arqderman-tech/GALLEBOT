@@ -1,7 +1,106 @@
 [
   {
-    "ean": "2020160000007",
-    "nombre": "brocoli x kg.",
+    "ean": "7791813403029",
+    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
+  },
+  {
+    "ean": "7791813403012",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
+  },
+  {
+    "ean": "7791813403036",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
+  },
+  {
+    "ean": "7791813000723",
+    "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
+  },
+  {
+    "ean": "7791813405023",
+    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+    "categoria": "Bebidas",
+    "precio_antes": 1849.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 81.18
+  },
+  {
+    "ean": "7791813405030",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1849.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 81.18
+  },
+  {
+    "ean": "7791813405016",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
+    "categoria": "Bebidas",
+    "precio_antes": 1849.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 81.18
+  },
+  {
+    "ean": "7792799000011",
+    "nombre": "agua mineral sin gas eco de los andes x 500 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1237.94,
+    "precio_hoy": 2064.0,
+    "diff_abs": 826.06,
+    "diff_pct": 66.73
+  },
+  {
+    "ean": "7792799000059",
+    "nombre": "agua mineral sin gas eco de los andes x 1.5 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1773.44,
+    "precio_hoy": 2956.0,
+    "diff_abs": 1182.56,
+    "diff_pct": 66.68
+  },
+  {
+    "ean": "7792799000097",
+    "nombre": "agua mineral eco de los andes x 2 lt. sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 2014.95,
+    "precio_hoy": 3346.0,
+    "diff_abs": 1331.05,
+    "diff_pct": 66.06
+  },
+  {
+    "ean": "7795930002097",
+    "nombre": "agua mineral eco de los andes sin gas x 850 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1573.94,
+    "precio_hoy": 2610.0,
+    "diff_abs": 1036.06,
+    "diff_pct": 65.83
+  },
+  {
+    "ean": "2020490000005",
+    "nombre": "ciruela roja x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 7990.0,
     "precio_hoy": 12990.0,
@@ -9,174 +108,75 @@
     "diff_pct": 62.58
   },
   {
-    "ean": "7797906000700",
-    "nombre": "papas mc cain tradicional x 400 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5070.0,
-    "diff_abs": 1771.0,
-    "diff_pct": 53.68
-  },
-  {
-    "ean": "2019880000008",
-    "nombre": "acelga x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1190.0,
-    "precio_hoy": 1790.0,
-    "diff_abs": 600.0,
-    "diff_pct": 50.42
-  },
-  {
-    "ean": "2020300000003",
-    "nombre": "cebolla de verdeo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 8990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 50.08
-  },
-  {
-    "ean": "2020490000005",
-    "nombre": "ciruela roja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 11990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 50.06
-  },
-  {
-    "ean": "7891000336373",
-    "nombre": "chocolate nestle alpino x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5379.0,
-    "precio_hoy": 7694.0,
-    "diff_abs": 2315.0,
-    "diff_pct": 43.04
-  },
-  {
-    "ean": "7790070760944",
-    "nombre": "vino tinto don nicanor blend x 750 ml.",
+    "ean": "7792798002399",
+    "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 12999.0,
-    "precio_hoy": 18535.0,
-    "diff_abs": 5536.0,
-    "diff_pct": 42.59
+    "precio_antes": 4587.45,
+    "precio_hoy": 7056.0,
+    "diff_abs": 2468.55,
+    "diff_pct": 53.81
   },
   {
-    "ean": "7790070760920",
-    "nombre": "vino tinto don nicanor malbec x 750 ml.",
+    "ean": "7791813402015",
+    "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
     "categoria": "Bebidas",
-    "precio_antes": 12999.0,
-    "precio_hoy": 18535.0,
-    "diff_abs": 5536.0,
-    "diff_pct": 42.59
+    "precio_antes": 1171.54,
+    "precio_hoy": 1800.0,
+    "diff_abs": 628.46,
+    "diff_pct": 53.64
   },
   {
-    "ean": "7790070760937",
-    "nombre": "vino don nicanor x750ml.cabern",
+    "ean": "7791813402039",
+    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
     "categoria": "Bebidas",
-    "precio_antes": 12999.0,
-    "precio_hoy": 18535.0,
-    "diff_abs": 5536.0,
-    "diff_pct": 42.59
+    "precio_antes": 1171.54,
+    "precio_hoy": 1800.0,
+    "diff_abs": 628.46,
+    "diff_pct": 53.64
   },
   {
-    "ean": "7790070760821",
-    "nombre": "vino nieto senetiner x 750 ml malbec",
+    "ean": "7792798002115",
+    "nombre": "cerveza andes rubia x1 lt. retornable",
     "categoria": "Bebidas",
-    "precio_antes": 7499.0,
-    "precio_hoy": 10565.0,
-    "diff_abs": 3066.0,
-    "diff_pct": 40.89
+    "precio_antes": 3624.03,
+    "precio_hoy": 5568.0,
+    "diff_abs": 1943.97,
+    "diff_pct": 53.64
   },
   {
-    "ean": "7790070760852",
-    "nombre": "vino tinto nieto senetiner blend x 750 ml.",
+    "ean": "7795930000550",
+    "nombre": "agua mineral glaciar x 6,3 lt.",
     "categoria": "Bebidas",
-    "precio_antes": 7499.0,
-    "precio_hoy": 10565.0,
-    "diff_abs": 3066.0,
-    "diff_pct": 40.89
+    "precio_antes": 6361.95,
+    "precio_hoy": 9774.0,
+    "diff_abs": 3412.05,
+    "diff_pct": 53.63
   },
   {
-    "ean": "7790070760845",
-    "nombre": "vino nieto senetiner rose x 750 ml.",
+    "ean": "7792931000022",
+    "nombre": "agua mineral glaciar sin gas x 1.5 litros",
     "categoria": "Bebidas",
-    "precio_antes": 7499.0,
-    "precio_hoy": 10565.0,
-    "diff_abs": 3066.0,
-    "diff_pct": 40.89
+    "precio_antes": 2119.96,
+    "precio_hoy": 3255.0,
+    "diff_abs": 1135.04,
+    "diff_pct": 53.54
   },
   {
-    "ean": "7790070760807",
-    "nombre": "vino nsen.x750ml.chardonnay",
+    "ean": "7792798001972",
+    "nombre": "cerveza lata patagonia x 473 ml 24.7",
     "categoria": "Bebidas",
-    "precio_antes": 7499.0,
-    "precio_hoy": 10565.0,
-    "diff_abs": 3066.0,
-    "diff_pct": 40.89
+    "precio_antes": 3232.8,
+    "precio_hoy": 4961.0,
+    "diff_abs": 1728.2,
+    "diff_pct": 53.46
   },
   {
-    "ean": "2020270000003",
-    "nombre": "cebolla x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1790.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 700.0,
-    "diff_pct": 39.11
-  },
-  {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1790.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 700.0,
-    "diff_pct": 39.11
-  },
-  {
-    "ean": "2020570000000",
-    "nombre": "coliflor x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 33.39
-  },
-  {
-    "ean": "7790240092011",
-    "nombre": "vino tinto medalla malbec x 750 ml.",
+    "ean": "7792798001965",
+    "nombre": "cerveza patagonia amber lager lata x 473 ml",
     "categoria": "Bebidas",
-    "precio_antes": 13799.0,
-    "precio_hoy": 18239.0,
-    "diff_abs": 4440.0,
-    "diff_pct": 32.18
-  },
-  {
-    "ean": "7790070432933",
-    "nombre": "bizcochuelo exquisita libre de gluten x 450 gr. va",
-    "categoria": "Almacen",
-    "precio_antes": 3959.0,
-    "precio_hoy": 4992.0,
-    "diff_abs": 1033.0,
-    "diff_pct": 26.09
-  },
-  {
-    "ean": "7790197120218",
-    "nombre": "cognac reserva san juan extra anejo x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 9376.0,
-    "precio_hoy": 11764.0,
-    "diff_abs": 2388.0,
-    "diff_pct": 25.47
-  },
-  {
-    "ean": "2022030000001",
-    "nombre": "repollitos de brusellas en bandeja",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
+    "precio_antes": 3232.8,
+    "precio_hoy": 4961.0,
+    "diff_abs": 1728.2,
+    "diff_pct": 53.46
   }
 ]

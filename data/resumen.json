@@ -1,13 +1,147 @@
 {
-  "fecha": "20260715",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260716",
+  "total_productos": 6231,
+  "variacion_dia": 0.82,
+  "variacion_7d": 0.13,
+  "variacion_mes": 2.72,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 2.43,
+      "productos_subieron": 108,
+      "productos_bajaron": 36,
+      "total_productos": 1362
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": 0.74,
+      "productos_subieron": 192,
+      "productos_bajaron": 13,
+      "total_productos": 1106
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 2.32,
+      "productos_subieron": 54,
+      "productos_bajaron": 7,
+      "total_productos": 222
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 1,
+      "productos_bajaron": 2,
+      "total_productos": 872
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.19,
+      "productos_subieron": 39,
+      "productos_bajaron": 8,
+      "total_productos": 805
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.09,
+      "productos_subieron": 19,
+      "productos_bajaron": 3,
+      "total_productos": 1666
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "7798222460018",
+      "nombre": "formitas de soja latina x 400 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 4525.0,
+      "precio_hoy": 2369.0,
+      "diff_abs": -2156.0,
+      "diff_pct": -47.65
+    },
+    {
+      "ean": "7797906054826",
+      "nombre": "papas fritas mc cain clasicas x 700 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 8048.0,
+      "precio_hoy": 5239.0,
+      "diff_abs": -2809.0,
+      "diff_pct": -34.9
+    },
+    {
+      "ean": "7797906054833",
+      "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 8555.0,
+      "precio_hoy": 5569.0,
+      "diff_abs": -2986.0,
+      "diff_pct": -34.9
+    },
+    {
+      "ean": "7793147572853",
+      "nombre": "cerveza amstel lata x 710 ml lager",
+      "categoria": "Bebidas",
+      "precio_antes": 3925.0,
+      "precio_hoy": 2629.0,
+      "diff_abs": -1296.0,
+      "diff_pct": -33.02
+    },
+    {
+      "ean": "7793147570286",
+      "nombre": "cerveza santa fe x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 2615.0,
+      "precio_hoy": 1819.0,
+      "diff_abs": -796.0,
+      "diff_pct": -30.44
+    },
+    {
+      "ean": "7793147572075",
+      "nombre": "cerveza santa fe pilsen x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 2615.0,
+      "precio_hoy": 1819.0,
+      "diff_abs": -796.0,
+      "diff_pct": -30.44
+    },
+    {
+      "ean": "7799155001392",
+      "nombre": "agua saborizada levite x 1.5 lt pomelo rosado",
+      "categoria": "Bebidas",
+      "precio_antes": 3307.0,
+      "precio_hoy": 2319.0,
+      "diff_abs": -988.0,
+      "diff_pct": -29.88
+    },
+    {
+      "ean": "7790387070019",
+      "nombre": "arroz largo fino maria x 1 kg.",
+      "categoria": "Almacen",
+      "precio_antes": 1936.0,
+      "precio_hoy": 1399.0,
+      "diff_abs": -537.0,
+      "diff_pct": -27.74
+    },
+    {
+      "ean": "7793147573515",
+      "nombre": "cerveza isenbeck lata x 473 ml",
+      "categoria": "Bebidas",
+      "precio_antes": 2205.0,
+      "precio_hoy": 1599.0,
+      "diff_abs": -606.0,
+      "diff_pct": -27.48
+    },
+    {
+      "ean": "7790387070026",
+      "nombre": "arroz largo fino maria x 500 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 1015.0,
+      "precio_hoy": 739.0,
+      "diff_abs": -276.0,
+      "diff_pct": -27.19
+    }
+  ],
+  "productos_subieron_dia": 413,
+  "productos_bajaron_dia": 69,
+  "productos_sin_cambio_dia": 5551
 }
