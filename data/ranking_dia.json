@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+    "ean": "7790895641749",
+    "nombre": "jugo cepita anana x 1.5 lt.",
     "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
+    "precio_antes": 2551.48,
+    "precio_hoy": 3651.0,
+    "diff_abs": 1099.52,
+    "diff_pct": 43.09
   },
   {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "ean": "7790895641534",
+    "nombre": "jugo cepita botella x 1,5 lt. durazno",
     "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
+    "precio_antes": 2551.48,
+    "precio_hoy": 3651.0,
+    "diff_abs": 1099.52,
+    "diff_pct": 43.09
   },
   {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+    "ean": "7790895641800",
+    "nombre": "jugo cepita botella x 1.5 lt. naranja",
     "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
+    "precio_antes": 2551.48,
+    "precio_hoy": 3651.0,
+    "diff_abs": 1099.52,
+    "diff_pct": 43.09
   },
   {
-    "ean": "7791813000723",
-    "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
+    "ean": "7790895641237",
+    "nombre": "agua saborizada aquarius cepita naranja x 1.5 lt.",
     "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
+    "precio_antes": 2344.12,
+    "precio_hoy": 3240.0,
+    "diff_abs": 895.88,
+    "diff_pct": 38.22
   },
   {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+    "ean": "7790895641220",
+    "nombre": "agua saborizada aquarius cepita uva x 1.5 lt.",
     "categoria": "Bebidas",
-    "precio_antes": 1849.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 81.18
+    "precio_antes": 2344.12,
+    "precio_hoy": 3240.0,
+    "diff_abs": 895.88,
+    "diff_pct": 38.22
   },
   {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1849.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 81.18
+    "ean": "7792280005716",
+    "nombre": "yerba mate cachamate mezcla de hierbas x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2789.0,
+    "precio_hoy": 3720.0,
+    "diff_abs": 931.0,
+    "diff_pct": 33.38
   },
   {
-    "ean": "7791813405016",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
-    "categoria": "Bebidas",
-    "precio_antes": 1849.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 81.18
+    "ean": "7792280005709",
+    "nombre": "yerba mate cachamate mezcla de hierbas x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2789.0,
+    "precio_hoy": 3720.0,
+    "diff_abs": 931.0,
+    "diff_pct": 33.38
   },
   {
-    "ean": "7792799000011",
-    "nombre": "agua mineral sin gas eco de los andes x 500 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1237.94,
-    "precio_hoy": 2064.0,
-    "diff_abs": 826.06,
-    "diff_pct": 66.73
+    "ean": "7792280000605",
+    "nombre": "yerba mate cachamate x 500 gr. hierbas del litoral",
+    "categoria": "Perfumeria",
+    "precio_antes": 1669.0,
+    "precio_hoy": 2225.0,
+    "diff_abs": 556.0,
+    "diff_pct": 33.31
   },
   {
-    "ean": "7792799000059",
-    "nombre": "agua mineral sin gas eco de los andes x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1773.44,
-    "precio_hoy": 2956.0,
-    "diff_abs": 1182.56,
-    "diff_pct": 66.68
+    "ean": "7792280000094",
+    "nombre": "yerba mate cachamate x 500 gr. hierbas pampeanas",
+    "categoria": "Perfumeria",
+    "precio_antes": 1669.0,
+    "precio_hoy": 2225.0,
+    "diff_abs": 556.0,
+    "diff_pct": 33.31
   },
   {
-    "ean": "7792798003709",
-    "nombre": "cerveza corona x 330 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2739.0,
-    "precio_hoy": 4550.0,
-    "diff_abs": 1811.0,
-    "diff_pct": 66.12
+    "ean": "7792280005686",
+    "nombre": "yerba cachamate x 500 gm hierbas digestivas",
+    "categoria": "Perfumeria",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2024.0,
+    "diff_abs": 505.0,
+    "diff_pct": 33.25
   },
   {
-    "ean": "7792799000097",
-    "nombre": "agua mineral eco de los andes x 2 lt. sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 2014.95,
-    "precio_hoy": 3346.0,
-    "diff_abs": 1331.05,
-    "diff_pct": 66.06
+    "ean": "7792280000612",
+    "nombre": "yerba mate cachamate x 500 gr. hierbas cuyanas",
+    "categoria": "Perfumeria",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2024.0,
+    "diff_abs": 505.0,
+    "diff_pct": 33.25
   },
   {
-    "ean": "7795930002097",
-    "nombre": "agua mineral eco de los andes sin gas x 850 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1573.94,
-    "precio_hoy": 2610.0,
-    "diff_abs": 1036.06,
-    "diff_pct": 65.83
+    "ean": "7792280000285",
+    "nombre": "yerba mate cachamate suave x 500 gr. naranja",
+    "categoria": "Perfumeria",
+    "precio_antes": 1669.0,
+    "precio_hoy": 2224.0,
+    "diff_abs": 555.0,
+    "diff_pct": 33.25
   },
   {
-    "ean": "7790670050674",
-    "nombre": "hamburguesas paty x 2 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 3059.0,
-    "precio_hoy": 4802.0,
-    "diff_abs": 1743.0,
-    "diff_pct": 56.98
+    "ean": "7792280005730",
+    "nombre": "yerba mate cachamate hierbas serranas x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2024.0,
+    "diff_abs": 505.0,
+    "diff_pct": 33.25
   },
   {
-    "ean": "7792798002399",
-    "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4587.45,
-    "precio_hoy": 7056.0,
-    "diff_abs": 2468.55,
-    "diff_pct": 53.81
+    "ean": "7792280005693",
+    "nombre": "yerba cachamate x500.rosa",
+    "categoria": "Perfumeria",
+    "precio_antes": 1519.0,
+    "precio_hoy": 2024.0,
+    "diff_abs": 505.0,
+    "diff_pct": 33.25
   },
   {
-    "ean": "7791813402015",
-    "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 1171.54,
-    "precio_hoy": 1800.0,
-    "diff_abs": 628.46,
-    "diff_pct": 53.64
+    "ean": "7790040100206",
+    "nombre": "barra de cereal grano enterox 26 gm pasion de chocolate",
+    "categoria": "Perfumeria",
+    "precio_antes": 1011.0,
+    "precio_hoy": 1347.0,
+    "diff_abs": 336.0,
+    "diff_pct": 33.23
   },
   {
-    "ean": "7791813402039",
-    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
+    "ean": "7790895648687",
+    "nombre": "powerade uva x 500 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 1171.54,
-    "precio_hoy": 1800.0,
-    "diff_abs": 628.46,
-    "diff_pct": 53.64
+    "precio_antes": 1922.99,
+    "precio_hoy": 2562.0,
+    "diff_abs": 639.01,
+    "diff_pct": 33.23
   },
   {
-    "ean": "7792798002115",
-    "nombre": "cerveza andes rubia x1 lt. retornable",
+    "ean": "7790895641183",
+    "nombre": "powerade frutas topicales x 500 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 3624.03,
-    "precio_hoy": 5568.0,
-    "diff_abs": 1943.97,
-    "diff_pct": 53.64
+    "precio_antes": 1794.06,
+    "precio_hoy": 2390.0,
+    "diff_abs": 595.94,
+    "diff_pct": 33.22
   },
   {
-    "ean": "7795930000550",
-    "nombre": "agua mineral glaciar x 6,3 lt.",
+    "ean": "7790895640018",
+    "nombre": "powerade manzana x 500 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 6361.95,
-    "precio_hoy": 9774.0,
-    "diff_abs": 3412.05,
-    "diff_pct": 53.63
+    "precio_antes": 1794.06,
+    "precio_hoy": 2390.0,
+    "diff_abs": 595.94,
+    "diff_pct": 33.22
   },
   {
-    "ean": "7792931000022",
-    "nombre": "agua mineral glaciar sin gas x 1.5 litros",
+    "ean": "7790895640032",
+    "nombre": "powerade naranja x 500 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 2119.96,
-    "precio_hoy": 3255.0,
-    "diff_abs": 1135.04,
-    "diff_pct": 53.54
+    "precio_antes": 1794.06,
+    "precio_hoy": 2390.0,
+    "diff_abs": 595.94,
+    "diff_pct": 33.22
   },
   {
-    "ean": "7792798001965",
-    "nombre": "cerveza patagonia amber lager lata x 473 ml",
+    "ean": "7790895640025",
+    "nombre": "powerade x 500 ml mountain blast",
     "categoria": "Bebidas",
-    "precio_antes": 3232.8,
-    "precio_hoy": 4961.0,
-    "diff_abs": 1728.2,
-    "diff_pct": 53.46
+    "precio_antes": 1794.06,
+    "precio_hoy": 2390.0,
+    "diff_abs": 595.94,
+    "diff_pct": 33.22
   }
 ]

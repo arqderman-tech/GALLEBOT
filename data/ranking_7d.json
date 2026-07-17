@@ -1,7 +1,7 @@
 [
   {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+    "ean": "7791813000723",
+    "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
     "categoria": "Bebidas",
     "precio_antes": 1789.0,
     "precio_hoy": 3250.0,
@@ -27,8 +27,8 @@
     "diff_pct": 81.67
   },
   {
-    "ean": "7791813000723",
-    "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
+    "ean": "7791813403029",
+    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
     "categoria": "Bebidas",
     "precio_antes": 1789.0,
     "precio_hoy": 3250.0,
@@ -117,6 +117,15 @@
     "diff_pct": 53.81
   },
   {
+    "ean": "7792798002115",
+    "nombre": "cerveza andes rubia x1 lt. retornable",
+    "categoria": "Bebidas",
+    "precio_antes": 3624.03,
+    "precio_hoy": 5568.0,
+    "diff_abs": 1943.97,
+    "diff_pct": 53.64
+  },
+  {
     "ean": "7791813402015",
     "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
     "categoria": "Bebidas",
@@ -132,15 +141,6 @@
     "precio_antes": 1171.54,
     "precio_hoy": 1800.0,
     "diff_abs": 628.46,
-    "diff_pct": 53.64
-  },
-  {
-    "ean": "7792798002115",
-    "nombre": "cerveza andes rubia x1 lt. retornable",
-    "categoria": "Bebidas",
-    "precio_antes": 3624.03,
-    "precio_hoy": 5568.0,
-    "diff_abs": 1943.97,
     "diff_pct": 53.64
   },
   {
