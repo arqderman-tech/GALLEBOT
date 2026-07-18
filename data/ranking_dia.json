@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790895641749",
-    "nombre": "jugo cepita anana x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2551.48,
-    "precio_hoy": 3651.0,
-    "diff_abs": 1099.52,
-    "diff_pct": 43.09
+    "ean": "2021780000002",
+    "nombre": "perejil x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 5000.0,
+    "diff_pct": 100.2
   },
   {
-    "ean": "7790895641534",
-    "nombre": "jugo cepita botella x 1,5 lt. durazno",
-    "categoria": "Bebidas",
-    "precio_antes": 2551.48,
-    "precio_hoy": 3651.0,
-    "diff_abs": 1099.52,
-    "diff_pct": 43.09
+    "ean": "2020930000008",
+    "nombre": "lechuga morada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
   },
   {
-    "ean": "7790895641800",
-    "nombre": "jugo cepita botella x 1.5 lt. naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 2551.48,
-    "precio_hoy": 3651.0,
-    "diff_abs": 1099.52,
-    "diff_pct": 43.09
+    "ean": "7790079025655",
+    "nombre": "pizzeta paladini x 190 gm mozarella",
+    "categoria": "Congelados",
+    "precio_antes": 3850.0,
+    "precio_hoy": 5923.0,
+    "diff_abs": 2073.0,
+    "diff_pct": 53.84
   },
   {
-    "ean": "7790895641237",
-    "nombre": "agua saborizada aquarius cepita naranja x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2344.12,
-    "precio_hoy": 3240.0,
-    "diff_abs": 895.88,
-    "diff_pct": 38.22
+    "ean": "7790079025648",
+    "nombre": "pizzeta paladini x 205 gm mozarella y jamon",
+    "categoria": "Congelados",
+    "precio_antes": 4046.0,
+    "precio_hoy": 6224.0,
+    "diff_abs": 2178.0,
+    "diff_pct": 53.83
   },
   {
-    "ean": "7790895641220",
-    "nombre": "agua saborizada aquarius cepita uva x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2344.12,
-    "precio_hoy": 3240.0,
-    "diff_abs": 895.88,
-    "diff_pct": 38.22
+    "ean": "2019990000004",
+    "nombre": "apio x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
   },
   {
-    "ean": "7792280005716",
-    "nombre": "yerba mate cachamate mezcla de hierbas x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2789.0,
-    "precio_hoy": 3720.0,
-    "diff_abs": 931.0,
-    "diff_pct": 33.38
+    "ean": "7790079022647",
+    "nombre": "salame tipo milan paladini fetas + finas x 180 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4793.0,
+    "precio_hoy": 6390.0,
+    "diff_abs": 1597.0,
+    "diff_pct": 33.32
   },
   {
-    "ean": "7792280005709",
-    "nombre": "yerba mate cachamate mezcla de hierbas x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2789.0,
-    "precio_hoy": 3720.0,
-    "diff_abs": 931.0,
-    "diff_pct": 33.38
+    "ean": "2020260000006",
+    "nombre": "camote colorado x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
   },
   {
-    "ean": "7792280000605",
-    "nombre": "yerba mate cachamate x 500 gr. hierbas del litoral",
-    "categoria": "Perfumeria",
-    "precio_antes": 1669.0,
-    "precio_hoy": 2225.0,
-    "diff_abs": 556.0,
-    "diff_pct": 33.31
+    "ean": "7790079022111",
+    "nombre": "tapas para empanadas paladini x 12 unid. para feir",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1923.0,
+    "precio_hoy": 2345.0,
+    "diff_abs": 422.0,
+    "diff_pct": 21.94
   },
   {
-    "ean": "7792280000094",
-    "nombre": "yerba mate cachamate x 500 gr. hierbas pampeanas",
-    "categoria": "Perfumeria",
-    "precio_antes": 1669.0,
-    "precio_hoy": 2225.0,
-    "diff_abs": 556.0,
-    "diff_pct": 33.31
+    "ean": "7790079022104",
+    "nombre": "tapas para empanadas paladini x 12 unid. hojaldre",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1923.0,
+    "precio_hoy": 2345.0,
+    "diff_abs": 422.0,
+    "diff_pct": 21.94
   },
   {
-    "ean": "7792280005686",
-    "nombre": "yerba cachamate x 500 gm hierbas digestivas",
-    "categoria": "Perfumeria",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2024.0,
-    "diff_abs": 505.0,
-    "diff_pct": 33.25
+    "ean": "7790079022128",
+    "nombre": "tapas de empanadas tipo criolla paladini x 12 unid",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1923.0,
+    "precio_hoy": 2345.0,
+    "diff_abs": 422.0,
+    "diff_pct": 21.94
   },
   {
-    "ean": "7792280000612",
-    "nombre": "yerba mate cachamate x 500 gr. hierbas cuyanas",
-    "categoria": "Perfumeria",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2024.0,
-    "diff_abs": 505.0,
-    "diff_pct": 33.25
+    "ean": "7790079022135",
+    "nombre": "pascualina paladini x 400 gr. tipo criolla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2444.0,
+    "precio_hoy": 2980.0,
+    "diff_abs": 536.0,
+    "diff_pct": 21.93
   },
   {
-    "ean": "7792280000285",
-    "nombre": "yerba mate cachamate suave x 500 gr. naranja",
-    "categoria": "Perfumeria",
-    "precio_antes": 1669.0,
-    "precio_hoy": 2224.0,
-    "diff_abs": 555.0,
-    "diff_pct": 33.25
+    "ean": "7790079021374",
+    "nombre": "pascualina paladini x 400 gr. hojaldre",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2444.0,
+    "precio_hoy": 2980.0,
+    "diff_abs": 536.0,
+    "diff_pct": 21.93
   },
   {
-    "ean": "7792280005730",
-    "nombre": "yerba mate cachamate hierbas serranas x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2024.0,
-    "diff_abs": 505.0,
-    "diff_pct": 33.25
+    "ean": "2021020000007",
+    "nombre": "hinojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
   },
   {
-    "ean": "7792280005693",
-    "nombre": "yerba cachamate x500.rosa",
-    "categoria": "Perfumeria",
-    "precio_antes": 1519.0,
-    "precio_hoy": 2024.0,
-    "diff_abs": 505.0,
-    "diff_pct": 33.25
+    "ean": "2020790000002",
+    "nombre": "higos por kilo",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 19990.0,
+    "precio_hoy": 22990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 15.01
   },
   {
-    "ean": "7790040100206",
-    "nombre": "barra de cereal grano enterox 26 gm pasion de chocolate",
-    "categoria": "Perfumeria",
-    "precio_antes": 1011.0,
-    "precio_hoy": 1347.0,
-    "diff_abs": 336.0,
-    "diff_pct": 33.23
+    "ean": "7790079000638",
+    "nombre": "leberwurst paladini x 250 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2934.0,
+    "precio_hoy": 3260.0,
+    "diff_abs": 326.0,
+    "diff_pct": 11.11
   },
   {
-    "ean": "7790895648687",
-    "nombre": "powerade uva x 500 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1922.99,
-    "precio_hoy": 2562.0,
-    "diff_abs": 639.01,
-    "diff_pct": 33.23
+    "ean": "7790079024146",
+    "nombre": "chorizos frescos de cerdo paladini env x 360 gr",
+    "categoria": "Carniceria",
+    "precio_antes": 6822.0,
+    "precio_hoy": 7580.0,
+    "diff_abs": 758.0,
+    "diff_pct": 11.11
   },
   {
-    "ean": "7790895641183",
-    "nombre": "powerade frutas topicales x 500 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1794.06,
-    "precio_hoy": 2390.0,
-    "diff_abs": 595.94,
-    "diff_pct": 33.22
+    "ean": "2014540000008",
+    "nombre": "chorizo oriental paldini x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 22212.0,
+    "precio_hoy": 24680.0,
+    "diff_abs": 2468.0,
+    "diff_pct": 11.11
   },
   {
-    "ean": "7790895640018",
-    "nombre": "powerade manzana x 500 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1794.06,
-    "precio_hoy": 2390.0,
-    "diff_abs": 595.94,
-    "diff_pct": 33.22
+    "ean": "7790079000904",
+    "nombre": "mortadela paladini x 500 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 8165.0,
+    "precio_hoy": 9072.0,
+    "diff_abs": 907.0,
+    "diff_pct": 11.11
   },
   {
-    "ean": "7790895640032",
-    "nombre": "powerade naranja x 500 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1794.06,
-    "precio_hoy": 2390.0,
-    "diff_abs": 595.94,
-    "diff_pct": 33.22
+    "ean": "7790079024153",
+    "nombre": "chorizo fresco trad. paladini env x 360 gr",
+    "categoria": "Carniceria",
+    "precio_antes": 5879.0,
+    "precio_hoy": 6532.0,
+    "diff_abs": 653.0,
+    "diff_pct": 11.11
   },
   {
-    "ean": "7790895640025",
-    "nombre": "powerade x 500 ml mountain blast",
-    "categoria": "Bebidas",
-    "precio_antes": 1794.06,
-    "precio_hoy": 2390.0,
-    "diff_abs": 595.94,
-    "diff_pct": 33.22
+    "ean": "2014670000008",
+    "nombre": "jamon cocido paladini clasico x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 21601.0,
+    "precio_hoy": 24001.0,
+    "diff_abs": 2400.0,
+    "diff_pct": 11.11
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
-    "ean": "7790936000436",
-    "nombre": "sal tresal x500gr.fina ligh es",
-    "categoria": "Almacen",
-    "precio_antes": 1999.0,
-    "precio_hoy": 6197.0,
-    "diff_abs": 4198.0,
-    "diff_pct": 210.01
+    "ean": "2021780000002",
+    "nombre": "perejil x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 6000.0,
+    "diff_pct": 150.38
   },
   {
     "ean": "2020180000001",
@@ -18,6 +18,15 @@
     "diff_pct": 109.24
   },
   {
+    "ean": "2020570000000",
+    "nombre": "coliflor x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 100.25
+  },
+  {
     "ean": "2020300000003",
     "nombre": "cebolla de verdeo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -27,13 +36,22 @@
     "diff_pct": 100.2
   },
   {
-    "ean": "7790040143005",
-    "nombre": "gall.media tarde sand.x321gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1279.0,
-    "precio_hoy": 2159.0,
-    "diff_abs": 880.0,
-    "diff_pct": 68.8
+    "ean": "7791813402886",
+    "nombre": "agua saborizada h2o x 500 ml sin gas naranja",
+    "categoria": "Bebidas",
+    "precio_antes": 909.0,
+    "precio_hoy": 1800.0,
+    "diff_abs": 891.0,
+    "diff_pct": 98.02
+  },
+  {
+    "ean": "7790950147926",
+    "nombre": "americano gancia x 473 ml sin alcohol lata",
+    "categoria": "Bebidas",
+    "precio_antes": 1199.0,
+    "precio_hoy": 2149.0,
+    "diff_abs": 950.0,
+    "diff_pct": 79.23
   },
   {
     "ean": "2022030000001",
@@ -43,6 +61,15 @@
     "precio_hoy": 4990.0,
     "diff_abs": 2000.0,
     "diff_pct": 66.89
+  },
+  {
+    "ean": "7791813888406",
+    "nombre": "pepsi x 500 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 1109.0,
+    "precio_hoy": 1850.0,
+    "diff_abs": 741.0,
+    "diff_pct": 66.82
   },
   {
     "ean": "2021820000009",
@@ -72,15 +99,6 @@
     "diff_pct": 65.25
   },
   {
-    "ean": "7790040144095",
-    "nombre": "gall.traviatas x540gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1899.0,
-    "precio_hoy": 3135.0,
-    "diff_abs": 1236.0,
-    "diff_pct": 65.09
-  },
-  {
     "ean": "7794000007741",
     "nombre": "salsa golf hellmann`s x 250 gr.",
     "categoria": "Almacen",
@@ -90,17 +108,8 @@
     "diff_pct": 65.04
   },
   {
-    "ean": "7790040144088",
-    "nombre": "gall.traviatas 3x118gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1249.0,
-    "precio_hoy": 2050.0,
-    "diff_abs": 801.0,
-    "diff_pct": 64.13
-  },
-  {
-    "ean": "7793147572389",
-    "nombre": "cerveza salta cautiva roja -",
+    "ean": "7793147574185",
+    "nombre": "cerveza salta cautiva x 473 ml fresh lager",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -117,6 +126,15 @@
     "diff_pct": 62.65
   },
   {
+    "ean": "7793147572389",
+    "nombre": "cerveza salta cautiva roja -",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 62.65
+  },
+  {
     "ean": "7793147572327",
     "nombre": "cerveza salta cautiva rubia  x 473 m",
     "categoria": "Bebidas",
@@ -124,24 +142,6 @@
     "precio_hoy": 3105.0,
     "diff_abs": 1196.0,
     "diff_pct": 62.65
-  },
-  {
-    "ean": "7793147574185",
-    "nombre": "cerveza salta cautiva x 473 ml fresh lager",
-    "categoria": "Bebidas",
-    "precio_antes": 1909.0,
-    "precio_hoy": 3105.0,
-    "diff_abs": 1196.0,
-    "diff_pct": 62.65
-  },
-  {
-    "ean": "2020490000005",
-    "nombre": "ciruela roja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 12990.0,
-    "diff_abs": 5000.0,
-    "diff_pct": 62.58
   },
   {
     "ean": "2020160000007",
@@ -153,13 +153,22 @@
     "diff_pct": 62.58
   },
   {
-    "ean": "7793147573492",
-    "nombre": "cerveza miller long neck x 330 ml.",
+    "ean": "2020490000005",
+    "nombre": "ciruela roja x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 12990.0,
+    "diff_abs": 5000.0,
+    "diff_pct": 62.58
+  },
+  {
+    "ean": "7793147572334",
+    "nombre": "cerveza salta cautiva rubia x 1 lt. retornable",
     "categoria": "Bebidas",
-    "precio_antes": 2349.0,
-    "precio_hoy": 3815.0,
-    "diff_abs": 1466.0,
-    "diff_pct": 62.41
+    "precio_antes": 3219.0,
+    "precio_hoy": 5230.0,
+    "diff_abs": 2011.0,
+    "diff_pct": 62.47
   },
   {
     "ean": "4000856005217",
@@ -169,14 +178,5 @@
     "precio_hoy": 3815.0,
     "diff_abs": 1466.0,
     "diff_pct": 62.41
-  },
-  {
-    "ean": "7793147574109",
-    "nombre": "cerveza imperial golden long neck x 330 cc",
-    "categoria": "Bebidas",
-    "precio_antes": 2149.0,
-    "precio_hoy": 3485.0,
-    "diff_abs": 1336.0,
-    "diff_pct": 62.17
   }
 ]

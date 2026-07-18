@@ -1,30 +1,30 @@
 {
-  "fecha": "20260717",
-  "total_productos": 6233,
-  "variacion_dia": 0.67,
-  "variacion_7d": 0.79,
-  "variacion_mes": 2.85,
+  "fecha": "20260718",
+  "total_productos": 6281,
+  "variacion_dia": -0.39,
+  "variacion_7d": 0.42,
+  "variacion_mes": 2.5,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.66,
-      "productos_subieron": 47,
-      "productos_bajaron": 0,
-      "total_productos": 1402
+      "variacion_pct_promedio": -2.22,
+      "productos_subieron": 0,
+      "productos_bajaron": 122,
+      "total_productos": 1403
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.01,
-      "productos_subieron": 6,
-      "productos_bajaron": 17,
-      "total_productos": 1132
+      "variacion_pct_promedio": 0.51,
+      "productos_subieron": 33,
+      "productos_bajaron": 4,
+      "total_productos": 1126
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -2.09,
-      "productos_subieron": 0,
-      "productos_bajaron": 42,
+      "variacion_pct_promedio": 0.67,
+      "productos_subieron": 8,
+      "productos_bajaron": 0,
       "total_productos": 230
     },
     {
@@ -32,116 +32,116 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 885
+      "total_productos": 887
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 1.89,
-      "productos_subieron": 118,
-      "productos_bajaron": 4,
-      "total_productos": 826
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 834
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 1.24,
-      "productos_subieron": 227,
-      "productos_bajaron": 3,
-      "total_productos": 1732
+      "variacion_pct_promedio": -0.02,
+      "productos_subieron": 0,
+      "productos_bajaron": 2,
+      "total_productos": 1729
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790670050674",
-      "nombre": "hamburguesas paty x 2 unid. clasicas",
-      "categoria": "Congelados",
-      "precio_antes": 4802.0,
-      "precio_hoy": 3169.0,
-      "diff_abs": -1633.0,
-      "diff_pct": -34.01
+      "ean": "7795930000543",
+      "nombre": "agua mineral pureza vital x2.25lt.sin gas",
+      "categoria": "Bebidas",
+      "precio_antes": 2870.0,
+      "precio_hoy": 1579.0,
+      "diff_abs": -1291.0,
+      "diff_pct": -44.98
     },
     {
-      "ean": "7790670050780",
-      "nombre": "hamburguesas paty clasico x 20 unid.",
-      "categoria": "Congelados",
-      "precio_antes": 42853.0,
-      "precio_hoy": 33079.0,
-      "diff_abs": -9774.0,
-      "diff_pct": -22.81
+      "ean": "7791813403029",
+      "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+      "categoria": "Bebidas",
+      "precio_antes": 3250.0,
+      "precio_hoy": 1789.0,
+      "diff_abs": -1461.0,
+      "diff_pct": -44.95
     },
     {
-      "ean": "7791100046151",
-      "nombre": "canela en polvo chango x 40 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 3977.0,
-      "precio_hoy": 3169.0,
-      "diff_abs": -808.0,
-      "diff_pct": -20.32
+      "ean": "7791813403036",
+      "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+      "categoria": "Bebidas",
+      "precio_antes": 3250.0,
+      "precio_hoy": 1789.0,
+      "diff_abs": -1461.0,
+      "diff_pct": -44.95
     },
     {
-      "ean": "7791100000344",
-      "nombre": "coco rallado chango x 50 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 3331.0,
-      "precio_hoy": 2659.0,
-      "diff_abs": -672.0,
-      "diff_pct": -20.17
+      "ean": "7791813403012",
+      "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+      "categoria": "Bebidas",
+      "precio_antes": 3250.0,
+      "precio_hoy": 1789.0,
+      "diff_abs": -1461.0,
+      "diff_pct": -44.95
     },
     {
-      "ean": "7790670050650",
-      "nombre": "hamburguesas paty x 4 unid. clasicas",
-      "categoria": "Congelados",
-      "precio_antes": 9416.0,
-      "precio_hoy": 7589.0,
-      "diff_abs": -1827.0,
-      "diff_pct": -19.4
+      "ean": "7791813000723",
+      "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
+      "categoria": "Bebidas",
+      "precio_antes": 3250.0,
+      "precio_hoy": 1789.0,
+      "diff_abs": -1461.0,
+      "diff_pct": -44.95
     },
     {
-      "ean": "7790670052388",
-      "nombre": "salchicha patyviena x6u.clasic",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2878.0,
-      "precio_hoy": 2359.0,
-      "diff_abs": -519.0,
-      "diff_pct": -18.03
+      "ean": "7792799000905",
+      "nombre": "agua mineral pureza vital x 1.5 litros sin gas",
+      "categoria": "Bebidas",
+      "precio_antes": 2429.0,
+      "precio_hoy": 1339.0,
+      "diff_abs": -1090.0,
+      "diff_pct": -44.87
     },
     {
-      "ean": "7790670050667",
-      "nombre": "hamburguesas paty x 12 unid. clasicas",
-      "categoria": "Congelados",
-      "precio_antes": 26285.0,
-      "precio_hoy": 21689.0,
-      "diff_abs": -4596.0,
-      "diff_pct": -17.49
+      "ean": "7791813405016",
+      "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
+      "categoria": "Bebidas",
+      "precio_antes": 3350.0,
+      "precio_hoy": 1849.0,
+      "diff_abs": -1501.0,
+      "diff_pct": -44.81
     },
     {
-      "ean": "7790670052395",
-      "nombre": "salchichas patyviena x 12 unid.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 5548.0,
-      "precio_hoy": 4579.0,
-      "diff_abs": -969.0,
-      "diff_pct": -17.47
+      "ean": "7791813405023",
+      "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+      "categoria": "Bebidas",
+      "precio_antes": 3350.0,
+      "precio_hoy": 1849.0,
+      "diff_abs": -1501.0,
+      "diff_pct": -44.81
     },
     {
-      "ean": "7790670052791",
-      "nombre": "hamburguesa paty de cancha x 2 unid.",
-      "categoria": "Congelados",
-      "precio_antes": 7526.0,
-      "precio_hoy": 6249.0,
-      "diff_abs": -1277.0,
-      "diff_pct": -16.97
+      "ean": "7791813405030",
+      "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+      "categoria": "Bebidas",
+      "precio_antes": 3350.0,
+      "precio_hoy": 1849.0,
+      "diff_abs": -1501.0,
+      "diff_pct": -44.81
     },
     {
-      "ean": "7790670050728",
-      "nombre": "hamburguesas paty x 2 unid. finitas",
-      "categoria": "Congelados",
-      "precio_antes": 3537.0,
-      "precio_hoy": 2939.0,
-      "diff_abs": -598.0,
-      "diff_pct": -16.91
+      "ean": "7792799000035",
+      "nombre": "agua mineral eco de los andes x 500 ml. con gas",
+      "categoria": "Bebidas",
+      "precio_antes": 2200.0,
+      "precio_hoy": 1319.0,
+      "diff_abs": -881.0,
+      "diff_pct": -40.05
     }
   ],
-  "productos_subieron_dia": 398,
-  "productos_bajaron_dia": 66,
-  "productos_sin_cambio_dia": 5743
+  "productos_subieron_dia": 41,
+  "productos_bajaron_dia": 128,
+  "productos_sin_cambio_dia": 6040
 }
