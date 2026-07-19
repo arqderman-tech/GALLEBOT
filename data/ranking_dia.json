@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2021780000002",
-    "nombre": "perejil x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 5000.0,
-    "diff_pct": 100.2
+    "ean": "7790310985830",
+    "nombre": "3ds queso x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3649.0,
+    "precio_hoy": 3649.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2020930000008",
-    "nombre": "lechuga morada x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
+    "ean": "7790310985137",
+    "nombre": "3ds queso x143gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5118.0,
+    "precio_hoy": 5118.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790079025655",
-    "nombre": "pizzeta paladini x 190 gm mozarella",
-    "categoria": "Congelados",
-    "precio_antes": 3850.0,
-    "precio_hoy": 5923.0,
-    "diff_abs": 2073.0,
-    "diff_pct": 53.84
+    "ean": "7790310985113",
+    "nombre": "3ds sabor queso x 43 gm",
+    "categoria": "Almacen",
+    "precio_antes": 2271.0,
+    "precio_hoy": 2271.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790079025648",
-    "nombre": "pizzeta paladini x 205 gm mozarella y jamon",
-    "categoria": "Congelados",
-    "precio_antes": 4046.0,
-    "precio_hoy": 6224.0,
-    "diff_abs": 2178.0,
-    "diff_pct": 53.83
+    "ean": "7791728246629",
+    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
+    "categoria": "Almacen",
+    "precio_antes": 24261.0,
+    "precio_hoy": 24261.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2019990000004",
-    "nombre": "apio x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
+    "ean": "763571722428",
+    "nombre": "ac.de coco entrenuts x200virg.",
+    "categoria": "Almacen",
+    "precio_antes": 9649.0,
+    "precio_hoy": 9649.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790079022647",
-    "nombre": "salame tipo milan paladini fetas + finas x 180 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4793.0,
-    "precio_hoy": 6390.0,
-    "diff_abs": 1597.0,
-    "diff_pct": 33.32
+    "ean": "7798080520657",
+    "nombre": "ac.ol.l.toscana x250ml.ajo",
+    "categoria": "Almacen",
+    "precio_antes": 9903.0,
+    "precio_hoy": 9903.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2020260000006",
-    "nombre": "camote colorado x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
+    "ean": "7798080520534",
+    "nombre": "ac.ol.l.toscana x250ml.albahac",
+    "categoria": "Almacen",
+    "precio_antes": 9903.0,
+    "precio_hoy": 9903.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790079022111",
-    "nombre": "tapas para empanadas paladini x 12 unid. para feir",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1923.0,
-    "precio_hoy": 2345.0,
-    "diff_abs": 422.0,
-    "diff_pct": 21.94
+    "ean": "7791728246612",
+    "nombre": "ac.ol.zuccardi x250ml.coratina",
+    "categoria": "Almacen",
+    "precio_antes": 14152.0,
+    "precio_hoy": 14152.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790079022104",
-    "nombre": "tapas para empanadas paladini x 12 unid. hojaldre",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1923.0,
-    "precio_hoy": 2345.0,
-    "diff_abs": 422.0,
-    "diff_pct": 21.94
+    "ean": "7791728246575",
+    "nombre": "ac.ol.zuccardi x250ml.picual",
+    "categoria": "Almacen",
+    "precio_antes": 14152.0,
+    "precio_hoy": 14152.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790079022128",
-    "nombre": "tapas de empanadas tipo criolla paladini x 12 unid",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1923.0,
-    "precio_hoy": 2345.0,
-    "diff_abs": 422.0,
-    "diff_pct": 21.94
+    "ean": "7791728241181",
+    "nombre": "ac.ol.zuelo x500ml.bot.intenso",
+    "categoria": "Almacen",
+    "precio_antes": 18903.0,
+    "precio_hoy": 18903.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790079022135",
-    "nombre": "pascualina paladini x 400 gr. tipo criolla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2444.0,
-    "precio_hoy": 2980.0,
-    "diff_abs": 536.0,
-    "diff_pct": 21.93
+    "ean": "41331014922",
+    "nombre": "acaitunas goya x 149 gm con pimiento picante",
+    "categoria": "Almacen",
+    "precio_antes": 9280.0,
+    "precio_hoy": 9280.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790079021374",
-    "nombre": "pascualina paladini x 400 gr. hojaldre",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2444.0,
-    "precio_hoy": 2980.0,
-    "diff_abs": 536.0,
-    "diff_pct": 21.93
+    "ean": "7790070225023",
+    "nombre": "aceite cocinero mezcla x1.5lt.",
+    "categoria": "Almacen",
+    "precio_antes": 5873.0,
+    "precio_hoy": 5873.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2021020000007",
-    "nombre": "hinojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
+    "ean": "7790070265142",
+    "nombre": "aceite cocinero puro de oliva x 500 ml",
+    "categoria": "Almacen",
+    "precio_antes": 10919.0,
+    "precio_hoy": 10919.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2020790000002",
-    "nombre": "higos por kilo",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 19990.0,
-    "precio_hoy": 22990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 15.01
+    "ean": "7790070231598",
+    "nombre": "aceite cocinero x900 ml oliva y girasol",
+    "categoria": "Almacen",
+    "precio_antes": 5809.0,
+    "precio_hoy": 5809.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790079000638",
-    "nombre": "leberwurst paladini x 250 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2934.0,
-    "precio_hoy": 3260.0,
-    "diff_abs": 326.0,
-    "diff_pct": 11.11
+    "ean": "7790272006819",
+    "nombre": "aceite copisi x 900 ml. girasol y oliva",
+    "categoria": "Almacen",
+    "precio_antes": 6162.0,
+    "precio_hoy": 6162.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790079024146",
-    "nombre": "chorizos frescos de cerdo paladini env x 360 gr",
-    "categoria": "Carniceria",
-    "precio_antes": 6822.0,
-    "precio_hoy": 7580.0,
-    "diff_abs": 758.0,
-    "diff_pct": 11.11
+    "ean": "656750783931",
+    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 8902.0,
+    "precio_hoy": 8902.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2014540000008",
-    "nombre": "chorizo oriental paldini x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 22212.0,
-    "precio_hoy": 24680.0,
-    "diff_abs": 2468.0,
-    "diff_pct": 11.11
+    "ean": "763571722435",
+    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 16512.0,
+    "precio_hoy": 16512.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790079000904",
-    "nombre": "mortadela paladini x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 8165.0,
-    "precio_hoy": 9072.0,
-    "diff_abs": 907.0,
-    "diff_pct": 11.11
+    "ean": "7794870000040",
+    "nombre": "aceite de girasol alsamar x 5 lts.",
+    "categoria": "Almacen",
+    "precio_antes": 21090.0,
+    "precio_hoy": 21090.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790079024153",
-    "nombre": "chorizo fresco trad. paladini env x 360 gr",
-    "categoria": "Carniceria",
-    "precio_antes": 5879.0,
-    "precio_hoy": 6532.0,
-    "diff_abs": 653.0,
-    "diff_pct": 11.11
+    "ean": "7798316700907",
+    "nombre": "aceite de girasol alsamar x 900 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 3862.0,
+    "precio_hoy": 3862.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2014670000008",
-    "nombre": "jamon cocido paladini clasico x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 21601.0,
-    "precio_hoy": 24001.0,
-    "diff_abs": 2400.0,
-    "diff_pct": 11.11
+    "ean": "7790045823780",
+    "nombre": "aceite de girasol alto oleico granix x 750 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 6831.0,
+    "precio_hoy": 6831.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]

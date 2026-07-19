@@ -108,8 +108,8 @@
     "diff_pct": 65.04
   },
   {
-    "ean": "7793147574185",
-    "nombre": "cerveza salta cautiva x 473 ml fresh lager",
+    "ean": "7793147572327",
+    "nombre": "cerveza salta cautiva rubia  x 473 m",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -117,8 +117,8 @@
     "diff_pct": 62.65
   },
   {
-    "ean": "7793147573683",
-    "nombre": "cerveza salta cautiva ipa x 473 ml.",
+    "ean": "7793147574185",
+    "nombre": "cerveza salta cautiva x 473 ml fresh lager",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -135,8 +135,8 @@
     "diff_pct": 62.65
   },
   {
-    "ean": "7793147572327",
-    "nombre": "cerveza salta cautiva rubia  x 473 m",
+    "ean": "7793147573683",
+    "nombre": "cerveza salta cautiva ipa x 473 ml.",
     "categoria": "Bebidas",
     "precio_antes": 1909.0,
     "precio_hoy": 3105.0,
@@ -144,8 +144,8 @@
     "diff_pct": 62.65
   },
   {
-    "ean": "2020160000007",
-    "nombre": "brocoli x kg.",
+    "ean": "2020490000005",
+    "nombre": "ciruela roja x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 7990.0,
     "precio_hoy": 12990.0,
@@ -153,8 +153,8 @@
     "diff_pct": 62.58
   },
   {
-    "ean": "2020490000005",
-    "nombre": "ciruela roja x kg.",
+    "ean": "2020160000007",
+    "nombre": "brocoli x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 7990.0,
     "precio_hoy": 12990.0,
