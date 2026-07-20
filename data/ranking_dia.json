@@ -99,6 +99,15 @@
     "diff_pct": 0.0
   },
   {
+    "ean": "7790580160807",
+    "nombre": "aceite arcor x900ml.maiz",
+    "categoria": "Almacen",
+    "precio_antes": 5280.0,
+    "precio_hoy": 5280.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
     "ean": "7790070225023",
     "nombre": "aceite cocinero mezcla x1.5lt.",
     "categoria": "Almacen",
@@ -167,15 +176,6 @@
     "categoria": "Almacen",
     "precio_antes": 3862.0,
     "precio_hoy": 3862.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790045823780",
-    "nombre": "aceite de girasol alto oleico granix x 750 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 6831.0,
-    "precio_hoy": 6831.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   }
