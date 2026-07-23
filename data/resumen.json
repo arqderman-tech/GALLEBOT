@@ -1,13 +1,147 @@
 {
-  "fecha": "20260722",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260723",
+  "total_productos": 6188,
+  "variacion_dia": 1.52,
+  "variacion_7d": 1.72,
+  "variacion_mes": 4.38,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 2.18,
+      "productos_subieron": 255,
+      "productos_bajaron": 5,
+      "total_productos": 1391
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": 2.56,
+      "productos_subieron": 131,
+      "productos_bajaron": 83,
+      "total_productos": 1117
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 3.47,
+      "productos_subieron": 84,
+      "productos_bajaron": 13,
+      "total_productos": 227
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.06,
+      "productos_subieron": 6,
+      "productos_bajaron": 0,
+      "total_productos": 877
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.8,
+      "productos_subieron": 40,
+      "productos_bajaron": 9,
+      "total_productos": 826
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 1.15,
+      "productos_subieron": 134,
+      "productos_bajaron": 6,
+      "total_productos": 1686
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "2021020000007",
+      "nombre": "hinojo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -4000.0,
+      "diff_pct": -57.22
+    },
+    {
+      "ean": "2020160000007",
+      "nombre": "brocoli x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 12990.0,
+      "precio_hoy": 6990.0,
+      "diff_abs": -6000.0,
+      "diff_pct": -46.19
+    },
+    {
+      "ean": "2021780000002",
+      "nombre": "perejil x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 9990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -4000.0,
+      "diff_pct": -40.04
+    },
+    {
+      "ean": "7790079025655",
+      "nombre": "pizzeta paladini x 190 gm mozarella",
+      "categoria": "Congelados",
+      "precio_antes": 5923.0,
+      "precio_hoy": 4042.0,
+      "diff_abs": -1881.0,
+      "diff_pct": -31.76
+    },
+    {
+      "ean": "7790079025648",
+      "nombre": "pizzeta paladini x 205 gm mozarella y jamon",
+      "categoria": "Congelados",
+      "precio_antes": 6224.0,
+      "precio_hoy": 4248.0,
+      "diff_abs": -1976.0,
+      "diff_pct": -31.75
+    },
+    {
+      "ean": "2022420000000",
+      "nombre": "frutillas en bandeja chica",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 3490.0,
+      "diff_abs": -1500.0,
+      "diff_pct": -30.06
+    },
+    {
+      "ean": "7797906054956",
+      "nombre": "papas congeladas mc cain smiles x 700 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 13481.0,
+      "precio_hoy": 9439.0,
+      "diff_abs": -4042.0,
+      "diff_pct": -29.98
+    },
+    {
+      "ean": "7797906054925",
+      "nombre": "papas noisette mc cain horneables x 600 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 10700.0,
+      "precio_hoy": 7499.0,
+      "diff_abs": -3201.0,
+      "diff_pct": -29.92
+    },
+    {
+      "ean": "2021650000002",
+      "nombre": "zapallito largo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 3990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -25.06
+    },
+    {
+      "ean": "2020570000000",
+      "nombre": "coliflor x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 7990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -25.03
+    }
+  ],
+  "productos_subieron_dia": 650,
+  "productos_bajaron_dia": 116,
+  "productos_sin_cambio_dia": 5358
 }
