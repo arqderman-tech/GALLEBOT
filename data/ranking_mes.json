@@ -1,14 +1,5 @@
 [
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2109.0,
-    "precio_hoy": 5332.0,
-    "diff_abs": 3223.0,
-    "diff_pct": 152.82
-  },
-  {
     "ean": "7791337010499",
     "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
     "categoria": "Lacteos Y Frescos",
@@ -18,58 +9,22 @@
     "diff_pct": 152.82
   },
   {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3809.0,
-    "precio_hoy": 7960.0,
-    "diff_abs": 4151.0,
-    "diff_pct": 108.98
+    "precio_antes": 2109.0,
+    "precio_hoy": 5332.0,
+    "diff_abs": 3223.0,
+    "diff_pct": 152.82
   },
   {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3809.0,
-    "precio_hoy": 7960.0,
-    "diff_abs": 4151.0,
-    "diff_pct": 108.98
-  },
-  {
-    "ean": "7791337010369",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010468",
-    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1190.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1800.0,
+    "diff_pct": 151.26
   },
   {
     "ean": "7622201704148",
@@ -108,15 +63,6 @@
     "diff_pct": 98.02
   },
   {
-    "ean": "7791337007260",
-    "nombre": "leche chocolatada cindor x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1499.0,
-    "precio_hoy": 2863.0,
-    "diff_abs": 1364.0,
-    "diff_pct": 90.99
-  },
-  {
     "ean": "7791337061491",
     "nombre": "queso casancrem x 500gr clasico",
     "categoria": "Lacteos Y Frescos",
@@ -135,33 +81,6 @@
     "diff_pct": 86.16
   },
   {
-    "ean": "7791337060944",
-    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 6028.0,
-    "diff_abs": 2729.0,
-    "diff_pct": 82.72
-  },
-  {
-    "ean": "7791337061385",
-    "nombre": "queso crema casancrem balance x 290 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 6028.0,
-    "diff_abs": 2729.0,
-    "diff_pct": 82.72
-  },
-  {
-    "ean": "7791337061361",
-    "nombre": "queso crema casancrem x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 6028.0,
-    "diff_abs": 2729.0,
-    "diff_pct": 82.72
-  },
-  {
     "ean": "7790950147926",
     "nombre": "americano gancia x 473 ml sin alcohol lata",
     "categoria": "Bebidas",
@@ -178,5 +97,86 @@
     "precio_hoy": 10682.0,
     "diff_abs": 4673.0,
     "diff_pct": 77.77
+  },
+  {
+    "ean": "2020570000000",
+    "nombre": "coliflor x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
+  },
+  {
+    "ean": "7791337008410",
+    "nombre": "leche chocolatada la serenisima x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1099.0,
+    "precio_hoy": 1912.0,
+    "diff_abs": 813.0,
+    "diff_pct": 73.98
+  },
+  {
+    "ean": "7898024394181",
+    "nombre": "pasta de avellanas y cacao nutella x 350 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 6159.0,
+    "precio_hoy": 10452.0,
+    "diff_abs": 4293.0,
+    "diff_pct": 69.7
+  },
+  {
+    "ean": "7898024395232",
+    "nombre": "pasta de avellanas y cqcao  nutella x 140 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2799.0,
+    "precio_hoy": 4737.0,
+    "diff_abs": 1938.0,
+    "diff_pct": 69.24
+  },
+  {
+    "ean": "7791813888406",
+    "nombre": "pepsi x 500 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 1109.0,
+    "precio_hoy": 1850.0,
+    "diff_abs": 741.0,
+    "diff_pct": 66.82
+  },
+  {
+    "ean": "7794000008540",
+    "nombre": "caldo sabor gallina knorr x 12 cubos",
+    "categoria": "Almacen",
+    "precio_antes": 1559.0,
+    "precio_hoy": 2579.0,
+    "diff_abs": 1020.0,
+    "diff_pct": 65.43
+  },
+  {
+    "ean": "7794000008922",
+    "nombre": "aderezo hellmann`s picante x 340 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2299.0,
+    "precio_hoy": 3799.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 65.25
+  },
+  {
+    "ean": "7794000007741",
+    "nombre": "salsa golf hellmann`s x 250 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1599.0,
+    "precio_hoy": 2639.0,
+    "diff_abs": 1040.0,
+    "diff_pct": 65.04
+  },
+  {
+    "ean": "7793147572389",
+    "nombre": "cerveza salta cautiva roja -",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 3105.0,
+    "diff_abs": 1196.0,
+    "diff_pct": 62.65
   }
 ]

@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2209.0,
-    "precio_hoy": 5332.0,
-    "diff_abs": 3123.0,
-    "diff_pct": 141.38
+    "ean": "7790380023418",
+    "nombre": "cacao toddy x360gr.extrem",
+    "categoria": "Almacen",
+    "precio_antes": 2749.0,
+    "precio_hoy": 4177.0,
+    "diff_abs": 1428.0,
+    "diff_pct": 51.95
   },
   {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2209.0,
-    "precio_hoy": 5332.0,
-    "diff_abs": 3123.0,
-    "diff_pct": 141.38
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
   },
   {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3399.0,
-    "precio_hoy": 7960.0,
-    "diff_abs": 4561.0,
-    "diff_pct": 134.19
+    "ean": "7798130192230",
+    "nombre": "mix frutos secos sin pasas zyma x 150 gm",
+    "categoria": "Almacen",
+    "precio_antes": 4699.0,
+    "precio_hoy": 6071.0,
+    "diff_abs": 1372.0,
+    "diff_pct": 29.2
   },
   {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3399.0,
-    "precio_hoy": 7960.0,
-    "diff_abs": 4561.0,
-    "diff_pct": 134.19
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
   },
   {
-    "ean": "7791337008403",
-    "nombre": "leche chocolatada la serenisima x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2649.0,
-    "precio_hoy": 5587.0,
-    "diff_abs": 2938.0,
-    "diff_pct": 110.91
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2790.0,
+    "precio_hoy": 3490.0,
+    "diff_abs": 700.0,
+    "diff_pct": 25.09
   },
   {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
+    "ean": "2020120000009",
+    "nombre": "berengena negra x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
   },
   {
-    "ean": "7791337010468",
-    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
+    "ean": "2020570000000",
+    "nombre": "coliflor x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
   },
   {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
+    "ean": "2021790000009",
+    "nombre": "pimiento amarillo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 8990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 12.52
   },
   {
-    "ean": "7791337010369",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
+    "ean": "2020350000008",
+    "nombre": "chaucha ballina x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 8990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 12.52
   },
   {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
+    "ean": "2020370000002",
+    "nombre": "chaucha rolliza x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 8990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 11.12
   },
   {
-    "ean": "7791337007260",
-    "nombre": "leche chocolatada cindor x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1419.0,
-    "precio_hoy": 2863.0,
-    "diff_abs": 1444.0,
-    "diff_pct": 101.76
+    "ean": "2020270000003",
+    "nombre": "cebolla x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2590.0,
+    "precio_hoy": 2790.0,
+    "diff_abs": 200.0,
+    "diff_pct": 7.72
   },
   {
-    "ean": "7791337060944",
-    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3209.0,
-    "precio_hoy": 6028.0,
-    "diff_abs": 2819.0,
-    "diff_pct": 87.85
+    "ean": "7791728249385",
+    "nombre": "vino santa julia x 269 ml dulce",
+    "categoria": "Bebidas",
+    "precio_antes": 3273.0,
+    "precio_hoy": 3304.0,
+    "diff_abs": 31.0,
+    "diff_pct": 0.95
   },
   {
-    "ean": "7791337061385",
-    "nombre": "queso crema casancrem balance x 290 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3209.0,
-    "precio_hoy": 6028.0,
-    "diff_abs": 2819.0,
-    "diff_pct": 87.85
+    "ean": "7791728248265",
+    "nombre": "vino santa julia x 750 ml. tinto dulce",
+    "categoria": "Bebidas",
+    "precio_antes": 7133.0,
+    "precio_hoy": 7200.0,
+    "diff_abs": 67.0,
+    "diff_pct": 0.94
   },
   {
-    "ean": "7791337061361",
-    "nombre": "queso crema casancrem x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3209.0,
-    "precio_hoy": 6028.0,
-    "diff_abs": 2819.0,
-    "diff_pct": 87.85
+    "ean": "7791728247091",
+    "nombre": "vino blanco santa julia x 750 ml. chardonnay dulce",
+    "categoria": "Bebidas",
+    "precio_antes": 7133.0,
+    "precio_hoy": 7200.0,
+    "diff_abs": 67.0,
+    "diff_pct": 0.94
   },
   {
-    "ean": "7791337010727",
-    "nombre": "yogur la serenisima cremoso natural x 120 gm sin azucar agre",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 719.0,
-    "precio_hoy": 1333.0,
-    "diff_abs": 614.0,
-    "diff_pct": 85.4
+    "ean": "7791728247794",
+    "nombre": "vino santa julia x 750 ml malbec cabernet sauvignon",
+    "categoria": "Bebidas",
+    "precio_antes": 6058.54,
+    "precio_hoy": 6115.0,
+    "diff_abs": 56.46,
+    "diff_pct": 0.93
   },
   {
-    "ean": "7791337010420",
-    "nombre": "yogur ls.clas.firme ent.vai120",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 719.0,
-    "precio_hoy": 1332.0,
-    "diff_abs": 613.0,
-    "diff_pct": 85.26
+    "ean": "7791728233490",
+    "nombre": "vino santa julia la seleccion malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 6694.0,
+    "precio_hoy": 6756.0,
+    "diff_abs": 62.0,
+    "diff_pct": 0.93
   },
   {
-    "ean": "7791337010413",
-    "nombre": "yogur ls.clas.firme ent.fru120",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 719.0,
-    "precio_hoy": 1332.0,
-    "diff_abs": 613.0,
-    "diff_pct": 85.26
+    "ean": "7791728244496",
+    "nombre": "vino santa julia x750ml.cab.fr",
+    "categoria": "Bebidas",
+    "precio_antes": 6059.0,
+    "precio_hoy": 6115.0,
+    "diff_abs": 56.0,
+    "diff_pct": 0.92
   },
   {
-    "ean": "7791337605442",
-    "nombre": "yogur entero batido la serenisima x 120 gr. durazo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 719.0,
-    "precio_hoy": 1332.0,
-    "diff_abs": 613.0,
-    "diff_pct": 85.26
+    "ean": "7791728247749",
+    "nombre": "vino santa julia x750ml.tempra",
+    "categoria": "Bebidas",
+    "precio_antes": 6059.0,
+    "precio_hoy": 6115.0,
+    "diff_abs": 56.0,
+    "diff_pct": 0.92
   },
   {
-    "ean": "7791337605428",
-    "nombre": "yogur entero la serenisima cremoso x 120 gr. fruti",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 719.0,
-    "precio_hoy": 1332.0,
-    "diff_abs": 613.0,
-    "diff_pct": 85.26
+    "ean": "7791728248708",
+    "nombre": "aceite de oliva  zuelo x 950 ml lata original",
+    "categoria": "Almacen",
+    "precio_antes": 33106.0,
+    "precio_hoy": 33410.0,
+    "diff_abs": 304.0,
+    "diff_pct": 0.92
   },
   {
-    "ean": "7791337010314",
-    "nombre": "yogur la serenisima descremado batido x 120 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 719.0,
-    "precio_hoy": 1332.0,
-    "diff_abs": 613.0,
-    "diff_pct": 85.26
+    "ean": "7791728244052",
+    "nombre": "vino santa julia x750ml.viogni",
+    "categoria": "Bebidas",
+    "precio_antes": 6059.0,
+    "precio_hoy": 6115.0,
+    "diff_abs": 56.0,
+    "diff_pct": 0.92
   }
 ]

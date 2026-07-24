@@ -1,147 +1,147 @@
 {
-  "fecha": "20260723",
-  "total_productos": 6188,
-  "variacion_dia": 1.52,
-  "variacion_7d": 1.72,
-  "variacion_mes": 4.38,
+  "fecha": "20260724",
+  "total_productos": 6332,
+  "variacion_dia": -0.53,
+  "variacion_7d": 0.38,
+  "variacion_mes": 3.7,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 2.18,
-      "productos_subieron": 255,
-      "productos_bajaron": 5,
-      "total_productos": 1391
+      "variacion_pct_promedio": -0.5,
+      "productos_subieron": 15,
+      "productos_bajaron": 31,
+      "total_productos": 1401
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 2.56,
-      "productos_subieron": 131,
-      "productos_bajaron": 83,
-      "total_productos": 1117
+      "variacion_pct_promedio": -1.32,
+      "productos_subieron": 9,
+      "productos_bajaron": 69,
+      "total_productos": 1115
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 3.47,
-      "productos_subieron": 84,
-      "productos_bajaron": 13,
-      "total_productos": 227
+      "variacion_pct_promedio": -3.75,
+      "productos_subieron": 0,
+      "productos_bajaron": 65,
+      "total_productos": 229
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.06,
-      "productos_subieron": 6,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 877
+      "total_productos": 887
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.8,
-      "productos_subieron": 40,
-      "productos_bajaron": 9,
-      "total_productos": 826
+      "variacion_pct_promedio": -0.1,
+      "productos_subieron": 0,
+      "productos_bajaron": 8,
+      "total_productos": 830
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 1.15,
-      "productos_subieron": 134,
-      "productos_bajaron": 6,
-      "total_productos": 1686
+      "variacion_pct_promedio": -0.08,
+      "productos_subieron": 14,
+      "productos_bajaron": 38,
+      "total_productos": 1696
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2021020000007",
-      "nombre": "hinojo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -4000.0,
-      "diff_pct": -57.22
+      "ean": "7791337010376",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2308.0,
+      "diff_pct": -51.21
     },
     {
-      "ean": "2020160000007",
-      "nombre": "brocoli x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 12990.0,
-      "precio_hoy": 6990.0,
-      "diff_abs": -6000.0,
-      "diff_pct": -46.19
+      "ean": "7791337010475",
+      "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2308.0,
+      "diff_pct": -51.21
     },
     {
-      "ean": "2021780000002",
-      "nombre": "perejil x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 9990.0,
-      "precio_hoy": 5990.0,
-      "diff_abs": -4000.0,
-      "diff_pct": -40.04
+      "ean": "7791337010215",
+      "nombre": "yogur ls.clas.ent.sh x900g.fru",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2308.0,
+      "diff_pct": -51.21
     },
     {
-      "ean": "7790079025655",
-      "nombre": "pizzeta paladini x 190 gm mozarella",
-      "categoria": "Congelados",
-      "precio_antes": 5923.0,
-      "precio_hoy": 4042.0,
-      "diff_abs": -1881.0,
-      "diff_pct": -31.76
+      "ean": "7791337010369",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2308.0,
+      "diff_pct": -51.21
     },
     {
-      "ean": "7790079025648",
-      "nombre": "pizzeta paladini x 205 gm mozarella y jamon",
-      "categoria": "Congelados",
-      "precio_antes": 6224.0,
-      "precio_hoy": 4248.0,
-      "diff_abs": -1976.0,
-      "diff_pct": -31.75
+      "ean": "7791337010468",
+      "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2308.0,
+      "diff_pct": -51.21
     },
     {
-      "ean": "2022420000000",
-      "nombre": "frutillas en bandeja chica",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3490.0,
-      "diff_abs": -1500.0,
-      "diff_pct": -30.06
+      "ean": "7793147570262",
+      "nombre": "cerveza miller x 600 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 5720.0,
+      "precio_hoy": 2859.0,
+      "diff_abs": -2861.0,
+      "diff_pct": -50.02
     },
     {
-      "ean": "7797906054956",
-      "nombre": "papas congeladas mc cain smiles x 700 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 13481.0,
-      "precio_hoy": 9439.0,
-      "diff_abs": -4042.0,
-      "diff_pct": -29.98
+      "ean": "7791337007796",
+      "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 7960.0,
+      "precio_hoy": 4009.0,
+      "diff_abs": -3951.0,
+      "diff_pct": -49.64
     },
     {
-      "ean": "7797906054925",
-      "nombre": "papas noisette mc cain horneables x 600 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 10700.0,
-      "precio_hoy": 7499.0,
-      "diff_abs": -3201.0,
-      "diff_pct": -29.92
+      "ean": "7791337007253",
+      "nombre": "leche chocolatada cindor x 1 lt.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 7960.0,
+      "precio_hoy": 4009.0,
+      "diff_abs": -3951.0,
+      "diff_pct": -49.64
     },
     {
-      "ean": "2021650000002",
-      "nombre": "zapallito largo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -25.06
+      "ean": "7791337007260",
+      "nombre": "leche chocolatada cindor x 200 ml.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2863.0,
+      "precio_hoy": 1609.0,
+      "diff_abs": -1254.0,
+      "diff_pct": -43.8
     },
     {
-      "ean": "2020570000000",
-      "nombre": "coliflor x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 7990.0,
-      "precio_hoy": 5990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -25.03
+      "ean": "7791337605428",
+      "nombre": "yogur entero la serenisima cremoso x 120 gr. fruti",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1332.0,
+      "precio_hoy": 749.0,
+      "diff_abs": -583.0,
+      "diff_pct": -43.77
     }
   ],
-  "productos_subieron_dia": 650,
-  "productos_bajaron_dia": 116,
-  "productos_sin_cambio_dia": 5358
+  "productos_subieron_dia": 38,
+  "productos_bajaron_dia": 211,
+  "productos_sin_cambio_dia": 5909
 }
