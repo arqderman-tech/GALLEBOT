@@ -1,147 +1,147 @@
 {
-  "fecha": "20260724",
-  "total_productos": 6332,
-  "variacion_dia": -0.53,
-  "variacion_7d": 0.38,
-  "variacion_mes": 3.7,
+  "fecha": "20260725",
+  "total_productos": 6367,
+  "variacion_dia": -0.0,
+  "variacion_7d": 0.82,
+  "variacion_mes": 3.46,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.5,
-      "productos_subieron": 15,
-      "productos_bajaron": 31,
-      "total_productos": 1401
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1428
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -1.32,
-      "productos_subieron": 9,
-      "productos_bajaron": 69,
-      "total_productos": 1115
+      "variacion_pct_promedio": -0.09,
+      "productos_subieron": 4,
+      "productos_bajaron": 9,
+      "total_productos": 1112
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -3.75,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 65,
-      "total_productos": 229
+      "productos_bajaron": 0,
+      "total_productos": 230
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 887
+      "total_productos": 891
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.1,
-      "productos_subieron": 0,
-      "productos_bajaron": 8,
-      "total_productos": 830
+      "variacion_pct_promedio": 0.06,
+      "productos_subieron": 4,
+      "productos_bajaron": 1,
+      "total_productos": 855
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.08,
-      "productos_subieron": 14,
-      "productos_bajaron": 38,
-      "total_productos": 1696
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 13,
+      "productos_bajaron": 1,
+      "total_productos": 1789
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7791337010376",
-      "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2308.0,
-      "diff_pct": -51.21
+      "ean": "2020570000000",
+      "nombre": "coliflor x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 4990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -28.61
     },
     {
-      "ean": "7791337010475",
-      "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2308.0,
-      "diff_pct": -51.21
+      "ean": "2020160000007",
+      "nombre": "brocoli x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 4990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -28.61
     },
     {
-      "ean": "7791337010215",
-      "nombre": "yogur ls.clas.ent.sh x900g.fru",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2308.0,
-      "diff_pct": -51.21
+      "ean": "2020350000008",
+      "nombre": "chaucha ballina x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 8990.0,
+      "precio_hoy": 6990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -22.25
     },
     {
-      "ean": "7791337010369",
-      "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2308.0,
-      "diff_pct": -51.21
+      "ean": "2020370000002",
+      "nombre": "chaucha rolliza x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 9990.0,
+      "precio_hoy": 7990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -20.02
     },
     {
-      "ean": "7791337010468",
-      "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2308.0,
-      "diff_pct": -51.21
+      "ean": "2019910000008",
+      "nombre": "ajies x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 9990.0,
+      "precio_hoy": 7990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -20.02
     },
     {
-      "ean": "7793147570262",
-      "nombre": "cerveza miller x 600 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 5720.0,
-      "precio_hoy": 2859.0,
-      "diff_abs": -2861.0,
-      "diff_pct": -50.02
+      "ean": "2021660000009",
+      "nombre": "zapallito redondo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2990.0,
+      "precio_hoy": 2490.0,
+      "diff_abs": -500.0,
+      "diff_pct": -16.72
     },
     {
-      "ean": "7791337007796",
-      "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 7960.0,
-      "precio_hoy": 4009.0,
-      "diff_abs": -3951.0,
-      "diff_pct": -49.64
+      "ean": "2022210000005",
+      "nombre": "tomate perita x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 5990.0,
+      "precio_hoy": 4990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -16.69
     },
     {
-      "ean": "7791337007253",
-      "nombre": "leche chocolatada cindor x 1 lt.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 7960.0,
-      "precio_hoy": 4009.0,
-      "diff_abs": -3951.0,
-      "diff_pct": -49.64
+      "ean": "2020910000004",
+      "nombre": "lechuga de hoja x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 5990.0,
+      "precio_hoy": 4990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -16.69
     },
     {
-      "ean": "7791337007260",
-      "nombre": "leche chocolatada cindor x 200 ml.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2863.0,
-      "precio_hoy": 1609.0,
-      "diff_abs": -1254.0,
-      "diff_pct": -43.8
+      "ean": "2020960000009",
+      "nombre": "lechuga repollada x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 7990.0,
+      "precio_hoy": 6990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -12.52
     },
     {
-      "ean": "7791337605428",
-      "nombre": "yogur entero la serenisima cremoso x 120 gr. fruti",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1332.0,
-      "precio_hoy": 749.0,
-      "diff_abs": -583.0,
-      "diff_pct": -43.77
+      "ean": "7798130190052",
+      "nombre": "pistachos con cascara zyma x 150 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 13293.0,
+      "precio_hoy": 12011.0,
+      "diff_abs": -1282.0,
+      "diff_pct": -9.64
     }
   ],
-  "productos_subieron_dia": 38,
-  "productos_bajaron_dia": 211,
-  "productos_sin_cambio_dia": 5909
+  "productos_subieron_dia": 21,
+  "productos_bajaron_dia": 11,
+  "productos_sin_cambio_dia": 6273
 }

@@ -1,34 +1,25 @@
 [
   {
-    "ean": "7790380023418",
-    "nombre": "cacao toddy x360gr.extrem",
-    "categoria": "Almacen",
-    "precio_antes": 2749.0,
-    "precio_hoy": 4177.0,
-    "diff_abs": 1428.0,
-    "diff_pct": 51.95
-  },
-  {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
+    "ean": "2021840000003",
+    "nombre": "pimiento verde x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 50.25
+    "precio_antes": 5990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 33.39
   },
   {
-    "ean": "7798130192230",
-    "nombre": "mix frutos secos sin pasas zyma x 150 gm",
-    "categoria": "Almacen",
-    "precio_antes": 4699.0,
-    "precio_hoy": 6071.0,
-    "diff_abs": 1372.0,
-    "diff_pct": 29.2
+    "ean": "7792280002906",
+    "nombre": "yerba cachamate seleccion x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1619.0,
+    "precio_hoy": 2158.0,
+    "diff_abs": 539.0,
+    "diff_pct": 33.29
   },
   {
-    "ean": "2022040000008",
-    "nombre": "repollo blanco x kg.",
+    "ean": "2019950000006",
+    "nombre": "akusay x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 1990.0,
     "precio_hoy": 2490.0,
@@ -36,53 +27,26 @@
     "diff_pct": 25.13
   },
   {
-    "ean": "2022060000002",
-    "nombre": "repollo colorado x kg.",
+    "ean": "7622202218729",
+    "nombre": "gall.duquesa x345gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4161.0,
+    "precio_hoy": 4888.0,
+    "diff_abs": 727.0,
+    "diff_pct": 17.47
+  },
+  {
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2790.0,
+    "precio_antes": 2990.0,
     "precio_hoy": 3490.0,
-    "diff_abs": 700.0,
-    "diff_pct": 25.09
-  },
-  {
-    "ean": "2020120000009",
-    "nombre": "berengena negra x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
-  },
-  {
-    "ean": "2020570000000",
-    "nombre": "coliflor x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
+    "diff_abs": 500.0,
+    "diff_pct": 16.72
   },
   {
     "ean": "2021790000009",
     "nombre": "pimiento amarillo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 8990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 12.52
-  },
-  {
-    "ean": "2020350000008",
-    "nombre": "chaucha ballina x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 8990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 12.52
-  },
-  {
-    "ean": "2020370000002",
-    "nombre": "chaucha rolliza x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 8990.0,
     "precio_hoy": 9990.0,
@@ -90,93 +54,129 @@
     "diff_pct": 11.12
   },
   {
-    "ean": "2020270000003",
-    "nombre": "cebolla x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2590.0,
-    "precio_hoy": 2790.0,
-    "diff_abs": 200.0,
-    "diff_pct": 7.72
-  },
-  {
-    "ean": "7791728249385",
-    "nombre": "vino santa julia x 269 ml dulce",
-    "categoria": "Bebidas",
-    "precio_antes": 3273.0,
-    "precio_hoy": 3304.0,
-    "diff_abs": 31.0,
-    "diff_pct": 0.95
-  },
-  {
-    "ean": "7791728248265",
-    "nombre": "vino santa julia x 750 ml. tinto dulce",
-    "categoria": "Bebidas",
-    "precio_antes": 7133.0,
-    "precio_hoy": 7200.0,
-    "diff_abs": 67.0,
-    "diff_pct": 0.94
-  },
-  {
-    "ean": "7791728247091",
-    "nombre": "vino blanco santa julia x 750 ml. chardonnay dulce",
-    "categoria": "Bebidas",
-    "precio_antes": 7133.0,
-    "precio_hoy": 7200.0,
-    "diff_abs": 67.0,
-    "diff_pct": 0.94
-  },
-  {
-    "ean": "7791728247794",
-    "nombre": "vino santa julia x 750 ml malbec cabernet sauvignon",
-    "categoria": "Bebidas",
-    "precio_antes": 6058.54,
-    "precio_hoy": 6115.0,
-    "diff_abs": 56.46,
-    "diff_pct": 0.93
-  },
-  {
-    "ean": "7791728233490",
-    "nombre": "vino santa julia la seleccion malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 6694.0,
-    "precio_hoy": 6756.0,
-    "diff_abs": 62.0,
-    "diff_pct": 0.93
-  },
-  {
-    "ean": "7791728244496",
-    "nombre": "vino santa julia x750ml.cab.fr",
-    "categoria": "Bebidas",
-    "precio_antes": 6059.0,
-    "precio_hoy": 6115.0,
-    "diff_abs": 56.0,
-    "diff_pct": 0.92
-  },
-  {
-    "ean": "7791728247749",
-    "nombre": "vino santa julia x750ml.tempra",
-    "categoria": "Bebidas",
-    "precio_antes": 6059.0,
-    "precio_hoy": 6115.0,
-    "diff_abs": 56.0,
-    "diff_pct": 0.92
-  },
-  {
-    "ean": "7791728248708",
-    "nombre": "aceite de oliva  zuelo x 950 ml lata original",
+    "ean": "7790748266457",
+    "nombre": "atun entero en aceite puglisi x 170 gr. sin sal",
     "categoria": "Almacen",
-    "precio_antes": 33106.0,
-    "precio_hoy": 33410.0,
-    "diff_abs": 304.0,
-    "diff_pct": 0.92
+    "precio_antes": 4132.0,
+    "precio_hoy": 4438.0,
+    "diff_abs": 306.0,
+    "diff_pct": 7.41
   },
   {
-    "ean": "7791728244052",
-    "nombre": "vino santa julia x750ml.viogni",
-    "categoria": "Bebidas",
-    "precio_antes": 6059.0,
-    "precio_hoy": 6115.0,
-    "diff_abs": 56.0,
-    "diff_pct": 0.92
+    "ean": "7790748235347",
+    "nombre": "filet de anchoas en aceite puglisi x 90 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 8485.0,
+    "precio_hoy": 9102.0,
+    "diff_abs": 617.0,
+    "diff_pct": 7.27
+  },
+  {
+    "ean": "7790748235354",
+    "nombre": "filet de anchoas en aceite puglisi x 170 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 16199.0,
+    "precio_hoy": 17279.0,
+    "diff_abs": 1080.0,
+    "diff_pct": 6.67
+  },
+  {
+    "ean": "7790748235118",
+    "nombre": "calamares en aceite puglisi x 180 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 7096.0,
+    "precio_hoy": 7559.0,
+    "diff_abs": 463.0,
+    "diff_pct": 6.52
+  },
+  {
+    "ean": "7790748266471",
+    "nombre": "cazuela de calamares puglisi x 170 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 7406.0,
+    "precio_hoy": 7869.0,
+    "diff_abs": 463.0,
+    "diff_pct": 6.25
+  },
+  {
+    "ean": "7790748235187",
+    "nombre": "merluza al natural puglisi x 380 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4011.0,
+    "precio_hoy": 4227.0,
+    "diff_abs": 216.0,
+    "diff_pct": 5.39
+  },
+  {
+    "ean": "7790748235149",
+    "nombre": "merluza en aceite puglisi x 380 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4011.0,
+    "precio_hoy": 4227.0,
+    "diff_abs": 216.0,
+    "diff_pct": 5.39
+  },
+  {
+    "ean": "7791696011083",
+    "nombre": "galletas deubel semillas x 150 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2889.0,
+    "precio_hoy": 2962.0,
+    "diff_abs": 73.0,
+    "diff_pct": 2.53
+  },
+  {
+    "ean": "7791696001121",
+    "nombre": "alfajor santafesino deubel triple x 12 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 12926.0,
+    "precio_hoy": 13249.0,
+    "diff_abs": 323.0,
+    "diff_pct": 2.5
+  },
+  {
+    "ean": "7791696008014",
+    "nombre": "palmeritas deubel manteca x 200 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 5381.0,
+    "precio_hoy": 5515.0,
+    "diff_abs": 134.0,
+    "diff_pct": 2.49
+  },
+  {
+    "ean": "7798190650152",
+    "nombre": "fideos mulini x 500 gm spaghetti",
+    "categoria": "Almacen",
+    "precio_antes": 1710.0,
+    "precio_hoy": 1728.0,
+    "diff_abs": 18.0,
+    "diff_pct": 1.05
+  },
+  {
+    "ean": "7798190650015",
+    "nombre": "fideos mulini x 500 gm route",
+    "categoria": "Almacen",
+    "precio_antes": 1710.0,
+    "precio_hoy": 1728.0,
+    "diff_abs": 18.0,
+    "diff_pct": 1.05
+  },
+  {
+    "ean": "7798190650039",
+    "nombre": "fideos mulini x 500 gm penne rigate",
+    "categoria": "Almacen",
+    "precio_antes": 1710.0,
+    "precio_hoy": 1728.0,
+    "diff_abs": 18.0,
+    "diff_pct": 1.05
+  },
+  {
+    "ean": "7798190650022",
+    "nombre": "fideos mulini x 500 gm fusilli",
+    "categoria": "Almacen",
+    "precio_antes": 1710.0,
+    "precio_hoy": 1728.0,
+    "diff_abs": 18.0,
+    "diff_pct": 1.05
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2209.0,
     "precio_hoy": 5332.0,
@@ -9,8 +9,8 @@
     "diff_pct": 141.38
   },
   {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2209.0,
     "precio_hoy": 5332.0,
@@ -36,8 +36,8 @@
     "diff_pct": 84.02
   },
   {
-    "ean": "7791337061507",
-    "nombre": "queso untable cremoso casancrem balance x 500 gr.",
+    "ean": "7791337061491",
+    "nombre": "queso casancrem x 500gr clasico",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 5339.0,
     "precio_hoy": 9325.0,
@@ -45,8 +45,8 @@
     "diff_pct": 74.66
   },
   {
-    "ean": "7791337061491",
-    "nombre": "queso casancrem x 500gr clasico",
+    "ean": "7791337061507",
+    "nombre": "queso untable cremoso casancrem balance x 500 gr.",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 5339.0,
     "precio_hoy": 9325.0,
@@ -63,8 +63,8 @@
     "diff_pct": 66.67
   },
   {
-    "ean": "7791337009998",
-    "nombre": "yogur yogurisimo griego x 190 gr natural sin end",
+    "ean": "7791337009981",
+    "nombre": "yogur yogurisimo griego x 190 gr natural endulzado",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2079.0,
     "precio_hoy": 3353.0,
@@ -72,8 +72,8 @@
     "diff_pct": 61.28
   },
   {
-    "ean": "7791337009981",
-    "nombre": "yogur yogurisimo griego x 190 gr natural endulzado",
+    "ean": "7791337009998",
+    "nombre": "yogur yogurisimo griego x 190 gr natural sin end",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2079.0,
     "precio_hoy": 3353.0,
@@ -117,13 +117,13 @@
     "diff_pct": 49.3
   },
   {
-    "ean": "7622201492465",
-    "nombre": "tabl.milka x45gr.choc.pau.oreo",
-    "categoria": "Almacen",
-    "precio_antes": 1969.0,
-    "precio_hoy": 2813.0,
-    "diff_abs": 844.0,
-    "diff_pct": 42.86
+    "ean": "7622202218729",
+    "nombre": "gall.duquesa x345gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3329.0,
+    "precio_hoy": 4888.0,
+    "diff_abs": 1559.0,
+    "diff_pct": 46.83
   },
   {
     "ean": "7622201492717",
@@ -135,8 +135,17 @@
     "diff_pct": 42.86
   },
   {
-    "ean": "7622210788207",
-    "nombre": "obleas milka bis x 105 gr.",
+    "ean": "7622201492465",
+    "nombre": "tabl.milka x45gr.choc.pau.oreo",
+    "categoria": "Almacen",
+    "precio_antes": 1969.0,
+    "precio_hoy": 2813.0,
+    "diff_abs": 844.0,
+    "diff_pct": 42.86
+  },
+  {
+    "ean": "7622210719829",
+    "nombre": "oblea milka bis oreo x 105 gr.",
     "categoria": "Almacen",
     "precio_antes": 3439.0,
     "precio_hoy": 4910.0,
@@ -144,8 +153,8 @@
     "diff_pct": 42.77
   },
   {
-    "ean": "7622210719829",
-    "nombre": "oblea milka bis oreo x 105 gr.",
+    "ean": "7622210788207",
+    "nombre": "obleas milka bis x 105 gr.",
     "categoria": "Almacen",
     "precio_antes": 3439.0,
     "precio_hoy": 4910.0,
@@ -169,14 +178,5 @@
     "precio_hoy": 6177.0,
     "diff_abs": 1848.0,
     "diff_pct": 42.69
-  },
-  {
-    "ean": "7622202839962",
-    "nombre": "gall.variedad x390gr.mix",
-    "categoria": "Perfumeria",
-    "precio_antes": 2789.0,
-    "precio_hoy": 3979.0,
-    "diff_abs": 1190.0,
-    "diff_pct": 42.67
   }
 ]
