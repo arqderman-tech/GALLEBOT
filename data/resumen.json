@@ -1,9 +1,9 @@
 {
-  "fecha": "20260725",
-  "total_productos": 6367,
-  "variacion_dia": -0.0,
+  "fecha": "20260726",
+  "total_productos": 6370,
+  "variacion_dia": 0.0,
   "variacion_7d": 0.82,
-  "variacion_mes": 3.46,
+  "variacion_mes": 3.47,
   "variacion_anio": null,
   "categorias_dia": [
     {
@@ -11,137 +11,137 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1428
+      "total_productos": 1430
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.09,
-      "productos_subieron": 4,
-      "productos_bajaron": 9,
-      "total_productos": 1112
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1132
     },
     {
       "categoria": "Congelados",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 230
+      "total_productos": 231
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 891
+      "total_productos": 892
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.06,
-      "productos_subieron": 4,
-      "productos_bajaron": 1,
-      "total_productos": 855
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 863
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 13,
-      "productos_bajaron": 1,
-      "total_productos": 1789
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1810
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2020570000000",
-      "nombre": "coliflor x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -28.61
-    },
-    {
-      "ean": "2020160000007",
-      "nombre": "brocoli x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -28.61
-    },
-    {
-      "ean": "2020350000008",
-      "nombre": "chaucha ballina x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 8990.0,
-      "precio_hoy": 6990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -22.25
-    },
-    {
-      "ean": "2020370000002",
-      "nombre": "chaucha rolliza x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 9990.0,
-      "precio_hoy": 7990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -20.02
-    },
-    {
-      "ean": "2019910000008",
-      "nombre": "ajies x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 9990.0,
-      "precio_hoy": 7990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -20.02
-    },
-    {
-      "ean": "2021660000009",
-      "nombre": "zapallito redondo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 2490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -16.72
-    },
-    {
-      "ean": "2022210000005",
-      "nombre": "tomate perita x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -16.69
-    },
-    {
-      "ean": "2020910000004",
-      "nombre": "lechuga de hoja x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -16.69
-    },
-    {
-      "ean": "2020960000009",
-      "nombre": "lechuga repollada x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 7990.0,
-      "precio_hoy": 6990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -12.52
-    },
-    {
-      "ean": "7798130190052",
-      "nombre": "pistachos con cascara zyma x 150 gr.",
+      "ean": "7790310985830",
+      "nombre": "3ds queso x 85 gr.",
       "categoria": "Almacen",
-      "precio_antes": 13293.0,
-      "precio_hoy": 12011.0,
-      "diff_abs": -1282.0,
-      "diff_pct": -9.64
+      "precio_antes": 3649.0,
+      "precio_hoy": 3649.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790310985137",
+      "nombre": "3ds queso x143gr.",
+      "categoria": "Almacen",
+      "precio_antes": 5118.0,
+      "precio_hoy": 5118.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790310985113",
+      "nombre": "3ds sabor queso x 43 gm",
+      "categoria": "Almacen",
+      "precio_antes": 2271.0,
+      "precio_hoy": 2271.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7791728246629",
+      "nombre": "ac. de oliva zuccardi x 500 ml coratina",
+      "categoria": "Almacen",
+      "precio_antes": 24484.0,
+      "precio_hoy": 24484.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "763571722428",
+      "nombre": "ac.de coco entrenuts x200virg.",
+      "categoria": "Almacen",
+      "precio_antes": 9649.0,
+      "precio_hoy": 9649.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798080520657",
+      "nombre": "ac.ol.l.toscana x250ml.ajo",
+      "categoria": "Almacen",
+      "precio_antes": 9903.0,
+      "precio_hoy": 9903.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798080520534",
+      "nombre": "ac.ol.l.toscana x250ml.albahac",
+      "categoria": "Almacen",
+      "precio_antes": 9903.0,
+      "precio_hoy": 9903.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7791728246612",
+      "nombre": "ac.ol.zuccardi x250ml.coratina",
+      "categoria": "Almacen",
+      "precio_antes": 14282.0,
+      "precio_hoy": 14282.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7791728246575",
+      "nombre": "ac.ol.zuccardi x250ml.picual",
+      "categoria": "Almacen",
+      "precio_antes": 14282.0,
+      "precio_hoy": 14282.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7791728241181",
+      "nombre": "ac.ol.zuelo x500ml.bot.intenso",
+      "categoria": "Almacen",
+      "precio_antes": 19077.0,
+      "precio_hoy": 19077.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 21,
-  "productos_bajaron_dia": 11,
-  "productos_sin_cambio_dia": 6273
+  "productos_subieron_dia": 0,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 6358
 }

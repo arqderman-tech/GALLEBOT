@@ -54,26 +54,8 @@
     "diff_pct": 100.2
   },
   {
-    "ean": "7790150533109",
-    "nombre": "mix alicante parrillero x 25 gm chimichurri ahumado",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
-    "ean": "7790150533307",
-    "nombre": "mix alicante parrillero barbacoa x 25 gm",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
-    "ean": "7790150533208",
-    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
+    "ean": "7790150533154",
+    "nombre": "mis alicante parrillero vegetales x 25 gm",
     "categoria": "Almacen",
     "precio_antes": 769.0,
     "precio_hoy": 1535.0,
@@ -90,8 +72,26 @@
     "diff_pct": 99.61
   },
   {
-    "ean": "7790150533154",
-    "nombre": "mis alicante parrillero vegetales x 25 gm",
+    "ean": "7790150533109",
+    "nombre": "mix alicante parrillero x 25 gm chimichurri ahumado",
+    "categoria": "Almacen",
+    "precio_antes": 769.0,
+    "precio_hoy": 1535.0,
+    "diff_abs": 766.0,
+    "diff_pct": 99.61
+  },
+  {
+    "ean": "7790150533208",
+    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
+    "categoria": "Almacen",
+    "precio_antes": 769.0,
+    "precio_hoy": 1535.0,
+    "diff_abs": 766.0,
+    "diff_pct": 99.61
+  },
+  {
+    "ean": "7790150533307",
+    "nombre": "mix alicante parrillero barbacoa x 25 gm",
     "categoria": "Almacen",
     "precio_antes": 769.0,
     "precio_hoy": 1535.0,
@@ -117,8 +117,8 @@
     "diff_pct": 98.02
   },
   {
-    "ean": "7791337061491",
-    "nombre": "queso casancrem x 500gr clasico",
+    "ean": "7791337061507",
+    "nombre": "queso untable cremoso casancrem balance x 500 gr.",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 5009.0,
     "precio_hoy": 9325.0,
@@ -126,8 +126,8 @@
     "diff_pct": 86.16
   },
   {
-    "ean": "7791337061507",
-    "nombre": "queso untable cremoso casancrem balance x 500 gr.",
+    "ean": "7791337061491",
+    "nombre": "queso casancrem x 500gr clasico",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 5009.0,
     "precio_hoy": 9325.0,
