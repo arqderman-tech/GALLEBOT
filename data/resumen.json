@@ -1,9 +1,9 @@
 {
-  "fecha": "20260726",
-  "total_productos": 6370,
+  "fecha": "20260727",
+  "total_productos": 6354,
   "variacion_dia": 0.0,
-  "variacion_7d": 0.82,
-  "variacion_mes": 3.47,
+  "variacion_7d": 0.83,
+  "variacion_mes": 3.48,
   "variacion_anio": null,
   "categorias_dia": [
     {
@@ -11,21 +11,21 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1430
+      "total_productos": 1432
     },
     {
       "categoria": "Frescos",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1132
+      "total_productos": 1125
     },
     {
       "categoria": "Congelados",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 231
+      "total_productos": 230
     },
     {
       "categoria": "Limpieza",
@@ -39,14 +39,14 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 863
+      "total_productos": 864
     },
     {
       "categoria": "Almacen",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1810
+      "total_productos": 1806
     }
   ],
   "ranking_baja_dia": [
@@ -143,5 +143,5 @@
   ],
   "productos_subieron_dia": 0,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 6358
+  "productos_sin_cambio_dia": 6349
 }

@@ -36,8 +36,8 @@
     "diff_pct": 84.02
   },
   {
-    "ean": "7791337061491",
-    "nombre": "queso casancrem x 500gr clasico",
+    "ean": "7791337061507",
+    "nombre": "queso untable cremoso casancrem balance x 500 gr.",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 5339.0,
     "precio_hoy": 9325.0,
@@ -45,8 +45,8 @@
     "diff_pct": 74.66
   },
   {
-    "ean": "7791337061507",
-    "nombre": "queso untable cremoso casancrem balance x 500 gr.",
+    "ean": "7791337061491",
+    "nombre": "queso casancrem x 500gr clasico",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 5339.0,
     "precio_hoy": 9325.0,
@@ -63,8 +63,8 @@
     "diff_pct": 66.67
   },
   {
-    "ean": "7791337009998",
-    "nombre": "yogur yogurisimo griego x 190 gr natural sin end",
+    "ean": "7791337009981",
+    "nombre": "yogur yogurisimo griego x 190 gr natural endulzado",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2079.0,
     "precio_hoy": 3353.0,
@@ -72,8 +72,8 @@
     "diff_pct": 61.28
   },
   {
-    "ean": "7791337009981",
-    "nombre": "yogur yogurisimo griego x 190 gr natural endulzado",
+    "ean": "7791337009998",
+    "nombre": "yogur yogurisimo griego x 190 gr natural sin end",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2079.0,
     "precio_hoy": 3353.0,
@@ -126,8 +126,8 @@
     "diff_pct": 46.83
   },
   {
-    "ean": "7622201492465",
-    "nombre": "tabl.milka x45gr.choc.pau.oreo",
+    "ean": "7622201492717",
+    "nombre": "tabl.milka x45gr.choco pause",
     "categoria": "Almacen",
     "precio_antes": 1969.0,
     "precio_hoy": 2813.0,
@@ -135,8 +135,8 @@
     "diff_pct": 42.86
   },
   {
-    "ean": "7622201492717",
-    "nombre": "tabl.milka x45gr.choco pause",
+    "ean": "7622201492465",
+    "nombre": "tabl.milka x45gr.choc.pau.oreo",
     "categoria": "Almacen",
     "precio_antes": 1969.0,
     "precio_hoy": 2813.0,

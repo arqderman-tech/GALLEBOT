@@ -27,8 +27,8 @@
     "diff_pct": 151.26
   },
   {
-    "ean": "7622201704148",
-    "nombre": "jugo en polvo clight mandarina x 8 gr.",
+    "ean": "7622202359927",
+    "nombre": "jugo cligh pomelada hibiscus x 8 gm",
     "categoria": "Bebidas",
     "precio_antes": 349.0,
     "precio_hoy": 703.0,
@@ -36,8 +36,8 @@
     "diff_pct": 101.43
   },
   {
-    "ean": "7622202359927",
-    "nombre": "jugo cligh pomelada hibiscus x 8 gm",
+    "ean": "7622201704148",
+    "nombre": "jugo en polvo clight mandarina x 8 gr.",
     "categoria": "Bebidas",
     "precio_antes": 349.0,
     "precio_hoy": 703.0,
@@ -54,17 +54,8 @@
     "diff_pct": 100.2
   },
   {
-    "ean": "7790150533154",
-    "nombre": "mis alicante parrillero vegetales x 25 gm",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
-    "ean": "7790150533000",
-    "nombre": "mix alicante parrilla x 25 gr hamburguesas",
+    "ean": "7790150533208",
+    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
     "categoria": "Almacen",
     "precio_antes": 769.0,
     "precio_hoy": 1535.0,
@@ -81,8 +72,17 @@
     "diff_pct": 99.61
   },
   {
-    "ean": "7790150533208",
-    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
+    "ean": "7790150533154",
+    "nombre": "mis alicante parrillero vegetales x 25 gm",
+    "categoria": "Almacen",
+    "precio_antes": 769.0,
+    "precio_hoy": 1535.0,
+    "diff_abs": 766.0,
+    "diff_pct": 99.61
+  },
+  {
+    "ean": "7790150533000",
+    "nombre": "mix alicante parrilla x 25 gr hamburguesas",
     "categoria": "Almacen",
     "precio_antes": 769.0,
     "precio_hoy": 1535.0,
