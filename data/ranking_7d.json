@@ -1,7 +1,16 @@
 [
   {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "ean": "6934097722245",
+    "nombre": "super pegamento cyanocrilato",
+    "categoria": "Limpieza",
+    "precio_antes": 967.0,
+    "precio_hoy": 8290.0,
+    "diff_abs": 7323.0,
+    "diff_pct": 757.29
+  },
+  {
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2209.0,
     "precio_hoy": 5332.0,
@@ -9,8 +18,8 @@
     "diff_pct": 141.38
   },
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2209.0,
     "precio_hoy": 5332.0,
@@ -36,6 +45,15 @@
     "diff_pct": 84.02
   },
   {
+    "ean": "7791337061491",
+    "nombre": "queso casancrem x 500gr clasico",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5339.0,
+    "precio_hoy": 9325.0,
+    "diff_abs": 3986.0,
+    "diff_pct": 74.66
+  },
+  {
     "ean": "7791337061507",
     "nombre": "queso untable cremoso casancrem balance x 500 gr.",
     "categoria": "Lacteos Y Frescos",
@@ -45,13 +63,13 @@
     "diff_pct": 74.66
   },
   {
-    "ean": "7791337061491",
-    "nombre": "queso casancrem x 500gr clasico",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5339.0,
-    "precio_hoy": 9325.0,
-    "diff_abs": 3986.0,
-    "diff_pct": 74.66
+    "ean": "7622300742584",
+    "nombre": "alfajor terrabusi x6 chocolate",
+    "categoria": "Almacen",
+    "precio_antes": 4999.0,
+    "precio_hoy": 8613.0,
+    "diff_abs": 3614.0,
+    "diff_pct": 72.29
   },
   {
     "ean": "7622300424084",
@@ -63,8 +81,8 @@
     "diff_pct": 66.67
   },
   {
-    "ean": "7791337009981",
-    "nombre": "yogur yogurisimo griego x 190 gr natural endulzado",
+    "ean": "7791337009998",
+    "nombre": "yogur yogurisimo griego x 190 gr natural sin end",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2079.0,
     "precio_hoy": 3353.0,
@@ -72,8 +90,8 @@
     "diff_pct": 61.28
   },
   {
-    "ean": "7791337009998",
-    "nombre": "yogur yogurisimo griego x 190 gr natural sin end",
+    "ean": "7791337009981",
+    "nombre": "yogur yogurisimo griego x 190 gr natural endulzado",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2079.0,
     "precio_hoy": 3353.0,
@@ -108,6 +126,15 @@
     "diff_pct": 51.95
   },
   {
+    "ean": "2021480000005",
+    "nombre": "papa elegida suelta x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
     "ean": "7793147572853",
     "nombre": "cerveza amstel lata x 710 ml lager",
     "categoria": "Bebidas",
@@ -126,13 +153,13 @@
     "diff_pct": 46.83
   },
   {
-    "ean": "7622201492717",
-    "nombre": "tabl.milka x45gr.choco pause",
-    "categoria": "Almacen",
-    "precio_antes": 1969.0,
-    "precio_hoy": 2813.0,
-    "diff_abs": 844.0,
-    "diff_pct": 42.86
+    "ean": "7793147570286",
+    "nombre": "cerveza santa fe x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1819.0,
+    "precio_hoy": 2615.0,
+    "diff_abs": 796.0,
+    "diff_pct": 43.76
   },
   {
     "ean": "7622201492465",
@@ -144,39 +171,12 @@
     "diff_pct": 42.86
   },
   {
-    "ean": "7622210719829",
-    "nombre": "oblea milka bis oreo x 105 gr.",
+    "ean": "7622201492717",
+    "nombre": "tabl.milka x45gr.choco pause",
     "categoria": "Almacen",
-    "precio_antes": 3439.0,
-    "precio_hoy": 4910.0,
-    "diff_abs": 1471.0,
-    "diff_pct": 42.77
-  },
-  {
-    "ean": "7622210788207",
-    "nombre": "obleas milka bis x 105 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3439.0,
-    "precio_hoy": 4910.0,
-    "diff_abs": 1471.0,
-    "diff_pct": 42.77
-  },
-  {
-    "ean": "7622201759636",
-    "nombre": "galletitas oreo original x 354 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4589.0,
-    "precio_hoy": 6551.0,
-    "diff_abs": 1962.0,
-    "diff_pct": 42.75
-  },
-  {
-    "ean": "7622201735883",
-    "nombre": "gall.pepitos x357gr.clasica",
-    "categoria": "Perfumeria",
-    "precio_antes": 4329.0,
-    "precio_hoy": 6177.0,
-    "diff_abs": 1848.0,
-    "diff_pct": 42.69
+    "precio_antes": 1969.0,
+    "precio_hoy": 2813.0,
+    "diff_abs": 844.0,
+    "diff_pct": 42.86
   }
 ]
