@@ -1,182 +1,182 @@
 [
   {
-    "ean": "6934097722245",
-    "nombre": "super pegamento cyanocrilato",
+    "ean": "656750793282",
+    "nombre": "candado 40 mm blister",
     "categoria": "Limpieza",
-    "precio_antes": 967.0,
-    "precio_hoy": 8290.0,
-    "diff_abs": 7323.0,
-    "diff_pct": 757.29
+    "precio_antes": 32.47,
+    "precio_hoy": 9558.17,
+    "diff_abs": 9525.7,
+    "diff_pct": 29336.93
   },
   {
-    "ean": "7622300742584",
-    "nombre": "alfajor terrabusi x6 chocolate",
+    "ean": "7790670050674",
+    "nombre": "hamburguesas paty x 2 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 3149.0,
+    "precio_hoy": 4802.0,
+    "diff_abs": 1653.0,
+    "diff_pct": 52.49
+  },
+  {
+    "ean": "7797906054956",
+    "nombre": "papas congeladas mc cain smiles x 700 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 9439.0,
+    "precio_hoy": 13481.0,
+    "diff_abs": 4042.0,
+    "diff_pct": 42.82
+  },
+  {
+    "ean": "7500810034347",
+    "nombre": "snack takis xplosion x 140 gr.",
     "categoria": "Almacen",
-    "precio_antes": 4999.0,
-    "precio_hoy": 8613.0,
-    "diff_abs": 3614.0,
-    "diff_pct": 72.29
+    "precio_antes": 3119.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1334.0,
+    "diff_pct": 42.77
   },
   {
-    "ean": "7622300742621",
-    "nombre": "alfajor terrabusi x6 glaseado",
+    "ean": "7500810034354",
+    "nombre": "snack takis original x 140 gr.",
     "categoria": "Almacen",
-    "precio_antes": 4999.0,
-    "precio_hoy": 7755.0,
-    "diff_abs": 2756.0,
-    "diff_pct": 55.13
+    "precio_antes": 3119.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1334.0,
+    "diff_pct": 42.77
   },
   {
-    "ean": "7799155001675",
-    "nombre": "agua mineral ser x 2.5 litros baja en sodio",
+    "ean": "7500810034330",
+    "nombre": "snack takis fuego x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3119.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1334.0,
+    "diff_pct": 42.77
+  },
+  {
+    "ean": "7797906054925",
+    "nombre": "papas noisette mc cain horneables x 600 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 7499.0,
+    "precio_hoy": 10700.0,
+    "diff_abs": 3201.0,
+    "diff_pct": 42.69
+  },
+  {
+    "ean": "7790670052418",
+    "nombre": "salchicha vienissima x 12 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4389.0,
+    "precio_hoy": 6256.0,
+    "diff_abs": 1867.0,
+    "diff_pct": 42.54
+  },
+  {
+    "ean": "7500810034460",
+    "nombre": "snack takis xplosion x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2069.0,
+    "precio_hoy": 2945.0,
+    "diff_abs": 876.0,
+    "diff_pct": 42.34
+  },
+  {
+    "ean": "7500810034477",
+    "nombre": "snack takis original x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2069.0,
+    "precio_hoy": 2945.0,
+    "diff_abs": 876.0,
+    "diff_pct": 42.34
+  },
+  {
+    "ean": "7500810034361",
+    "nombre": "snack takis fuego x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2069.0,
+    "precio_hoy": 2945.0,
+    "diff_abs": 876.0,
+    "diff_pct": 42.34
+  },
+  {
+    "ean": "7790314066436",
+    "nombre": "vino est.mend.x1.125lt.cab-mal",
     "categoria": "Bebidas",
-    "precio_antes": 2239.0,
-    "precio_hoy": 3341.0,
-    "diff_abs": 1102.0,
-    "diff_pct": 49.22
+    "precio_antes": 4359.0,
+    "precio_hoy": 6044.0,
+    "diff_abs": 1685.0,
+    "diff_pct": 38.66
   },
   {
-    "ean": "7799155001668",
-    "nombre": "agua mineral ser baja en sodio x 1.5 litros",
-    "categoria": "Bebidas",
-    "precio_antes": 1989.0,
-    "precio_hoy": 2964.0,
-    "diff_abs": 975.0,
-    "diff_pct": 49.02
+    "ean": "7792281063630",
+    "nombre": "plato plastico 21 cm granito",
+    "categoria": "Limpieza",
+    "precio_antes": 2099.27,
+    "precio_hoy": 2831.0,
+    "diff_abs": 731.73,
+    "diff_pct": 34.86
   },
   {
-    "ean": "7792798008858",
-    "nombre": "cerveza temple wolf ipa x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3479.0,
-    "precio_hoy": 4961.0,
-    "diff_abs": 1482.0,
-    "diff_pct": 42.6
+    "ean": "7792281068802",
+    "nombre": "set 12 utensillos negro",
+    "categoria": "Limpieza",
+    "precio_antes": 42448.12,
+    "precio_hoy": 57037.0,
+    "diff_abs": 14588.88,
+    "diff_pct": 34.37
   },
   {
-    "ean": "2020160000007",
-    "nombre": "brocoli x kg.",
+    "ean": "7790670050780",
+    "nombre": "hamburguesas paty clasico x 20 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 32249.0,
+    "precio_hoy": 42853.0,
+    "diff_abs": 10604.0,
+    "diff_pct": 32.88
+  },
+  {
+    "ean": "7790670050728",
+    "nombre": "hamburguesas paty x 2 unid. finitas",
+    "categoria": "Congelados",
+    "precio_antes": 2669.0,
+    "precio_hoy": 3537.0,
+    "diff_abs": 868.0,
+    "diff_pct": 32.52
+  },
+  {
+    "ean": "7790670052401",
+    "nombre": "salchicha vienissima x 6 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2469.0,
+    "precio_hoy": 3271.0,
+    "diff_abs": 802.0,
+    "diff_pct": 32.48
+  },
+  {
+    "ean": "7792281613699",
+    "nombre": "vaso plastico 420 ml granito",
+    "categoria": "Limpieza",
+    "precio_antes": 1851.46,
+    "precio_hoy": 2432.0,
+    "diff_abs": 580.54,
+    "diff_pct": 31.36
+  },
+  {
+    "ean": "6520203142177",
+    "nombre": "dispenser",
+    "categoria": "Limpieza",
+    "precio_antes": 5141.0,
+    "precio_hoy": 6612.0,
+    "diff_abs": 1471.0,
+    "diff_pct": 28.61
+  },
+  {
+    "ean": "2020270000003",
+    "nombre": "cebolla x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 40.08
-  },
-  {
-    "ean": "2020050000001",
-    "nombre": "banana ecuatoriana x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
-    "ean": "7793147118822",
-    "nombre": "cerveza budweiser lata x 473 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 1939.0,
-    "precio_hoy": 2583.0,
-    "diff_abs": 644.0,
-    "diff_pct": 33.21
-  },
-  {
-    "ean": "7792798013357",
-    "nombre": "cerv.budweiser x710ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3029.0,
-    "precio_hoy": 4033.0,
-    "diff_abs": 1004.0,
-    "diff_pct": 33.15
-  },
-  {
-    "ean": "7792798003709",
-    "nombre": "cerveza corona x 330 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3419.0,
-    "precio_hoy": 4550.0,
-    "diff_abs": 1131.0,
-    "diff_pct": 33.08
-  },
-  {
-    "ean": "7791200000626",
-    "nombre": "aperitivo cynar x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 9899.0,
-    "precio_hoy": 13168.0,
-    "diff_abs": 3269.0,
-    "diff_pct": 33.02
-  },
-  {
-    "ean": "7793147570286",
-    "nombre": "cerveza santa fe x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1999.0,
-    "precio_hoy": 2615.0,
-    "diff_abs": 616.0,
-    "diff_pct": 30.82
-  },
-  {
-    "ean": "7793147573515",
-    "nombre": "cerveza isenbeck lata x 473 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 1689.0,
-    "precio_hoy": 2205.0,
-    "diff_abs": 516.0,
-    "diff_pct": 30.55
-  },
-  {
-    "ean": "7792798013951",
-    "nombre": "cerv.quilmes 1890 lata x473ml",
-    "categoria": "Bebidas",
-    "precio_antes": 1699.0,
-    "precio_hoy": 2197.0,
-    "diff_abs": 498.0,
-    "diff_pct": 29.31
-  },
-  {
-    "ean": "7792280006140",
-    "nombre": "yerba mate cachamai x 500 gm tradicional",
-    "categoria": "Perfumeria",
-    "precio_antes": 1912.73,
-    "precio_hoy": 2468.0,
-    "diff_abs": 555.27,
-    "diff_pct": 29.03
-  },
-  {
-    "ean": "7793147001056",
-    "nombre": "cerveza budweiser x 1 lt. retornable",
-    "categoria": "Bebidas",
-    "precio_antes": 3659.0,
-    "precio_hoy": 4580.0,
-    "diff_abs": 921.0,
-    "diff_pct": 25.17
-  },
-  {
-    "ean": "2021480000005",
-    "nombre": "papa elegida suelta x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2390.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 600.0,
-    "diff_pct": 25.1
-  },
-  {
-    "ean": "7798062548679",
-    "nombre": "agua saborizada levite x 1.5 litros sabor pomelo amarilo",
-    "categoria": "Bebidas",
-    "precio_antes": 2649.0,
-    "precio_hoy": 3307.0,
-    "diff_abs": 658.0,
-    "diff_pct": 24.84
-  },
-  {
-    "ean": "7790315000910",
-    "nombre": "agua saborizada levite cero x 1,5 lt. pomelo",
-    "categoria": "Bebidas",
-    "precio_antes": 2649.0,
-    "precio_hoy": 3307.0,
-    "diff_abs": 658.0,
-    "diff_pct": 24.84
+    "precio_antes": 2790.0,
+    "precio_hoy": 3490.0,
+    "diff_abs": 700.0,
+    "diff_pct": 25.09
   }
 ]

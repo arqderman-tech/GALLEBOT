@@ -9,60 +9,6 @@
     "diff_pct": 757.29
   },
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2209.0,
-    "precio_hoy": 5332.0,
-    "diff_abs": 3123.0,
-    "diff_pct": 141.38
-  },
-  {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2209.0,
-    "precio_hoy": 5332.0,
-    "diff_abs": 3123.0,
-    "diff_pct": 141.38
-  },
-  {
-    "ean": "7791337008403",
-    "nombre": "leche chocolatada la serenisima x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2649.0,
-    "precio_hoy": 5587.0,
-    "diff_abs": 2938.0,
-    "diff_pct": 110.91
-  },
-  {
-    "ean": "7791337008410",
-    "nombre": "leche chocolatada la serenisima x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1039.0,
-    "precio_hoy": 1912.0,
-    "diff_abs": 873.0,
-    "diff_pct": 84.02
-  },
-  {
-    "ean": "7791337061491",
-    "nombre": "queso casancrem x 500gr clasico",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5339.0,
-    "precio_hoy": 9325.0,
-    "diff_abs": 3986.0,
-    "diff_pct": 74.66
-  },
-  {
-    "ean": "7791337061507",
-    "nombre": "queso untable cremoso casancrem balance x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5339.0,
-    "precio_hoy": 9325.0,
-    "diff_abs": 3986.0,
-    "diff_pct": 74.66
-  },
-  {
     "ean": "7622300742584",
     "nombre": "alfajor terrabusi x6 chocolate",
     "categoria": "Almacen",
@@ -72,111 +18,165 @@
     "diff_pct": 72.29
   },
   {
-    "ean": "7622300424084",
-    "nombre": "shot tableta x170gr.",
+    "ean": "7622300742621",
+    "nombre": "alfajor terrabusi x6 glaseado",
     "categoria": "Almacen",
-    "precio_antes": 6409.0,
-    "precio_hoy": 10682.0,
-    "diff_abs": 4273.0,
-    "diff_pct": 66.67
+    "precio_antes": 4999.0,
+    "precio_hoy": 7755.0,
+    "diff_abs": 2756.0,
+    "diff_pct": 55.13
   },
   {
-    "ean": "7791337009998",
-    "nombre": "yogur yogurisimo griego x 190 gr natural sin end",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3353.0,
-    "diff_abs": 1274.0,
-    "diff_pct": 61.28
-  },
-  {
-    "ean": "7791337009981",
-    "nombre": "yogur yogurisimo griego x 190 gr natural endulzado",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3353.0,
-    "diff_abs": 1274.0,
-    "diff_pct": 61.28
-  },
-  {
-    "ean": "7797906054918",
-    "nombre": "papas mc cain noisette x 1.2 kg.",
+    "ean": "7790670050674",
+    "nombre": "hamburguesas paty x 2 unid. clasicas",
     "categoria": "Congelados",
-    "precio_antes": 13219.0,
-    "precio_hoy": 20329.0,
-    "diff_abs": 7110.0,
-    "diff_pct": 53.79
+    "precio_antes": 3149.0,
+    "precio_hoy": 4802.0,
+    "diff_abs": 1653.0,
+    "diff_pct": 52.49
   },
   {
-    "ean": "7797906054833",
-    "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 5569.0,
-    "precio_hoy": 8555.0,
-    "diff_abs": 2986.0,
-    "diff_pct": 53.62
-  },
-  {
-    "ean": "7790380023418",
-    "nombre": "cacao toddy x360gr.extrem",
-    "categoria": "Almacen",
-    "precio_antes": 2749.0,
-    "precio_hoy": 4177.0,
-    "diff_abs": 1428.0,
-    "diff_pct": 51.95
-  },
-  {
-    "ean": "2021480000005",
-    "nombre": "papa elegida suelta x kg.",
+    "ean": "2020050000001",
+    "nombre": "banana ecuatoriana x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 50.25
+    "precio_antes": 2990.0,
+    "precio_hoy": 4490.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 50.17
   },
   {
-    "ean": "7793147572853",
-    "nombre": "cerveza amstel lata x 710 ml lager",
+    "ean": "7797906054956",
+    "nombre": "papas congeladas mc cain smiles x 700 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 9439.0,
+    "precio_hoy": 13481.0,
+    "diff_abs": 4042.0,
+    "diff_pct": 42.82
+  },
+  {
+    "ean": "7500810034354",
+    "nombre": "snack takis original x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3119.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1334.0,
+    "diff_pct": 42.77
+  },
+  {
+    "ean": "7500810034330",
+    "nombre": "snack takis fuego x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3119.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1334.0,
+    "diff_pct": 42.77
+  },
+  {
+    "ean": "7500810034347",
+    "nombre": "snack takis xplosion x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3119.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1334.0,
+    "diff_pct": 42.77
+  },
+  {
+    "ean": "7797906054925",
+    "nombre": "papas noisette mc cain horneables x 600 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 7499.0,
+    "precio_hoy": 10700.0,
+    "diff_abs": 3201.0,
+    "diff_pct": 42.69
+  },
+  {
+    "ean": "7792798008858",
+    "nombre": "cerveza temple wolf ipa x 473 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 2629.0,
-    "precio_hoy": 3925.0,
-    "diff_abs": 1296.0,
-    "diff_pct": 49.3
+    "precio_antes": 3479.0,
+    "precio_hoy": 4961.0,
+    "diff_abs": 1482.0,
+    "diff_pct": 42.6
   },
   {
-    "ean": "7622202218729",
-    "nombre": "gall.duquesa x345gr.",
+    "ean": "7790670052418",
+    "nombre": "salchicha vienissima x 12 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4389.0,
+    "precio_hoy": 6256.0,
+    "diff_abs": 1867.0,
+    "diff_pct": 42.54
+  },
+  {
+    "ean": "7500810034460",
+    "nombre": "snack takis xplosion x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2069.0,
+    "precio_hoy": 2945.0,
+    "diff_abs": 876.0,
+    "diff_pct": 42.34
+  },
+  {
+    "ean": "7500810034477",
+    "nombre": "snack takis original x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2069.0,
+    "precio_hoy": 2945.0,
+    "diff_abs": 876.0,
+    "diff_pct": 42.34
+  },
+  {
+    "ean": "7500810034361",
+    "nombre": "snack takis fuego x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2069.0,
+    "precio_hoy": 2945.0,
+    "diff_abs": 876.0,
+    "diff_pct": 42.34
+  },
+  {
+    "ean": "7792280002906",
+    "nombre": "yerba cachamate seleccion x 500 gr.",
     "categoria": "Perfumeria",
-    "precio_antes": 3329.0,
-    "precio_hoy": 4888.0,
-    "diff_abs": 1559.0,
-    "diff_pct": 46.83
+    "precio_antes": 1619.0,
+    "precio_hoy": 2302.0,
+    "diff_abs": 683.0,
+    "diff_pct": 42.19
   },
   {
-    "ean": "7793147570286",
-    "nombre": "cerveza santa fe x 473 ml.",
+    "ean": "7790314066436",
+    "nombre": "vino est.mend.x1.125lt.cab-mal",
     "categoria": "Bebidas",
-    "precio_antes": 1819.0,
-    "precio_hoy": 2615.0,
-    "diff_abs": 796.0,
-    "diff_pct": 43.76
+    "precio_antes": 4359.0,
+    "precio_hoy": 6044.0,
+    "diff_abs": 1685.0,
+    "diff_pct": 38.66
   },
   {
-    "ean": "7622201492465",
-    "nombre": "tabl.milka x45gr.choc.pau.oreo",
-    "categoria": "Almacen",
-    "precio_antes": 1969.0,
-    "precio_hoy": 2813.0,
-    "diff_abs": 844.0,
-    "diff_pct": 42.86
+    "ean": "7792281063630",
+    "nombre": "plato plastico 21 cm granito",
+    "categoria": "Limpieza",
+    "precio_antes": 2099.27,
+    "precio_hoy": 2831.0,
+    "diff_abs": 731.73,
+    "diff_pct": 34.86
   },
   {
-    "ean": "7622201492717",
-    "nombre": "tabl.milka x45gr.choco pause",
-    "categoria": "Almacen",
-    "precio_antes": 1969.0,
-    "precio_hoy": 2813.0,
-    "diff_abs": 844.0,
-    "diff_pct": 42.86
+    "ean": "7792281068802",
+    "nombre": "set 12 utensillos negro",
+    "categoria": "Limpieza",
+    "precio_antes": 42448.12,
+    "precio_hoy": 57037.0,
+    "diff_abs": 14588.88,
+    "diff_pct": 34.37
+  },
+  {
+    "ean": "7793147118822",
+    "nombre": "cerveza budweiser lata x 473 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 1939.0,
+    "precio_hoy": 2583.0,
+    "diff_abs": 644.0,
+    "diff_pct": 33.21
   }
 ]

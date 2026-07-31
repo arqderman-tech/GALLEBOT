@@ -9,24 +9,6 @@
     "diff_pct": 757.29
   },
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2109.0,
-    "precio_hoy": 5332.0,
-    "diff_abs": 3223.0,
-    "diff_pct": 152.82
-  },
-  {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2109.0,
-    "precio_hoy": 5332.0,
-    "diff_abs": 3223.0,
-    "diff_pct": 152.82
-  },
-  {
     "ean": "2020180000001",
     "nombre": "calabacita x kg.",
     "categoria": "Frutas Y Verduras",
@@ -36,26 +18,17 @@
     "diff_pct": 151.26
   },
   {
-    "ean": "7622201704148",
-    "nombre": "jugo en polvo clight mandarina x 8 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 349.0,
-    "precio_hoy": 703.0,
-    "diff_abs": 354.0,
-    "diff_pct": 101.43
+    "ean": "2020270000003",
+    "nombre": "cebolla x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1590.0,
+    "precio_hoy": 3490.0,
+    "diff_abs": 1900.0,
+    "diff_pct": 119.5
   },
   {
-    "ean": "7622202359927",
-    "nombre": "jugo cligh pomelada hibiscus x 8 gm",
-    "categoria": "Bebidas",
-    "precio_antes": 349.0,
-    "precio_hoy": 703.0,
-    "diff_abs": 354.0,
-    "diff_pct": 101.43
-  },
-  {
-    "ean": "7790150533154",
-    "nombre": "mis alicante parrillero vegetales x 25 gm",
+    "ean": "7790150533000",
+    "nombre": "mix alicante parrilla x 25 gr hamburguesas",
     "categoria": "Almacen",
     "precio_antes": 769.0,
     "precio_hoy": 1535.0,
@@ -63,8 +36,17 @@
     "diff_pct": 99.61
   },
   {
-    "ean": "7790150533000",
-    "nombre": "mix alicante parrilla x 25 gr hamburguesas",
+    "ean": "7790150533208",
+    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
+    "categoria": "Almacen",
+    "precio_antes": 769.0,
+    "precio_hoy": 1535.0,
+    "diff_abs": 766.0,
+    "diff_pct": 99.61
+  },
+  {
+    "ean": "7790150533154",
+    "nombre": "mis alicante parrillero vegetales x 25 gm",
     "categoria": "Almacen",
     "precio_antes": 769.0,
     "precio_hoy": 1535.0,
@@ -90,33 +72,6 @@
     "diff_pct": 99.61
   },
   {
-    "ean": "7790150533208",
-    "nombre": "mix alicante parrillero x 25 gmcarnes grilladas",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
-    "ean": "7791337008403",
-    "nombre": "leche chocolatada la serenisima x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2809.0,
-    "precio_hoy": 5587.0,
-    "diff_abs": 2778.0,
-    "diff_pct": 98.9
-  },
-  {
-    "ean": "7791813402886",
-    "nombre": "agua saborizada h2o x 500 ml sin gas naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 909.0,
-    "precio_hoy": 1800.0,
-    "diff_abs": 891.0,
-    "diff_pct": 98.02
-  },
-  {
     "ean": "7622300742584",
     "nombre": "alfajor terrabusi x6 chocolate",
     "categoria": "Almacen",
@@ -124,24 +79,6 @@
     "precio_hoy": 8613.0,
     "diff_abs": 4014.0,
     "diff_pct": 87.28
-  },
-  {
-    "ean": "7791337061491",
-    "nombre": "queso casancrem x 500gr clasico",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5009.0,
-    "precio_hoy": 9325.0,
-    "diff_abs": 4316.0,
-    "diff_pct": 86.16
-  },
-  {
-    "ean": "7791337061507",
-    "nombre": "queso untable cremoso casancrem balance x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5009.0,
-    "precio_hoy": 9325.0,
-    "diff_abs": 4316.0,
-    "diff_pct": 86.16
   },
   {
     "ean": "7790950147926",
@@ -153,24 +90,6 @@
     "diff_pct": 79.23
   },
   {
-    "ean": "7622300424084",
-    "nombre": "shot tableta x170gr.",
-    "categoria": "Almacen",
-    "precio_antes": 6009.01,
-    "precio_hoy": 10682.0,
-    "diff_abs": 4672.99,
-    "diff_pct": 77.77
-  },
-  {
-    "ean": "7791337008410",
-    "nombre": "leche chocolatada la serenisima x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1099.0,
-    "precio_hoy": 1912.0,
-    "diff_abs": 813.0,
-    "diff_pct": 73.98
-  },
-  {
     "ean": "7622300742621",
     "nombre": "alfajor terrabusi x6 glaseado",
     "categoria": "Almacen",
@@ -178,5 +97,86 @@
     "precio_hoy": 7755.0,
     "diff_abs": 3156.0,
     "diff_pct": 68.62
+  },
+  {
+    "ean": "2020300000003",
+    "nombre": "cebolla de verdeo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 66.78
+  },
+  {
+    "ean": "7622300424084",
+    "nombre": "shot tableta x170gr.",
+    "categoria": "Almacen",
+    "precio_antes": 6409.0,
+    "precio_hoy": 10682.0,
+    "diff_abs": 4273.0,
+    "diff_pct": 66.67
+  },
+  {
+    "ean": "2020490000005",
+    "nombre": "ciruela roja x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 12990.0,
+    "diff_abs": 5000.0,
+    "diff_pct": 62.58
+  },
+  {
+    "ean": "6520203142177",
+    "nombre": "dispenser",
+    "categoria": "Limpieza",
+    "precio_antes": 4171.0,
+    "precio_hoy": 6612.0,
+    "diff_abs": 2441.0,
+    "diff_pct": 58.52
+  },
+  {
+    "ean": "2021480000005",
+    "nombre": "papa elegida suelta x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
+    "ean": "2020050000001",
+    "nombre": "banana ecuatoriana x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4490.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 50.17
+  },
+  {
+    "ean": "7891000336373",
+    "nombre": "chocolate nestle alpino x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5379.0,
+    "precio_hoy": 7694.0,
+    "diff_abs": 2315.0,
+    "diff_pct": 43.04
+  },
+  {
+    "ean": "7622201492465",
+    "nombre": "tabl.milka x45gr.choc.pau.oreo",
+    "categoria": "Almacen",
+    "precio_antes": 1969.0,
+    "precio_hoy": 2813.0,
+    "diff_abs": 844.0,
+    "diff_pct": 42.86
+  },
+  {
+    "ean": "7622201492717",
+    "nombre": "tabl.milka x45gr.choco pause",
+    "categoria": "Almacen",
+    "precio_antes": 1969.0,
+    "precio_hoy": 2813.0,
+    "diff_abs": 844.0,
+    "diff_pct": 42.86
   }
 ]
