@@ -1,13 +1,147 @@
 {
-  "fecha": "20260801",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260802",
+  "total_productos": 6395,
+  "variacion_dia": 0.14,
+  "variacion_7d": 0.18,
+  "variacion_mes": 2.19,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": -0.2,
+      "productos_subieron": 1,
+      "productos_bajaron": 11,
+      "total_productos": 1442
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": 0.7,
+      "productos_subieron": 69,
+      "productos_bajaron": 16,
+      "total_productos": 1118
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": -0.51,
+      "productos_subieron": 26,
+      "productos_bajaron": 39,
+      "total_productos": 236
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 840
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.2,
+      "productos_subieron": 8,
+      "productos_bajaron": 0,
+      "total_productos": 869
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.19,
+      "productos_subieron": 25,
+      "productos_bajaron": 0,
+      "total_productos": 1809
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "7790314010972",
+      "nombre": "vino tinto los helechos cabernet sauvignon x 750 .",
+      "categoria": "Bebidas",
+      "precio_antes": 18224.0,
+      "precio_hoy": 9990.0,
+      "diff_abs": -8234.0,
+      "diff_pct": -45.18
+    },
+    {
+      "ean": "7790314006357",
+      "nombre": "vino tinto los helechos malbec x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 18224.0,
+      "precio_hoy": 9990.0,
+      "diff_abs": -8234.0,
+      "diff_pct": -45.18
+    },
+    {
+      "ean": "7790670050674",
+      "nombre": "hamburguesas paty x 2 unid. clasicas",
+      "categoria": "Congelados",
+      "precio_antes": 4802.0,
+      "precio_hoy": 3109.0,
+      "diff_abs": -1693.0,
+      "diff_pct": -35.26
+    },
+    {
+      "ean": "7791813888406",
+      "nombre": "pepsi x 500 ml",
+      "categoria": "Bebidas",
+      "precio_antes": 1850.0,
+      "precio_hoy": 1239.0,
+      "diff_abs": -611.0,
+      "diff_pct": -33.03
+    },
+    {
+      "ean": "7790670050780",
+      "nombre": "hamburguesas paty clasico x 20 unid.",
+      "categoria": "Congelados",
+      "precio_antes": 42853.0,
+      "precio_hoy": 30039.0,
+      "diff_abs": -12814.0,
+      "diff_pct": -29.9
+    },
+    {
+      "ean": "7792798008858",
+      "nombre": "cerveza temple wolf ipa x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 4961.0,
+      "precio_hoy": 3479.0,
+      "diff_abs": -1482.0,
+      "diff_pct": -29.87
+    },
+    {
+      "ean": "2019880000008",
+      "nombre": "acelga x paquete",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 1390.0,
+      "precio_hoy": 990.0,
+      "diff_abs": -400.0,
+      "diff_pct": -28.78
+    },
+    {
+      "ean": "2022210000005",
+      "nombre": "tomate perita x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 3990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -25.06
+    },
+    {
+      "ean": "2020910000004",
+      "nombre": "lechuga de hoja x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 3990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -25.06
+    },
+    {
+      "ean": "7793147118822",
+      "nombre": "cerveza budweiser lata x 473 ml",
+      "categoria": "Bebidas",
+      "precio_antes": 2583.0,
+      "precio_hoy": 1939.0,
+      "diff_abs": -644.0,
+      "diff_pct": -24.93
+    }
+  ],
+  "productos_subieron_dia": 129,
+  "productos_bajaron_dia": 66,
+  "productos_sin_cambio_dia": 6119
 }

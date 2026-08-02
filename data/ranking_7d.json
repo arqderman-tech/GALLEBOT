@@ -27,15 +27,6 @@
     "diff_pct": 55.13
   },
   {
-    "ean": "7790670050674",
-    "nombre": "hamburguesas paty x 2 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 3149.0,
-    "precio_hoy": 4802.0,
-    "diff_abs": 1653.0,
-    "diff_pct": 52.49
-  },
-  {
     "ean": "2020050000001",
     "nombre": "banana ecuatoriana x kg.",
     "categoria": "Frutas Y Verduras",
@@ -52,15 +43,6 @@
     "precio_hoy": 13481.0,
     "diff_abs": 4042.0,
     "diff_pct": 42.82
-  },
-  {
-    "ean": "7500810034354",
-    "nombre": "snack takis original x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3119.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1334.0,
-    "diff_pct": 42.77
   },
   {
     "ean": "7500810034330",
@@ -81,6 +63,15 @@
     "diff_pct": 42.77
   },
   {
+    "ean": "7500810034354",
+    "nombre": "snack takis original x 140 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3119.0,
+    "precio_hoy": 4453.0,
+    "diff_abs": 1334.0,
+    "diff_pct": 42.77
+  },
+  {
     "ean": "7797906054925",
     "nombre": "papas noisette mc cain horneables x 600 gr.",
     "categoria": "Congelados",
@@ -88,15 +79,6 @@
     "precio_hoy": 10700.0,
     "diff_abs": 3201.0,
     "diff_pct": 42.69
-  },
-  {
-    "ean": "7792798008858",
-    "nombre": "cerveza temple wolf ipa x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3479.0,
-    "precio_hoy": 4961.0,
-    "diff_abs": 1482.0,
-    "diff_pct": 42.6
   },
   {
     "ean": "7790670052418",
@@ -135,13 +117,13 @@
     "diff_pct": 42.34
   },
   {
-    "ean": "7792280002906",
-    "nombre": "yerba cachamate seleccion x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1619.0,
-    "precio_hoy": 2302.0,
-    "diff_abs": 683.0,
-    "diff_pct": 42.19
+    "ean": "2020160000007",
+    "nombre": "brocoli x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 40.08
   },
   {
     "ean": "7790314066436",
@@ -153,30 +135,48 @@
     "diff_pct": 38.66
   },
   {
-    "ean": "7792281063630",
-    "nombre": "plato plastico 21 cm granito",
-    "categoria": "Limpieza",
-    "precio_antes": 2099.27,
-    "precio_hoy": 2831.0,
-    "diff_abs": 731.73,
-    "diff_pct": 34.86
+    "ean": "7790742661333",
+    "nombre": "bebida lactea la serenisima x 900 gm cookies and cream",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2389.0,
+    "precio_hoy": 3180.0,
+    "diff_abs": 791.0,
+    "diff_pct": 33.11
   },
   {
-    "ean": "7792281068802",
-    "nombre": "set 12 utensillos negro",
-    "categoria": "Limpieza",
-    "precio_antes": 42448.12,
-    "precio_hoy": 57037.0,
-    "diff_abs": 14588.88,
-    "diff_pct": 34.37
-  },
-  {
-    "ean": "7793147118822",
-    "nombre": "cerveza budweiser lata x 473 ml",
+    "ean": "7791200000626",
+    "nombre": "aperitivo cynar x 750 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 1939.0,
-    "precio_hoy": 2583.0,
-    "diff_abs": 644.0,
-    "diff_pct": 33.21
+    "precio_antes": 9899.0,
+    "precio_hoy": 13168.0,
+    "diff_abs": 3269.0,
+    "diff_pct": 33.02
+  },
+  {
+    "ean": "7790670052401",
+    "nombre": "salchicha vienissima x 6 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2469.0,
+    "precio_hoy": 3271.0,
+    "diff_abs": 802.0,
+    "diff_pct": 32.48
+  },
+  {
+    "ean": "7792280006140",
+    "nombre": "yerba mate cachamai x 500 gm tradicional",
+    "categoria": "Perfumeria",
+    "precio_antes": 1912.73,
+    "precio_hoy": 2468.0,
+    "diff_abs": 555.27,
+    "diff_pct": 29.03
+  },
+  {
+    "ean": "2020980000003",
+    "nombre": "limones x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1390.0,
+    "precio_hoy": 1790.0,
+    "diff_abs": 400.0,
+    "diff_pct": 28.78
   }
 ]

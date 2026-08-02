@@ -1,182 +1,182 @@
 [
   {
-    "ean": "656750793282",
-    "nombre": "candado 40 mm blister",
-    "categoria": "Limpieza",
-    "precio_antes": 32.47,
-    "precio_hoy": 9558.17,
-    "diff_abs": 9525.7,
-    "diff_pct": 29336.93
-  },
-  {
-    "ean": "7790670050674",
-    "nombre": "hamburguesas paty x 2 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 3149.0,
-    "precio_hoy": 4802.0,
-    "diff_abs": 1653.0,
-    "diff_pct": 52.49
-  },
-  {
-    "ean": "7797906054956",
-    "nombre": "papas congeladas mc cain smiles x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 9439.0,
-    "precio_hoy": 13481.0,
-    "diff_abs": 4042.0,
-    "diff_pct": 42.82
-  },
-  {
-    "ean": "7500810034347",
-    "nombre": "snack takis xplosion x 140 gr.",
+    "ean": "8000500050897",
+    "nombre": "oblea kinder bueno regular x 3 unidades",
     "categoria": "Almacen",
-    "precio_antes": 3119.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1334.0,
-    "diff_pct": 42.77
+    "precio_antes": 6219.0,
+    "precio_hoy": 8883.0,
+    "diff_abs": 2664.0,
+    "diff_pct": 42.84
   },
   {
-    "ean": "7500810034354",
-    "nombre": "snack takis original x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3119.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1334.0,
-    "diff_pct": 42.77
-  },
-  {
-    "ean": "7500810034330",
-    "nombre": "snack takis fuego x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3119.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1334.0,
-    "diff_pct": 42.77
-  },
-  {
-    "ean": "7797906054925",
-    "nombre": "papas noisette mc cain horneables x 600 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 7499.0,
-    "precio_hoy": 10700.0,
-    "diff_abs": 3201.0,
-    "diff_pct": 42.69
-  },
-  {
-    "ean": "7790670052418",
-    "nombre": "salchicha vienissima x 12 unid.",
+    "ean": "7790742661333",
+    "nombre": "bebida lactea la serenisima x 900 gm cookies and cream",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4389.0,
-    "precio_hoy": 6256.0,
-    "diff_abs": 1867.0,
-    "diff_pct": 42.54
+    "precio_antes": 2389.0,
+    "precio_hoy": 3180.0,
+    "diff_abs": 791.0,
+    "diff_pct": 33.11
   },
   {
-    "ean": "7500810034460",
-    "nombre": "snack takis xplosion x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2069.0,
-    "precio_hoy": 2945.0,
-    "diff_abs": 876.0,
-    "diff_pct": 42.34
-  },
-  {
-    "ean": "7500810034477",
-    "nombre": "snack takis original x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2069.0,
-    "precio_hoy": 2945.0,
-    "diff_abs": 876.0,
-    "diff_pct": 42.34
-  },
-  {
-    "ean": "7500810034361",
-    "nombre": "snack takis fuego x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2069.0,
-    "precio_hoy": 2945.0,
-    "diff_abs": 876.0,
-    "diff_pct": 42.34
-  },
-  {
-    "ean": "7790314066436",
-    "nombre": "vino est.mend.x1.125lt.cab-mal",
-    "categoria": "Bebidas",
-    "precio_antes": 4359.0,
-    "precio_hoy": 6044.0,
-    "diff_abs": 1685.0,
-    "diff_pct": 38.66
-  },
-  {
-    "ean": "7792281063630",
-    "nombre": "plato plastico 21 cm granito",
-    "categoria": "Limpieza",
-    "precio_antes": 2099.27,
-    "precio_hoy": 2831.0,
-    "diff_abs": 731.73,
-    "diff_pct": 34.86
-  },
-  {
-    "ean": "7792281068802",
-    "nombre": "set 12 utensillos negro",
-    "categoria": "Limpieza",
-    "precio_antes": 42448.12,
-    "precio_hoy": 57037.0,
-    "diff_abs": 14588.88,
-    "diff_pct": 34.37
-  },
-  {
-    "ean": "7790670050780",
-    "nombre": "hamburguesas paty clasico x 20 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 32249.0,
-    "precio_hoy": 42853.0,
-    "diff_abs": 10604.0,
-    "diff_pct": 32.88
-  },
-  {
-    "ean": "7790670050728",
-    "nombre": "hamburguesas paty x 2 unid. finitas",
-    "categoria": "Congelados",
-    "precio_antes": 2669.0,
-    "precio_hoy": 3537.0,
-    "diff_abs": 868.0,
-    "diff_pct": 32.52
-  },
-  {
-    "ean": "7790670052401",
-    "nombre": "salchicha vienissima x 6 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2469.0,
-    "precio_hoy": 3271.0,
-    "diff_abs": 802.0,
-    "diff_pct": 32.48
-  },
-  {
-    "ean": "7792281613699",
-    "nombre": "vaso plastico 420 ml granito",
-    "categoria": "Limpieza",
-    "precio_antes": 1851.46,
-    "precio_hoy": 2432.0,
-    "diff_abs": 580.54,
-    "diff_pct": 31.36
-  },
-  {
-    "ean": "6520203142177",
-    "nombre": "dispenser",
-    "categoria": "Limpieza",
-    "precio_antes": 5141.0,
-    "precio_hoy": 6612.0,
-    "diff_abs": 1471.0,
-    "diff_pct": 28.61
-  },
-  {
-    "ean": "2020270000003",
-    "nombre": "cebolla x kg.",
+    "ean": "2020980000003",
+    "nombre": "limones x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2790.0,
-    "precio_hoy": 3490.0,
-    "diff_abs": 700.0,
-    "diff_pct": 25.09
+    "precio_antes": 1390.0,
+    "precio_hoy": 1790.0,
+    "diff_abs": 400.0,
+    "diff_pct": 28.78
+  },
+  {
+    "ean": "7790360971135",
+    "nombre": "palitos de pollo swift x 260 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 4209.0,
+    "precio_hoy": 5394.0,
+    "diff_abs": 1185.0,
+    "diff_pct": 28.15
+  },
+  {
+    "ean": "7790360983947",
+    "nombre": "salchichas swift x6unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1999.0,
+    "precio_hoy": 2522.0,
+    "diff_abs": 523.0,
+    "diff_pct": 26.16
+  },
+  {
+    "ean": "2018940000002",
+    "nombre": "salame lario tipo crespon x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 30568.48,
+    "precio_hoy": 38204.0,
+    "diff_abs": 7635.52,
+    "diff_pct": 24.98
+  },
+  {
+    "ean": "7790742104304",
+    "nombre": "dulce de leche la serenesima clasico x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 8099.0,
+    "precio_hoy": 10117.0,
+    "diff_abs": 2018.0,
+    "diff_pct": 24.92
+  },
+  {
+    "ean": "7790742625403",
+    "nombre": "dulce de leche la serenisima colonial x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 8529.0,
+    "precio_hoy": 10654.0,
+    "diff_abs": 2125.0,
+    "diff_pct": 24.91
+  },
+  {
+    "ean": "7790742067005",
+    "nombre": "dulce de leche la serenisima repostero x 400 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3609.0,
+    "precio_hoy": 4506.0,
+    "diff_abs": 897.0,
+    "diff_pct": 24.85
+  },
+  {
+    "ean": "7799155001699",
+    "nombre": "villa del sur levite x 1.5 litros limonada",
+    "categoria": "Bebidas",
+    "precio_antes": 2649.0,
+    "precio_hoy": 3307.0,
+    "diff_abs": 658.0,
+    "diff_pct": 24.84
+  },
+  {
+    "ean": "7793913013443",
+    "nombre": "crema de leche tregar x 350 ml",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3849.0,
+    "precio_hoy": 4804.0,
+    "diff_abs": 955.0,
+    "diff_pct": 24.81
+  },
+  {
+    "ean": "7790742625106",
+    "nombre": "dulce de leche la serenisima colonial x 250 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2419.0,
+    "precio_hoy": 3018.0,
+    "diff_abs": 599.0,
+    "diff_pct": 24.76
+  },
+  {
+    "ean": "7790742104809",
+    "nombre": "dulce de leche la serenisima clasico x 250 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2329.0,
+    "precio_hoy": 2905.0,
+    "diff_abs": 576.0,
+    "diff_pct": 24.73
+  },
+  {
+    "ean": "7793913013573",
+    "nombre": "yogur bebible tregar x 900 gr. vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2289.0,
+    "precio_hoy": 2854.0,
+    "diff_abs": 565.0,
+    "diff_pct": 24.68
+  },
+  {
+    "ean": "7793913013801",
+    "nombre": "yogur descremado bebible tregar x 900 gr. durazno",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2289.0,
+    "precio_hoy": 2854.0,
+    "diff_abs": 565.0,
+    "diff_pct": 24.68
+  },
+  {
+    "ean": "7793913013368",
+    "nombre": "yogur bebible tregar x 900 gr. durazno",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2289.0,
+    "precio_hoy": 2854.0,
+    "diff_abs": 565.0,
+    "diff_pct": 24.68
+  },
+  {
+    "ean": "7793913013597",
+    "nombre": "yogur bebible descremado tregar x 900 gr. frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2289.0,
+    "precio_hoy": 2854.0,
+    "diff_abs": 565.0,
+    "diff_pct": 24.68
+  },
+  {
+    "ean": "7793913013375",
+    "nombre": "yogur bebible tregar x 900 gr. arandano",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2289.0,
+    "precio_hoy": 2854.0,
+    "diff_abs": 565.0,
+    "diff_pct": 24.68
+  },
+  {
+    "ean": "7793913013580",
+    "nombre": "yogur tregar entero bebible sachet x 900 gm vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2289.0,
+    "precio_hoy": 2854.0,
+    "diff_abs": 565.0,
+    "diff_pct": 24.68
+  },
+  {
+    "ean": "7793913013603",
+    "nombre": "yogur bebible light tregar x 900 gr. vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2289.0,
+    "precio_hoy": 2854.0,
+    "diff_abs": 565.0,
+    "diff_pct": 24.68
   }
 ]
