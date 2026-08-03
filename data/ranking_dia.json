@@ -1,182 +1,182 @@
 [
   {
-    "ean": "8000500050897",
-    "nombre": "oblea kinder bueno regular x 3 unidades",
+    "ean": "7896004004969",
+    "nombre": "zucaritas x490gr.caja",
+    "categoria": "Perfumeria",
+    "precio_antes": 5679.0,
+    "precio_hoy": 5679.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790310985830",
+    "nombre": "3ds queso x 85 gr.",
     "categoria": "Almacen",
-    "precio_antes": 6219.0,
-    "precio_hoy": 8883.0,
-    "diff_abs": 2664.0,
-    "diff_pct": 42.84
+    "precio_antes": 3649.0,
+    "precio_hoy": 3649.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742661333",
-    "nombre": "bebida lactea la serenisima x 900 gm cookies and cream",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2389.0,
-    "precio_hoy": 3180.0,
-    "diff_abs": 791.0,
-    "diff_pct": 33.11
+    "ean": "7790310985137",
+    "nombre": "3ds queso x143gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5118.0,
+    "precio_hoy": 5118.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2020980000003",
-    "nombre": "limones x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1390.0,
-    "precio_hoy": 1790.0,
-    "diff_abs": 400.0,
-    "diff_pct": 28.78
+    "ean": "7790310985113",
+    "nombre": "3ds sabor queso x 43 gm",
+    "categoria": "Almacen",
+    "precio_antes": 2271.0,
+    "precio_hoy": 2271.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790360971135",
-    "nombre": "palitos de pollo swift x 260 gr.",
-    "categoria": "Congelados",
+    "ean": "7790387014617",
+    "nombre": "yerba mate union 4 flex x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4587.0,
+    "precio_hoy": 4587.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790387013634",
+    "nombre": "yerba mate taragui x 250 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1378.0,
+    "precio_hoy": 1378.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790387013504",
+    "nombre": "yerba mate taragui sin palo x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3399.0,
+    "precio_hoy": 3399.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790387013498",
+    "nombre": "yerba mate taragui sin palo x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 6570.0,
+    "precio_hoy": 6570.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790387013627",
+    "nombre": "yerba mate taragui 4 flex x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2383.0,
+    "precio_hoy": 2383.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790387013610",
+    "nombre": "yerba mate taragui 4 flex x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4587.0,
+    "precio_hoy": 4587.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798468970012",
+    "nombre": "yerba mate sport afa x 500 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 3999.0,
+    "precio_hoy": 3999.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790326000626",
+    "nombre": "yerba mate sinceridad x 500 gr. suave",
+    "categoria": "Perfumeria",
+    "precio_antes": 2563.0,
+    "precio_hoy": 2563.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790326000794",
+    "nombre": "yerba mate sinceridad x 1 kg. suave",
+    "categoria": "Perfumeria",
+    "precio_antes": 4966.0,
+    "precio_hoy": 4966.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790070508539",
+    "nombre": "yerba mate salus x 1 kg.",
+    "categoria": "Perfumeria",
     "precio_antes": 4209.0,
-    "precio_hoy": 5394.0,
-    "diff_abs": 1185.0,
-    "diff_pct": 28.15
+    "precio_hoy": 4209.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790360983947",
-    "nombre": "salchichas swift x6unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 2522.0,
-    "diff_abs": 523.0,
-    "diff_pct": 26.16
-  },
-  {
-    "ean": "2018940000002",
-    "nombre": "salame lario tipo crespon x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 30568.48,
-    "precio_hoy": 38204.0,
-    "diff_abs": 7635.52,
-    "diff_pct": 24.98
-  },
-  {
-    "ean": "7790742104304",
-    "nombre": "dulce de leche la serenesima clasico x 1 kg.",
+    "ean": "7790411000890",
+    "nombre": "yerba mate rosamonte terere x 500 gr.",
     "categoria": "Perfumeria",
-    "precio_antes": 8099.0,
-    "precio_hoy": 10117.0,
-    "diff_abs": 2018.0,
-    "diff_pct": 24.92
+    "precio_antes": 2572.0,
+    "precio_hoy": 2572.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742625403",
-    "nombre": "dulce de leche la serenisima colonial x 1 kg.",
+    "ean": "7790411000548",
+    "nombre": "yerba mate rosamonte suave seleccion especial x 50",
     "categoria": "Perfumeria",
-    "precio_antes": 8529.0,
-    "precio_hoy": 10654.0,
-    "diff_abs": 2125.0,
-    "diff_pct": 24.91
+    "precio_antes": 3044.0,
+    "precio_hoy": 3044.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742067005",
-    "nombre": "dulce de leche la serenisima repostero x 400 gr.",
+    "ean": "7790411000531",
+    "nombre": "yerba mate rosamonte suave seleccion especial x 1k",
     "categoria": "Perfumeria",
-    "precio_antes": 3609.0,
-    "precio_hoy": 4506.0,
-    "diff_abs": 897.0,
-    "diff_pct": 24.85
+    "precio_antes": 5773.0,
+    "precio_hoy": 5773.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7799155001699",
-    "nombre": "villa del sur levite x 1.5 litros limonada",
-    "categoria": "Bebidas",
-    "precio_antes": 2649.0,
-    "precio_hoy": 3307.0,
-    "diff_abs": 658.0,
-    "diff_pct": 24.84
-  },
-  {
-    "ean": "7793913013443",
-    "nombre": "crema de leche tregar x 350 ml",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3849.0,
-    "precio_hoy": 4804.0,
-    "diff_abs": 955.0,
-    "diff_pct": 24.81
-  },
-  {
-    "ean": "7790742625106",
-    "nombre": "dulce de leche la serenisima colonial x 250 gr.",
+    "ean": "7790411001507",
+    "nombre": "yerba mate rosamonte plus x 500 gr.",
     "categoria": "Perfumeria",
-    "precio_antes": 2419.0,
-    "precio_hoy": 3018.0,
-    "diff_abs": 599.0,
-    "diff_pct": 24.76
+    "precio_antes": 2219.0,
+    "precio_hoy": 2219.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742104809",
-    "nombre": "dulce de leche la serenisima clasico x 250 gr.",
+    "ean": "7790411001491",
+    "nombre": "yerba mate rosamonte plus x 1 kg.",
     "categoria": "Perfumeria",
-    "precio_antes": 2329.0,
-    "precio_hoy": 2905.0,
-    "diff_abs": 576.0,
-    "diff_pct": 24.73
+    "precio_antes": 4530.0,
+    "precio_hoy": 4530.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7793913013573",
-    "nombre": "yogur bebible tregar x 900 gr. vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2289.0,
-    "precio_hoy": 2854.0,
-    "diff_abs": 565.0,
-    "diff_pct": 24.68
-  },
-  {
-    "ean": "7793913013801",
-    "nombre": "yogur descremado bebible tregar x 900 gr. durazno",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2289.0,
-    "precio_hoy": 2854.0,
-    "diff_abs": 565.0,
-    "diff_pct": 24.68
-  },
-  {
-    "ean": "7793913013368",
-    "nombre": "yogur bebible tregar x 900 gr. durazno",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2289.0,
-    "precio_hoy": 2854.0,
-    "diff_abs": 565.0,
-    "diff_pct": 24.68
-  },
-  {
-    "ean": "7793913013597",
-    "nombre": "yogur bebible descremado tregar x 900 gr. frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2289.0,
-    "precio_hoy": 2854.0,
-    "diff_abs": 565.0,
-    "diff_pct": 24.68
-  },
-  {
-    "ean": "7793913013375",
-    "nombre": "yogur bebible tregar x 900 gr. arandano",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2289.0,
-    "precio_hoy": 2854.0,
-    "diff_abs": 565.0,
-    "diff_pct": 24.68
-  },
-  {
-    "ean": "7793913013580",
-    "nombre": "yogur tregar entero bebible sachet x 900 gm vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2289.0,
-    "precio_hoy": 2854.0,
-    "diff_abs": 565.0,
-    "diff_pct": 24.68
-  },
-  {
-    "ean": "7793913013603",
-    "nombre": "yogur bebible light tregar x 900 gr. vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2289.0,
-    "precio_hoy": 2854.0,
-    "diff_abs": 565.0,
-    "diff_pct": 24.68
+    "ean": "7790411001392",
+    "nombre": "yerba mate rosamonte fundacion favaloro x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 5367.0,
+    "precio_hoy": 5367.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]
