@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7896004004969",
-    "nombre": "zucaritas x490gr.caja",
-    "categoria": "Perfumeria",
-    "precio_antes": 5679.0,
-    "precio_hoy": 5679.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790310985830",
-    "nombre": "3ds queso x 85 gr.",
+    "ean": "7790580151898",
+    "nombre": "pure de tomate salsati x 340 gm passata",
     "categoria": "Almacen",
-    "precio_antes": 3649.0,
-    "precio_hoy": 3649.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 1129.0,
+    "precio_hoy": 2472.0,
+    "diff_abs": 1343.0,
+    "diff_pct": 118.95
   },
   {
-    "ean": "7790310985137",
-    "nombre": "3ds queso x143gr.",
+    "ean": "7790580144197",
+    "nombre": "salsa la campagnol x 350 gm napolitana premium2000",
     "categoria": "Almacen",
-    "precio_antes": 5118.0,
-    "precio_hoy": 5118.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 1790.0,
+    "precio_hoy": 3640.0,
+    "diff_abs": 1850.0,
+    "diff_pct": 103.35
   },
   {
-    "ean": "7790310985113",
-    "nombre": "3ds sabor queso x 43 gm",
+    "ean": "7790580144180",
+    "nombre": "salsa la campagnola x 350 gr oliva fco vidrio",
     "categoria": "Almacen",
-    "precio_antes": 2271.0,
-    "precio_hoy": 2271.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 1790.0,
+    "precio_hoy": 3640.0,
+    "diff_abs": 1850.0,
+    "diff_pct": 103.35
   },
   {
-    "ean": "7790387014617",
-    "nombre": "yerba mate union 4 flex x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4587.0,
-    "precio_hoy": 4587.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7791813403012",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
   },
   {
-    "ean": "7790387013634",
-    "nombre": "yerba mate taragui x 250 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1378.0,
-    "precio_hoy": 1378.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7791813000723",
+    "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
   },
   {
-    "ean": "7790387013504",
-    "nombre": "yerba mate taragui sin palo x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3399.0,
-    "precio_hoy": 3399.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7791813403036",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
   },
   {
-    "ean": "7790387013498",
-    "nombre": "yerba mate taragui sin palo x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 6570.0,
-    "precio_hoy": 6570.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7791813403029",
+    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
   },
   {
-    "ean": "7790387013627",
-    "nombre": "yerba mate taragui 4 flex x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2383.0,
-    "precio_hoy": 2383.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792799000905",
+    "nombre": "agua mineral pureza vital x 1.5 litros sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1339.0,
+    "precio_hoy": 2429.0,
+    "diff_abs": 1090.0,
+    "diff_pct": 81.4
   },
   {
-    "ean": "7790387013610",
-    "nombre": "yerba mate taragui 4 flex x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4587.0,
-    "precio_hoy": 4587.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7791813405016",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
+    "categoria": "Bebidas",
+    "precio_antes": 1849.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 81.18
   },
   {
-    "ean": "7798468970012",
-    "nombre": "yerba mate sport afa x 500 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 3999.0,
-    "precio_hoy": 3999.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7791813405030",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1849.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 81.18
   },
   {
-    "ean": "7790326000626",
-    "nombre": "yerba mate sinceridad x 500 gr. suave",
-    "categoria": "Perfumeria",
-    "precio_antes": 2563.0,
-    "precio_hoy": 2563.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7791813405023",
+    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+    "categoria": "Bebidas",
+    "precio_antes": 1849.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 81.18
   },
   {
-    "ean": "7790326000794",
-    "nombre": "yerba mate sinceridad x 1 kg. suave",
-    "categoria": "Perfumeria",
-    "precio_antes": 4966.0,
-    "precio_hoy": 4966.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792799000035",
+    "nombre": "agua mineral eco de los andes x 500 ml. con gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1319.0,
+    "precio_hoy": 2200.0,
+    "diff_abs": 881.0,
+    "diff_pct": 66.79
   },
   {
-    "ean": "7790070508539",
-    "nombre": "yerba mate salus x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4209.0,
-    "precio_hoy": 4209.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792799000639",
+    "nombre": "agua mineral eco one x 1 lt. sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1629.0,
+    "precio_hoy": 2715.0,
+    "diff_abs": 1086.0,
+    "diff_pct": 66.67
   },
   {
-    "ean": "7790411000890",
-    "nombre": "yerba mate rosamonte terere x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2572.0,
-    "precio_hoy": 2572.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792799000011",
+    "nombre": "agua mineral sin gas eco de los andes x 500 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1239.0,
+    "precio_hoy": 2064.0,
+    "diff_abs": 825.0,
+    "diff_pct": 66.59
   },
   {
-    "ean": "7790411000548",
-    "nombre": "yerba mate rosamonte suave seleccion especial x 50",
-    "categoria": "Perfumeria",
-    "precio_antes": 3044.0,
-    "precio_hoy": 3044.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792799000097",
+    "nombre": "agua mineral eco de los andes x 2 lt. sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 2009.0,
+    "precio_hoy": 3346.0,
+    "diff_abs": 1337.0,
+    "diff_pct": 66.55
   },
   {
-    "ean": "7790411000531",
-    "nombre": "yerba mate rosamonte suave seleccion especial x 1k",
-    "categoria": "Perfumeria",
-    "precio_antes": 5773.0,
-    "precio_hoy": 5773.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7795930002097",
+    "nombre": "agua mineral eco de los andes sin gas x 850 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1569.0,
+    "precio_hoy": 2610.0,
+    "diff_abs": 1041.0,
+    "diff_pct": 66.35
   },
   {
-    "ean": "7790411001507",
-    "nombre": "yerba mate rosamonte plus x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2219.0,
-    "precio_hoy": 2219.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792799000059",
+    "nombre": "agua mineral sin gas eco de los andes x 1.5 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1779.0,
+    "precio_hoy": 2956.0,
+    "diff_abs": 1177.0,
+    "diff_pct": 66.16
   },
   {
-    "ean": "7790411001491",
-    "nombre": "yerba mate rosamonte plus x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4530.0,
-    "precio_hoy": 4530.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7791813402039",
+    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1169.0,
+    "precio_hoy": 1800.0,
+    "diff_abs": 631.0,
+    "diff_pct": 53.98
   },
   {
-    "ean": "7790411001392",
-    "nombre": "yerba mate rosamonte fundacion favaloro x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 5367.0,
-    "precio_hoy": 5367.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7791813402015",
+    "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 1169.0,
+    "precio_hoy": 1800.0,
+    "diff_abs": 631.0,
+    "diff_pct": 53.98
+  },
+  {
+    "ean": "7792798002115",
+    "nombre": "cerveza andes rubia x1 lt. retornable",
+    "categoria": "Bebidas",
+    "precio_antes": 3619.0,
+    "precio_hoy": 5568.0,
+    "diff_abs": 1949.0,
+    "diff_pct": 53.85
   }
 ]

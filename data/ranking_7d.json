@@ -1,182 +1,182 @@
 [
   {
-    "ean": "6934097722245",
-    "nombre": "super pegamento cyanocrilato",
+    "ean": "656750793282",
+    "nombre": "candado 40 mm blister",
     "categoria": "Limpieza",
-    "precio_antes": 967.0,
-    "precio_hoy": 8290.0,
-    "diff_abs": 7323.0,
-    "diff_pct": 757.29
+    "precio_antes": 32.47,
+    "precio_hoy": 9558.17,
+    "diff_abs": 9525.7,
+    "diff_pct": 29336.93
   },
   {
-    "ean": "7622300742584",
-    "nombre": "alfajor terrabusi x6 chocolate",
+    "ean": "7790580151898",
+    "nombre": "pure de tomate salsati x 340 gm passata",
     "categoria": "Almacen",
-    "precio_antes": 4999.0,
-    "precio_hoy": 8613.0,
-    "diff_abs": 3614.0,
-    "diff_pct": 72.29
+    "precio_antes": 1129.0,
+    "precio_hoy": 2472.0,
+    "diff_abs": 1343.0,
+    "diff_pct": 118.95
   },
   {
-    "ean": "7622300742621",
-    "nombre": "alfajor terrabusi x6 glaseado",
+    "ean": "7790580144180",
+    "nombre": "salsa la campagnola x 350 gr oliva fco vidrio",
     "categoria": "Almacen",
-    "precio_antes": 4999.0,
-    "precio_hoy": 7755.0,
-    "diff_abs": 2756.0,
-    "diff_pct": 55.13
+    "precio_antes": 1790.0,
+    "precio_hoy": 3640.0,
+    "diff_abs": 1850.0,
+    "diff_pct": 103.35
   },
   {
-    "ean": "2020050000001",
-    "nombre": "banana ecuatoriana x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4490.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 50.17
-  },
-  {
-    "ean": "7797906054956",
-    "nombre": "papas congeladas mc cain smiles x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 9439.0,
-    "precio_hoy": 13481.0,
-    "diff_abs": 4042.0,
-    "diff_pct": 42.82
-  },
-  {
-    "ean": "7500810034330",
-    "nombre": "snack takis fuego x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3119.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1334.0,
-    "diff_pct": 42.77
-  },
-  {
-    "ean": "7500810034347",
-    "nombre": "snack takis xplosion x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3119.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1334.0,
-    "diff_pct": 42.77
-  },
-  {
-    "ean": "7500810034354",
-    "nombre": "snack takis original x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3119.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1334.0,
-    "diff_pct": 42.77
-  },
-  {
-    "ean": "7797906054925",
-    "nombre": "papas noisette mc cain horneables x 600 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 7499.0,
-    "precio_hoy": 10700.0,
-    "diff_abs": 3201.0,
-    "diff_pct": 42.69
-  },
-  {
-    "ean": "7790670052418",
-    "nombre": "salchicha vienissima x 12 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4389.0,
-    "precio_hoy": 6256.0,
-    "diff_abs": 1867.0,
-    "diff_pct": 42.54
-  },
-  {
-    "ean": "7500810034460",
-    "nombre": "snack takis xplosion x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2069.0,
-    "precio_hoy": 2945.0,
-    "diff_abs": 876.0,
-    "diff_pct": 42.34
-  },
-  {
-    "ean": "7500810034477",
-    "nombre": "snack takis original x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2069.0,
-    "precio_hoy": 2945.0,
-    "diff_abs": 876.0,
-    "diff_pct": 42.34
-  },
-  {
-    "ean": "7500810034361",
-    "nombre": "snack takis fuego x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2069.0,
-    "precio_hoy": 2945.0,
-    "diff_abs": 876.0,
-    "diff_pct": 42.34
-  },
-  {
-    "ean": "2020160000007",
-    "nombre": "brocoli x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 40.08
-  },
-  {
-    "ean": "7790314066436",
-    "nombre": "vino est.mend.x1.125lt.cab-mal",
+    "ean": "7791813000723",
+    "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
     "categoria": "Bebidas",
-    "precio_antes": 4359.0,
-    "precio_hoy": 6044.0,
-    "diff_abs": 1685.0,
-    "diff_pct": 38.66
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
   },
   {
-    "ean": "7790742661333",
-    "nombre": "bebida lactea la serenisima x 900 gm cookies and cream",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2389.0,
-    "precio_hoy": 3180.0,
-    "diff_abs": 791.0,
-    "diff_pct": 33.11
-  },
-  {
-    "ean": "7791200000626",
-    "nombre": "aperitivo cynar x 750 ml.",
+    "ean": "7791813403029",
+    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
     "categoria": "Bebidas",
-    "precio_antes": 9899.0,
-    "precio_hoy": 13168.0,
-    "diff_abs": 3269.0,
-    "diff_pct": 33.02
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
   },
   {
-    "ean": "7790670052401",
-    "nombre": "salchicha vienissima x 6 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2469.0,
-    "precio_hoy": 3271.0,
-    "diff_abs": 802.0,
-    "diff_pct": 32.48
+    "ean": "7791813403036",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
   },
   {
-    "ean": "7792280006140",
-    "nombre": "yerba mate cachamai x 500 gm tradicional",
-    "categoria": "Perfumeria",
-    "precio_antes": 1912.73,
-    "precio_hoy": 2468.0,
-    "diff_abs": 555.27,
-    "diff_pct": 29.03
+    "ean": "7791813403012",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
   },
   {
-    "ean": "2020980000003",
-    "nombre": "limones x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1390.0,
-    "precio_hoy": 1790.0,
-    "diff_abs": 400.0,
-    "diff_pct": 28.78
+    "ean": "7792799000905",
+    "nombre": "agua mineral pureza vital x 1.5 litros sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1339.0,
+    "precio_hoy": 2429.0,
+    "diff_abs": 1090.0,
+    "diff_pct": 81.4
+  },
+  {
+    "ean": "7791813405023",
+    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+    "categoria": "Bebidas",
+    "precio_antes": 1849.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 81.18
+  },
+  {
+    "ean": "7791813405016",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
+    "categoria": "Bebidas",
+    "precio_antes": 1849.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 81.18
+  },
+  {
+    "ean": "7791813405030",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1849.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 81.18
+  },
+  {
+    "ean": "7792799000035",
+    "nombre": "agua mineral eco de los andes x 500 ml. con gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1319.0,
+    "precio_hoy": 2200.0,
+    "diff_abs": 881.0,
+    "diff_pct": 66.79
+  },
+  {
+    "ean": "7792799000639",
+    "nombre": "agua mineral eco one x 1 lt. sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1629.0,
+    "precio_hoy": 2715.0,
+    "diff_abs": 1086.0,
+    "diff_pct": 66.67
+  },
+  {
+    "ean": "7792799000011",
+    "nombre": "agua mineral sin gas eco de los andes x 500 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1239.0,
+    "precio_hoy": 2064.0,
+    "diff_abs": 825.0,
+    "diff_pct": 66.59
+  },
+  {
+    "ean": "7792799000097",
+    "nombre": "agua mineral eco de los andes x 2 lt. sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 2009.0,
+    "precio_hoy": 3346.0,
+    "diff_abs": 1337.0,
+    "diff_pct": 66.55
+  },
+  {
+    "ean": "7795930002097",
+    "nombre": "agua mineral eco de los andes sin gas x 850 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1569.0,
+    "precio_hoy": 2610.0,
+    "diff_abs": 1041.0,
+    "diff_pct": 66.35
+  },
+  {
+    "ean": "7792799000059",
+    "nombre": "agua mineral sin gas eco de los andes x 1.5 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1779.0,
+    "precio_hoy": 2956.0,
+    "diff_abs": 1177.0,
+    "diff_pct": 66.16
+  },
+  {
+    "ean": "7791813402039",
+    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1169.0,
+    "precio_hoy": 1800.0,
+    "diff_abs": 631.0,
+    "diff_pct": 53.98
+  },
+  {
+    "ean": "7791813402015",
+    "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 1169.0,
+    "precio_hoy": 1800.0,
+    "diff_abs": 631.0,
+    "diff_pct": 53.98
+  },
+  {
+    "ean": "7792798002115",
+    "nombre": "cerveza andes rubia x1 lt. retornable",
+    "categoria": "Bebidas",
+    "precio_antes": 3619.0,
+    "precio_hoy": 5568.0,
+    "diff_abs": 1949.0,
+    "diff_pct": 53.85
   }
 ]

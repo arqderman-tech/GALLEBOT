@@ -1,147 +1,147 @@
 {
-  "fecha": "20260803",
-  "total_productos": 6409,
-  "variacion_dia": -0.02,
-  "variacion_7d": 0.15,
-  "variacion_mes": 2.31,
+  "fecha": "20260804",
+  "total_productos": 6354,
+  "variacion_dia": 0.85,
+  "variacion_7d": 5.49,
+  "variacion_mes": 2.96,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1442
+      "variacion_pct_promedio": 2.97,
+      "productos_subieron": 179,
+      "productos_bajaron": 65,
+      "total_productos": 1440
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.01,
-      "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "total_productos": 1123
+      "variacion_pct_promedio": 0.18,
+      "productos_subieron": 39,
+      "productos_bajaron": 16,
+      "total_productos": 1116
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -1.56,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 237
+      "productos_bajaron": 28,
+      "total_productos": 235
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 849
+      "total_productos": 817
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 889
+      "variacion_pct_promedio": 0.66,
+      "productos_subieron": 56,
+      "productos_bajaron": 41,
+      "total_productos": 891
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.07,
-      "productos_subieron": 0,
-      "productos_bajaron": 7,
-      "total_productos": 1832
+      "variacion_pct_promedio": 0.37,
+      "productos_subieron": 127,
+      "productos_bajaron": 130,
+      "total_productos": 1833
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7791004000082",
-      "nombre": "sal celusal gruesa est.x1kg.",
+      "ean": "7622300424084",
+      "nombre": "shot tableta x170gr.",
       "categoria": "Almacen",
-      "precio_antes": 2664.0,
-      "precio_hoy": 2099.0,
-      "diff_abs": -565.0,
-      "diff_pct": -21.21
+      "precio_antes": 10682.0,
+      "precio_hoy": 5809.0,
+      "diff_abs": -4873.0,
+      "diff_pct": -45.62
     },
     {
-      "ean": "7791004000044",
-      "nombre": "sal celusal entrefina est.x1kg",
+      "ean": "7622300742584",
+      "nombre": "alfajor terrabusi x6 chocolate",
       "categoria": "Almacen",
-      "precio_antes": 2753.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -554.0,
-      "diff_pct": -20.12
+      "precio_antes": 8613.0,
+      "precio_hoy": 4689.0,
+      "diff_abs": -3924.0,
+      "diff_pct": -45.56
     },
     {
-      "ean": "7790139004965",
-      "nombre": "aceto espeso favinco x 500 ml. original",
+      "ean": "7622300742621",
+      "nombre": "alfajor terrabusi x6 glaseado",
       "categoria": "Almacen",
-      "precio_antes": 6845.0,
-      "precio_hoy": 5479.0,
-      "diff_abs": -1366.0,
-      "diff_pct": -19.96
+      "precio_antes": 7755.0,
+      "precio_hoy": 4569.0,
+      "diff_abs": -3186.0,
+      "diff_pct": -41.08
     },
     {
-      "ean": "7790139003425",
-      "nombre": "aceto balsamico favinco x 250 ml.",
+      "ean": "77956699",
+      "nombre": "alfajor shot x60gr.triple",
       "categoria": "Almacen",
-      "precio_antes": 3320.0,
-      "precio_hoy": 2659.0,
-      "diff_abs": -661.0,
-      "diff_pct": -19.91
+      "precio_antes": 2120.0,
+      "precio_hoy": 1269.0,
+      "diff_abs": -851.0,
+      "diff_pct": -40.14
     },
     {
-      "ean": "7790139004941",
-      "nombre": "aceto espeso favinco x 250 ml. original",
+      "ean": "7622202816437",
+      "nombre": "alfajor shot x 36 gm triple blanco",
       "categoria": "Almacen",
-      "precio_antes": 4469.0,
-      "precio_hoy": 3579.0,
-      "diff_abs": -890.0,
-      "diff_pct": -19.91
+      "precio_antes": 2120.0,
+      "precio_hoy": 1269.0,
+      "diff_abs": -851.0,
+      "diff_pct": -40.14
     },
     {
-      "ean": "2025530000007",
-      "nombre": "picada ternera x kg.",
-      "categoria": "Carniceria",
-      "precio_antes": 17900.0,
-      "precio_hoy": 14900.0,
-      "diff_abs": -3000.0,
-      "diff_pct": -16.76
-    },
-    {
-      "ean": "7790139003265",
-      "nombre": "vinagre de manzana casalta x 1 lt.",
+      "ean": "77969118",
+      "nombre": "chicle beldent frutilla x10gr.",
       "categoria": "Almacen",
-      "precio_antes": 4429.0,
-      "precio_hoy": 3769.0,
-      "diff_abs": -660.0,
-      "diff_pct": -14.9
+      "precio_antes": 1388.0,
+      "precio_hoy": 839.0,
+      "diff_abs": -549.0,
+      "diff_pct": -39.55
     },
     {
-      "ean": "7790139003173",
-      "nombre": "vinagre de alcohol casalta x 1 lt.",
-      "categoria": "Almacen",
-      "precio_antes": 1956.0,
-      "precio_hoy": 1669.0,
-      "diff_abs": -287.0,
-      "diff_pct": -14.67
-    },
-    {
-      "ean": "7790411000029",
-      "nombre": "yerba rosamonte especial x 500 gr.",
+      "ean": "7622201735883",
+      "nombre": "gall.pepitos x357gr.clasica",
       "categoria": "Perfumeria",
-      "precio_antes": 3339.0,
-      "precio_hoy": 3339.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "precio_antes": 6177.0,
+      "precio_hoy": 3759.0,
+      "diff_abs": -2418.0,
+      "diff_pct": -39.15
     },
     {
-      "ean": "7790411000012",
-      "nombre": "yerba rosamonte especial x 1 kg.",
+      "ean": "7622201759636",
+      "nombre": "galletitas oreo original x 354 gr.",
       "categoria": "Perfumeria",
-      "precio_antes": 7056.0,
-      "precio_hoy": 7056.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "precio_antes": 6551.0,
+      "precio_hoy": 3989.0,
+      "diff_abs": -2562.0,
+      "diff_pct": -39.11
+    },
+    {
+      "ean": "7622300990114",
+      "nombre": "tabl.milka x150gr.leche",
+      "categoria": "Almacen",
+      "precio_antes": 11575.0,
+      "precio_hoy": 7349.0,
+      "diff_abs": -4226.0,
+      "diff_pct": -36.51
+    },
+    {
+      "ean": "7622201492717",
+      "nombre": "tabl.milka x45gr.choco pause",
+      "categoria": "Almacen",
+      "precio_antes": 2813.0,
+      "precio_hoy": 1789.0,
+      "diff_abs": -1024.0,
+      "diff_pct": -36.4
     }
   ],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 8,
-  "productos_sin_cambio_dia": 6364
+  "productos_subieron_dia": 401,
+  "productos_bajaron_dia": 280,
+  "productos_sin_cambio_dia": 5651
 }
