@@ -1,147 +1,147 @@
 {
-  "fecha": "20260804",
-  "total_productos": 6354,
-  "variacion_dia": 0.85,
-  "variacion_7d": 5.49,
-  "variacion_mes": 2.96,
+  "fecha": "20260805",
+  "total_productos": 6318,
+  "variacion_dia": 0.09,
+  "variacion_7d": 5.42,
+  "variacion_mes": 3.08,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 2.97,
-      "productos_subieron": 179,
-      "productos_bajaron": 65,
-      "total_productos": 1440
+      "variacion_pct_promedio": -1.72,
+      "productos_subieron": 67,
+      "productos_bajaron": 100,
+      "total_productos": 1437
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.18,
-      "productos_subieron": 39,
-      "productos_bajaron": 16,
-      "total_productos": 1116
+      "variacion_pct_promedio": 2.07,
+      "productos_subieron": 53,
+      "productos_bajaron": 3,
+      "total_productos": 1109
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -1.56,
-      "productos_subieron": 0,
-      "productos_bajaron": 28,
-      "total_productos": 235
+      "variacion_pct_promedio": 2.63,
+      "productos_subieron": 38,
+      "productos_bajaron": 0,
+      "total_productos": 234
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 817
+      "total_productos": 791
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.66,
-      "productos_subieron": 56,
-      "productos_bajaron": 41,
-      "total_productos": 891
+      "variacion_pct_promedio": 0.03,
+      "productos_subieron": 9,
+      "productos_bajaron": 0,
+      "total_productos": 880
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.37,
-      "productos_subieron": 127,
-      "productos_bajaron": 130,
-      "total_productos": 1833
+      "variacion_pct_promedio": 0.06,
+      "productos_subieron": 9,
+      "productos_bajaron": 0,
+      "total_productos": 1831
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7622300424084",
-      "nombre": "shot tableta x170gr.",
-      "categoria": "Almacen",
-      "precio_antes": 10682.0,
-      "precio_hoy": 5809.0,
-      "diff_abs": -4873.0,
-      "diff_pct": -45.62
-    },
-    {
-      "ean": "7622300742584",
-      "nombre": "alfajor terrabusi x6 chocolate",
-      "categoria": "Almacen",
-      "precio_antes": 8613.0,
-      "precio_hoy": 4689.0,
-      "diff_abs": -3924.0,
-      "diff_pct": -45.56
-    },
-    {
-      "ean": "7622300742621",
-      "nombre": "alfajor terrabusi x6 glaseado",
-      "categoria": "Almacen",
-      "precio_antes": 7755.0,
-      "precio_hoy": 4569.0,
-      "diff_abs": -3186.0,
-      "diff_pct": -41.08
-    },
-    {
-      "ean": "77956699",
-      "nombre": "alfajor shot x60gr.triple",
-      "categoria": "Almacen",
-      "precio_antes": 2120.0,
-      "precio_hoy": 1269.0,
-      "diff_abs": -851.0,
-      "diff_pct": -40.14
-    },
-    {
-      "ean": "7622202816437",
-      "nombre": "alfajor shot x 36 gm triple blanco",
-      "categoria": "Almacen",
-      "precio_antes": 2120.0,
-      "precio_hoy": 1269.0,
-      "diff_abs": -851.0,
-      "diff_pct": -40.14
-    },
-    {
-      "ean": "77969118",
-      "nombre": "chicle beldent frutilla x10gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1388.0,
-      "precio_hoy": 839.0,
-      "diff_abs": -549.0,
-      "diff_pct": -39.55
-    },
-    {
-      "ean": "7622201735883",
-      "nombre": "gall.pepitos x357gr.clasica",
-      "categoria": "Perfumeria",
-      "precio_antes": 6177.0,
-      "precio_hoy": 3759.0,
-      "diff_abs": -2418.0,
-      "diff_pct": -39.15
-    },
-    {
-      "ean": "7622201759636",
-      "nombre": "galletitas oreo original x 354 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 6551.0,
-      "precio_hoy": 3989.0,
-      "diff_abs": -2562.0,
-      "diff_pct": -39.11
-    },
-    {
-      "ean": "7622300990114",
-      "nombre": "tabl.milka x150gr.leche",
-      "categoria": "Almacen",
-      "precio_antes": 11575.0,
-      "precio_hoy": 7349.0,
-      "diff_abs": -4226.0,
-      "diff_pct": -36.51
-    },
-    {
-      "ean": "7622201492717",
-      "nombre": "tabl.milka x45gr.choco pause",
-      "categoria": "Almacen",
-      "precio_antes": 2813.0,
+      "ean": "7791813403036",
+      "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+      "categoria": "Bebidas",
+      "precio_antes": 3250.0,
       "precio_hoy": 1789.0,
-      "diff_abs": -1024.0,
-      "diff_pct": -36.4
+      "diff_abs": -1461.0,
+      "diff_pct": -44.95
+    },
+    {
+      "ean": "7791813403012",
+      "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+      "categoria": "Bebidas",
+      "precio_antes": 3250.0,
+      "precio_hoy": 1789.0,
+      "diff_abs": -1461.0,
+      "diff_pct": -44.95
+    },
+    {
+      "ean": "7791813000723",
+      "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
+      "categoria": "Bebidas",
+      "precio_antes": 3250.0,
+      "precio_hoy": 1789.0,
+      "diff_abs": -1461.0,
+      "diff_pct": -44.95
+    },
+    {
+      "ean": "7791813403029",
+      "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+      "categoria": "Bebidas",
+      "precio_antes": 3250.0,
+      "precio_hoy": 1789.0,
+      "diff_abs": -1461.0,
+      "diff_pct": -44.95
+    },
+    {
+      "ean": "7791661000333",
+      "nombre": "agua mineral pureza vital pet x 6.4 litros",
+      "categoria": "Bebidas",
+      "precio_antes": 7585.0,
+      "precio_hoy": 4179.0,
+      "diff_abs": -3406.0,
+      "diff_pct": -44.9
+    },
+    {
+      "ean": "7792799000905",
+      "nombre": "agua mineral pureza vital x 1.5 litros sin gas",
+      "categoria": "Bebidas",
+      "precio_antes": 2429.0,
+      "precio_hoy": 1339.0,
+      "diff_abs": -1090.0,
+      "diff_pct": -44.87
+    },
+    {
+      "ean": "7791813405016",
+      "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
+      "categoria": "Bebidas",
+      "precio_antes": 3350.0,
+      "precio_hoy": 1849.0,
+      "diff_abs": -1501.0,
+      "diff_pct": -44.81
+    },
+    {
+      "ean": "7791813405030",
+      "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+      "categoria": "Bebidas",
+      "precio_antes": 3350.0,
+      "precio_hoy": 1849.0,
+      "diff_abs": -1501.0,
+      "diff_pct": -44.81
+    },
+    {
+      "ean": "7791813405023",
+      "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+      "categoria": "Bebidas",
+      "precio_antes": 3350.0,
+      "precio_hoy": 1849.0,
+      "diff_abs": -1501.0,
+      "diff_pct": -44.81
+    },
+    {
+      "ean": "7792799000035",
+      "nombre": "agua mineral eco de los andes x 500 ml. con gas",
+      "categoria": "Bebidas",
+      "precio_antes": 2200.0,
+      "precio_hoy": 1319.0,
+      "diff_abs": -881.0,
+      "diff_pct": -40.05
     }
   ],
-  "productos_subieron_dia": 401,
-  "productos_bajaron_dia": 280,
-  "productos_sin_cambio_dia": 5651
+  "productos_subieron_dia": 176,
+  "productos_bajaron_dia": 103,
+  "productos_sin_cambio_dia": 6003
 }

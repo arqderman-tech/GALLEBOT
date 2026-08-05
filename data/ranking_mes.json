@@ -9,8 +9,8 @@
     "diff_pct": 757.29
   },
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2109.0,
     "precio_hoy": 5332.0,
@@ -18,8 +18,8 @@
     "diff_pct": 152.82
   },
   {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2109.0,
     "precio_hoy": 5332.0,
@@ -45,8 +45,53 @@
     "diff_pct": 118.95
   },
   {
-    "ean": "7790150533109",
-    "nombre": "mix alicante parrillero x 25 gm chimichurri ahumado",
+    "ean": "7791337010468",
+    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2099.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2408.0,
+    "diff_pct": 114.72
+  },
+  {
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2099.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2408.0,
+    "diff_pct": 114.72
+  },
+  {
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2099.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2408.0,
+    "diff_pct": 114.72
+  },
+  {
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2099.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2408.0,
+    "diff_pct": 114.72
+  },
+  {
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2099.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2408.0,
+    "diff_pct": 114.72
+  },
+  {
+    "ean": "7790150533307",
+    "nombre": "mix alicante parrillero barbacoa x 25 gm",
     "categoria": "Almacen",
     "precio_antes": 769.0,
     "precio_hoy": 1535.0,
@@ -56,6 +101,15 @@
   {
     "ean": "7790150533000",
     "nombre": "mix alicante parrilla x 25 gr hamburguesas",
+    "categoria": "Almacen",
+    "precio_antes": 769.0,
+    "precio_hoy": 1535.0,
+    "diff_abs": 766.0,
+    "diff_pct": 99.61
+  },
+  {
+    "ean": "7790150533109",
+    "nombre": "mix alicante parrillero x 25 gm chimichurri ahumado",
     "categoria": "Almacen",
     "precio_antes": 769.0,
     "precio_hoy": 1535.0,
@@ -74,15 +128,6 @@
   {
     "ean": "7790150533154",
     "nombre": "mis alicante parrillero vegetales x 25 gm",
-    "categoria": "Almacen",
-    "precio_antes": 769.0,
-    "precio_hoy": 1535.0,
-    "diff_abs": 766.0,
-    "diff_pct": 99.61
-  },
-  {
-    "ean": "7790150533307",
-    "nombre": "mix alicante parrillero barbacoa x 25 gm",
     "categoria": "Almacen",
     "precio_antes": 769.0,
     "precio_hoy": 1535.0,
@@ -126,57 +171,12 @@
     "diff_pct": 86.54
   },
   {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
-  },
-  {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
-  },
-  {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
-  },
-  {
-    "ean": "7791813000723",
-    "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
-  },
-  {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1849.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 81.18
-  },
-  {
-    "ean": "7791813405016",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
-    "categoria": "Bebidas",
-    "precio_antes": 1849.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 81.18
+    "ean": "7791337061361",
+    "nombre": "queso crema casancrem x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3299.0,
+    "precio_hoy": 6028.0,
+    "diff_abs": 2729.0,
+    "diff_pct": 82.72
   }
 ]
