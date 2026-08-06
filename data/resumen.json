@@ -1,147 +1,147 @@
 {
-  "fecha": "20260805",
-  "total_productos": 6318,
-  "variacion_dia": 0.09,
-  "variacion_7d": 5.42,
-  "variacion_mes": 3.08,
+  "fecha": "20260806",
+  "total_productos": 6330,
+  "variacion_dia": -0.42,
+  "variacion_7d": 4.85,
+  "variacion_mes": 2.15,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -1.72,
-      "productos_subieron": 67,
-      "productos_bajaron": 100,
-      "total_productos": 1437
+      "variacion_pct_promedio": -0.03,
+      "productos_subieron": 9,
+      "productos_bajaron": 16,
+      "total_productos": 1443
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 2.07,
-      "productos_subieron": 53,
-      "productos_bajaron": 3,
-      "total_productos": 1109
+      "variacion_pct_promedio": -1.51,
+      "productos_subieron": 4,
+      "productos_bajaron": 85,
+      "total_productos": 1116
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 2.63,
-      "productos_subieron": 38,
-      "productos_bajaron": 0,
-      "total_productos": 234
+      "variacion_pct_promedio": -2.83,
+      "productos_subieron": 2,
+      "productos_bajaron": 49,
+      "total_productos": 235
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 791
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 8,
+      "productos_bajaron": 2,
+      "total_productos": 795
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.03,
-      "productos_subieron": 9,
-      "productos_bajaron": 0,
-      "total_productos": 880
+      "variacion_pct_promedio": -0.04,
+      "productos_subieron": 39,
+      "productos_bajaron": 15,
+      "total_productos": 874
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.06,
-      "productos_subieron": 9,
-      "productos_bajaron": 0,
-      "total_productos": 1831
+      "variacion_pct_promedio": -0.12,
+      "productos_subieron": 31,
+      "productos_bajaron": 12,
+      "total_productos": 1829
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7791813403036",
-      "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
-      "categoria": "Bebidas",
-      "precio_antes": 3250.0,
-      "precio_hoy": 1789.0,
-      "diff_abs": -1461.0,
-      "diff_pct": -44.95
+      "ean": "7791337007796",
+      "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 7960.0,
+      "precio_hoy": 3809.0,
+      "diff_abs": -4151.0,
+      "diff_pct": -52.15
     },
     {
-      "ean": "7791813403012",
-      "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
-      "categoria": "Bebidas",
-      "precio_antes": 3250.0,
-      "precio_hoy": 1789.0,
-      "diff_abs": -1461.0,
-      "diff_pct": -44.95
+      "ean": "7791337007253",
+      "nombre": "leche chocolatada cindor x 1 lt.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 7960.0,
+      "precio_hoy": 3809.0,
+      "diff_abs": -4151.0,
+      "diff_pct": -52.15
     },
     {
-      "ean": "7791813000723",
-      "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
-      "categoria": "Bebidas",
-      "precio_antes": 3250.0,
-      "precio_hoy": 1789.0,
-      "diff_abs": -1461.0,
-      "diff_pct": -44.95
+      "ean": "7791337010376",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2308.0,
+      "diff_pct": -51.21
     },
     {
-      "ean": "7791813403029",
-      "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-      "categoria": "Bebidas",
-      "precio_antes": 3250.0,
-      "precio_hoy": 1789.0,
-      "diff_abs": -1461.0,
-      "diff_pct": -44.95
+      "ean": "7791337010369",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2308.0,
+      "diff_pct": -51.21
     },
     {
-      "ean": "7791661000333",
-      "nombre": "agua mineral pureza vital pet x 6.4 litros",
-      "categoria": "Bebidas",
-      "precio_antes": 7585.0,
-      "precio_hoy": 4179.0,
-      "diff_abs": -3406.0,
-      "diff_pct": -44.9
+      "ean": "7791337010215",
+      "nombre": "yogur ls.clas.ent.sh x900g.fru",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2308.0,
+      "diff_pct": -51.21
     },
     {
-      "ean": "7792799000905",
-      "nombre": "agua mineral pureza vital x 1.5 litros sin gas",
-      "categoria": "Bebidas",
-      "precio_antes": 2429.0,
-      "precio_hoy": 1339.0,
-      "diff_abs": -1090.0,
-      "diff_pct": -44.87
+      "ean": "7791337010468",
+      "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2308.0,
+      "diff_pct": -51.21
     },
     {
-      "ean": "7791813405016",
-      "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
-      "categoria": "Bebidas",
-      "precio_antes": 3350.0,
-      "precio_hoy": 1849.0,
-      "diff_abs": -1501.0,
-      "diff_pct": -44.81
+      "ean": "7791337010475",
+      "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4507.0,
+      "precio_hoy": 2199.0,
+      "diff_abs": -2308.0,
+      "diff_pct": -51.21
     },
     {
-      "ean": "7791813405030",
-      "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-      "categoria": "Bebidas",
-      "precio_antes": 3350.0,
-      "precio_hoy": 1849.0,
-      "diff_abs": -1501.0,
-      "diff_pct": -44.81
+      "ean": "7791337007260",
+      "nombre": "leche chocolatada cindor x 200 ml.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2863.0,
+      "precio_hoy": 1609.0,
+      "diff_abs": -1254.0,
+      "diff_pct": -43.8
     },
     {
-      "ean": "7791813405023",
-      "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-      "categoria": "Bebidas",
-      "precio_antes": 3350.0,
-      "precio_hoy": 1849.0,
-      "diff_abs": -1501.0,
-      "diff_pct": -44.81
+      "ean": "7791337010314",
+      "nombre": "yogur la serenisima descremado batido x 120 gm frutilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1332.0,
+      "precio_hoy": 749.0,
+      "diff_abs": -583.0,
+      "diff_pct": -43.77
     },
     {
-      "ean": "7792799000035",
-      "nombre": "agua mineral eco de los andes x 500 ml. con gas",
-      "categoria": "Bebidas",
-      "precio_antes": 2200.0,
-      "precio_hoy": 1319.0,
-      "diff_abs": -881.0,
-      "diff_pct": -40.05
+      "ean": "7791337010307",
+      "nombre": "yogur la serenisima descremado batido x 120 gm vainilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1332.0,
+      "precio_hoy": 749.0,
+      "diff_abs": -583.0,
+      "diff_pct": -43.77
     }
   ],
-  "productos_subieron_dia": 176,
-  "productos_bajaron_dia": 103,
-  "productos_sin_cambio_dia": 6003
+  "productos_subieron_dia": 93,
+  "productos_bajaron_dia": 179,
+  "productos_sin_cambio_dia": 6020
 }
