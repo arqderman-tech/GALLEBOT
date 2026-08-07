@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7797906054819",
-    "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 9939.01,
-    "precio_hoy": 15291.0,
-    "diff_abs": 5351.99,
-    "diff_pct": 53.85
+    "ean": "7790580151881",
+    "nombre": "pure tomate la campagnola  x 340 gm passats",
+    "categoria": "Almacen",
+    "precio_antes": 979.0,
+    "precio_hoy": 2150.0,
+    "diff_abs": 1171.0,
+    "diff_pct": 119.61
   },
   {
-    "ean": "7797906054918",
-    "nombre": "papas mc cain noisette x 1.2 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 13219.0,
-    "precio_hoy": 20329.0,
-    "diff_abs": 7110.0,
-    "diff_pct": 53.79
+    "ean": "7790070337092",
+    "nombre": "fideos mostachol al huevo lucchetti x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1339.0,
+    "precio_hoy": 2245.0,
+    "diff_abs": 906.0,
+    "diff_pct": 67.66
   },
   {
-    "ean": "7790070760623",
-    "nombre": "vino benjamin  nieto x 750 ml blanco dulce",
+    "ean": "7790070761071",
+    "nombre": "espumante nieto senetiner x 750 ml grand cuvee extra brut",
     "categoria": "Bebidas",
-    "precio_antes": 5089.0,
-    "precio_hoy": 6900.0,
-    "diff_abs": 1811.0,
-    "diff_pct": 35.59
+    "precio_antes": 12309.01,
+    "precio_hoy": 20143.0,
+    "diff_abs": 7833.99,
+    "diff_pct": 63.64
   },
   {
-    "ean": "2022010000007",
-    "nombre": "remolacha x paquete",
+    "ean": "7790070433091",
+    "nombre": "arroz gallo oro x1kg.parb.est.",
+    "categoria": "Almacen",
+    "precio_antes": 2879.0,
+    "precio_hoy": 4523.0,
+    "diff_abs": 1644.0,
+    "diff_pct": 57.1
+  },
+  {
+    "ean": "7790387070019",
+    "nombre": "arroz largo fino maria x 1 kg.",
+    "categoria": "Almacen",
+    "precio_antes": 1399.0,
+    "precio_hoy": 2130.0,
+    "diff_abs": 731.0,
+    "diff_pct": 52.25
+  },
+  {
+    "ean": "7790387070026",
+    "nombre": "arroz largo fino maria x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 739.0,
+    "precio_hoy": 1117.0,
+    "diff_abs": 378.0,
+    "diff_pct": 51.15
+  },
+  {
+    "ean": "7790150812785",
+    "nombre": "edulc.tuy stevia x200 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 4599.0,
+    "precio_hoy": 6943.0,
+    "diff_abs": 2344.0,
+    "diff_pct": 50.97
+  },
+  {
+    "ean": "2022080000006",
+    "nombre": "rucula x paquete",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2990.0,
+    "precio_antes": 990.0,
+    "precio_hoy": 1490.0,
     "diff_abs": 500.0,
-    "diff_pct": 20.08
+    "diff_pct": 50.51
   },
   {
-    "ean": "7791728009200",
-    "nombre": "espumante santa julia dulce x 750 ml.",
+    "ean": "7790070104847",
+    "nombre": "vino blanco nieto senetiner 0 % alcohol x 750 ml  chardonay",
     "categoria": "Bebidas",
-    "precio_antes": 13669.0,
-    "precio_hoy": 15806.26,
-    "diff_abs": 2137.26,
-    "diff_pct": 15.64
+    "precio_antes": 10099.0,
+    "precio_hoy": 15058.0,
+    "diff_abs": 4959.0,
+    "diff_pct": 49.1
   },
   {
-    "ean": "7791250003394",
-    "nombre": "espumante navarro correas x 355 gm brut",
-    "categoria": "Bebidas",
-    "precio_antes": 4059.0,
-    "precio_hoy": 4673.44,
-    "diff_abs": 614.44,
-    "diff_pct": 15.14
+    "ean": "7622300724436",
+    "nombre": "fideos terrabusi x 500 gr. dedalitos",
+    "categoria": "Almacen",
+    "precio_antes": 929.0,
+    "precio_hoy": 1362.0,
+    "diff_abs": 433.0,
+    "diff_pct": 46.61
   },
   {
-    "ean": "7891112094604",
-    "nombre": "tenedores tramontina new kolor x 3 color rojo",
-    "categoria": "Limpieza",
-    "precio_antes": 3914.0,
-    "precio_hoy": 4309.0,
-    "diff_abs": 395.0,
-    "diff_pct": 10.09
-  },
-  {
-    "ean": "39800014009",
-    "nombre": "pilas energizer aaa x 2",
-    "categoria": "Limpieza",
-    "precio_antes": 3596.0,
-    "precio_hoy": 3956.0,
-    "diff_abs": 360.0,
-    "diff_pct": 10.01
-  },
-  {
-    "ean": "7891112018648",
-    "nombre": "cuchillos tramontina dynamic x 3 unid.",
-    "categoria": "Limpieza",
-    "precio_antes": 7966.0,
-    "precio_hoy": 8763.0,
-    "diff_abs": 797.0,
-    "diff_pct": 10.01
-  },
-  {
-    "ean": "7891112017214",
-    "nombre": "cucharas tramontina dynamic x3 mango madera",
-    "categoria": "Limpieza",
-    "precio_antes": 9210.0,
-    "precio_hoy": 10131.0,
-    "diff_abs": 921.0,
-    "diff_pct": 10.0
-  },
-  {
-    "ean": "7891112066526",
-    "nombre": "cuchara de te tramontina new kolor x 3 negras",
-    "categoria": "Limpieza",
-    "precio_antes": 2579.0,
-    "precio_hoy": 2837.0,
-    "diff_abs": 258.0,
-    "diff_pct": 10.0
-  },
-  {
-    "ean": "7501037600032",
-    "nombre": "pilas comunes eveready extra duracion c x 2 unid.",
-    "categoria": "Limpieza",
-    "precio_antes": 3589.0,
+    "ean": "7790150812761",
+    "nombre": "edulc.tuy stevia x100 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 2699.0,
     "precio_hoy": 3948.0,
-    "diff_abs": 359.0,
-    "diff_pct": 10.0
+    "diff_abs": 1249.0,
+    "diff_pct": 46.28
   },
   {
-    "ean": "7891112066472",
-    "nombre": "tenedores tramontina new kolor x 3 unid.",
-    "categoria": "Limpieza",
-    "precio_antes": 3914.0,
-    "precio_hoy": 4305.0,
-    "diff_abs": 391.0,
-    "diff_pct": 9.99
+    "ean": "7790150813508",
+    "nombre": "edulcorante liquido tuy stevia x 200 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 3279.0,
+    "precio_hoy": 4796.0,
+    "diff_abs": 1517.0,
+    "diff_pct": 46.26
   },
   {
-    "ean": "7501037600018",
-    "nombre": "pilas eveready d x 2 unid.",
-    "categoria": "Limpieza",
-    "precio_antes": 4804.0,
-    "precio_hoy": 5284.0,
-    "diff_abs": 480.0,
-    "diff_pct": 9.99
+    "ean": "7790150812921",
+    "nombre": "edulcorante en polvo tuy clasico x 50 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 979.0,
+    "precio_hoy": 1431.0,
+    "diff_abs": 452.0,
+    "diff_pct": 46.17
   },
   {
-    "ean": "2020890000001",
-    "nombre": "kiwi x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 10990.0,
-    "precio_hoy": 11990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 9.1
+    "ean": "7790150812945",
+    "nombre": "edulc.tuy clasico x100 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 1959.0,
+    "precio_hoy": 2862.0,
+    "diff_abs": 903.0,
+    "diff_pct": 46.09
   },
   {
-    "ean": "7790415133471",
-    "nombre": "vino rosaura x 750 ml malbec",
+    "ean": "7790150812747",
+    "nombre": "edulc.tuy stevia x50 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 1469.0,
+    "precio_hoy": 2144.0,
+    "diff_abs": 675.0,
+    "diff_pct": 45.95
+  },
+  {
+    "ean": "7790070036506",
+    "nombre": "filet de merluza granja del sol x 500 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 8609.0,
+    "precio_hoy": 12141.0,
+    "diff_abs": 3532.0,
+    "diff_pct": 41.03
+  },
+  {
+    "ean": "7790070036520",
+    "nombre": "medallones de merluza granja del sol x 450 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 6109.0,
+    "precio_hoy": 8606.0,
+    "diff_abs": 2497.0,
+    "diff_pct": 40.87
+  },
+  {
+    "ean": "7790070036513",
+    "nombre": "bastoncitos de merluza granja del sol x 300 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3599.0,
+    "precio_hoy": 5066.0,
+    "diff_abs": 1467.0,
+    "diff_pct": 40.76
+  },
+  {
+    "ean": "7790314077630",
+    "nombre": "vino tinto finca magnolia cabernet sauvignon x 750",
     "categoria": "Bebidas",
-    "precio_antes": 20609.0,
-    "precio_hoy": 22416.82,
-    "diff_abs": 1807.82,
-    "diff_pct": 8.77
+    "precio_antes": 4499.0,
+    "precio_hoy": 6332.0,
+    "diff_abs": 1833.0,
+    "diff_pct": 40.74
   },
   {
-    "ean": "2021470000008",
-    "nombre": "papa elegida red x kilo",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2590.0,
-    "precio_hoy": 2790.0,
-    "diff_abs": 200.0,
-    "diff_pct": 7.72
-  },
-  {
-    "ean": "2021500000008",
-    "nombre": "papa negra suelta x kilo",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2590.0,
-    "precio_hoy": 2790.0,
-    "diff_abs": 200.0,
-    "diff_pct": 7.72
-  },
-  {
-    "ean": "7790950003055",
-    "nombre": "amargo tacconi con limon dietetico x 1.5 lt.",
+    "ean": "7790314077623",
+    "nombre": "vino magnolia negra malbec x 750 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 1589.0,
-    "precio_hoy": 1699.47,
-    "diff_abs": 110.47,
-    "diff_pct": 6.95
-  },
-  {
-    "ean": "7790950003048",
-    "nombre": "amargo tacconi serrano x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1589.0,
-    "precio_hoy": 1699.47,
-    "diff_abs": 110.47,
-    "diff_pct": 6.95
+    "precio_antes": 4499.0,
+    "precio_hoy": 6332.0,
+    "diff_abs": 1833.0,
+    "diff_pct": 40.74
   }
 ]

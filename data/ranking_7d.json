@@ -1,12 +1,12 @@
 [
   {
-    "ean": "656750793282",
-    "nombre": "candado 40 mm blister",
-    "categoria": "Limpieza",
-    "precio_antes": 32.47,
-    "precio_hoy": 9558.17,
-    "diff_abs": 9525.7,
-    "diff_pct": 29336.93
+    "ean": "7790580151881",
+    "nombre": "pure tomate la campagnola  x 340 gm passats",
+    "categoria": "Almacen",
+    "precio_antes": 979.0,
+    "precio_hoy": 2150.0,
+    "diff_abs": 1171.0,
+    "diff_pct": 119.61
   },
   {
     "ean": "7790580151898",
@@ -18,13 +18,58 @@
     "diff_pct": 118.95
   },
   {
+    "ean": "7790070761071",
+    "nombre": "espumante nieto senetiner x 750 ml grand cuvee extra brut",
+    "categoria": "Bebidas",
+    "precio_antes": 12309.0,
+    "precio_hoy": 20143.0,
+    "diff_abs": 7834.0,
+    "diff_pct": 63.64
+  },
+  {
     "ean": "7790580144180",
     "nombre": "salsa la campagnola x 350 gr oliva fco vidrio",
     "categoria": "Almacen",
     "precio_antes": 1790.0,
-    "precio_hoy": 3640.0,
-    "diff_abs": 1850.0,
-    "diff_pct": 103.35
+    "precio_hoy": 2929.0,
+    "diff_abs": 1139.0,
+    "diff_pct": 63.63
+  },
+  {
+    "ean": "7790139004576",
+    "nombre": "aceite de oliva casalta medio x 400 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 20559.0,
+    "precio_hoy": 33216.0,
+    "diff_abs": 12657.0,
+    "diff_pct": 61.56
+  },
+  {
+    "ean": "7790139004569",
+    "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
+    "categoria": "Almacen",
+    "precio_antes": 20559.0,
+    "precio_hoy": 33216.0,
+    "diff_abs": 12657.0,
+    "diff_pct": 61.56
+  },
+  {
+    "ean": "7790070433091",
+    "nombre": "arroz gallo oro x1kg.parb.est.",
+    "categoria": "Almacen",
+    "precio_antes": 2879.0,
+    "precio_hoy": 4523.0,
+    "diff_abs": 1644.0,
+    "diff_pct": 57.1
+  },
+  {
+    "ean": "7797906054819",
+    "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
+    "categoria": "Congelados",
+    "precio_antes": 9939.01,
+    "precio_hoy": 15291.0,
+    "diff_abs": 5351.99,
+    "diff_pct": 53.85
   },
   {
     "ean": "7793046015024",
@@ -36,147 +81,102 @@
     "diff_pct": 53.27
   },
   {
-    "ean": "7790139004569",
-    "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
+    "ean": "7790387070019",
+    "nombre": "arroz largo fino maria x 1 kg.",
     "categoria": "Almacen",
-    "precio_antes": 20559.0,
-    "precio_hoy": 31043.0,
-    "diff_abs": 10484.0,
-    "diff_pct": 50.99
+    "precio_antes": 1399.0,
+    "precio_hoy": 2130.0,
+    "diff_abs": 731.0,
+    "diff_pct": 52.25
   },
   {
-    "ean": "7790139004576",
-    "nombre": "aceite de oliva casalta medio x 400 ml.",
+    "ean": "7790387070026",
+    "nombre": "arroz largo fino maria x 500 gr.",
     "categoria": "Almacen",
-    "precio_antes": 20559.0,
-    "precio_hoy": 31043.0,
-    "diff_abs": 10484.0,
-    "diff_pct": 50.99
+    "precio_antes": 739.0,
+    "precio_hoy": 1117.0,
+    "diff_abs": 378.0,
+    "diff_pct": 51.15
   },
   {
-    "ean": "7790040991910",
-    "nombre": "alfajor blano",
+    "ean": "7790150812785",
+    "nombre": "edulc.tuy stevia x200 sobres",
     "categoria": "Almacen",
-    "precio_antes": 1590.0,
-    "precio_hoy": 2323.0,
-    "diff_abs": 733.0,
-    "diff_pct": 46.1
+    "precio_antes": 4599.0,
+    "precio_hoy": 6943.0,
+    "diff_abs": 2344.0,
+    "diff_pct": 50.97
   },
   {
-    "ean": "7790040133600",
-    "nombre": "alfajor minitorta aguila coco",
+    "ean": "2022080000006",
+    "nombre": "rucula x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 990.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 50.51
+  },
+  {
+    "ean": "7790070104847",
+    "nombre": "vino blanco nieto senetiner 0 % alcohol x 750 ml  chardonay",
+    "categoria": "Bebidas",
+    "precio_antes": 10099.0,
+    "precio_hoy": 15058.0,
+    "diff_abs": 4959.0,
+    "diff_pct": 49.1
+  },
+  {
+    "ean": "7622300724436",
+    "nombre": "fideos terrabusi x 500 gr. dedalitos",
     "categoria": "Almacen",
-    "precio_antes": 1590.0,
-    "precio_hoy": 2323.0,
-    "diff_abs": 733.0,
-    "diff_pct": 46.1
+    "precio_antes": 929.0,
+    "precio_hoy": 1362.0,
+    "diff_abs": 433.0,
+    "diff_pct": 46.61
   },
   {
-    "ean": "7790040133587",
-    "nombre": "alf.minitorta x69gr.clasico",
+    "ean": "7790150812761",
+    "nombre": "edulc.tuy stevia x100 sobres",
     "categoria": "Almacen",
-    "precio_antes": 1590.0,
-    "precio_hoy": 2323.0,
-    "diff_abs": 733.0,
-    "diff_pct": 46.1
+    "precio_antes": 2699.0,
+    "precio_hoy": 3948.0,
+    "diff_abs": 1249.0,
+    "diff_pct": 46.28
   },
   {
-    "ean": "7790040375000",
-    "nombre": "alfajor blanco y negro x 73 gm negro",
+    "ean": "7790150813508",
+    "nombre": "edulcorante liquido tuy stevia x 200 ml.",
     "categoria": "Almacen",
-    "precio_antes": 1590.0,
-    "precio_hoy": 2323.0,
-    "diff_abs": 733.0,
-    "diff_pct": 46.1
+    "precio_antes": 3279.0,
+    "precio_hoy": 4796.0,
+    "diff_abs": 1517.0,
+    "diff_pct": 46.26
   },
   {
-    "ean": "7790040659605",
-    "nombre": "alf. cofler block x60gr",
+    "ean": "7790150812921",
+    "nombre": "edulcorante en polvo tuy clasico x 50 sobres",
     "categoria": "Almacen",
-    "precio_antes": 1590.0,
-    "precio_hoy": 2323.0,
-    "diff_abs": 733.0,
-    "diff_pct": 46.1
+    "precio_antes": 979.0,
+    "precio_hoy": 1431.0,
+    "diff_abs": 452.0,
+    "diff_pct": 46.17
   },
   {
-    "ean": "7790580148980",
-    "nombre": "choclo arcor x300gr.grano",
+    "ean": "7790150812945",
+    "nombre": "edulc.tuy clasico x100 sobres",
     "categoria": "Almacen",
-    "precio_antes": 1490.0,
-    "precio_hoy": 2162.0,
-    "diff_abs": 672.0,
-    "diff_pct": 45.1
+    "precio_antes": 1959.0,
+    "precio_hoy": 2862.0,
+    "diff_abs": 903.0,
+    "diff_pct": 46.09
   },
   {
-    "ean": "7797906054956",
-    "nombre": "papas congeladas mc cain smiles x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 9439.0,
-    "precio_hoy": 13481.0,
-    "diff_abs": 4042.0,
-    "diff_pct": 42.82
-  },
-  {
-    "ean": "7500810034347",
-    "nombre": "snack takis xplosion x 140 gr.",
+    "ean": "7790150812747",
+    "nombre": "edulc.tuy stevia x50 sobres",
     "categoria": "Almacen",
-    "precio_antes": 3119.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1334.0,
-    "diff_pct": 42.77
-  },
-  {
-    "ean": "7500810034354",
-    "nombre": "snack takis original x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3119.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1334.0,
-    "diff_pct": 42.77
-  },
-  {
-    "ean": "7500810034330",
-    "nombre": "snack takis fuego x 140 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3119.0,
-    "precio_hoy": 4453.0,
-    "diff_abs": 1334.0,
-    "diff_pct": 42.77
-  },
-  {
-    "ean": "7790670052418",
-    "nombre": "salchicha vienissima x 12 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4389.0,
-    "precio_hoy": 6256.0,
-    "diff_abs": 1867.0,
-    "diff_pct": 42.54
-  },
-  {
-    "ean": "7500810034460",
-    "nombre": "snack takis xplosion x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2069.0,
-    "precio_hoy": 2945.0,
-    "diff_abs": 876.0,
-    "diff_pct": 42.34
-  },
-  {
-    "ean": "7500810034361",
-    "nombre": "snack takis fuego x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2069.0,
-    "precio_hoy": 2945.0,
-    "diff_abs": 876.0,
-    "diff_pct": 42.34
-  },
-  {
-    "ean": "7500810034477",
-    "nombre": "snack takis original x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2069.0,
-    "precio_hoy": 2945.0,
-    "diff_abs": 876.0,
-    "diff_pct": 42.34
+    "precio_antes": 1469.0,
+    "precio_hoy": 2144.0,
+    "diff_abs": 675.0,
+    "diff_pct": 45.95
   }
 ]

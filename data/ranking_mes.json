@@ -27,13 +27,13 @@
     "diff_pct": 152.82
   },
   {
-    "ean": "7790580144180",
-    "nombre": "salsa la campagnola x 350 gr oliva fco vidrio",
+    "ean": "7790580151881",
+    "nombre": "pure tomate la campagnola  x 340 gm passats",
     "categoria": "Almacen",
-    "precio_antes": 1599.0,
-    "precio_hoy": 3640.0,
-    "diff_abs": 2041.0,
-    "diff_pct": 127.64
+    "precio_antes": 979.0,
+    "precio_hoy": 2150.0,
+    "diff_abs": 1171.0,
+    "diff_pct": 119.61
   },
   {
     "ean": "7790580151898",
@@ -54,6 +54,15 @@
     "diff_pct": 98.9
   },
   {
+    "ean": "7790580144180",
+    "nombre": "salsa la campagnola x 350 gr oliva fco vidrio",
+    "categoria": "Almacen",
+    "precio_antes": 1599.0,
+    "precio_hoy": 2929.0,
+    "diff_abs": 1330.0,
+    "diff_pct": 83.18
+  },
+  {
     "ean": "7791337008410",
     "nombre": "leche chocolatada la serenisima x 200 ml.",
     "categoria": "Lacteos Y Frescos",
@@ -61,24 +70,6 @@
     "precio_hoy": 1912.0,
     "diff_abs": 813.0,
     "diff_pct": 73.98
-  },
-  {
-    "ean": "2020270000003",
-    "nombre": "cebolla x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1790.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1200.0,
-    "diff_pct": 67.04
-  },
-  {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1790.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1200.0,
-    "diff_pct": 67.04
   },
   {
     "ean": "2020050000001",
@@ -90,44 +81,8 @@
     "diff_pct": 66.89
   },
   {
-    "ean": "7790040133587",
-    "nombre": "alf.minitorta x69gr.clasico",
-    "categoria": "Almacen",
-    "precio_antes": 1409.0,
-    "precio_hoy": 2323.0,
-    "diff_abs": 914.0,
-    "diff_pct": 64.87
-  },
-  {
-    "ean": "7790040659605",
-    "nombre": "alf. cofler block x60gr",
-    "categoria": "Almacen",
-    "precio_antes": 1409.0,
-    "precio_hoy": 2323.0,
-    "diff_abs": 914.0,
-    "diff_pct": 64.87
-  },
-  {
-    "ean": "7790040375000",
-    "nombre": "alfajor blanco y negro x 73 gm negro",
-    "categoria": "Almacen",
-    "precio_antes": 1409.0,
-    "precio_hoy": 2323.0,
-    "diff_abs": 914.0,
-    "diff_pct": 64.87
-  },
-  {
-    "ean": "7790040991910",
-    "nombre": "alfajor blano",
-    "categoria": "Almacen",
-    "precio_antes": 1409.0,
-    "precio_hoy": 2323.0,
-    "diff_abs": 914.0,
-    "diff_pct": 64.87
-  },
-  {
-    "ean": "7791337061491",
-    "nombre": "queso casancrem x 500gr clasico",
+    "ean": "7791337061507",
+    "nombre": "queso untable cremoso casancrem balance x 500 gr.",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 4999.0,
     "precio_hoy": 8199.0,
@@ -135,8 +90,8 @@
     "diff_pct": 64.01
   },
   {
-    "ean": "7791337061507",
-    "nombre": "queso untable cremoso casancrem balance x 500 gr.",
+    "ean": "7791337061491",
+    "nombre": "queso casancrem x 500gr clasico",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 4999.0,
     "precio_hoy": 8199.0,
@@ -153,24 +108,6 @@
     "diff_pct": 62.58
   },
   {
-    "ean": "7790070760623",
-    "nombre": "vino benjamin  nieto x 750 ml blanco dulce",
-    "categoria": "Bebidas",
-    "precio_antes": 4299.0,
-    "precio_hoy": 6900.0,
-    "diff_abs": 2601.0,
-    "diff_pct": 60.5
-  },
-  {
-    "ean": "6520203142177",
-    "nombre": "dispenser",
-    "categoria": "Limpieza",
-    "precio_antes": 4171.0,
-    "precio_hoy": 6612.0,
-    "diff_abs": 2441.0,
-    "diff_pct": 58.52
-  },
-  {
     "ean": "7791337061385",
     "nombre": "queso crema casancrem balance x 290 gm",
     "categoria": "Lacteos Y Frescos",
@@ -178,5 +115,68 @@
     "precio_hoy": 5199.0,
     "diff_abs": 1900.0,
     "diff_pct": 57.59
+  },
+  {
+    "ean": "7791337061361",
+    "nombre": "queso crema casancrem x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3299.0,
+    "precio_hoy": 5199.0,
+    "diff_abs": 1900.0,
+    "diff_pct": 57.59
+  },
+  {
+    "ean": "7791337060944",
+    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3299.0,
+    "precio_hoy": 5199.0,
+    "diff_abs": 1900.0,
+    "diff_pct": 57.59
+  },
+  {
+    "ean": "7790895641534",
+    "nombre": "jugo cepita botella x 1,5 lt. durazno",
+    "categoria": "Bebidas",
+    "precio_antes": 2479.0,
+    "precio_hoy": 3849.0,
+    "diff_abs": 1370.0,
+    "diff_pct": 55.26
+  },
+  {
+    "ean": "7790895641749",
+    "nombre": "jugo cepita anana x 1.5 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2479.0,
+    "precio_hoy": 3849.0,
+    "diff_abs": 1370.0,
+    "diff_pct": 55.26
+  },
+  {
+    "ean": "7790895641800",
+    "nombre": "jugo cepita botella x 1.5 lt. naranja",
+    "categoria": "Bebidas",
+    "precio_antes": 2479.0,
+    "precio_hoy": 3849.0,
+    "diff_abs": 1370.0,
+    "diff_pct": 55.26
+  },
+  {
+    "ean": "7792798002399",
+    "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4587.45,
+    "precio_hoy": 7056.0,
+    "diff_abs": 2468.55,
+    "diff_pct": 53.81
+  },
+  {
+    "ean": "7793046015024",
+    "nombre": "tomate triturado dulcor x 960 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1670.94,
+    "precio_hoy": 2561.0,
+    "diff_abs": 890.06,
+    "diff_pct": 53.27
   }
 ]

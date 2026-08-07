@@ -1,147 +1,147 @@
 {
-  "fecha": "20260806",
-  "total_productos": 6330,
-  "variacion_dia": -0.42,
-  "variacion_7d": 4.85,
-  "variacion_mes": 2.15,
+  "fecha": "20260807",
+  "total_productos": 6316,
+  "variacion_dia": -0.04,
+  "variacion_7d": 0.02,
+  "variacion_mes": 1.34,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.03,
-      "productos_subieron": 9,
-      "productos_bajaron": 16,
-      "total_productos": 1443
+      "variacion_pct_promedio": 0.18,
+      "productos_subieron": 244,
+      "productos_bajaron": 155,
+      "total_productos": 1444
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -1.51,
-      "productos_subieron": 4,
-      "productos_bajaron": 85,
-      "total_productos": 1116
+      "variacion_pct_promedio": -0.58,
+      "productos_subieron": 62,
+      "productos_bajaron": 64,
+      "total_productos": 1119
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -2.83,
-      "productos_subieron": 2,
-      "productos_bajaron": 49,
-      "total_productos": 235
+      "variacion_pct_promedio": 0.87,
+      "productos_subieron": 16,
+      "productos_bajaron": 1,
+      "total_productos": 236
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 8,
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 0,
       "productos_bajaron": 2,
-      "total_productos": 795
+      "total_productos": 793
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.04,
-      "productos_subieron": 39,
-      "productos_bajaron": 15,
-      "total_productos": 874
+      "variacion_pct_promedio": -0.09,
+      "productos_subieron": 122,
+      "productos_bajaron": 123,
+      "total_productos": 876
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.12,
-      "productos_subieron": 31,
-      "productos_bajaron": 12,
-      "total_productos": 1829
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 194,
+      "productos_bajaron": 139,
+      "total_productos": 1828
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7791337007796",
-      "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 7960.0,
-      "precio_hoy": 3809.0,
-      "diff_abs": -4151.0,
-      "diff_pct": -52.15
+      "ean": "7797906054918",
+      "nombre": "papas mc cain noisette x 1.2 kg.",
+      "categoria": "Congelados",
+      "precio_antes": 20329.0,
+      "precio_hoy": 12199.0,
+      "diff_abs": -8130.0,
+      "diff_pct": -39.99
     },
     {
-      "ean": "7791337007253",
-      "nombre": "leche chocolatada cindor x 1 lt.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 7960.0,
-      "precio_hoy": 3809.0,
-      "diff_abs": -4151.0,
-      "diff_pct": -52.15
+      "ean": "2022040000008",
+      "nombre": "repollo blanco x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2990.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -33.44
     },
     {
-      "ean": "7791337010376",
-      "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2308.0,
-      "diff_pct": -51.21
+      "ean": "7790070760623",
+      "nombre": "vino benjamin  nieto x 750 ml blanco dulce",
+      "categoria": "Bebidas",
+      "precio_antes": 6900.0,
+      "precio_hoy": 4699.0,
+      "diff_abs": -2201.0,
+      "diff_pct": -31.9
     },
     {
-      "ean": "7791337010369",
-      "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2308.0,
-      "diff_pct": -51.21
+      "ean": "2013220000000",
+      "nombre": "dulce de batata arcor en lata x kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 5206.0,
+      "precio_hoy": 3589.0,
+      "diff_abs": -1617.0,
+      "diff_pct": -31.06
     },
     {
-      "ean": "7791337010215",
-      "nombre": "yogur ls.clas.ent.sh x900g.fru",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2308.0,
-      "diff_pct": -51.21
+      "ean": "2013230000007",
+      "nombre": "dulce de membrillo en cajon arcor x kilo. x kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 5160.0,
+      "precio_hoy": 3559.0,
+      "diff_abs": -1601.0,
+      "diff_pct": -31.03
     },
     {
-      "ean": "7791337010468",
-      "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2308.0,
-      "diff_pct": -51.21
+      "ean": "2013210000003",
+      "nombre": "dce.batata arcor vain.xkg.caj",
+      "categoria": "Perfumeria",
+      "precio_antes": 4080.0,
+      "precio_hoy": 2819.0,
+      "diff_abs": -1261.0,
+      "diff_pct": -30.91
     },
     {
-      "ean": "7791337010475",
-      "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4507.0,
-      "precio_hoy": 2199.0,
-      "diff_abs": -2308.0,
-      "diff_pct": -51.21
+      "ean": "2012080000007",
+      "nombre": "dulce de batata con chocolate en caja arcor . x kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 4080.0,
+      "precio_hoy": 2819.0,
+      "diff_abs": -1261.0,
+      "diff_pct": -30.91
     },
     {
-      "ean": "7791337007260",
-      "nombre": "leche chocolatada cindor x 200 ml.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2863.0,
-      "precio_hoy": 1609.0,
-      "diff_abs": -1254.0,
-      "diff_pct": -43.8
+      "ean": "2027670000008",
+      "nombre": "dulce de batata en lata la campagnola x kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 6294.0,
+      "precio_hoy": 4349.0,
+      "diff_abs": -1945.0,
+      "diff_pct": -30.9
     },
     {
-      "ean": "7791337010314",
-      "nombre": "yogur la serenisima descremado batido x 120 gm frutilla",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1332.0,
-      "precio_hoy": 749.0,
-      "diff_abs": -583.0,
-      "diff_pct": -43.77
+      "ean": "2013260000008",
+      "nombre": "dulce de membrillo en lata arcor x kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 6361.0,
+      "precio_hoy": 4399.0,
+      "diff_abs": -1962.0,
+      "diff_pct": -30.84
     },
     {
-      "ean": "7791337010307",
-      "nombre": "yogur la serenisima descremado batido x 120 gm vainilla",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1332.0,
-      "precio_hoy": 749.0,
-      "diff_abs": -583.0,
-      "diff_pct": -43.77
+      "ean": "2027680000005",
+      "nombre": "dulce de membrillo en lata la campagnola x kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 7700.0,
+      "precio_hoy": 5329.0,
+      "diff_abs": -2371.0,
+      "diff_pct": -30.79
     }
   ],
-  "productos_subieron_dia": 93,
-  "productos_bajaron_dia": 179,
-  "productos_sin_cambio_dia": 6020
+  "productos_subieron_dia": 638,
+  "productos_bajaron_dia": 484,
+  "productos_sin_cambio_dia": 5174
 }
