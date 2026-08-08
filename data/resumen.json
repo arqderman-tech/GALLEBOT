@@ -1,147 +1,147 @@
 {
-  "fecha": "20260807",
-  "total_productos": 6316,
+  "fecha": "20260808",
+  "total_productos": 6353,
   "variacion_dia": -0.04,
-  "variacion_7d": 0.02,
-  "variacion_mes": 1.34,
+  "variacion_7d": -0.02,
+  "variacion_mes": 0.74,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.18,
-      "productos_subieron": 244,
-      "productos_bajaron": 155,
+      "variacion_pct_promedio": -0.45,
+      "productos_subieron": 0,
+      "productos_bajaron": 25,
       "total_productos": 1444
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.58,
-      "productos_subieron": 62,
-      "productos_bajaron": 64,
-      "total_productos": 1119
+      "variacion_pct_promedio": 0.13,
+      "productos_subieron": 8,
+      "productos_bajaron": 3,
+      "total_productos": 1113
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.87,
-      "productos_subieron": 16,
-      "productos_bajaron": 1,
+      "variacion_pct_promedio": 0.07,
+      "productos_subieron": 10,
+      "productos_bajaron": 7,
       "total_productos": 236
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": -0.01,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "total_productos": 793
+      "productos_bajaron": 0,
+      "total_productos": 799
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.09,
-      "productos_subieron": 122,
-      "productos_bajaron": 123,
-      "total_productos": 876
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 874
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 194,
-      "productos_bajaron": 139,
-      "total_productos": 1828
+      "variacion_pct_promedio": 0.15,
+      "productos_subieron": 65,
+      "productos_bajaron": 35,
+      "total_productos": 1829
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7797906054918",
-      "nombre": "papas mc cain noisette x 1.2 kg.",
-      "categoria": "Congelados",
-      "precio_antes": 20329.0,
-      "precio_hoy": 12199.0,
-      "diff_abs": -8130.0,
-      "diff_pct": -39.99
+      "ean": "7794000009424",
+      "nombre": "aderezo hellmans x 340 gr asado",
+      "categoria": "Almacen",
+      "precio_antes": 4422.21,
+      "precio_hoy": 2439.0,
+      "diff_abs": -1983.21,
+      "diff_pct": -44.85
     },
     {
-      "ean": "2022040000008",
-      "nombre": "repollo blanco x kg.",
+      "ean": "2020120000009",
+      "nombre": "berengena negra x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 1990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -33.44
+      "precio_antes": 4990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -40.08
     },
     {
-      "ean": "7790070760623",
-      "nombre": "vino benjamin  nieto x 750 ml blanco dulce",
+      "ean": "7790314075308",
+      "nombre": "vino blanco estancia mendoza chenin-chardonnay x 7",
       "categoria": "Bebidas",
-      "precio_antes": 6900.0,
-      "precio_hoy": 4699.0,
-      "diff_abs": -2201.0,
-      "diff_pct": -31.9
+      "precio_antes": 4440.0,
+      "precio_hoy": 3100.0,
+      "diff_abs": -1340.0,
+      "diff_pct": -30.18
     },
     {
-      "ean": "2013220000000",
-      "nombre": "dulce de batata arcor en lata x kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 5206.0,
-      "precio_hoy": 3589.0,
-      "diff_abs": -1617.0,
-      "diff_pct": -31.06
+      "ean": "7790314080173",
+      "nombre": "vino blanco estancia mendoza x 750 ml. chardonnay",
+      "categoria": "Bebidas",
+      "precio_antes": 4440.0,
+      "precio_hoy": 3100.0,
+      "diff_abs": -1340.0,
+      "diff_pct": -30.18
     },
     {
-      "ean": "2013230000007",
-      "nombre": "dulce de membrillo en cajon arcor x kilo. x kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 5160.0,
-      "precio_hoy": 3559.0,
-      "diff_abs": -1601.0,
-      "diff_pct": -31.03
+      "ean": "7790314080203",
+      "nombre": "vino est.mend.x750ml.che-ch-dc",
+      "categoria": "Bebidas",
+      "precio_antes": 4440.0,
+      "precio_hoy": 3100.0,
+      "diff_abs": -1340.0,
+      "diff_pct": -30.18
     },
     {
-      "ean": "2013210000003",
-      "nombre": "dce.batata arcor vain.xkg.caj",
-      "categoria": "Perfumeria",
-      "precio_antes": 4080.0,
-      "precio_hoy": 2819.0,
-      "diff_abs": -1261.0,
-      "diff_pct": -30.91
+      "ean": "7790314075261",
+      "nombre": "vino est.mend.x750ml.cabe-malb",
+      "categoria": "Bebidas",
+      "precio_antes": 4397.0,
+      "precio_hoy": 3100.0,
+      "diff_abs": -1297.0,
+      "diff_pct": -29.5
     },
     {
-      "ean": "2012080000007",
-      "nombre": "dulce de batata con chocolate en caja arcor . x kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 4080.0,
-      "precio_hoy": 2819.0,
-      "diff_abs": -1261.0,
-      "diff_pct": -30.91
+      "ean": "7790314080166",
+      "nombre": "vino estancia mendoza cabernet sauvignon x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 4397.0,
+      "precio_hoy": 3100.0,
+      "diff_abs": -1297.0,
+      "diff_pct": -29.5
     },
     {
-      "ean": "2027670000008",
-      "nombre": "dulce de batata en lata la campagnola x kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 6294.0,
-      "precio_hoy": 4349.0,
-      "diff_abs": -1945.0,
-      "diff_pct": -30.9
+      "ean": "7790314075292",
+      "nombre": "vino tinto estancia mendoza merlot-cabernet x 750.",
+      "categoria": "Bebidas",
+      "precio_antes": 4397.0,
+      "precio_hoy": 3100.0,
+      "diff_abs": -1297.0,
+      "diff_pct": -29.5
     },
     {
-      "ean": "2013260000008",
-      "nombre": "dulce de membrillo en lata arcor x kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 6361.0,
-      "precio_hoy": 4399.0,
-      "diff_abs": -1962.0,
-      "diff_pct": -30.84
+      "ean": "7790314080159",
+      "nombre": "vino estancia mendoza malbec x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 4397.0,
+      "precio_hoy": 3100.0,
+      "diff_abs": -1297.0,
+      "diff_pct": -29.5
     },
     {
-      "ean": "2027680000005",
-      "nombre": "dulce de membrillo en lata la campagnola x kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 7700.0,
-      "precio_hoy": 5329.0,
-      "diff_abs": -2371.0,
-      "diff_pct": -30.79
+      "ean": "7790314063824",
+      "nombre": "vino tinto toro x 1 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 2819.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -829.0,
+      "diff_pct": -29.41
     }
   ],
-  "productos_subieron_dia": 638,
-  "productos_bajaron_dia": 484,
-  "productos_sin_cambio_dia": 5174
+  "productos_subieron_dia": 83,
+  "productos_bajaron_dia": 70,
+  "productos_sin_cambio_dia": 6142
 }
