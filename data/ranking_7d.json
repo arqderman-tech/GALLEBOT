@@ -36,6 +36,15 @@
     "diff_pct": 63.64
   },
   {
+    "ean": "7790580144197",
+    "nombre": "salsa la campagnol x 350 gm napolitana premium2000",
+    "categoria": "Almacen",
+    "precio_antes": 1790.0,
+    "precio_hoy": 2929.0,
+    "diff_abs": 1139.0,
+    "diff_pct": 63.63
+  },
+  {
     "ean": "7790580144180",
     "nombre": "salsa la campagnola x 350 gr oliva fco vidrio",
     "categoria": "Almacen",
@@ -45,8 +54,8 @@
     "diff_pct": 63.63
   },
   {
-    "ean": "7790139004569",
-    "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
+    "ean": "7790139004576",
+    "nombre": "aceite de oliva casalta medio x 400 ml.",
     "categoria": "Almacen",
     "precio_antes": 20559.0,
     "precio_hoy": 33216.0,
@@ -54,8 +63,8 @@
     "diff_pct": 61.56
   },
   {
-    "ean": "7790139004576",
-    "nombre": "aceite de oliva casalta medio x 400 ml.",
+    "ean": "7790139004569",
+    "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
     "categoria": "Almacen",
     "precio_antes": 20559.0,
     "precio_hoy": 33216.0,
@@ -153,26 +162,17 @@
     "diff_pct": 49.1
   },
   {
-    "ean": "7891000379073",
-    "nombre": "chocolate kit-kat dark x 41,5 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1588.54,
-    "precio_hoy": 2364.0,
-    "diff_abs": 775.46,
-    "diff_pct": 48.82
-  },
-  {
-    "ean": "7891000422052",
-    "nombre": "chocolate kit kat triple chocolate x 41,5 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1588.54,
-    "precio_hoy": 2364.0,
-    "diff_abs": 775.46,
-    "diff_pct": 48.82
-  },
-  {
     "ean": "7891000379028",
     "nombre": "chocolate kit-kat white x 41,5 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1588.54,
+    "precio_hoy": 2364.0,
+    "diff_abs": 775.46,
+    "diff_pct": 48.82
+  },
+  {
+    "ean": "7891000379073",
+    "nombre": "chocolate kit-kat dark x 41,5 gr.",
     "categoria": "Almacen",
     "precio_antes": 1588.54,
     "precio_hoy": 2364.0,

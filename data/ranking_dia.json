@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7794000007741",
-    "nombre": "salsa golf hellmann`s x 250 gr.",
+    "ean": "7896004004969",
+    "nombre": "zucaritas x490gr.caja",
+    "categoria": "Perfumeria",
+    "precio_antes": 6304.0,
+    "precio_hoy": 6304.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790310985830",
+    "nombre": "3ds queso x 85 gr.",
     "categoria": "Almacen",
-    "precio_antes": 1583.0,
-    "precio_hoy": 2840.0,
-    "diff_abs": 1257.0,
-    "diff_pct": 79.41
+    "precio_antes": 3649.0,
+    "precio_hoy": 3649.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2027850000002",
-    "nombre": "ajies de colores x kilo",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 60.12
-  },
-  {
-    "ean": "7891000248799",
-    "nombre": "chocolate kit kat x 41 gr.",
+    "ean": "7790310985137",
+    "nombre": "3ds queso x143gr.",
     "categoria": "Almacen",
-    "precio_antes": 1499.0,
-    "precio_hoy": 2364.0,
-    "diff_abs": 865.0,
-    "diff_pct": 57.71
+    "precio_antes": 5118.0,
+    "precio_hoy": 5118.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7891000379073",
-    "nombre": "chocolate kit-kat dark x 41,5 gr.",
+    "ean": "7790310985113",
+    "nombre": "3ds sabor queso x 43 gm",
     "categoria": "Almacen",
-    "precio_antes": 1588.54,
-    "precio_hoy": 2364.0,
-    "diff_abs": 775.46,
-    "diff_pct": 48.82
+    "precio_antes": 2271.0,
+    "precio_hoy": 2271.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7891000379028",
-    "nombre": "chocolate kit-kat white x 41,5 gr.",
+    "ean": "7791728246629",
+    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
     "categoria": "Almacen",
-    "precio_antes": 1588.54,
-    "precio_hoy": 2364.0,
-    "diff_abs": 775.46,
-    "diff_pct": 48.82
+    "precio_antes": 24484.0,
+    "precio_hoy": 24484.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7891000422052",
-    "nombre": "chocolate kit kat triple chocolate x 41,5 gr.",
+    "ean": "763571722428",
+    "nombre": "ac.de coco entrenuts x200virg.",
     "categoria": "Almacen",
-    "precio_antes": 1588.54,
-    "precio_hoy": 2364.0,
-    "diff_abs": 775.46,
-    "diff_pct": 48.82
+    "precio_antes": 9649.0,
+    "precio_hoy": 9649.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2020300000003",
-    "nombre": "cebolla de verdeo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 33.39
-  },
-  {
-    "ean": "2022060000002",
-    "nombre": "repollo colorado x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 20.08
-  },
-  {
-    "ean": "2022210000005",
-    "nombre": "tomate perita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 20.08
-  },
-  {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 20.08
-  },
-  {
-    "ean": "2020570000000",
-    "nombre": "coliflor x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
-  },
-  {
-    "ean": "2021480000005",
-    "nombre": "papa elegida suelta x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 16.72
-  },
-  {
-    "ean": "7790360982254",
-    "nombre": "nuggets swift espinaca x 300 gm",
-    "categoria": "Congelados",
-    "precio_antes": 6169.0,
-    "precio_hoy": 6969.0,
-    "diff_abs": 800.0,
-    "diff_pct": 12.97
-  },
-  {
-    "ean": "7794000006270",
-    "nombre": "salsa cica x340gr.pizza",
+    "ean": "7798080520657",
+    "nombre": "ac.ol.l.toscana x250ml.ajo",
     "categoria": "Almacen",
-    "precio_antes": 1079.0,
-    "precio_hoy": 1139.0,
-    "diff_abs": 60.0,
-    "diff_pct": 5.56
+    "precio_antes": 9903.0,
+    "precio_hoy": 9903.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7794000008281",
-    "nombre": "caldo knorr cero sodio sabor verdura x 6 unid.",
+    "ean": "7798080520534",
+    "nombre": "ac.ol.l.toscana x250ml.albahac",
     "categoria": "Almacen",
-    "precio_antes": 1639.0,
-    "precio_hoy": 1729.0,
-    "diff_abs": 90.0,
-    "diff_pct": 5.49
+    "precio_antes": 9903.0,
+    "precio_hoy": 9903.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7794000008014",
-    "nombre": "salsa knorr balance pomarola x 340 gr.",
+    "ean": "7791728246612",
+    "nombre": "ac.ol.zuccardi x250ml.coratina",
     "categoria": "Almacen",
-    "precio_antes": 1459.0,
-    "precio_hoy": 1539.0,
-    "diff_abs": 80.0,
-    "diff_pct": 5.48
+    "precio_antes": 14282.0,
+    "precio_hoy": 14282.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7794000006133",
-    "nombre": "morron deshidratado knorr x 75 gr.",
+    "ean": "7791728246575",
+    "nombre": "ac.ol.zuccardi x250ml.picual",
     "categoria": "Almacen",
-    "precio_antes": 4199.0,
-    "precio_hoy": 4429.0,
-    "diff_abs": 230.0,
-    "diff_pct": 5.48
+    "precio_antes": 14282.0,
+    "precio_hoy": 14282.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7794000008038",
-    "nombre": "salsa knorr guisos y arroces x 340 gr.",
+    "ean": "7791728241181",
+    "nombre": "ac.ol.zuelo x500ml.bot.intenso",
     "categoria": "Almacen",
-    "precio_antes": 1469.0,
-    "precio_hoy": 1549.0,
-    "diff_abs": 80.0,
-    "diff_pct": 5.45
+    "precio_antes": 19077.0,
+    "precio_hoy": 19077.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7794000008007",
-    "nombre": "salsa knorr pomarola x 340 gr.",
+    "ean": "41331014922",
+    "nombre": "acaitunas goya x 149 gm con pimiento picante",
     "categoria": "Almacen",
-    "precio_antes": 1469.0,
-    "precio_hoy": 1549.0,
-    "diff_abs": 80.0,
-    "diff_pct": 5.45
+    "precio_antes": 9280.0,
+    "precio_hoy": 9280.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7794000008045",
-    "nombre": "salsa knorr pomodoro x 340 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1469.0,
-    "precio_hoy": 1549.0,
-    "diff_abs": 80.0,
-    "diff_pct": 5.45
+    "ean": "7790387014617",
+    "nombre": "yerba mate union 4 flex x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4587.0,
+    "precio_hoy": 4587.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790387013634",
+    "nombre": "yerba mate taragui x 250 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1378.0,
+    "precio_hoy": 1378.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790387013504",
+    "nombre": "yerba mate taragui sin palo x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3399.0,
+    "precio_hoy": 3399.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790387013498",
+    "nombre": "yerba mate taragui sin palo x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 6570.0,
+    "precio_hoy": 6570.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790387013627",
+    "nombre": "yerba mate taragui 4 flex x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2383.0,
+    "precio_hoy": 2383.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790387013610",
+    "nombre": "yerba mate taragui 4 flex x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4587.0,
+    "precio_hoy": 4587.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798468970012",
+    "nombre": "yerba mate sport afa x 500 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 3999.0,
+    "precio_hoy": 3999.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790326000626",
+    "nombre": "yerba mate sinceridad x 500 gr. suave",
+    "categoria": "Perfumeria",
+    "precio_antes": 2563.0,
+    "precio_hoy": 2563.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]

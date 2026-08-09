@@ -1,147 +1,147 @@
 {
-  "fecha": "20260808",
-  "total_productos": 6353,
-  "variacion_dia": -0.04,
-  "variacion_7d": -0.02,
-  "variacion_mes": 0.74,
+  "fecha": "20260809",
+  "total_productos": 6365,
+  "variacion_dia": -0.02,
+  "variacion_7d": -0.15,
+  "variacion_mes": 0.75,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.45,
+      "variacion_pct_promedio": -0.1,
       "productos_subieron": 0,
-      "productos_bajaron": 25,
-      "total_productos": 1444
+      "productos_bajaron": 8,
+      "total_productos": 1446
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.13,
-      "productos_subieron": 8,
-      "productos_bajaron": 3,
-      "total_productos": 1113
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1129
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.07,
-      "productos_subieron": 10,
-      "productos_bajaron": 7,
-      "total_productos": 236
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 239
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 799
+      "total_productos": 807
     },
     {
       "categoria": "Cuidado Personal",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 874
+      "total_productos": 892
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.15,
-      "productos_subieron": 65,
-      "productos_bajaron": 35,
-      "total_productos": 1829
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1835
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7794000009424",
-      "nombre": "aderezo hellmans x 340 gr asado",
-      "categoria": "Almacen",
-      "precio_antes": 4422.21,
-      "precio_hoy": 2439.0,
-      "diff_abs": -1983.21,
-      "diff_pct": -44.85
-    },
-    {
-      "ean": "2020120000009",
-      "nombre": "berengena negra x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -40.08
-    },
-    {
-      "ean": "7790314075308",
-      "nombre": "vino blanco estancia mendoza chenin-chardonnay x 7",
+      "ean": "7798123973044",
+      "nombre": "vino tinto chac chac cabernet franc x 750 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 4440.0,
-      "precio_hoy": 3100.0,
-      "diff_abs": -1340.0,
-      "diff_pct": -30.18
+      "precio_antes": 10500.0,
+      "precio_hoy": 8679.0,
+      "diff_abs": -1821.0,
+      "diff_pct": -17.34
     },
     {
-      "ean": "7790314080173",
-      "nombre": "vino blanco estancia mendoza x 750 ml. chardonnay",
+      "ean": "7798123971569",
+      "nombre": "vino tinto chac chac malbec x 750 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 4440.0,
-      "precio_hoy": 3100.0,
-      "diff_abs": -1340.0,
-      "diff_pct": -30.18
+      "precio_antes": 10500.0,
+      "precio_hoy": 8679.0,
+      "diff_abs": -1821.0,
+      "diff_pct": -17.34
     },
     {
-      "ean": "7790314080203",
-      "nombre": "vino est.mend.x750ml.che-ch-dc",
+      "ean": "7798123971583",
+      "nombre": "vino chac chac x 750 ml sauvignon blanc",
       "categoria": "Bebidas",
-      "precio_antes": 4440.0,
-      "precio_hoy": 3100.0,
-      "diff_abs": -1340.0,
-      "diff_pct": -30.18
+      "precio_antes": 10500.0,
+      "precio_hoy": 8679.0,
+      "diff_abs": -1821.0,
+      "diff_pct": -17.34
     },
     {
-      "ean": "7790314075261",
-      "nombre": "vino est.mend.x750ml.cabe-malb",
+      "ean": "7798123971606",
+      "nombre": "vino chac chac malbec rose x 750 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 4397.0,
-      "precio_hoy": 3100.0,
-      "diff_abs": -1297.0,
-      "diff_pct": -29.5
+      "precio_antes": 10500.0,
+      "precio_hoy": 8679.0,
+      "diff_abs": -1821.0,
+      "diff_pct": -17.34
     },
     {
-      "ean": "7790314080166",
-      "nombre": "vino estancia mendoza cabernet sauvignon x 750 ml.",
+      "ean": "7798123974706",
+      "nombre": "vino chac chac cabernet franc x 269 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 4397.0,
-      "precio_hoy": 3100.0,
-      "diff_abs": -1297.0,
-      "diff_pct": -29.5
+      "precio_antes": 3500.0,
+      "precio_hoy": 2899.0,
+      "diff_abs": -601.0,
+      "diff_pct": -17.17
     },
     {
-      "ean": "7790314075292",
-      "nombre": "vino tinto estancia mendoza merlot-cabernet x 750.",
+      "ean": "7798123973051",
+      "nombre": "vino malbec reserva chac chac x 269 ml",
       "categoria": "Bebidas",
-      "precio_antes": 4397.0,
-      "precio_hoy": 3100.0,
-      "diff_abs": -1297.0,
-      "diff_pct": -29.5
+      "precio_antes": 3500.0,
+      "precio_hoy": 2899.0,
+      "diff_abs": -601.0,
+      "diff_pct": -17.17
     },
     {
-      "ean": "7790314080159",
-      "nombre": "vino estancia mendoza malbec x 750 ml.",
+      "ean": "7798123973075",
+      "nombre": "vino chac chac malbec x 269 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 4397.0,
-      "precio_hoy": 3100.0,
-      "diff_abs": -1297.0,
-      "diff_pct": -29.5
+      "precio_antes": 3500.0,
+      "precio_hoy": 2899.0,
+      "diff_abs": -601.0,
+      "diff_pct": -17.17
     },
     {
-      "ean": "7790314063824",
-      "nombre": "vino tinto toro x 1 lt.",
+      "ean": "7798123973068",
+      "nombre": "vino blanco chac chac x269 ml sauvignon blanc",
       "categoria": "Bebidas",
-      "precio_antes": 2819.0,
-      "precio_hoy": 1990.0,
-      "diff_abs": -829.0,
-      "diff_pct": -29.41
+      "precio_antes": 3500.0,
+      "precio_hoy": 2899.0,
+      "diff_abs": -601.0,
+      "diff_pct": -17.17
+    },
+    {
+      "ean": "7790387014631",
+      "nombre": "yerba mate union x 250 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 1378.0,
+      "precio_hoy": 1378.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790387014167",
+      "nombre": "yerba mate union liviana x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2931.0,
+      "precio_hoy": 2931.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 83,
-  "productos_bajaron_dia": 70,
-  "productos_sin_cambio_dia": 6142
+  "productos_subieron_dia": 0,
+  "productos_bajaron_dia": 8,
+  "productos_sin_cambio_dia": 6340
 }

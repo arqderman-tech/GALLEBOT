@@ -117,6 +117,15 @@
     "diff_pct": 50.85
   },
   {
+    "ean": "7790895641749",
+    "nombre": "jugo cepita anana x 1.5 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2551.48,
+    "precio_hoy": 3849.0,
+    "diff_abs": 1297.52,
+    "diff_pct": 50.85
+  },
+  {
     "ean": "7790895641534",
     "nombre": "jugo cepita botella x 1,5 lt. durazno",
     "categoria": "Bebidas",
@@ -126,13 +135,13 @@
     "diff_pct": 50.85
   },
   {
-    "ean": "7790895641749",
-    "nombre": "jugo cepita anana x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2551.48,
-    "precio_hoy": 3849.0,
-    "diff_abs": 1297.52,
-    "diff_pct": 50.85
+    "ean": "7891000422052",
+    "nombre": "chocolate kit kat triple chocolate x 41,5 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1588.54,
+    "precio_hoy": 2364.0,
+    "diff_abs": 775.46,
+    "diff_pct": 48.82
   },
   {
     "ean": "7891000379073",
@@ -146,15 +155,6 @@
   {
     "ean": "7891000379028",
     "nombre": "chocolate kit-kat white x 41,5 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1588.54,
-    "precio_hoy": 2364.0,
-    "diff_abs": 775.46,
-    "diff_pct": 48.82
-  },
-  {
-    "ean": "7891000422052",
-    "nombre": "chocolate kit kat triple chocolate x 41,5 gr.",
     "categoria": "Almacen",
     "precio_antes": 1588.54,
     "precio_hoy": 2364.0,
