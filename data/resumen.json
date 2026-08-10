@@ -1,147 +1,147 @@
 {
-  "fecha": "20260809",
-  "total_productos": 6365,
-  "variacion_dia": -0.02,
-  "variacion_7d": -0.15,
-  "variacion_mes": 0.75,
+  "fecha": "20260810",
+  "total_productos": 6344,
+  "variacion_dia": -0.07,
+  "variacion_7d": -0.18,
+  "variacion_mes": 0.96,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.1,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 8,
-      "total_productos": 1446
+      "productos_bajaron": 0,
+      "total_productos": 1451
     },
     {
       "categoria": "Frescos",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1129
+      "total_productos": 1124
     },
     {
       "categoria": "Congelados",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 239
+      "total_productos": 237
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 807
+      "total_productos": 813
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -0.47,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 892
+      "productos_bajaron": 17,
+      "total_productos": 890
     },
     {
       "categoria": "Almacen",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1835
+      "total_productos": 1829
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7798123973044",
-      "nombre": "vino tinto chac chac cabernet franc x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 10500.0,
-      "precio_hoy": 8679.0,
-      "diff_abs": -1821.0,
-      "diff_pct": -17.34
-    },
-    {
-      "ean": "7798123971569",
-      "nombre": "vino tinto chac chac malbec x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 10500.0,
-      "precio_hoy": 8679.0,
-      "diff_abs": -1821.0,
-      "diff_pct": -17.34
-    },
-    {
-      "ean": "7798123971583",
-      "nombre": "vino chac chac x 750 ml sauvignon blanc",
-      "categoria": "Bebidas",
-      "precio_antes": 10500.0,
-      "precio_hoy": 8679.0,
-      "diff_abs": -1821.0,
-      "diff_pct": -17.34
-    },
-    {
-      "ean": "7798123971606",
-      "nombre": "vino chac chac malbec rose x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 10500.0,
-      "precio_hoy": 8679.0,
-      "diff_abs": -1821.0,
-      "diff_pct": -17.34
-    },
-    {
-      "ean": "7798123974706",
-      "nombre": "vino chac chac cabernet franc x 269 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 3500.0,
-      "precio_hoy": 2899.0,
-      "diff_abs": -601.0,
-      "diff_pct": -17.17
-    },
-    {
-      "ean": "7798123973051",
-      "nombre": "vino malbec reserva chac chac x 269 ml",
-      "categoria": "Bebidas",
-      "precio_antes": 3500.0,
-      "precio_hoy": 2899.0,
-      "diff_abs": -601.0,
-      "diff_pct": -17.17
-    },
-    {
-      "ean": "7798123973075",
-      "nombre": "vino chac chac malbec x 269 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 3500.0,
-      "precio_hoy": 2899.0,
-      "diff_abs": -601.0,
-      "diff_pct": -17.17
-    },
-    {
-      "ean": "7798123973068",
-      "nombre": "vino blanco chac chac x269 ml sauvignon blanc",
-      "categoria": "Bebidas",
-      "precio_antes": 3500.0,
-      "precio_hoy": 2899.0,
-      "diff_abs": -601.0,
-      "diff_pct": -17.17
-    },
-    {
-      "ean": "7790387014631",
-      "nombre": "yerba mate union x 250 gr.",
+      "ean": "7792280006140",
+      "nombre": "yerba mate cachamai x 500 gm tradicional",
       "categoria": "Perfumeria",
-      "precio_antes": 1378.0,
-      "precio_hoy": 1378.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "precio_antes": 2468.0,
+      "precio_hoy": 1539.0,
+      "diff_abs": -929.0,
+      "diff_pct": -37.64
     },
     {
-      "ean": "7790387014167",
-      "nombre": "yerba mate union liviana x 500 gr.",
+      "ean": "7792280005785",
+      "nombre": "yerba mate cachamate coco x 500 gr.",
       "categoria": "Perfumeria",
-      "precio_antes": 2931.0,
-      "precio_hoy": 2931.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "precio_antes": 2373.0,
+      "precio_hoy": 1779.0,
+      "diff_abs": -594.0,
+      "diff_pct": -25.03
+    },
+    {
+      "ean": "7792280000285",
+      "nombre": "yerba mate cachamate suave x 500 gr. naranja",
+      "categoria": "Perfumeria",
+      "precio_antes": 2373.0,
+      "precio_hoy": 1779.0,
+      "diff_abs": -594.0,
+      "diff_pct": -25.03
+    },
+    {
+      "ean": "7792280005730",
+      "nombre": "yerba mate cachamate hierbas serranas x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2159.0,
+      "precio_hoy": 1619.0,
+      "diff_abs": -540.0,
+      "diff_pct": -25.01
+    },
+    {
+      "ean": "7792280000612",
+      "nombre": "yerba mate cachamate x 500 gr. hierbas cuyanas",
+      "categoria": "Perfumeria",
+      "precio_antes": 2159.0,
+      "precio_hoy": 1619.0,
+      "diff_abs": -540.0,
+      "diff_pct": -25.01
+    },
+    {
+      "ean": "7792280005686",
+      "nombre": "yerba cachamate x 500 gm hierbas digestivas",
+      "categoria": "Perfumeria",
+      "precio_antes": 2159.0,
+      "precio_hoy": 1619.0,
+      "diff_abs": -540.0,
+      "diff_pct": -25.01
+    },
+    {
+      "ean": "7792280005693",
+      "nombre": "yerba cachamate x500.rosa",
+      "categoria": "Perfumeria",
+      "precio_antes": 2159.0,
+      "precio_hoy": 1619.0,
+      "diff_abs": -540.0,
+      "diff_pct": -25.01
+    },
+    {
+      "ean": "7792280005723",
+      "nombre": "yerba mate cachamate hierbas serranas x 1 kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 3968.0,
+      "precio_hoy": 2979.0,
+      "diff_abs": -989.0,
+      "diff_pct": -24.92
+    },
+    {
+      "ean": "7792280005709",
+      "nombre": "yerba mate cachamate mezcla de hierbas x 1 kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 3968.0,
+      "precio_hoy": 2979.0,
+      "diff_abs": -989.0,
+      "diff_pct": -24.92
+    },
+    {
+      "ean": "7792280005716",
+      "nombre": "yerba mate cachamate mezcla de hierbas x 1 kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 3968.0,
+      "precio_hoy": 2979.0,
+      "diff_abs": -989.0,
+      "diff_pct": -24.92
     }
   ],
   "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 8,
-  "productos_sin_cambio_dia": 6340
+  "productos_bajaron_dia": 17,
+  "productos_sin_cambio_dia": 6327
 }

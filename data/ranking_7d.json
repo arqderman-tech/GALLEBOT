@@ -27,6 +27,15 @@
     "diff_pct": 79.41
   },
   {
+    "ean": "7790070337092",
+    "nombre": "fideos mostachol al huevo lucchetti x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1339.0,
+    "precio_hoy": 2245.0,
+    "diff_abs": 906.0,
+    "diff_pct": 67.66
+  },
+  {
     "ean": "7790070761071",
     "nombre": "espumante nieto senetiner x 750 ml grand cuvee extra brut",
     "categoria": "Bebidas",
@@ -34,15 +43,6 @@
     "precio_hoy": 20143.0,
     "diff_abs": 7834.0,
     "diff_pct": 63.64
-  },
-  {
-    "ean": "7790580144197",
-    "nombre": "salsa la campagnol x 350 gm napolitana premium2000",
-    "categoria": "Almacen",
-    "precio_antes": 1790.0,
-    "precio_hoy": 2929.0,
-    "diff_abs": 1139.0,
-    "diff_pct": 63.63
   },
   {
     "ean": "7790580144180",
@@ -54,8 +54,17 @@
     "diff_pct": 63.63
   },
   {
-    "ean": "7790139004576",
-    "nombre": "aceite de oliva casalta medio x 400 ml.",
+    "ean": "7790580144197",
+    "nombre": "salsa la campagnol x 350 gm napolitana premium2000",
+    "categoria": "Almacen",
+    "precio_antes": 1790.0,
+    "precio_hoy": 2929.0,
+    "diff_abs": 1139.0,
+    "diff_pct": 63.63
+  },
+  {
+    "ean": "7790139004569",
+    "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
     "categoria": "Almacen",
     "precio_antes": 20559.0,
     "precio_hoy": 33216.0,
@@ -63,8 +72,8 @@
     "diff_pct": 61.56
   },
   {
-    "ean": "7790139004569",
-    "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
+    "ean": "7790139004576",
+    "nombre": "aceite de oliva casalta medio x 400 ml.",
     "categoria": "Almacen",
     "precio_antes": 20559.0,
     "precio_hoy": 33216.0,
@@ -164,15 +173,6 @@
   {
     "ean": "7891000379028",
     "nombre": "chocolate kit-kat white x 41,5 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1588.54,
-    "precio_hoy": 2364.0,
-    "diff_abs": 775.46,
-    "diff_pct": 48.82
-  },
-  {
-    "ean": "7891000379073",
-    "nombre": "chocolate kit-kat dark x 41,5 gr.",
     "categoria": "Almacen",
     "precio_antes": 1588.54,
     "precio_hoy": 2364.0,

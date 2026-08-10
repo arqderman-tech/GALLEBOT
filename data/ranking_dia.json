@@ -72,42 +72,6 @@
     "diff_pct": 0.0
   },
   {
-    "ean": "7791728246612",
-    "nombre": "ac.ol.zuccardi x250ml.coratina",
-    "categoria": "Almacen",
-    "precio_antes": 14282.0,
-    "precio_hoy": 14282.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7791728246575",
-    "nombre": "ac.ol.zuccardi x250ml.picual",
-    "categoria": "Almacen",
-    "precio_antes": 14282.0,
-    "precio_hoy": 14282.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7791728241181",
-    "nombre": "ac.ol.zuelo x500ml.bot.intenso",
-    "categoria": "Almacen",
-    "precio_antes": 19077.0,
-    "precio_hoy": 19077.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "41331014922",
-    "nombre": "acaitunas goya x 149 gm con pimiento picante",
-    "categoria": "Almacen",
-    "precio_antes": 9280.0,
-    "precio_hoy": 9280.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
     "ean": "7790387014617",
     "nombre": "yerba mate union 4 flex x 1 kg.",
     "categoria": "Perfumeria",
@@ -176,6 +140,42 @@
     "categoria": "Perfumeria",
     "precio_antes": 2563.0,
     "precio_hoy": 2563.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790326000794",
+    "nombre": "yerba mate sinceridad x 1 kg. suave",
+    "categoria": "Perfumeria",
+    "precio_antes": 4966.0,
+    "precio_hoy": 4966.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790070508539",
+    "nombre": "yerba mate salus x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4942.0,
+    "precio_hoy": 4942.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790411000890",
+    "nombre": "yerba mate rosamonte terere x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2572.0,
+    "precio_hoy": 2572.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790411000548",
+    "nombre": "yerba mate rosamonte suave seleccion especial x 50",
+    "categoria": "Perfumeria",
+    "precio_antes": 3044.0,
+    "precio_hoy": 3044.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   }

@@ -9,6 +9,24 @@
     "diff_pct": 757.29
   },
   {
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2209.0,
+    "precio_hoy": 5332.0,
+    "diff_abs": 3123.0,
+    "diff_pct": 141.38
+  },
+  {
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2209.0,
+    "precio_hoy": 5332.0,
+    "diff_abs": 3123.0,
+    "diff_pct": 141.38
+  },
+  {
     "ean": "7790580151881",
     "nombre": "pure tomate la campagnola  x 340 gm passats",
     "categoria": "Almacen",
@@ -25,6 +43,24 @@
     "precio_hoy": 2472.0,
     "diff_abs": 1343.0,
     "diff_pct": 118.95
+  },
+  {
+    "ean": "7791337008403",
+    "nombre": "leche chocolatada la serenisima x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2649.0,
+    "precio_hoy": 5587.0,
+    "diff_abs": 2938.0,
+    "diff_pct": 110.91
+  },
+  {
+    "ean": "7791337008410",
+    "nombre": "leche chocolatada la serenisima x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1039.0,
+    "precio_hoy": 1912.0,
+    "diff_abs": 873.0,
+    "diff_pct": 84.02
   },
   {
     "ean": "7790580144180",
@@ -63,6 +99,51 @@
     "diff_pct": 62.58
   },
   {
+    "ean": "7791337060944",
+    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3209.0,
+    "precio_hoy": 5199.0,
+    "diff_abs": 1990.0,
+    "diff_pct": 62.01
+  },
+  {
+    "ean": "7791337061385",
+    "nombre": "queso crema casancrem balance x 290 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3209.0,
+    "precio_hoy": 5199.0,
+    "diff_abs": 1990.0,
+    "diff_pct": 62.01
+  },
+  {
+    "ean": "7791337061361",
+    "nombre": "queso crema casancrem x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3209.0,
+    "precio_hoy": 5199.0,
+    "diff_abs": 1990.0,
+    "diff_pct": 62.01
+  },
+  {
+    "ean": "7791337009981",
+    "nombre": "yogur yogurisimo griego x 190 gr natural endulzado",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2079.0,
+    "precio_hoy": 3353.0,
+    "diff_abs": 1274.0,
+    "diff_pct": 61.28
+  },
+  {
+    "ean": "7791337009998",
+    "nombre": "yogur yogurisimo griego x 190 gr natural sin end",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2079.0,
+    "precio_hoy": 3353.0,
+    "diff_abs": 1274.0,
+    "diff_pct": 61.28
+  },
+  {
     "ean": "2027850000002",
     "nombre": "ajies de colores x kilo",
     "categoria": "Frutas Y Verduras",
@@ -90,93 +171,12 @@
     "diff_pct": 53.81
   },
   {
-    "ean": "7793046015024",
-    "nombre": "tomate triturado dulcor x 960 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1670.94,
-    "precio_hoy": 2561.0,
-    "diff_abs": 890.06,
-    "diff_pct": 53.27
-  },
-  {
-    "ean": "7790150812785",
-    "nombre": "edulc.tuy stevia x200 sobres",
-    "categoria": "Almacen",
-    "precio_antes": 4599.0,
-    "precio_hoy": 6943.0,
-    "diff_abs": 2344.0,
-    "diff_pct": 50.97
-  },
-  {
-    "ean": "7790895641800",
-    "nombre": "jugo cepita botella x 1.5 lt. naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 2551.48,
-    "precio_hoy": 3849.0,
-    "diff_abs": 1297.52,
-    "diff_pct": 50.85
-  },
-  {
-    "ean": "7790895641749",
-    "nombre": "jugo cepita anana x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2551.48,
-    "precio_hoy": 3849.0,
-    "diff_abs": 1297.52,
-    "diff_pct": 50.85
-  },
-  {
-    "ean": "7790895641534",
-    "nombre": "jugo cepita botella x 1,5 lt. durazno",
-    "categoria": "Bebidas",
-    "precio_antes": 2551.48,
-    "precio_hoy": 3849.0,
-    "diff_abs": 1297.52,
-    "diff_pct": 50.85
-  },
-  {
-    "ean": "7891000422052",
-    "nombre": "chocolate kit kat triple chocolate x 41,5 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1588.54,
-    "precio_hoy": 2364.0,
-    "diff_abs": 775.46,
-    "diff_pct": 48.82
-  },
-  {
-    "ean": "7891000379073",
-    "nombre": "chocolate kit-kat dark x 41,5 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1588.54,
-    "precio_hoy": 2364.0,
-    "diff_abs": 775.46,
-    "diff_pct": 48.82
-  },
-  {
-    "ean": "7891000379028",
-    "nombre": "chocolate kit-kat white x 41,5 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1588.54,
-    "precio_hoy": 2364.0,
-    "diff_abs": 775.46,
-    "diff_pct": 48.82
-  },
-  {
-    "ean": "7790150812761",
-    "nombre": "edulc.tuy stevia x100 sobres",
-    "categoria": "Almacen",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3948.0,
-    "diff_abs": 1249.0,
-    "diff_pct": 46.28
-  },
-  {
-    "ean": "7790150813508",
-    "nombre": "edulcorante liquido tuy stevia x 200 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 3279.0,
-    "precio_hoy": 4796.0,
-    "diff_abs": 1517.0,
-    "diff_pct": 46.26
+    "ean": "7791337061491",
+    "nombre": "queso casancrem x 500gr clasico",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5339.0,
+    "precio_hoy": 8199.0,
+    "diff_abs": 2860.0,
+    "diff_pct": 53.57
   }
 ]
