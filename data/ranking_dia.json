@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7896004004969",
-    "nombre": "zucaritas x490gr.caja",
-    "categoria": "Perfumeria",
-    "precio_antes": 6304.0,
-    "precio_hoy": 6304.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2022010000007",
+    "nombre": "remolacha x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 100.33
   },
   {
-    "ean": "7790310985830",
-    "nombre": "3ds queso x 85 gr.",
+    "ean": "7798222460018",
+    "nombre": "formitas de soja latina x 400 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 2369.0,
+    "precio_hoy": 4731.0,
+    "diff_abs": 2362.0,
+    "diff_pct": 99.7
+  },
+  {
+    "ean": "7790550000300",
+    "nombre": "yerba mate yer-vita x25 saquit",
+    "categoria": "Perfumeria",
+    "precio_antes": 1179.0,
+    "precio_hoy": 2218.0,
+    "diff_abs": 1039.0,
+    "diff_pct": 88.13
+  },
+  {
+    "ean": "7791337007260",
+    "nombre": "leche chocolatada cindor x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1609.0,
+    "precio_hoy": 2863.0,
+    "diff_abs": 1254.0,
+    "diff_pct": 77.94
+  },
+  {
+    "ean": "7790787960620",
+    "nombre": "yogur bebible ilolay frutilla x 185 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1374.0,
+    "precio_hoy": 2419.0,
+    "diff_abs": 1045.0,
+    "diff_pct": 76.06
+  },
+  {
+    "ean": "2020350000008",
+    "nombre": "chaucha ballina x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 66.78
+  },
+  {
+    "ean": "2022130000000",
+    "nombre": "tomate cherry x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 66.78
+  },
+  {
+    "ean": "2020370000002",
+    "nombre": "chaucha rolliza x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 66.78
+  },
+  {
+    "ean": "7797906054918",
+    "nombre": "papas mc cain noisette x 1.2 kg.",
+    "categoria": "Congelados",
+    "precio_antes": 12199.0,
+    "precio_hoy": 20329.0,
+    "diff_abs": 8130.0,
+    "diff_pct": 66.64
+  },
+  {
+    "ean": "7797906000700",
+    "nombre": "papas mc cain tradicional x 400 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3049.0,
+    "precio_hoy": 5070.0,
+    "diff_abs": 2021.0,
+    "diff_pct": 66.28
+  },
+  {
+    "ean": "7790670050674",
+    "nombre": "hamburguesas paty x 2 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 3069.0,
+    "precio_hoy": 4802.0,
+    "diff_abs": 1733.0,
+    "diff_pct": 56.47
+  },
+  {
+    "ean": "2020750000004",
+    "nombre": "frutillas x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 11990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 50.06
+  },
+  {
+    "ean": "7790314079962",
+    "nombre": "vino tinto estancia mendoza reserva malbec x 750 m",
+    "categoria": "Bebidas",
+    "precio_antes": 5590.0,
+    "precio_hoy": 8290.0,
+    "diff_abs": 2700.0,
+    "diff_pct": 48.3
+  },
+  {
+    "ean": "7790314079979",
+    "nombre": "vino estancia mendoza reserva cabernet sauvignon",
+    "categoria": "Bebidas",
+    "precio_antes": 5590.0,
+    "precio_hoy": 8290.0,
+    "diff_abs": 2700.0,
+    "diff_pct": 48.3
+  },
+  {
+    "ean": "7790070410795",
+    "nombre": "polvo ppreparar cookies exquisita sabor vainilla.",
     "categoria": "Almacen",
-    "precio_antes": 3649.0,
-    "precio_hoy": 3649.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 2805.0,
+    "precio_hoy": 3894.0,
+    "diff_abs": 1089.0,
+    "diff_pct": 38.82
   },
   {
-    "ean": "7790310985137",
-    "nombre": "3ds queso x143gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5118.0,
-    "precio_hoy": 5118.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790310985113",
-    "nombre": "3ds sabor queso x 43 gm",
-    "categoria": "Almacen",
-    "precio_antes": 2271.0,
-    "precio_hoy": 2271.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7791728246629",
-    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
-    "categoria": "Almacen",
-    "precio_antes": 24484.0,
-    "precio_hoy": 24484.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "763571722428",
-    "nombre": "ac.de coco entrenuts x200virg.",
-    "categoria": "Almacen",
-    "precio_antes": 9649.0,
-    "precio_hoy": 9649.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798080520657",
-    "nombre": "ac.ol.l.toscana x250ml.ajo",
-    "categoria": "Almacen",
-    "precio_antes": 9903.0,
-    "precio_hoy": 9903.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798080520534",
-    "nombre": "ac.ol.l.toscana x250ml.albahac",
-    "categoria": "Almacen",
-    "precio_antes": 9903.0,
-    "precio_hoy": 9903.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790387014617",
-    "nombre": "yerba mate union 4 flex x 1 kg.",
+    "ean": "7793126002012",
+    "nombre": "mermelada patagonia tradicional x 320 gm frutilla",
     "categoria": "Perfumeria",
-    "precio_antes": 4587.0,
-    "precio_hoy": 4587.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 6689.0,
+    "precio_hoy": 9172.0,
+    "diff_abs": 2483.0,
+    "diff_pct": 37.12
   },
   {
-    "ean": "7790387013634",
-    "nombre": "yerba mate taragui x 250 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1378.0,
-    "precio_hoy": 1378.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790119010474",
+    "nombre": "sidra 1888 rose x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 11416.0,
+    "precio_hoy": 15650.0,
+    "diff_abs": 4234.0,
+    "diff_pct": 37.09
   },
   {
-    "ean": "7790387013504",
-    "nombre": "yerba mate taragui sin palo x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3399.0,
-    "precio_hoy": 3399.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792316000845",
+    "nombre": "fresas fizz la victoria x 720 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4007.0,
+    "precio_hoy": 5450.0,
+    "diff_abs": 1443.0,
+    "diff_pct": 36.01
   },
   {
-    "ean": "7790387013498",
-    "nombre": "yerba mate taragui sin palo x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 6570.0,
-    "precio_hoy": 6570.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792316000036",
+    "nombre": "anana fizz la victoria x 720 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4007.0,
+    "precio_hoy": 5450.0,
+    "diff_abs": 1443.0,
+    "diff_pct": 36.01
   },
   {
-    "ean": "7790387013627",
-    "nombre": "yerba mate taragui 4 flex x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2383.0,
-    "precio_hoy": 2383.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790387013610",
-    "nombre": "yerba mate taragui 4 flex x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4587.0,
-    "precio_hoy": 4587.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798468970012",
-    "nombre": "yerba mate sport afa x 500 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 3999.0,
-    "precio_hoy": 3999.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790326000626",
-    "nombre": "yerba mate sinceridad x 500 gr. suave",
-    "categoria": "Perfumeria",
-    "precio_antes": 2563.0,
-    "precio_hoy": 2563.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790326000794",
-    "nombre": "yerba mate sinceridad x 1 kg. suave",
-    "categoria": "Perfumeria",
-    "precio_antes": 4966.0,
-    "precio_hoy": 4966.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790070508539",
-    "nombre": "yerba mate salus x 1 kg.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4942.0,
-    "precio_hoy": 4942.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411000890",
-    "nombre": "yerba mate rosamonte terere x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2572.0,
-    "precio_hoy": 2572.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790411000548",
-    "nombre": "yerba mate rosamonte suave seleccion especial x 50",
-    "categoria": "Perfumeria",
-    "precio_antes": 3044.0,
-    "precio_hoy": 3044.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7793147570262",
+    "nombre": "cerveza miller x 600 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2859.0,
+    "precio_hoy": 3839.0,
+    "diff_abs": 980.0,
+    "diff_pct": 34.28
   }
 ]

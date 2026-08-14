@@ -1,14 +1,5 @@
 [
   {
-    "ean": "6934097722245",
-    "nombre": "super pegamento cyanocrilato",
-    "categoria": "Limpieza",
-    "precio_antes": 967.0,
-    "precio_hoy": 8290.0,
-    "diff_abs": 7323.0,
-    "diff_pct": 757.29
-  },
-  {
     "ean": "7791337010499",
     "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
     "categoria": "Lacteos Y Frescos",
@@ -27,22 +18,13 @@
     "diff_pct": 141.38
   },
   {
-    "ean": "7790580151881",
-    "nombre": "pure tomate la campagnola  x 340 gm passats",
-    "categoria": "Almacen",
-    "precio_antes": 979.0,
-    "precio_hoy": 2150.0,
-    "diff_abs": 1171.0,
-    "diff_pct": 119.61
-  },
-  {
-    "ean": "7790580151898",
-    "nombre": "pure de tomate salsati x 340 gm passata",
-    "categoria": "Almacen",
-    "precio_antes": 1129.0,
-    "precio_hoy": 2472.0,
-    "diff_abs": 1343.0,
-    "diff_pct": 118.95
+    "ean": "2022010000007",
+    "nombre": "remolacha x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 3500.0,
+    "diff_pct": 140.56
   },
   {
     "ean": "7791337008403",
@@ -52,6 +34,24 @@
     "precio_hoy": 5587.0,
     "diff_abs": 2938.0,
     "diff_pct": 110.91
+  },
+  {
+    "ean": "7791337007260",
+    "nombre": "leche chocolatada cindor x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1419.0,
+    "precio_hoy": 2863.0,
+    "diff_abs": 1444.0,
+    "diff_pct": 101.76
+  },
+  {
+    "ean": "7790550000300",
+    "nombre": "yerba mate yer-vita x25 saquit",
+    "categoria": "Perfumeria",
+    "precio_antes": 1179.0,
+    "precio_hoy": 2218.0,
+    "diff_abs": 1039.0,
+    "diff_pct": 88.13
   },
   {
     "ean": "7791337008410",
@@ -81,53 +81,44 @@
     "diff_pct": 75.38
   },
   {
-    "ean": "2020050000001",
-    "nombre": "banana ecuatoriana x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
+    "ean": "7790070337092",
+    "nombre": "fideos mostachol al huevo lucchetti x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1339.0,
+    "precio_hoy": 2245.0,
+    "diff_abs": 906.0,
+    "diff_pct": 67.66
   },
   {
-    "ean": "2020490000005",
-    "nombre": "ciruela roja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 12990.0,
-    "diff_abs": 5000.0,
-    "diff_pct": 62.58
+    "ean": "7790070761071",
+    "nombre": "espumante nieto senetiner x 750 ml grand cuvee extra brut",
+    "categoria": "Bebidas",
+    "precio_antes": 12309.0,
+    "precio_hoy": 20143.0,
+    "diff_abs": 7834.0,
+    "diff_pct": 63.64
   },
   {
-    "ean": "7791337060944",
-    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3209.0,
-    "precio_hoy": 5199.0,
-    "diff_abs": 1990.0,
-    "diff_pct": 62.01
+    "ean": "7790139004569",
+    "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
+    "categoria": "Almacen",
+    "precio_antes": 20559.0,
+    "precio_hoy": 33216.0,
+    "diff_abs": 12657.0,
+    "diff_pct": 61.56
   },
   {
-    "ean": "7791337061385",
-    "nombre": "queso crema casancrem balance x 290 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3209.0,
-    "precio_hoy": 5199.0,
-    "diff_abs": 1990.0,
-    "diff_pct": 62.01
+    "ean": "7790139004576",
+    "nombre": "aceite de oliva casalta medio x 400 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 20559.0,
+    "precio_hoy": 33216.0,
+    "diff_abs": 12657.0,
+    "diff_pct": 61.56
   },
   {
-    "ean": "7791337061361",
-    "nombre": "queso crema casancrem x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3209.0,
-    "precio_hoy": 5199.0,
-    "diff_abs": 1990.0,
-    "diff_pct": 62.01
-  },
-  {
-    "ean": "7791337009981",
-    "nombre": "yogur yogurisimo griego x 190 gr natural endulzado",
+    "ean": "7791337009998",
+    "nombre": "yogur yogurisimo griego x 190 gr natural sin end",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2079.0,
     "precio_hoy": 3353.0,
@@ -135,8 +126,8 @@
     "diff_pct": 61.28
   },
   {
-    "ean": "7791337009998",
-    "nombre": "yogur yogurisimo griego x 190 gr natural sin end",
+    "ean": "7791337009981",
+    "nombre": "yogur yogurisimo griego x 190 gr natural endulzado",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2079.0,
     "precio_hoy": 3353.0,
@@ -162,21 +153,30 @@
     "diff_pct": 57.71
   },
   {
-    "ean": "7792798002399",
-    "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4587.45,
-    "precio_hoy": 7056.0,
-    "diff_abs": 2468.55,
-    "diff_pct": 53.81
+    "ean": "7790670050674",
+    "nombre": "hamburguesas paty x 2 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 3059.0,
+    "precio_hoy": 4802.0,
+    "diff_abs": 1743.0,
+    "diff_pct": 56.98
   },
   {
-    "ean": "7791337061491",
-    "nombre": "queso casancrem x 500gr clasico",
+    "ean": "2020050000001",
+    "nombre": "banana ecuatoriana x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4690.0,
+    "diff_abs": 1700.0,
+    "diff_pct": 56.86
+  },
+  {
+    "ean": "7791337060944",
+    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5339.0,
-    "precio_hoy": 8199.0,
-    "diff_abs": 2860.0,
-    "diff_pct": 53.57
+    "precio_antes": 3209.0,
+    "precio_hoy": 4999.0,
+    "diff_abs": 1790.0,
+    "diff_pct": 55.78
   }
 ]

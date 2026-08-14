@@ -1,13 +1,147 @@
 {
-  "fecha": "20260813",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260814",
+  "total_productos": 6315,
+  "variacion_dia": 0.57,
+  "variacion_7d": 0.46,
+  "variacion_mes": 1.76,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 0.54,
+      "productos_subieron": 151,
+      "productos_bajaron": 28,
+      "total_productos": 1441
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": 0.9,
+      "productos_subieron": 228,
+      "productos_bajaron": 66,
+      "total_productos": 1094
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 1.41,
+      "productos_subieron": 38,
+      "productos_bajaron": 45,
+      "total_productos": 230
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.8,
+      "productos_subieron": 103,
+      "productos_bajaron": 16,
+      "total_productos": 805
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.35,
+      "productos_subieron": 68,
+      "productos_bajaron": 27,
+      "total_productos": 870
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.29,
+      "productos_subieron": 66,
+      "productos_bajaron": 14,
+      "total_productos": 1766
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "7791540053207",
+      "nombre": "frizze pomelata",
+      "categoria": "Bebidas",
+      "precio_antes": 3914.0,
+      "precio_hoy": 2099.0,
+      "diff_abs": -1815.0,
+      "diff_pct": -46.37
+    },
+    {
+      "ean": "7797906054956",
+      "nombre": "papas congeladas mc cain smiles x 700 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 13481.0,
+      "precio_hoy": 8088.99,
+      "diff_abs": -5392.01,
+      "diff_pct": -40.0
+    },
+    {
+      "ean": "7797906054819",
+      "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
+      "categoria": "Congelados",
+      "precio_antes": 15291.0,
+      "precio_hoy": 9179.0,
+      "diff_abs": -6112.0,
+      "diff_pct": -39.97
+    },
+    {
+      "ean": "7797906054925",
+      "nombre": "papas noisette mc cain horneables x 600 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 10700.0,
+      "precio_hoy": 6429.0,
+      "diff_abs": -4271.0,
+      "diff_pct": -39.92
+    },
+    {
+      "ean": "7790895003875",
+      "nombre": "agua mineral bonaqua x 1,5 ml. sin gas",
+      "categoria": "Bebidas",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1619.0,
+      "diff_abs": -871.0,
+      "diff_pct": -34.98
+    },
+    {
+      "ean": "7790895003950",
+      "nombre": "agua bonaqua x 1,5 lt. con gas",
+      "categoria": "Bebidas",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1619.0,
+      "diff_abs": -871.0,
+      "diff_pct": -34.98
+    },
+    {
+      "ean": "7790895003882",
+      "nombre": "agua mineral bonaqua sin gas x 2 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 2950.0,
+      "precio_hoy": 1919.0,
+      "diff_abs": -1031.0,
+      "diff_pct": -34.95
+    },
+    {
+      "ean": "7790895008146",
+      "nombre": "agua bonaqua x 2.5 lt. sin gas",
+      "categoria": "Bebidas",
+      "precio_antes": 3140.0,
+      "precio_hoy": 2049.0,
+      "diff_abs": -1091.0,
+      "diff_pct": -34.75
+    },
+    {
+      "ean": "7793046015024",
+      "nombre": "tomate triturado dulcor x 960 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 2561.0,
+      "precio_hoy": 1670.94,
+      "diff_abs": -890.06,
+      "diff_pct": -34.75
+    },
+    {
+      "ean": "2022060000002",
+      "nombre": "repollo colorado x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2990.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -33.44
+    }
+  ],
+  "productos_subieron_dia": 654,
+  "productos_bajaron_dia": 196,
+  "productos_sin_cambio_dia": 5356
 }
