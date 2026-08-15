@@ -1,147 +1,147 @@
 {
-  "fecha": "20260814",
-  "total_productos": 6315,
-  "variacion_dia": 0.57,
-  "variacion_7d": 0.46,
-  "variacion_mes": 1.76,
+  "fecha": "20260815",
+  "total_productos": 6373,
+  "variacion_dia": -0.09,
+  "variacion_7d": 0.39,
+  "variacion_mes": 1.12,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.54,
-      "productos_subieron": 151,
-      "productos_bajaron": 28,
-      "total_productos": 1441
+      "variacion_pct_promedio": -0.1,
+      "productos_subieron": 9,
+      "productos_bajaron": 23,
+      "total_productos": 1457
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.9,
-      "productos_subieron": 228,
-      "productos_bajaron": 66,
-      "total_productos": 1094
+      "variacion_pct_promedio": -0.04,
+      "productos_subieron": 2,
+      "productos_bajaron": 4,
+      "total_productos": 1110
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 1.41,
-      "productos_subieron": 38,
-      "productos_bajaron": 45,
-      "total_productos": 230
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 236
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.8,
-      "productos_subieron": 103,
-      "productos_bajaron": 16,
-      "total_productos": 805
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 0,
+      "productos_bajaron": 1,
+      "total_productos": 812
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.35,
-      "productos_subieron": 68,
-      "productos_bajaron": 27,
-      "total_productos": 870
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 880
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.29,
-      "productos_subieron": 66,
-      "productos_bajaron": 14,
-      "total_productos": 1766
+      "variacion_pct_promedio": -0.21,
+      "productos_subieron": 1,
+      "productos_bajaron": 26,
+      "total_productos": 1802
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7791540053207",
-      "nombre": "frizze pomelata",
-      "categoria": "Bebidas",
-      "precio_antes": 3914.0,
-      "precio_hoy": 2099.0,
-      "diff_abs": -1815.0,
-      "diff_pct": -46.37
-    },
-    {
-      "ean": "7797906054956",
-      "nombre": "papas congeladas mc cain smiles x 700 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 13481.0,
-      "precio_hoy": 8088.99,
-      "diff_abs": -5392.01,
-      "diff_pct": -40.0
-    },
-    {
-      "ean": "7797906054819",
-      "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
-      "categoria": "Congelados",
-      "precio_antes": 15291.0,
-      "precio_hoy": 9179.0,
-      "diff_abs": -6112.0,
-      "diff_pct": -39.97
-    },
-    {
-      "ean": "7797906054925",
-      "nombre": "papas noisette mc cain horneables x 600 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 10700.0,
-      "precio_hoy": 6429.0,
-      "diff_abs": -4271.0,
-      "diff_pct": -39.92
-    },
-    {
-      "ean": "7790895003875",
-      "nombre": "agua mineral bonaqua x 1,5 ml. sin gas",
-      "categoria": "Bebidas",
-      "precio_antes": 2490.0,
-      "precio_hoy": 1619.0,
-      "diff_abs": -871.0,
-      "diff_pct": -34.98
-    },
-    {
-      "ean": "7790895003950",
-      "nombre": "agua bonaqua x 1,5 lt. con gas",
-      "categoria": "Bebidas",
-      "precio_antes": 2490.0,
-      "precio_hoy": 1619.0,
-      "diff_abs": -871.0,
-      "diff_pct": -34.98
-    },
-    {
-      "ean": "7790895003882",
-      "nombre": "agua mineral bonaqua sin gas x 2 lt.",
-      "categoria": "Bebidas",
-      "precio_antes": 2950.0,
-      "precio_hoy": 1919.0,
-      "diff_abs": -1031.0,
-      "diff_pct": -34.95
-    },
-    {
-      "ean": "7790895008146",
-      "nombre": "agua bonaqua x 2.5 lt. sin gas",
-      "categoria": "Bebidas",
-      "precio_antes": 3140.0,
-      "precio_hoy": 2049.0,
-      "diff_abs": -1091.0,
-      "diff_pct": -34.75
-    },
-    {
-      "ean": "7793046015024",
-      "nombre": "tomate triturado dulcor x 960 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 2561.0,
-      "precio_hoy": 1670.94,
-      "diff_abs": -890.06,
-      "diff_pct": -34.75
-    },
-    {
-      "ean": "2022060000002",
-      "nombre": "repollo colorado x kg.",
+      "ean": "2020980000003",
+      "nombre": "limones x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 1990.0,
+      "precio_antes": 1990.0,
+      "precio_hoy": 1490.0,
+      "diff_abs": -500.0,
+      "diff_pct": -25.13
+    },
+    {
+      "ean": "2020120000009",
+      "nombre": "berengena negra x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 3990.0,
+      "precio_hoy": 2990.0,
       "diff_abs": -1000.0,
-      "diff_pct": -33.44
+      "diff_pct": -25.06
+    },
+    {
+      "ean": "7798039590373",
+      "nombre": "vino tinto tribu cabernet sauvignon x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 5261.0,
+      "precio_hoy": 4129.0,
+      "diff_abs": -1132.0,
+      "diff_pct": -21.52
+    },
+    {
+      "ean": "7798039590151",
+      "nombre": "vino tinto tribu malbec x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 5261.0,
+      "precio_hoy": 4129.0,
+      "diff_abs": -1132.0,
+      "diff_pct": -21.52
+    },
+    {
+      "ean": "7798039599031",
+      "nombre": "vino blanco tribu dulce x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 5261.0,
+      "precio_hoy": 4129.0,
+      "diff_abs": -1132.0,
+      "diff_pct": -21.52
+    },
+    {
+      "ean": "7798422330289",
+      "nombre": "vino tinto finjamos demencia x 750 ml malbec",
+      "categoria": "Bebidas",
+      "precio_antes": 6342.0,
+      "precio_hoy": 4979.0,
+      "diff_abs": -1363.0,
+      "diff_pct": -21.49
+    },
+    {
+      "ean": "7798422330296",
+      "nombre": "vino tinto finajmos demencia x 750 ml corte de tin",
+      "categoria": "Bebidas",
+      "precio_antes": 6342.0,
+      "precio_hoy": 4979.0,
+      "diff_abs": -1363.0,
+      "diff_pct": -21.49
+    },
+    {
+      "ean": "7798422330340",
+      "nombre": "vino finjamos demencia x 750 ml blend",
+      "categoria": "Bebidas",
+      "precio_antes": 6342.0,
+      "precio_hoy": 4979.0,
+      "diff_abs": -1363.0,
+      "diff_pct": -21.49
+    },
+    {
+      "ean": "7798039599406",
+      "nombre": "vino tinto casillero del diablo cabernet sauvignon",
+      "categoria": "Bebidas",
+      "precio_antes": 9079.0,
+      "precio_hoy": 7129.0,
+      "diff_abs": -1950.0,
+      "diff_pct": -21.48
+    },
+    {
+      "ean": "7798039599420",
+      "nombre": "vino casillero del diablo red blend x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 9079.0,
+      "precio_hoy": 7129.0,
+      "diff_abs": -1950.0,
+      "diff_pct": -21.48
     }
   ],
-  "productos_subieron_dia": 654,
-  "productos_bajaron_dia": 196,
-  "productos_sin_cambio_dia": 5356
+  "productos_subieron_dia": 12,
+  "productos_bajaron_dia": 54,
+  "productos_sin_cambio_dia": 6231
 }

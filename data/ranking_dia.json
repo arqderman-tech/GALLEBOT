@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2022010000007",
-    "nombre": "remolacha x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 100.33
-  },
-  {
-    "ean": "7798222460018",
-    "nombre": "formitas de soja latina x 400 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 2369.0,
-    "precio_hoy": 4731.0,
-    "diff_abs": 2362.0,
-    "diff_pct": 99.7
-  },
-  {
-    "ean": "7790550000300",
-    "nombre": "yerba mate yer-vita x25 saquit",
-    "categoria": "Perfumeria",
-    "precio_antes": 1179.0,
-    "precio_hoy": 2218.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 88.13
-  },
-  {
-    "ean": "7791337007260",
-    "nombre": "leche chocolatada cindor x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1609.0,
-    "precio_hoy": 2863.0,
-    "diff_abs": 1254.0,
-    "diff_pct": 77.94
-  },
-  {
-    "ean": "7790787960620",
-    "nombre": "yogur bebible ilolay frutilla x 185 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1374.0,
-    "precio_hoy": 2419.0,
-    "diff_abs": 1045.0,
-    "diff_pct": 76.06
-  },
-  {
-    "ean": "2020350000008",
-    "nombre": "chaucha ballina x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 66.78
-  },
-  {
-    "ean": "2022130000000",
-    "nombre": "tomate cherry x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 66.78
-  },
-  {
-    "ean": "2020370000002",
-    "nombre": "chaucha rolliza x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 66.78
-  },
-  {
-    "ean": "7797906054918",
-    "nombre": "papas mc cain noisette x 1.2 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 12199.0,
-    "precio_hoy": 20329.0,
-    "diff_abs": 8130.0,
-    "diff_pct": 66.64
-  },
-  {
-    "ean": "7797906000700",
-    "nombre": "papas mc cain tradicional x 400 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 3049.0,
-    "precio_hoy": 5070.0,
-    "diff_abs": 2021.0,
-    "diff_pct": 66.28
-  },
-  {
-    "ean": "7790670050674",
-    "nombre": "hamburguesas paty x 2 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 3069.0,
-    "precio_hoy": 4802.0,
-    "diff_abs": 1733.0,
-    "diff_pct": 56.47
-  },
-  {
-    "ean": "2020750000004",
-    "nombre": "frutillas x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 11990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 50.06
-  },
-  {
-    "ean": "7790314079962",
-    "nombre": "vino tinto estancia mendoza reserva malbec x 750 m",
+    "ean": "7791728001747",
+    "nombre": "vino santa julia magna cabernet",
     "categoria": "Bebidas",
-    "precio_antes": 5590.0,
-    "precio_hoy": 8290.0,
-    "diff_abs": 2700.0,
-    "diff_pct": 48.3
+    "precio_antes": 9239.0,
+    "precio_hoy": 12106.0,
+    "diff_abs": 2867.0,
+    "diff_pct": 31.03
   },
   {
-    "ean": "7790314079979",
-    "nombre": "vino estancia mendoza reserva cabernet sauvignon",
+    "ean": "7791728001761",
+    "nombre": "vino santa julia magna malbec",
     "categoria": "Bebidas",
-    "precio_antes": 5590.0,
-    "precio_hoy": 8290.0,
-    "diff_abs": 2700.0,
-    "diff_pct": 48.3
+    "precio_antes": 9239.0,
+    "precio_hoy": 12106.0,
+    "diff_abs": 2867.0,
+    "diff_pct": 31.03
   },
   {
-    "ean": "7790070410795",
-    "nombre": "polvo ppreparar cookies exquisita sabor vainilla.",
+    "ean": "7791728002409",
+    "nombre": "vino santa julia magna cabernet-malbec-syrah",
+    "categoria": "Bebidas",
+    "precio_antes": 9239.0,
+    "precio_hoy": 12106.0,
+    "diff_abs": 2867.0,
+    "diff_pct": 31.03
+  },
+  {
+    "ean": "7791728247695",
+    "nombre": "vino santa julia reser.tempran",
+    "categoria": "Bebidas",
+    "precio_antes": 6859.0,
+    "precio_hoy": 8978.0,
+    "diff_abs": 2119.0,
+    "diff_pct": 30.89
+  },
+  {
+    "ean": "7791728008128",
+    "nombre": "vino tinto santa julia reserva blend x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 6859.0,
+    "precio_hoy": 8978.0,
+    "diff_abs": 2119.0,
+    "diff_pct": 30.89
+  },
+  {
+    "ean": "7791728000566",
+    "nombre": "vino santa julia reserva x 750 ml malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 6859.0,
+    "precio_hoy": 8978.0,
+    "diff_abs": 2119.0,
+    "diff_pct": 30.89
+  },
+  {
+    "ean": "7791728000528",
+    "nombre": "vino santa julia reserva chardonnay x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 6859.0,
+    "precio_hoy": 8978.0,
+    "diff_abs": 2119.0,
+    "diff_pct": 30.89
+  },
+  {
+    "ean": "7791728247688",
+    "nombre": "vino santa julia reserva x 750 ml cabernet sauvignon",
+    "categoria": "Bebidas",
+    "precio_antes": 6859.0,
+    "precio_hoy": 8978.0,
+    "diff_abs": 2119.0,
+    "diff_pct": 30.89
+  },
+  {
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
+  },
+  {
+    "ean": "4067700014559",
+    "nombre": "licor jagermeister x 700 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 35000.0,
+    "precio_hoy": 38475.0,
+    "diff_abs": 3475.0,
+    "diff_pct": 9.93
+  },
+  {
+    "ean": "7792129003620",
+    "nombre": "endulzante equalsweet stevia x 50 sobres",
     "categoria": "Almacen",
-    "precio_antes": 2805.0,
-    "precio_hoy": 3894.0,
-    "diff_abs": 1089.0,
-    "diff_pct": 38.82
+    "precio_antes": 2830.0,
+    "precio_hoy": 3057.0,
+    "diff_abs": 227.0,
+    "diff_pct": 8.02
   },
   {
-    "ean": "7793126002012",
-    "nombre": "mermelada patagonia tradicional x 320 gm frutilla",
-    "categoria": "Perfumeria",
-    "precio_antes": 6689.0,
-    "precio_hoy": 9172.0,
-    "diff_abs": 2483.0,
-    "diff_pct": 37.12
+    "ean": "2020260000006",
+    "nombre": "camote colorado x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2790.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 200.0,
+    "diff_pct": 7.17
   },
   {
-    "ean": "7790119010474",
-    "nombre": "sidra 1888 rose x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 11416.0,
-    "precio_hoy": 15650.0,
-    "diff_abs": 4234.0,
-    "diff_pct": 37.09
+    "ean": "7793913013658",
+    "nombre": "queso untable tregar x 180 gr. cheddar",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2828.0,
+    "precio_hoy": 2828.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792316000845",
-    "nombre": "fresas fizz la victoria x 720 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4007.0,
-    "precio_hoy": 5450.0,
-    "diff_abs": 1443.0,
-    "diff_pct": 36.01
+    "ean": "7798060852990",
+    "nombre": "queso untable tonadita x 180 gr. jamon",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2401.0,
+    "precio_hoy": 2401.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792316000036",
-    "nombre": "anana fizz la victoria x 720 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4007.0,
-    "precio_hoy": 5450.0,
-    "diff_abs": 1443.0,
-    "diff_pct": 36.01
+    "ean": "7798060853034",
+    "nombre": "queso untable tonadita x 180 gr. gruyere",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2401.0,
+    "precio_hoy": 2401.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7793147570262",
-    "nombre": "cerveza miller x 600 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2859.0,
-    "precio_hoy": 3839.0,
-    "diff_abs": 980.0,
-    "diff_pct": 34.28
+    "ean": "7790787016310",
+    "nombre": "queso untable ilolay por salut balance x 190 gr",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2799.0,
+    "precio_hoy": 2799.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790787960873",
+    "nombre": "queso untable ilolay crem clasico x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3119.0,
+    "precio_hoy": 3119.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7791564136672",
+    "nombre": "queso untable fundido adler x 100 gr. tomate y ala",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2800.0,
+    "precio_hoy": 2800.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790742324009",
+    "nombre": "queso untable finlandia mas liviano x 180 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3439.0,
+    "precio_hoy": 3439.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790742373304",
+    "nombre": "queso untable finlandia light x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5149.0,
+    "precio_hoy": 5149.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]

@@ -45,6 +45,15 @@
     "diff_pct": 101.76
   },
   {
+    "ean": "7798222460018",
+    "nombre": "formitas de soja latina x 400 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 2369.0,
+    "precio_hoy": 4731.0,
+    "diff_abs": 2362.0,
+    "diff_pct": 99.7
+  },
+  {
     "ean": "7790550000300",
     "nombre": "yerba mate yer-vita x25 saquit",
     "categoria": "Perfumeria",
@@ -70,6 +79,15 @@
     "precio_hoy": 2929.0,
     "diff_abs": 1330.0,
     "diff_pct": 83.18
+  },
+  {
+    "ean": "7790787960620",
+    "nombre": "yogur bebible ilolay frutilla x 185 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1374.0,
+    "precio_hoy": 2419.0,
+    "diff_abs": 1045.0,
+    "diff_pct": 76.06
   },
   {
     "ean": "2021480000005",
@@ -117,8 +135,8 @@
     "diff_pct": 61.56
   },
   {
-    "ean": "7791337009998",
-    "nombre": "yogur yogurisimo griego x 190 gr natural sin end",
+    "ean": "7791337009981",
+    "nombre": "yogur yogurisimo griego x 190 gr natural endulzado",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2079.0,
     "precio_hoy": 3353.0,
@@ -126,8 +144,8 @@
     "diff_pct": 61.28
   },
   {
-    "ean": "7791337009981",
-    "nombre": "yogur yogurisimo griego x 190 gr natural endulzado",
+    "ean": "7791337009998",
+    "nombre": "yogur yogurisimo griego x 190 gr natural sin end",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2079.0,
     "precio_hoy": 3353.0,
@@ -153,15 +171,6 @@
     "diff_pct": 57.71
   },
   {
-    "ean": "7790670050674",
-    "nombre": "hamburguesas paty x 2 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 3059.0,
-    "precio_hoy": 4802.0,
-    "diff_abs": 1743.0,
-    "diff_pct": 56.98
-  },
-  {
     "ean": "2020050000001",
     "nombre": "banana ecuatoriana x kg.",
     "categoria": "Frutas Y Verduras",
@@ -169,14 +178,5 @@
     "precio_hoy": 4690.0,
     "diff_abs": 1700.0,
     "diff_pct": 56.86
-  },
-  {
-    "ean": "7791337060944",
-    "nombre": "queso crema casancrem light x 290 gr. sin sal agra",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3209.0,
-    "precio_hoy": 4999.0,
-    "diff_abs": 1790.0,
-    "diff_pct": 55.78
   }
 ]
