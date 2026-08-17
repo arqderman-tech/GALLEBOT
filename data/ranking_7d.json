@@ -72,6 +72,15 @@
     "diff_pct": 66.78
   },
   {
+    "ean": "7797906054864",
+    "nombre": "papas mc cain horneables tradicional x 700 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 6139.0,
+    "precio_hoy": 10231.0,
+    "diff_abs": 4092.0,
+    "diff_pct": 66.66
+  },
+  {
     "ean": "7797906054918",
     "nombre": "papas mc cain noisette x 1.2 kg.",
     "categoria": "Congelados",
@@ -117,8 +126,8 @@
     "diff_pct": 50.06
   },
   {
-    "ean": "7790314079979",
-    "nombre": "vino estancia mendoza reserva cabernet sauvignon",
+    "ean": "7790314079962",
+    "nombre": "vino tinto estancia mendoza reserva malbec x 750 m",
     "categoria": "Bebidas",
     "precio_antes": 5590.0,
     "precio_hoy": 8290.0,
@@ -126,8 +135,8 @@
     "diff_pct": 48.3
   },
   {
-    "ean": "7790314079962",
-    "nombre": "vino tinto estancia mendoza reserva malbec x 750 m",
+    "ean": "7790314079979",
+    "nombre": "vino estancia mendoza reserva cabernet sauvignon",
     "categoria": "Bebidas",
     "precio_antes": 5590.0,
     "precio_hoy": 8290.0,
@@ -164,15 +173,6 @@
   {
     "ean": "7792316000036",
     "nombre": "anana fizz la victoria x 720 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4007.0,
-    "precio_hoy": 5450.0,
-    "diff_abs": 1443.0,
-    "diff_pct": 36.01
-  },
-  {
-    "ean": "7792316000845",
-    "nombre": "fresas fizz la victoria x 720 ml.",
     "categoria": "Bebidas",
     "precio_antes": 4007.0,
     "precio_hoy": 5450.0,

@@ -1,7 +1,16 @@
 [
   {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "ean": "6934097722245",
+    "nombre": "super pegamento cyanocrilato",
+    "categoria": "Limpieza",
+    "precio_antes": 967.0,
+    "precio_hoy": 8290.0,
+    "diff_abs": 7323.0,
+    "diff_pct": 757.29
+  },
+  {
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2209.0,
     "precio_hoy": 5332.0,
@@ -9,8 +18,8 @@
     "diff_pct": 141.38
   },
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2209.0,
     "precio_hoy": 5332.0,
@@ -72,15 +81,6 @@
     "diff_pct": 84.02
   },
   {
-    "ean": "7790580144180",
-    "nombre": "salsa la campagnola x 350 gr oliva fco vidrio",
-    "categoria": "Almacen",
-    "precio_antes": 1599.0,
-    "precio_hoy": 2929.0,
-    "diff_abs": 1330.0,
-    "diff_pct": 83.18
-  },
-  {
     "ean": "7790787960620",
     "nombre": "yogur bebible ilolay frutilla x 185 gr.",
     "categoria": "Lacteos Y Frescos",
@@ -115,6 +115,15 @@
     "precio_hoy": 20143.0,
     "diff_abs": 7834.0,
     "diff_pct": 63.64
+  },
+  {
+    "ean": "7790580144180",
+    "nombre": "salsa la campagnola x 350 gr oliva fco vidrio",
+    "categoria": "Almacen",
+    "precio_antes": 1790.0,
+    "precio_hoy": 2929.0,
+    "diff_abs": 1139.0,
+    "diff_pct": 63.63
   },
   {
     "ean": "7790139004569",
@@ -169,14 +178,5 @@
     "precio_hoy": 2364.0,
     "diff_abs": 865.0,
     "diff_pct": 57.71
-  },
-  {
-    "ean": "2020050000001",
-    "nombre": "banana ecuatoriana x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4690.0,
-    "diff_abs": 1700.0,
-    "diff_pct": 56.86
   }
 ]
