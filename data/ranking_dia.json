@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790742665027",
-    "nombre": "beb.lact.ls.x900 sachet frut.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2389.0,
-    "precio_hoy": 3180.0,
-    "diff_abs": 791.0,
-    "diff_pct": 33.11
-  },
-  {
-    "ean": "7790742172105",
-    "nombre": "bebida lactea la serenisima protein chocolate x 1",
-    "categoria": "Lacteos Y Frescos",
+    "ean": "7790139003265",
+    "nombre": "vinagre de manzana casalta x 1 lt.",
+    "categoria": "Almacen",
     "precio_antes": 3769.0,
-    "precio_hoy": 5017.0,
-    "diff_abs": 1248.0,
-    "diff_pct": 33.11
+    "precio_hoy": 4739.0,
+    "diff_abs": 970.0,
+    "diff_pct": 25.74
   },
   {
-    "ean": "7790742665010",
-    "nombre": "bebida lactea x 900 ml sachet la serenisima vainilla",
+    "ean": "7790139004965",
+    "nombre": "aceto espeso favinco x 500 ml. original",
+    "categoria": "Almacen",
+    "precio_antes": 5479.0,
+    "precio_hoy": 6845.0,
+    "diff_abs": 1366.0,
+    "diff_pct": 24.93
+  },
+  {
+    "ean": "7790139004941",
+    "nombre": "aceto espeso favinco x 250 ml. original",
+    "categoria": "Almacen",
+    "precio_antes": 3579.0,
+    "precio_hoy": 4469.0,
+    "diff_abs": 890.0,
+    "diff_pct": 24.87
+  },
+  {
+    "ean": "7790139003425",
+    "nombre": "aceto balsamico favinco x 250 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 2659.0,
+    "precio_hoy": 3320.0,
+    "diff_abs": 661.0,
+    "diff_pct": 24.86
+  },
+  {
+    "ean": "7790070621887",
+    "nombre": "rav.la saltena x450gr.cye",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2389.0,
-    "precio_hoy": 3180.0,
-    "diff_abs": 791.0,
-    "diff_pct": 33.11
+    "precio_antes": 4302.0,
+    "precio_hoy": 4302.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742172204",
-    "nombre": "bebida lactea la serenisima x 200ml protein chocol",
+    "ean": "7790070621863",
+    "nombre": "rav.la saltena x450gr.4quesos",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1319.0,
-    "precio_hoy": 1754.0,
-    "diff_abs": 435.0,
-    "diff_pct": 32.98
+    "precio_antes": 4302.0,
+    "precio_hoy": 4302.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742566027",
-    "nombre": "bebida lactea la serenisima x 200 ml frutilla redu",
+    "ean": "2016210000004",
+    "nombre": "quesos santa rsa reggianito x kg.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 949.0,
-    "precio_hoy": 1259.0,
-    "diff_abs": 310.0,
-    "diff_pct": 32.67
+    "precio_antes": 44597.0,
+    "precio_hoy": 44597.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742566010",
-    "nombre": "bebida lactea la serenisima x 200 ml vainilla redu",
+    "ean": "7798151771438",
+    "nombre": "queso untable x 180 gm sabor salame",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 949.0,
-    "precio_hoy": 1259.0,
-    "diff_abs": 310.0,
-    "diff_pct": 32.67
+    "precio_antes": 2358.0,
+    "precio_hoy": 2358.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742011701",
-    "nombre": "crema de leche la serenisima uat x 200 ml.batir",
+    "ean": "7798060853096",
+    "nombre": "queso untable cremoso tonadita cremette light x 48",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2759.0,
-    "precio_hoy": 3244.0,
-    "diff_abs": 485.0,
-    "diff_pct": 17.58
+    "precio_antes": 5043.0,
+    "precio_hoy": 5043.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742141606",
-    "nombre": "crema de leche la serenisima para cociar x 200 ml.",
+    "ean": "7791337061507",
+    "nombre": "queso untable cremoso casancrem balance x 500 gr.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2629.0,
-    "precio_hoy": 3090.0,
-    "diff_abs": 461.0,
-    "diff_pct": 17.54
+    "precio_antes": 7499.0,
+    "precio_hoy": 7499.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742141101",
-    "nombre": "crema de leche la serenisima uat x 330 ml.",
+    "ean": "7798151771407",
+    "nombre": "queso untable tremblay x 180 gm sabor clasico",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4219.0,
-    "precio_hoy": 4958.0,
-    "diff_abs": 739.0,
-    "diff_pct": 17.52
+    "precio_antes": 2358.0,
+    "precio_hoy": 2358.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742141705",
-    "nombre": "crema de leche la serenisima para cociar x 330 ml.",
+    "ean": "7798151771445",
+    "nombre": "queso untable tremblay x 180 gm por salut",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4029.0,
-    "precio_hoy": 4729.0,
-    "diff_abs": 700.0,
-    "diff_pct": 17.37
+    "precio_antes": 2358.0,
+    "precio_hoy": 2358.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742333605",
-    "nombre": "leche la serenisima zero lactosa larga vida x 1 lt",
+    "ean": "7798151771391",
+    "nombre": "queso untable tremblay x 180 gm cheddar",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2599.0,
-    "precio_hoy": 2888.0,
-    "diff_abs": 289.0,
-    "diff_pct": 11.12
+    "precio_antes": 2358.21,
+    "precio_hoy": 2358.21,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742358103",
-    "nombre": "leche la serenisima extra calcio botella x 1 l. con colageno",
+    "ean": "7798151771384",
+    "nombre": "queso untable tremblay sabor queso azul x 180gm",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2599.0,
-    "precio_hoy": 2888.0,
-    "diff_abs": 289.0,
-    "diff_pct": 11.12
+    "precio_antes": 2358.0,
+    "precio_hoy": 2358.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742335807",
-    "nombre": "leche descremada la serenisima con hierro x 1 lt.",
+    "ean": "7790070621801",
+    "nombre": "rav.la saltena x900gr.pyverd.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2599.0,
-    "precio_hoy": 2888.0,
-    "diff_abs": 289.0,
-    "diff_pct": 11.12
+    "precio_antes": 8487.0,
+    "precio_hoy": 8487.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742358608",
-    "nombre": "leche descremada la serenisima protein x 1 lt.",
+    "ean": "7798060852990",
+    "nombre": "queso untable tonadita x 180 gr. jamon",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2599.0,
-    "precio_hoy": 2888.0,
-    "diff_abs": 289.0,
-    "diff_pct": 11.12
+    "precio_antes": 2401.0,
+    "precio_hoy": 2401.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742358400",
-    "nombre": "leche barista la serenisima x 1 lt.",
+    "ean": "7795293106111",
+    "nombre": "ravioles don yeyo x 500 gr. carne y espinaca",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2599.0,
-    "precio_hoy": 2888.0,
-    "diff_abs": 289.0,
-    "diff_pct": 11.12
+    "precio_antes": 3945.0,
+    "precio_hoy": 3945.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742358509",
-    "nombre": "leche larga vida la serenisima con prebioticos x 1",
+    "ean": "7795293000174",
+    "nombre": "ravioles don yeyo x 500 gr. 4 quesos",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2599.0,
-    "precio_hoy": 2888.0,
-    "diff_abs": 289.0,
-    "diff_pct": 11.12
+    "precio_antes": 3953.0,
+    "precio_hoy": 3953.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742331304",
-    "nombre": "leche en polvo armonia x 800 gr.",
+    "ean": "7798060853003",
+    "nombre": "queso untable tonadita clasico x 180 gr.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 11029.0,
-    "precio_hoy": 12254.0,
-    "diff_abs": 1225.0,
-    "diff_pct": 11.11
+    "precio_antes": 2401.0,
+    "precio_hoy": 2401.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790742625304",
-    "nombre": "dulce de leche la serenisima clasico x 400 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3459.0,
-    "precio_hoy": 3842.0,
-    "diff_abs": 383.0,
-    "diff_pct": 11.07
-  },
-  {
-    "ean": "2037860000008",
-    "nombre": "queso cremon la serenisima cremoso x kilo",
+    "ean": "7794990184507",
+    "nombre": "queso untable ricrem jamon x 180 gr",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 15219.0,
-    "precio_hoy": 16904.0,
-    "diff_abs": 1685.0,
-    "diff_pct": 11.07
-  },
-  {
-    "ean": "2017630000001",
-    "nombre": "queso doble crema cremon la serenisima x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 16949.0,
-    "precio_hoy": 18823.0,
-    "diff_abs": 1874.0,
-    "diff_pct": 11.06
+    "precio_antes": 2011.0,
+    "precio_hoy": 2011.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]

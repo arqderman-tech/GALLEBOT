@@ -1,9 +1,9 @@
 {
-  "fecha": "20260817",
-  "total_productos": 6373,
-  "variacion_dia": 0.1,
-  "variacion_7d": 0.59,
-  "variacion_mes": 1.1,
+  "fecha": "20260818",
+  "total_productos": 6369,
+  "variacion_dia": 0.01,
+  "variacion_7d": 0.6,
+  "variacion_mes": 1.12,
   "variacion_anio": null,
   "categorias_dia": [
     {
@@ -11,13 +11,13 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1458
+      "total_productos": 1456
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.53,
-      "productos_subieron": 45,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": -0.03,
+      "productos_subieron": 0,
+      "productos_bajaron": 2,
       "total_productos": 1117
     },
     {
@@ -25,70 +25,88 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 237
+      "total_productos": 238
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 812
+      "total_productos": 813
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 2,
-      "productos_bajaron": 0,
-      "total_productos": 886
-    },
-    {
-      "categoria": "Almacen",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1848
+      "total_productos": 885
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.05,
+      "productos_subieron": 4,
+      "productos_bajaron": 0,
+      "total_productos": 1849
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7794080000458",
-      "nombre": "ravioles la morocha de carne y verdura x 500 gr.",
+      "ean": "7794080000052",
+      "nombre": "tapas empanadas la morocha pfreir x 12 unid.",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3531.0,
-      "precio_hoy": 3531.0,
+      "precio_antes": 1738.0,
+      "precio_hoy": 1439.0,
+      "diff_abs": -299.0,
+      "diff_pct": -17.2
+    },
+    {
+      "ean": "7794080000199",
+      "nombre": "tapas para empanadas la morocha hojaldre x 12 unid",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1738.0,
+      "precio_hoy": 1439.0,
+      "diff_abs": -299.0,
+      "diff_pct": -17.2
+    },
+    {
+      "ean": "7798151771391",
+      "nombre": "queso untable tremblay x 180 gm cheddar",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2358.21,
+      "precio_hoy": 2358.21,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790070621856",
-      "nombre": "ravioles la saltena x 450 gr. pollo y espinaca",
+      "ean": "7795293106111",
+      "nombre": "ravioles don yeyo x 500 gr. carne y espinaca",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4302.0,
-      "precio_hoy": 4302.0,
+      "precio_antes": 3945.0,
+      "precio_hoy": 3945.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790070621870",
-      "nombre": "ravioles la saltena x 450 gr. jamon y mozzarella",
+      "ean": "7795293000174",
+      "nombre": "ravioles don yeyo x 500 gr. 4 quesos",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4302.0,
-      "precio_hoy": 4302.0,
+      "precio_antes": 3953.0,
+      "precio_hoy": 3953.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790070621894",
-      "nombre": "ravioles la saltena espinaca y queso x 450 gr.",
+      "ean": "7795293106418",
+      "nombre": "ravioles don yeyo x 500 gm espinaca y ricota",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4302.0,
-      "precio_hoy": 4302.0,
+      "precio_antes": 3794.0,
+      "precio_hoy": 3794.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790070621818",
-      "nombre": "ravioles la saltena cuatro quesos x 900 gr.",
+      "ean": "7790070621801",
+      "nombre": "rav.la saltena x900gr.pyverd.",
       "categoria": "Lacteos Y Frescos",
       "precio_antes": 8487.0,
       "precio_hoy": 8487.0,
@@ -96,52 +114,34 @@
       "diff_pct": 0.0
     },
     {
-      "ean": "7794080001257",
-      "nombre": "ravioles la morocha x 500 gr. ricota y espinaca",
+      "ean": "7790070621887",
+      "nombre": "rav.la saltena x450gr.cye",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3531.0,
-      "precio_hoy": 3531.0,
+      "precio_antes": 4302.0,
+      "precio_hoy": 4302.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7794080001271",
-      "nombre": "ravioles la morocha x 500 gr. jamon, ricotta y moz",
+      "ean": "7790070621863",
+      "nombre": "rav.la saltena x450gr.4quesos",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3531.0,
-      "precio_hoy": 3531.0,
+      "precio_antes": 4302.0,
+      "precio_hoy": 4302.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7794080004173",
-      "nombre": "ravioles la morocha x 500 gr. 4 quesos",
+      "ean": "2016210000004",
+      "nombre": "quesos santa rsa reggianito x kg.",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3531.0,
-      "precio_hoy": 3531.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7794080001516",
-      "nombre": "ravioles la morocha x 1 kg. espinaca y pollo",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 6414.0,
-      "precio_hoy": 6414.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7794080001523",
-      "nombre": "ravioles la morocha x 1 kg. cuatro quesos",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 6414.0,
-      "precio_hoy": 6414.0,
+      "precio_antes": 44597.0,
+      "precio_hoy": 44597.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 47,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 6311
+  "productos_subieron_dia": 4,
+  "productos_bajaron_dia": 2,
+  "productos_sin_cambio_dia": 6352
 }

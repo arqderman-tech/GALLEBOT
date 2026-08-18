@@ -54,8 +54,8 @@
     "diff_pct": 66.89
   },
   {
-    "ean": "2020370000002",
-    "nombre": "chaucha rolliza x kg.",
+    "ean": "2020350000008",
+    "nombre": "chaucha ballina x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 5990.0,
     "precio_hoy": 9990.0,
@@ -63,8 +63,8 @@
     "diff_pct": 66.78
   },
   {
-    "ean": "2020350000008",
-    "nombre": "chaucha ballina x kg.",
+    "ean": "2020370000002",
+    "nombre": "chaucha rolliza x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 5990.0,
     "precio_hoy": 9990.0,
@@ -126,8 +126,8 @@
     "diff_pct": 50.06
   },
   {
-    "ean": "7790314079962",
-    "nombre": "vino tinto estancia mendoza reserva malbec x 750 m",
+    "ean": "7790314079979",
+    "nombre": "vino estancia mendoza reserva cabernet sauvignon",
     "categoria": "Bebidas",
     "precio_antes": 5590.0,
     "precio_hoy": 8290.0,
@@ -135,8 +135,8 @@
     "diff_pct": 48.3
   },
   {
-    "ean": "7790314079979",
-    "nombre": "vino estancia mendoza reserva cabernet sauvignon",
+    "ean": "7790314079962",
+    "nombre": "vino tinto estancia mendoza reserva malbec x 750 m",
     "categoria": "Bebidas",
     "precio_antes": 5590.0,
     "precio_hoy": 8290.0,
