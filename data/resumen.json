@@ -1,147 +1,147 @@
 {
-  "fecha": "20260818",
-  "total_productos": 6369,
-  "variacion_dia": 0.01,
-  "variacion_7d": 0.6,
-  "variacion_mes": 1.12,
+  "fecha": "20260819",
+  "total_productos": 6341,
+  "variacion_dia": 0.37,
+  "variacion_7d": 0.95,
+  "variacion_mes": 1.45,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1456
+      "variacion_pct_promedio": 0.26,
+      "productos_subieron": 55,
+      "productos_bajaron": 43,
+      "total_productos": 1458
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.03,
-      "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "total_productos": 1117
+      "variacion_pct_promedio": 0.08,
+      "productos_subieron": 79,
+      "productos_bajaron": 50,
+      "total_productos": 1120
     },
     {
       "categoria": "Congelados",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 238
+      "total_productos": 234
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 813
+      "variacion_pct_promedio": 0.42,
+      "productos_subieron": 31,
+      "productos_bajaron": 1,
+      "total_productos": 812
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 885
+      "variacion_pct_promedio": 0.42,
+      "productos_subieron": 20,
+      "productos_bajaron": 2,
+      "total_productos": 872
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.05,
-      "productos_subieron": 4,
-      "productos_bajaron": 0,
-      "total_productos": 1849
+      "variacion_pct_promedio": 0.63,
+      "productos_subieron": 105,
+      "productos_bajaron": 3,
+      "total_productos": 1838
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7794080000052",
-      "nombre": "tapas empanadas la morocha pfreir x 12 unid.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1738.0,
-      "precio_hoy": 1439.0,
-      "diff_abs": -299.0,
-      "diff_pct": -17.2
+      "ean": "7792798010882",
+      "nombre": "cerveza patagonia vera ipa x 730 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 7056.0,
+      "precio_hoy": 4589.0,
+      "diff_abs": -2467.0,
+      "diff_pct": -34.96
     },
     {
-      "ean": "7794080000199",
-      "nombre": "tapas para empanadas la morocha hojaldre x 12 unid",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1738.0,
-      "precio_hoy": 1439.0,
-      "diff_abs": -299.0,
-      "diff_pct": -17.2
+      "ean": "7792798002399",
+      "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 7056.0,
+      "precio_hoy": 4589.0,
+      "diff_abs": -2467.0,
+      "diff_pct": -34.96
     },
     {
-      "ean": "7798151771391",
-      "nombre": "queso untable tremblay x 180 gm cheddar",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2358.21,
-      "precio_hoy": 2358.21,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7792798999866",
+      "nombre": "cerveza andes rubia pack x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 3194.0,
+      "precio_hoy": 2239.0,
+      "diff_abs": -955.0,
+      "diff_pct": -29.9
     },
     {
-      "ean": "7795293106111",
-      "nombre": "ravioles don yeyo x 500 gr. carne y espinaca",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3945.0,
-      "precio_hoy": 3945.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895009846",
+      "nombre": "jugo cepita durazno x 1 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 2863.0,
+      "precio_hoy": 2069.0,
+      "diff_abs": -794.0,
+      "diff_pct": -27.73
     },
     {
-      "ean": "7795293000174",
-      "nombre": "ravioles don yeyo x 500 gr. 4 quesos",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3953.0,
-      "precio_hoy": 3953.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895009815",
+      "nombre": "jugo cepita naranja x 1 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 2863.0,
+      "precio_hoy": 2069.0,
+      "diff_abs": -794.0,
+      "diff_pct": -27.73
     },
     {
-      "ean": "7795293106418",
-      "nombre": "ravioles don yeyo x 500 gm espinaca y ricota",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3794.0,
-      "precio_hoy": 3794.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895009853",
+      "nombre": "jugo cepita manzana botella x 1 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 2863.0,
+      "precio_hoy": 2069.0,
+      "diff_abs": -794.0,
+      "diff_pct": -27.73
     },
     {
-      "ean": "7790070621801",
-      "nombre": "rav.la saltena x900gr.pyverd.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 8487.0,
-      "precio_hoy": 8487.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895642470",
+      "nombre": "jugo cepita anana botella x 1 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 2863.0,
+      "precio_hoy": 2069.0,
+      "diff_abs": -794.0,
+      "diff_pct": -27.73
     },
     {
-      "ean": "7790070621887",
-      "nombre": "rav.la saltena x450gr.cye",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4302.0,
-      "precio_hoy": 4302.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895643835",
+      "nombre": "alimento de soja ades manzana x 1 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 3579.0,
+      "precio_hoy": 2609.0,
+      "diff_abs": -970.0,
+      "diff_pct": -27.1
     },
     {
-      "ean": "7790070621863",
-      "nombre": "rav.la saltena x450gr.4quesos",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4302.0,
-      "precio_hoy": 4302.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895643842",
+      "nombre": "alimento de soja ades naranja x 1 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 3579.0,
+      "precio_hoy": 2609.0,
+      "diff_abs": -970.0,
+      "diff_pct": -27.1
     },
     {
-      "ean": "2016210000004",
-      "nombre": "quesos santa rsa reggianito x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 44597.0,
-      "precio_hoy": 44597.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790895643804",
+      "nombre": "ades x1lt.anana",
+      "categoria": "Bebidas",
+      "precio_antes": 3579.0,
+      "precio_hoy": 2609.0,
+      "diff_abs": -970.0,
+      "diff_pct": -27.1
     }
   ],
-  "productos_subieron_dia": 4,
-  "productos_bajaron_dia": 2,
-  "productos_sin_cambio_dia": 6352
+  "productos_subieron_dia": 290,
+  "productos_bajaron_dia": 99,
+  "productos_sin_cambio_dia": 5945
 }

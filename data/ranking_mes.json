@@ -9,8 +9,8 @@
     "diff_pct": 757.29
   },
   {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2209.0,
     "precio_hoy": 5332.0,
@@ -18,8 +18,8 @@
     "diff_pct": 141.38
   },
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2209.0,
     "precio_hoy": 5332.0,
@@ -108,6 +108,15 @@
     "diff_pct": 67.66
   },
   {
+    "ean": "2020050000001",
+    "nombre": "banana ecuatoriana x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
+  },
+  {
     "ean": "7790070761071",
     "nombre": "espumante nieto senetiner x 750 ml grand cuvee extra brut",
     "categoria": "Bebidas",
@@ -126,15 +135,6 @@
     "diff_pct": 63.63
   },
   {
-    "ean": "7790139004576",
-    "nombre": "aceite de oliva casalta medio x 400 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 20559.0,
-    "precio_hoy": 33216.0,
-    "diff_abs": 12657.0,
-    "diff_pct": 61.56
-  },
-  {
     "ean": "7790139004569",
     "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
     "categoria": "Almacen",
@@ -144,8 +144,17 @@
     "diff_pct": 61.56
   },
   {
-    "ean": "7791337009998",
-    "nombre": "yogur yogurisimo griego x 190 gr natural sin end",
+    "ean": "7790139004576",
+    "nombre": "aceite de oliva casalta medio x 400 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 20559.0,
+    "precio_hoy": 33216.0,
+    "diff_abs": 12657.0,
+    "diff_pct": 61.56
+  },
+  {
+    "ean": "7791337009981",
+    "nombre": "yogur yogurisimo griego x 190 gr natural endulzado",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2079.0,
     "precio_hoy": 3353.0,
@@ -153,8 +162,8 @@
     "diff_pct": 61.28
   },
   {
-    "ean": "7791337009981",
-    "nombre": "yogur yogurisimo griego x 190 gr natural endulzado",
+    "ean": "7791337009998",
+    "nombre": "yogur yogurisimo griego x 190 gr natural sin end",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2079.0,
     "precio_hoy": 3353.0,
@@ -169,14 +178,5 @@
     "precio_hoy": 7990.0,
     "diff_abs": 3000.0,
     "diff_pct": 60.12
-  },
-  {
-    "ean": "7891000248799",
-    "nombre": "chocolate kit kat x 41 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1499.0,
-    "precio_hoy": 2364.0,
-    "diff_abs": 865.0,
-    "diff_pct": 57.71
   }
 ]

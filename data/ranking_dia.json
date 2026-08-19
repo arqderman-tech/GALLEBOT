@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790139003265",
-    "nombre": "vinagre de manzana casalta x 1 lt.",
+    "ean": "2020730000000",
+    "nombre": "espinaca atado",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 990.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 101.01
+  },
+  {
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 60.24
+  },
+  {
+    "ean": "80052487",
+    "nombre": "bombones con coco y almendras x 3 unidades raffaello",
     "categoria": "Almacen",
-    "precio_antes": 3769.0,
-    "precio_hoy": 4739.0,
-    "diff_abs": 970.0,
-    "diff_pct": 25.74
+    "precio_antes": 1919.0,
+    "precio_hoy": 3049.0,
+    "diff_abs": 1130.0,
+    "diff_pct": 58.88
   },
   {
-    "ean": "7790139004965",
-    "nombre": "aceto espeso favinco x 500 ml. original",
+    "ean": "7792798001972",
+    "nombre": "cerveza lata patagonia x 473 ml 24.7",
+    "categoria": "Bebidas",
+    "precio_antes": 3229.0,
+    "precio_hoy": 4961.0,
+    "diff_abs": 1732.0,
+    "diff_pct": 53.64
+  },
+  {
+    "ean": "7792798001965",
+    "nombre": "cerveza patagonia amber lager lata x 473 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 3229.0,
+    "precio_hoy": 4961.0,
+    "diff_abs": 1732.0,
+    "diff_pct": 53.64
+  },
+  {
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
+    "ean": "7898024396994",
+    "nombre": "bombones cubiertos con choco.con leche y avellanas x 12 unid",
     "categoria": "Almacen",
-    "precio_antes": 5479.0,
-    "precio_hoy": 6845.0,
-    "diff_abs": 1366.0,
-    "diff_pct": 24.93
+    "precio_antes": 10769.0,
+    "precio_hoy": 16027.0,
+    "diff_abs": 5258.0,
+    "diff_pct": 48.83
   },
   {
-    "ean": "7790139004941",
-    "nombre": "aceto espeso favinco x 250 ml. original",
+    "ean": "8000500232057",
+    "nombre": "bombones coco y almendras x 9 unidades raffaello",
     "categoria": "Almacen",
-    "precio_antes": 3579.0,
-    "precio_hoy": 4469.0,
-    "diff_abs": 890.0,
-    "diff_pct": 24.87
+    "precio_antes": 5579.0,
+    "precio_hoy": 8303.0,
+    "diff_abs": 2724.0,
+    "diff_pct": 48.83
   },
   {
-    "ean": "7790139003425",
-    "nombre": "aceto balsamico favinco x 250 ml.",
+    "ean": "7898024397151",
+    "nombre": "bomobnes rellenos surtidos x 7 unidades ferrero colection",
     "categoria": "Almacen",
-    "precio_antes": 2659.0,
-    "precio_hoy": 3320.0,
-    "diff_abs": 661.0,
-    "diff_pct": 24.86
+    "precio_antes": 8139.0,
+    "precio_hoy": 12108.0,
+    "diff_abs": 3969.0,
+    "diff_pct": 48.77
   },
   {
-    "ean": "7790070621887",
-    "nombre": "rav.la saltena x450gr.cye",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4302.0,
-    "precio_hoy": 4302.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "8000500009673",
+    "nombre": "bombones ferrero rocher caja x 24 unidades",
+    "categoria": "Almacen",
+    "precio_antes": 19879.0,
+    "precio_hoy": 29570.0,
+    "diff_abs": 9691.0,
+    "diff_pct": 48.75
   },
   {
-    "ean": "7790070621863",
-    "nombre": "rav.la saltena x450gr.4quesos",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4302.0,
-    "precio_hoy": 4302.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7861002900117",
+    "nombre": "bombones ferrero rocher x 8 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 7149.0,
+    "precio_hoy": 10627.0,
+    "diff_abs": 3478.0,
+    "diff_pct": 48.65
   },
   {
-    "ean": "2016210000004",
-    "nombre": "quesos santa rsa reggianito x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 44597.0,
-    "precio_hoy": 44597.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792798013470",
+    "nombre": "cerveza stella artois 0 a?a? x 330 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 2379.0,
+    "precio_hoy": 3400.0,
+    "diff_abs": 1021.0,
+    "diff_pct": 42.92
   },
   {
-    "ean": "7798151771438",
-    "nombre": "queso untable x 180 gm sabor salame",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2358.0,
-    "precio_hoy": 2358.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792798015351",
+    "nombre": "cerveza corona 0 % x 473 ml lata",
+    "categoria": "Bebidas",
+    "precio_antes": 2519.0,
+    "precio_hoy": 3600.0,
+    "diff_abs": 1081.0,
+    "diff_pct": 42.91
   },
   {
-    "ean": "7798060853096",
-    "nombre": "queso untable cremoso tonadita cremette light x 48",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5043.0,
-    "precio_hoy": 5043.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792798005888",
+    "nombre": "cerveza brahma lata x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1909.0,
+    "precio_hoy": 2724.0,
+    "diff_abs": 815.0,
+    "diff_pct": 42.69
   },
   {
-    "ean": "7791337061507",
-    "nombre": "queso untable cremoso casancrem balance x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 7499.0,
-    "precio_hoy": 7499.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792798008858",
+    "nombre": "cerveza temple wolf ipa x 473 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3479.0,
+    "precio_hoy": 4961.0,
+    "diff_abs": 1482.0,
+    "diff_pct": 42.6
   },
   {
-    "ean": "7798151771407",
-    "nombre": "queso untable tremblay x 180 gm sabor clasico",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2358.0,
-    "precio_hoy": 2358.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790895641800",
+    "nombre": "jugo cepita botella x 1.5 lt. naranja",
+    "categoria": "Bebidas",
+    "precio_antes": 2739.0,
+    "precio_hoy": 3849.0,
+    "diff_abs": 1110.0,
+    "diff_pct": 40.53
   },
   {
-    "ean": "7798151771445",
-    "nombre": "queso untable tremblay x 180 gm por salut",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2358.0,
-    "precio_hoy": 2358.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790895641534",
+    "nombre": "jugo cepita botella x 1,5 lt. durazno",
+    "categoria": "Bebidas",
+    "precio_antes": 2739.0,
+    "precio_hoy": 3849.0,
+    "diff_abs": 1110.0,
+    "diff_pct": 40.53
   },
   {
-    "ean": "7798151771391",
-    "nombre": "queso untable tremblay x 180 gm cheddar",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2358.21,
-    "precio_hoy": 2358.21,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790895641749",
+    "nombre": "jugo cepita anana x 1.5 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2739.0,
+    "precio_hoy": 3849.0,
+    "diff_abs": 1110.0,
+    "diff_pct": 40.53
   },
   {
-    "ean": "7798151771384",
-    "nombre": "queso untable tremblay sabor queso azul x 180gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2358.0,
-    "precio_hoy": 2358.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2022080000006",
+    "nombre": "rucula x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1790.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 700.0,
+    "diff_pct": 39.11
   },
   {
-    "ean": "7790070621801",
-    "nombre": "rav.la saltena x900gr.pyverd.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 8487.0,
-    "precio_hoy": 8487.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798060852990",
-    "nombre": "queso untable tonadita x 180 gr. jamon",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2401.0,
-    "precio_hoy": 2401.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7795293106111",
-    "nombre": "ravioles don yeyo x 500 gr. carne y espinaca",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3945.0,
-    "precio_hoy": 3945.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7795293000174",
-    "nombre": "ravioles don yeyo x 500 gr. 4 quesos",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3953.0,
-    "precio_hoy": 3953.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798060853003",
-    "nombre": "queso untable tonadita clasico x 180 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2401.0,
-    "precio_hoy": 2401.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7794990184507",
-    "nombre": "queso untable ricrem jamon x 180 gr",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2011.0,
-    "precio_hoy": 2011.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "77949707",
+    "nombre": "chocolate kinder x 100 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4909.0,
+    "precio_hoy": 6816.0,
+    "diff_abs": 1907.0,
+    "diff_pct": 38.85
   }
 ]
