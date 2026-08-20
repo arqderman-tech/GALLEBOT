@@ -1,147 +1,147 @@
 {
-  "fecha": "20260819",
-  "total_productos": 6341,
-  "variacion_dia": 0.37,
-  "variacion_7d": 0.95,
-  "variacion_mes": 1.45,
+  "fecha": "20260820",
+  "total_productos": 6347,
+  "variacion_dia": 0.51,
+  "variacion_7d": 1.46,
+  "variacion_mes": 1.85,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.26,
-      "productos_subieron": 55,
-      "productos_bajaron": 43,
-      "total_productos": 1458
-    },
-    {
-      "categoria": "Frescos",
-      "variacion_pct_promedio": 0.08,
-      "productos_subieron": 79,
-      "productos_bajaron": 50,
-      "total_productos": 1120
-    },
-    {
-      "categoria": "Congelados",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 234
+      "total_productos": 1455
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": 2.19,
+      "productos_subieron": 70,
+      "productos_bajaron": 2,
+      "total_productos": 1114
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 3.48,
+      "productos_subieron": 52,
+      "productos_bajaron": 2,
+      "total_productos": 235
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.42,
-      "productos_subieron": 31,
+      "variacion_pct_promedio": 0.05,
+      "productos_subieron": 8,
       "productos_bajaron": 1,
       "total_productos": 812
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.42,
-      "productos_subieron": 20,
-      "productos_bajaron": 2,
-      "total_productos": 872
+      "variacion_pct_promedio": -0.09,
+      "productos_subieron": 0,
+      "productos_bajaron": 5,
+      "total_productos": 864
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.63,
-      "productos_subieron": 105,
-      "productos_bajaron": 3,
-      "total_productos": 1838
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1832
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7792798010882",
-      "nombre": "cerveza patagonia vera ipa x 730 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 7056.0,
-      "precio_hoy": 4589.0,
-      "diff_abs": -2467.0,
-      "diff_pct": -34.96
+      "ean": "6934097722245",
+      "nombre": "super pegamento cyanocrilato",
+      "categoria": "Limpieza",
+      "precio_antes": 8290.0,
+      "precio_hoy": 691.0,
+      "diff_abs": -7599.0,
+      "diff_pct": -91.66
     },
     {
-      "ean": "7792798002399",
-      "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 7056.0,
-      "precio_hoy": 4589.0,
-      "diff_abs": -2467.0,
-      "diff_pct": -34.96
+      "ean": "7797906054918",
+      "nombre": "papas mc cain noisette x 1.2 kg.",
+      "categoria": "Congelados",
+      "precio_antes": 20329.0,
+      "precio_hoy": 12199.01,
+      "diff_abs": -8129.99,
+      "diff_pct": -39.99
     },
     {
-      "ean": "7792798999866",
-      "nombre": "cerveza andes rubia pack x 473 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 3194.0,
-      "precio_hoy": 2239.0,
-      "diff_abs": -955.0,
-      "diff_pct": -29.9
+      "ean": "7797906054833",
+      "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 8555.0,
+      "precio_hoy": 5139.0,
+      "diff_abs": -3416.0,
+      "diff_pct": -39.93
     },
     {
-      "ean": "7790895009846",
-      "nombre": "jugo cepita durazno x 1 lt.",
-      "categoria": "Bebidas",
-      "precio_antes": 2863.0,
-      "precio_hoy": 2069.0,
-      "diff_abs": -794.0,
-      "diff_pct": -27.73
+      "ean": "7790070509123",
+      "nombre": "yerba mate chamigo x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2385.0,
+      "precio_hoy": 1780.0,
+      "diff_abs": -605.0,
+      "diff_pct": -25.37
     },
     {
-      "ean": "7790895009815",
-      "nombre": "jugo cepita naranja x 1 lt.",
-      "categoria": "Bebidas",
-      "precio_antes": 2863.0,
-      "precio_hoy": 2069.0,
-      "diff_abs": -794.0,
-      "diff_pct": -27.73
+      "ean": "7790070507280",
+      "nombre": "yerba mate nobleza gaucha seleccion x 1 kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 4889.0,
+      "precio_hoy": 3829.0,
+      "diff_abs": -1060.0,
+      "diff_pct": -21.68
     },
     {
-      "ean": "7790895009853",
-      "nombre": "jugo cepita manzana botella x 1 lt.",
-      "categoria": "Bebidas",
-      "precio_antes": 2863.0,
-      "precio_hoy": 2069.0,
-      "diff_abs": -794.0,
-      "diff_pct": -27.73
+      "ean": "7790070507273",
+      "nombre": "yerba mate nobleza gaucha seleccion x 500 ml.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2566.0,
+      "precio_hoy": 2010.0,
+      "diff_abs": -556.0,
+      "diff_pct": -21.67
     },
     {
-      "ean": "7790895642470",
-      "nombre": "jugo cepita anana botella x 1 lt.",
-      "categoria": "Bebidas",
-      "precio_antes": 2863.0,
-      "precio_hoy": 2069.0,
-      "diff_abs": -794.0,
-      "diff_pct": -27.73
+      "ean": "2014830000008",
+      "nombre": "lomo cocido paladini x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 22479.0,
+      "precio_hoy": 20230.0,
+      "diff_abs": -2249.0,
+      "diff_pct": -10.0
     },
     {
-      "ean": "7790895643835",
-      "nombre": "alimento de soja ades manzana x 1 lt.",
-      "categoria": "Bebidas",
-      "precio_antes": 3579.0,
-      "precio_hoy": 2609.0,
-      "diff_abs": -970.0,
-      "diff_pct": -27.1
+      "ean": "7790079024146",
+      "nombre": "chorizos frescos de cerdo paladini env x 360 gr",
+      "categoria": "Carniceria",
+      "precio_antes": 7959.0,
+      "precio_hoy": 7322.0,
+      "diff_abs": -637.0,
+      "diff_pct": -8.0
     },
     {
-      "ean": "7790895643842",
-      "nombre": "alimento de soja ades naranja x 1 lt.",
-      "categoria": "Bebidas",
-      "precio_antes": 3579.0,
-      "precio_hoy": 2609.0,
-      "diff_abs": -970.0,
-      "diff_pct": -27.1
+      "ean": "7790070100375",
+      "nombre": "yerba nobleza gaucha x 500 gr cimarron",
+      "categoria": "Perfumeria",
+      "precio_antes": 2309.0,
+      "precio_hoy": 2128.0,
+      "diff_abs": -181.0,
+      "diff_pct": -7.84
     },
     {
-      "ean": "7790895643804",
-      "nombre": "ades x1lt.anana",
-      "categoria": "Bebidas",
-      "precio_antes": 3579.0,
-      "precio_hoy": 2609.0,
-      "diff_abs": -970.0,
-      "diff_pct": -27.1
+      "ean": "7790070100382",
+      "nombre": "yerba nobleza gaucha x 1 kg cimarron",
+      "categoria": "Perfumeria",
+      "precio_antes": 4029.0,
+      "precio_hoy": 3829.0,
+      "diff_abs": -200.0,
+      "diff_pct": -4.96
     }
   ],
-  "productos_subieron_dia": 290,
-  "productos_bajaron_dia": 99,
-  "productos_sin_cambio_dia": 5945
+  "productos_subieron_dia": 130,
+  "productos_bajaron_dia": 10,
+  "productos_sin_cambio_dia": 6172
 }
