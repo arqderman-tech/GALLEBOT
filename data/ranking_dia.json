@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "ean": "2019990000004",
+    "nombre": "apio x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
+  },
+  {
+    "ean": "2027050000000",
+    "nombre": "sandia postre x kilo",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
+  },
+  {
+    "ean": "2022220000002",
+    "nombre": "tomate redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
+  },
+  {
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 20.08
+  },
+  {
+    "ean": "2020160000007",
+    "nombre": "brocoli x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 9990.0,
+    "precio_hoy": 11990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 20.02
+  },
+  {
+    "ean": "2021210000008",
+    "nombre": "mango x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 14.31
+  },
+  {
+    "ean": "77958662",
+    "nombre": "caram.menthoplus x29gr.menta",
+    "categoria": "Almacen",
+    "precio_antes": 690.0,
+    "precio_hoy": 783.0,
+    "diff_abs": 93.0,
+    "diff_pct": 13.48
+  },
+  {
+    "ean": "2020370000002",
+    "nombre": "chaucha rolliza x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 8990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 12.52
+  },
+  {
+    "ean": "2020350000008",
+    "nombre": "chaucha ballina x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 8990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 12.52
+  },
+  {
+    "ean": "7790580160807",
+    "nombre": "aceite arcor x900ml.maiz",
+    "categoria": "Almacen",
+    "precio_antes": 5280.0,
+    "precio_hoy": 5911.0,
+    "diff_abs": 631.0,
+    "diff_pct": 11.95
+  },
+  {
+    "ean": "7790040150010",
+    "nombre": "alfajor cofler x 60 gr choco creamy",
+    "categoria": "Almacen",
+    "precio_antes": 1876.0,
+    "precio_hoy": 2084.0,
+    "diff_abs": 208.0,
+    "diff_pct": 11.09
+  },
+  {
+    "ean": "8008698001905",
+    "nombre": "obleas schar vainilla x 125 gm",
+    "categoria": "Almacen",
+    "precio_antes": 8507.0,
+    "precio_hoy": 9358.0,
+    "diff_abs": 851.0,
+    "diff_pct": 10.0
+  },
+  {
+    "ean": "7898954933689",
+    "nombre": "pan hamburguesas",
+    "categoria": "Almacen",
+    "precio_antes": 6795.0,
+    "precio_hoy": 7474.0,
+    "diff_abs": 679.0,
+    "diff_pct": 9.99
+  },
+  {
+    "ean": "77961815",
+    "nombre": "bombones bon o bon blanco x 450 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 577.0,
+    "precio_hoy": 631.0,
+    "diff_abs": 54.0,
+    "diff_pct": 9.36
+  },
+  {
+    "ean": "77958921",
+    "nombre": "bon o bon x15gr.leche",
+    "categoria": "Almacen",
+    "precio_antes": 631.0,
+    "precio_hoy": 690.0,
+    "diff_abs": 59.0,
+    "diff_pct": 9.35
+  },
+  {
+    "ean": "7790580105389",
+    "nombre": "jugo arcor multifruta x 200 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 560.0,
+    "precio_hoy": 610.0,
+    "diff_abs": 50.0,
+    "diff_pct": 8.93
+  },
+  {
+    "ean": "76625246543",
+    "nombre": "lena forestales pacheco x 6 kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 6014.0,
+    "precio_hoy": 6438.0,
+    "diff_abs": 424.0,
+    "diff_pct": 7.05
+  },
+  {
+    "ean": "7790670045502",
+    "nombre": "salchichas patyviena tipo alemana x 4 unid.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3809.0,
-    "precio_hoy": 7960.0,
-    "diff_abs": 4151.0,
-    "diff_pct": 108.98
+    "precio_antes": 5405.0,
+    "precio_hoy": 5735.0,
+    "diff_abs": 330.0,
+    "diff_pct": 6.11
   },
   {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3809.0,
-    "precio_hoy": 7960.0,
-    "diff_abs": 4151.0,
-    "diff_pct": 108.98
+    "ean": "7798333900052",
+    "nombre": "huevos blamcos avicola norte maple x 30 unidades",
+    "categoria": "Almacen",
+    "precio_antes": 7124.0,
+    "precio_hoy": 7499.0,
+    "diff_abs": 375.0,
+    "diff_pct": 5.26
   },
   {
-    "ean": "7791337010369",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010468",
-    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337605428",
-    "nombre": "yogur entero la serenisima cremoso x 120 gr. fruti",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 749.0,
-    "precio_hoy": 1332.0,
-    "diff_abs": 583.0,
-    "diff_pct": 77.84
-  },
-  {
-    "ean": "7791337010420",
-    "nombre": "yogur ls.clas.firme ent.vai120",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 749.0,
-    "precio_hoy": 1332.0,
-    "diff_abs": 583.0,
-    "diff_pct": 77.84
-  },
-  {
-    "ean": "7791337605442",
-    "nombre": "yogur entero batido la serenisima x 120 gr. durazo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 749.0,
-    "precio_hoy": 1332.0,
-    "diff_abs": 583.0,
-    "diff_pct": 77.84
-  },
-  {
-    "ean": "7791337605411",
-    "nombre": "yogur batido la serenisima clasico vainilla x 120.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 749.0,
-    "precio_hoy": 1332.0,
-    "diff_abs": 583.0,
-    "diff_pct": 77.84
-  },
-  {
-    "ean": "7791337010307",
-    "nombre": "yogur la serenisima descremado batido x 120 gm vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 749.0,
-    "precio_hoy": 1332.0,
-    "diff_abs": 583.0,
-    "diff_pct": 77.84
-  },
-  {
-    "ean": "7791337010314",
-    "nombre": "yogur la serenisima descremado batido x 120 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 749.0,
-    "precio_hoy": 1332.0,
-    "diff_abs": 583.0,
-    "diff_pct": 77.84
-  },
-  {
-    "ean": "7791337010413",
-    "nombre": "yogur ls.clas.firme ent.fru120",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 749.0,
-    "precio_hoy": 1332.0,
-    "diff_abs": 583.0,
-    "diff_pct": 77.84
-  },
-  {
-    "ean": "7791337010727",
-    "nombre": "yogur la serenisima cremoso natural x 120 gm sin azucar agre",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 759.0,
-    "precio_hoy": 1333.0,
-    "diff_abs": 574.0,
-    "diff_pct": 75.63
-  },
-  {
-    "ean": "7797906054956",
-    "nombre": "papas congeladas mc cain smiles x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 8088.99,
-    "precio_hoy": 13481.0,
-    "diff_abs": 5392.01,
-    "diff_pct": 66.66
-  },
-  {
-    "ean": "7797906054819",
-    "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 9179.0,
-    "precio_hoy": 15291.0,
-    "diff_abs": 6112.0,
-    "diff_pct": 66.59
-  },
-  {
-    "ean": "7797906054925",
-    "nombre": "papas noisette mc cain horneables x 600 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 6429.0,
-    "precio_hoy": 10700.0,
-    "diff_abs": 4271.0,
-    "diff_pct": 66.43
-  },
-  {
-    "ean": "7791337009691",
-    "nombre": "yogur gran compra bebible x 900 gr vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1799.0,
-    "precio_hoy": 2895.0,
-    "diff_abs": 1096.0,
-    "diff_pct": 60.92
-  },
-  {
-    "ean": "7791337009684",
-    "nombre": "yogur bebible gran compra frutilla x 900 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1799.0,
-    "precio_hoy": 2895.0,
-    "diff_abs": 1096.0,
-    "diff_pct": 60.92
+    "ean": "7790895646560",
+    "nombre": "jugo cepita naranja x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2759.0,
+    "precio_hoy": 2863.0,
+    "diff_abs": 104.0,
+    "diff_pct": 3.77
   }
 ]

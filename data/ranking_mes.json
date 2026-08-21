@@ -1,7 +1,7 @@
 [
   {
-    "ean": "7791337010482",
-    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
+    "ean": "7791337010499",
+    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2209.0,
     "precio_hoy": 5332.0,
@@ -9,8 +9,8 @@
     "diff_pct": 141.38
   },
   {
-    "ean": "7791337010499",
-    "nombre": "yogur bebible deslactosado  900 gm sabor frutilla la sereni",
+    "ean": "7791337010482",
+    "nombre": "yogur la serenisima 0 % lactosa sachet x 900 gm",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2209.0,
     "precio_hoy": 5332.0,
@@ -54,15 +54,6 @@
     "diff_pct": 110.91
   },
   {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
     "ean": "7791337010369",
     "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
     "categoria": "Lacteos Y Frescos",
@@ -72,8 +63,8 @@
     "diff_pct": 104.96
   },
   {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2199.0,
     "precio_hoy": 4507.0,
@@ -90,8 +81,17 @@
     "diff_pct": 104.96
   },
   {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
+  },
+  {
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2199.0,
     "precio_hoy": 4507.0,
@@ -126,8 +126,8 @@
     "diff_pct": 88.13
   },
   {
-    "ean": "7791337061385",
-    "nombre": "queso crema casancrem balance x 290 gm",
+    "ean": "7791337061361",
+    "nombre": "queso crema casancrem x 290 gr.",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3209.0,
     "precio_hoy": 6028.0,
@@ -135,8 +135,8 @@
     "diff_pct": 87.85
   },
   {
-    "ean": "7791337061361",
-    "nombre": "queso crema casancrem x 290 gr.",
+    "ean": "7791337061385",
+    "nombre": "queso crema casancrem balance x 290 gm",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3209.0,
     "precio_hoy": 6028.0,
@@ -162,8 +162,8 @@
     "diff_pct": 85.4
   },
   {
-    "ean": "7791337010413",
-    "nombre": "yogur ls.clas.firme ent.fru120",
+    "ean": "7791337605442",
+    "nombre": "yogur entero batido la serenisima x 120 gr. durazo",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 719.0,
     "precio_hoy": 1332.0,
@@ -171,8 +171,8 @@
     "diff_pct": 85.26
   },
   {
-    "ean": "7791337010420",
-    "nombre": "yogur ls.clas.firme ent.vai120",
+    "ean": "7791337010314",
+    "nombre": "yogur la serenisima descremado batido x 120 gm frutilla",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 719.0,
     "precio_hoy": 1332.0,

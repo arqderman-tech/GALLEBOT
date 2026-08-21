@@ -1,147 +1,147 @@
 {
-  "fecha": "20260820",
-  "total_productos": 6347,
-  "variacion_dia": 0.51,
-  "variacion_7d": 1.46,
-  "variacion_mes": 1.85,
+  "fecha": "20260821",
+  "total_productos": 6365,
+  "variacion_dia": -0.09,
+  "variacion_7d": 0.78,
+  "variacion_mes": 1.71,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1455
+      "variacion_pct_promedio": -0.5,
+      "productos_subieron": 10,
+      "productos_bajaron": 42,
+      "total_productos": 1456
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 2.19,
-      "productos_subieron": 70,
-      "productos_bajaron": 2,
-      "total_productos": 1114
+      "variacion_pct_promedio": 0.07,
+      "productos_subieron": 12,
+      "productos_bajaron": 5,
+      "total_productos": 1116
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 3.48,
-      "productos_subieron": 52,
-      "productos_bajaron": 2,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
       "total_productos": 235
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.05,
-      "productos_subieron": 8,
-      "productos_bajaron": 1,
-      "total_productos": 812
-    },
-    {
-      "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.09,
-      "productos_subieron": 0,
-      "productos_bajaron": 5,
-      "total_productos": 864
-    },
-    {
-      "categoria": "Almacen",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1832
+      "total_productos": 807
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 883
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.03,
+      "productos_subieron": 9,
+      "productos_bajaron": 5,
+      "total_productos": 1836
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "6934097722245",
-      "nombre": "super pegamento cyanocrilato",
-      "categoria": "Limpieza",
-      "precio_antes": 8290.0,
-      "precio_hoy": 691.0,
-      "diff_abs": -7599.0,
-      "diff_pct": -91.66
+      "ean": "2022040000008",
+      "nombre": "repollo blanco x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2990.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -33.44
     },
     {
-      "ean": "7797906054918",
-      "nombre": "papas mc cain noisette x 1.2 kg.",
-      "categoria": "Congelados",
-      "precio_antes": 20329.0,
-      "precio_hoy": 12199.01,
-      "diff_abs": -8129.99,
-      "diff_pct": -39.99
+      "ean": "7798062547559",
+      "nombre": "agua mineral sin gas villa del sur x 2,25 lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 2909.0,
+      "precio_hoy": 2009.0,
+      "diff_abs": -900.0,
+      "diff_pct": -30.94
     },
     {
-      "ean": "7797906054833",
-      "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 8555.0,
-      "precio_hoy": 5139.0,
-      "diff_abs": -3416.0,
-      "diff_pct": -39.93
+      "ean": "7793147573546",
+      "nombre": "cerveza amstel lager x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 2725.0,
+      "precio_hoy": 1889.0,
+      "diff_abs": -836.0,
+      "diff_pct": -30.68
     },
     {
-      "ean": "7790070509123",
-      "nombre": "yerba mate chamigo x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2385.0,
-      "precio_hoy": 1780.0,
-      "diff_abs": -605.0,
-      "diff_pct": -25.37
+      "ean": "7792798015351",
+      "nombre": "cerveza corona 0 % x 473 ml lata",
+      "categoria": "Bebidas",
+      "precio_antes": 3600.0,
+      "precio_hoy": 2519.0,
+      "diff_abs": -1081.0,
+      "diff_pct": -30.03
     },
     {
-      "ean": "7790070507280",
-      "nombre": "yerba mate nobleza gaucha seleccion x 1 kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 4889.0,
-      "precio_hoy": 3829.0,
-      "diff_abs": -1060.0,
-      "diff_pct": -21.68
+      "ean": "7792798008858",
+      "nombre": "cerveza temple wolf ipa x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 4961.0,
+      "precio_hoy": 3479.0,
+      "diff_abs": -1482.0,
+      "diff_pct": -29.87
     },
     {
-      "ean": "7790070507273",
-      "nombre": "yerba mate nobleza gaucha seleccion x 500 ml.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2566.0,
-      "precio_hoy": 2010.0,
-      "diff_abs": -556.0,
-      "diff_pct": -21.67
+      "ean": "7793147573515",
+      "nombre": "cerveza isenbeck lata x 473 ml",
+      "categoria": "Bebidas",
+      "precio_antes": 2205.0,
+      "precio_hoy": 1599.0,
+      "diff_abs": -606.0,
+      "diff_pct": -27.48
     },
     {
-      "ean": "2014830000008",
-      "nombre": "lomo cocido paladini x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 22479.0,
-      "precio_hoy": 20230.0,
-      "diff_abs": -2249.0,
-      "diff_pct": -10.0
+      "ean": "7793147009137",
+      "nombre": "cerveza heineken long neck x 330 cc",
+      "categoria": "Bebidas",
+      "precio_antes": 4195.0,
+      "precio_hoy": 3049.0,
+      "diff_abs": -1146.0,
+      "diff_pct": -27.32
     },
     {
-      "ean": "7790079024146",
-      "nombre": "chorizos frescos de cerdo paladini env x 360 gr",
-      "categoria": "Carniceria",
-      "precio_antes": 7959.0,
-      "precio_hoy": 7322.0,
-      "diff_abs": -637.0,
-      "diff_pct": -8.0
+      "ean": "7793147573591",
+      "nombre": "cerv.amstel x1lt.ret.lager",
+      "categoria": "Bebidas",
+      "precio_antes": 4795.0,
+      "precio_hoy": 3499.0,
+      "diff_abs": -1296.0,
+      "diff_pct": -27.03
     },
     {
-      "ean": "7790070100375",
-      "nombre": "yerba nobleza gaucha x 500 gr cimarron",
-      "categoria": "Perfumeria",
-      "precio_antes": 2309.0,
-      "precio_hoy": 2128.0,
-      "diff_abs": -181.0,
-      "diff_pct": -7.84
+      "ean": "7793147572853",
+      "nombre": "cerveza amstel lata x 710 ml lager",
+      "categoria": "Bebidas",
+      "precio_antes": 3925.0,
+      "precio_hoy": 2869.0,
+      "diff_abs": -1056.0,
+      "diff_pct": -26.9
     },
     {
-      "ean": "7790070100382",
-      "nombre": "yerba nobleza gaucha x 1 kg cimarron",
-      "categoria": "Perfumeria",
-      "precio_antes": 4029.0,
-      "precio_hoy": 3829.0,
-      "diff_abs": -200.0,
-      "diff_pct": -4.96
+      "ean": "2022060000002",
+      "nombre": "repollo colorado x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 3990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -25.06
     }
   ],
-  "productos_subieron_dia": 130,
-  "productos_bajaron_dia": 10,
-  "productos_sin_cambio_dia": 6172
+  "productos_subieron_dia": 31,
+  "productos_bajaron_dia": 52,
+  "productos_sin_cambio_dia": 6250
 }
