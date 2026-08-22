@@ -1,147 +1,147 @@
 {
-  "fecha": "20260821",
-  "total_productos": 6365,
-  "variacion_dia": -0.09,
-  "variacion_7d": 0.78,
-  "variacion_mes": 1.71,
+  "fecha": "20260822",
+  "total_productos": 6377,
+  "variacion_dia": -0.1,
+  "variacion_7d": 0.74,
+  "variacion_mes": 0.22,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.5,
-      "productos_subieron": 10,
-      "productos_bajaron": 42,
-      "total_productos": 1456
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1454
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.07,
-      "productos_subieron": 12,
-      "productos_bajaron": 5,
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 7,
+      "productos_bajaron": 9,
       "total_productos": 1116
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -2.65,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 235
+      "productos_bajaron": 45,
+      "total_productos": 236
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 807
+      "total_productos": 821
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -0.01,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "productos_bajaron": 2,
       "total_productos": 883
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.03,
-      "productos_subieron": 9,
-      "productos_bajaron": 5,
-      "total_productos": 1836
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1835
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2022040000008",
-      "nombre": "repollo blanco x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 1990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -33.44
+      "ean": "7790670050728",
+      "nombre": "hamburguesas paty x 2 unid. finitas",
+      "categoria": "Congelados",
+      "precio_antes": 3537.0,
+      "precio_hoy": 2389.0,
+      "diff_abs": -1148.0,
+      "diff_pct": -32.46
     },
     {
-      "ean": "7798062547559",
-      "nombre": "agua mineral sin gas villa del sur x 2,25 lt.",
-      "categoria": "Bebidas",
-      "precio_antes": 2909.0,
-      "precio_hoy": 2009.0,
-      "diff_abs": -900.0,
-      "diff_pct": -30.94
+      "ean": "7790670050780",
+      "nombre": "hamburguesas paty clasico x 20 unid.",
+      "categoria": "Congelados",
+      "precio_antes": 42853.0,
+      "precio_hoy": 31009.0,
+      "diff_abs": -11844.0,
+      "diff_pct": -27.64
     },
     {
-      "ean": "7793147573546",
-      "nombre": "cerveza amstel lager x 473 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 2725.0,
-      "precio_hoy": 1889.0,
-      "diff_abs": -836.0,
-      "diff_pct": -30.68
+      "ean": "7790670052678",
+      "nombre": "hamburguesas paty de casa x 2 unid.",
+      "categoria": "Congelados",
+      "precio_antes": 7114.0,
+      "precio_hoy": 5149.0,
+      "diff_abs": -1965.0,
+      "diff_pct": -27.62
     },
     {
-      "ean": "7792798015351",
-      "nombre": "cerveza corona 0 % x 473 ml lata",
-      "categoria": "Bebidas",
-      "precio_antes": 3600.0,
-      "precio_hoy": 2519.0,
-      "diff_abs": -1081.0,
-      "diff_pct": -30.03
+      "ean": "7790670050650",
+      "nombre": "hamburguesas paty x 4 unid. clasicas",
+      "categoria": "Congelados",
+      "precio_antes": 9416.0,
+      "precio_hoy": 6819.0,
+      "diff_abs": -2597.0,
+      "diff_pct": -27.58
     },
     {
-      "ean": "7792798008858",
-      "nombre": "cerveza temple wolf ipa x 473 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 4961.0,
-      "precio_hoy": 3479.0,
-      "diff_abs": -1482.0,
-      "diff_pct": -29.87
+      "ean": "7790670050667",
+      "nombre": "hamburguesas paty x 12 unid. clasicas",
+      "categoria": "Congelados",
+      "precio_antes": 26285.0,
+      "precio_hoy": 20289.0,
+      "diff_abs": -5996.0,
+      "diff_pct": -22.81
     },
     {
-      "ean": "7793147573515",
-      "nombre": "cerveza isenbeck lata x 473 ml",
-      "categoria": "Bebidas",
-      "precio_antes": 2205.0,
-      "precio_hoy": 1599.0,
-      "diff_abs": -606.0,
-      "diff_pct": -27.48
+      "ean": "7790670051329",
+      "nombre": "hamburguesas paty con cebolla x 2 unid.",
+      "categoria": "Congelados",
+      "precio_antes": 6355.0,
+      "precio_hoy": 4909.0,
+      "diff_abs": -1446.0,
+      "diff_pct": -22.75
     },
     {
-      "ean": "7793147009137",
-      "nombre": "cerveza heineken long neck x 330 cc",
-      "categoria": "Bebidas",
-      "precio_antes": 4195.0,
-      "precio_hoy": 3049.0,
-      "diff_abs": -1146.0,
-      "diff_pct": -27.32
+      "ean": "7790670051336",
+      "nombre": "hamburguesas paty con morron asado x 2 unid.",
+      "categoria": "Congelados",
+      "precio_antes": 6355.0,
+      "precio_hoy": 4909.0,
+      "diff_abs": -1446.0,
+      "diff_pct": -22.75
     },
     {
-      "ean": "7793147573591",
-      "nombre": "cerv.amstel x1lt.ret.lager",
-      "categoria": "Bebidas",
-      "precio_antes": 4795.0,
-      "precio_hoy": 3499.0,
-      "diff_abs": -1296.0,
-      "diff_pct": -27.03
+      "ean": "7790670051312",
+      "nombre": "hamburguesas paty con queso provolone x 2 unid.",
+      "categoria": "Congelados",
+      "precio_antes": 6651.0,
+      "precio_hoy": 5139.0,
+      "diff_abs": -1512.0,
+      "diff_pct": -22.73
     },
     {
-      "ean": "7793147572853",
-      "nombre": "cerveza amstel lata x 710 ml lager",
-      "categoria": "Bebidas",
-      "precio_antes": 3925.0,
-      "precio_hoy": 2869.0,
-      "diff_abs": -1056.0,
-      "diff_pct": -26.9
+      "ean": "7790670052395",
+      "nombre": "salchichas patyviena x 12 unid.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5548.0,
+      "precio_hoy": 4289.0,
+      "diff_abs": -1259.0,
+      "diff_pct": -22.69
     },
     {
-      "ean": "2022060000002",
-      "nombre": "repollo colorado x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -25.06
+      "ean": "7790670052869",
+      "nombre": "medallones de carne express x 2 unid.",
+      "categoria": "Congelados",
+      "precio_antes": 2440.0,
+      "precio_hoy": 1909.0,
+      "diff_abs": -531.0,
+      "diff_pct": -21.76
     }
   ],
-  "productos_subieron_dia": 31,
-  "productos_bajaron_dia": 52,
-  "productos_sin_cambio_dia": 6250
+  "productos_subieron_dia": 7,
+  "productos_bajaron_dia": 56,
+  "productos_sin_cambio_dia": 6282
 }

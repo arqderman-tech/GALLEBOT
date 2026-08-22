@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2019990000004",
-    "nombre": "apio x kg.",
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
-    "ean": "2027050000000",
-    "nombre": "sandia postre x kilo",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
-    "ean": "2022220000002",
-    "nombre": "tomate redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2990.0,
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
     "diff_abs": 500.0,
-    "diff_pct": 20.08
+    "diff_pct": 25.13
   },
   {
-    "ean": "2020160000007",
-    "nombre": "brocoli x kg.",
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 9990.0,
-    "precio_hoy": 11990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 20.02
-  },
-  {
-    "ean": "2021210000008",
-    "nombre": "mango x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 7990.0,
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 14.31
+    "diff_pct": 20.04
   },
   {
-    "ean": "77958662",
-    "nombre": "caram.menthoplus x29gr.menta",
-    "categoria": "Almacen",
-    "precio_antes": 690.0,
-    "precio_hoy": 783.0,
-    "diff_abs": 93.0,
-    "diff_pct": 13.48
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
+  },
+  {
+    "ean": "7790625010401",
+    "nombre": "salchichas 66 x 6 unid.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1189.0,
+    "precio_hoy": 1390.0,
+    "diff_abs": 201.0,
+    "diff_pct": 16.9
+  },
+  {
+    "ean": "2024860000008",
+    "nombre": "asado mar del plata ternera x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 18900.0,
+    "precio_hoy": 22000.0,
+    "diff_abs": 3100.0,
+    "diff_pct": 16.4
+  },
+  {
+    "ean": "2022130000000",
+    "nombre": "tomate cherry x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 8990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 11.12
   },
   {
     "ean": "2020370000002",
     "nombre": "chaucha rolliza x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 8990.0,
+    "precio_antes": 8990.0,
+    "precio_hoy": 9990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 12.52
+    "diff_pct": 11.12
   },
   {
-    "ean": "2020350000008",
-    "nombre": "chaucha ballina x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 8990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 12.52
-  },
-  {
-    "ean": "7790580160807",
-    "nombre": "aceite arcor x900ml.maiz",
-    "categoria": "Almacen",
-    "precio_antes": 5280.0,
-    "precio_hoy": 5911.0,
-    "diff_abs": 631.0,
-    "diff_pct": 11.95
-  },
-  {
-    "ean": "7790040150010",
-    "nombre": "alfajor cofler x 60 gr choco creamy",
-    "categoria": "Almacen",
-    "precio_antes": 1876.0,
-    "precio_hoy": 2084.0,
-    "diff_abs": 208.0,
-    "diff_pct": 11.09
-  },
-  {
-    "ean": "8008698001905",
-    "nombre": "obleas schar vainilla x 125 gm",
-    "categoria": "Almacen",
-    "precio_antes": 8507.0,
-    "precio_hoy": 9358.0,
-    "diff_abs": 851.0,
-    "diff_pct": 10.0
-  },
-  {
-    "ean": "7898954933689",
-    "nombre": "pan hamburguesas",
-    "categoria": "Almacen",
-    "precio_antes": 6795.0,
-    "precio_hoy": 7474.0,
-    "diff_abs": 679.0,
-    "diff_pct": 9.99
-  },
-  {
-    "ean": "77961815",
-    "nombre": "bombones bon o bon blanco x 450 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 577.0,
-    "precio_hoy": 631.0,
-    "diff_abs": 54.0,
-    "diff_pct": 9.36
-  },
-  {
-    "ean": "77958921",
-    "nombre": "bon o bon x15gr.leche",
-    "categoria": "Almacen",
-    "precio_antes": 631.0,
-    "precio_hoy": 690.0,
-    "diff_abs": 59.0,
-    "diff_pct": 9.35
-  },
-  {
-    "ean": "7790580105389",
-    "nombre": "jugo arcor multifruta x 200 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 560.0,
-    "precio_hoy": 610.0,
-    "diff_abs": 50.0,
-    "diff_pct": 8.93
-  },
-  {
-    "ean": "76625246543",
-    "nombre": "lena forestales pacheco x 6 kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 6014.0,
-    "precio_hoy": 6438.0,
-    "diff_abs": 424.0,
-    "diff_pct": 7.05
-  },
-  {
-    "ean": "7790670045502",
-    "nombre": "salchichas patyviena tipo alemana x 4 unid.",
+    "ean": "7798151771445",
+    "nombre": "queso untable tremblay x 180 gm por salut",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5405.0,
-    "precio_hoy": 5735.0,
-    "diff_abs": 330.0,
-    "diff_pct": 6.11
+    "precio_antes": 2358.0,
+    "precio_hoy": 2358.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798333900052",
-    "nombre": "huevos blamcos avicola norte maple x 30 unidades",
-    "categoria": "Almacen",
-    "precio_antes": 7124.0,
-    "precio_hoy": 7499.0,
-    "diff_abs": 375.0,
-    "diff_pct": 5.26
+    "ean": "7798151771391",
+    "nombre": "queso untable tremblay x 180 gm cheddar",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2358.21,
+    "precio_hoy": 2358.21,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790895646560",
-    "nombre": "jugo cepita naranja x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2759.0,
-    "precio_hoy": 2863.0,
-    "diff_abs": 104.0,
-    "diff_pct": 3.77
+    "ean": "7798151771384",
+    "nombre": "queso untable tremblay sabor queso azul x 180gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2358.0,
+    "precio_hoy": 2358.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7793913013658",
+    "nombre": "queso untable tregar x 180 gr. cheddar",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2828.0,
+    "precio_hoy": 2828.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790787016549",
+    "nombre": "queso untable ilolay x 190 gr 4 quesos",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2669.0,
+    "precio_hoy": 2669.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790787016310",
+    "nombre": "queso untable ilolay por salut balance x 190 gr",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2799.0,
+    "precio_hoy": 2799.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790787960873",
+    "nombre": "queso untable ilolay crem clasico x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3119.0,
+    "precio_hoy": 3119.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7791564136672",
+    "nombre": "queso untable fundido adler x 100 gr. tomate y ala",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2800.0,
+    "precio_hoy": 2800.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790742324009",
+    "nombre": "queso untable finlandia mas liviano x 180 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3439.0,
+    "precio_hoy": 3439.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790742373304",
+    "nombre": "queso untable finlandia light x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5149.0,
+    "precio_hoy": 5149.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798151771407",
+    "nombre": "queso untable tremblay x 180 gm sabor clasico",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2358.0,
+    "precio_hoy": 2358.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790742373205",
+    "nombre": "queso untable finlandia clasico x 290 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5149.0,
+    "precio_hoy": 5149.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798060854345",
+    "nombre": "queso untable patagonia x 180 gm clasico",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2396.0,
+    "precio_hoy": 2396.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]
