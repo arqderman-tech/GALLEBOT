@@ -1,9 +1,9 @@
 {
-  "fecha": "20260822",
-  "total_productos": 6377,
-  "variacion_dia": -0.1,
+  "fecha": "20260823",
+  "total_productos": 6392,
+  "variacion_dia": 0.0,
   "variacion_7d": 0.74,
-  "variacion_mes": 0.22,
+  "variacion_mes": 0.88,
   "variacion_anio": null,
   "categorias_dia": [
     {
@@ -11,20 +11,20 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1454
+      "total_productos": 1456
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.01,
-      "productos_subieron": 7,
-      "productos_bajaron": 9,
-      "total_productos": 1116
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1120
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -2.65,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 45,
+      "productos_bajaron": 0,
       "total_productos": 236
     },
     {
@@ -36,112 +36,112 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.01,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "total_productos": 883
+      "productos_bajaron": 0,
+      "total_productos": 897
     },
     {
       "categoria": "Almacen",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1835
+      "total_productos": 1847
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790670050728",
-      "nombre": "hamburguesas paty x 2 unid. finitas",
-      "categoria": "Congelados",
-      "precio_antes": 3537.0,
-      "precio_hoy": 2389.0,
-      "diff_abs": -1148.0,
-      "diff_pct": -32.46
+      "ean": "7790310985830",
+      "nombre": "3ds queso x 85 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 3981.0,
+      "precio_hoy": 3981.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790670050780",
-      "nombre": "hamburguesas paty clasico x 20 unid.",
-      "categoria": "Congelados",
-      "precio_antes": 42853.0,
-      "precio_hoy": 31009.0,
-      "diff_abs": -11844.0,
-      "diff_pct": -27.64
+      "ean": "7790310985137",
+      "nombre": "3ds queso x143gr.",
+      "categoria": "Almacen",
+      "precio_antes": 5545.0,
+      "precio_hoy": 5545.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790670052678",
-      "nombre": "hamburguesas paty de casa x 2 unid.",
-      "categoria": "Congelados",
-      "precio_antes": 7114.0,
-      "precio_hoy": 5149.0,
-      "diff_abs": -1965.0,
-      "diff_pct": -27.62
+      "ean": "7790310985113",
+      "nombre": "3ds sabor queso x 43 gm",
+      "categoria": "Almacen",
+      "precio_antes": 2469.0,
+      "precio_hoy": 2469.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790670050650",
-      "nombre": "hamburguesas paty x 4 unid. clasicas",
-      "categoria": "Congelados",
-      "precio_antes": 9416.0,
-      "precio_hoy": 6819.0,
-      "diff_abs": -2597.0,
-      "diff_pct": -27.58
+      "ean": "7791728246629",
+      "nombre": "ac. de oliva zuccardi x 500 ml coratina",
+      "categoria": "Almacen",
+      "precio_antes": 24484.0,
+      "precio_hoy": 24484.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790670050667",
-      "nombre": "hamburguesas paty x 12 unid. clasicas",
-      "categoria": "Congelados",
-      "precio_antes": 26285.0,
-      "precio_hoy": 20289.0,
-      "diff_abs": -5996.0,
-      "diff_pct": -22.81
+      "ean": "763571722428",
+      "nombre": "ac.de coco entrenuts x200virg.",
+      "categoria": "Almacen",
+      "precio_antes": 9649.0,
+      "precio_hoy": 9649.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790670051329",
-      "nombre": "hamburguesas paty con cebolla x 2 unid.",
-      "categoria": "Congelados",
-      "precio_antes": 6355.0,
-      "precio_hoy": 4909.0,
-      "diff_abs": -1446.0,
-      "diff_pct": -22.75
+      "ean": "7798080520657",
+      "nombre": "ac.ol.l.toscana x250ml.ajo",
+      "categoria": "Almacen",
+      "precio_antes": 9903.0,
+      "precio_hoy": 9903.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790670051336",
-      "nombre": "hamburguesas paty con morron asado x 2 unid.",
-      "categoria": "Congelados",
-      "precio_antes": 6355.0,
-      "precio_hoy": 4909.0,
-      "diff_abs": -1446.0,
-      "diff_pct": -22.75
+      "ean": "7798080520534",
+      "nombre": "ac.ol.l.toscana x250ml.albahac",
+      "categoria": "Almacen",
+      "precio_antes": 9903.0,
+      "precio_hoy": 9903.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790670051312",
-      "nombre": "hamburguesas paty con queso provolone x 2 unid.",
-      "categoria": "Congelados",
-      "precio_antes": 6651.0,
-      "precio_hoy": 5139.0,
-      "diff_abs": -1512.0,
-      "diff_pct": -22.73
+      "ean": "7791728246612",
+      "nombre": "ac.ol.zuccardi x250ml.coratina",
+      "categoria": "Almacen",
+      "precio_antes": 14282.0,
+      "precio_hoy": 14282.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790670052395",
-      "nombre": "salchichas patyviena x 12 unid.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 5548.0,
-      "precio_hoy": 4289.0,
-      "diff_abs": -1259.0,
-      "diff_pct": -22.69
+      "ean": "7791728246575",
+      "nombre": "ac.ol.zuccardi x250ml.picual",
+      "categoria": "Almacen",
+      "precio_antes": 14282.0,
+      "precio_hoy": 14282.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790670052869",
-      "nombre": "medallones de carne express x 2 unid.",
-      "categoria": "Congelados",
-      "precio_antes": 2440.0,
-      "precio_hoy": 1909.0,
-      "diff_abs": -531.0,
-      "diff_pct": -21.76
+      "ean": "7791728241181",
+      "nombre": "ac.ol.zuelo x500ml.bot.intenso",
+      "categoria": "Almacen",
+      "precio_antes": 19077.0,
+      "precio_hoy": 19077.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 7,
-  "productos_bajaron_dia": 56,
-  "productos_sin_cambio_dia": 6282
+  "productos_subieron_dia": 0,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 6377
 }

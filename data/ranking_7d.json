@@ -18,24 +18,6 @@
     "diff_pct": 108.98
   },
   {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
-    "ean": "7791337010369",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 2308.0,
-    "diff_pct": 104.96
-  },
-  {
     "ean": "7791337010475",
     "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
     "categoria": "Lacteos Y Frescos",
@@ -63,6 +45,24 @@
     "diff_pct": 104.96
   },
   {
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
+  },
+  {
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4507.0,
+    "diff_abs": 2308.0,
+    "diff_pct": 104.96
+  },
+  {
     "ean": "2020730000000",
     "nombre": "espinaca atado",
     "categoria": "Frutas Y Verduras",
@@ -70,24 +70,6 @@
     "precio_hoy": 1990.0,
     "diff_abs": 1000.0,
     "diff_pct": 101.01
-  },
-  {
-    "ean": "7791337605442",
-    "nombre": "yogur entero batido la serenisima x 120 gr. durazo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 749.0,
-    "precio_hoy": 1332.0,
-    "diff_abs": 583.0,
-    "diff_pct": 77.84
-  },
-  {
-    "ean": "7791337010314",
-    "nombre": "yogur la serenisima descremado batido x 120 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 749.0,
-    "precio_hoy": 1332.0,
-    "diff_abs": 583.0,
-    "diff_pct": 77.84
   },
   {
     "ean": "7791337010420",
@@ -108,8 +90,8 @@
     "diff_pct": 77.84
   },
   {
-    "ean": "7791337605411",
-    "nombre": "yogur batido la serenisima clasico vainilla x 120.",
+    "ean": "7791337010413",
+    "nombre": "yogur ls.clas.firme ent.fru120",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 749.0,
     "precio_hoy": 1332.0,
@@ -117,8 +99,26 @@
     "diff_pct": 77.84
   },
   {
-    "ean": "7791337010413",
-    "nombre": "yogur ls.clas.firme ent.fru120",
+    "ean": "7791337605442",
+    "nombre": "yogur entero batido la serenisima x 120 gr. durazo",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 749.0,
+    "precio_hoy": 1332.0,
+    "diff_abs": 583.0,
+    "diff_pct": 77.84
+  },
+  {
+    "ean": "7791337010314",
+    "nombre": "yogur la serenisima descremado batido x 120 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 749.0,
+    "precio_hoy": 1332.0,
+    "diff_abs": 583.0,
+    "diff_pct": 77.84
+  },
+  {
+    "ean": "7791337605411",
+    "nombre": "yogur batido la serenisima clasico vainilla x 120.",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 749.0,
     "precio_hoy": 1332.0,
@@ -162,8 +162,8 @@
     "diff_pct": 66.43
   },
   {
-    "ean": "7791337009691",
-    "nombre": "yogur gran compra bebible x 900 gr vainilla",
+    "ean": "7791337009684",
+    "nombre": "yogur bebible gran compra frutilla x 900 gr.",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 1799.0,
     "precio_hoy": 2895.0,
@@ -171,8 +171,8 @@
     "diff_pct": 60.92
   },
   {
-    "ean": "7791337009684",
-    "nombre": "yogur bebible gran compra frutilla x 900 gr.",
+    "ean": "7791337009691",
+    "nombre": "yogur gran compra bebible x 900 gr vainilla",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 1799.0,
     "precio_hoy": 2895.0,
