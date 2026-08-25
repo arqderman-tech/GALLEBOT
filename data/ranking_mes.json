@@ -1,5 +1,23 @@
 [
   {
+    "ean": "6934097722245",
+    "nombre": "super pegamento cyanocrilato",
+    "categoria": "Limpieza",
+    "precio_antes": 967.0,
+    "precio_hoy": 8456.0,
+    "diff_abs": 7489.0,
+    "diff_pct": 774.46
+  },
+  {
+    "ean": "7792410010009",
+    "nombre": "whisky blenders x1lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 11522.0,
+    "precio_hoy": 53318.0,
+    "diff_abs": 41796.0,
+    "diff_pct": 362.75
+  },
+  {
     "ean": "2021660000009",
     "nombre": "zapallito redondo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -16,15 +34,6 @@
     "precio_hoy": 11990.0,
     "diff_abs": 7000.0,
     "diff_pct": 140.28
-  },
-  {
-    "ean": "2022010000007",
-    "nombre": "remolacha x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 100.4
   },
   {
     "ean": "7798222460018",
@@ -90,6 +99,15 @@
     "diff_pct": 76.06
   },
   {
+    "ean": "7622300742584",
+    "nombre": "alfajor terrabusi x6 chocolate",
+    "categoria": "Almacen",
+    "precio_antes": 4999.0,
+    "precio_hoy": 8613.0,
+    "diff_abs": 3614.0,
+    "diff_pct": 72.29
+  },
+  {
     "ean": "2021650000002",
     "nombre": "zapallito largo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -135,8 +153,8 @@
     "diff_pct": 63.63
   },
   {
-    "ean": "7790139004569",
-    "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
+    "ean": "7790139004576",
+    "nombre": "aceite de oliva casalta medio x 400 ml.",
     "categoria": "Almacen",
     "precio_antes": 20559.0,
     "precio_hoy": 33216.0,
@@ -144,8 +162,8 @@
     "diff_pct": 61.56
   },
   {
-    "ean": "7790139004576",
-    "nombre": "aceite de oliva casalta medio x 400 ml.",
+    "ean": "7790139004569",
+    "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
     "categoria": "Almacen",
     "precio_antes": 20559.0,
     "precio_hoy": 33216.0,
@@ -160,23 +178,5 @@
     "precio_hoy": 7990.0,
     "diff_abs": 3000.0,
     "diff_pct": 60.12
-  },
-  {
-    "ean": "7891000248799",
-    "nombre": "chocolate kit kat x 41 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1499.0,
-    "precio_hoy": 2364.0,
-    "diff_abs": 865.0,
-    "diff_pct": 57.71
-  },
-  {
-    "ean": "7790070433091",
-    "nombre": "arroz gallo oro x1kg.parb.est.",
-    "categoria": "Almacen",
-    "precio_antes": 2879.0,
-    "precio_hoy": 4523.0,
-    "diff_abs": 1644.0,
-    "diff_pct": 57.1
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3809.0,
-    "precio_hoy": 7960.0,
-    "diff_abs": 4151.0,
-    "diff_pct": 108.98
+    "ean": "7792410010009",
+    "nombre": "whisky blenders x1lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 11522.0,
+    "precio_hoy": 53318.0,
+    "diff_abs": 41796.0,
+    "diff_pct": 362.75
   },
   {
     "ean": "7791337007253",
@@ -16,6 +16,60 @@
     "precio_hoy": 7960.0,
     "diff_abs": 4151.0,
     "diff_pct": 108.98
+  },
+  {
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3809.0,
+    "precio_hoy": 7960.0,
+    "diff_abs": 4151.0,
+    "diff_pct": 108.98
+  },
+  {
+    "ean": "7622300424084",
+    "nombre": "shot tableta x170gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5809.0,
+    "precio_hoy": 10682.0,
+    "diff_abs": 4873.0,
+    "diff_pct": 83.89
+  },
+  {
+    "ean": "7622300742584",
+    "nombre": "alfajor terrabusi x6 chocolate",
+    "categoria": "Almacen",
+    "precio_antes": 4689.0,
+    "precio_hoy": 8613.0,
+    "diff_abs": 3924.0,
+    "diff_pct": 83.69
+  },
+  {
+    "ean": "2022220000002",
+    "nombre": "tomate redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
+  },
+  {
+    "ean": "7622300742621",
+    "nombre": "alfajor terrabusi x6 glaseado",
+    "categoria": "Almacen",
+    "precio_antes": 4569.0,
+    "precio_hoy": 7755.0,
+    "diff_abs": 3186.0,
+    "diff_pct": 69.73
+  },
+  {
+    "ean": "77956699",
+    "nombre": "alfajor shot x60gr.triple",
+    "categoria": "Almacen",
+    "precio_antes": 1269.0,
+    "precio_hoy": 2120.0,
+    "diff_abs": 851.0,
+    "diff_pct": 67.06
   },
   {
     "ean": "7797906054956",
@@ -45,6 +99,33 @@
     "diff_pct": 66.43
   },
   {
+    "ean": "77969118",
+    "nombre": "chicle beldent frutilla x10gr.",
+    "categoria": "Almacen",
+    "precio_antes": 839.0,
+    "precio_hoy": 1388.0,
+    "diff_abs": 549.0,
+    "diff_pct": 65.44
+  },
+  {
+    "ean": "7622201735883",
+    "nombre": "gall.pepitos x357gr.clasica",
+    "categoria": "Perfumeria",
+    "precio_antes": 3759.0,
+    "precio_hoy": 6177.0,
+    "diff_abs": 2418.0,
+    "diff_pct": 64.33
+  },
+  {
+    "ean": "7622201759636",
+    "nombre": "galletitas oreo original x 354 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3989.0,
+    "precio_hoy": 6551.0,
+    "diff_abs": 2562.0,
+    "diff_pct": 64.23
+  },
+  {
     "ean": "80052487",
     "nombre": "bombones con coco y almendras x 3 unidades raffaello",
     "categoria": "Almacen",
@@ -54,129 +135,48 @@
     "diff_pct": 58.88
   },
   {
-    "ean": "7792798001965",
-    "nombre": "cerveza patagonia amber lager lata x 473 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 3229.0,
-    "precio_hoy": 4961.0,
-    "diff_abs": 1732.0,
-    "diff_pct": 53.64
-  },
-  {
-    "ean": "7792798001972",
-    "nombre": "cerveza lata patagonia x 473 ml 24.7",
-    "categoria": "Bebidas",
-    "precio_antes": 3229.0,
-    "precio_hoy": 4961.0,
-    "diff_abs": 1732.0,
-    "diff_pct": 53.64
-  },
-  {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
-  },
-  {
-    "ean": "7898024396994",
-    "nombre": "bombones cubiertos con choco.con leche y avellanas x 12 unid",
+    "ean": "7622300990114",
+    "nombre": "tabl.milka x150gr.leche",
     "categoria": "Almacen",
-    "precio_antes": 10769.0,
-    "precio_hoy": 16027.0,
-    "diff_abs": 5258.0,
-    "diff_pct": 48.83
+    "precio_antes": 7349.0,
+    "precio_hoy": 11575.0,
+    "diff_abs": 4226.0,
+    "diff_pct": 57.5
   },
   {
-    "ean": "8000500232057",
-    "nombre": "bombones coco y almendras x 9 unidades raffaello",
+    "ean": "7622201492465",
+    "nombre": "tabl.milka x45gr.choc.pau.oreo",
     "categoria": "Almacen",
-    "precio_antes": 5579.0,
-    "precio_hoy": 8303.0,
-    "diff_abs": 2724.0,
-    "diff_pct": 48.83
+    "precio_antes": 1789.0,
+    "precio_hoy": 2813.0,
+    "diff_abs": 1024.0,
+    "diff_pct": 57.24
   },
   {
-    "ean": "7898024397151",
-    "nombre": "bomobnes rellenos surtidos x 7 unidades ferrero colection",
+    "ean": "7622201492717",
+    "nombre": "tabl.milka x45gr.choco pause",
     "categoria": "Almacen",
-    "precio_antes": 8139.0,
-    "precio_hoy": 12108.0,
-    "diff_abs": 3969.0,
-    "diff_pct": 48.77
+    "precio_antes": 1789.0,
+    "precio_hoy": 2813.0,
+    "diff_abs": 1024.0,
+    "diff_pct": 57.24
   },
   {
-    "ean": "8000500009673",
-    "nombre": "bombones ferrero rocher caja x 24 unidades",
+    "ean": "7622202399107",
+    "nombre": "bombones milka oreo x 209 gr.",
     "categoria": "Almacen",
-    "precio_antes": 19879.0,
-    "precio_hoy": 29570.0,
-    "diff_abs": 9691.0,
-    "diff_pct": 48.75
+    "precio_antes": 5849.0,
+    "precio_hoy": 9122.0,
+    "diff_abs": 3273.0,
+    "diff_pct": 55.96
   },
   {
-    "ean": "7861002900117",
-    "nombre": "bombones ferrero rocher x 8 unid.",
+    "ean": "7622210788207",
+    "nombre": "obleas milka bis x 105 gr.",
     "categoria": "Almacen",
-    "precio_antes": 7149.0,
-    "precio_hoy": 10627.0,
-    "diff_abs": 3478.0,
-    "diff_pct": 48.65
-  },
-  {
-    "ean": "7792798013470",
-    "nombre": "cerveza stella artois 0 a?a? x 330 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 2379.0,
-    "precio_hoy": 3400.0,
-    "diff_abs": 1021.0,
-    "diff_pct": 42.92
-  },
-  {
-    "ean": "7792798005888",
-    "nombre": "cerveza brahma lata x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1909.0,
-    "precio_hoy": 2724.0,
-    "diff_abs": 815.0,
-    "diff_pct": 42.69
-  },
-  {
-    "ean": "7790895641749",
-    "nombre": "jugo cepita anana x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2739.0,
-    "precio_hoy": 3849.0,
-    "diff_abs": 1110.0,
-    "diff_pct": 40.53
-  },
-  {
-    "ean": "7790895641534",
-    "nombre": "jugo cepita botella x 1,5 lt. durazno",
-    "categoria": "Bebidas",
-    "precio_antes": 2739.0,
-    "precio_hoy": 3849.0,
-    "diff_abs": 1110.0,
-    "diff_pct": 40.53
-  },
-  {
-    "ean": "7790895641800",
-    "nombre": "jugo cepita botella x 1.5 lt. naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 2739.0,
-    "precio_hoy": 3849.0,
-    "diff_abs": 1110.0,
-    "diff_pct": 40.53
-  },
-  {
-    "ean": "77949707",
-    "nombre": "chocolate kinder x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 4909.0,
-    "precio_hoy": 6816.0,
-    "diff_abs": 1907.0,
-    "diff_pct": 38.85
+    "precio_antes": 3169.0,
+    "precio_hoy": 4910.0,
+    "diff_abs": 1741.0,
+    "diff_pct": 54.94
   }
 ]

@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790670050728",
-    "nombre": "hamburguesas paty x 2 unid. finitas",
-    "categoria": "Congelados",
-    "precio_antes": 2389.0,
-    "precio_hoy": 3537.0,
-    "diff_abs": 1148.0,
-    "diff_pct": 48.05
+    "ean": "6934097722245",
+    "nombre": "super pegamento cyanocrilato",
+    "categoria": "Limpieza",
+    "precio_antes": 691.0,
+    "precio_hoy": 8456.0,
+    "diff_abs": 7765.0,
+    "diff_pct": 1123.73
   },
   {
-    "ean": "7790670050780",
-    "nombre": "hamburguesas paty clasico x 20 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 31009.0,
-    "precio_hoy": 42853.0,
-    "diff_abs": 11844.0,
-    "diff_pct": 38.2
+    "ean": "7792410010009",
+    "nombre": "whisky blenders x1lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 11522.0,
+    "precio_hoy": 53318.0,
+    "diff_abs": 41796.0,
+    "diff_pct": 362.75
   },
   {
-    "ean": "7790670052678",
-    "nombre": "hamburguesas paty de casa x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 5149.0,
-    "precio_hoy": 7114.0,
-    "diff_abs": 1965.0,
-    "diff_pct": 38.16
+    "ean": "7622300424084",
+    "nombre": "shot tableta x170gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5809.0,
+    "precio_hoy": 10682.0,
+    "diff_abs": 4873.0,
+    "diff_pct": 83.89
   },
   {
-    "ean": "7790670050650",
-    "nombre": "hamburguesas paty x 4 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 6819.0,
-    "precio_hoy": 9416.0,
-    "diff_abs": 2597.0,
-    "diff_pct": 38.08
+    "ean": "7622300742584",
+    "nombre": "alfajor terrabusi x6 chocolate",
+    "categoria": "Almacen",
+    "precio_antes": 4689.0,
+    "precio_hoy": 8613.0,
+    "diff_abs": 3924.0,
+    "diff_pct": 83.69
   },
   {
-    "ean": "7790670050667",
-    "nombre": "hamburguesas paty x 12 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 20289.0,
-    "precio_hoy": 26285.0,
-    "diff_abs": 5996.0,
-    "diff_pct": 29.55
+    "ean": "7622300742621",
+    "nombre": "alfajor terrabusi x6 glaseado",
+    "categoria": "Almacen",
+    "precio_antes": 4569.0,
+    "precio_hoy": 7755.0,
+    "diff_abs": 3186.0,
+    "diff_pct": 69.73
   },
   {
-    "ean": "7790670051336",
-    "nombre": "hamburguesas paty con morron asado x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 4909.0,
-    "precio_hoy": 6355.0,
-    "diff_abs": 1446.0,
-    "diff_pct": 29.46
+    "ean": "77956699",
+    "nombre": "alfajor shot x60gr.triple",
+    "categoria": "Almacen",
+    "precio_antes": 1269.0,
+    "precio_hoy": 2120.0,
+    "diff_abs": 851.0,
+    "diff_pct": 67.06
   },
   {
-    "ean": "7790670051329",
-    "nombre": "hamburguesas paty con cebolla x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 4909.0,
-    "precio_hoy": 6355.0,
-    "diff_abs": 1446.0,
-    "diff_pct": 29.46
+    "ean": "77969118",
+    "nombre": "chicle beldent frutilla x10gr.",
+    "categoria": "Almacen",
+    "precio_antes": 839.0,
+    "precio_hoy": 1388.0,
+    "diff_abs": 549.0,
+    "diff_pct": 65.44
   },
   {
-    "ean": "7790670051312",
-    "nombre": "hamburguesas paty con queso provolone x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 5139.0,
-    "precio_hoy": 6651.0,
-    "diff_abs": 1512.0,
-    "diff_pct": 29.42
-  },
-  {
-    "ean": "7790670052395",
-    "nombre": "salchichas patyviena x 12 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4289.0,
-    "precio_hoy": 5548.0,
-    "diff_abs": 1259.0,
-    "diff_pct": 29.35
-  },
-  {
-    "ean": "7790670052869",
-    "nombre": "medallones de carne express x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 1909.0,
-    "precio_hoy": 2440.0,
-    "diff_abs": 531.0,
-    "diff_pct": 27.82
-  },
-  {
-    "ean": "7790670052371",
-    "nombre": "medallones de carne express x 4 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 4829.0,
-    "precio_hoy": 5951.0,
-    "diff_abs": 1122.0,
-    "diff_pct": 23.23
-  },
-  {
-    "ean": "7790670052548",
-    "nombre": "mix primavera green life x 350 gr.",
-    "categoria": "Congelados",
+    "ean": "7622201735883",
+    "nombre": "gall.pepitos x357gr.clasica",
+    "categoria": "Perfumeria",
     "precio_antes": 3759.0,
-    "precio_hoy": 4524.0,
-    "diff_abs": 765.0,
-    "diff_pct": 20.35
+    "precio_hoy": 6177.0,
+    "diff_abs": 2418.0,
+    "diff_pct": 64.33
   },
   {
-    "ean": "7790670050612",
-    "nombre": "hamburguesas paty grandes x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 6439.0,
-    "precio_hoy": 7415.0,
-    "diff_abs": 976.0,
-    "diff_pct": 15.16
+    "ean": "7622201759636",
+    "nombre": "galletitas oreo original x 354 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3989.0,
+    "precio_hoy": 6551.0,
+    "diff_abs": 2562.0,
+    "diff_pct": 64.23
   },
   {
-    "ean": "7790670053033",
-    "nombre": "medallones de carne barfy x 276 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 3939.0,
-    "precio_hoy": 4534.0,
-    "diff_abs": 595.0,
-    "diff_pct": 15.11
+    "ean": "7622300990114",
+    "nombre": "tabl.milka x150gr.leche",
+    "categoria": "Almacen",
+    "precio_antes": 7349.0,
+    "precio_hoy": 11575.0,
+    "diff_abs": 4226.0,
+    "diff_pct": 57.5
   },
   {
-    "ean": "7891515626211",
-    "nombre": "lasagna sadia x 350 gm bolognesa congelada",
-    "categoria": "Congelados",
-    "precio_antes": 7699.0,
-    "precio_hoy": 8812.0,
-    "diff_abs": 1113.0,
-    "diff_pct": 14.46
+    "ean": "7622201492717",
+    "nombre": "tabl.milka x45gr.choco pause",
+    "categoria": "Almacen",
+    "precio_antes": 1789.0,
+    "precio_hoy": 2813.0,
+    "diff_abs": 1024.0,
+    "diff_pct": 57.24
   },
   {
-    "ean": "7891515626235",
-    "nombre": "lasagna sadia x 350 gm mix de quesos congela",
-    "categoria": "Congelados",
-    "precio_antes": 7699.0,
-    "precio_hoy": 8812.0,
-    "diff_abs": 1113.0,
-    "diff_pct": 14.46
+    "ean": "7622201492465",
+    "nombre": "tabl.milka x45gr.choc.pau.oreo",
+    "categoria": "Almacen",
+    "precio_antes": 1789.0,
+    "precio_hoy": 2813.0,
+    "diff_abs": 1024.0,
+    "diff_pct": 57.24
   },
   {
-    "ean": "2029390000009",
-    "nombre": "jamon cocido sadia x kilo x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 14319.0,
-    "precio_hoy": 16352.0,
-    "diff_abs": 2033.0,
-    "diff_pct": 14.2
+    "ean": "7622202399107",
+    "nombre": "bombones milka oreo x 209 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5849.0,
+    "precio_hoy": 9122.0,
+    "diff_abs": 3273.0,
+    "diff_pct": 55.96
   },
   {
-    "ean": "2029400000005",
-    "nombre": "paleta d ecerdo sadia x kilo x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 11459.0,
-    "precio_hoy": 13082.0,
-    "diff_abs": 1623.0,
-    "diff_pct": 14.16
+    "ean": "7622210719829",
+    "nombre": "oblea milka bis oreo x 105 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3169.0,
+    "precio_hoy": 4910.0,
+    "diff_abs": 1741.0,
+    "diff_pct": 54.94
   },
   {
-    "ean": "7891515580643",
-    "nombre": "sadinesa rellena",
-    "categoria": "Congelados",
-    "precio_antes": 1259.0,
-    "precio_hoy": 1437.0,
-    "diff_abs": 178.0,
-    "diff_pct": 14.14
+    "ean": "7622210788207",
+    "nombre": "obleas milka bis x 105 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3169.0,
+    "precio_hoy": 4910.0,
+    "diff_abs": 1741.0,
+    "diff_pct": 54.94
   },
   {
-    "ean": "7790670045465",
-    "nombre": "medallones de carne patynesa x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 4969.0,
-    "precio_hoy": 5653.0,
-    "diff_abs": 684.0,
-    "diff_pct": 13.77
+    "ean": "7622202839962",
+    "nombre": "gall.variedad x390gr.mix",
+    "categoria": "Perfumeria",
+    "precio_antes": 2609.0,
+    "precio_hoy": 3979.0,
+    "diff_abs": 1370.0,
+    "diff_pct": 52.51
+  },
+  {
+    "ean": "2020960000009",
+    "nombre": "lechuga repollada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.13
+  },
+  {
+    "ean": "7622201703141",
+    "nombre": "jugo en polvo clight naranja dulce x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 469.0,
+    "precio_hoy": 703.0,
+    "diff_abs": 234.0,
+    "diff_pct": 49.89
+  },
+  {
+    "ean": "7622201702717",
+    "nombre": "jugo en polvo clight naranja-durazno x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 469.0,
+    "precio_hoy": 703.0,
+    "diff_abs": 234.0,
+    "diff_pct": 49.89
+  },
+  {
+    "ean": "7622201702687",
+    "nombre": "jugo en polvo clight naranja-mango x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 469.0,
+    "precio_hoy": 703.0,
+    "diff_abs": 234.0,
+    "diff_pct": 49.89
   }
 ]
