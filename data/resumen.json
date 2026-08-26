@@ -1,147 +1,147 @@
 {
-  "fecha": "20260825",
-  "total_productos": 6460,
-  "variacion_dia": 1.42,
-  "variacion_7d": 1.73,
-  "variacion_mes": 1.93,
+  "fecha": "20260826",
+  "total_productos": 6478,
+  "variacion_dia": -0.08,
+  "variacion_7d": 1.23,
+  "variacion_mes": 1.66,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 2.26,
-      "productos_subieron": 110,
-      "productos_bajaron": 0,
-      "total_productos": 1455
+      "variacion_pct_promedio": -0.05,
+      "productos_subieron": 0,
+      "productos_bajaron": 1,
+      "total_productos": 1456
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.24,
-      "productos_subieron": 28,
-      "productos_bajaron": 9,
-      "total_productos": 1115
+      "variacion_pct_promedio": -0.05,
+      "productos_subieron": 5,
+      "productos_bajaron": 12,
+      "total_productos": 1118
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.35,
-      "productos_subieron": 35,
-      "productos_bajaron": 1,
-      "total_productos": 235
+      "variacion_pct_promedio": -2.72,
+      "productos_subieron": 0,
+      "productos_bajaron": 45,
+      "total_productos": 234
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 1.54,
-      "productos_subieron": 70,
-      "productos_bajaron": 0,
-      "total_productos": 827
+      "variacion_pct_promedio": -0.11,
+      "productos_subieron": 0,
+      "productos_bajaron": 1,
+      "total_productos": 853
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 1.01,
-      "productos_subieron": 38,
+      "variacion_pct_promedio": 0.04,
+      "productos_subieron": 6,
       "productos_bajaron": 0,
-      "total_productos": 894
+      "total_productos": 892
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 1.77,
-      "productos_subieron": 131,
-      "productos_bajaron": 9,
-      "total_productos": 1861
+      "variacion_pct_promedio": 0.16,
+      "productos_subieron": 90,
+      "productos_bajaron": 3,
+      "total_productos": 1863
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2022010000007",
-      "nombre": "remolacha x paquete",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 2490.0,
-      "diff_abs": -2500.0,
-      "diff_pct": -50.1
+      "ean": "6934097722245",
+      "nombre": "super pegamento cyanocrilato",
+      "categoria": "Limpieza",
+      "precio_antes": 8456.0,
+      "precio_hoy": 705.0,
+      "diff_abs": -7751.0,
+      "diff_pct": -91.66
     },
     {
-      "ean": "2020970000006",
-      "nombre": "lima x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -33.39
+      "ean": "7792410010009",
+      "nombre": "whisky blenders x1lt.",
+      "categoria": "Bebidas",
+      "precio_antes": 53318.0,
+      "precio_hoy": 13970.0,
+      "diff_abs": -39348.0,
+      "diff_pct": -73.8
     },
     {
-      "ean": "2021550000003",
-      "nombre": "pepino x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -25.06
-    },
-    {
-      "ean": "2021120000006",
-      "nombre": "mandarina murcot x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2490.0,
-      "precio_hoy": 1990.0,
-      "diff_abs": -500.0,
-      "diff_pct": -20.08
-    },
-    {
-      "ean": "7790670053033",
-      "nombre": "medallones de carne barfy x 276 gr.",
+      "ean": "7790670050728",
+      "nombre": "hamburguesas paty x 2 unid. finitas",
       "categoria": "Congelados",
-      "precio_antes": 4534.0,
-      "precio_hoy": 3685.0,
-      "diff_abs": -849.0,
-      "diff_pct": -18.73
+      "precio_antes": 3606.0,
+      "precio_hoy": 2439.0,
+      "diff_abs": -1167.0,
+      "diff_pct": -32.36
     },
     {
-      "ean": "7794000009561",
-      "nombre": "risotto knorr x 200 gm sabor a hongos",
-      "categoria": "Almacen",
-      "precio_antes": 3609.0,
-      "precio_hoy": 3069.0,
-      "diff_abs": -540.0,
-      "diff_pct": -14.96
+      "ean": "7790670050780",
+      "nombre": "hamburguesas paty clasico x 20 unid.",
+      "categoria": "Congelados",
+      "precio_antes": 42853.0,
+      "precio_hoy": 31009.0,
+      "diff_abs": -11844.0,
+      "diff_pct": -27.64
     },
     {
-      "ean": "7794000009578",
-      "nombre": "risotto knorr x 200 gm 4 quesos",
-      "categoria": "Almacen",
-      "precio_antes": 3609.0,
-      "precio_hoy": 3069.0,
-      "diff_abs": -540.0,
-      "diff_pct": -14.96
+      "ean": "7790670052678",
+      "nombre": "hamburguesas paty de casa x 2 unid.",
+      "categoria": "Congelados",
+      "precio_antes": 7252.0,
+      "precio_hoy": 5249.0,
+      "diff_abs": -2003.0,
+      "diff_pct": -27.62
     },
     {
-      "ean": "7794000009554",
-      "nombre": "risotto knorr x 200 gm sabor calabaza",
-      "categoria": "Almacen",
-      "precio_antes": 3609.0,
-      "precio_hoy": 3069.0,
-      "diff_abs": -540.0,
-      "diff_pct": -14.96
+      "ean": "2038330000009",
+      "nombre": "rucula hidroponica x paquete",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2590.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -600.0,
+      "diff_pct": -23.17
     },
     {
-      "ean": "7794000009547",
-      "nombre": "pasta knorr x 200 gm mc and cheese",
-      "categoria": "Almacen",
-      "precio_antes": 3609.0,
-      "precio_hoy": 3069.0,
-      "diff_abs": -540.0,
-      "diff_pct": -14.96
+      "ean": "7790670050650",
+      "nombre": "hamburguesas paty x 4 unid. clasicas",
+      "categoria": "Congelados",
+      "precio_antes": 9598.0,
+      "precio_hoy": 7409.0,
+      "diff_abs": -2189.0,
+      "diff_pct": -22.81
     },
     {
-      "ean": "7794000009516",
-      "nombre": "pasta knorr x 200 gm pesto",
-      "categoria": "Almacen",
-      "precio_antes": 3609.0,
-      "precio_hoy": 3069.0,
-      "diff_abs": -540.0,
-      "diff_pct": -14.96
+      "ean": "7790670051312",
+      "nombre": "hamburguesas paty con queso provolone x 2 unid.",
+      "categoria": "Congelados",
+      "precio_antes": 6780.0,
+      "precio_hoy": 5239.0,
+      "diff_abs": -1541.0,
+      "diff_pct": -22.73
+    },
+    {
+      "ean": "7790670051336",
+      "nombre": "hamburguesas paty con morron asado x 2 unid.",
+      "categoria": "Congelados",
+      "precio_antes": 6479.0,
+      "precio_hoy": 5009.0,
+      "diff_abs": -1470.0,
+      "diff_pct": -22.69
+    },
+    {
+      "ean": "7790670051329",
+      "nombre": "hamburguesas paty con cebolla x 2 unid.",
+      "categoria": "Congelados",
+      "precio_antes": 6479.0,
+      "precio_hoy": 5009.0,
+      "diff_abs": -1470.0,
+      "diff_pct": -22.69
     }
   ],
-  "productos_subieron_dia": 412,
-  "productos_bajaron_dia": 19,
-  "productos_sin_cambio_dia": 5956
+  "productos_subieron_dia": 101,
+  "productos_bajaron_dia": 62,
+  "productos_sin_cambio_dia": 6253
 }

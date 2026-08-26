@@ -1,30 +1,12 @@
 [
   {
-    "ean": "6934097722245",
-    "nombre": "super pegamento cyanocrilato",
-    "categoria": "Limpieza",
-    "precio_antes": 967.0,
-    "precio_hoy": 8456.0,
-    "diff_abs": 7489.0,
-    "diff_pct": 774.46
-  },
-  {
-    "ean": "7792410010009",
-    "nombre": "whisky blenders x1lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 11522.0,
-    "precio_hoy": 53318.0,
-    "diff_abs": 41796.0,
-    "diff_pct": 362.75
-  },
-  {
     "ean": "2021660000009",
     "nombre": "zapallito redondo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2490.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 3500.0,
-    "diff_pct": 140.56
+    "precio_hoy": 6990.0,
+    "diff_abs": 4500.0,
+    "diff_pct": 180.72
   },
   {
     "ean": "2020160000007",
@@ -36,6 +18,15 @@
     "diff_pct": 140.28
   },
   {
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3490.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3500.0,
+    "diff_pct": 100.29
+  },
+  {
     "ean": "7798222460018",
     "nombre": "formitas de soja latina x 400 gr.",
     "categoria": "Congelados",
@@ -45,8 +36,8 @@
     "diff_pct": 99.7
   },
   {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 4009.0,
     "precio_hoy": 7960.0,
@@ -54,8 +45,8 @@
     "diff_pct": 98.55
   },
   {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 4009.0,
     "precio_hoy": 7960.0,
@@ -106,15 +97,6 @@
     "precio_hoy": 8613.0,
     "diff_abs": 3614.0,
     "diff_pct": 72.29
-  },
-  {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 71.63
   },
   {
     "ean": "7790070337092",
@@ -178,5 +160,23 @@
     "precio_hoy": 7990.0,
     "diff_abs": 3000.0,
     "diff_pct": 60.12
+  },
+  {
+    "ean": "7891000248799",
+    "nombre": "chocolate kit kat x 41 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1499.0,
+    "precio_hoy": 2364.0,
+    "diff_abs": 865.0,
+    "diff_pct": 57.71
+  },
+  {
+    "ean": "7790070433091",
+    "nombre": "arroz gallo oro x1kg.parb.est.",
+    "categoria": "Almacen",
+    "precio_antes": 2879.0,
+    "precio_hoy": 4523.0,
+    "diff_abs": 1644.0,
+    "diff_pct": 57.1
   }
 ]
