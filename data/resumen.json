@@ -1,13 +1,147 @@
 {
-  "fecha": "20260827",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260828",
+  "total_productos": 6495,
+  "variacion_dia": 0.02,
+  "variacion_7d": 0.96,
+  "variacion_mes": 6.61,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 0.16,
+      "productos_subieron": 45,
+      "productos_bajaron": 12,
+      "total_productos": 1470
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": -0.05,
+      "productos_subieron": 14,
+      "productos_bajaron": 17,
+      "total_productos": 1119
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": -0.1,
+      "productos_subieron": 2,
+      "productos_bajaron": 4,
+      "total_productos": 233
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 1,
+      "productos_bajaron": 2,
+      "total_productos": 836
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 0,
+      "productos_bajaron": 1,
+      "total_productos": 902
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 0,
+      "productos_bajaron": 7,
+      "total_productos": 1866
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "7797906054956",
+      "nombre": "papas congeladas mc cain smiles x 700 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 13481.0,
+      "precio_hoy": 8089.0,
+      "diff_abs": -5392.0,
+      "diff_pct": -40.0
+    },
+    {
+      "ean": "7797906054826",
+      "nombre": "papas fritas mc cain clasicas x 700 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 8048.0,
+      "precio_hoy": 4829.0,
+      "diff_abs": -3219.0,
+      "diff_pct": -40.0
+    },
+    {
+      "ean": "7797906054925",
+      "nombre": "papas noisette mc cain horneables x 600 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 10700.0,
+      "precio_hoy": 6429.0,
+      "diff_abs": -4271.0,
+      "diff_pct": -39.92
+    },
+    {
+      "ean": "7790670050674",
+      "nombre": "hamburguesas paty x 2 unid. clasicas",
+      "categoria": "Congelados",
+      "precio_antes": 4802.0,
+      "precio_hoy": 3009.0,
+      "diff_abs": -1793.0,
+      "diff_pct": -37.34
+    },
+    {
+      "ean": "2021780000002",
+      "nombre": "perejil x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 5990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -33.39
+    },
+    {
+      "ean": "7792798015351",
+      "nombre": "cerveza corona 0 % x 473 ml lata",
+      "categoria": "Bebidas",
+      "precio_antes": 3600.0,
+      "precio_hoy": 2519.0,
+      "diff_abs": -1081.0,
+      "diff_pct": -30.03
+    },
+    {
+      "ean": "7792798008858",
+      "nombre": "cerveza temple wolf ipa x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 4961.0,
+      "precio_hoy": 3479.0,
+      "diff_abs": -1482.0,
+      "diff_pct": -29.87
+    },
+    {
+      "ean": "7792798007493",
+      "nombre": "cerveza brahma chopp x 1 lt. retornable",
+      "categoria": "Bebidas",
+      "precio_antes": 4798.0,
+      "precio_hoy": 3599.0,
+      "diff_abs": -1199.0,
+      "diff_pct": -24.99
+    },
+    {
+      "ean": "7792798014705",
+      "nombre": "cerveza corona x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 4650.0,
+      "precio_hoy": 3489.0,
+      "diff_abs": -1161.0,
+      "diff_pct": -24.97
+    },
+    {
+      "ean": "7792798013357",
+      "nombre": "cerv.budweiser x710ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 4033.0,
+      "precio_hoy": 3029.0,
+      "diff_abs": -1004.0,
+      "diff_pct": -24.89
+    }
+  ],
+  "productos_subieron_dia": 62,
+  "productos_bajaron_dia": 43,
+  "productos_sin_cambio_dia": 6321
 }

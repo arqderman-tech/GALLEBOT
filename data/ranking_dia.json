@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
+    "ean": "7797906054918",
+    "nombre": "papas mc cain noisette x 1.2 kg.",
+    "categoria": "Congelados",
+    "precio_antes": 12199.01,
+    "precio_hoy": 20329.0,
+    "diff_abs": 8129.99,
+    "diff_pct": 66.64
   },
   {
-    "ean": "2022130000000",
-    "nombre": "tomate cherry x kg.",
+    "ean": "7797906054833",
+    "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 5139.0,
+    "precio_hoy": 8555.0,
+    "diff_abs": 3416.0,
+    "diff_pct": 66.47
+  },
+  {
+    "ean": "7791728249385",
+    "nombre": "vino santa julia x 269 ml dulce",
+    "categoria": "Bebidas",
+    "precio_antes": 2149.0,
+    "precio_hoy": 3304.0,
+    "diff_abs": 1155.0,
+    "diff_pct": 53.75
+  },
+  {
+    "ean": "7791728239331",
+    "nombre": "vino tinto santa julia dulce natural x 269 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2349.0,
+    "precio_hoy": 3608.0,
+    "diff_abs": 1259.0,
+    "diff_pct": 53.6
+  },
+  {
+    "ean": "7791728239324",
+    "nombre": "vino tinto santa julia tintillo malbec-bonarda x .",
+    "categoria": "Bebidas",
+    "precio_antes": 2349.0,
+    "precio_hoy": 3608.0,
+    "diff_abs": 1259.0,
+    "diff_pct": 53.6
+  },
+  {
+    "ean": "2020730000000",
+    "nombre": "espinaca atado",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 9990.0,
+    "precio_antes": 990.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 50.51
+  },
+  {
+    "ean": "7791728247756",
+    "nombre": "vino tinto santa julia syrah x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4549.0,
+    "precio_hoy": 6115.0,
+    "diff_abs": 1566.0,
+    "diff_pct": 34.43
+  },
+  {
+    "ean": "7791728247749",
+    "nombre": "vino santa julia x750ml.tempra",
+    "categoria": "Bebidas",
+    "precio_antes": 4549.0,
+    "precio_hoy": 6115.0,
+    "diff_abs": 1566.0,
+    "diff_pct": 34.43
+  },
+  {
+    "ean": "7791728247770",
+    "nombre": "vino tinto santa julia pinot noir x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4549.0,
+    "precio_hoy": 6115.0,
+    "diff_abs": 1566.0,
+    "diff_pct": 34.43
+  },
+  {
+    "ean": "7791728247800",
+    "nombre": "vino fino blanco santa julia chardonnay x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4549.0,
+    "precio_hoy": 6115.0,
+    "diff_abs": 1566.0,
+    "diff_pct": 34.43
+  },
+  {
+    "ean": "7791728244496",
+    "nombre": "vino santa julia x750ml.cab.fr",
+    "categoria": "Bebidas",
+    "precio_antes": 4549.0,
+    "precio_hoy": 6115.0,
+    "diff_abs": 1566.0,
+    "diff_pct": 34.43
+  },
+  {
+    "ean": "7791728243871",
+    "nombre": "vino tinto santa julia cabernet sauvignon x 750 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 4549.0,
+    "precio_hoy": 6115.0,
+    "diff_abs": 1566.0,
+    "diff_pct": 34.43
+  },
+  {
+    "ean": "7791728247817",
+    "nombre": "vino blanco santa julia x 750 ml. sauvignon blanc",
+    "categoria": "Bebidas",
+    "precio_antes": 4549.0,
+    "precio_hoy": 6115.0,
+    "diff_abs": 1566.0,
+    "diff_pct": 34.43
+  },
+  {
+    "ean": "7791728248265",
+    "nombre": "vino santa julia x 750 ml. tinto dulce",
+    "categoria": "Bebidas",
+    "precio_antes": 5359.0,
+    "precio_hoy": 7200.0,
+    "diff_abs": 1841.0,
+    "diff_pct": 34.35
+  },
+  {
+    "ean": "2700004161025",
+    "nombre": "vaso termico x 300 cc",
+    "categoria": "Limpieza",
+    "precio_antes": 2860.0,
+    "precio_hoy": 3127.0,
+    "diff_abs": 267.0,
+    "diff_pct": 9.34
+  },
+  {
+    "ean": "2020750000004",
+    "nombre": "frutillas x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 11990.0,
     "precio_hoy": 12990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 30.03
-  },
-  {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 16.69
+    "diff_pct": 8.34
   },
   {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
+    "ean": "2028620000000",
+    "nombre": "pechito de cerdo el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 8268.0,
+    "precio_hoy": 8930.0,
+    "diff_abs": 662.0,
+    "diff_pct": 8.01
   },
   {
-    "ean": "2037370000000",
-    "nombre": "lechuga de hoja hidroponica x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2790.0,
-    "diff_abs": 300.0,
-    "diff_pct": 12.05
+    "ean": "2029230000008",
+    "nombre": "salchicha parrillera el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 9540.0,
+    "precio_hoy": 10304.0,
+    "diff_abs": 764.0,
+    "diff_pct": 8.01
   },
   {
-    "ean": "7798128000684",
-    "nombre": "galletitas cachafaz x 250 gr. algarroba",
-    "categoria": "Perfumeria",
-    "precio_antes": 2866.0,
-    "precio_hoy": 3101.0,
-    "diff_abs": 235.0,
-    "diff_pct": 8.2
+    "ean": "2028670000005",
+    "nombre": "chorizo especial el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 9038.0,
+    "precio_hoy": 9762.0,
+    "diff_abs": 724.0,
+    "diff_pct": 8.01
   },
   {
-    "ean": "7798128002145",
-    "nombre": "galletitas organicas cachafaz x 170 gr. cacao y mi",
-    "categoria": "Perfumeria",
-    "precio_antes": 2423.0,
-    "precio_hoy": 2600.0,
-    "diff_abs": 177.0,
-    "diff_pct": 7.3
-  },
-  {
-    "ean": "7798128002138",
-    "nombre": "galletitas organicas cachafaz x 170 gr. avena y mi",
-    "categoria": "Perfumeria",
-    "precio_antes": 2423.0,
-    "precio_hoy": 2600.0,
-    "diff_abs": 177.0,
-    "diff_pct": 7.3
-  },
-  {
-    "ean": "7798132920435",
-    "nombre": "coctel 4 frutas alco x 820 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 4208.0,
-    "precio_hoy": 4507.0,
-    "diff_abs": 299.0,
-    "diff_pct": 7.11
-  },
-  {
-    "ean": "7798128000707",
-    "nombre": "galletitas cachafaz x 250 gr. granola",
-    "categoria": "Perfumeria",
-    "precio_antes": 3459.0,
-    "precio_hoy": 3701.0,
-    "diff_abs": 242.0,
-    "diff_pct": 7.0
-  },
-  {
-    "ean": "7798132920398",
-    "nombre": "duraznos en mitades alco x 820 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3091.0,
-    "precio_hoy": 3307.0,
-    "diff_abs": 216.0,
-    "diff_pct": 6.99
-  },
-  {
-    "ean": "7798132920404",
-    "nombre": "duraznos en almibar alco light x 820 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3091.0,
-    "precio_hoy": 3307.0,
-    "diff_abs": 216.0,
-    "diff_pct": 6.99
-  },
-  {
-    "ean": "7798132920428",
-    "nombre": "peras en mitades alco x 820 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3298.0,
-    "precio_hoy": 3528.0,
-    "diff_abs": 230.0,
-    "diff_pct": 6.97
-  },
-  {
-    "ean": "7798128000691",
-    "nombre": "galletitas cachafaz x 250 gr. avena chips chocol",
-    "categoria": "Perfumeria",
-    "precio_antes": 3656.0,
-    "precio_hoy": 3901.0,
-    "diff_abs": 245.0,
-    "diff_pct": 6.7
-  },
-  {
-    "ean": "7794000005143",
-    "nombre": "may.hell.receta casera x445gr.",
-    "categoria": "Almacen",
-    "precio_antes": 4329.0,
-    "precio_hoy": 4589.91,
-    "diff_abs": 260.91,
-    "diff_pct": 6.03
-  },
-  {
-    "ean": "7794000007109",
-    "nombre": "mayonesa hellmann`s liviana x 475 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2769.0,
-    "precio_hoy": 2933.31,
-    "diff_abs": 164.31,
-    "diff_pct": 5.93
-  },
-  {
-    "ean": "7794000006058",
-    "nombre": "mayonesa hellmann`s x 950 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5789.0,
-    "precio_hoy": 6089.34,
-    "diff_abs": 300.34,
-    "diff_pct": 5.19
-  },
-  {
-    "ean": "7794000006355",
-    "nombre": "pure mixto knorr x 125 gm papa y zapallo",
-    "categoria": "Almacen",
-    "precio_antes": 3129.0,
-    "precio_hoy": 3287.43,
-    "diff_abs": 158.43,
-    "diff_pct": 5.06
-  },
-  {
-    "ean": "7794000006362",
-    "nombre": "pure de papas knorr x125g.list",
-    "categoria": "Almacen",
-    "precio_antes": 2179.0,
-    "precio_hoy": 2289.32,
-    "diff_abs": 110.32,
-    "diff_pct": 5.06
-  },
-  {
-    "ean": "7794000006379",
-    "nombre": "pure de papas knorr x 125 gr. receta completa",
-    "categoria": "Almacen",
-    "precio_antes": 3119.0,
-    "precio_hoy": 3276.82,
-    "diff_abs": 157.82,
-    "diff_pct": 5.06
+    "ean": "2028660000008",
+    "nombre": "carre de cerdo el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 7884.0,
+    "precio_hoy": 8513.0,
+    "diff_abs": 629.0,
+    "diff_pct": 7.98
   }
 ]
