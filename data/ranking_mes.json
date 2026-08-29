@@ -36,8 +36,8 @@
     "diff_pct": 99.7
   },
   {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 4009.0,
     "precio_hoy": 7960.0,
@@ -45,8 +45,8 @@
     "diff_pct": 98.55
   },
   {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 4009.0,
     "precio_hoy": 7960.0,
@@ -162,8 +162,8 @@
     "diff_pct": 62.58
   },
   {
-    "ean": "7790139004576",
-    "nombre": "aceite de oliva casalta medio x 400 ml.",
+    "ean": "7790139004569",
+    "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
     "categoria": "Almacen",
     "precio_antes": 20559.0,
     "precio_hoy": 33216.0,
@@ -171,8 +171,8 @@
     "diff_pct": 61.56
   },
   {
-    "ean": "7790139004569",
-    "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
+    "ean": "7790139004576",
+    "nombre": "aceite de oliva casalta medio x 400 ml.",
     "categoria": "Almacen",
     "precio_antes": 20559.0,
     "precio_hoy": 33216.0,

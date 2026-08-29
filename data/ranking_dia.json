@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7797906054918",
-    "nombre": "papas mc cain noisette x 1.2 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 12199.01,
-    "precio_hoy": 20329.0,
-    "diff_abs": 8129.99,
-    "diff_pct": 66.64
+    "ean": "7790310985830",
+    "nombre": "3ds queso x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3981.0,
+    "precio_hoy": 3981.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7797906054833",
-    "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 5139.0,
-    "precio_hoy": 8555.0,
-    "diff_abs": 3416.0,
-    "diff_pct": 66.47
+    "ean": "7790310985137",
+    "nombre": "3ds queso x143gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5545.0,
+    "precio_hoy": 5545.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791728249385",
-    "nombre": "vino santa julia x 269 ml dulce",
-    "categoria": "Bebidas",
-    "precio_antes": 2149.0,
-    "precio_hoy": 3304.0,
-    "diff_abs": 1155.0,
-    "diff_pct": 53.75
+    "ean": "7790310985113",
+    "nombre": "3ds sabor queso x 43 gm",
+    "categoria": "Almacen",
+    "precio_antes": 2469.0,
+    "precio_hoy": 2469.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791728239331",
-    "nombre": "vino tinto santa julia dulce natural x 269 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2349.0,
-    "precio_hoy": 3608.0,
-    "diff_abs": 1259.0,
-    "diff_pct": 53.6
+    "ean": "7791728246629",
+    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
+    "categoria": "Almacen",
+    "precio_antes": 24484.0,
+    "precio_hoy": 24484.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791728239324",
-    "nombre": "vino tinto santa julia tintillo malbec-bonarda x .",
-    "categoria": "Bebidas",
-    "precio_antes": 2349.0,
-    "precio_hoy": 3608.0,
-    "diff_abs": 1259.0,
-    "diff_pct": 53.6
+    "ean": "763571722428",
+    "nombre": "ac.de coco entrenuts x200virg.",
+    "categoria": "Almacen",
+    "precio_antes": 9649.0,
+    "precio_hoy": 9649.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2020730000000",
-    "nombre": "espinaca atado",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 50.51
+    "ean": "7798080520657",
+    "nombre": "ac.ol.l.toscana x250ml.ajo",
+    "categoria": "Almacen",
+    "precio_antes": 9903.0,
+    "precio_hoy": 9903.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791728247756",
-    "nombre": "vino tinto santa julia syrah x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4549.0,
-    "precio_hoy": 6115.0,
-    "diff_abs": 1566.0,
-    "diff_pct": 34.43
+    "ean": "7798080520534",
+    "nombre": "ac.ol.l.toscana x250ml.albahac",
+    "categoria": "Almacen",
+    "precio_antes": 9903.0,
+    "precio_hoy": 9903.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791728247749",
-    "nombre": "vino santa julia x750ml.tempra",
-    "categoria": "Bebidas",
-    "precio_antes": 4549.0,
-    "precio_hoy": 6115.0,
-    "diff_abs": 1566.0,
-    "diff_pct": 34.43
+    "ean": "7791728246612",
+    "nombre": "ac.ol.zuccardi x250ml.coratina",
+    "categoria": "Almacen",
+    "precio_antes": 14282.0,
+    "precio_hoy": 14282.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791728247770",
-    "nombre": "vino tinto santa julia pinot noir x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4549.0,
-    "precio_hoy": 6115.0,
-    "diff_abs": 1566.0,
-    "diff_pct": 34.43
+    "ean": "7791728246575",
+    "nombre": "ac.ol.zuccardi x250ml.picual",
+    "categoria": "Almacen",
+    "precio_antes": 14282.0,
+    "precio_hoy": 14282.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791728247800",
-    "nombre": "vino fino blanco santa julia chardonnay x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4549.0,
-    "precio_hoy": 6115.0,
-    "diff_abs": 1566.0,
-    "diff_pct": 34.43
+    "ean": "7791728241181",
+    "nombre": "ac.ol.zuelo x500ml.bot.intenso",
+    "categoria": "Almacen",
+    "precio_antes": 19077.0,
+    "precio_hoy": 19077.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791728244496",
-    "nombre": "vino santa julia x750ml.cab.fr",
-    "categoria": "Bebidas",
-    "precio_antes": 4549.0,
-    "precio_hoy": 6115.0,
-    "diff_abs": 1566.0,
-    "diff_pct": 34.43
+    "ean": "41331014922",
+    "nombre": "acaitunas goya x 149 gm con pimiento picante",
+    "categoria": "Almacen",
+    "precio_antes": 10139.0,
+    "precio_hoy": 10139.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791728243871",
-    "nombre": "vino tinto santa julia cabernet sauvignon x 750 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 4549.0,
-    "precio_hoy": 6115.0,
-    "diff_abs": 1566.0,
-    "diff_pct": 34.43
+    "ean": "7790580160807",
+    "nombre": "aceite arcor x900ml.maiz",
+    "categoria": "Almacen",
+    "precio_antes": 5911.0,
+    "precio_hoy": 5911.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791728247817",
-    "nombre": "vino blanco santa julia x 750 ml. sauvignon blanc",
-    "categoria": "Bebidas",
-    "precio_antes": 4549.0,
-    "precio_hoy": 6115.0,
-    "diff_abs": 1566.0,
-    "diff_pct": 34.43
+    "ean": "7790070225023",
+    "nombre": "aceite cocinero mezcla x1.5lt.",
+    "categoria": "Almacen",
+    "precio_antes": 5873.0,
+    "precio_hoy": 5873.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791728248265",
-    "nombre": "vino santa julia x 750 ml. tinto dulce",
-    "categoria": "Bebidas",
-    "precio_antes": 5359.0,
-    "precio_hoy": 7200.0,
-    "diff_abs": 1841.0,
-    "diff_pct": 34.35
+    "ean": "7790070104311",
+    "nombre": "aceite cocinero oliva puro x 900 ml",
+    "categoria": "Almacen",
+    "precio_antes": 19061.11,
+    "precio_hoy": 19061.11,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2700004161025",
-    "nombre": "vaso termico x 300 cc",
-    "categoria": "Limpieza",
-    "precio_antes": 2860.0,
-    "precio_hoy": 3127.0,
-    "diff_abs": 267.0,
-    "diff_pct": 9.34
+    "ean": "7790070231604",
+    "nombre": "aceite cocinero olivay girasol x 1.5 litros",
+    "categoria": "Almacen",
+    "precio_antes": 9335.58,
+    "precio_hoy": 9335.58,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2020750000004",
-    "nombre": "frutillas x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 11990.0,
-    "precio_hoy": 12990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 8.34
+    "ean": "7790070265142",
+    "nombre": "aceite cocinero puro de oliva x 500 ml",
+    "categoria": "Almacen",
+    "precio_antes": 10919.0,
+    "precio_hoy": 10919.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2028620000000",
-    "nombre": "pechito de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 8268.0,
-    "precio_hoy": 8930.0,
-    "diff_abs": 662.0,
-    "diff_pct": 8.01
+    "ean": "7790070231598",
+    "nombre": "aceite cocinero x900 ml oliva y girasol",
+    "categoria": "Almacen",
+    "precio_antes": 5809.0,
+    "precio_hoy": 5809.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2029230000008",
-    "nombre": "salchicha parrillera el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 9540.0,
-    "precio_hoy": 10304.0,
-    "diff_abs": 764.0,
-    "diff_pct": 8.01
+    "ean": "7790272006819",
+    "nombre": "aceite copisi x 900 ml. girasol y oliva",
+    "categoria": "Almacen",
+    "precio_antes": 6162.0,
+    "precio_hoy": 6162.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2028670000005",
-    "nombre": "chorizo especial el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 9038.0,
-    "precio_hoy": 9762.0,
-    "diff_abs": 724.0,
-    "diff_pct": 8.01
+    "ean": "656750783931",
+    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 8902.0,
+    "precio_hoy": 8902.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2028660000008",
-    "nombre": "carre de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7884.0,
-    "precio_hoy": 8513.0,
-    "diff_abs": 629.0,
-    "diff_pct": 7.98
+    "ean": "763571722435",
+    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 16512.0,
+    "precio_hoy": 16512.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]
