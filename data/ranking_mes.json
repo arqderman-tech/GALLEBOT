@@ -1,14 +1,5 @@
 [
   {
-    "ean": "656750793282",
-    "nombre": "candado 40 mm blister",
-    "categoria": "Limpieza",
-    "precio_antes": 32.47,
-    "precio_hoy": 9749.33,
-    "diff_abs": 9716.86,
-    "diff_pct": 29925.65
-  },
-  {
     "ean": "2021660000009",
     "nombre": "zapallito redondo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -21,10 +12,28 @@
     "ean": "2021650000002",
     "nombre": "zapallito largo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
+    "precio_antes": 2990.0,
     "precio_hoy": 6990.0,
-    "diff_abs": 3500.0,
-    "diff_pct": 100.29
+    "diff_abs": 4000.0,
+    "diff_pct": 133.78
+  },
+  {
+    "ean": "2022080000006",
+    "nombre": "rucula x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 990.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 101.01
+  },
+  {
+    "ean": "2020160000007",
+    "nombre": "brocoli x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 11990.0,
+    "diff_abs": 6000.0,
+    "diff_pct": 100.17
   },
   {
     "ean": "7798222460018",
@@ -36,8 +45,8 @@
     "diff_pct": 99.7
   },
   {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 4009.0,
     "precio_hoy": 7960.0,
@@ -45,8 +54,8 @@
     "diff_pct": 98.55
   },
   {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 4009.0,
     "precio_hoy": 7960.0,
@@ -108,31 +117,22 @@
     "diff_pct": 76.06
   },
   {
-    "ean": "2020160000007",
-    "nombre": "brocoli x kg.",
+    "ean": "2022210000005",
+    "nombre": "tomate perita x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 11990.0,
-    "diff_abs": 5000.0,
-    "diff_pct": 71.53
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
   },
   {
-    "ean": "7790070337092",
-    "nombre": "fideos mostachol al huevo lucchetti x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1339.0,
-    "precio_hoy": 2245.0,
-    "diff_abs": 906.0,
-    "diff_pct": 67.66
-  },
-  {
-    "ean": "2022080000006",
-    "nombre": "rucula x paquete",
+    "ean": "2022450000001",
+    "nombre": "frutillas bandeja x 500 gm",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1190.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 800.0,
-    "diff_pct": 67.23
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
   },
   {
     "ean": "7790070761071",
@@ -162,8 +162,8 @@
     "diff_pct": 62.58
   },
   {
-    "ean": "7790139004569",
-    "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
+    "ean": "7790139004576",
+    "nombre": "aceite de oliva casalta medio x 400 ml.",
     "categoria": "Almacen",
     "precio_antes": 20559.0,
     "precio_hoy": 33216.0,
@@ -171,8 +171,8 @@
     "diff_pct": 61.56
   },
   {
-    "ean": "7790139004576",
-    "nombre": "aceite de oliva casalta medio x 400 ml.",
+    "ean": "7790139004569",
+    "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
     "categoria": "Almacen",
     "precio_antes": 20559.0,
     "precio_hoy": 33216.0,

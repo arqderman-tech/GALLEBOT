@@ -90,8 +90,8 @@
     "diff_pct": 57.5
   },
   {
-    "ean": "7622201492717",
-    "nombre": "tabl.milka x45gr.choco pause",
+    "ean": "7622201492465",
+    "nombre": "tabl.milka x45gr.choc.pau.oreo",
     "categoria": "Almacen",
     "precio_antes": 1789.0,
     "precio_hoy": 2813.0,
@@ -99,8 +99,8 @@
     "diff_pct": 57.24
   },
   {
-    "ean": "7622201492465",
-    "nombre": "tabl.milka x45gr.choc.pau.oreo",
+    "ean": "7622201492717",
+    "nombre": "tabl.milka x45gr.choco pause",
     "categoria": "Almacen",
     "precio_antes": 1789.0,
     "precio_hoy": 2813.0,
@@ -117,8 +117,8 @@
     "diff_pct": 55.96
   },
   {
-    "ean": "7622210719829",
-    "nombre": "oblea milka bis oreo x 105 gr.",
+    "ean": "7622210788207",
+    "nombre": "obleas milka bis x 105 gr.",
     "categoria": "Almacen",
     "precio_antes": 3169.0,
     "precio_hoy": 4910.0,
@@ -126,8 +126,8 @@
     "diff_pct": 54.94
   },
   {
-    "ean": "7622210788207",
-    "nombre": "obleas milka bis x 105 gr.",
+    "ean": "7622210719829",
+    "nombre": "oblea milka bis oreo x 105 gr.",
     "categoria": "Almacen",
     "precio_antes": 3169.0,
     "precio_hoy": 4910.0,
