@@ -63,15 +63,6 @@
     "diff_pct": 98.55
   },
   {
-    "ean": "7790550000300",
-    "nombre": "yerba mate yer-vita x25 saquit",
-    "categoria": "Perfumeria",
-    "precio_antes": 1179.0,
-    "precio_hoy": 2218.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 88.13
-  },
-  {
     "ean": "7794000007741",
     "nombre": "salsa golf hellmann`s x 250 gr.",
     "categoria": "Almacen",
@@ -117,8 +108,8 @@
     "diff_pct": 76.06
   },
   {
-    "ean": "2022210000005",
-    "nombre": "tomate perita x kg.",
+    "ean": "2022450000001",
+    "nombre": "frutillas bandeja x 500 gm",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 6990.0,
@@ -126,8 +117,8 @@
     "diff_pct": 75.19
   },
   {
-    "ean": "2022450000001",
-    "nombre": "frutillas bandeja x 500 gm",
+    "ean": "2022210000005",
+    "nombre": "tomate perita x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 6990.0,
@@ -178,5 +169,14 @@
     "precio_hoy": 33216.0,
     "diff_abs": 12657.0,
     "diff_pct": 61.56
+  },
+  {
+    "ean": "2027850000002",
+    "nombre": "ajies de colores x kilo",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 60.12
   }
 ]

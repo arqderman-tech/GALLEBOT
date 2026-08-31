@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790310985830",
-    "nombre": "3ds queso x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3981.0,
-    "precio_hoy": 3981.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2020000000006",
+    "nombre": "arandanos en bandeja",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
   },
   {
-    "ean": "7790310985137",
-    "nombre": "3ds queso x143gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5545.0,
-    "precio_hoy": 5545.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798039598140",
+    "nombre": "vino trivento gold reserva x 750 ml cabernet franc",
+    "categoria": "Bebidas",
+    "precio_antes": 16009.0,
+    "precio_hoy": 20405.0,
+    "diff_abs": 4396.0,
+    "diff_pct": 27.46
   },
   {
-    "ean": "7790310985113",
-    "nombre": "3ds sabor queso x 43 gm",
-    "categoria": "Almacen",
-    "precio_antes": 2469.0,
-    "precio_hoy": 2469.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798039590625",
+    "nombre": "vino trivento golden reserve malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 16009.0,
+    "precio_hoy": 20405.0,
+    "diff_abs": 4396.0,
+    "diff_pct": 27.46
   },
   {
-    "ean": "7791728246629",
-    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
-    "categoria": "Almacen",
-    "precio_antes": 24484.0,
-    "precio_hoy": 24484.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798039598454",
+    "nombre": "vino trivento privado reserva malbec x 750 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 8959.0,
+    "precio_hoy": 11419.0,
+    "diff_abs": 2460.0,
+    "diff_pct": 27.46
   },
   {
-    "ean": "763571722428",
-    "nombre": "ac.de coco entrenuts x200virg.",
-    "categoria": "Almacen",
-    "precio_antes": 9649.0,
-    "precio_hoy": 9649.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798039599819",
+    "nombre": "vino trivento privado reserva x 750 ml cabernet",
+    "categoria": "Bebidas",
+    "precio_antes": 8959.0,
+    "precio_hoy": 11419.0,
+    "diff_abs": 2460.0,
+    "diff_pct": 27.46
   },
   {
-    "ean": "7798080520657",
-    "nombre": "ac.ol.l.toscana x250ml.ajo",
-    "categoria": "Almacen",
-    "precio_antes": 9903.0,
-    "precio_hoy": 9903.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798039599031",
+    "nombre": "vino blanco tribu dulce x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4129.0,
+    "precio_hoy": 5261.0,
+    "diff_abs": 1132.0,
+    "diff_pct": 27.42
   },
   {
-    "ean": "7798080520534",
-    "nombre": "ac.ol.l.toscana x250ml.albahac",
-    "categoria": "Almacen",
-    "precio_antes": 9903.0,
-    "precio_hoy": 9903.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798039590373",
+    "nombre": "vino tinto tribu cabernet sauvignon x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4129.0,
+    "precio_hoy": 5261.0,
+    "diff_abs": 1132.0,
+    "diff_pct": 27.42
   },
   {
-    "ean": "7791728246612",
-    "nombre": "ac.ol.zuccardi x250ml.coratina",
-    "categoria": "Almacen",
-    "precio_antes": 14282.0,
-    "precio_hoy": 14282.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798039590151",
+    "nombre": "vino tinto tribu malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4129.0,
+    "precio_hoy": 5261.0,
+    "diff_abs": 1132.0,
+    "diff_pct": 27.42
   },
   {
-    "ean": "7791728246575",
-    "nombre": "ac.ol.zuccardi x250ml.picual",
-    "categoria": "Almacen",
-    "precio_antes": 14282.0,
-    "precio_hoy": 14282.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798422330340",
+    "nombre": "vino finjamos demencia x 750 ml blend",
+    "categoria": "Bebidas",
+    "precio_antes": 4979.0,
+    "precio_hoy": 6342.0,
+    "diff_abs": 1363.0,
+    "diff_pct": 27.37
   },
   {
-    "ean": "7791728241181",
-    "nombre": "ac.ol.zuelo x500ml.bot.intenso",
-    "categoria": "Almacen",
-    "precio_antes": 19077.0,
-    "precio_hoy": 19077.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798422330289",
+    "nombre": "vino tinto finjamos demencia x 750 ml malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 4979.0,
+    "precio_hoy": 6342.0,
+    "diff_abs": 1363.0,
+    "diff_pct": 27.37
   },
   {
-    "ean": "41331014922",
-    "nombre": "acaitunas goya x 149 gm con pimiento picante",
-    "categoria": "Almacen",
-    "precio_antes": 10139.0,
-    "precio_hoy": 10139.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798422330296",
+    "nombre": "vino tinto finajmos demencia x 750 ml corte de tin",
+    "categoria": "Bebidas",
+    "precio_antes": 4979.0,
+    "precio_hoy": 6342.0,
+    "diff_abs": 1363.0,
+    "diff_pct": 27.37
   },
   {
-    "ean": "7790580160807",
-    "nombre": "aceite arcor x900ml.maiz",
-    "categoria": "Almacen",
-    "precio_antes": 5911.0,
-    "precio_hoy": 5911.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798039599406",
+    "nombre": "vino tinto casillero del diablo cabernet sauvignon",
+    "categoria": "Bebidas",
+    "precio_antes": 7129.0,
+    "precio_hoy": 9079.0,
+    "diff_abs": 1950.0,
+    "diff_pct": 27.35
   },
   {
-    "ean": "7790070225023",
-    "nombre": "aceite cocinero mezcla x1.5lt.",
-    "categoria": "Almacen",
-    "precio_antes": 5873.0,
-    "precio_hoy": 5873.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798039599246",
+    "nombre": "vino trivento  maximum x 750 ml red blend",
+    "categoria": "Bebidas",
+    "precio_antes": 7129.0,
+    "precio_hoy": 9079.0,
+    "diff_abs": 1950.0,
+    "diff_pct": 27.35
   },
   {
-    "ean": "7790070104311",
-    "nombre": "aceite cocinero oliva puro x 900 ml",
-    "categoria": "Almacen",
-    "precio_antes": 19061.11,
-    "precio_hoy": 19061.11,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798039590182",
+    "nombre": "vino blanco resrve trivento x 750 ml chardonay",
+    "categoria": "Bebidas",
+    "precio_antes": 7129.0,
+    "precio_hoy": 9079.0,
+    "diff_abs": 1950.0,
+    "diff_pct": 27.35
   },
   {
-    "ean": "7790070231604",
-    "nombre": "aceite cocinero olivay girasol x 1.5 litros",
-    "categoria": "Almacen",
-    "precio_antes": 9335.58,
-    "precio_hoy": 9335.58,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798039594333",
+    "nombre": "vino trivento reserva rosado malbec x 750 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 7129.0,
+    "precio_hoy": 9079.0,
+    "diff_abs": 1950.0,
+    "diff_pct": 27.35
   },
   {
-    "ean": "7790070265142",
-    "nombre": "aceite cocinero puro de oliva x 500 ml",
-    "categoria": "Almacen",
-    "precio_antes": 10919.0,
-    "precio_hoy": 10919.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798039590342",
+    "nombre": "vino trivento reserva malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 7129.0,
+    "precio_hoy": 9079.0,
+    "diff_abs": 1950.0,
+    "diff_pct": 27.35
   },
   {
-    "ean": "7790070231598",
-    "nombre": "aceite cocinero x900 ml oliva y girasol",
-    "categoria": "Almacen",
-    "precio_antes": 5809.0,
-    "precio_hoy": 5809.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798039599192",
+    "nombre": "vino trivento reserva x 750 ml white malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 7129.0,
+    "precio_hoy": 9079.0,
+    "diff_abs": 1950.0,
+    "diff_pct": 27.35
   },
   {
-    "ean": "7790272006819",
-    "nombre": "aceite copisi x 900 ml. girasol y oliva",
-    "categoria": "Almacen",
-    "precio_antes": 6162.0,
-    "precio_hoy": 6162.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798039599413",
+    "nombre": "vino casa del diablo x 750 ml chardonay",
+    "categoria": "Bebidas",
+    "precio_antes": 7129.0,
+    "precio_hoy": 9079.0,
+    "diff_abs": 1950.0,
+    "diff_pct": 27.35
   },
   {
-    "ean": "656750783931",
-    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 8902.0,
-    "precio_hoy": 8902.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798039599390",
+    "nombre": "vino casillero del diablo malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 7129.0,
+    "precio_hoy": 9079.0,
+    "diff_abs": 1950.0,
+    "diff_pct": 27.35
   },
   {
-    "ean": "763571722435",
-    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 16512.0,
-    "precio_hoy": 16512.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798039599420",
+    "nombre": "vino casillero del diablo red blend x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 7129.0,
+    "precio_hoy": 9079.0,
+    "diff_abs": 1950.0,
+    "diff_pct": 27.35
   }
 ]
