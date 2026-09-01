@@ -1,147 +1,147 @@
 {
-  "fecha": "20260831",
-  "total_productos": 6529,
-  "variacion_dia": 0.08,
-  "variacion_7d": 1.24,
-  "variacion_mes": 1.88,
+  "fecha": "20260901",
+  "total_productos": 6508,
+  "variacion_dia": 2.59,
+  "variacion_7d": 2.54,
+  "variacion_mes": 4.22,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.37,
-      "productos_subieron": 20,
+      "variacion_pct_promedio": 7.62,
+      "productos_subieron": 322,
       "productos_bajaron": 0,
-      "total_productos": 1481
+      "total_productos": 1473
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.02,
-      "productos_subieron": 2,
-      "productos_bajaron": 5,
-      "total_productos": 1141
+      "variacion_pct_promedio": 1.5,
+      "productos_subieron": 156,
+      "productos_bajaron": 1,
+      "total_productos": 1131
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 240
+      "variacion_pct_promedio": 0.2,
+      "productos_subieron": 21,
+      "productos_bajaron": 5,
+      "total_productos": 239
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 4,
       "productos_bajaron": 0,
-      "total_productos": 837
+      "total_productos": 843
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 1.72,
+      "productos_subieron": 80,
       "productos_bajaron": 0,
-      "total_productos": 918
+      "total_productos": 921
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1888
+      "variacion_pct_promedio": 1.19,
+      "productos_subieron": 113,
+      "productos_bajaron": 18,
+      "total_productos": 1886
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2020910000004",
-      "nombre": "lechuga de hoja x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -33.39
+      "ean": "7790139004576",
+      "nombre": "aceite de oliva casalta medio x 400 ml.",
+      "categoria": "Almacen",
+      "precio_antes": 33216.0,
+      "precio_hoy": 24838.99,
+      "diff_abs": -8377.01,
+      "diff_pct": -25.22
     },
     {
-      "ean": "7794080000441",
-      "nombre": "ravioles la morocha ricota y queso x 500 gr.",
+      "ean": "7790139004569",
+      "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
+      "categoria": "Almacen",
+      "precio_antes": 33216.0,
+      "precio_hoy": 24838.99,
+      "diff_abs": -8377.01,
+      "diff_pct": -25.22
+    },
+    {
+      "ean": "7790139100575",
+      "nombre": "salsa barbacoa casalta x 350 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 6613.0,
+      "precio_hoy": 4959.0,
+      "diff_abs": -1654.0,
+      "diff_pct": -25.01
+    },
+    {
+      "ean": "7790139100582",
+      "nombre": "salsa chimichurri casalta x 300 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 5822.0,
+      "precio_hoy": 4369.0,
+      "diff_abs": -1453.0,
+      "diff_pct": -24.96
+    },
+    {
+      "ean": "7790139003265",
+      "nombre": "vinagre de manzana casalta x 1 lt.",
+      "categoria": "Almacen",
+      "precio_antes": 4739.0,
+      "precio_hoy": 3799.0,
+      "diff_abs": -940.0,
+      "diff_pct": -19.84
+    },
+    {
+      "ean": "7790360983954",
+      "nombre": "salchichas swift x 12 unid.",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3531.0,
-      "precio_hoy": 3019.0,
-      "diff_abs": -512.0,
-      "diff_pct": -14.5
+      "precio_antes": 4409.0,
+      "precio_hoy": 4029.0,
+      "diff_abs": -380.0,
+      "diff_pct": -8.62
     },
     {
-      "ean": "7794080001257",
-      "nombre": "ravioles la morocha x 500 gr. ricota y espinaca",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3531.0,
-      "precio_hoy": 3019.0,
-      "diff_abs": -512.0,
-      "diff_pct": -14.5
+      "ean": "7790360967701",
+      "nombre": "hamb.swift casera 2x120gr.",
+      "categoria": "Congelados",
+      "precio_antes": 6239.0,
+      "precio_hoy": 5929.0,
+      "diff_abs": -310.0,
+      "diff_pct": -4.97
     },
     {
-      "ean": "2021500000008",
-      "nombre": "papa negra suelta x kilo",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2790.0,
-      "precio_hoy": 2590.0,
-      "diff_abs": -200.0,
-      "diff_pct": -7.17
+      "ean": "7790360981042",
+      "nombre": "papas congeladas swift tradicional x 700 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 5489.0,
+      "precio_hoy": 5429.0,
+      "diff_abs": -60.0,
+      "diff_pct": -1.09
     },
     {
-      "ean": "2021470000008",
-      "nombre": "papa elegida red x kilo",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 2790.0,
-      "diff_abs": -200.0,
-      "diff_pct": -6.69
+      "ean": "7790360971135",
+      "nombre": "palitos de pollo swift x 260 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 4589.0,
+      "precio_hoy": 4549.0,
+      "diff_abs": -40.0,
+      "diff_pct": -0.87
     },
     {
-      "ean": "7790070621870",
-      "nombre": "ravioles la saltena x 450 gr. jamon y mozzarella",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4302.0,
-      "precio_hoy": 4302.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "2011230000003",
-      "nombre": "ricota magra el destino x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 9533.0,
-      "precio_hoy": 9533.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "2011220000006",
-      "nombre": "ricota entera prinlac x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 9818.0,
-      "precio_hoy": 9818.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "2011210000009",
-      "nombre": "ricota entera el destino x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 9457.0,
-      "precio_hoy": 9457.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7790079025303",
-      "nombre": "ravioles paladini x 500 gr. jamon y mozarella",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 5125.0,
-      "precio_hoy": 5125.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790360720382",
+      "nombre": "pate de foie swift",
+      "categoria": "Almacen",
+      "precio_antes": 1269.0,
+      "precio_hoy": 1259.0,
+      "diff_abs": -10.0,
+      "diff_pct": -0.79
     }
   ],
-  "productos_subieron_dia": 22,
-  "productos_bajaron_dia": 5,
-  "productos_sin_cambio_dia": 6478
+  "productos_subieron_dia": 696,
+  "productos_bajaron_dia": 24,
+  "productos_sin_cambio_dia": 5773
 }

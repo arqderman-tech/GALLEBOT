@@ -1,39 +1,111 @@
 [
   {
-    "ean": "7622300424084",
-    "nombre": "shot tableta x170gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5809.0,
-    "precio_hoy": 10682.0,
-    "diff_abs": 4873.0,
-    "diff_pct": 83.89
+    "ean": "2017510000008",
+    "nombre": "queso cheddar la serenisima x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 21787.0,
+    "precio_hoy": 45317.0,
+    "diff_abs": 23530.0,
+    "diff_pct": 108.0
   },
   {
-    "ean": "7622300742584",
-    "nombre": "alfajor terrabusi x6 chocolate",
-    "categoria": "Almacen",
-    "precio_antes": 4689.0,
-    "precio_hoy": 8613.0,
-    "diff_abs": 3924.0,
-    "diff_pct": 83.69
+    "ean": "7791540053207",
+    "nombre": "frizze pomelata",
+    "categoria": "Bebidas",
+    "precio_antes": 2099.0,
+    "precio_hoy": 3914.0,
+    "diff_abs": 1815.0,
+    "diff_pct": 86.47
   },
   {
-    "ean": "7622300742621",
-    "nombre": "alfajor terrabusi x6 glaseado",
-    "categoria": "Almacen",
-    "precio_antes": 4569.0,
-    "precio_hoy": 7755.0,
-    "diff_abs": 3186.0,
-    "diff_pct": 69.73
+    "ean": "7790314010972",
+    "nombre": "vino tinto los helechos cabernet sauvignon x 750 .",
+    "categoria": "Bebidas",
+    "precio_antes": 9990.0,
+    "precio_hoy": 18588.0,
+    "diff_abs": 8598.0,
+    "diff_pct": 86.07
   },
   {
-    "ean": "77956699",
-    "nombre": "alfajor shot x60gr.triple",
-    "categoria": "Almacen",
-    "precio_antes": 1269.0,
-    "precio_hoy": 2120.0,
-    "diff_abs": 851.0,
-    "diff_pct": 67.06
+    "ean": "7790314006357",
+    "nombre": "vino tinto los helechos malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 9990.0,
+    "precio_hoy": 18588.0,
+    "diff_abs": 8598.0,
+    "diff_pct": 86.07
+  },
+  {
+    "ean": "7791813403036",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
+  },
+  {
+    "ean": "7791813403012",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
+  },
+  {
+    "ean": "7791813403029",
+    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
+  },
+  {
+    "ean": "7792799000905",
+    "nombre": "agua mineral pureza vital x 1.5 litros sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1339.0,
+    "precio_hoy": 2429.0,
+    "diff_abs": 1090.0,
+    "diff_pct": 81.4
+  },
+  {
+    "ean": "7791813405023",
+    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+    "categoria": "Bebidas",
+    "precio_antes": 1849.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 81.18
+  },
+  {
+    "ean": "7791813405030",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1849.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 81.18
+  },
+  {
+    "ean": "7792799000035",
+    "nombre": "agua mineral eco de los andes x 500 ml. con gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1319.0,
+    "precio_hoy": 2200.0,
+    "diff_abs": 881.0,
+    "diff_pct": 66.79
+  },
+  {
+    "ean": "7792799000639",
+    "nombre": "agua mineral eco one x 1 lt. sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1629.0,
+    "precio_hoy": 2715.0,
+    "diff_abs": 1086.0,
+    "diff_pct": 66.67
   },
   {
     "ean": "7797906054918",
@@ -45,6 +117,15 @@
     "diff_pct": 66.64
   },
   {
+    "ean": "7792799000097",
+    "nombre": "agua mineral eco de los andes x 2 lt. sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 2009.0,
+    "precio_hoy": 3346.0,
+    "diff_abs": 1337.0,
+    "diff_pct": 66.55
+  },
+  {
     "ean": "7797906054833",
     "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
     "categoria": "Congelados",
@@ -54,129 +135,48 @@
     "diff_pct": 66.47
   },
   {
-    "ean": "77969118",
-    "nombre": "chicle beldent frutilla x10gr.",
-    "categoria": "Almacen",
-    "precio_antes": 839.0,
-    "precio_hoy": 1388.0,
-    "diff_abs": 549.0,
-    "diff_pct": 65.44
-  },
-  {
-    "ean": "7622201735883",
-    "nombre": "gall.pepitos x357gr.clasica",
-    "categoria": "Perfumeria",
-    "precio_antes": 3759.0,
-    "precio_hoy": 6177.0,
-    "diff_abs": 2418.0,
-    "diff_pct": 64.33
-  },
-  {
-    "ean": "7622201759636",
-    "nombre": "galletitas oreo original x 354 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3989.0,
-    "precio_hoy": 6551.0,
-    "diff_abs": 2562.0,
-    "diff_pct": 64.23
-  },
-  {
-    "ean": "7622300990114",
-    "nombre": "tabl.milka x150gr.leche",
-    "categoria": "Almacen",
-    "precio_antes": 7349.0,
-    "precio_hoy": 11575.0,
-    "diff_abs": 4226.0,
-    "diff_pct": 57.5
-  },
-  {
-    "ean": "7622201492717",
-    "nombre": "tabl.milka x45gr.choco pause",
-    "categoria": "Almacen",
-    "precio_antes": 1789.0,
-    "precio_hoy": 2813.0,
-    "diff_abs": 1024.0,
-    "diff_pct": 57.24
-  },
-  {
-    "ean": "7622201492465",
-    "nombre": "tabl.milka x45gr.choc.pau.oreo",
-    "categoria": "Almacen",
-    "precio_antes": 1789.0,
-    "precio_hoy": 2813.0,
-    "diff_abs": 1024.0,
-    "diff_pct": 57.24
-  },
-  {
-    "ean": "7622202399107",
-    "nombre": "bombones milka oreo x 209 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5849.0,
-    "precio_hoy": 9122.0,
-    "diff_abs": 3273.0,
-    "diff_pct": 55.96
-  },
-  {
-    "ean": "7622210719829",
-    "nombre": "oblea milka bis oreo x 105 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3169.0,
-    "precio_hoy": 4910.0,
-    "diff_abs": 1741.0,
-    "diff_pct": 54.94
-  },
-  {
-    "ean": "7622210788207",
-    "nombre": "obleas milka bis x 105 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3169.0,
-    "precio_hoy": 4910.0,
-    "diff_abs": 1741.0,
-    "diff_pct": 54.94
-  },
-  {
-    "ean": "7791728249385",
-    "nombre": "vino santa julia x 269 ml dulce",
+    "ean": "7795930002097",
+    "nombre": "agua mineral eco de los andes sin gas x 850 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 2149.0,
-    "precio_hoy": 3304.0,
-    "diff_abs": 1155.0,
-    "diff_pct": 53.75
+    "precio_antes": 1569.0,
+    "precio_hoy": 2610.0,
+    "diff_abs": 1041.0,
+    "diff_pct": 66.35
   },
   {
-    "ean": "7791728239331",
-    "nombre": "vino tinto santa julia dulce natural x 269 ml.",
+    "ean": "7792799000059",
+    "nombre": "agua mineral sin gas eco de los andes x 1.5 lt.",
     "categoria": "Bebidas",
-    "precio_antes": 2349.0,
-    "precio_hoy": 3608.0,
-    "diff_abs": 1259.0,
-    "diff_pct": 53.6
+    "precio_antes": 1779.0,
+    "precio_hoy": 2956.0,
+    "diff_abs": 1177.0,
+    "diff_pct": 66.16
   },
   {
-    "ean": "7791728239324",
-    "nombre": "vino tinto santa julia tintillo malbec-bonarda x .",
+    "ean": "7793147573195",
+    "nombre": "cerveza blue moon belgian white x 473 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 2349.0,
-    "precio_hoy": 3608.0,
-    "diff_abs": 1259.0,
-    "diff_pct": 53.6
+    "precio_antes": 2999.0,
+    "precio_hoy": 4685.0,
+    "diff_abs": 1686.0,
+    "diff_pct": 56.22
   },
   {
-    "ean": "7622202839962",
-    "nombre": "gall.variedad x390gr.mix",
-    "categoria": "Perfumeria",
-    "precio_antes": 2609.0,
-    "precio_hoy": 3979.0,
-    "diff_abs": 1370.0,
-    "diff_pct": 52.51
+    "ean": "7791813402015",
+    "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 1169.0,
+    "precio_hoy": 1800.0,
+    "diff_abs": 631.0,
+    "diff_pct": 53.98
   },
   {
-    "ean": "2020730000000",
-    "nombre": "espinaca atado",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 50.51
+    "ean": "7791813402039",
+    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1169.0,
+    "precio_hoy": 1800.0,
+    "diff_abs": 631.0,
+    "diff_pct": 53.98
   }
 ]
