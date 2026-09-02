@@ -1,147 +1,147 @@
 {
-  "fecha": "20260901",
-  "total_productos": 6508,
-  "variacion_dia": 2.59,
-  "variacion_7d": 2.54,
-  "variacion_mes": 4.22,
+  "fecha": "20260902",
+  "total_productos": 6514,
+  "variacion_dia": -0.42,
+  "variacion_7d": 2.07,
+  "variacion_mes": 3.61,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 7.62,
-      "productos_subieron": 322,
-      "productos_bajaron": 0,
-      "total_productos": 1473
+      "variacion_pct_promedio": -1.98,
+      "productos_subieron": 2,
+      "productos_bajaron": 105,
+      "total_productos": 1471
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 1.5,
-      "productos_subieron": 156,
-      "productos_bajaron": 1,
-      "total_productos": 1131
+      "variacion_pct_promedio": -0.03,
+      "productos_subieron": 10,
+      "productos_bajaron": 18,
+      "total_productos": 1133
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.2,
-      "productos_subieron": 21,
-      "productos_bajaron": 5,
+      "variacion_pct_promedio": 0.28,
+      "productos_subieron": 11,
+      "productos_bajaron": 0,
       "total_productos": 239
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 4,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 843
+      "total_productos": 844
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 1.72,
-      "productos_subieron": 80,
-      "productos_bajaron": 0,
-      "total_productos": 921
+      "variacion_pct_promedio": 0.2,
+      "productos_subieron": 35,
+      "productos_bajaron": 1,
+      "total_productos": 920
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 1.19,
-      "productos_subieron": 113,
-      "productos_bajaron": 18,
-      "total_productos": 1886
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1884
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790139004576",
-      "nombre": "aceite de oliva casalta medio x 400 ml.",
-      "categoria": "Almacen",
-      "precio_antes": 33216.0,
-      "precio_hoy": 24838.99,
-      "diff_abs": -8377.01,
-      "diff_pct": -25.22
-    },
-    {
-      "ean": "7790139004569",
-      "nombre": "aceite de oliva casalta extra virgen suave x 400 .",
-      "categoria": "Almacen",
-      "precio_antes": 33216.0,
-      "precio_hoy": 24838.99,
-      "diff_abs": -8377.01,
-      "diff_pct": -25.22
-    },
-    {
-      "ean": "7790139100575",
-      "nombre": "salsa barbacoa casalta x 350 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 6613.0,
-      "precio_hoy": 4959.0,
-      "diff_abs": -1654.0,
-      "diff_pct": -25.01
-    },
-    {
-      "ean": "7790139100582",
-      "nombre": "salsa chimichurri casalta x 300 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 5822.0,
-      "precio_hoy": 4369.0,
-      "diff_abs": -1453.0,
-      "diff_pct": -24.96
-    },
-    {
-      "ean": "7790139003265",
-      "nombre": "vinagre de manzana casalta x 1 lt.",
-      "categoria": "Almacen",
-      "precio_antes": 4739.0,
-      "precio_hoy": 3799.0,
-      "diff_abs": -940.0,
-      "diff_pct": -19.84
-    },
-    {
-      "ean": "7790360983954",
-      "nombre": "salchichas swift x 12 unid.",
+      "ean": "2017510000008",
+      "nombre": "queso cheddar la serenisima x kg.",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4409.0,
-      "precio_hoy": 4029.0,
-      "diff_abs": -380.0,
-      "diff_pct": -8.62
+      "precio_antes": 45317.0,
+      "precio_hoy": 22658.0,
+      "diff_abs": -22659.0,
+      "diff_pct": -50.0
     },
     {
-      "ean": "7790360967701",
-      "nombre": "hamb.swift casera 2x120gr.",
-      "categoria": "Congelados",
-      "precio_antes": 6239.0,
-      "precio_hoy": 5929.0,
-      "diff_abs": -310.0,
-      "diff_pct": -4.97
+      "ean": "7791813403036",
+      "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+      "categoria": "Bebidas",
+      "precio_antes": 3250.0,
+      "precio_hoy": 1789.0,
+      "diff_abs": -1461.0,
+      "diff_pct": -44.95
     },
     {
-      "ean": "7790360981042",
-      "nombre": "papas congeladas swift tradicional x 700 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 5489.0,
-      "precio_hoy": 5429.0,
-      "diff_abs": -60.0,
-      "diff_pct": -1.09
+      "ean": "7791813000723",
+      "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
+      "categoria": "Bebidas",
+      "precio_antes": 3250.0,
+      "precio_hoy": 1789.0,
+      "diff_abs": -1461.0,
+      "diff_pct": -44.95
     },
     {
-      "ean": "7790360971135",
-      "nombre": "palitos de pollo swift x 260 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 4589.0,
-      "precio_hoy": 4549.0,
-      "diff_abs": -40.0,
-      "diff_pct": -0.87
+      "ean": "7791813403029",
+      "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+      "categoria": "Bebidas",
+      "precio_antes": 3250.0,
+      "precio_hoy": 1789.0,
+      "diff_abs": -1461.0,
+      "diff_pct": -44.95
     },
     {
-      "ean": "7790360720382",
-      "nombre": "pate de foie swift",
-      "categoria": "Almacen",
-      "precio_antes": 1269.0,
-      "precio_hoy": 1259.0,
-      "diff_abs": -10.0,
-      "diff_pct": -0.79
+      "ean": "7791813403012",
+      "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+      "categoria": "Bebidas",
+      "precio_antes": 3250.0,
+      "precio_hoy": 1789.0,
+      "diff_abs": -1461.0,
+      "diff_pct": -44.95
+    },
+    {
+      "ean": "7791813405016",
+      "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
+      "categoria": "Bebidas",
+      "precio_antes": 3350.0,
+      "precio_hoy": 1849.0,
+      "diff_abs": -1501.0,
+      "diff_pct": -44.81
+    },
+    {
+      "ean": "7791813405023",
+      "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+      "categoria": "Bebidas",
+      "precio_antes": 3350.0,
+      "precio_hoy": 1849.0,
+      "diff_abs": -1501.0,
+      "diff_pct": -44.81
+    },
+    {
+      "ean": "7791813405030",
+      "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+      "categoria": "Bebidas",
+      "precio_antes": 3350.0,
+      "precio_hoy": 1849.0,
+      "diff_abs": -1501.0,
+      "diff_pct": -44.81
+    },
+    {
+      "ean": "7792799000899",
+      "nombre": "agua mineral nestle pureza vital x 500 ml. sin gas",
+      "categoria": "Bebidas",
+      "precio_antes": 1881.0,
+      "precio_hoy": 1039.0,
+      "diff_abs": -842.0,
+      "diff_pct": -44.76
+    },
+    {
+      "ean": "7792799000035",
+      "nombre": "agua mineral eco de los andes x 500 ml. con gas",
+      "categoria": "Bebidas",
+      "precio_antes": 2200.0,
+      "precio_hoy": 1319.0,
+      "diff_abs": -881.0,
+      "diff_pct": -40.05
     }
   ],
-  "productos_subieron_dia": 696,
-  "productos_bajaron_dia": 24,
-  "productos_sin_cambio_dia": 5773
+  "productos_subieron_dia": 58,
+  "productos_bajaron_dia": 124,
+  "productos_sin_cambio_dia": 6309
 }

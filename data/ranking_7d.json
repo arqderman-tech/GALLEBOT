@@ -1,14 +1,5 @@
 [
   {
-    "ean": "2017510000008",
-    "nombre": "queso cheddar la serenisima x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 21787.0,
-    "precio_hoy": 45317.0,
-    "diff_abs": 23530.0,
-    "diff_pct": 108.0
-  },
-  {
     "ean": "7791540053207",
     "nombre": "frizze pomelata",
     "categoria": "Bebidas",
@@ -36,121 +27,22 @@
     "diff_pct": 86.07
   },
   {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
-  },
-  {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
-  },
-  {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
-  },
-  {
-    "ean": "7792799000905",
-    "nombre": "agua mineral pureza vital x 1.5 litros sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1339.0,
-    "precio_hoy": 2429.0,
-    "diff_abs": 1090.0,
-    "diff_pct": 81.4
-  },
-  {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-    "categoria": "Bebidas",
-    "precio_antes": 1849.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 81.18
-  },
-  {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1849.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 81.18
-  },
-  {
-    "ean": "7792799000035",
-    "nombre": "agua mineral eco de los andes x 500 ml. con gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1319.0,
-    "precio_hoy": 2200.0,
-    "diff_abs": 881.0,
-    "diff_pct": 66.79
-  },
-  {
-    "ean": "7792799000639",
-    "nombre": "agua mineral eco one x 1 lt. sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1629.0,
-    "precio_hoy": 2715.0,
-    "diff_abs": 1086.0,
-    "diff_pct": 66.67
-  },
-  {
     "ean": "7797906054918",
     "nombre": "papas mc cain noisette x 1.2 kg.",
     "categoria": "Congelados",
     "precio_antes": 12199.01,
-    "precio_hoy": 20329.0,
-    "diff_abs": 8129.99,
-    "diff_pct": 66.64
-  },
-  {
-    "ean": "7792799000097",
-    "nombre": "agua mineral eco de los andes x 2 lt. sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 2009.0,
-    "precio_hoy": 3346.0,
-    "diff_abs": 1337.0,
-    "diff_pct": 66.55
+    "precio_hoy": 21548.0,
+    "diff_abs": 9348.99,
+    "diff_pct": 76.64
   },
   {
     "ean": "7797906054833",
     "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
     "categoria": "Congelados",
     "precio_antes": 5139.0,
-    "precio_hoy": 8555.0,
-    "diff_abs": 3416.0,
-    "diff_pct": 66.47
-  },
-  {
-    "ean": "7795930002097",
-    "nombre": "agua mineral eco de los andes sin gas x 850 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1569.0,
-    "precio_hoy": 2610.0,
-    "diff_abs": 1041.0,
-    "diff_pct": 66.35
-  },
-  {
-    "ean": "7792799000059",
-    "nombre": "agua mineral sin gas eco de los andes x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1779.0,
-    "precio_hoy": 2956.0,
-    "diff_abs": 1177.0,
-    "diff_pct": 66.16
+    "precio_hoy": 9068.0,
+    "diff_abs": 3929.0,
+    "diff_pct": 76.45
   },
   {
     "ean": "7793147573195",
@@ -162,21 +54,129 @@
     "diff_pct": 56.22
   },
   {
-    "ean": "7791813402015",
-    "nombre": "agua saborizada sin gas h2oh x 500 ml pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 1169.0,
-    "precio_hoy": 1800.0,
-    "diff_abs": 631.0,
-    "diff_pct": 53.98
+    "ean": "2021950000009",
+    "nombre": "radicheta x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1290.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 700.0,
+    "diff_pct": 54.26
   },
   {
-    "ean": "7791813402039",
-    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
+    "ean": "7790895003875",
+    "nombre": "agua mineral bonaqua x 1,5 ml. sin gas",
     "categoria": "Bebidas",
-    "precio_antes": 1169.0,
-    "precio_hoy": 1800.0,
-    "diff_abs": 631.0,
-    "diff_pct": 53.98
+    "precio_antes": 1619.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 871.0,
+    "diff_pct": 53.8
+  },
+  {
+    "ean": "7790895003950",
+    "nombre": "agua bonaqua x 1,5 lt. con gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1619.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 871.0,
+    "diff_pct": 53.8
+  },
+  {
+    "ean": "7792798002351",
+    "nombre": "cerveza patagonia amber lager x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4589.0,
+    "precio_hoy": 7056.0,
+    "diff_abs": 2467.0,
+    "diff_pct": 53.76
+  },
+  {
+    "ean": "7792798002399",
+    "nombre": "cerveza patagonia ipa con sauco x 730 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4589.0,
+    "precio_hoy": 7056.0,
+    "diff_abs": 2467.0,
+    "diff_pct": 53.76
+  },
+  {
+    "ean": "7792798010882",
+    "nombre": "cerveza patagonia vera ipa x 730 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4589.0,
+    "precio_hoy": 7056.0,
+    "diff_abs": 2467.0,
+    "diff_pct": 53.76
+  },
+  {
+    "ean": "7791728249385",
+    "nombre": "vino santa julia x 269 ml dulce",
+    "categoria": "Bebidas",
+    "precio_antes": 2149.0,
+    "precio_hoy": 3304.0,
+    "diff_abs": 1155.0,
+    "diff_pct": 53.75
+  },
+  {
+    "ean": "7790895003882",
+    "nombre": "agua mineral bonaqua sin gas x 2 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1919.0,
+    "precio_hoy": 2950.0,
+    "diff_abs": 1031.0,
+    "diff_pct": 53.73
+  },
+  {
+    "ean": "7791728239324",
+    "nombre": "vino tinto santa julia tintillo malbec-bonarda x .",
+    "categoria": "Bebidas",
+    "precio_antes": 2349.0,
+    "precio_hoy": 3608.0,
+    "diff_abs": 1259.0,
+    "diff_pct": 53.6
+  },
+  {
+    "ean": "7791728239331",
+    "nombre": "vino tinto santa julia dulce natural x 269 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2349.0,
+    "precio_hoy": 3608.0,
+    "diff_abs": 1259.0,
+    "diff_pct": 53.6
+  },
+  {
+    "ean": "7790895008146",
+    "nombre": "agua bonaqua x 2.5 lt. sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 2049.0,
+    "precio_hoy": 3140.0,
+    "diff_abs": 1091.0,
+    "diff_pct": 53.25
+  },
+  {
+    "ean": "2020730000000",
+    "nombre": "espinaca atado",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 990.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 50.51
+  },
+  {
+    "ean": "2021020000007",
+    "nombre": "hinojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
+    "ean": "2038330000009",
+    "nombre": "rucula hidroponica x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
   }
 ]

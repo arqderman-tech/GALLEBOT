@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2017510000008",
-    "nombre": "queso cheddar la serenisima x kg.",
+    "ean": "2021950000009",
+    "nombre": "radicheta x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1290.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 700.0,
+    "diff_pct": 54.26
+  },
+  {
+    "ean": "2038330000009",
+    "nombre": "rucula hidroponica x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
+    "ean": "2020970000006",
+    "nombre": "lima x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.13
+  },
+  {
+    "ean": "2020570000000",
+    "nombre": "coliflor x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
+  },
+  {
+    "ean": "2021280000007",
+    "nombre": "melon amarillo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
+  },
+  {
+    "ean": "2020980000003",
+    "nombre": "limones x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1790.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 200.0,
+    "diff_pct": 11.17
+  },
+  {
+    "ean": "2011200000002",
+    "nombre": "postre con chocolate x kilo",
+    "categoria": "Perfumeria",
+    "precio_antes": 12576.0,
+    "precio_hoy": 13610.0,
+    "diff_abs": 1034.0,
+    "diff_pct": 8.22
+  },
+  {
+    "ean": "2021390000003",
+    "nombre": "naranja de jugo x kilo.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1490.0,
+    "precio_hoy": 1590.0,
+    "diff_abs": 100.0,
+    "diff_pct": 6.71
+  },
+  {
+    "ean": "2011210000009",
+    "nombre": "ricota entera el destino x kg.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 21787.0,
-    "precio_hoy": 45317.0,
-    "diff_abs": 23530.0,
-    "diff_pct": 108.0
+    "precio_antes": 9457.0,
+    "precio_hoy": 10041.0,
+    "diff_abs": 584.0,
+    "diff_pct": 6.18
   },
   {
-    "ean": "7791540053207",
-    "nombre": "frizze pomelata",
-    "categoria": "Bebidas",
-    "precio_antes": 2099.0,
-    "precio_hoy": 3914.0,
-    "diff_abs": 1815.0,
-    "diff_pct": 86.47
+    "ean": "7793890258738",
+    "nombre": "vainillas valente x74gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1275.0,
+    "precio_hoy": 1352.0,
+    "diff_abs": 77.0,
+    "diff_pct": 6.04
   },
   {
-    "ean": "7790314010972",
-    "nombre": "vino tinto los helechos cabernet sauvignon x 750 .",
-    "categoria": "Bebidas",
-    "precio_antes": 9990.0,
-    "precio_hoy": 18588.0,
-    "diff_abs": 8598.0,
-    "diff_pct": 86.07
+    "ean": "7793890259100",
+    "nombre": "madalenas valente x 200 gr. dulce de leche",
+    "categoria": "Perfumeria",
+    "precio_antes": 2872.0,
+    "precio_hoy": 3045.0,
+    "diff_abs": 173.0,
+    "diff_pct": 6.02
   },
   {
-    "ean": "7790314006357",
-    "nombre": "vino tinto los helechos malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 9990.0,
-    "precio_hoy": 18588.0,
-    "diff_abs": 8598.0,
-    "diff_pct": 86.07
+    "ean": "7797906000700",
+    "nombre": "papas mc cain tradicional x 400 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 5070.0,
+    "precio_hoy": 5375.0,
+    "diff_abs": 305.0,
+    "diff_pct": 6.02
   },
   {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
+    "ean": "7793890259094",
+    "nombre": "madalenas valente x 200 gr. vainilla",
+    "categoria": "Perfumeria",
+    "precio_antes": 2872.0,
+    "precio_hoy": 3045.0,
+    "diff_abs": 173.0,
+    "diff_pct": 6.02
   },
   {
-    "ean": "7791813000723",
-    "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
+    "ean": "7793890259124",
+    "nombre": "madalenas valente x 200 gr. chocolate con dulce de",
+    "categoria": "Perfumeria",
+    "precio_antes": 2872.0,
+    "precio_hoy": 3045.0,
+    "diff_abs": 173.0,
+    "diff_pct": 6.02
   },
   {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
+    "ean": "7793890259117",
+    "nombre": "madalenas valente marmoladas x 200 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2872.0,
+    "precio_hoy": 3045.0,
+    "diff_abs": 173.0,
+    "diff_pct": 6.02
   },
   {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
+    "ean": "7793890258691",
+    "nombre": "vainillas valente x 148 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2282.0,
+    "precio_hoy": 2419.0,
+    "diff_abs": 137.0,
+    "diff_pct": 6.0
   },
   {
-    "ean": "7792799000905",
-    "nombre": "agua mineral pureza vital x 1.5 litros sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1339.0,
-    "precio_hoy": 2429.0,
-    "diff_abs": 1090.0,
-    "diff_pct": 81.4
+    "ean": "7797906054932",
+    "nombre": "papas noisette mc cain horneables x 600 gr. finass",
+    "categoria": "Congelados",
+    "precio_antes": 12305.0,
+    "precio_hoy": 13043.0,
+    "diff_abs": 738.0,
+    "diff_pct": 6.0
   },
   {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1849.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 81.18
+    "ean": "7797906054949",
+    "nombre": "papas noisette mc cain horneables x 600 gr. jamon",
+    "categoria": "Congelados",
+    "precio_antes": 12305.0,
+    "precio_hoy": 13043.0,
+    "diff_abs": 738.0,
+    "diff_pct": 6.0
   },
   {
-    "ean": "7791813405016",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
-    "categoria": "Bebidas",
-    "precio_antes": 1849.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 81.18
+    "ean": "7793890258707",
+    "nombre": "vainillas valente x 444 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 6151.0,
+    "precio_hoy": 6520.0,
+    "diff_abs": 369.0,
+    "diff_pct": 6.0
   },
   {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-    "categoria": "Bebidas",
-    "precio_antes": 1849.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 81.18
-  },
-  {
-    "ean": "7792799000899",
-    "nombre": "agua mineral nestle pureza vital x 500 ml. sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1039.0,
-    "precio_hoy": 1881.0,
-    "diff_abs": 842.0,
-    "diff_pct": 81.04
-  },
-  {
-    "ean": "7792799000035",
-    "nombre": "agua mineral eco de los andes x 500 ml. con gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1319.0,
-    "precio_hoy": 2200.0,
-    "diff_abs": 881.0,
-    "diff_pct": 66.79
-  },
-  {
-    "ean": "7792799000639",
-    "nombre": "agua mineral eco one x 1 lt. sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1629.0,
-    "precio_hoy": 2715.0,
-    "diff_abs": 1086.0,
-    "diff_pct": 66.67
-  },
-  {
-    "ean": "7792799000097",
-    "nombre": "agua mineral eco de los andes x 2 lt. sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 2009.0,
-    "precio_hoy": 3346.0,
-    "diff_abs": 1337.0,
-    "diff_pct": 66.55
-  },
-  {
-    "ean": "7795930002097",
-    "nombre": "agua mineral eco de los andes sin gas x 850 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1569.0,
-    "precio_hoy": 2610.0,
-    "diff_abs": 1041.0,
-    "diff_pct": 66.35
-  },
-  {
-    "ean": "7792799000059",
-    "nombre": "agua mineral sin gas eco de los andes x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1779.0,
-    "precio_hoy": 2956.0,
-    "diff_abs": 1177.0,
-    "diff_pct": 66.16
-  },
-  {
-    "ean": "7792799000073",
-    "nombre": "agua mineral con gas eco de los andes x 1.5 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1909.0,
-    "precio_hoy": 3170.0,
-    "diff_abs": 1261.0,
-    "diff_pct": 66.06
-  },
-  {
-    "ean": "7793147573195",
-    "nombre": "cerveza blue moon belgian white x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2999.0,
-    "precio_hoy": 4685.0,
-    "diff_abs": 1686.0,
-    "diff_pct": 56.22
+    "ean": "7793890258684",
+    "nombre": "vainilla bimbo x 74 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 1417.0,
+    "precio_hoy": 1502.0,
+    "diff_abs": 85.0,
+    "diff_pct": 6.0
   }
 ]
