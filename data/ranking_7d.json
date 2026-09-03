@@ -9,33 +9,6 @@
     "diff_pct": 86.47
   },
   {
-    "ean": "7790314010972",
-    "nombre": "vino tinto los helechos cabernet sauvignon x 750 .",
-    "categoria": "Bebidas",
-    "precio_antes": 9990.0,
-    "precio_hoy": 18588.0,
-    "diff_abs": 8598.0,
-    "diff_pct": 86.07
-  },
-  {
-    "ean": "7790314006357",
-    "nombre": "vino tinto los helechos malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 9990.0,
-    "precio_hoy": 18588.0,
-    "diff_abs": 8598.0,
-    "diff_pct": 86.07
-  },
-  {
-    "ean": "7797906054918",
-    "nombre": "papas mc cain noisette x 1.2 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 12199.01,
-    "precio_hoy": 21548.0,
-    "diff_abs": 9348.99,
-    "diff_pct": 76.64
-  },
-  {
     "ean": "7797906054833",
     "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
     "categoria": "Congelados",
@@ -45,13 +18,13 @@
     "diff_pct": 76.45
   },
   {
-    "ean": "7793147573195",
-    "nombre": "cerveza blue moon belgian white x 473 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2999.0,
-    "precio_hoy": 4685.0,
-    "diff_abs": 1686.0,
-    "diff_pct": 56.22
+    "ean": "7795513090640",
+    "nombre": "palto postre cuadrado blanco roswell",
+    "categoria": "Limpieza",
+    "precio_antes": 1313.72,
+    "precio_hoy": 2233.0,
+    "diff_abs": 919.28,
+    "diff_pct": 69.98
   },
   {
     "ean": "2021950000009",
@@ -63,15 +36,6 @@
     "diff_pct": 54.26
   },
   {
-    "ean": "7790895003875",
-    "nombre": "agua mineral bonaqua x 1,5 ml. sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1619.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 871.0,
-    "diff_pct": 53.8
-  },
-  {
     "ean": "7790895003950",
     "nombre": "agua bonaqua x 1,5 lt. con gas",
     "categoria": "Bebidas",
@@ -81,13 +45,13 @@
     "diff_pct": 53.8
   },
   {
-    "ean": "7792798002351",
-    "nombre": "cerveza patagonia amber lager x 750 ml.",
+    "ean": "7790895003875",
+    "nombre": "agua mineral bonaqua x 1,5 ml. sin gas",
     "categoria": "Bebidas",
-    "precio_antes": 4589.0,
-    "precio_hoy": 7056.0,
-    "diff_abs": 2467.0,
-    "diff_pct": 53.76
+    "precio_antes": 1619.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 871.0,
+    "diff_pct": 53.8
   },
   {
     "ean": "7792798002399",
@@ -101,6 +65,15 @@
   {
     "ean": "7792798010882",
     "nombre": "cerveza patagonia vera ipa x 730 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 4589.0,
+    "precio_hoy": 7056.0,
+    "diff_abs": 2467.0,
+    "diff_pct": 53.76
+  },
+  {
+    "ean": "7792798002351",
+    "nombre": "cerveza patagonia amber lager x 750 ml.",
     "categoria": "Bebidas",
     "precio_antes": 4589.0,
     "precio_hoy": 7056.0,
@@ -162,6 +135,15 @@
     "diff_pct": 50.51
   },
   {
+    "ean": "2038330000009",
+    "nombre": "rucula hidroponica x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
     "ean": "2021020000007",
     "nombre": "hinojo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -171,12 +153,30 @@
     "diff_pct": 50.25
   },
   {
-    "ean": "2038330000009",
-    "nombre": "rucula hidroponica x paquete",
+    "ean": "2020970000006",
+    "nombre": "lima x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 50.25
+    "precio_antes": 3990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.13
+  },
+  {
+    "ean": "7790315001061",
+    "nombre": "agua saborizada vds levite cero manzana x 1.5 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2369.0,
+    "precio_hoy": 3535.0,
+    "diff_abs": 1166.0,
+    "diff_pct": 49.22
+  },
+  {
+    "ean": "7798062548709",
+    "nombre": "agua saborizada vds levite manzana x 1.5 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2369.0,
+    "precio_hoy": 3535.0,
+    "diff_abs": 1166.0,
+    "diff_pct": 49.22
   }
 ]

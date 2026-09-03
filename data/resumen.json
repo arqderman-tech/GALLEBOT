@@ -1,147 +1,147 @@
 {
-  "fecha": "20260902",
-  "total_productos": 6514,
-  "variacion_dia": -0.42,
-  "variacion_7d": 2.07,
-  "variacion_mes": 3.61,
+  "fecha": "20260903",
+  "total_productos": 6507,
+  "variacion_dia": -1.05,
+  "variacion_7d": 0.84,
+  "variacion_mes": 1.69,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -1.98,
-      "productos_subieron": 2,
-      "productos_bajaron": 105,
-      "total_productos": 1471
+      "variacion_pct_promedio": -2.91,
+      "productos_subieron": 4,
+      "productos_bajaron": 153,
+      "total_productos": 1469
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.03,
-      "productos_subieron": 10,
-      "productos_bajaron": 18,
-      "total_productos": 1133
+      "variacion_pct_promedio": 0.16,
+      "productos_subieron": 116,
+      "productos_bajaron": 42,
+      "total_productos": 1136
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.28,
-      "productos_subieron": 11,
-      "productos_bajaron": 0,
-      "total_productos": 239
+      "variacion_pct_promedio": 1.01,
+      "productos_subieron": 23,
+      "productos_bajaron": 23,
+      "total_productos": 240
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.21,
+      "productos_subieron": 13,
       "productos_bajaron": 0,
-      "total_productos": 844
+      "total_productos": 829
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.2,
-      "productos_subieron": 35,
-      "productos_bajaron": 1,
-      "total_productos": 920
+      "variacion_pct_promedio": -0.73,
+      "productos_subieron": 1,
+      "productos_bajaron": 32,
+      "total_productos": 917
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -1.32,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1884
+      "productos_bajaron": 113,
+      "total_productos": 1882
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2017510000008",
-      "nombre": "queso cheddar la serenisima x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 45317.0,
-      "precio_hoy": 22658.0,
-      "diff_abs": -22659.0,
-      "diff_pct": -50.0
+      "ean": "7790314010972",
+      "nombre": "vino tinto los helechos cabernet sauvignon x 750 .",
+      "categoria": "Bebidas",
+      "precio_antes": 18588.0,
+      "precio_hoy": 9990.0,
+      "diff_abs": -8598.0,
+      "diff_pct": -46.26
     },
     {
-      "ean": "7791813403036",
-      "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+      "ean": "7790314006357",
+      "nombre": "vino tinto los helechos malbec x 750 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 3250.0,
-      "precio_hoy": 1789.0,
-      "diff_abs": -1461.0,
-      "diff_pct": -44.95
+      "precio_antes": 18588.0,
+      "precio_hoy": 9990.0,
+      "diff_abs": -8598.0,
+      "diff_pct": -46.26
     },
     {
-      "ean": "7791813000723",
-      "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
+      "ean": "7790315100177",
+      "nombre": "agua saborizada vds levite cero pomelo x 500 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 3250.0,
-      "precio_hoy": 1789.0,
-      "diff_abs": -1461.0,
-      "diff_pct": -44.95
+      "precio_antes": 2509.0,
+      "precio_hoy": 1489.0,
+      "diff_abs": -1020.0,
+      "diff_pct": -40.65
     },
     {
-      "ean": "7791813403029",
-      "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+      "ean": "7798062548716",
+      "nombre": "agua saborizada vds levite manzana x 500 ml.",
       "categoria": "Bebidas",
-      "precio_antes": 3250.0,
-      "precio_hoy": 1789.0,
-      "diff_abs": -1461.0,
-      "diff_pct": -44.95
+      "precio_antes": 2509.0,
+      "precio_hoy": 1489.0,
+      "diff_abs": -1020.0,
+      "diff_pct": -40.65
     },
     {
-      "ean": "7791813403012",
-      "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+      "ean": "7798062540260",
+      "nombre": "agua saborizada levite x 500 ml pera",
       "categoria": "Bebidas",
-      "precio_antes": 3250.0,
-      "precio_hoy": 1789.0,
-      "diff_abs": -1461.0,
-      "diff_pct": -44.95
+      "precio_antes": 2509.0,
+      "precio_hoy": 1489.0,
+      "diff_abs": -1020.0,
+      "diff_pct": -40.65
     },
     {
-      "ean": "7791813405016",
-      "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
+      "ean": "7798062548686",
+      "nombre": "villa del sur levite pomelo x 500 ml",
       "categoria": "Bebidas",
-      "precio_antes": 3350.0,
-      "precio_hoy": 1849.0,
-      "diff_abs": -1501.0,
-      "diff_pct": -44.81
+      "precio_antes": 2509.0,
+      "precio_hoy": 1489.0,
+      "diff_abs": -1020.0,
+      "diff_pct": -40.65
     },
     {
-      "ean": "7791813405023",
-      "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
+      "ean": "7799155001682",
+      "nombre": "agua saborizada levite x 500 ml limonada",
       "categoria": "Bebidas",
-      "precio_antes": 3350.0,
-      "precio_hoy": 1849.0,
-      "diff_abs": -1501.0,
-      "diff_pct": -44.81
+      "precio_antes": 2509.0,
+      "precio_hoy": 1489.0,
+      "diff_abs": -1020.0,
+      "diff_pct": -40.65
     },
     {
-      "ean": "7791813405030",
-      "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+      "ean": "7798062548655",
+      "nombre": "vds levite x500ml.naranja",
       "categoria": "Bebidas",
-      "precio_antes": 3350.0,
-      "precio_hoy": 1849.0,
-      "diff_abs": -1501.0,
-      "diff_pct": -44.81
+      "precio_antes": 2509.0,
+      "precio_hoy": 1489.0,
+      "diff_abs": -1020.0,
+      "diff_pct": -40.65
     },
     {
-      "ean": "7792799000899",
-      "nombre": "agua mineral nestle pureza vital x 500 ml. sin gas",
+      "ean": "7799155001385",
+      "nombre": "vds levite x500ml.pomelo",
       "categoria": "Bebidas",
-      "precio_antes": 1881.0,
-      "precio_hoy": 1039.0,
-      "diff_abs": -842.0,
-      "diff_pct": -44.76
+      "precio_antes": 2509.0,
+      "precio_hoy": 1489.0,
+      "diff_abs": -1020.0,
+      "diff_pct": -40.65
     },
     {
-      "ean": "7792799000035",
-      "nombre": "agua mineral eco de los andes x 500 ml. con gas",
+      "ean": "7790315100184",
+      "nombre": "levite x 500 ml cero manzana",
       "categoria": "Bebidas",
-      "precio_antes": 2200.0,
-      "precio_hoy": 1319.0,
-      "diff_abs": -881.0,
-      "diff_pct": -40.05
+      "precio_antes": 2509.0,
+      "precio_hoy": 1489.0,
+      "diff_abs": -1020.0,
+      "diff_pct": -40.65
     }
   ],
-  "productos_subieron_dia": 58,
-  "productos_bajaron_dia": 124,
-  "productos_sin_cambio_dia": 6309
+  "productos_subieron_dia": 157,
+  "productos_bajaron_dia": 363,
+  "productos_sin_cambio_dia": 5953
 }
