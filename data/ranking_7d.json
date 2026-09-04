@@ -1,5 +1,14 @@
 [
   {
+    "ean": "8445291996731",
+    "nombre": "avellanas con chocolate con leche nestle x 80 gm",
+    "categoria": "Almacen",
+    "precio_antes": 3091.0,
+    "precio_hoy": 6869.0,
+    "diff_abs": 3778.0,
+    "diff_pct": 122.23
+  },
+  {
     "ean": "7791540053207",
     "nombre": "frizze pomelata",
     "categoria": "Bebidas",
@@ -9,13 +18,40 @@
     "diff_pct": 86.47
   },
   {
-    "ean": "7797906054833",
-    "nombre": "papas fritas tipo crinkle mc cain x 600 gr.",
+    "ean": "7797906054826",
+    "nombre": "papas fritas mc cain clasicas x 700 gr.",
     "categoria": "Congelados",
-    "precio_antes": 5139.0,
-    "precio_hoy": 9068.0,
-    "diff_abs": 3929.0,
-    "diff_pct": 76.45
+    "precio_antes": 4829.0,
+    "precio_hoy": 8531.0,
+    "diff_abs": 3702.0,
+    "diff_pct": 76.66
+  },
+  {
+    "ean": "7797906054956",
+    "nombre": "papas congeladas mc cain smiles x 700 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 8089.0,
+    "precio_hoy": 14290.0,
+    "diff_abs": 6201.0,
+    "diff_pct": 76.66
+  },
+  {
+    "ean": "7797906054925",
+    "nombre": "papas noisette mc cain horneables x 600 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 6429.0,
+    "precio_hoy": 11342.0,
+    "diff_abs": 4913.0,
+    "diff_pct": 76.42
+  },
+  {
+    "ean": "2020710000006",
+    "nombre": "especias x paquete romero",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1490.0,
+    "precio_hoy": 2590.0,
+    "diff_abs": 1100.0,
+    "diff_pct": 73.83
   },
   {
     "ean": "7795513090640",
@@ -36,6 +72,15 @@
     "diff_pct": 54.26
   },
   {
+    "ean": "7790895003875",
+    "nombre": "agua mineral bonaqua x 1,5 ml. sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1619.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 871.0,
+    "diff_pct": 53.8
+  },
+  {
     "ean": "7790895003950",
     "nombre": "agua bonaqua x 1,5 lt. con gas",
     "categoria": "Bebidas",
@@ -45,13 +90,13 @@
     "diff_pct": 53.8
   },
   {
-    "ean": "7790895003875",
-    "nombre": "agua mineral bonaqua x 1,5 ml. sin gas",
+    "ean": "7792798002351",
+    "nombre": "cerveza patagonia amber lager x 750 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 1619.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 871.0,
-    "diff_pct": 53.8
+    "precio_antes": 4589.0,
+    "precio_hoy": 7056.0,
+    "diff_abs": 2467.0,
+    "diff_pct": 53.76
   },
   {
     "ean": "7792798002399",
@@ -72,24 +117,6 @@
     "diff_pct": 53.76
   },
   {
-    "ean": "7792798002351",
-    "nombre": "cerveza patagonia amber lager x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 4589.0,
-    "precio_hoy": 7056.0,
-    "diff_abs": 2467.0,
-    "diff_pct": 53.76
-  },
-  {
-    "ean": "7791728249385",
-    "nombre": "vino santa julia x 269 ml dulce",
-    "categoria": "Bebidas",
-    "precio_antes": 2149.0,
-    "precio_hoy": 3304.0,
-    "diff_abs": 1155.0,
-    "diff_pct": 53.75
-  },
-  {
     "ean": "7790895003882",
     "nombre": "agua mineral bonaqua sin gas x 2 lt.",
     "categoria": "Bebidas",
@@ -99,24 +126,6 @@
     "diff_pct": 53.73
   },
   {
-    "ean": "7791728239324",
-    "nombre": "vino tinto santa julia tintillo malbec-bonarda x .",
-    "categoria": "Bebidas",
-    "precio_antes": 2349.0,
-    "precio_hoy": 3608.0,
-    "diff_abs": 1259.0,
-    "diff_pct": 53.6
-  },
-  {
-    "ean": "7791728239331",
-    "nombre": "vino tinto santa julia dulce natural x 269 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2349.0,
-    "precio_hoy": 3608.0,
-    "diff_abs": 1259.0,
-    "diff_pct": 53.6
-  },
-  {
     "ean": "7790895008146",
     "nombre": "agua bonaqua x 2.5 lt. sin gas",
     "categoria": "Bebidas",
@@ -124,24 +133,6 @@
     "precio_hoy": 3140.0,
     "diff_abs": 1091.0,
     "diff_pct": 53.25
-  },
-  {
-    "ean": "2020730000000",
-    "nombre": "espinaca atado",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 50.51
-  },
-  {
-    "ean": "2038330000009",
-    "nombre": "rucula hidroponica x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 50.25
   },
   {
     "ean": "2021020000007",
@@ -162,8 +153,8 @@
     "diff_pct": 50.13
   },
   {
-    "ean": "7790315001061",
-    "nombre": "agua saborizada vds levite cero manzana x 1.5 lt.",
+    "ean": "7790315000934",
+    "nombre": "villa del sur levite cero x 1,5 lt. naranja",
     "categoria": "Bebidas",
     "precio_antes": 2369.0,
     "precio_hoy": 3535.0,
@@ -173,6 +164,15 @@
   {
     "ean": "7798062548709",
     "nombre": "agua saborizada vds levite manzana x 1.5 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2369.0,
+    "precio_hoy": 3535.0,
+    "diff_abs": 1166.0,
+    "diff_pct": 49.22
+  },
+  {
+    "ean": "7790315001061",
+    "nombre": "agua saborizada vds levite cero manzana x 1.5 lt.",
     "categoria": "Bebidas",
     "precio_antes": 2369.0,
     "precio_hoy": 3535.0,

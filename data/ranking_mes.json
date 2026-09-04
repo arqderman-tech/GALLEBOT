@@ -9,6 +9,33 @@
     "diff_pct": 133.78
   },
   {
+    "ean": "2022220000002",
+    "nombre": "tomate redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 133.78
+  },
+  {
+    "ean": "8445291996731",
+    "nombre": "avellanas con chocolate con leche nestle x 80 gm",
+    "categoria": "Almacen",
+    "precio_antes": 3091.0,
+    "precio_hoy": 6869.0,
+    "diff_abs": 3778.0,
+    "diff_pct": 122.23
+  },
+  {
+    "ean": "7891000248799",
+    "nombre": "chocolate kit kat x 41 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1499.0,
+    "precio_hoy": 3283.0,
+    "diff_abs": 1784.0,
+    "diff_pct": 119.01
+  },
+  {
     "ean": "2022130000000",
     "nombre": "tomate cherry x kg.",
     "categoria": "Frutas Y Verduras",
@@ -18,22 +45,31 @@
     "diff_pct": 116.86
   },
   {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4009.0,
-    "precio_hoy": 8390.0,
-    "diff_abs": 4381.0,
-    "diff_pct": 109.28
+    "ean": "7891000422052",
+    "nombre": "chocolate kit kat triple chocolate x 41,5 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1588.54,
+    "precio_hoy": 3283.0,
+    "diff_abs": 1694.46,
+    "diff_pct": 106.67
   },
   {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4009.0,
-    "precio_hoy": 8390.0,
-    "diff_abs": 4381.0,
-    "diff_pct": 109.28
+    "ean": "7891000379073",
+    "nombre": "chocolate kit-kat dark x 41,5 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1588.54,
+    "precio_hoy": 3283.0,
+    "diff_abs": 1694.46,
+    "diff_pct": 106.67
+  },
+  {
+    "ean": "7891000379028",
+    "nombre": "chocolate kit-kat white x 41,5 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1588.54,
+    "precio_hoy": 3283.0,
+    "diff_abs": 1694.46,
+    "diff_pct": 106.67
   },
   {
     "ean": "2021660000009",
@@ -63,24 +99,6 @@
     "diff_pct": 88.06
   },
   {
-    "ean": "7791337007260",
-    "nombre": "leche chocolatada cindor x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1609.0,
-    "precio_hoy": 3017.0,
-    "diff_abs": 1408.0,
-    "diff_pct": 87.51
-  },
-  {
-    "ean": "2022080000006",
-    "nombre": "rucula x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 1790.0,
-    "diff_abs": 800.0,
-    "diff_pct": 80.81
-  },
-  {
     "ean": "7794000007116",
     "nombre": "mayonesa hellmans liviana x 320 gr botellita",
     "categoria": "Almacen",
@@ -99,22 +117,13 @@
     "diff_pct": 76.06
   },
   {
-    "ean": "2022220000002",
-    "nombre": "tomate redondo x kg.",
+    "ean": "2020710000006",
+    "nombre": "especias x paquete romero",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 75.19
-  },
-  {
-    "ean": "2020160000007",
-    "nombre": "brocoli x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 11990.0,
-    "diff_abs": 5000.0,
-    "diff_pct": 71.53
+    "precio_antes": 1490.0,
+    "precio_hoy": 2590.0,
+    "diff_abs": 1100.0,
+    "diff_pct": 73.83
   },
   {
     "ean": "7790070337092",
@@ -126,15 +135,6 @@
     "diff_pct": 67.66
   },
   {
-    "ean": "2020730000000",
-    "nombre": "espinaca atado",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 890.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 600.0,
-    "diff_pct": 67.42
-  },
-  {
     "ean": "7790070761071",
     "nombre": "espumante nieto senetiner x 750 ml grand cuvee extra brut",
     "categoria": "Bebidas",
@@ -142,24 +142,6 @@
     "precio_hoy": 20143.0,
     "diff_abs": 7834.0,
     "diff_pct": 63.64
-  },
-  {
-    "ean": "7797906054819",
-    "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 9939.01,
-    "precio_hoy": 16208.0,
-    "diff_abs": 6268.99,
-    "diff_pct": 63.07
-  },
-  {
-    "ean": "2020410000009",
-    "nombre": "choclo elegido x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 60.12
   },
   {
     "ean": "2021320000004",
@@ -178,5 +160,23 @@
     "precio_hoy": 7990.0,
     "diff_abs": 3000.0,
     "diff_pct": 60.12
+  },
+  {
+    "ean": "2020410000009",
+    "nombre": "choclo elegido x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 60.12
+  },
+  {
+    "ean": "7790070433091",
+    "nombre": "arroz gallo oro x1kg.parb.est.",
+    "categoria": "Almacen",
+    "precio_antes": 2879.0,
+    "precio_hoy": 4523.0,
+    "diff_abs": 1644.0,
+    "diff_pct": 57.1
   }
 ]

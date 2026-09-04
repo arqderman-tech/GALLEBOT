@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7795513090640",
-    "nombre": "palto postre cuadrado blanco roswell",
-    "categoria": "Limpieza",
-    "precio_antes": 1313.72,
-    "precio_hoy": 2233.0,
-    "diff_abs": 919.28,
-    "diff_pct": 69.98
+    "ean": "8445291996731",
+    "nombre": "avellanas con chocolate con leche nestle x 80 gm",
+    "categoria": "Almacen",
+    "precio_antes": 3091.0,
+    "precio_hoy": 6869.0,
+    "diff_abs": 3778.0,
+    "diff_pct": 122.23
   },
   {
-    "ean": "7797906054826",
-    "nombre": "papas fritas mc cain clasicas x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 5118.76,
-    "precio_hoy": 8531.0,
-    "diff_abs": 3412.24,
-    "diff_pct": 66.66
+    "ean": "8445291857957",
+    "nombre": "cafe instantaneo nescafe dolca x 30 sobres",
+    "categoria": "Perfumeria",
+    "precio_antes": 5299.0,
+    "precio_hoy": 7571.0,
+    "diff_abs": 2272.0,
+    "diff_pct": 42.88
   },
   {
-    "ean": "7797906054956",
-    "nombre": "papas congeladas mc cain smiles x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 8574.32,
-    "precio_hoy": 14290.0,
-    "diff_abs": 5715.68,
-    "diff_pct": 66.66
+    "ean": "8445291311558",
+    "nombre": "cafe instantaneo nescafe dolca x 100 gm suave doy pack",
+    "categoria": "Perfumeria",
+    "precio_antes": 5087.0,
+    "precio_hoy": 7268.0,
+    "diff_abs": 2181.0,
+    "diff_pct": 42.87
   },
   {
-    "ean": "7797906054925",
-    "nombre": "papas noisette mc cain horneables x 600 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 6814.76,
-    "precio_hoy": 11342.0,
-    "diff_abs": 4527.24,
-    "diff_pct": 66.43
+    "ean": "8445290270184",
+    "nombre": "cereal frutal trix x 230 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4675.0,
+    "precio_hoy": 6679.0,
+    "diff_abs": 2004.0,
+    "diff_pct": 42.87
   },
   {
-    "ean": "7790670053040",
-    "nombre": "medallones de carne barfy x 276 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 3239.0,
-    "precio_hoy": 4622.0,
-    "diff_abs": 1383.0,
-    "diff_pct": 42.7
+    "ean": "8445291082212",
+    "nombre": "cafe instantaneo nescafe dolca frasco x 170 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 10569.0,
+    "precio_hoy": 15099.0,
+    "diff_abs": 4530.0,
+    "diff_pct": 42.86
   },
   {
-    "ean": "7790670052678",
-    "nombre": "hamburguesas paty de casa x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 5249.0,
-    "precio_hoy": 7252.0,
+    "ean": "8445291082113",
+    "nombre": "cafe instantaneo nescafe dolca suave frasco x 100",
+    "categoria": "Perfumeria",
+    "precio_antes": 7072.0,
+    "precio_hoy": 10103.0,
+    "diff_abs": 3031.0,
+    "diff_pct": 42.86
+  },
+  {
+    "ean": "8445291082199",
+    "nombre": "cafe instantaneo nescafe dolca x 100 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 7072.0,
+    "precio_hoy": 10103.0,
+    "diff_abs": 3031.0,
+    "diff_pct": 42.86
+  },
+  {
+    "ean": "8445291082137",
+    "nombre": "cafe nescafe dolca suave x 170 gm frasco",
+    "categoria": "Perfumeria",
+    "precio_antes": 10569.0,
+    "precio_hoy": 15099.0,
+    "diff_abs": 4530.0,
+    "diff_pct": 42.86
+  },
+  {
+    "ean": "7891000360552",
+    "nombre": "cereal nesquik x400gr.matinal",
+    "categoria": "Perfumeria",
+    "precio_antes": 8078.0,
+    "precio_hoy": 11540.0,
+    "diff_abs": 3462.0,
+    "diff_pct": 42.86
+  },
+  {
+    "ean": "7613034155030",
+    "nombre": "cereal trix x 330",
+    "categoria": "Perfumeria",
+    "precio_antes": 5714.0,
+    "precio_hoy": 8163.0,
+    "diff_abs": 2449.0,
+    "diff_pct": 42.86
+  },
+  {
+    "ean": "8445292737906",
+    "nombre": "nescafe dolca doy pack x 160 gm original",
+    "categoria": "Perfumeria",
+    "precio_antes": 9430.0,
+    "precio_hoy": 13471.0,
+    "diff_abs": 4041.0,
+    "diff_pct": 42.85
+  },
+  {
+    "ean": "8445292738187",
+    "nombre": "nescafe dolca x 160 gm suave doy pack",
+    "categoria": "Perfumeria",
+    "precio_antes": 9430.0,
+    "precio_hoy": 13471.0,
+    "diff_abs": 4041.0,
+    "diff_pct": 42.85
+  },
+  {
+    "ean": "7891000445174",
+    "nombre": "cereal nesquik x 210 gm duo",
+    "categoria": "Perfumeria",
+    "precio_antes": 4676.0,
+    "precio_hoy": 6679.0,
     "diff_abs": 2003.0,
-    "diff_pct": 38.16
+    "diff_pct": 42.84
   },
   {
-    "ean": "7794820004159",
-    "nombre": "leche chocolatada milkaut x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1099.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 391.0,
-    "diff_pct": 35.58
+    "ean": "7891000337271",
+    "nombre": "cereal nesquik x 210 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4676.0,
+    "precio_hoy": 6679.0,
+    "diff_abs": 2003.0,
+    "diff_pct": 42.84
   },
   {
-    "ean": "7790670051312",
-    "nombre": "hamburguesas paty con queso provolone x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 5239.0,
-    "precio_hoy": 6780.0,
-    "diff_abs": 1541.0,
-    "diff_pct": 29.41
+    "ean": "8445291082175",
+    "nombre": "cafe instantaneo nescafe dolca original x 50 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4571.0,
+    "precio_hoy": 6529.0,
+    "diff_abs": 1958.0,
+    "diff_pct": 42.84
   },
   {
-    "ean": "7790670051329",
-    "nombre": "hamburguesas paty con cebolla x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 5009.0,
-    "precio_hoy": 6479.0,
-    "diff_abs": 1470.0,
-    "diff_pct": 29.35
+    "ean": "8445291081895",
+    "nombre": "cafe instantaneo nescafe dolca suave x 50 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4571.0,
+    "precio_hoy": 6529.0,
+    "diff_abs": 1958.0,
+    "diff_pct": 42.84
   },
   {
-    "ean": "7790670051336",
-    "nombre": "hamburguesas paty con morron asado x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 5009.0,
-    "precio_hoy": 6479.0,
-    "diff_abs": 1470.0,
-    "diff_pct": 29.35
+    "ean": "7891000359983",
+    "nombre": "chocolate kit kat x 41.5 gr cappuccino",
+    "categoria": "Almacen",
+    "precio_antes": 2363.77,
+    "precio_hoy": 3283.0,
+    "diff_abs": 919.23,
+    "diff_pct": 38.89
   },
   {
-    "ean": "7790670052395",
-    "nombre": "salchichas patyviena x 12 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4289.0,
-    "precio_hoy": 5548.0,
-    "diff_abs": 1259.0,
-    "diff_pct": 29.35
+    "ean": "7891000422052",
+    "nombre": "chocolate kit kat triple chocolate x 41,5 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2364.0,
+    "precio_hoy": 3283.0,
+    "diff_abs": 919.0,
+    "diff_pct": 38.87
   },
   {
-    "ean": "7795722025006",
-    "nombre": "pisa papas fundicion jovifel",
-    "categoria": "Limpieza",
-    "precio_antes": 7140.0,
-    "precio_hoy": 8288.0,
-    "diff_abs": 1148.0,
-    "diff_pct": 16.08
+    "ean": "7891000248799",
+    "nombre": "chocolate kit kat x 41 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2364.0,
+    "precio_hoy": 3283.0,
+    "diff_abs": 919.0,
+    "diff_pct": 38.87
   },
   {
-    "ean": "7790670050612",
-    "nombre": "hamburguesas paty grandes x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 6569.0,
-    "precio_hoy": 7559.0,
-    "diff_abs": 990.0,
-    "diff_pct": 15.07
-  },
-  {
-    "ean": "8560117",
-    "nombre": "funda para lavarropas carga superiror 60 x 60",
-    "categoria": "Limpieza",
-    "precio_antes": 13073.1,
-    "precio_hoy": 14964.0,
-    "diff_abs": 1890.9,
-    "diff_pct": 14.46
-  },
-  {
-    "ean": "8560063",
-    "nombre": "funda para lavarropas frontal  60 x 60",
-    "categoria": "Limpieza",
-    "precio_antes": 13073.0,
-    "precio_hoy": 14964.0,
-    "diff_abs": 1891.0,
-    "diff_pct": 14.46
-  },
-  {
-    "ean": "7790670050728",
-    "nombre": "hamburguesas paty x 2 unid. finitas",
-    "categoria": "Congelados",
-    "precio_antes": 2439.0,
-    "precio_hoy": 2789.0,
-    "diff_abs": 350.0,
-    "diff_pct": 14.35
-  },
-  {
-    "ean": "7790670052524",
-    "nombre": "medallon good mark tradicional x 4",
-    "categoria": "Congelados",
-    "precio_antes": 7419.0,
-    "precio_hoy": 8439.0,
-    "diff_abs": 1020.0,
-    "diff_pct": 13.75
-  },
-  {
-    "ean": "7790670045465",
-    "nombre": "medallones de carne patynesa x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 5069.0,
-    "precio_hoy": 5762.0,
-    "diff_abs": 693.0,
-    "diff_pct": 13.67
-  },
-  {
-    "ean": "7791337008106",
-    "nombre": "postre danette copa x100gr.ddl",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2635.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 355.0,
-    "diff_pct": 13.47
-  },
-  {
-    "ean": "7891515586720",
-    "nombre": "alitas de pollo sadia drumette x 400 gm rebozadas",
-    "categoria": "Congelados",
-    "precio_antes": 8689.0,
-    "precio_hoy": 9836.0,
-    "diff_abs": 1147.0,
-    "diff_pct": 13.2
+    "ean": "7891000379073",
+    "nombre": "chocolate kit-kat dark x 41,5 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2364.0,
+    "precio_hoy": 3283.0,
+    "diff_abs": 919.0,
+    "diff_pct": 38.87
   }
 ]
