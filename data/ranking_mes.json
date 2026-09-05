@@ -1,14 +1,5 @@
 [
   {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 133.78
-  },
-  {
     "ean": "2022220000002",
     "nombre": "tomate redondo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -25,6 +16,33 @@
     "precio_hoy": 6869.0,
     "diff_abs": 3778.0,
     "diff_pct": 122.23
+  },
+  {
+    "ean": "2700004164484",
+    "nombre": "calza retro off",
+    "categoria": "Limpieza",
+    "precio_antes": 10324.82,
+    "precio_hoy": 22944.0,
+    "diff_abs": 12619.18,
+    "diff_pct": 122.22
+  },
+  {
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3809.0,
+    "precio_hoy": 8390.0,
+    "diff_abs": 4581.0,
+    "diff_pct": 120.27
+  },
+  {
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3809.0,
+    "precio_hoy": 8390.0,
+    "diff_abs": 4581.0,
+    "diff_pct": 120.27
   },
   {
     "ean": "7891000248799",
@@ -45,6 +63,15 @@
     "diff_pct": 116.86
   },
   {
+    "ean": "7891000379028",
+    "nombre": "chocolate kit-kat white x 41,5 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1588.54,
+    "precio_hoy": 3283.0,
+    "diff_abs": 1694.46,
+    "diff_pct": 106.67
+  },
+  {
     "ean": "7891000422052",
     "nombre": "chocolate kit kat triple chocolate x 41,5 gr.",
     "categoria": "Almacen",
@@ -63,17 +90,17 @@
     "diff_pct": 106.67
   },
   {
-    "ean": "7891000379028",
-    "nombre": "chocolate kit-kat white x 41,5 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1588.54,
-    "precio_hoy": 3283.0,
-    "diff_abs": 1694.46,
-    "diff_pct": 106.67
-  },
-  {
     "ean": "2021660000009",
     "nombre": "zapallito redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 100.33
+  },
+  {
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 5990.0,
@@ -99,6 +126,15 @@
     "diff_pct": 88.06
   },
   {
+    "ean": "7791337007260",
+    "nombre": "leche chocolatada cindor x 200 ml.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1609.0,
+    "precio_hoy": 3017.0,
+    "diff_abs": 1408.0,
+    "diff_pct": 87.51
+  },
+  {
     "ean": "7794000007116",
     "nombre": "mayonesa hellmans liviana x 320 gr botellita",
     "categoria": "Almacen",
@@ -106,6 +142,15 @@
     "precio_hoy": 3744.0,
     "diff_abs": 1634.0,
     "diff_pct": 77.44
+  },
+  {
+    "ean": "7797906054864",
+    "nombre": "papas mc cain horneables tradicional x 700 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 6139.0,
+    "precio_hoy": 10844.0,
+    "diff_abs": 4705.0,
+    "diff_pct": 76.64
   },
   {
     "ean": "7790787960620",
@@ -117,6 +162,15 @@
     "diff_pct": 76.06
   },
   {
+    "ean": "7790070337092",
+    "nombre": "fideos mostachol al huevo lucchetti x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1339.0,
+    "precio_hoy": 2347.0,
+    "diff_abs": 1008.0,
+    "diff_pct": 75.28
+  },
+  {
     "ean": "2020710000006",
     "nombre": "especias x paquete romero",
     "categoria": "Frutas Y Verduras",
@@ -124,59 +178,5 @@
     "precio_hoy": 2590.0,
     "diff_abs": 1100.0,
     "diff_pct": 73.83
-  },
-  {
-    "ean": "7790070337092",
-    "nombre": "fideos mostachol al huevo lucchetti x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1339.0,
-    "precio_hoy": 2245.0,
-    "diff_abs": 906.0,
-    "diff_pct": 67.66
-  },
-  {
-    "ean": "7790070761071",
-    "nombre": "espumante nieto senetiner x 750 ml grand cuvee extra brut",
-    "categoria": "Bebidas",
-    "precio_antes": 12309.0,
-    "precio_hoy": 20143.0,
-    "diff_abs": 7834.0,
-    "diff_pct": 63.64
-  },
-  {
-    "ean": "2021320000004",
-    "nombre": "melon rocio de miel x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 60.12
-  },
-  {
-    "ean": "2027850000002",
-    "nombre": "ajies de colores x kilo",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 60.12
-  },
-  {
-    "ean": "2020410000009",
-    "nombre": "choclo elegido x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 60.12
-  },
-  {
-    "ean": "7790070433091",
-    "nombre": "arroz gallo oro x1kg.parb.est.",
-    "categoria": "Almacen",
-    "precio_antes": 2879.0,
-    "precio_hoy": 4523.0,
-    "diff_abs": 1644.0,
-    "diff_pct": 57.1
   }
 ]

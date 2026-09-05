@@ -1,182 +1,182 @@
 [
   {
-    "ean": "8445291996731",
-    "nombre": "avellanas con chocolate con leche nestle x 80 gm",
+    "ean": "7797844041018",
+    "nombre": "body polera 15",
+    "categoria": "Limpieza",
+    "precio_antes": 11282.65,
+    "precio_hoy": 31193.0,
+    "diff_abs": 19910.35,
+    "diff_pct": 176.47
+  },
+  {
+    "ean": "2700004164484",
+    "nombre": "calza retro off",
+    "categoria": "Limpieza",
+    "precio_antes": 10324.82,
+    "precio_hoy": 22944.0,
+    "diff_abs": 12619.18,
+    "diff_pct": 122.22
+  },
+  {
+    "ean": "2700004166570",
+    "nombre": "campera stitch del talle 6 al 16",
+    "categoria": "Limpieza",
+    "precio_antes": 41119.43,
+    "precio_hoy": 68936.0,
+    "diff_abs": 27816.57,
+    "diff_pct": 67.65
+  },
+  {
+    "ean": "2700007021241",
+    "nombre": "campera con capucha talles 2 al 5",
+    "categoria": "Limpieza",
+    "precio_antes": 41615.72,
+    "precio_hoy": 68250.0,
+    "diff_abs": 26634.28,
+    "diff_pct": 64.0
+  },
+  {
+    "ean": "2700004133701",
+    "nombre": "campera corderito 23",
+    "categoria": "Limpieza",
+    "precio_antes": 23773.14,
+    "precio_hoy": 38988.0,
+    "diff_abs": 15214.86,
+    "diff_pct": 64.0
+  },
+  {
+    "ean": "2700004164422",
+    "nombre": "bagui corderoy",
+    "categoria": "Limpieza",
+    "precio_antes": 20587.55,
+    "precio_hoy": 32025.0,
+    "diff_abs": 11437.45,
+    "diff_pct": 55.56
+  },
+  {
+    "ean": "7790070417282",
+    "nombre": "bizc.favorita x450gr.vainilla",
     "categoria": "Almacen",
-    "precio_antes": 3091.0,
-    "precio_hoy": 6869.0,
-    "diff_abs": 3778.0,
-    "diff_pct": 122.23
+    "precio_antes": 1548.0,
+    "precio_hoy": 2349.0,
+    "diff_abs": 801.0,
+    "diff_pct": 51.74
   },
   {
-    "ean": "8445291857957",
-    "nombre": "cafe instantaneo nescafe dolca x 30 sobres",
-    "categoria": "Perfumeria",
-    "precio_antes": 5299.0,
-    "precio_hoy": 7571.0,
-    "diff_abs": 2272.0,
-    "diff_pct": 42.88
+    "ean": "2700004138553",
+    "nombre": "palazzo 2 bolsillos elastizado 16",
+    "categoria": "Limpieza",
+    "precio_antes": 21159.43,
+    "precio_hoy": 32025.0,
+    "diff_abs": 10865.57,
+    "diff_pct": 51.35
   },
   {
-    "ean": "8445291311558",
-    "nombre": "cafe instantaneo nescafe dolca x 100 gm suave doy pack",
-    "categoria": "Perfumeria",
-    "precio_antes": 5087.0,
-    "precio_hoy": 7268.0,
-    "diff_abs": 2181.0,
-    "diff_pct": 42.87
+    "ean": "2700004166471",
+    "nombre": "campera talle s al 2xl",
+    "categoria": "Limpieza",
+    "precio_antes": 44747.62,
+    "precio_hoy": 67726.0,
+    "diff_abs": 22978.38,
+    "diff_pct": 51.35
   },
   {
-    "ean": "8445290270184",
-    "nombre": "cereal frutal trix x 230 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4675.0,
-    "precio_hoy": 6679.0,
-    "diff_abs": 2004.0,
-    "diff_pct": 42.87
-  },
-  {
-    "ean": "8445291082212",
-    "nombre": "cafe instantaneo nescafe dolca frasco x 170 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 10569.0,
-    "precio_hoy": 15099.0,
-    "diff_abs": 4530.0,
-    "diff_pct": 42.86
-  },
-  {
-    "ean": "8445291082113",
-    "nombre": "cafe instantaneo nescafe dolca suave frasco x 100",
-    "categoria": "Perfumeria",
-    "precio_antes": 7072.0,
-    "precio_hoy": 10103.0,
-    "diff_abs": 3031.0,
-    "diff_pct": 42.86
-  },
-  {
-    "ean": "8445291082199",
-    "nombre": "cafe instantaneo nescafe dolca x 100 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 7072.0,
-    "precio_hoy": 10103.0,
-    "diff_abs": 3031.0,
-    "diff_pct": 42.86
-  },
-  {
-    "ean": "8445291082137",
-    "nombre": "cafe nescafe dolca suave x 170 gm frasco",
-    "categoria": "Perfumeria",
-    "precio_antes": 10569.0,
-    "precio_hoy": 15099.0,
-    "diff_abs": 4530.0,
-    "diff_pct": 42.86
-  },
-  {
-    "ean": "7891000360552",
-    "nombre": "cereal nesquik x400gr.matinal",
-    "categoria": "Perfumeria",
-    "precio_antes": 8078.0,
-    "precio_hoy": 11540.0,
-    "diff_abs": 3462.0,
-    "diff_pct": 42.86
-  },
-  {
-    "ean": "7613034155030",
-    "nombre": "cereal trix x 330",
-    "categoria": "Perfumeria",
-    "precio_antes": 5714.0,
-    "precio_hoy": 8163.0,
-    "diff_abs": 2449.0,
-    "diff_pct": 42.86
-  },
-  {
-    "ean": "8445292737906",
-    "nombre": "nescafe dolca doy pack x 160 gm original",
-    "categoria": "Perfumeria",
-    "precio_antes": 9430.0,
-    "precio_hoy": 13471.0,
-    "diff_abs": 4041.0,
-    "diff_pct": 42.85
-  },
-  {
-    "ean": "8445292738187",
-    "nombre": "nescafe dolca x 160 gm suave doy pack",
-    "categoria": "Perfumeria",
-    "precio_antes": 9430.0,
-    "precio_hoy": 13471.0,
-    "diff_abs": 4041.0,
-    "diff_pct": 42.85
-  },
-  {
-    "ean": "7891000445174",
-    "nombre": "cereal nesquik x 210 gm duo",
-    "categoria": "Perfumeria",
-    "precio_antes": 4676.0,
-    "precio_hoy": 6679.0,
-    "diff_abs": 2003.0,
-    "diff_pct": 42.84
-  },
-  {
-    "ean": "7891000337271",
-    "nombre": "cereal nesquik x 210 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4676.0,
-    "precio_hoy": 6679.0,
-    "diff_abs": 2003.0,
-    "diff_pct": 42.84
-  },
-  {
-    "ean": "8445291082175",
-    "nombre": "cafe instantaneo nescafe dolca original x 50 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4571.0,
-    "precio_hoy": 6529.0,
-    "diff_abs": 1958.0,
-    "diff_pct": 42.84
-  },
-  {
-    "ean": "8445291081895",
-    "nombre": "cafe instantaneo nescafe dolca suave x 50 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4571.0,
-    "precio_hoy": 6529.0,
-    "diff_abs": 1958.0,
-    "diff_pct": 42.84
-  },
-  {
-    "ean": "7891000359983",
-    "nombre": "chocolate kit kat x 41.5 gr cappuccino",
+    "ean": "7790070417299",
+    "nombre": "polvo pbizcochuelo favorita x 450 gr. chocolate",
     "categoria": "Almacen",
-    "precio_antes": 2363.77,
-    "precio_hoy": 3283.0,
-    "diff_abs": 919.23,
-    "diff_pct": 38.89
+    "precio_antes": 1989.0,
+    "precio_hoy": 2720.0,
+    "diff_abs": 731.0,
+    "diff_pct": 36.75
   },
   {
-    "ean": "7891000422052",
-    "nombre": "chocolate kit kat triple chocolate x 41,5 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2364.0,
-    "precio_hoy": 3283.0,
-    "diff_abs": 919.0,
-    "diff_pct": 38.87
+    "ean": "2700004167720",
+    "nombre": "buzo frizza con capucha 656",
+    "categoria": "Limpieza",
+    "precio_antes": 17946.0,
+    "precio_hoy": 24251.0,
+    "diff_abs": 6305.0,
+    "diff_pct": 35.13
   },
   {
-    "ean": "7891000248799",
-    "nombre": "chocolate kit kat x 41 gr.",
+    "ean": "7790070431462",
+    "nombre": "arroz lucchetti doble carolina x 1 kg.",
     "categoria": "Almacen",
-    "precio_antes": 2364.0,
-    "precio_hoy": 3283.0,
-    "diff_abs": 919.0,
-    "diff_pct": 38.87
+    "precio_antes": 3269.0,
+    "precio_hoy": 4351.0,
+    "diff_abs": 1082.0,
+    "diff_pct": 33.1
   },
   {
-    "ean": "7891000379073",
-    "nombre": "chocolate kit-kat dark x 41,5 gr.",
+    "ean": "7790070509079",
+    "nombre": "yerba mate cruz de malta manzanilla x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2324.0,
+    "precio_hoy": 3052.0,
+    "diff_abs": 728.0,
+    "diff_pct": 31.33
+  },
+  {
+    "ean": "7790070431479",
+    "nombre": "arroz lucchetti integral x 1 kg.",
     "categoria": "Almacen",
-    "precio_antes": 2364.0,
-    "precio_hoy": 3283.0,
-    "diff_abs": 919.0,
-    "diff_pct": 38.87
+    "precio_antes": 2207.0,
+    "precio_hoy": 2875.0,
+    "diff_abs": 668.0,
+    "diff_pct": 30.27
+  },
+  {
+    "ean": "7790070431516",
+    "nombre": "arroz lucchetti parb.sel.x500g",
+    "categoria": "Almacen",
+    "precio_antes": 1309.0,
+    "precio_hoy": 1702.0,
+    "diff_abs": 393.0,
+    "diff_pct": 30.02
+  },
+  {
+    "ean": "7790070431486",
+    "nombre": "arroz lucchetti x1kg.l.fino",
+    "categoria": "Almacen",
+    "precio_antes": 2193.0,
+    "precio_hoy": 2849.0,
+    "diff_abs": 656.0,
+    "diff_pct": 29.91
+  },
+  {
+    "ean": "7790070431509",
+    "nombre": "arroz lucchetti parb.sel.bol1k",
+    "categoria": "Almacen",
+    "precio_antes": 2483.0,
+    "precio_hoy": 3225.0,
+    "diff_abs": 742.0,
+    "diff_pct": 29.88
+  },
+  {
+    "ean": "7790070431493",
+    "nombre": "arroz lucchetti x500gr.l.fino",
+    "categoria": "Almacen",
+    "precio_antes": 1188.0,
+    "precio_hoy": 1543.0,
+    "diff_abs": 355.0,
+    "diff_pct": 29.88
+  },
+  {
+    "ean": "7790070562128",
+    "nombre": "premezcla ppizza lucchetti x 850 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3047.0,
+    "precio_hoy": 3873.0,
+    "diff_abs": 826.0,
+    "diff_pct": 27.11
+  },
+  {
+    "ean": "7790070318350",
+    "nombre": "fideos lucchetti x 500 gr. monos",
+    "categoria": "Almacen",
+    "precio_antes": 2496.0,
+    "precio_hoy": 2994.0,
+    "diff_abs": 498.0,
+    "diff_pct": 19.95
   }
 ]

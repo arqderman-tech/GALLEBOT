@@ -1,147 +1,147 @@
 {
-  "fecha": "20260904",
-  "total_productos": 6459,
-  "variacion_dia": -0.12,
-  "variacion_7d": 0.68,
-  "variacion_mes": 1.64,
+  "fecha": "20260905",
+  "total_productos": 6500,
+  "variacion_dia": 0.35,
+  "variacion_7d": 1.0,
+  "variacion_mes": 2.51,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.39,
-      "productos_subieron": 2,
-      "productos_bajaron": 27,
-      "total_productos": 1473
+      "variacion_pct_promedio": 0.15,
+      "productos_subieron": 54,
+      "productos_bajaron": 11,
+      "total_productos": 1478
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.25,
-      "productos_subieron": 27,
-      "productos_bajaron": 46,
-      "total_productos": 1131
+      "variacion_pct_promedio": 0.03,
+      "productos_subieron": 24,
+      "productos_bajaron": 4,
+      "total_productos": 1132
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -0.18,
-      "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "total_productos": 240
+      "variacion_pct_promedio": -0.02,
+      "productos_subieron": 11,
+      "productos_bajaron": 15,
+      "total_productos": 238
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.89,
+      "productos_subieron": 9,
       "productos_bajaron": 0,
-      "total_productos": 780
+      "total_productos": 774
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.91,
-      "productos_subieron": 88,
-      "productos_bajaron": 63,
-      "total_productos": 920
+      "variacion_pct_promedio": 0.33,
+      "productos_subieron": 47,
+      "productos_bajaron": 3,
+      "total_productos": 921
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.39,
-      "productos_subieron": 56,
-      "productos_bajaron": 124,
-      "total_productos": 1888
+      "variacion_pct_promedio": 0.53,
+      "productos_subieron": 153,
+      "productos_bajaron": 33,
+      "total_productos": 1899
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2038340000006",
-      "nombre": "espinaca hidroponica x paquete",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 1790.0,
-      "diff_abs": -1200.0,
-      "diff_pct": -40.13
-    },
-    {
-      "ean": "7797906054819",
-      "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
+      "ean": "7790070103901",
+      "nombre": "relleno fajitas granja del sol x 500 gr vegetales",
       "categoria": "Congelados",
-      "precio_antes": 16208.0,
-      "precio_hoy": 9939.0,
-      "diff_abs": -6269.0,
-      "diff_pct": -38.68
+      "precio_antes": 10647.92,
+      "precio_hoy": 7976.74,
+      "diff_abs": -2671.18,
+      "diff_pct": -25.09
     },
     {
-      "ean": "7793360132414",
-      "nombre": "choclo entero en granos la campagnola x 300 gr.",
+      "ean": "2020160000007",
+      "nombre": "brocoli x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 9990.0,
+      "precio_hoy": 7990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -20.02
+    },
+    {
+      "ean": "2020750000004",
+      "nombre": "frutillas x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 11990.0,
+      "precio_hoy": 9990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -16.68
+    },
+    {
+      "ean": "7792180134509",
+      "nombre": "harina para pizza blancaflor x 1 kg.",
       "categoria": "Almacen",
-      "precio_antes": 2287.0,
-      "precio_hoy": 1459.0,
-      "diff_abs": -828.0,
-      "diff_pct": -36.2
+      "precio_antes": 2069.0,
+      "precio_hoy": 1761.52,
+      "diff_abs": -307.48,
+      "diff_pct": -14.86
     },
     {
-      "ean": "7790580140434",
-      "nombre": "caramelos mogul extreme tubitos frutilla x 70 gr.",
+      "ean": "7790070231956",
+      "nombre": "aceto balsamico lira reduccion x 250 ml.",
       "categoria": "Almacen",
-      "precio_antes": 1873.0,
-      "precio_hoy": 1279.0,
-      "diff_abs": -594.0,
-      "diff_pct": -31.71
+      "precio_antes": 3309.0,
+      "precio_hoy": 2826.16,
+      "diff_abs": -482.84,
+      "diff_pct": -14.59
     },
     {
-      "ean": "7790580141660",
-      "nombre": "caram.mogul x70g.tubito tut.fr",
+      "ean": "7790070231963",
+      "nombre": "aceto balsamico lira reduccion x 500 ml.",
       "categoria": "Almacen",
-      "precio_antes": 1873.0,
-      "precio_hoy": 1279.0,
-      "diff_abs": -594.0,
-      "diff_pct": -31.71
+      "precio_antes": 5859.0,
+      "precio_hoy": 5004.76,
+      "diff_abs": -854.24,
+      "diff_pct": -14.58
     },
     {
-      "ean": "7790580056001",
-      "nombre": "caramelos sugus masticables confitados x 50gr.",
+      "ean": "2021650000002",
+      "nombre": "zapallito largo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -14.31
+    },
+    {
+      "ean": "7790070335982",
+      "nombre": "fideos matarazzo libres de gluten x500gr tirabuzon",
       "categoria": "Almacen",
-      "precio_antes": 1948.0,
-      "precio_hoy": 1339.0,
-      "diff_abs": -609.0,
-      "diff_pct": -31.26
+      "precio_antes": 3789.0,
+      "precio_hoy": 3280.83,
+      "diff_abs": -508.17,
+      "diff_pct": -13.41
     },
     {
-      "ean": "7790580116880",
-      "nombre": "caramelos mogul masti splash x 30 gr sabor uvaanana",
+      "ean": "7790070336224",
+      "nombre": "fideos matarazo stacc mix de legumbres x500gr tirabuzon",
       "categoria": "Almacen",
-      "precio_antes": 1394.3,
-      "precio_hoy": 959.0,
-      "diff_abs": -435.3,
-      "diff_pct": -31.22
+      "precio_antes": 3919.0,
+      "precio_hoy": 3393.41,
+      "diff_abs": -525.59,
+      "diff_pct": -13.41
     },
     {
-      "ean": "7790580116873",
-      "nombre": "caramelos mogul masti extreme splash x 30 gr frutilla limon",
+      "ean": "7790070335999",
+      "nombre": "fideos matarazzo libres de gluten x 500 gr penne rigate",
       "categoria": "Almacen",
-      "precio_antes": 1394.3,
-      "precio_hoy": 959.0,
-      "diff_abs": -435.3,
-      "diff_pct": -31.22
-    },
-    {
-      "ean": "7793147572853",
-      "nombre": "cerveza amstel lata x 710 ml lager",
-      "categoria": "Bebidas",
-      "precio_antes": 3925.0,
-      "precio_hoy": 2709.0,
-      "diff_abs": -1216.0,
-      "diff_pct": -30.98
-    },
-    {
-      "ean": "7798062547559",
-      "nombre": "agua mineral sin gas villa del sur x 2,25 lt.",
-      "categoria": "Bebidas",
-      "precio_antes": 2909.0,
-      "precio_hoy": 2009.0,
-      "diff_abs": -900.0,
-      "diff_pct": -30.94
+      "precio_antes": 3789.0,
+      "precio_hoy": 3280.83,
+      "diff_abs": -508.17,
+      "diff_pct": -13.41
     }
   ],
-  "productos_subieron_dia": 173,
-  "productos_bajaron_dia": 262,
-  "productos_sin_cambio_dia": 5997
+  "productos_subieron_dia": 298,
+  "productos_bajaron_dia": 66,
+  "productos_sin_cambio_dia": 6078
 }
