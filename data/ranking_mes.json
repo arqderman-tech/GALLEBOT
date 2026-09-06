@@ -1,5 +1,14 @@
 [
   {
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 3500.0,
+    "diff_pct": 140.56
+  },
+  {
     "ean": "2022220000002",
     "nombre": "tomate redondo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -72,15 +81,6 @@
     "diff_pct": 106.67
   },
   {
-    "ean": "7891000422052",
-    "nombre": "chocolate kit kat triple chocolate x 41,5 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1588.54,
-    "precio_hoy": 3283.0,
-    "diff_abs": 1694.46,
-    "diff_pct": 106.67
-  },
-  {
     "ean": "7891000379073",
     "nombre": "chocolate kit-kat dark x 41,5 gr.",
     "categoria": "Almacen",
@@ -90,13 +90,13 @@
     "diff_pct": 106.67
   },
   {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 100.33
+    "ean": "7891000422052",
+    "nombre": "chocolate kit kat triple chocolate x 41,5 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1588.54,
+    "precio_hoy": 3283.0,
+    "diff_abs": 1694.46,
+    "diff_pct": 106.67
   },
   {
     "ean": "2021650000002",
@@ -162,15 +162,6 @@
     "diff_pct": 76.06
   },
   {
-    "ean": "7790070337092",
-    "nombre": "fideos mostachol al huevo lucchetti x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1339.0,
-    "precio_hoy": 2347.0,
-    "diff_abs": 1008.0,
-    "diff_pct": 75.28
-  },
-  {
     "ean": "2020710000006",
     "nombre": "especias x paquete romero",
     "categoria": "Frutas Y Verduras",
@@ -178,5 +169,14 @@
     "precio_hoy": 2590.0,
     "diff_abs": 1100.0,
     "diff_pct": 73.83
+  },
+  {
+    "ean": "2700004166570",
+    "nombre": "campera stitch del talle 6 al 16",
+    "categoria": "Limpieza",
+    "precio_antes": 41119.43,
+    "precio_hoy": 68936.0,
+    "diff_abs": 27816.57,
+    "diff_pct": 67.65
   }
 ]
