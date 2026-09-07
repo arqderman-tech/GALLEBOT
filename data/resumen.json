@@ -1,9 +1,9 @@
 {
-  "fecha": "20260906",
-  "total_productos": 6503,
-  "variacion_dia": 0.0,
-  "variacion_7d": 1.0,
-  "variacion_mes": 2.66,
+  "fecha": "20260907",
+  "total_productos": 6504,
+  "variacion_dia": 0.3,
+  "variacion_7d": 1.24,
+  "variacion_mes": 3.05,
   "variacion_anio": null,
   "categorias_dia": [
     {
@@ -11,21 +11,21 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1483
+      "total_productos": 1479
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1144
+      "variacion_pct_promedio": 1.69,
+      "productos_subieron": 58,
+      "productos_bajaron": 4,
+      "total_productos": 1143
     },
     {
       "categoria": "Congelados",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 239
+      "total_productos": 238
     },
     {
       "categoria": "Limpieza",
@@ -39,109 +39,109 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 926
+      "total_productos": 923
     },
     {
       "categoria": "Almacen",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1929
+      "total_productos": 1926
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790310985830",
-      "nombre": "3ds queso x 85 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 3981.0,
-      "precio_hoy": 3981.0,
+      "ean": "2022080000006",
+      "nombre": "rucula x paquete",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 1490.0,
+      "precio_hoy": 990.0,
+      "diff_abs": -500.0,
+      "diff_pct": -33.56
+    },
+    {
+      "ean": "2022440000004",
+      "nombre": "esparragos verdes paquete",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 7990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -25.03
+    },
+    {
+      "ean": "2030920000000",
+      "nombre": "puerro x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 5990.0,
+      "precio_hoy": 4990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -16.69
+    },
+    {
+      "ean": "7794080001509",
+      "nombre": "aoquis de semolin la morocha x 500 gm",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2898.0,
+      "precio_hoy": 2479.0,
+      "diff_abs": -419.0,
+      "diff_pct": -14.46
+    },
+    {
+      "ean": "7791564136672",
+      "nombre": "queso untable fundido adler x 100 gr. tomate y ala",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2800.0,
+      "precio_hoy": 2800.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790310985137",
-      "nombre": "3ds queso x143gr.",
-      "categoria": "Almacen",
-      "precio_antes": 5545.0,
-      "precio_hoy": 5545.0,
+      "ean": "7794990000012",
+      "nombre": "queso untable la paulina port salut light x 190 g.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2686.0,
+      "precio_hoy": 2686.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790310985113",
-      "nombre": "3ds sabor queso x 43 gm",
-      "categoria": "Almacen",
-      "precio_antes": 2469.0,
-      "precio_hoy": 2469.0,
+      "ean": "7794990878925",
+      "nombre": "queso untable la paulina jamon x 190 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2686.0,
+      "precio_hoy": 2686.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7791728246629",
-      "nombre": "ac. de oliva zuccardi x 500 ml coratina",
-      "categoria": "Almacen",
-      "precio_antes": 24484.0,
-      "precio_hoy": 24484.0,
+      "ean": "7794990878871",
+      "nombre": "queso untable la paulina fontina x 190 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2686.0,
+      "precio_hoy": 2686.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "763571722428",
-      "nombre": "ac.de coco entrenuts x200virg.",
-      "categoria": "Almacen",
-      "precio_antes": 9649.0,
-      "precio_hoy": 9649.0,
+      "ean": "7794990878932",
+      "nombre": "queso untable la paulina clasico x 190 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2686.0,
+      "precio_hoy": 2686.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7798080520657",
-      "nombre": "ac.ol.l.toscana x250ml.ajo",
-      "categoria": "Almacen",
-      "precio_antes": 9903.0,
-      "precio_hoy": 9903.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7798080520534",
-      "nombre": "ac.ol.l.toscana x250ml.albahac",
-      "categoria": "Almacen",
-      "precio_antes": 9903.0,
-      "precio_hoy": 9903.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7791728246612",
-      "nombre": "ac.ol.zuccardi x250ml.coratina",
-      "categoria": "Almacen",
-      "precio_antes": 14282.0,
-      "precio_hoy": 14282.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7791728246575",
-      "nombre": "ac.ol.zuccardi x250ml.picual",
-      "categoria": "Almacen",
-      "precio_antes": 14282.0,
-      "precio_hoy": 14282.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7791728241181",
-      "nombre": "ac.ol.zuelo x500ml.bot.intenso",
-      "categoria": "Almacen",
-      "precio_antes": 19077.0,
-      "precio_hoy": 19077.0,
+      "ean": "7794990879526",
+      "nombre": "queso untable la paulina cheddar x 190 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2686.0,
+      "precio_hoy": 2686.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 6500
+  "productos_subieron_dia": 58,
+  "productos_bajaron_dia": 4,
+  "productos_sin_cambio_dia": 6426
 }
