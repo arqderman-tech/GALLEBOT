@@ -1,5 +1,14 @@
 [
   {
+    "ean": "2022210000005",
+    "nombre": "tomate perita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 133.78
+  },
+  {
     "ean": "2022220000002",
     "nombre": "tomate redondo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -18,17 +27,8 @@
     "diff_pct": 122.23
   },
   {
-    "ean": "2700004164484",
-    "nombre": "calza retro off",
-    "categoria": "Limpieza",
-    "precio_antes": 10324.82,
-    "precio_hoy": 22944.0,
-    "diff_abs": 12619.18,
-    "diff_pct": 122.22
-  },
-  {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3809.0,
     "precio_hoy": 8390.0,
@@ -36,8 +36,8 @@
     "diff_pct": 120.27
   },
   {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 3809.0,
     "precio_hoy": 8390.0,
@@ -54,8 +54,8 @@
     "diff_pct": 116.86
   },
   {
-    "ean": "7791337010369",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2199.0,
     "precio_hoy": 4687.0,
@@ -81,8 +81,8 @@
     "diff_pct": 113.14
   },
   {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2199.0,
     "precio_hoy": 4687.0,
@@ -99,8 +99,8 @@
     "diff_pct": 113.14
   },
   {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 5990.0,
@@ -108,8 +108,8 @@
     "diff_pct": 100.33
   },
   {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 5990.0,
@@ -126,6 +126,15 @@
     "diff_pct": 99.7
   },
   {
+    "ean": "7794000009424",
+    "nombre": "aderezo hellmans x 340 gr asado",
+    "categoria": "Almacen",
+    "precio_antes": 2439.0,
+    "precio_hoy": 4574.0,
+    "diff_abs": 2135.0,
+    "diff_pct": 87.54
+  },
+  {
     "ean": "7791337007260",
     "nombre": "leche chocolatada cindor x 200 ml.",
     "categoria": "Lacteos Y Frescos",
@@ -135,17 +144,8 @@
     "diff_pct": 87.51
   },
   {
-    "ean": "7791337010307",
-    "nombre": "yogur la serenisima descremado batido x 120 gm vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 749.0,
-    "precio_hoy": 1399.0,
-    "diff_abs": 650.0,
-    "diff_pct": 86.78
-  },
-  {
-    "ean": "7791337605428",
-    "nombre": "yogur entero la serenisima cremoso x 120 gr. fruti",
+    "ean": "7791337010314",
+    "nombre": "yogur la serenisima descremado batido x 120 gm frutilla",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 749.0,
     "precio_hoy": 1399.0,
@@ -162,8 +162,8 @@
     "diff_pct": 86.78
   },
   {
-    "ean": "7791337605442",
-    "nombre": "yogur entero batido la serenisima x 120 gr. durazo",
+    "ean": "7791337010307",
+    "nombre": "yogur la serenisima descremado batido x 120 gm vainilla",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 749.0,
     "precio_hoy": 1399.0,

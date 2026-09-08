@@ -1,147 +1,147 @@
 {
-  "fecha": "20260907",
-  "total_productos": 6504,
-  "variacion_dia": 0.3,
-  "variacion_7d": 1.24,
-  "variacion_mes": 3.05,
+  "fecha": "20260908",
+  "total_productos": 6480,
+  "variacion_dia": 2.54,
+  "variacion_7d": 1.28,
+  "variacion_mes": 5.52,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1479
+      "variacion_pct_promedio": 6.67,
+      "productos_subieron": 431,
+      "productos_bajaron": 13,
+      "total_productos": 1477
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 1.69,
-      "productos_subieron": 58,
-      "productos_bajaron": 4,
-      "total_productos": 1143
+      "variacion_pct_promedio": 0.91,
+      "productos_subieron": 200,
+      "productos_bajaron": 38,
+      "total_productos": 1141
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 1.77,
+      "productos_subieron": 14,
       "productos_bajaron": 0,
-      "total_productos": 238
+      "total_productos": 240
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 779
+      "total_productos": 769
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 923
+      "variacion_pct_promedio": 1.3,
+      "productos_subieron": 100,
+      "productos_bajaron": 65,
+      "total_productos": 919
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1926
+      "variacion_pct_promedio": 2.03,
+      "productos_subieron": 243,
+      "productos_bajaron": 71,
+      "total_productos": 1913
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2022080000006",
-      "nombre": "rucula x paquete",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1490.0,
-      "precio_hoy": 990.0,
-      "diff_abs": -500.0,
-      "diff_pct": -33.56
-    },
-    {
-      "ean": "2022440000004",
-      "nombre": "esparragos verdes paquete",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 7990.0,
-      "precio_hoy": 5990.0,
+      "ean": "7891000445174",
+      "nombre": "cereal nesquik x 210 gm duo",
+      "categoria": "Perfumeria",
+      "precio_antes": 6679.0,
+      "precio_hoy": 4679.0,
       "diff_abs": -2000.0,
-      "diff_pct": -25.03
+      "diff_pct": -29.94
     },
     {
-      "ean": "2030920000000",
-      "nombre": "puerro x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -16.69
+      "ean": "7891000337271",
+      "nombre": "cereal nesquik x 210 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 6679.0,
+      "precio_hoy": 4679.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -29.94
     },
     {
-      "ean": "7794080001509",
-      "nombre": "aoquis de semolin la morocha x 500 gm",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2898.0,
-      "precio_hoy": 2479.0,
-      "diff_abs": -419.0,
-      "diff_pct": -14.46
+      "ean": "8445290270184",
+      "nombre": "cereal frutal trix x 230 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 6679.0,
+      "precio_hoy": 4679.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -29.94
     },
     {
-      "ean": "7791564136672",
-      "nombre": "queso untable fundido adler x 100 gr. tomate y ala",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2800.0,
-      "precio_hoy": 2800.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "8445292323987",
+      "nombre": "combo nescafe cappuchinomocha mas vaso reutilizable",
+      "categoria": "Perfumeria",
+      "precio_antes": 14199.0,
+      "precio_hoy": 10649.0,
+      "diff_abs": -3550.0,
+      "diff_pct": -25.0
     },
     {
-      "ean": "7794990000012",
-      "nombre": "queso untable la paulina port salut light x 190 g.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2686.0,
-      "precio_hoy": 2686.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "8445291749313",
+      "nombre": "cafe instantaneo nescafe dolca choco mocha x 225 g",
+      "categoria": "Perfumeria",
+      "precio_antes": 7157.0,
+      "precio_hoy": 5369.0,
+      "diff_abs": -1788.0,
+      "diff_pct": -24.98
     },
     {
-      "ean": "7794990878925",
-      "nombre": "queso untable la paulina jamon x 190 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2686.0,
-      "precio_hoy": 2686.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "8445291749269",
+      "nombre": "cappuccino nescafe dolca x 225 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 7157.0,
+      "precio_hoy": 5369.0,
+      "diff_abs": -1788.0,
+      "diff_pct": -24.98
     },
     {
-      "ean": "7794990878871",
-      "nombre": "queso untable la paulina fontina x 190 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2686.0,
-      "precio_hoy": 2686.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "8445291749214",
+      "nombre": "nescafe dolca x125g.dp latte",
+      "categoria": "Perfumeria",
+      "precio_antes": 4685.0,
+      "precio_hoy": 3519.0,
+      "diff_abs": -1166.0,
+      "diff_pct": -24.89
     },
     {
-      "ean": "7794990878932",
-      "nombre": "queso untable la paulina clasico x 190 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2686.0,
-      "precio_hoy": 2686.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "8445291749290",
+      "nombre": "cafe instantaneo nescafe dolca choco mocha x 125 .",
+      "categoria": "Perfumeria",
+      "precio_antes": 4685.0,
+      "precio_hoy": 3519.0,
+      "diff_abs": -1166.0,
+      "diff_pct": -24.89
     },
     {
-      "ean": "7794990879526",
-      "nombre": "queso untable la paulina cheddar x 190 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2686.0,
-      "precio_hoy": 2686.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "8445291749665",
+      "nombre": "cafe instantaneo nescafe dolca x 125 gr. caramel",
+      "categoria": "Perfumeria",
+      "precio_antes": 4685.0,
+      "precio_hoy": 3519.0,
+      "diff_abs": -1166.0,
+      "diff_pct": -24.89
+    },
+    {
+      "ean": "8445291749238",
+      "nombre": "cafe instantaneo nescafe dolca cappuccino x 100 gr",
+      "categoria": "Perfumeria",
+      "precio_antes": 3858.0,
+      "precio_hoy": 2899.0,
+      "diff_abs": -959.0,
+      "diff_pct": -24.86
     }
   ],
-  "productos_subieron_dia": 58,
-  "productos_bajaron_dia": 4,
-  "productos_sin_cambio_dia": 6426
+  "productos_subieron_dia": 988,
+  "productos_bajaron_dia": 187,
+  "productos_sin_cambio_dia": 5284
 }
