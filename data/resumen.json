@@ -1,147 +1,147 @@
 {
-  "fecha": "20260908",
-  "total_productos": 6480,
-  "variacion_dia": 2.54,
-  "variacion_7d": 1.28,
-  "variacion_mes": 5.52,
+  "fecha": "20260909",
+  "total_productos": 6458,
+  "variacion_dia": -1.1,
+  "variacion_7d": 0.26,
+  "variacion_mes": 4.01,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 6.67,
-      "productos_subieron": 431,
-      "productos_bajaron": 13,
-      "total_productos": 1477
+      "variacion_pct_promedio": -1.57,
+      "productos_subieron": 130,
+      "productos_bajaron": 341,
+      "total_productos": 1480
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.91,
-      "productos_subieron": 200,
-      "productos_bajaron": 38,
-      "total_productos": 1141
+      "variacion_pct_promedio": -1.51,
+      "productos_subieron": 4,
+      "productos_bajaron": 93,
+      "total_productos": 1146
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 1.77,
-      "productos_subieron": 14,
-      "productos_bajaron": 0,
-      "total_productos": 240
+      "variacion_pct_promedio": -0.87,
+      "productos_subieron": 0,
+      "productos_bajaron": 9,
+      "total_productos": 238
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.05,
+      "productos_subieron": 9,
       "productos_bajaron": 0,
-      "total_productos": 769
+      "total_productos": 766
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 1.3,
-      "productos_subieron": 100,
-      "productos_bajaron": 65,
-      "total_productos": 919
+      "variacion_pct_promedio": -0.27,
+      "productos_subieron": 1,
+      "productos_bajaron": 13,
+      "total_productos": 915
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 2.03,
-      "productos_subieron": 243,
-      "productos_bajaron": 71,
-      "total_productos": 1913
+      "variacion_pct_promedio": -1.39,
+      "productos_subieron": 1,
+      "productos_bajaron": 115,
+      "total_productos": 1909
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7891000445174",
-      "nombre": "cereal nesquik x 210 gm duo",
-      "categoria": "Perfumeria",
-      "precio_antes": 6679.0,
-      "precio_hoy": 4679.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -29.94
+      "ean": "7791337010376",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4687.0,
+      "precio_hoy": 2499.0,
+      "diff_abs": -2188.0,
+      "diff_pct": -46.68
     },
     {
-      "ean": "7891000337271",
-      "nombre": "cereal nesquik x 210 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 6679.0,
-      "precio_hoy": 4679.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -29.94
+      "ean": "7791337010369",
+      "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4687.0,
+      "precio_hoy": 2499.0,
+      "diff_abs": -2188.0,
+      "diff_pct": -46.68
     },
     {
-      "ean": "8445290270184",
-      "nombre": "cereal frutal trix x 230 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 6679.0,
-      "precio_hoy": 4679.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -29.94
+      "ean": "7791337010215",
+      "nombre": "yogur ls.clas.ent.sh x900g.fru",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4687.0,
+      "precio_hoy": 2499.0,
+      "diff_abs": -2188.0,
+      "diff_pct": -46.68
     },
     {
-      "ean": "8445292323987",
-      "nombre": "combo nescafe cappuchinomocha mas vaso reutilizable",
-      "categoria": "Perfumeria",
-      "precio_antes": 14199.0,
-      "precio_hoy": 10649.0,
-      "diff_abs": -3550.0,
-      "diff_pct": -25.0
+      "ean": "7791337010475",
+      "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4687.0,
+      "precio_hoy": 2499.0,
+      "diff_abs": -2188.0,
+      "diff_pct": -46.68
     },
     {
-      "ean": "8445291749313",
-      "nombre": "cafe instantaneo nescafe dolca choco mocha x 225 g",
-      "categoria": "Perfumeria",
-      "precio_antes": 7157.0,
-      "precio_hoy": 5369.0,
-      "diff_abs": -1788.0,
-      "diff_pct": -24.98
+      "ean": "7791337010468",
+      "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4687.0,
+      "precio_hoy": 2499.0,
+      "diff_abs": -2188.0,
+      "diff_pct": -46.68
     },
     {
-      "ean": "8445291749269",
-      "nombre": "cappuccino nescafe dolca x 225 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 7157.0,
-      "precio_hoy": 5369.0,
-      "diff_abs": -1788.0,
-      "diff_pct": -24.98
+      "ean": "7791813403012",
+      "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+      "categoria": "Bebidas",
+      "precio_antes": 3250.0,
+      "precio_hoy": 1789.0,
+      "diff_abs": -1461.0,
+      "diff_pct": -44.95
     },
     {
-      "ean": "8445291749214",
-      "nombre": "nescafe dolca x125g.dp latte",
-      "categoria": "Perfumeria",
-      "precio_antes": 4685.0,
-      "precio_hoy": 3519.0,
-      "diff_abs": -1166.0,
-      "diff_pct": -24.89
+      "ean": "7791813403029",
+      "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+      "categoria": "Bebidas",
+      "precio_antes": 3250.0,
+      "precio_hoy": 1789.0,
+      "diff_abs": -1461.0,
+      "diff_pct": -44.95
     },
     {
-      "ean": "8445291749290",
-      "nombre": "cafe instantaneo nescafe dolca choco mocha x 125 .",
-      "categoria": "Perfumeria",
-      "precio_antes": 4685.0,
-      "precio_hoy": 3519.0,
-      "diff_abs": -1166.0,
-      "diff_pct": -24.89
+      "ean": "7791813403036",
+      "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+      "categoria": "Bebidas",
+      "precio_antes": 3250.0,
+      "precio_hoy": 1789.0,
+      "diff_abs": -1461.0,
+      "diff_pct": -44.95
     },
     {
-      "ean": "8445291749665",
-      "nombre": "cafe instantaneo nescafe dolca x 125 gr. caramel",
-      "categoria": "Perfumeria",
-      "precio_antes": 4685.0,
-      "precio_hoy": 3519.0,
-      "diff_abs": -1166.0,
-      "diff_pct": -24.89
+      "ean": "7791813405016",
+      "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
+      "categoria": "Bebidas",
+      "precio_antes": 3350.0,
+      "precio_hoy": 1849.0,
+      "diff_abs": -1501.0,
+      "diff_pct": -44.81
     },
     {
-      "ean": "8445291749238",
-      "nombre": "cafe instantaneo nescafe dolca cappuccino x 100 gr",
-      "categoria": "Perfumeria",
-      "precio_antes": 3858.0,
-      "precio_hoy": 2899.0,
-      "diff_abs": -959.0,
-      "diff_pct": -24.86
+      "ean": "7791813405030",
+      "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+      "categoria": "Bebidas",
+      "precio_antes": 3350.0,
+      "precio_hoy": 1849.0,
+      "diff_abs": -1501.0,
+      "diff_pct": -44.81
     }
   ],
-  "productos_subieron_dia": 988,
-  "productos_bajaron_dia": 187,
-  "productos_sin_cambio_dia": 5284
+  "productos_subieron_dia": 145,
+  "productos_bajaron_dia": 571,
+  "productos_sin_cambio_dia": 5738
 }
