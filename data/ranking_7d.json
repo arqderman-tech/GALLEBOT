@@ -9,6 +9,15 @@
     "diff_pct": 122.23
   },
   {
+    "ean": "7795930000543",
+    "nombre": "agua mineral pureza vital x2.25lt.sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1579.0,
+    "precio_hoy": 2870.0,
+    "diff_abs": 1291.0,
+    "diff_pct": 81.76
+  },
+  {
     "ean": "7791813000723",
     "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
     "categoria": "Bebidas",
@@ -16,6 +25,15 @@
     "precio_hoy": 3250.0,
     "diff_abs": 1461.0,
     "diff_pct": 81.67
+  },
+  {
+    "ean": "7791661000333",
+    "nombre": "agua mineral pureza vital pet x 6.4 litros",
+    "categoria": "Bebidas",
+    "precio_antes": 4179.0,
+    "precio_hoy": 7585.0,
+    "diff_abs": 3406.0,
+    "diff_pct": 81.5
   },
   {
     "ean": "7794000009424",
@@ -36,13 +54,13 @@
     "diff_pct": 81.18
   },
   {
-    "ean": "2020710000006",
-    "nombre": "especias x paquete romero",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 2590.0,
-    "diff_abs": 1100.0,
-    "diff_pct": 73.83
+    "ean": "7622202816437",
+    "nombre": "alfajor shot x 60gr.triple blanco",
+    "categoria": "Almacen",
+    "precio_antes": 1269.0,
+    "precio_hoy": 2200.0,
+    "diff_abs": 931.0,
+    "diff_pct": 73.36
   },
   {
     "ean": "2016350000001",
@@ -52,15 +70,6 @@
     "precio_hoy": 6084.0,
     "diff_abs": 2515.0,
     "diff_pct": 70.47
-  },
-  {
-    "ean": "7795513090640",
-    "nombre": "palto postre cuadrado blanco roswell",
-    "categoria": "Limpieza",
-    "precio_antes": 1313.72,
-    "precio_hoy": 2233.0,
-    "diff_abs": 919.28,
-    "diff_pct": 69.98
   },
   {
     "ean": "2016360000008",
@@ -81,40 +90,13 @@
     "diff_pct": 67.65
   },
   {
-    "ean": "7622202816437",
-    "nombre": "alfajor shot x 60gr.triple blanco",
-    "categoria": "Almacen",
-    "precio_antes": 1269.0,
-    "precio_hoy": 2120.0,
-    "diff_abs": 851.0,
-    "diff_pct": 67.06
-  },
-  {
-    "ean": "7797906054956",
-    "nombre": "papas congeladas mc cain smiles x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 8574.32,
-    "precio_hoy": 14290.0,
-    "diff_abs": 5715.68,
-    "diff_pct": 66.66
-  },
-  {
-    "ean": "7797906054826",
-    "nombre": "papas fritas mc cain clasicas x 700 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 5118.76,
-    "precio_hoy": 8531.0,
-    "diff_abs": 3412.24,
-    "diff_pct": 66.66
-  },
-  {
-    "ean": "7797906054925",
-    "nombre": "papas noisette mc cain horneables x 600 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 6814.76,
-    "precio_hoy": 11342.0,
-    "diff_abs": 4527.24,
-    "diff_pct": 66.43
+    "ean": "7790070760494",
+    "nombre": "vino tinto aime cabernet sauvignon x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 3679.0,
+    "precio_hoy": 6072.0,
+    "diff_abs": 2393.0,
+    "diff_pct": 65.04
   },
   {
     "ean": "7790070760517",
@@ -126,13 +108,22 @@
     "diff_pct": 65.04
   },
   {
-    "ean": "7790070760494",
-    "nombre": "vino tinto aime cabernet sauvignon x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3679.0,
-    "precio_hoy": 6072.0,
-    "diff_abs": 2393.0,
-    "diff_pct": 65.04
+    "ean": "7797906054918",
+    "nombre": "papas mc cain noisette x 1.2 kg.",
+    "categoria": "Congelados",
+    "precio_antes": 13218.99,
+    "precio_hoy": 21548.0,
+    "diff_abs": 8329.01,
+    "diff_pct": 63.01
+  },
+  {
+    "ean": "7797906000700",
+    "nombre": "papas mc cain tradicional x 400 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3299.0,
+    "precio_hoy": 5375.0,
+    "diff_abs": 2076.0,
+    "diff_pct": 62.93
   },
   {
     "ean": "7790070418227",
@@ -144,8 +135,17 @@
     "diff_pct": 60.81
   },
   {
-    "ean": "7790070760784",
-    "nombre": "vino tinto emilia red blend x 750 ml.",
+    "ean": "7790670050674",
+    "nombre": "hamburguesas paty x 2 unid. clasicas",
+    "categoria": "Congelados",
+    "precio_antes": 3049.0,
+    "precio_hoy": 4895.0,
+    "diff_abs": 1846.0,
+    "diff_pct": 60.54
+  },
+  {
+    "ean": "7790070760760",
+    "nombre": "vino tinto emilia x 750 ml. cabernet sauvingnon",
     "categoria": "Bebidas",
     "precio_antes": 5289.0,
     "precio_hoy": 8156.0,
@@ -153,8 +153,8 @@
     "diff_pct": 54.21
   },
   {
-    "ean": "7790070760760",
-    "nombre": "vino tinto emilia x 750 ml. cabernet sauvingnon",
+    "ean": "7790070760784",
+    "nombre": "vino tinto emilia red blend x 750 ml.",
     "categoria": "Bebidas",
     "precio_antes": 5289.0,
     "precio_hoy": 8156.0,
