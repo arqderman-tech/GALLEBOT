@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7797906054819",
-    "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 9939.0,
-    "precio_hoy": 16208.0,
-    "diff_abs": 6269.0,
-    "diff_pct": 63.07
-  },
-  {
-    "ean": "7797906054918",
-    "nombre": "papas mc cain noisette x 1.2 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 13218.99,
-    "precio_hoy": 21548.0,
-    "diff_abs": 8329.01,
-    "diff_pct": 63.01
-  },
-  {
-    "ean": "7797906000700",
-    "nombre": "papas mc cain tradicional x 400 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5375.0,
-    "diff_abs": 2076.0,
-    "diff_pct": 62.93
-  },
-  {
-    "ean": "7790670050674",
-    "nombre": "hamburguesas paty x 2 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 3049.0,
-    "precio_hoy": 4895.0,
-    "diff_abs": 1846.0,
-    "diff_pct": 60.54
-  },
-  {
-    "ean": "7790670050780",
-    "nombre": "hamburguesas paty clasico x 20 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 30039.0,
-    "precio_hoy": 42853.0,
-    "diff_abs": 12814.0,
-    "diff_pct": 42.66
-  },
-  {
-    "ean": "7790670051831",
-    "nombre": "hambuerguesas paty clasico x 4 unidades x 288 gr",
-    "categoria": "Congelados",
-    "precio_antes": 6199.0,
-    "precio_hoy": 8565.0,
-    "diff_abs": 2366.0,
-    "diff_pct": 38.17
-  },
-  {
-    "ean": "7790670050650",
-    "nombre": "hamburguesas paty x 4 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 6949.0,
-    "precio_hoy": 9598.0,
-    "diff_abs": 2649.0,
-    "diff_pct": 38.12
-  },
-  {
-    "ean": "7790670050728",
-    "nombre": "hamburguesas paty x 2 unid. finitas",
-    "categoria": "Congelados",
-    "precio_antes": 2789.0,
-    "precio_hoy": 3606.0,
-    "diff_abs": 817.0,
-    "diff_pct": 29.29
-  },
-  {
-    "ean": "7891515580513",
-    "nombre": "sadinesa de pollo sadia x 100 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 999.0,
-    "precio_hoy": 1280.0,
-    "diff_abs": 281.0,
-    "diff_pct": 28.13
-  },
-  {
-    "ean": "7790670052869",
-    "nombre": "medallones de carne express x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 1949.0,
-    "precio_hoy": 2488.0,
-    "diff_abs": 539.0,
-    "diff_pct": 27.66
-  },
-  {
-    "ean": "7790670052371",
-    "nombre": "medallones de carne express x 4 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 4919.0,
-    "precio_hoy": 6066.0,
-    "diff_abs": 1147.0,
-    "diff_pct": 23.32
-  },
-  {
-    "ean": "7790670050667",
-    "nombre": "hamburguesas paty x 12 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 21559.0,
-    "precio_hoy": 26285.0,
-    "diff_abs": 4726.0,
-    "diff_pct": 21.92
-  },
-  {
-    "ean": "7891515571351",
-    "nombre": "nuggets de pollo sadia crocante x 300 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 5119.0,
-    "precio_hoy": 6205.0,
-    "diff_abs": 1086.0,
-    "diff_pct": 21.22
-  },
-  {
-    "ean": "7790670052388",
-    "nombre": "salchicha patyviena x6u.clasic",
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2389.0,
-    "precio_hoy": 2878.0,
-    "diff_abs": 489.0,
-    "diff_pct": 20.47
+    "precio_antes": 2499.0,
+    "precio_hoy": 4687.0,
+    "diff_abs": 2188.0,
+    "diff_pct": 87.56
   },
   {
-    "ean": "7790670052548",
-    "nombre": "mix primavera green life x 350 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 3809.0,
-    "precio_hoy": 4524.0,
-    "diff_abs": 715.0,
-    "diff_pct": 18.77
-  },
-  {
-    "ean": "2029400000005",
-    "nombre": "paleta d ecerdo sadia x kilo x kg.",
+    "ean": "7791337010468",
+    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 11669.0,
-    "precio_hoy": 13475.0,
-    "diff_abs": 1806.0,
-    "diff_pct": 15.48
+    "precio_antes": 2499.0,
+    "precio_hoy": 4687.0,
+    "diff_abs": 2188.0,
+    "diff_pct": 87.56
   },
   {
-    "ean": "2029390000009",
-    "nombre": "jamon cocido sadia x kilo x kg.",
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 14589.0,
-    "precio_hoy": 16843.0,
-    "diff_abs": 2254.0,
-    "diff_pct": 15.45
+    "precio_antes": 2499.0,
+    "precio_hoy": 4687.0,
+    "diff_abs": 2188.0,
+    "diff_pct": 87.56
   },
   {
-    "ean": "7790670053125",
-    "nombre": "mix tarta green life x 500 gm choclocebolla y pimiento",
-    "categoria": "Congelados",
-    "precio_antes": 7099.0,
-    "precio_hoy": 8159.0,
-    "diff_abs": 1060.0,
-    "diff_pct": 14.93
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4687.0,
+    "diff_abs": 2188.0,
+    "diff_pct": 87.56
   },
   {
-    "ean": "7790670053149",
-    "nombre": "mix de tarta green life x 500 gr brocolizanahoria y cebolla",
-    "categoria": "Congelados",
-    "precio_antes": 7099.0,
-    "precio_hoy": 8159.0,
-    "diff_abs": 1060.0,
-    "diff_pct": 14.93
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4687.0,
+    "diff_abs": 2188.0,
+    "diff_pct": 87.56
   },
   {
-    "ean": "7790670053132",
-    "nombre": "mix tartas green life x 500 gr acelga espinaca cebolla y p",
-    "categoria": "Congelados",
-    "precio_antes": 7099.0,
-    "precio_hoy": 8159.0,
-    "diff_abs": 1060.0,
-    "diff_pct": 14.93
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4749.0,
+    "precio_hoy": 8390.0,
+    "diff_abs": 3641.0,
+    "diff_pct": 76.67
+  },
+  {
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4749.0,
+    "precio_hoy": 8390.0,
+    "diff_abs": 3641.0,
+    "diff_pct": 76.67
+  },
+  {
+    "ean": "7791337009684",
+    "nombre": "yogur bebible gran compra frutilla x 900 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1819.0,
+    "precio_hoy": 3010.0,
+    "diff_abs": 1191.0,
+    "diff_pct": 65.48
+  },
+  {
+    "ean": "7791337009691",
+    "nombre": "yogur gran compra bebible x 900 gr vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1819.0,
+    "precio_hoy": 3010.0,
+    "diff_abs": 1191.0,
+    "diff_pct": 65.48
+  },
+  {
+    "ean": "7792280006140",
+    "nombre": "yerba mate cachamai x 500 gm tradicional",
+    "categoria": "Perfumeria",
+    "precio_antes": 1539.0,
+    "precio_hoy": 2468.0,
+    "diff_abs": 929.0,
+    "diff_pct": 60.36
+  },
+  {
+    "ean": "7791337008403",
+    "nombre": "leche chocolatada la serenisima x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3689.0,
+    "precio_hoy": 5889.0,
+    "diff_abs": 2200.0,
+    "diff_pct": 59.64
+  },
+  {
+    "ean": "7790070431929",
+    "nombre": "oblea yogubar gallo 6x20gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 5339.0,
+    "precio_hoy": 8363.0,
+    "diff_abs": 3024.0,
+    "diff_pct": 56.64
+  },
+  {
+    "ean": "7791337010727",
+    "nombre": "yogur la serenisima cremoso natural x 120 gm sin azucar agre",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 899.0,
+    "precio_hoy": 1400.0,
+    "diff_abs": 501.0,
+    "diff_pct": 55.73
+  },
+  {
+    "ean": "7791337010307",
+    "nombre": "yogur la serenisima descremado batido x 120 gm vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 899.0,
+    "precio_hoy": 1399.0,
+    "diff_abs": 500.0,
+    "diff_pct": 55.62
+  },
+  {
+    "ean": "7791337605411",
+    "nombre": "yogur batido la serenisima clasico vainilla x 120.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 899.0,
+    "precio_hoy": 1399.0,
+    "diff_abs": 500.0,
+    "diff_pct": 55.62
+  },
+  {
+    "ean": "7791337010413",
+    "nombre": "yogur ls.clas.firme ent.fru120",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 899.0,
+    "precio_hoy": 1399.0,
+    "diff_abs": 500.0,
+    "diff_pct": 55.62
+  },
+  {
+    "ean": "7791337605442",
+    "nombre": "yogur entero batido la serenisima x 120 gr. durazo",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 899.0,
+    "precio_hoy": 1399.0,
+    "diff_abs": 500.0,
+    "diff_pct": 55.62
+  },
+  {
+    "ean": "7791337010420",
+    "nombre": "yogur ls.clas.firme ent.vai120",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 899.0,
+    "precio_hoy": 1399.0,
+    "diff_abs": 500.0,
+    "diff_pct": 55.62
+  },
+  {
+    "ean": "7791337605428",
+    "nombre": "yogur entero la serenisima cremoso x 120 gr. fruti",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 899.0,
+    "precio_hoy": 1399.0,
+    "diff_abs": 500.0,
+    "diff_pct": 55.62
+  },
+  {
+    "ean": "7791337010314",
+    "nombre": "yogur la serenisima descremado batido x 120 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 899.0,
+    "precio_hoy": 1399.0,
+    "diff_abs": 500.0,
+    "diff_pct": 55.62
   }
 ]

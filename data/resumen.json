@@ -1,147 +1,126 @@
 {
-  "fecha": "20260910",
-  "total_productos": 6479,
-  "variacion_dia": -0.19,
-  "variacion_7d": 1.14,
-  "variacion_mes": 3.74,
+  "fecha": "20260911",
+  "total_productos": 2750,
+  "variacion_dia": 3.58,
+  "variacion_7d": 4.04,
+  "variacion_mes": 7.32,
   "variacion_anio": null,
   "categorias_dia": [
     {
-      "categoria": "Bebidas",
-      "variacion_pct_promedio": -1.2,
-      "productos_subieron": 0,
-      "productos_bajaron": 73,
-      "total_productos": 1479
-    },
-    {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.25,
-      "productos_subieron": 6,
-      "productos_bajaron": 33,
-      "total_productos": 1140
-    },
-    {
-      "categoria": "Congelados",
-      "variacion_pct_promedio": 3.68,
-      "productos_subieron": 44,
-      "productos_bajaron": 1,
-      "total_productos": 236
+      "variacion_pct_promedio": 4.93,
+      "productos_subieron": 271,
+      "productos_bajaron": 7,
+      "total_productos": 1047
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 768
+      "total_productos": 775
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.03,
-      "productos_subieron": 0,
-      "productos_bajaron": 3,
-      "total_productos": 906
-    },
-    {
-      "categoria": "Almacen",
-      "variacion_pct_promedio": 0.01,
-      "productos_subieron": 6,
+      "variacion_pct_promedio": 5.04,
+      "productos_subieron": 229,
       "productos_bajaron": 0,
-      "total_productos": 1902
+      "total_productos": 919
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7798062548686",
-      "nombre": "villa del sur levite pomelo x 500 ml",
-      "categoria": "Bebidas",
-      "precio_antes": 2509.0,
-      "precio_hoy": 1489.0,
-      "diff_abs": -1020.0,
-      "diff_pct": -40.65
+      "ean": "2022450000001",
+      "nombre": "frutillas bandeja x 500 gm",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -3000.0,
+      "diff_pct": -42.92
     },
     {
-      "ean": "7790315100184",
-      "nombre": "levite x 500 ml cero manzana",
-      "categoria": "Bebidas",
-      "precio_antes": 2509.0,
-      "precio_hoy": 1489.0,
-      "diff_abs": -1020.0,
-      "diff_pct": -40.65
+      "ean": "2019970000000",
+      "nombre": "alcauciles x unidad",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -500.0,
+      "diff_pct": -20.08
     },
     {
-      "ean": "7799155001385",
-      "nombre": "vds levite x500ml.pomelo",
-      "categoria": "Bebidas",
-      "precio_antes": 2509.0,
-      "precio_hoy": 1489.0,
-      "diff_abs": -1020.0,
-      "diff_pct": -40.65
+      "ean": "2021780000002",
+      "nombre": "perejil x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -20.04
     },
     {
-      "ean": "7798062548655",
-      "nombre": "vds levite x500ml.naranja",
-      "categoria": "Bebidas",
-      "precio_antes": 2509.0,
-      "precio_hoy": 1489.0,
-      "diff_abs": -1020.0,
-      "diff_pct": -40.65
+      "ean": "2021660000009",
+      "nombre": "zapallito redondo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -20.04
     },
     {
-      "ean": "7798062540260",
-      "nombre": "agua saborizada levite x 500 ml pera",
-      "categoria": "Bebidas",
-      "precio_antes": 2509.0,
-      "precio_hoy": 1489.0,
-      "diff_abs": -1020.0,
-      "diff_pct": -40.65
+      "ean": "2020750000004",
+      "nombre": "frutillas x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 9990.0,
+      "precio_hoy": 7990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -20.02
     },
     {
-      "ean": "7798062548716",
-      "nombre": "agua saborizada vds levite manzana x 500 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 2509.0,
-      "precio_hoy": 1489.0,
-      "diff_abs": -1020.0,
-      "diff_pct": -40.65
+      "ean": "2021650000002",
+      "nombre": "zapallito largo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 5990.0,
+      "precio_hoy": 4990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -16.69
     },
     {
-      "ean": "7790315100177",
-      "nombre": "agua saborizada vds levite cero pomelo x 500 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 2509.0,
-      "precio_hoy": 1489.0,
-      "diff_abs": -1020.0,
-      "diff_pct": -40.65
+      "ean": "2020350000008",
+      "nombre": "chaucha ballina x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 7990.0,
+      "precio_hoy": 6990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -12.52
     },
     {
-      "ean": "7799155001682",
-      "nombre": "agua saborizada levite x 500 ml limonada",
-      "categoria": "Bebidas",
-      "precio_antes": 2509.0,
-      "precio_hoy": 1489.0,
-      "diff_abs": -1020.0,
-      "diff_pct": -40.65
+      "ean": "7798005437305",
+      "nombre": "sacacorchos tipo mozo chef",
+      "categoria": "Limpieza",
+      "precio_antes": 6903.0,
+      "precio_hoy": 6903.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7797906054956",
-      "nombre": "papas congeladas mc cain smiles x 700 gr.",
-      "categoria": "Congelados",
-      "precio_antes": 14290.0,
-      "precio_hoy": 8768.99,
-      "diff_abs": -5521.01,
-      "diff_pct": -38.64
+      "ean": "8682911647080",
+      "nombre": "set de 2 fuentes redondas",
+      "categoria": "Limpieza",
+      "precio_antes": 29019.39,
+      "precio_hoy": 29019.4,
+      "diff_abs": 0.01,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7793147570088",
-      "nombre": "cerveza miller x 1 litro",
-      "categoria": "Bebidas",
-      "precio_antes": 6320.0,
-      "precio_hoy": 3999.0,
-      "diff_abs": -2321.0,
-      "diff_pct": -36.72
+      "ean": "742779501929",
+      "nombre": "set de baao blanco x 4",
+      "categoria": "Limpieza",
+      "precio_antes": 28967.0,
+      "precio_hoy": 28967.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 56,
-  "productos_bajaron_dia": 110,
-  "productos_sin_cambio_dia": 6265
+  "productos_subieron_dia": 500,
+  "productos_bajaron_dia": 7,
+  "productos_sin_cambio_dia": 2234
 }

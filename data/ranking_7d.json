@@ -1,66 +1,84 @@
 [
   {
-    "ean": "8445291996731",
-    "nombre": "avellanas con chocolate con leche nestle x 80 gm",
-    "categoria": "Almacen",
-    "precio_antes": 3091.0,
-    "precio_hoy": 6869.0,
-    "diff_abs": 3778.0,
-    "diff_pct": 122.23
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2598.96,
+    "precio_hoy": 4687.0,
+    "diff_abs": 2088.04,
+    "diff_pct": 80.34
   },
   {
-    "ean": "7795930000543",
-    "nombre": "agua mineral pureza vital x2.25lt.sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1579.0,
-    "precio_hoy": 2870.0,
-    "diff_abs": 1291.0,
-    "diff_pct": 81.76
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2598.96,
+    "precio_hoy": 4687.0,
+    "diff_abs": 2088.04,
+    "diff_pct": 80.34
   },
   {
-    "ean": "7791813000723",
-    "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2598.96,
+    "precio_hoy": 4687.0,
+    "diff_abs": 2088.04,
+    "diff_pct": 80.34
   },
   {
-    "ean": "7791661000333",
-    "nombre": "agua mineral pureza vital pet x 6.4 litros",
-    "categoria": "Bebidas",
-    "precio_antes": 4179.0,
-    "precio_hoy": 7585.0,
-    "diff_abs": 3406.0,
-    "diff_pct": 81.5
+    "ean": "7791337010468",
+    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2598.96,
+    "precio_hoy": 4687.0,
+    "diff_abs": 2088.04,
+    "diff_pct": 80.34
   },
   {
-    "ean": "7794000009424",
-    "nombre": "aderezo hellmans x 340 gr asado",
-    "categoria": "Almacen",
-    "precio_antes": 2522.68,
-    "precio_hoy": 4574.0,
-    "diff_abs": 2051.32,
-    "diff_pct": 81.32
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2598.96,
+    "precio_hoy": 4687.0,
+    "diff_abs": 2088.04,
+    "diff_pct": 80.34
   },
   {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-    "categoria": "Bebidas",
-    "precio_antes": 1849.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 81.18
+    "ean": "7791337010413",
+    "nombre": "yogur ls.clas.firme ent.fru120",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 786.46,
+    "precio_hoy": 1399.0,
+    "diff_abs": 612.54,
+    "diff_pct": 77.89
   },
   {
-    "ean": "7622202816437",
-    "nombre": "alfajor shot x 60gr.triple blanco",
-    "categoria": "Almacen",
-    "precio_antes": 1269.0,
-    "precio_hoy": 2200.0,
-    "diff_abs": 931.0,
-    "diff_pct": 73.36
+    "ean": "7791337605428",
+    "nombre": "yogur entero la serenisima cremoso x 120 gr. fruti",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 786.46,
+    "precio_hoy": 1399.0,
+    "diff_abs": 612.54,
+    "diff_pct": 77.89
+  },
+  {
+    "ean": "7791337605442",
+    "nombre": "yogur entero batido la serenisima x 120 gr. durazo",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 786.46,
+    "precio_hoy": 1399.0,
+    "diff_abs": 612.54,
+    "diff_pct": 77.89
+  },
+  {
+    "ean": "7791337605411",
+    "nombre": "yogur batido la serenisima clasico vainilla x 120.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 786.46,
+    "precio_hoy": 1399.0,
+    "diff_abs": 612.54,
+    "diff_pct": 77.89
   },
   {
     "ean": "2016350000001",
@@ -81,102 +99,84 @@
     "diff_pct": 67.86
   },
   {
-    "ean": "2700004166570",
-    "nombre": "campera stitch del talle 6 al 16",
-    "categoria": "Limpieza",
-    "precio_antes": 41119.43,
-    "precio_hoy": 68936.0,
-    "diff_abs": 27816.57,
-    "diff_pct": 67.65
-  },
-  {
-    "ean": "7790070760494",
-    "nombre": "vino tinto aime cabernet sauvignon x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3679.0,
-    "precio_hoy": 6072.0,
-    "diff_abs": 2393.0,
-    "diff_pct": 65.04
-  },
-  {
-    "ean": "7790070760517",
-    "nombre": "vino blanco aime chardonnay x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3679.0,
-    "precio_hoy": 6072.0,
-    "diff_abs": 2393.0,
-    "diff_pct": 65.04
-  },
-  {
-    "ean": "7797906054918",
-    "nombre": "papas mc cain noisette x 1.2 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 13218.99,
-    "precio_hoy": 21548.0,
-    "diff_abs": 8329.01,
-    "diff_pct": 63.01
-  },
-  {
-    "ean": "7797906000700",
-    "nombre": "papas mc cain tradicional x 400 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5375.0,
-    "diff_abs": 2076.0,
-    "diff_pct": 62.93
-  },
-  {
-    "ean": "7790070418227",
-    "nombre": "alfajor chocoarroz dulce de leche x 6 unid.",
-    "categoria": "Almacen",
+    "ean": "7790070431929",
+    "nombre": "oblea yogubar gallo 6x20gr.",
+    "categoria": "Perfumeria",
     "precio_antes": 4999.0,
-    "precio_hoy": 8039.0,
-    "diff_abs": 3040.0,
-    "diff_pct": 60.81
+    "precio_hoy": 8363.0,
+    "diff_abs": 3364.0,
+    "diff_pct": 67.29
   },
   {
-    "ean": "7790670050674",
-    "nombre": "hamburguesas paty x 2 unid. clasicas",
-    "categoria": "Congelados",
-    "precio_antes": 3049.0,
-    "precio_hoy": 4895.0,
-    "diff_abs": 1846.0,
-    "diff_pct": 60.54
+    "ean": "7791337009684",
+    "nombre": "yogur bebible gran compra frutilla x 900 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1870.99,
+    "precio_hoy": 3010.0,
+    "diff_abs": 1139.01,
+    "diff_pct": 60.88
   },
   {
-    "ean": "7790070760760",
-    "nombre": "vino tinto emilia x 750 ml. cabernet sauvingnon",
-    "categoria": "Bebidas",
-    "precio_antes": 5289.0,
-    "precio_hoy": 8156.0,
-    "diff_abs": 2867.0,
-    "diff_pct": 54.21
+    "ean": "7791337009691",
+    "nombre": "yogur gran compra bebible x 900 gr vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1870.99,
+    "precio_hoy": 3010.0,
+    "diff_abs": 1139.01,
+    "diff_pct": 60.88
   },
   {
-    "ean": "7790070760784",
-    "nombre": "vino tinto emilia red blend x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 5289.0,
-    "precio_hoy": 8156.0,
-    "diff_abs": 2867.0,
-    "diff_pct": 54.21
+    "ean": "7792280006140",
+    "nombre": "yerba mate cachamai x 500 gm tradicional",
+    "categoria": "Perfumeria",
+    "precio_antes": 1539.0,
+    "precio_hoy": 2468.0,
+    "diff_abs": 929.0,
+    "diff_pct": 60.36
   },
   {
-    "ean": "7791813402039",
-    "nombre": "agua saborizada h2oh sin gas x 500 ml manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1169.0,
-    "precio_hoy": 1800.0,
-    "diff_abs": 631.0,
-    "diff_pct": 53.98
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 60.24
   },
   {
-    "ean": "7792931001050",
-    "nombre": "agua mineral glaciar x 1,5 lt. con gas",
-    "categoria": "Bebidas",
-    "precio_antes": 2269.0,
-    "precio_hoy": 3489.0,
-    "diff_abs": 1220.0,
-    "diff_pct": 53.77
+    "ean": "7791337010420",
+    "nombre": "yogur ls.clas.firme ent.vai120",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 891.46,
+    "precio_hoy": 1399.0,
+    "diff_abs": 507.54,
+    "diff_pct": 56.93
+  },
+  {
+    "ean": "7791337010314",
+    "nombre": "yogur la serenisima descremado batido x 120 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 891.46,
+    "precio_hoy": 1399.0,
+    "diff_abs": 507.54,
+    "diff_pct": 56.93
+  },
+  {
+    "ean": "7791337010307",
+    "nombre": "yogur la serenisima descremado batido x 120 gm vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 891.46,
+    "precio_hoy": 1399.0,
+    "diff_abs": 507.54,
+    "diff_pct": 56.93
+  },
+  {
+    "ean": "7791337010727",
+    "nombre": "yogur la serenisima cremoso natural x 120 gm sin azucar agre",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 901.93,
+    "precio_hoy": 1400.0,
+    "diff_abs": 498.07,
+    "diff_pct": 55.22
   }
 ]
