@@ -1,82 +1,46 @@
 {
-  "fecha": "20260911",
-  "total_productos": 2750,
-  "variacion_dia": 3.58,
-  "variacion_7d": 4.04,
-  "variacion_mes": 7.32,
+  "fecha": "20260912",
+  "total_productos": 6476,
+  "variacion_dia": -0.02,
+  "variacion_7d": 6.79,
+  "variacion_mes": 9.38,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 4.93,
-      "productos_subieron": 271,
-      "productos_bajaron": 7,
-      "total_productos": 1047
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 2,
+      "productos_bajaron": 5,
+      "total_productos": 1052
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 775
+      "total_productos": 774
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 5.04,
-      "productos_subieron": 229,
-      "productos_bajaron": 0,
-      "total_productos": 919
+      "variacion_pct_promedio": -0.09,
+      "productos_subieron": 0,
+      "productos_bajaron": 11,
+      "total_productos": 922
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2022450000001",
-      "nombre": "frutillas bandeja x 500 gm",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -3000.0,
-      "diff_pct": -42.92
-    },
-    {
-      "ean": "2019970000000",
-      "nombre": "alcauciles x unidad",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2490.0,
-      "precio_hoy": 1990.0,
-      "diff_abs": -500.0,
-      "diff_pct": -20.08
-    },
-    {
-      "ean": "2021780000002",
-      "nombre": "perejil x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
-    },
-    {
-      "ean": "2021660000009",
-      "nombre": "zapallito redondo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
-    },
-    {
-      "ean": "2020750000004",
-      "nombre": "frutillas x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 9990.0,
-      "precio_hoy": 7990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -20.02
-    },
-    {
       "ean": "2021650000002",
       "nombre": "zapallito largo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -20.04
+    },
+    {
+      "ean": "2021850000000",
+      "nombre": "pia?a?a x kg.",
       "categoria": "Frutas Y Verduras",
       "precio_antes": 5990.0,
       "precio_hoy": 4990.0,
@@ -84,8 +48,17 @@
       "diff_pct": -16.69
     },
     {
-      "ean": "2020350000008",
-      "nombre": "chaucha ballina x kg.",
+      "ean": "2020100000005",
+      "nombre": "berenjena morada x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 5990.0,
+      "precio_hoy": 4990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -16.69
+    },
+    {
+      "ean": "2020370000002",
+      "nombre": "chaucha rolliza x kg.",
       "categoria": "Frutas Y Verduras",
       "precio_antes": 7990.0,
       "precio_hoy": 6990.0,
@@ -93,34 +66,61 @@
       "diff_pct": -12.52
     },
     {
-      "ean": "7798005437305",
-      "nombre": "sacacorchos tipo mozo chef",
-      "categoria": "Limpieza",
-      "precio_antes": 6903.0,
-      "precio_hoy": 6903.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2020300000003",
+      "nombre": "cebolla de verdeo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 7990.0,
+      "precio_hoy": 6990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -12.52
     },
     {
-      "ean": "8682911647080",
-      "nombre": "set de 2 fuentes redondas",
-      "categoria": "Limpieza",
-      "precio_antes": 29019.39,
-      "precio_hoy": 29019.4,
-      "diff_abs": 0.01,
-      "diff_pct": 0.0
+      "ean": "7792710000380",
+      "nombre": "yerba mate amanda despalada x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2700.0,
+      "precio_hoy": 2376.0,
+      "diff_abs": -324.0,
+      "diff_pct": -12.0
     },
     {
-      "ean": "742779501929",
-      "nombre": "set de baao blanco x 4",
-      "categoria": "Limpieza",
-      "precio_antes": 28967.0,
-      "precio_hoy": 28967.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7792710000106",
+      "nombre": "yerba mate amanda seleccion especial x 1 kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 4781.0,
+      "precio_hoy": 4417.0,
+      "diff_abs": -364.0,
+      "diff_pct": -7.61
+    },
+    {
+      "ean": "7792710006450",
+      "nombre": "yerba mate amanda hierbas serranas x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2234.0,
+      "precio_hoy": 2064.0,
+      "diff_abs": -170.0,
+      "diff_pct": -7.61
+    },
+    {
+      "ean": "7792710000090",
+      "nombre": "yerba mate amanda seleccion especial x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2629.0,
+      "precio_hoy": 2429.0,
+      "diff_abs": -200.0,
+      "diff_pct": -7.61
+    },
+    {
+      "ean": "7792710006443",
+      "nombre": "yerba amanda x 1 kilo suave",
+      "categoria": "Perfumeria",
+      "precio_antes": 4781.0,
+      "precio_hoy": 4417.0,
+      "diff_abs": -364.0,
+      "diff_pct": -7.61
     }
   ],
-  "productos_subieron_dia": 500,
-  "productos_bajaron_dia": 7,
-  "productos_sin_cambio_dia": 2234
+  "productos_subieron_dia": 2,
+  "productos_bajaron_dia": 16,
+  "productos_sin_cambio_dia": 2730
 }
