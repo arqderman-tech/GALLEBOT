@@ -1,32 +1,5 @@
 [
   {
-    "ean": "2022130000000",
-    "nombre": "tomate cherry x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 14990.0,
-    "diff_abs": 9000.0,
-    "diff_pct": 150.25
-  },
-  {
-    "ean": "2022210000005",
-    "nombre": "tomate perita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 133.78
-  },
-  {
-    "ean": "2022220000002",
-    "nombre": "tomate redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 133.78
-  },
-  {
     "ean": "8445291996731",
     "nombre": "avellanas con chocolate con leche nestle x 80 gm",
     "categoria": "Almacen",
@@ -54,8 +27,8 @@
     "diff_pct": 120.27
   },
   {
-    "ean": "7791337010468",
-    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2199.0,
     "precio_hoy": 4687.0,
@@ -63,8 +36,17 @@
     "diff_pct": 113.14
   },
   {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4687.0,
+    "diff_abs": 2488.0,
+    "diff_pct": 113.14
+  },
+  {
+    "ean": "7791337010468",
+    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2199.0,
     "precio_hoy": 4687.0,
@@ -90,31 +72,22 @@
     "diff_pct": 113.14
   },
   {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4687.0,
-    "diff_abs": 2488.0,
-    "diff_pct": 113.14
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 100.5
   },
   {
-    "ean": "7793147570262",
-    "nombre": "cerveza miller x 600 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2859.0,
-    "precio_hoy": 5720.0,
-    "diff_abs": 2861.0,
-    "diff_pct": 100.07
-  },
-  {
-    "ean": "7798222460018",
-    "nombre": "formitas de soja latina x 400 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 2369.0,
-    "precio_hoy": 4731.0,
-    "diff_abs": 2362.0,
-    "diff_pct": 99.7
+    "ean": "2022210000005",
+    "nombre": "tomate perita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3490.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3500.0,
+    "diff_pct": 100.29
   },
   {
     "ean": "7622300742584",
@@ -144,15 +117,6 @@
     "diff_pct": 87.54
   },
   {
-    "ean": "7791337007260",
-    "nombre": "leche chocolatada cindor x 200 ml.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1609.0,
-    "precio_hoy": 3017.0,
-    "diff_abs": 1408.0,
-    "diff_pct": 87.51
-  },
-  {
     "ean": "2020710000006",
     "nombre": "especias x paquete romero",
     "categoria": "Frutas Y Verduras",
@@ -160,6 +124,24 @@
     "precio_hoy": 2790.0,
     "diff_abs": 1300.0,
     "diff_pct": 87.25
+  },
+  {
+    "ean": "7791337605442",
+    "nombre": "yogur entero batido la serenisima x 120 gr. durazo",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 749.0,
+    "precio_hoy": 1399.0,
+    "diff_abs": 650.0,
+    "diff_pct": 86.78
+  },
+  {
+    "ean": "7791337605411",
+    "nombre": "yogur batido la serenisima clasico vainilla x 120.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 749.0,
+    "precio_hoy": 1399.0,
+    "diff_abs": 650.0,
+    "diff_pct": 86.78
   },
   {
     "ean": "7791337605428",
@@ -171,8 +153,26 @@
     "diff_pct": 86.78
   },
   {
-    "ean": "7791337605411",
-    "nombre": "yogur batido la serenisima clasico vainilla x 120.",
+    "ean": "7791337010413",
+    "nombre": "yogur ls.clas.firme ent.fru120",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 749.0,
+    "precio_hoy": 1399.0,
+    "diff_abs": 650.0,
+    "diff_pct": 86.78
+  },
+  {
+    "ean": "7791337010420",
+    "nombre": "yogur ls.clas.firme ent.vai120",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 749.0,
+    "precio_hoy": 1399.0,
+    "diff_abs": 650.0,
+    "diff_pct": 86.78
+  },
+  {
+    "ean": "7791337010307",
+    "nombre": "yogur la serenisima descremado batido x 120 gm vainilla",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 749.0,
     "precio_hoy": 1399.0,

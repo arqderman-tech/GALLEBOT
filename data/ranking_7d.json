@@ -27,24 +27,6 @@
     "diff_pct": 81.76
   },
   {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
-  },
-  {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
-  },
-  {
     "ean": "7791813403012",
     "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
     "categoria": "Bebidas",
@@ -56,6 +38,24 @@
   {
     "ean": "7791813000723",
     "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
+  },
+  {
+    "ean": "7791813403036",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
+  },
+  {
+    "ean": "7791813403029",
+    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
     "categoria": "Bebidas",
     "precio_antes": 1789.0,
     "precio_hoy": 3250.0,
@@ -90,8 +90,8 @@
     "diff_pct": 81.32
   },
   {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+    "ean": "7791813405016",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
     "categoria": "Bebidas",
     "precio_antes": 1849.0,
     "precio_hoy": 3350.0,
@@ -99,8 +99,8 @@
     "diff_pct": 81.18
   },
   {
-    "ean": "7791813405016",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
+    "ean": "7791813405030",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
     "categoria": "Bebidas",
     "precio_antes": 1849.0,
     "precio_hoy": 3350.0,
@@ -115,6 +115,15 @@
     "precio_hoy": 3350.0,
     "diff_abs": 1501.0,
     "diff_pct": 81.18
+  },
+  {
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2598.96,
+    "precio_hoy": 4687.0,
+    "diff_abs": 2088.04,
+    "diff_pct": 80.34
   },
   {
     "ean": "7791337010468",
@@ -135,8 +144,8 @@
     "diff_pct": 80.34
   },
   {
-    "ean": "7791337010369",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2598.96,
     "precio_hoy": 4687.0,
@@ -153,17 +162,8 @@
     "diff_pct": 80.34
   },
   {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2598.96,
-    "precio_hoy": 4687.0,
-    "diff_abs": 2088.04,
-    "diff_pct": 80.34
-  },
-  {
-    "ean": "7791337010413",
-    "nombre": "yogur ls.clas.firme ent.fru120",
+    "ean": "7791337605411",
+    "nombre": "yogur batido la serenisima clasico vainilla x 120.",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 786.46,
     "precio_hoy": 1399.0,
@@ -171,8 +171,8 @@
     "diff_pct": 77.89
   },
   {
-    "ean": "7791337605442",
-    "nombre": "yogur entero batido la serenisima x 120 gr. durazo",
+    "ean": "7791337605428",
+    "nombre": "yogur entero la serenisima cremoso x 120 gr. fruti",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 786.46,
     "precio_hoy": 1399.0,

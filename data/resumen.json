@@ -1,17 +1,31 @@
 {
-  "fecha": "20260912",
+  "fecha": "20260913",
   "total_productos": 6476,
-  "variacion_dia": -0.02,
-  "variacion_7d": 6.79,
-  "variacion_mes": 9.38,
+  "variacion_dia": 0.0,
+  "variacion_7d": 6.78,
+  "variacion_mes": 8.83,
   "variacion_anio": null,
   "categorias_dia": [
     {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1484
+    },
+    {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 2,
-      "productos_bajaron": 5,
-      "total_productos": 1052
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1159
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 241
     },
     {
       "categoria": "Limpieza",
@@ -22,105 +36,112 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.09,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 11,
-      "total_productos": 922
+      "productos_bajaron": 0,
+      "total_productos": 924
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1894
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2021650000002",
-      "nombre": "zapallito largo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
+      "ean": "7790310985830",
+      "nombre": "3ds queso x 85 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 3981.0,
+      "precio_hoy": 3981.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "2021850000000",
-      "nombre": "pia?a?a x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -16.69
+      "ean": "7790310985137",
+      "nombre": "3ds queso x143gr.",
+      "categoria": "Almacen",
+      "precio_antes": 5545.0,
+      "precio_hoy": 5545.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "2020100000005",
-      "nombre": "berenjena morada x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -16.69
+      "ean": "7790310985113",
+      "nombre": "3ds sabor queso x 43 gm",
+      "categoria": "Almacen",
+      "precio_antes": 2469.0,
+      "precio_hoy": 2469.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "2020370000002",
-      "nombre": "chaucha rolliza x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 7990.0,
-      "precio_hoy": 6990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -12.52
+      "ean": "7791728246629",
+      "nombre": "ac. de oliva zuccardi x 500 ml coratina",
+      "categoria": "Almacen",
+      "precio_antes": 24484.0,
+      "precio_hoy": 24484.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "2020300000003",
-      "nombre": "cebolla de verdeo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 7990.0,
-      "precio_hoy": 6990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -12.52
+      "ean": "763571722428",
+      "nombre": "ac.de coco entrenuts x200virg.",
+      "categoria": "Almacen",
+      "precio_antes": 9649.0,
+      "precio_hoy": 9649.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7792710000380",
-      "nombre": "yerba mate amanda despalada x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2700.0,
-      "precio_hoy": 2376.0,
-      "diff_abs": -324.0,
-      "diff_pct": -12.0
+      "ean": "7798080520657",
+      "nombre": "ac.ol.l.toscana x250ml.ajo",
+      "categoria": "Almacen",
+      "precio_antes": 9903.0,
+      "precio_hoy": 9903.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7792710000106",
-      "nombre": "yerba mate amanda seleccion especial x 1 kg.",
-      "categoria": "Perfumeria",
-      "precio_antes": 4781.0,
-      "precio_hoy": 4417.0,
-      "diff_abs": -364.0,
-      "diff_pct": -7.61
+      "ean": "7798080520534",
+      "nombre": "ac.ol.l.toscana x250ml.albahac",
+      "categoria": "Almacen",
+      "precio_antes": 9903.0,
+      "precio_hoy": 9903.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7792710006450",
-      "nombre": "yerba mate amanda hierbas serranas x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2234.0,
-      "precio_hoy": 2064.0,
-      "diff_abs": -170.0,
-      "diff_pct": -7.61
+      "ean": "7791728246612",
+      "nombre": "ac.ol.zuccardi x250ml.coratina",
+      "categoria": "Almacen",
+      "precio_antes": 14282.0,
+      "precio_hoy": 14282.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7792710000090",
-      "nombre": "yerba mate amanda seleccion especial x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2629.0,
-      "precio_hoy": 2429.0,
-      "diff_abs": -200.0,
-      "diff_pct": -7.61
+      "ean": "7791728246575",
+      "nombre": "ac.ol.zuccardi x250ml.picual",
+      "categoria": "Almacen",
+      "precio_antes": 14282.0,
+      "precio_hoy": 14282.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7792710006443",
-      "nombre": "yerba amanda x 1 kilo suave",
-      "categoria": "Perfumeria",
-      "precio_antes": 4781.0,
-      "precio_hoy": 4417.0,
-      "diff_abs": -364.0,
-      "diff_pct": -7.61
+      "ean": "7791728241181",
+      "nombre": "ac.ol.zuelo x500ml.bot.intenso",
+      "categoria": "Almacen",
+      "precio_antes": 19077.0,
+      "precio_hoy": 19077.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 2,
-  "productos_bajaron_dia": 16,
-  "productos_sin_cambio_dia": 2730
+  "productos_subieron_dia": 0,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 6476
 }
