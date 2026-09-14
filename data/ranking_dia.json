@@ -81,15 +81,6 @@
     "diff_pct": 0.0
   },
   {
-    "ean": "7791728241181",
-    "nombre": "ac.ol.zuelo x500ml.bot.intenso",
-    "categoria": "Almacen",
-    "precio_antes": 19077.0,
-    "precio_hoy": 19077.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
     "ean": "41331014922",
     "nombre": "acaitunas goya x 149 gm con pimiento picante",
     "categoria": "Almacen",
@@ -176,6 +167,15 @@
     "categoria": "Almacen",
     "precio_antes": 16512.0,
     "precio_hoy": 16512.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7794870000040",
+    "nombre": "aceite de girasol alsamar x 5 lts.",
+    "categoria": "Almacen",
+    "precio_antes": 22784.0,
+    "precio_hoy": 22784.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   }
