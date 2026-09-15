@@ -9,15 +9,6 @@
     "diff_pct": 122.23
   },
   {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3809.0,
-    "precio_hoy": 8390.0,
-    "diff_abs": 4581.0,
-    "diff_pct": 120.27
-  },
-  {
     "ean": "7791337007796",
     "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
     "categoria": "Lacteos Y Frescos",
@@ -27,8 +18,17 @@
     "diff_pct": 120.27
   },
   {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3809.0,
+    "precio_hoy": 8390.0,
+    "diff_abs": 4581.0,
+    "diff_pct": 120.27
+  },
+  {
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2199.0,
     "precio_hoy": 4687.0,
@@ -54,8 +54,8 @@
     "diff_pct": 113.14
   },
   {
-    "ean": "7791337010468",
-    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2199.0,
     "precio_hoy": 4687.0,
@@ -63,8 +63,8 @@
     "diff_pct": 113.14
   },
   {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "ean": "7791337010468",
+    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2199.0,
     "precio_hoy": 4687.0,
@@ -108,8 +108,8 @@
     "diff_pct": 87.54
   },
   {
-    "ean": "7791337605442",
-    "nombre": "yogur entero batido la serenisima x 120 gr. durazo",
+    "ean": "7791337010314",
+    "nombre": "yogur la serenisima descremado batido x 120 gm frutilla",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 749.0,
     "precio_hoy": 1399.0,
@@ -126,6 +126,15 @@
     "diff_pct": 86.78
   },
   {
+    "ean": "7791337010413",
+    "nombre": "yogur ls.clas.firme ent.fru120",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 749.0,
+    "precio_hoy": 1399.0,
+    "diff_abs": 650.0,
+    "diff_pct": 86.78
+  },
+  {
     "ean": "7791337010307",
     "nombre": "yogur la serenisima descremado batido x 120 gm vainilla",
     "categoria": "Lacteos Y Frescos",
@@ -135,17 +144,8 @@
     "diff_pct": 86.78
   },
   {
-    "ean": "7791337010314",
-    "nombre": "yogur la serenisima descremado batido x 120 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 749.0,
-    "precio_hoy": 1399.0,
-    "diff_abs": 650.0,
-    "diff_pct": 86.78
-  },
-  {
-    "ean": "7791337010413",
-    "nombre": "yogur ls.clas.firme ent.fru120",
+    "ean": "7791337605442",
+    "nombre": "yogur entero batido la serenisima x 120 gr. durazo",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 749.0,
     "precio_hoy": 1399.0,

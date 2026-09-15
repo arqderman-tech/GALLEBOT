@@ -153,15 +153,6 @@
     "diff_pct": 0.0
   },
   {
-    "ean": "656750783931",
-    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 8902.0,
-    "precio_hoy": 8902.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
     "ean": "763571722435",
     "nombre": "aceite de coco entrenuts virgen x 360 ml.",
     "categoria": "Almacen",
@@ -176,6 +167,15 @@
     "categoria": "Almacen",
     "precio_antes": 22784.0,
     "precio_hoy": 22784.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790045823780",
+    "nombre": "aceite de girasol alto oleico granix x 750 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 6831.0,
+    "precio_hoy": 6831.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   }
