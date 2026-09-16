@@ -1,147 +1,147 @@
 {
-  "fecha": "20260915",
-  "total_productos": 6433,
-  "variacion_dia": 0.0,
-  "variacion_7d": 3.94,
-  "variacion_mes": 8.99,
+  "fecha": "20260916",
+  "total_productos": 6487,
+  "variacion_dia": 0.32,
+  "variacion_7d": 5.88,
+  "variacion_mes": 9.28,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": 0.1,
+      "productos_subieron": 46,
+      "productos_bajaron": 6,
       "total_productos": 1480
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1144
+      "variacion_pct_promedio": 0.17,
+      "productos_subieron": 41,
+      "productos_bajaron": 6,
+      "total_productos": 1146
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 238
+      "variacion_pct_promedio": -0.03,
+      "productos_subieron": 6,
+      "productos_bajaron": 14,
+      "total_productos": 239
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.17,
+      "productos_subieron": 22,
       "productos_bajaron": 0,
       "total_productos": 772
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.85,
+      "productos_subieron": 116,
       "productos_bajaron": 0,
-      "total_productos": 919
+      "total_productos": 921
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.44,
+      "productos_subieron": 118,
       "productos_bajaron": 0,
-      "total_productos": 1860
+      "total_productos": 1863
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790310985830",
-      "nombre": "3ds queso x 85 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 3981.0,
-      "precio_hoy": 3981.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2021480000005",
+      "nombre": "papa elegida suelta x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2790.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -800.0,
+      "diff_pct": -28.67
     },
     {
-      "ean": "7790310985137",
-      "nombre": "3ds queso x143gr.",
-      "categoria": "Almacen",
-      "precio_antes": 5545.0,
-      "precio_hoy": 5545.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2019970000000",
+      "nombre": "alcauciles x unidad",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 1990.0,
+      "precio_hoy": 1490.0,
+      "diff_abs": -500.0,
+      "diff_pct": -25.13
     },
     {
-      "ean": "7790310985113",
-      "nombre": "3ds sabor queso x 43 gm",
-      "categoria": "Almacen",
-      "precio_antes": 2469.0,
-      "precio_hoy": 2469.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2021660000009",
+      "nombre": "zapallito redondo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 3990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -25.06
     },
     {
-      "ean": "7791728246629",
-      "nombre": "ac. de oliva zuccardi x 500 ml coratina",
-      "categoria": "Almacen",
-      "precio_antes": 24484.0,
-      "precio_hoy": 24484.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2021650000002",
+      "nombre": "zapallito largo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 3990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -25.06
     },
     {
-      "ean": "763571722428",
-      "nombre": "ac.de coco entrenuts x200virg.",
-      "categoria": "Almacen",
-      "precio_antes": 9649.0,
-      "precio_hoy": 9649.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2020750000004",
+      "nombre": "frutillas x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 7990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -25.03
     },
     {
-      "ean": "7798080520657",
-      "nombre": "ac.ol.l.toscana x250ml.ajo",
-      "categoria": "Almacen",
-      "precio_antes": 9903.0,
-      "precio_hoy": 9903.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7501008603017",
+      "nombre": "bacardi x750ml.carta blanca",
+      "categoria": "Bebidas",
+      "precio_antes": 23717.0,
+      "precio_hoy": 20158.0,
+      "diff_abs": -3559.0,
+      "diff_pct": -15.01
     },
     {
-      "ean": "7798080520534",
-      "nombre": "ac.ol.l.toscana x250ml.albahac",
-      "categoria": "Almacen",
-      "precio_antes": 9903.0,
-      "precio_hoy": 9903.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7501008604014",
+      "nombre": "ron bacardi carta de oro x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 23710.0,
+      "precio_hoy": 20152.0,
+      "diff_abs": -3558.0,
+      "diff_pct": -15.01
     },
     {
-      "ean": "7791728246612",
-      "nombre": "ac.ol.zuccardi x250ml.coratina",
-      "categoria": "Almacen",
-      "precio_antes": 14282.0,
-      "precio_hoy": 14282.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7610113025024",
+      "nombre": "bacardi x 700 ml carta de oro",
+      "categoria": "Bebidas",
+      "precio_antes": 23713.0,
+      "precio_hoy": 20158.0,
+      "diff_abs": -3555.0,
+      "diff_pct": -14.99
     },
     {
-      "ean": "7791728246575",
-      "nombre": "ac.ol.zuccardi x250ml.picual",
-      "categoria": "Almacen",
-      "precio_antes": 14282.0,
-      "precio_hoy": 14282.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2024920000009",
+      "nombre": "brazuelo chueso ternera x kg.",
+      "categoria": "Carniceria",
+      "precio_antes": 16900.0,
+      "precio_hoy": 14900.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -11.83
     },
     {
-      "ean": "41331014922",
-      "nombre": "acaitunas goya x 149 gm con pimiento picante",
-      "categoria": "Almacen",
-      "precio_antes": 10139.0,
-      "precio_hoy": 10139.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790360980618",
+      "nombre": "hamburguesa swift x-trema x 185 gr.",
+      "categoria": "Congelados",
+      "precio_antes": 5603.0,
+      "precio_hoy": 5233.0,
+      "diff_abs": -370.0,
+      "diff_pct": -6.6
     }
   ],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 6413
+  "productos_subieron_dia": 349,
+  "productos_bajaron_dia": 26,
+  "productos_sin_cambio_dia": 6046
 }
