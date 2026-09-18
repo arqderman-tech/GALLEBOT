@@ -1,13 +1,147 @@
 {
-  "fecha": "20260917",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260918",
+  "total_productos": 6567,
+  "variacion_dia": 0.06,
+  "variacion_7d": 0.44,
+  "variacion_mes": 8.99,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 0.12,
+      "productos_subieron": 41,
+      "productos_bajaron": 5,
+      "total_productos": 1477
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": 0.04,
+      "productos_subieron": 8,
+      "productos_bajaron": 5,
+      "total_productos": 1148
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": -0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 1,
+      "total_productos": 240
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 794
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.16,
+      "productos_subieron": 11,
+      "productos_bajaron": 1,
+      "total_productos": 918
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1876
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "2025600000005",
+      "nombre": "puchero de aguja ternera x kg.",
+      "categoria": "Carniceria",
+      "precio_antes": 7900.0,
+      "precio_hoy": 5900.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -25.32
+    },
+    {
+      "ean": "2025590000009",
+      "nombre": "puchero caracu ternera x kg.",
+      "categoria": "Carniceria",
+      "precio_antes": 7900.0,
+      "precio_hoy": 5900.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -25.32
+    },
+    {
+      "ean": "2020920000001",
+      "nombre": "lechuga mantecosa x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -20.04
+    },
+    {
+      "ean": "2019990000004",
+      "nombre": "apio x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -20.04
+    },
+    {
+      "ean": "2020120000009",
+      "nombre": "berengena negra x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -20.04
+    },
+    {
+      "ean": "2016350000001",
+      "nombre": "dulce de membrillo en caja dulcor x kg.",
+      "categoria": "Perfumeria",
+      "precio_antes": 6084.0,
+      "precio_hoy": 5651.0,
+      "diff_abs": -433.0,
+      "diff_pct": -7.12
+    },
+    {
+      "ean": "7790950133363",
+      "nombre": "amargo terma x 1,35 lt. pomelo rosado",
+      "categoria": "Bebidas",
+      "precio_antes": 3137.0,
+      "precio_hoy": 2923.0,
+      "diff_abs": -214.0,
+      "diff_pct": -6.82
+    },
+    {
+      "ean": "7790950133318",
+      "nombre": "amargo terma x 1,35 lt. serrano",
+      "categoria": "Bebidas",
+      "precio_antes": 3137.0,
+      "precio_hoy": 2923.0,
+      "diff_abs": -214.0,
+      "diff_pct": -6.82
+    },
+    {
+      "ean": "7790950133325",
+      "nombre": "amargo terma cero x 1,35 lt. serrano",
+      "categoria": "Bebidas",
+      "precio_antes": 3137.0,
+      "precio_hoy": 2923.0,
+      "diff_abs": -214.0,
+      "diff_pct": -6.82
+    },
+    {
+      "ean": "7790950133370",
+      "nombre": "amargo terma cero x 1,35 lt. manzana",
+      "categoria": "Bebidas",
+      "precio_antes": 3137.0,
+      "precio_hoy": 2923.0,
+      "diff_abs": -214.0,
+      "diff_pct": -6.82
+    }
+  ],
+  "productos_subieron_dia": 60,
+  "productos_bajaron_dia": 12,
+  "productos_sin_cambio_dia": 6381
 }

@@ -1,131 +1,5 @@
 [
   {
-    "ean": "7791337010215",
-    "nombre": "yogur ls.clas.ent.sh x900g.fru",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2499.0,
-    "precio_hoy": 4687.0,
-    "diff_abs": 2188.0,
-    "diff_pct": 87.56
-  },
-  {
-    "ean": "7791337010475",
-    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2499.0,
-    "precio_hoy": 4687.0,
-    "diff_abs": 2188.0,
-    "diff_pct": 87.56
-  },
-  {
-    "ean": "7791337010369",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2499.0,
-    "precio_hoy": 4687.0,
-    "diff_abs": 2188.0,
-    "diff_pct": 87.56
-  },
-  {
-    "ean": "7791337010376",
-    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2499.0,
-    "precio_hoy": 4687.0,
-    "diff_abs": 2188.0,
-    "diff_pct": 87.56
-  },
-  {
-    "ean": "7791337010468",
-    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2499.0,
-    "precio_hoy": 4687.0,
-    "diff_abs": 2188.0,
-    "diff_pct": 87.56
-  },
-  {
-    "ean": "7790314010972",
-    "nombre": "vino tinto los helechos cabernet sauvignon x 750 .",
-    "categoria": "Bebidas",
-    "precio_antes": 9990.0,
-    "precio_hoy": 18588.0,
-    "diff_abs": 8598.0,
-    "diff_pct": 86.07
-  },
-  {
-    "ean": "7790314006357",
-    "nombre": "vino tinto los helechos malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 9990.0,
-    "precio_hoy": 18588.0,
-    "diff_abs": 8598.0,
-    "diff_pct": 86.07
-  },
-  {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
-  },
-  {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
-  },
-  {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
-  },
-  {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1849.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 81.18
-  },
-  {
-    "ean": "7791813405016",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
-    "categoria": "Bebidas",
-    "precio_antes": 1849.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 81.18
-  },
-  {
-    "ean": "7791337007253",
-    "nombre": "leche chocolatada cindor x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4749.0,
-    "precio_hoy": 8390.0,
-    "diff_abs": 3641.0,
-    "diff_pct": 76.67
-  },
-  {
-    "ean": "7791337007796",
-    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4749.0,
-    "precio_hoy": 8390.0,
-    "diff_abs": 3641.0,
-    "diff_pct": 76.67
-  },
-  {
     "ean": "2019880000008",
     "nombre": "acelga x paquete",
     "categoria": "Frutas Y Verduras",
@@ -135,48 +9,174 @@
     "diff_pct": 75.95
   },
   {
-    "ean": "77956699",
-    "nombre": "alfajor shot x60gr.triple",
-    "categoria": "Almacen",
-    "precio_antes": 1269.0,
-    "precio_hoy": 2200.0,
-    "diff_abs": 931.0,
-    "diff_pct": 73.36
+    "ean": "2019950000006",
+    "nombre": "akusay x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 60.24
   },
   {
-    "ean": "77969118",
-    "nombre": "chicle beldent frutilla x10gr.",
-    "categoria": "Almacen",
-    "precio_antes": 839.0,
-    "precio_hoy": 1440.0,
-    "diff_abs": 601.0,
-    "diff_pct": 71.63
+    "ean": "2021640000005",
+    "nombre": "zanahoria suelta x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
   },
   {
-    "ean": "7790070431899",
-    "nombre": "oblea de arroz chocobar x 6 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 5019.0,
-    "precio_hoy": 8363.0,
-    "diff_abs": 3344.0,
-    "diff_pct": 66.63
+    "ean": "2021840000003",
+    "nombre": "pimiento verde x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 33.39
   },
   {
-    "ean": "7791337009684",
-    "nombre": "yogur bebible gran compra frutilla x 900 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1819.0,
-    "precio_hoy": 3010.0,
-    "diff_abs": 1191.0,
-    "diff_pct": 65.48
+    "ean": "2021390000003",
+    "nombre": "naranja de jugo x kilo.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1590.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 400.0,
+    "diff_pct": 25.16
   },
   {
-    "ean": "7791337009691",
-    "nombre": "yogur gran compra bebible x 900 gr vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1819.0,
-    "precio_hoy": 3010.0,
-    "diff_abs": 1191.0,
-    "diff_pct": 65.48
+    "ean": "2021020000007",
+    "nombre": "hinojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
+  },
+  {
+    "ean": "2020270000003",
+    "nombre": "cebolla x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
+  },
+  {
+    "ean": "2020960000009",
+    "nombre": "lechuga repollada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
+  },
+  {
+    "ean": "2020160000007",
+    "nombre": "brocoli x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 25.03
+  },
+  {
+    "ean": "736684208745",
+    "nombre": "miel entrenuts liquida x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 7531.0,
+    "precio_hoy": 9051.0,
+    "diff_abs": 1520.0,
+    "diff_pct": 20.18
+  },
+  {
+    "ean": "656750783993",
+    "nombre": "miel entrenuts cremosa x 500 gr",
+    "categoria": "Perfumeria",
+    "precio_antes": 7531.0,
+    "precio_hoy": 9051.0,
+    "diff_abs": 1520.0,
+    "diff_pct": 20.18
+  },
+  {
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 20.08
+  },
+  {
+    "ean": "7793360126987",
+    "nombre": "dce.membrillo l.camp.x700gr.la",
+    "categoria": "Perfumeria",
+    "precio_antes": 6809.0,
+    "precio_hoy": 8122.0,
+    "diff_abs": 1313.0,
+    "diff_pct": 19.28
+  },
+  {
+    "ean": "7790045001201",
+    "nombre": "gall.frutigran salv.dce.x500gr",
+    "categoria": "Perfumeria",
+    "precio_antes": 4309.0,
+    "precio_hoy": 5091.0,
+    "diff_abs": 782.0,
+    "diff_pct": 18.15
+  },
+  {
+    "ean": "2020570000000",
+    "nombre": "coliflor x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
+  },
+  {
+    "ean": "7790550019197",
+    "nombre": "cafe cabrales en capsulas x 10 unid lungo",
+    "categoria": "Perfumeria",
+    "precio_antes": 7850.0,
+    "precio_hoy": 8995.0,
+    "diff_abs": 1145.0,
+    "diff_pct": 14.59
+  },
+  {
+    "ean": "7790550019234",
+    "nombre": "cafe cabrales en capsulas x 10 unid espresso",
+    "categoria": "Perfumeria",
+    "precio_antes": 7850.0,
+    "precio_hoy": 8995.0,
+    "diff_abs": 1145.0,
+    "diff_pct": 14.59
+  },
+  {
+    "ean": "7790045001218",
+    "nombre": "gall.frutigran av.y pasas x500",
+    "categoria": "Perfumeria",
+    "precio_antes": 4462.0,
+    "precio_hoy": 5091.0,
+    "diff_abs": 629.0,
+    "diff_pct": 14.1
+  },
+  {
+    "ean": "7790045001195",
+    "nombre": "galletitas dulces con salvado frutigran x 250 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2237.0,
+    "precio_hoy": 2545.0,
+    "diff_abs": 308.0,
+    "diff_pct": 13.77
+  },
+  {
+    "ean": "7790550029479",
+    "nombre": "cafe instantaneo cabrales la planta suave x 100 gr",
+    "categoria": "Perfumeria",
+    "precio_antes": 6829.0,
+    "precio_hoy": 7754.0,
+    "diff_abs": 925.0,
+    "diff_pct": 13.55
   }
 ]
