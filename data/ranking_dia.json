@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2020310000000",
-    "nombre": "cebolla morada x kg.",
+    "ean": "2020270000003",
+    "nombre": "cebolla x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3590.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1400.0,
-    "diff_pct": 39.0
-  },
-  {
-    "ean": "2019950000006",
-    "nombre": "akusay x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
-    "ean": "2021840000003",
-    "nombre": "pimiento verde x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 33.39
-  },
-  {
-    "ean": "736684208745",
-    "nombre": "miel entrenuts liquida x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 7531.0,
-    "precio_hoy": 9051.0,
-    "diff_abs": 1520.0,
-    "diff_pct": 20.18
-  },
-  {
-    "ean": "656750783993",
-    "nombre": "miel entrenuts cremosa x 500 gr",
-    "categoria": "Perfumeria",
-    "precio_antes": 7531.0,
-    "precio_hoy": 9051.0,
-    "diff_abs": 1520.0,
-    "diff_pct": 20.18
-  },
-  {
-    "ean": "2019970000000",
-    "nombre": "alcauciles x unidad",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 1790.0,
-    "diff_abs": 300.0,
-    "diff_pct": 20.13
-  },
-  {
-    "ean": "7793360126987",
-    "nombre": "dce.membrillo l.camp.x700gr.la",
-    "categoria": "Perfumeria",
-    "precio_antes": 6809.0,
-    "precio_hoy": 8122.0,
-    "diff_abs": 1313.0,
-    "diff_pct": 19.28
-  },
-  {
-    "ean": "7790577000840",
-    "nombre": "vino rutini merlot x 750 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 22458.0,
-    "precio_hoy": 26749.0,
-    "diff_abs": 4291.0,
-    "diff_pct": 19.11
-  },
-  {
-    "ean": "2020570000000",
-    "nombre": "coliflor x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
+    "precio_antes": 4990.0,
     "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
+    "diff_abs": 2000.0,
+    "diff_pct": 40.08
   },
   {
-    "ean": "7790550019371",
-    "nombre": "cafe cabrales capsulas x 10 unidades nespreso pass",
-    "categoria": "Perfumeria",
-    "precio_antes": 8384.0,
-    "precio_hoy": 9433.0,
-    "diff_abs": 1049.0,
-    "diff_pct": 12.51
-  },
-  {
-    "ean": "7798446310083",
-    "nombre": "pasta de mani entrenuts protein x 370 gm galted caramel",
-    "categoria": "Perfumeria",
-    "precio_antes": 5595.0,
-    "precio_hoy": 6232.0,
-    "diff_abs": 637.0,
-    "diff_pct": 11.39
-  },
-  {
-    "ean": "7798446310090",
-    "nombre": "pasta de mani entrenuts x 370 gm cookies and cream",
-    "categoria": "Perfumeria",
-    "precio_antes": 5595.0,
-    "precio_hoy": 6232.0,
-    "diff_abs": 637.0,
-    "diff_pct": 11.39
-  },
-  {
-    "ean": "7798446310113",
-    "nombre": "pasta de mani entrenuts x 370 gm sal marina",
-    "categoria": "Perfumeria",
-    "precio_antes": 3906.9,
-    "precio_hoy": 4350.0,
-    "diff_abs": 443.1,
-    "diff_pct": 11.34
-  },
-  {
-    "ean": "656750783924",
-    "nombre": "pasta de mani entrenuts x 370 gm stevia",
-    "categoria": "Perfumeria",
-    "precio_antes": 3907.0,
-    "precio_hoy": 4350.0,
-    "diff_abs": 443.0,
-    "diff_pct": 11.34
-  },
-  {
-    "ean": "736684208738",
-    "nombre": "pasta de mani entrenuts x 370 gr crocante",
-    "categoria": "Perfumeria",
-    "precio_antes": 3907.0,
-    "precio_hoy": 4350.0,
-    "diff_abs": 443.0,
-    "diff_pct": 11.34
-  },
-  {
-    "ean": "736684208707",
-    "nombre": "pasta de mani entrenuts natural x 370 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3907.0,
-    "precio_hoy": 4350.0,
-    "diff_abs": 443.0,
-    "diff_pct": 11.34
-  },
-  {
-    "ean": "736684208714",
-    "nombre": "pasta de mani entrenuts con cacao x 370 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 3907.0,
-    "precio_hoy": 4350.0,
-    "diff_abs": 443.0,
-    "diff_pct": 11.34
-  },
-  {
-    "ean": "2020890000001",
-    "nombre": "kiwi x kg.",
+    "ean": "2021790000009",
+    "nombre": "pimiento amarillo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 11990.0,
-    "precio_hoy": 12990.0,
+    "precio_antes": 7990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 25.03
+  },
+  {
+    "ean": "2021850000000",
+    "nombre": "pia?a?a x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 8.34
+    "diff_pct": 20.04
   },
   {
-    "ean": "7791728247824",
-    "nombre": "vino blanco santa julia x 750 ml pinot grigio",
-    "categoria": "Bebidas",
-    "precio_antes": 6114.7,
-    "precio_hoy": 6460.0,
-    "diff_abs": 345.3,
-    "diff_pct": 5.65
+    "ean": "2020370000002",
+    "nombre": "chaucha rolliza x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 14.31
   },
   {
-    "ean": "7791728247749",
-    "nombre": "vino santa julia x750ml.tempra",
-    "categoria": "Bebidas",
-    "precio_antes": 6115.0,
-    "precio_hoy": 6460.0,
-    "diff_abs": 345.0,
-    "diff_pct": 5.64
+    "ean": "7790139100575",
+    "nombre": "salsa barbacoa casalta x 350 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 6613.0,
+    "precio_hoy": 7275.0,
+    "diff_abs": 662.0,
+    "diff_pct": 10.01
+  },
+  {
+    "ean": "7790139100582",
+    "nombre": "salsa chimichurri casalta x 300 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5822.0,
+    "precio_hoy": 6404.0,
+    "diff_abs": 582.0,
+    "diff_pct": 10.0
+  },
+  {
+    "ean": "2021450000004",
+    "nombre": "palta arrugada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 10990.0,
+    "precio_hoy": 11990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 9.1
+  },
+  {
+    "ean": "2011100000003",
+    "nombre": "arrollado de pollo tipo espaa?a?ol x kilo x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 23998.0,
+    "precio_hoy": 25918.0,
+    "diff_abs": 1920.0,
+    "diff_pct": 8.0
+  },
+  {
+    "ean": "2011080000000",
+    "nombre": "arrollado carne espaa?a?ol x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 25617.0,
+    "precio_hoy": 27666.0,
+    "diff_abs": 2049.0,
+    "diff_pct": 8.0
+  },
+  {
+    "ean": "7790139003371",
+    "nombre": "aceto balsamico casalta manzana x 400 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 5500.0,
+    "precio_hoy": 5885.0,
+    "diff_abs": 385.0,
+    "diff_pct": 7.0
+  },
+  {
+    "ean": "2011320000005",
+    "nombre": "salame espaa?a?ol x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 27958.0,
+    "precio_hoy": 29636.0,
+    "diff_abs": 1678.0,
+    "diff_pct": 6.0
+  },
+  {
+    "ean": "7790070621887",
+    "nombre": "rav.la saltena x450gr.cye",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4432.0,
+    "precio_hoy": 4432.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790070621818",
+    "nombre": "ravioles la saltena cuatro quesos x 900 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 8725.0,
+    "precio_hoy": 8725.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7794080001257",
+    "nombre": "ravioles la morocha x 500 gr. ricota y espinaca",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3531.0,
+    "precio_hoy": 3531.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7794080001271",
+    "nombre": "ravioles la morocha x 500 gr. jamon, ricotta y moz",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3531.0,
+    "precio_hoy": 3531.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798151771421",
+    "nombre": "queso untable tremblay x 180 gm sabor jamon",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2358.0,
+    "precio_hoy": 2358.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790070621863",
+    "nombre": "rav.la saltena x450gr.4quesos",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4432.0,
+    "precio_hoy": 4432.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7794990184491",
+    "nombre": "queso untable ricrem clasico x 180 gr",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2072.0,
+    "precio_hoy": 2072.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7794990184507",
+    "nombre": "queso untable ricrem jamon x 180 gr",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2072.0,
+    "precio_hoy": 2072.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798151771414",
+    "nombre": "queso untable tremblay x 180 gm sabor finas hierbas",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2358.0,
+    "precio_hoy": 2358.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]

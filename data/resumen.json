@@ -1,13 +1,147 @@
 {
-  "fecha": "20260919",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260920",
+  "total_productos": 6574,
+  "variacion_dia": -0.02,
+  "variacion_7d": 0.35,
+  "variacion_mes": 8.52,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1502
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": 0.05,
+      "productos_subieron": 8,
+      "productos_bajaron": 3,
+      "total_productos": 1151
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 239
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 799
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 937
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": -0.11,
+      "productos_subieron": 3,
+      "productos_bajaron": 17,
+      "total_productos": 1918
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "2020910000004",
+      "nombre": "lechuga de hoja x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2990.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -33.44
+    },
+    {
+      "ean": "2020960000009",
+      "nombre": "lechuga repollada x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -20.04
+    },
+    {
+      "ean": "8008698028582",
+      "nombre": "tostadas schar x 87 gm",
+      "categoria": "Almacen",
+      "precio_antes": 11367.0,
+      "precio_hoy": 9725.0,
+      "diff_abs": -1642.0,
+      "diff_pct": -14.45
+    },
+    {
+      "ean": "7898954933610",
+      "nombre": "pan frances schar sin tacc x 100 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 7487.0,
+      "precio_hoy": 6405.0,
+      "diff_abs": -1082.0,
+      "diff_pct": -14.45
+    },
+    {
+      "ean": "8008698002070",
+      "nombre": "galletitas schar salini x 60 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 6964.0,
+      "precio_hoy": 5958.0,
+      "diff_abs": -1006.0,
+      "diff_pct": -14.45
+    },
+    {
+      "ean": "8008698010402",
+      "nombre": "galletitas schar x 125 gm maria",
+      "categoria": "Almacen",
+      "precio_antes": 12474.0,
+      "precio_hoy": 10672.0,
+      "diff_abs": -1802.0,
+      "diff_pct": -14.45
+    },
+    {
+      "ean": "8008698001905",
+      "nombre": "obleas schar vainilla x 125 gm",
+      "categoria": "Almacen",
+      "precio_antes": 10106.0,
+      "precio_hoy": 8646.0,
+      "diff_abs": -1460.0,
+      "diff_pct": -14.45
+    },
+    {
+      "ean": "8008698003503",
+      "nombre": "crackers schar sin tacc x 210 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 14779.0,
+      "precio_hoy": 12644.0,
+      "diff_abs": -2135.0,
+      "diff_pct": -14.45
+    },
+    {
+      "ean": "7898954933474",
+      "nombre": "harina schar mix mezcla premium x 500 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 14160.0,
+      "precio_hoy": 12115.0,
+      "diff_abs": -2045.0,
+      "diff_pct": -14.44
+    },
+    {
+      "ean": "7898954933573",
+      "nombre": "pan pevet schar sin tacc x 150 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 11085.0,
+      "precio_hoy": 9484.0,
+      "diff_abs": -1601.0,
+      "diff_pct": -14.44
+    }
+  ],
+  "productos_subieron_dia": 11,
+  "productos_bajaron_dia": 20,
+  "productos_sin_cambio_dia": 6515
 }

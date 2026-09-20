@@ -1,12 +1,12 @@
 [
   {
-    "ean": "2019880000008",
-    "nombre": "acelga x paquete",
+    "ean": "2020270000003",
+    "nombre": "cebolla x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 790.0,
-    "precio_hoy": 1390.0,
-    "diff_abs": 600.0,
-    "diff_pct": 75.95
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
   },
   {
     "ean": "2019950000006",
@@ -16,6 +16,15 @@
     "precio_hoy": 3990.0,
     "diff_abs": 1500.0,
     "diff_pct": 60.24
+  },
+  {
+    "ean": "2020310000000",
+    "nombre": "cebolla morada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3590.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1400.0,
+    "diff_pct": 39.0
   },
   {
     "ean": "2021640000005",
@@ -54,26 +63,8 @@
     "diff_pct": 25.13
   },
   {
-    "ean": "2020270000003",
-    "nombre": "cebolla x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
-    "ean": "2020960000009",
-    "nombre": "lechuga repollada x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
-    "ean": "2020160000007",
-    "nombre": "brocoli x kg.",
+    "ean": "2021790000009",
+    "nombre": "pimiento amarillo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 7990.0,
     "precio_hoy": 9990.0,
@@ -108,6 +99,42 @@
     "diff_pct": 20.08
   },
   {
+    "ean": "2021850000000",
+    "nombre": "pia?a?a x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
+  },
+  {
+    "ean": "7792900705408",
+    "nombre": "saborizante para arroz dos anclas x25gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1080.0,
+    "precio_hoy": 1296.0,
+    "diff_abs": 216.0,
+    "diff_pct": 20.0
+  },
+  {
+    "ean": "7792900705507",
+    "nombre": "saborizante ptucos y guisos dos anclas x25gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1002.0,
+    "precio_hoy": 1202.0,
+    "diff_abs": 200.0,
+    "diff_pct": 19.96
+  },
+  {
+    "ean": "7792900705606",
+    "nombre": "saborizante ppure y pastas dos anclas x25gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1289.0,
+    "precio_hoy": 1546.0,
+    "diff_abs": 257.0,
+    "diff_pct": 19.94
+  },
+  {
     "ean": "7793360126987",
     "nombre": "dce.membrillo l.camp.x700gr.la",
     "categoria": "Perfumeria",
@@ -115,6 +142,15 @@
     "precio_hoy": 8122.0,
     "diff_abs": 1313.0,
     "diff_pct": 19.28
+  },
+  {
+    "ean": "7790577000840",
+    "nombre": "vino rutini merlot x 750 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 22458.0,
+    "precio_hoy": 26749.0,
+    "diff_abs": 4291.0,
+    "diff_pct": 19.11
   },
   {
     "ean": "7790045001201",
@@ -135,48 +171,12 @@
     "diff_pct": 16.69
   },
   {
-    "ean": "7790550019197",
-    "nombre": "cafe cabrales en capsulas x 10 unid lungo",
-    "categoria": "Perfumeria",
-    "precio_antes": 7850.0,
-    "precio_hoy": 8995.0,
-    "diff_abs": 1145.0,
-    "diff_pct": 14.59
-  },
-  {
-    "ean": "7790550019234",
-    "nombre": "cafe cabrales en capsulas x 10 unid espresso",
-    "categoria": "Perfumeria",
-    "precio_antes": 7850.0,
-    "precio_hoy": 8995.0,
-    "diff_abs": 1145.0,
-    "diff_pct": 14.59
-  },
-  {
-    "ean": "7790045001218",
-    "nombre": "gall.frutigran av.y pasas x500",
-    "categoria": "Perfumeria",
-    "precio_antes": 4462.0,
-    "precio_hoy": 5091.0,
-    "diff_abs": 629.0,
-    "diff_pct": 14.1
-  },
-  {
-    "ean": "7790045001195",
-    "nombre": "galletitas dulces con salvado frutigran x 250 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2237.0,
-    "precio_hoy": 2545.0,
-    "diff_abs": 308.0,
-    "diff_pct": 13.77
-  },
-  {
-    "ean": "7790550029479",
-    "nombre": "cafe instantaneo cabrales la planta suave x 100 gr",
-    "categoria": "Perfumeria",
-    "precio_antes": 6829.0,
-    "precio_hoy": 7754.0,
-    "diff_abs": 925.0,
-    "diff_pct": 13.55
+    "ean": "7790380018056",
+    "nombre": "chocolate toddy x 50 gm aireado mix",
+    "categoria": "Almacen",
+    "precio_antes": 2212.0,
+    "precio_hoy": 2581.0,
+    "diff_abs": 369.0,
+    "diff_pct": 16.68
   }
 ]
