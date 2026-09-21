@@ -1,12 +1,12 @@
 [
   {
-    "ean": "2020270000003",
-    "nombre": "cebolla x kg.",
+    "ean": "2020310000000",
+    "nombre": "cebolla morada x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 75.19
+    "precio_antes": 3590.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2400.0,
+    "diff_pct": 66.85
   },
   {
     "ean": "2019950000006",
@@ -18,13 +18,40 @@
     "diff_pct": 60.24
   },
   {
-    "ean": "2020310000000",
-    "nombre": "cebolla morada x kg.",
+    "ean": "2021020000007",
+    "nombre": "hinojo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3590.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1400.0,
-    "diff_pct": 39.0
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
+    "ean": "2020980000003",
+    "nombre": "limones x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
+    "ean": "2020270000003",
+    "nombre": "cebolla x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.13
+  },
+  {
+    "ean": "2020370000002",
+    "nombre": "chaucha rolliza x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 42.92
   },
   {
     "ean": "2021640000005",
@@ -52,15 +79,6 @@
     "precio_hoy": 1990.0,
     "diff_abs": 400.0,
     "diff_pct": 25.16
-  },
-  {
-    "ean": "2021020000007",
-    "nombre": "hinojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
   },
   {
     "ean": "2021790000009",
@@ -160,23 +178,5 @@
     "precio_hoy": 5091.0,
     "diff_abs": 782.0,
     "diff_pct": 18.15
-  },
-  {
-    "ean": "2020570000000",
-    "nombre": "coliflor x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
-  },
-  {
-    "ean": "7790380018056",
-    "nombre": "chocolate toddy x 50 gm aireado mix",
-    "categoria": "Almacen",
-    "precio_antes": 2212.0,
-    "precio_hoy": 2581.0,
-    "diff_abs": 369.0,
-    "diff_pct": 16.68
   }
 ]

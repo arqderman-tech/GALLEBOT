@@ -9,15 +9,6 @@
     "diff_pct": 122.23
   },
   {
-    "ean": "2020270000003",
-    "nombre": "cebolla x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 3500.0,
-    "diff_pct": 100.29
-  },
-  {
     "ean": "7622300742584",
     "nombre": "alfajor terrabusi x6 chocolate",
     "categoria": "Almacen",
@@ -81,24 +72,6 @@
     "diff_pct": 86.07
   },
   {
-    "ean": "7795930000543",
-    "nombre": "agua mineral pureza vital x2.25lt.sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1579.0,
-    "precio_hoy": 2870.0,
-    "diff_abs": 1291.0,
-    "diff_pct": 81.76
-  },
-  {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
-  },
-  {
     "ean": "7791813403012",
     "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
     "categoria": "Bebidas",
@@ -110,6 +83,15 @@
   {
     "ean": "7791813403036",
     "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
+  },
+  {
+    "ean": "7791813403029",
+    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
     "categoria": "Bebidas",
     "precio_antes": 1789.0,
     "precio_hoy": 3250.0,
@@ -144,6 +126,15 @@
     "diff_pct": 81.18
   },
   {
+    "ean": "7622300742621",
+    "nombre": "alfajor terrabusi x6 glaseado",
+    "categoria": "Almacen",
+    "precio_antes": 4569.0,
+    "precio_hoy": 8140.0,
+    "diff_abs": 3571.0,
+    "diff_pct": 78.16
+  },
+  {
     "ean": "7797906054918",
     "nombre": "papas mc cain noisette x 1.2 kg.",
     "categoria": "Congelados",
@@ -173,6 +164,15 @@
   {
     "ean": "77956699",
     "nombre": "alfajor shot x60gr.triple",
+    "categoria": "Almacen",
+    "precio_antes": 1269.0,
+    "precio_hoy": 2200.0,
+    "diff_abs": 931.0,
+    "diff_pct": 73.36
+  },
+  {
+    "ean": "7622202816437",
+    "nombre": "alfajor shot x 60gr.triple blanco",
     "categoria": "Almacen",
     "precio_antes": 1269.0,
     "precio_hoy": 2200.0,

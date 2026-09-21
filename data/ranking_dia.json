@@ -1,16 +1,16 @@
 [
   {
-    "ean": "2020270000003",
-    "nombre": "cebolla x kg.",
+    "ean": "2020980000003",
+    "nombre": "limones x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 40.08
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
   },
   {
-    "ean": "2021790000009",
-    "nombre": "pimiento amarillo x kg.",
+    "ean": "2020370000002",
+    "nombre": "chaucha rolliza x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 7990.0,
     "precio_hoy": 9990.0,
@@ -18,8 +18,17 @@
     "diff_pct": 25.03
   },
   {
-    "ean": "2021850000000",
-    "nombre": "pia?a?a x kg.",
+    "ean": "2021020000007",
+    "nombre": "hinojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 20.08
+  },
+  {
+    "ean": "2020310000000",
+    "nombre": "cebolla morada x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 4990.0,
     "precio_hoy": 5990.0,
@@ -27,128 +36,128 @@
     "diff_pct": 20.04
   },
   {
-    "ean": "2020370000002",
-    "nombre": "chaucha rolliza x kg.",
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 14.31
+    "precio_antes": 2990.0,
+    "precio_hoy": 3490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 16.72
   },
   {
-    "ean": "7790139100575",
-    "nombre": "salsa barbacoa casalta x 350 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 6613.0,
-    "precio_hoy": 7275.0,
-    "diff_abs": 662.0,
-    "diff_pct": 10.01
-  },
-  {
-    "ean": "7790139100582",
-    "nombre": "salsa chimichurri casalta x 300 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5822.0,
-    "precio_hoy": 6404.0,
-    "diff_abs": 582.0,
-    "diff_pct": 10.0
-  },
-  {
-    "ean": "2021450000004",
-    "nombre": "palta arrugada x kg.",
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 10990.0,
-    "precio_hoy": 11990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 9.1
+    "precio_antes": 2990.0,
+    "precio_hoy": 3490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 16.72
   },
   {
-    "ean": "2011100000003",
-    "nombre": "arrollado de pollo tipo espaa?a?ol x kilo x kg.",
+    "ean": "7794990878925",
+    "nombre": "queso untable la paulina jamon x 190 gr.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 23998.0,
-    "precio_hoy": 25918.0,
-    "diff_abs": 1920.0,
-    "diff_pct": 8.0
-  },
-  {
-    "ean": "2011080000000",
-    "nombre": "arrollado carne espaa?a?ol x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 25617.0,
-    "precio_hoy": 27666.0,
-    "diff_abs": 2049.0,
-    "diff_pct": 8.0
-  },
-  {
-    "ean": "7790139003371",
-    "nombre": "aceto balsamico casalta manzana x 400 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 5500.0,
-    "precio_hoy": 5885.0,
-    "diff_abs": 385.0,
-    "diff_pct": 7.0
-  },
-  {
-    "ean": "2011320000005",
-    "nombre": "salame espaa?a?ol x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 27958.0,
-    "precio_hoy": 29636.0,
-    "diff_abs": 1678.0,
-    "diff_pct": 6.0
-  },
-  {
-    "ean": "7790070621887",
-    "nombre": "rav.la saltena x450gr.cye",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4432.0,
-    "precio_hoy": 4432.0,
+    "precio_antes": 2686.0,
+    "precio_hoy": 2686.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "ean": "7790070621818",
-    "nombre": "ravioles la saltena cuatro quesos x 900 gr.",
+    "ean": "7794990878871",
+    "nombre": "queso untable la paulina fontina x 190 gr.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 8725.0,
-    "precio_hoy": 8725.0,
+    "precio_antes": 2686.0,
+    "precio_hoy": 2686.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "ean": "7794080001257",
-    "nombre": "ravioles la morocha x 500 gr. ricota y espinaca",
+    "ean": "7794990878932",
+    "nombre": "queso untable la paulina clasico x 190 gr.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3531.0,
-    "precio_hoy": 3531.0,
+    "precio_antes": 2686.0,
+    "precio_hoy": 2686.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "ean": "7794080001271",
-    "nombre": "ravioles la morocha x 500 gr. jamon, ricotta y moz",
+    "ean": "7794990879526",
+    "nombre": "queso untable la paulina cheddar x 190 gr.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3531.0,
-    "precio_hoy": 3531.0,
+    "precio_antes": 2686.0,
+    "precio_hoy": 2686.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "ean": "7798151771421",
-    "nombre": "queso untable tremblay x 180 gm sabor jamon",
+    "ean": "7794990878888",
+    "nombre": "queso untable la paulina azul x 190 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2686.0,
+    "precio_hoy": 2686.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7794990879823",
+    "nombre": "queso untable la paulina 4 quesos x 190 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2686.0,
+    "precio_hoy": 2686.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790787016532",
+    "nombre": "queso untable ilolay x 190 gr jamon",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2800.0,
+    "precio_hoy": 2800.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790787016518",
+    "nombre": "queso untable ilolay x 190 gr clasico",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2800.0,
+    "precio_hoy": 2800.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798060853034",
+    "nombre": "queso untable tonadita x 180 gr. gruyere",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2161.0,
+    "precio_hoy": 2161.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798060853119",
+    "nombre": "queso untable tonadita dip cheddar x 180 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2498.0,
+    "precio_hoy": 2498.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798060853003",
+    "nombre": "queso untable tonadita clasico x 180 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2161.0,
+    "precio_hoy": 2161.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798151771438",
+    "nombre": "queso untable x 180 gm sabor salame",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2358.0,
     "precio_hoy": 2358.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790070621863",
-    "nombre": "rav.la saltena x450gr.4quesos",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4432.0,
-    "precio_hoy": 4432.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
@@ -162,20 +171,11 @@
     "diff_pct": 0.0
   },
   {
-    "ean": "7794990184507",
-    "nombre": "queso untable ricrem jamon x 180 gr",
+    "ean": "7798060854475",
+    "nombre": "queso untable patagonia x 290 gr clasico",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2072.0,
-    "precio_hoy": 2072.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798151771414",
-    "nombre": "queso untable tremblay x 180 gm sabor finas hierbas",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2358.0,
-    "precio_hoy": 2358.0,
+    "precio_antes": 3080.0,
+    "precio_hoy": 3080.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   }
