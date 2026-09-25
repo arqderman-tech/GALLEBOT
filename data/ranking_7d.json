@@ -1,30 +1,48 @@
 [
   {
-    "ean": "2020310000000",
-    "nombre": "cebolla morada x kg.",
+    "ean": "2021480000005",
+    "nombre": "papa elegida suelta x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3590.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2400.0,
-    "diff_pct": 66.85
-  },
-  {
-    "ean": "2019950000006",
-    "nombre": "akusay x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 60.24
+    "precio_antes": 1990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 150.75
   },
   {
     "ean": "2021020000007",
     "nombre": "hinojo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 50.25
+    "precio_antes": 2490.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2500.0,
+    "diff_pct": 100.4
+  },
+  {
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
+  },
+  {
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
+  },
+  {
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
   },
   {
     "ean": "2020980000003",
@@ -36,13 +54,13 @@
     "diff_pct": 50.25
   },
   {
-    "ean": "2020270000003",
-    "nombre": "cebolla x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
+    "ean": "7790681000477",
+    "nombre": "mani l.egip.x500gr.conf.tost.",
+    "categoria": "Almacen",
+    "precio_antes": 4409.0,
+    "precio_hoy": 6467.0,
+    "diff_abs": 2058.0,
+    "diff_pct": 46.68
   },
   {
     "ean": "2020370000002",
@@ -54,31 +72,22 @@
     "diff_pct": 42.92
   },
   {
-    "ean": "2021640000005",
-    "nombre": "zanahoria suelta x kg.",
+    "ean": "7793551000492",
+    "nombre": "corazon de alcaucil marvavic x 200 gm.",
+    "categoria": "Almacen",
+    "precio_antes": 14628.0,
+    "precio_hoy": 18520.0,
+    "diff_abs": 3892.0,
+    "diff_pct": 26.61
+  },
+  {
+    "ean": "2029100000008",
+    "nombre": "batata zanahoria x kilo",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
-    "ean": "2021840000003",
-    "nombre": "pimiento verde x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 33.39
-  },
-  {
-    "ean": "2021390000003",
-    "nombre": "naranja de jugo x kilo.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1590.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 400.0,
-    "diff_pct": 25.16
+    "diff_pct": 25.06
   },
   {
     "ean": "2021790000009",
@@ -90,31 +99,40 @@
     "diff_pct": 25.03
   },
   {
-    "ean": "736684208745",
-    "nombre": "miel entrenuts liquida x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 7531.0,
-    "precio_hoy": 9051.0,
-    "diff_abs": 1520.0,
-    "diff_pct": 20.18
+    "ean": "7790681000460",
+    "nombre": "mani l.egip.x250gr.ccasc.supe",
+    "categoria": "Almacen",
+    "precio_antes": 3150.0,
+    "precio_hoy": 3788.0,
+    "diff_abs": 638.0,
+    "diff_pct": 20.25
   },
   {
-    "ean": "656750783993",
-    "nombre": "miel entrenuts cremosa x 500 gr",
-    "categoria": "Perfumeria",
-    "precio_antes": 7531.0,
-    "precio_hoy": 9051.0,
-    "diff_abs": 1520.0,
-    "diff_pct": 20.18
-  },
-  {
-    "ean": "2022040000008",
-    "nombre": "repollo blanco x kg.",
+    "ean": "2021680000003",
+    "nombre": "zapallo brasilero x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2490.0,
     "precio_hoy": 2990.0,
     "diff_abs": 500.0,
     "diff_pct": 20.08
+  },
+  {
+    "ean": "2020310000000",
+    "nombre": "cebolla morada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
+  },
+  {
+    "ean": "2020270000003",
+    "nombre": "cebolla x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
   },
   {
     "ean": "2021850000000",
@@ -126,57 +144,39 @@
     "diff_pct": 20.04
   },
   {
-    "ean": "7792900705408",
-    "nombre": "saborizante para arroz dos anclas x25gr.",
+    "ean": "2024670000007",
+    "nombre": "ajies marvavic enteros 900gr x kg.",
     "categoria": "Almacen",
-    "precio_antes": 1080.0,
-    "precio_hoy": 1296.0,
-    "diff_abs": 216.0,
-    "diff_pct": 20.0
+    "precio_antes": 34755.0,
+    "precio_hoy": 41276.0,
+    "diff_abs": 6521.0,
+    "diff_pct": 18.76
   },
   {
-    "ean": "7792900705507",
-    "nombre": "saborizante ptucos y guisos dos anclas x25gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1002.0,
-    "precio_hoy": 1202.0,
-    "diff_abs": 200.0,
-    "diff_pct": 19.96
+    "ean": "2021450000004",
+    "nombre": "palta arrugada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 10990.0,
+    "precio_hoy": 12990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 18.2
   },
   {
-    "ean": "7792900705606",
-    "nombre": "saborizante ppure y pastas dos anclas x25gr.",
+    "ean": "7798132920428",
+    "nombre": "peras en mitades alco x 820 gr.",
     "categoria": "Almacen",
-    "precio_antes": 1289.0,
-    "precio_hoy": 1546.0,
-    "diff_abs": 257.0,
-    "diff_pct": 19.94
+    "precio_antes": 3693.0,
+    "precio_hoy": 4317.0,
+    "diff_abs": 624.0,
+    "diff_pct": 16.9
   },
   {
-    "ean": "7793360126987",
-    "nombre": "dce.membrillo l.camp.x700gr.la",
+    "ean": "7790681002167",
+    "nombre": "pasta de mani la egipciana x 410 gr.",
     "categoria": "Perfumeria",
-    "precio_antes": 6809.0,
-    "precio_hoy": 8122.0,
-    "diff_abs": 1313.0,
-    "diff_pct": 19.28
-  },
-  {
-    "ean": "7790577000840",
-    "nombre": "vino rutini merlot x 750 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 22458.0,
-    "precio_hoy": 26749.0,
-    "diff_abs": 4291.0,
-    "diff_pct": 19.11
-  },
-  {
-    "ean": "7790045001201",
-    "nombre": "gall.frutigran salv.dce.x500gr",
-    "categoria": "Perfumeria",
-    "precio_antes": 4309.0,
-    "precio_hoy": 5091.0,
-    "diff_abs": 782.0,
-    "diff_pct": 18.15
+    "precio_antes": 6959.0,
+    "precio_hoy": 8131.0,
+    "diff_abs": 1172.0,
+    "diff_pct": 16.84
   }
 ]
