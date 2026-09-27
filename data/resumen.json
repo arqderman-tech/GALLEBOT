@@ -1,13 +1,147 @@
 {
-  "fecha": "20260926",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260927",
+  "total_productos": 6619,
+  "variacion_dia": 0.0,
+  "variacion_7d": 0.18,
+  "variacion_mes": 7.84,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 2,
+      "productos_bajaron": 0,
+      "total_productos": 1519
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 2,
+      "productos_bajaron": 4,
+      "total_productos": 1168
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 245
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": -0.03,
+      "productos_subieron": 0,
+      "productos_bajaron": 1,
+      "total_productos": 805
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 944
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 7,
+      "productos_bajaron": 0,
+      "total_productos": 1913
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "7799059053978",
+      "nombre": "ensaladera oval galata 32 x 25 x 11 cm",
+      "categoria": "Limpieza",
+      "precio_antes": 18728.4,
+      "precio_hoy": 13966.0,
+      "diff_abs": -4762.4,
+      "diff_pct": -25.43
+    },
+    {
+      "ean": "2029100000008",
+      "nombre": "batata zanahoria x kilo",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -20.04
+    },
+    {
+      "ean": "2019900000001",
+      "nombre": "ajies x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -20.04
+    },
+    {
+      "ean": "7790787053254",
+      "nombre": "lecher chocolatada x 200 ml proteina larga vida",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1942.3,
+      "precio_hoy": 1942.0,
+      "diff_abs": -0.3,
+      "diff_pct": -0.02
+    },
+    {
+      "ean": "7790787053247",
+      "nombre": "leche ilolay larga vida proteina x 200 ml latte caramel",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1942.3,
+      "precio_hoy": 1942.0,
+      "diff_abs": -0.3,
+      "diff_pct": -0.02
+    },
+    {
+      "ean": "7798151771391",
+      "nombre": "queso untable tremblay x 180 gm cheddar",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2358.2,
+      "precio_hoy": 2358.2,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798060853034",
+      "nombre": "queso untable tonadita x 180 gr. gruyere",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2161.0,
+      "precio_hoy": 2161.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7795293000174",
+      "nombre": "ravioles don yeyo x 500 gr. 4 quesos",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4032.0,
+      "precio_hoy": 4032.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7795293106418",
+      "nombre": "ravioles don yeyo x 500 gm espinaca y ricota",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3869.0,
+      "precio_hoy": 3869.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790070621801",
+      "nombre": "rav.la saltena x900gr.pyverd.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 8725.0,
+      "precio_hoy": 8725.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    }
+  ],
+  "productos_subieron_dia": 11,
+  "productos_bajaron_dia": 5,
+  "productos_sin_cambio_dia": 6578
 }

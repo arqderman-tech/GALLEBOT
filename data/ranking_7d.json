@@ -63,15 +63,6 @@
     "diff_pct": 46.68
   },
   {
-    "ean": "2020370000002",
-    "nombre": "chaucha rolliza x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 42.92
-  },
-  {
     "ean": "7793551000492",
     "nombre": "corazon de alcaucil marvavic x 200 gm.",
     "categoria": "Almacen",
@@ -81,8 +72,8 @@
     "diff_pct": 26.61
   },
   {
-    "ean": "2029100000008",
-    "nombre": "batata zanahoria x kilo",
+    "ean": "2021780000002",
+    "nombre": "perejil x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 4990.0,
@@ -90,8 +81,8 @@
     "diff_pct": 25.06
   },
   {
-    "ean": "2021790000009",
-    "nombre": "pimiento amarillo x kg.",
+    "ean": "2020370000002",
+    "nombre": "chaucha rolliza x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 7990.0,
     "precio_hoy": 9990.0,
@@ -126,24 +117,6 @@
     "diff_pct": 20.04
   },
   {
-    "ean": "2020270000003",
-    "nombre": "cebolla x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
-  },
-  {
-    "ean": "2021850000000",
-    "nombre": "pia?a?a x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
-  },
-  {
     "ean": "2024670000007",
     "nombre": "ajies marvavic enteros 900gr x kg.",
     "categoria": "Almacen",
@@ -151,15 +124,6 @@
     "precio_hoy": 41276.0,
     "diff_abs": 6521.0,
     "diff_pct": 18.76
-  },
-  {
-    "ean": "2021450000004",
-    "nombre": "palta arrugada x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 10990.0,
-    "precio_hoy": 12990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 18.2
   },
   {
     "ean": "7798132920428",
@@ -178,5 +142,41 @@
     "precio_hoy": 8131.0,
     "diff_abs": 1172.0,
     "diff_pct": 16.84
+  },
+  {
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 16.72
+  },
+  {
+    "ean": "2010020000001",
+    "nombre": "fiambre parae mparedado fela x kilo",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 9659.0,
+    "precio_hoy": 11269.0,
+    "diff_abs": 1610.0,
+    "diff_pct": 16.67
+  },
+  {
+    "ean": "2014830000008",
+    "nombre": "lomo cocido paladini x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 20230.0,
+    "precio_hoy": 23601.0,
+    "diff_abs": 3371.0,
+    "diff_pct": 16.66
+  },
+  {
+    "ean": "7793551001079",
+    "nombre": "vinagre de manzana marvavic x 1 lt.",
+    "categoria": "Almacen",
+    "precio_antes": 3000.0,
+    "precio_hoy": 3488.0,
+    "diff_abs": 488.0,
+    "diff_pct": 16.27
   }
 ]
