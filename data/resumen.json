@@ -1,24 +1,24 @@
 {
-  "fecha": "20260927",
+  "fecha": "20260928",
   "total_productos": 6619,
   "variacion_dia": 0.0,
-  "variacion_7d": 0.18,
-  "variacion_mes": 7.84,
+  "variacion_7d": 0.17,
+  "variacion_mes": 7.83,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
       "variacion_pct_promedio": 0.0,
-      "productos_subieron": 2,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "total_productos": 1519
     },
     {
       "categoria": "Frescos",
       "variacion_pct_promedio": 0.0,
-      "productos_subieron": 2,
-      "productos_bajaron": 4,
-      "total_productos": 1168
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1187
     },
     {
       "categoria": "Congelados",
@@ -29,119 +29,119 @@
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": -0.03,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "total_productos": 805
+      "productos_bajaron": 0,
+      "total_productos": 807
     },
     {
       "categoria": "Cuidado Personal",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 944
+      "total_productos": 947
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 7,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1913
+      "total_productos": 1914
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7799059053978",
-      "nombre": "ensaladera oval galata 32 x 25 x 11 cm",
-      "categoria": "Limpieza",
-      "precio_antes": 18728.4,
-      "precio_hoy": 13966.0,
-      "diff_abs": -4762.4,
-      "diff_pct": -25.43
-    },
-    {
-      "ean": "2029100000008",
-      "nombre": "batata zanahoria x kilo",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
-    },
-    {
-      "ean": "2019900000001",
-      "nombre": "ajies x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
-    },
-    {
-      "ean": "7790787053254",
-      "nombre": "lecher chocolatada x 200 ml proteina larga vida",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1942.3,
-      "precio_hoy": 1942.0,
-      "diff_abs": -0.3,
-      "diff_pct": -0.02
-    },
-    {
-      "ean": "7790787053247",
-      "nombre": "leche ilolay larga vida proteina x 200 ml latte caramel",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1942.3,
-      "precio_hoy": 1942.0,
-      "diff_abs": -0.3,
-      "diff_pct": -0.02
-    },
-    {
-      "ean": "7798151771391",
-      "nombre": "queso untable tremblay x 180 gm cheddar",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2358.2,
-      "precio_hoy": 2358.2,
+      "ean": "7790310985830",
+      "nombre": "3ds queso x 85 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 3981.0,
+      "precio_hoy": 3981.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7798060853034",
-      "nombre": "queso untable tonadita x 180 gr. gruyere",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2161.0,
-      "precio_hoy": 2161.0,
+      "ean": "7790310985137",
+      "nombre": "3ds queso x143gr.",
+      "categoria": "Almacen",
+      "precio_antes": 5545.0,
+      "precio_hoy": 5545.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7795293000174",
-      "nombre": "ravioles don yeyo x 500 gr. 4 quesos",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4032.0,
-      "precio_hoy": 4032.0,
+      "ean": "7790310985113",
+      "nombre": "3ds sabor queso x 43 gm",
+      "categoria": "Almacen",
+      "precio_antes": 2370.0,
+      "precio_hoy": 2370.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7795293106418",
-      "nombre": "ravioles don yeyo x 500 gm espinaca y ricota",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3869.0,
-      "precio_hoy": 3869.0,
+      "ean": "7791728246629",
+      "nombre": "ac. de oliva zuccardi x 500 ml coratina",
+      "categoria": "Almacen",
+      "precio_antes": 24484.0,
+      "precio_hoy": 24484.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7790070621801",
-      "nombre": "rav.la saltena x900gr.pyverd.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 8725.0,
-      "precio_hoy": 8725.0,
+      "ean": "763571722428",
+      "nombre": "ac.de coco entrenuts x200virg.",
+      "categoria": "Almacen",
+      "precio_antes": 9649.0,
+      "precio_hoy": 9649.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798080520657",
+      "nombre": "ac.ol.l.toscana x250ml.ajo",
+      "categoria": "Almacen",
+      "precio_antes": 10398.0,
+      "precio_hoy": 10398.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798080520534",
+      "nombre": "ac.ol.l.toscana x250ml.albahac",
+      "categoria": "Almacen",
+      "precio_antes": 10398.0,
+      "precio_hoy": 10398.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7791728246612",
+      "nombre": "ac.ol.zuccardi x250ml.coratina",
+      "categoria": "Almacen",
+      "precio_antes": 14282.0,
+      "precio_hoy": 14282.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7791728246575",
+      "nombre": "ac.ol.zuccardi x250ml.picual",
+      "categoria": "Almacen",
+      "precio_antes": 14282.0,
+      "precio_hoy": 14282.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "41331014922",
+      "nombre": "acaitunas goya x 149 gm con pimiento picante",
+      "categoria": "Almacen",
+      "precio_antes": 10139.0,
+      "precio_hoy": 10139.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 11,
-  "productos_bajaron_dia": 5,
-  "productos_sin_cambio_dia": 6578
+  "productos_subieron_dia": 0,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 6619
 }

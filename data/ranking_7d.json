@@ -9,15 +9,6 @@
     "diff_pct": 150.75
   },
   {
-    "ean": "2021020000007",
-    "nombre": "hinojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 100.4
-  },
-  {
     "ean": "2020180000001",
     "nombre": "calabacita x kg.",
     "categoria": "Frutas Y Verduras",
@@ -27,31 +18,13 @@
     "diff_pct": 75.19
   },
   {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
+    "ean": "2021020000007",
+    "nombre": "hinojo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 4990.0,
     "diff_abs": 2000.0,
     "diff_pct": 66.89
-  },
-  {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
-  },
-  {
-    "ean": "2020980000003",
-    "nombre": "limones x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 50.25
   },
   {
     "ean": "7790681000477",
@@ -61,6 +34,33 @@
     "precio_hoy": 6467.0,
     "diff_abs": 2058.0,
     "diff_pct": 46.68
+  },
+  {
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3490.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 42.98
+  },
+  {
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3490.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 42.98
+  },
+  {
+    "ean": "2019990000004",
+    "nombre": "apio x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
   },
   {
     "ean": "7793551000492",
@@ -81,15 +81,6 @@
     "diff_pct": 25.06
   },
   {
-    "ean": "2020370000002",
-    "nombre": "chaucha rolliza x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 25.03
-  },
-  {
     "ean": "7790681000460",
     "nombre": "mani l.egip.x250gr.ccasc.supe",
     "categoria": "Almacen",
@@ -106,15 +97,6 @@
     "precio_hoy": 2990.0,
     "diff_abs": 500.0,
     "diff_pct": 20.08
-  },
-  {
-    "ean": "2020310000000",
-    "nombre": "cebolla morada x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
   },
   {
     "ean": "2024670000007",
@@ -178,5 +160,23 @@
     "precio_hoy": 3488.0,
     "diff_abs": 488.0,
     "diff_pct": 16.27
+  },
+  {
+    "ean": "7793551001031",
+    "nombre": "vinagre de vino marvavic x 500 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 1736.0,
+    "precio_hoy": 2018.0,
+    "diff_abs": 282.0,
+    "diff_pct": 16.24
+  },
+  {
+    "ean": "7793551001062",
+    "nombre": "vinagre de vino marvavic x 1 lt.",
+    "categoria": "Almacen",
+    "precio_antes": 2624.0,
+    "precio_hoy": 3049.0,
+    "diff_abs": 425.0,
+    "diff_pct": 16.2
   }
 ]
