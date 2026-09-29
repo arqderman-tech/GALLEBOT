@@ -27,6 +27,15 @@
     "diff_pct": 66.89
   },
   {
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
     "ean": "7790681000477",
     "nombre": "mani l.egip.x500gr.conf.tost.",
     "categoria": "Almacen",
@@ -34,15 +43,6 @@
     "precio_hoy": 6467.0,
     "diff_abs": 2058.0,
     "diff_pct": 46.68
-  },
-  {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 42.98
   },
   {
     "ean": "2021660000009",
@@ -54,8 +54,26 @@
     "diff_pct": 42.98
   },
   {
-    "ean": "2019990000004",
-    "nombre": "apio x kg.",
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3490.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 42.98
+  },
+  {
+    "ean": "2021680000003",
+    "nombre": "zapallo brasilero x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 3490.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 40.16
+  },
+  {
+    "ean": "2020260000006",
+    "nombre": "camote colorado x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 3990.0,
@@ -72,15 +90,6 @@
     "diff_pct": 26.61
   },
   {
-    "ean": "2021780000002",
-    "nombre": "perejil x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
     "ean": "7790681000460",
     "nombre": "mani l.egip.x250gr.ccasc.supe",
     "categoria": "Almacen",
@@ -90,13 +99,13 @@
     "diff_pct": 20.25
   },
   {
-    "ean": "2021680000003",
-    "nombre": "zapallo brasilero x kg.",
+    "ean": "7798010466000",
+    "nombre": "portobello prestige bandeja x 200 gr",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 20.08
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
   },
   {
     "ean": "2024670000007",
@@ -126,8 +135,8 @@
     "diff_pct": 16.84
   },
   {
-    "ean": "2022040000008",
-    "nombre": "repollo blanco x kg.",
+    "ean": "2019990000004",
+    "nombre": "apio x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 3490.0,
@@ -169,14 +178,5 @@
     "precio_hoy": 2018.0,
     "diff_abs": 282.0,
     "diff_pct": 16.24
-  },
-  {
-    "ean": "7793551001062",
-    "nombre": "vinagre de vino marvavic x 1 lt.",
-    "categoria": "Almacen",
-    "precio_antes": 2624.0,
-    "precio_hoy": 3049.0,
-    "diff_abs": 425.0,
-    "diff_pct": 16.2
   }
 ]
