@@ -1,9 +1,9 @@
 {
-  "fecha": "20260929",
-  "total_productos": 6618,
-  "variacion_dia": -0.01,
-  "variacion_7d": 0.17,
-  "variacion_mes": 7.81,
+  "fecha": "20260930",
+  "total_productos": 6607,
+  "variacion_dia": 0.02,
+  "variacion_7d": 0.19,
+  "variacion_mes": 7.73,
   "variacion_anio": null,
   "categorias_dia": [
     {
@@ -11,137 +11,137 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1519
+      "total_productos": 1517
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.04,
-      "productos_subieron": 5,
-      "productos_bajaron": 10,
-      "total_productos": 1187
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 1,
+      "productos_bajaron": 0,
+      "total_productos": 1180
     },
     {
       "categoria": "Congelados",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 245
+      "total_productos": 240
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 807
+      "total_productos": 806
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.06,
+      "productos_subieron": 10,
       "productos_bajaron": 0,
-      "total_productos": 947
+      "total_productos": 940
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.03,
+      "productos_subieron": 11,
       "productos_bajaron": 0,
-      "total_productos": 1913
+      "total_productos": 1898
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2019960000003",
-      "nombre": "albahaca x paquete",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1990.0,
-      "precio_hoy": 1490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -25.13
+      "ean": "7794990184507",
+      "nombre": "queso untable ricrem jamon x 180 gr",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1750.0,
+      "precio_hoy": 1750.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "2022060000002",
-      "nombre": "repollo colorado x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -25.06
+      "ean": "7798151771438",
+      "nombre": "queso untable x 180 gm sabor salame",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2358.0,
+      "precio_hoy": 2358.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "2020960000009",
-      "nombre": "lechuga repollada x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -25.06
+      "ean": "7798151771421",
+      "nombre": "queso untable tremblay x 180 gm sabor jamon",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2358.0,
+      "precio_hoy": 2358.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "2021780000002",
-      "nombre": "perejil x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
+      "ean": "7798151771414",
+      "nombre": "queso untable tremblay x 180 gm sabor finas hierbas",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2358.0,
+      "precio_hoy": 2358.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "2020980000003",
-      "nombre": "limones x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 2490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -16.72
+      "ean": "7798151771407",
+      "nombre": "queso untable tremblay x 180 gm sabor clasico",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2358.0,
+      "precio_hoy": 2358.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "2022040000008",
-      "nombre": "repollo blanco x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3490.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -500.0,
-      "diff_pct": -14.33
+      "ean": "7798151771445",
+      "nombre": "queso untable tremblay x 180 gm por salut",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2358.0,
+      "precio_hoy": 2358.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "2019990000004",
-      "nombre": "apio x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 3490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -12.53
+      "ean": "7798151771391",
+      "nombre": "queso untable tremblay x 180 gm cheddar",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2358.2,
+      "precio_hoy": 2358.2,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "2021640000005",
-      "nombre": "zanahoria suelta x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 3490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -12.53
+      "ean": "7798151771384",
+      "nombre": "queso untable tremblay sabor queso azul x 180gm",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2358.0,
+      "precio_hoy": 2358.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "2021840000003",
-      "nombre": "pimiento verde x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 7990.0,
-      "precio_hoy": 6990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -12.52
+      "ean": "7793913013658",
+      "nombre": "queso untable tregar x 180 gr. cheddar",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2828.0,
+      "precio_hoy": 2828.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "2022220000002",
-      "nombre": "tomate redondo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 7990.0,
-      "precio_hoy": 6990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -12.52
+      "ean": "7798060852990",
+      "nombre": "queso untable tonadita x 180 gr. jamon",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2161.0,
+      "precio_hoy": 2161.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 5,
-  "productos_bajaron_dia": 10,
-  "productos_sin_cambio_dia": 6603
+  "productos_subieron_dia": 22,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 6559
 }

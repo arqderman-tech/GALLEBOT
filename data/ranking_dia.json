@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
+    "ean": "7790748235149",
+    "nombre": "merluza en aceite puglisi x 380 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4227.0,
+    "precio_hoy": 4597.0,
+    "diff_abs": 370.0,
+    "diff_pct": 8.75
+  },
+  {
+    "ean": "7790748235187",
+    "nombre": "merluza al natural puglisi x 380 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4227.0,
+    "precio_hoy": 4597.0,
+    "diff_abs": 370.0,
+    "diff_pct": 8.75
+  },
+  {
+    "ean": "2024920000009",
+    "nombre": "brazuelo chueso ternera x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 14900.0,
+    "precio_hoy": 15900.0,
     "diff_abs": 1000.0,
-    "diff_pct": 50.25
+    "diff_pct": 6.71
   },
   {
-    "ean": "2020260000006",
-    "nombre": "camote colorado x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
+    "ean": "7798187760840",
+    "nombre": "barra de cereal zafran x 96 gm manzana y chia",
+    "categoria": "Perfumeria",
+    "precio_antes": 5137.8,
+    "precio_hoy": 5434.0,
+    "diff_abs": 296.2,
+    "diff_pct": 5.77
   },
   {
-    "ean": "7798010466000",
-    "nombre": "portobello prestige bandeja x 200 gr",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
+    "ean": "7798187760826",
+    "nombre": "barra de cereal zafran x 112 gr almendras y coco",
+    "categoria": "Perfumeria",
+    "precio_antes": 5137.8,
+    "precio_hoy": 5434.0,
+    "diff_abs": 296.2,
+    "diff_pct": 5.77
   },
   {
-    "ean": "2021680000003",
-    "nombre": "zapallo brasilero x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 16.72
+    "ean": "7798187760895",
+    "nombre": "barra de cereal zafran x 112 gm nuez y algarroba",
+    "categoria": "Perfumeria",
+    "precio_antes": 5137.8,
+    "precio_hoy": 5434.0,
+    "diff_abs": 296.2,
+    "diff_pct": 5.77
   },
   {
-    "ean": "2021320000004",
-    "nombre": "melon rocio de miel x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 14.31
+    "ean": "7798187760833",
+    "nombre": "barra de cereal zafran x 112 gm mani y cacao",
+    "categoria": "Perfumeria",
+    "precio_antes": 5137.8,
+    "precio_hoy": 5434.0,
+    "diff_abs": 296.2,
+    "diff_pct": 5.77
   },
   {
-    "ean": "7798060854352",
-    "nombre": "queso untable patagonia  x 180 gm light",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2156.0,
-    "precio_hoy": 2156.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798187760871",
+    "nombre": "barra de cereal zafran x 96 gr arandanos y almendras",
+    "categoria": "Perfumeria",
+    "precio_antes": 5137.8,
+    "precio_hoy": 5434.0,
+    "diff_abs": 296.2,
+    "diff_pct": 5.77
   },
   {
-    "ean": "7793913013634",
-    "nombre": "queso untable neufchatel x 180 gr. salame",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2828.0,
-    "precio_hoy": 2828.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798187761083",
+    "nombre": "granola zafran x 300 gr frutos secos y miel",
+    "categoria": "Perfumeria",
+    "precio_antes": 7274.3,
+    "precio_hoy": 7657.0,
+    "diff_abs": 382.7,
+    "diff_pct": 5.26
   },
   {
-    "ean": "7794080001516",
-    "nombre": "ravioles la morocha x 1 kg. espinaca y pollo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 6414.0,
-    "precio_hoy": 6414.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798187761076",
+    "nombre": "granola zafran x 300 gm almendras y pasas",
+    "categoria": "Perfumeria",
+    "precio_antes": 7274.3,
+    "precio_hoy": 7657.0,
+    "diff_abs": 382.7,
+    "diff_pct": 5.26
   },
   {
-    "ean": "7794080001523",
-    "nombre": "ravioles la morocha x 1 kg. cuatro quesos",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 6414.0,
-    "precio_hoy": 6414.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798187761090",
+    "nombre": "granola zafran x 300 gm quinoa y nuez",
+    "categoria": "Perfumeria",
+    "precio_antes": 7274.3,
+    "precio_hoy": 7657.0,
+    "diff_abs": 382.7,
+    "diff_pct": 5.26
   },
   {
-    "ean": "7794080001622",
-    "nombre": "ravioles la morocha x 1 kg. carne y verdura",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 6414.0,
-    "precio_hoy": 6414.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792360094586",
+    "nombre": "chocolate vizzio con almendras x 100 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5965.0,
+    "precio_hoy": 6263.0,
+    "diff_abs": 298.0,
+    "diff_pct": 5.0
   },
   {
-    "ean": "7794080000441",
-    "nombre": "ravioles la morocha ricota y queso x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3531.0,
-    "precio_hoy": 3531.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792360071365",
+    "nombre": "chocolate para taza bonafide x 100 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5040.0,
+    "precio_hoy": 5292.0,
+    "diff_abs": 252.0,
+    "diff_pct": 5.0
   },
   {
-    "ean": "7794080000502",
-    "nombre": "ravioles la morocha de pollo cespinaca",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3531.0,
-    "precio_hoy": 3531.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792360094418",
+    "nombre": "chocolate blanco bonafide x 100 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4620.0,
+    "precio_hoy": 4851.0,
+    "diff_abs": 231.0,
+    "diff_pct": 5.0
   },
   {
-    "ean": "7794080000458",
-    "nombre": "ravioles la morocha de carne y verdura x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3531.0,
-    "precio_hoy": 3531.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792360094319",
+    "nombre": "chocolate bonafide 60a?a? cacao x 100 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5578.0,
+    "precio_hoy": 5857.0,
+    "diff_abs": 279.0,
+    "diff_pct": 5.0
   },
   {
-    "ean": "7798060854345",
-    "nombre": "queso untable patagonia x 180 gm clasico",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2156.0,
-    "precio_hoy": 2156.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792360096818",
+    "nombre": "galletitas donuts x 78 gm leche",
+    "categoria": "Perfumeria",
+    "precio_antes": 2725.0,
+    "precio_hoy": 2861.0,
+    "diff_abs": 136.0,
+    "diff_pct": 4.99
   },
   {
-    "ean": "7790742326607",
-    "nombre": "queso untable ls sabores x 180 gr jamon",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3076.0,
-    "precio_hoy": 3076.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792360096825",
+    "nombre": "donuts bonafide chocolate blanco x 78 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2724.0,
+    "precio_hoy": 2860.0,
+    "diff_abs": 136.0,
+    "diff_pct": 4.99
   },
   {
-    "ean": "7790742326409",
-    "nombre": "queso untable ls sabores x 180 gr fontina",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3076.0,
-    "precio_hoy": 3076.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792360095019",
+    "nombre": "chocolate con leche vizzio x 90 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5189.0,
+    "precio_hoy": 5448.0,
+    "diff_abs": 259.0,
+    "diff_pct": 4.99
   },
   {
-    "ean": "7791337061439",
-    "nombre": "queso untable la serenisima light x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4386.0,
-    "precio_hoy": 4386.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7792360095071",
+    "nombre": "chocolate blanco vizzio x 90 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5189.0,
+    "precio_hoy": 5448.0,
+    "diff_abs": 259.0,
+    "diff_pct": 4.99
   },
   {
-    "ean": "7790742373809",
-    "nombre": "queso untable la serenisima cremon light x 280 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4447.0,
-    "precio_hoy": 4447.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7794990172757",
-    "nombre": "queso untable la paulina x 190 gr. salame",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2268.0,
-    "precio_hoy": 2268.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7794990000043",
-    "nombre": "queso untable la paulina port salut x 190 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2686.0,
-    "precio_hoy": 2686.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790748235118",
+    "nombre": "calamares en aceite puglisi x 180 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 7559.0,
+    "precio_hoy": 7868.0,
+    "diff_abs": 309.0,
+    "diff_pct": 4.09
   }
 ]
