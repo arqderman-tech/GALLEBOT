@@ -1,31 +1,31 @@
 {
-  "fecha": "20260930",
-  "total_productos": 6607,
-  "variacion_dia": 0.02,
-  "variacion_7d": 0.19,
-  "variacion_mes": 7.73,
+  "fecha": "20261001",
+  "total_productos": 6646,
+  "variacion_dia": 0.05,
+  "variacion_7d": 0.23,
+  "variacion_mes": 5.15,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1517
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 1,
+      "productos_bajaron": 2,
+      "total_productos": 1510
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.01,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.2,
+      "productos_subieron": 78,
       "productos_bajaron": 0,
-      "total_productos": 1180
+      "total_productos": 1187
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.19,
+      "productos_subieron": 5,
       "productos_bajaron": 0,
-      "total_productos": 240
+      "total_productos": 241
     },
     {
       "categoria": "Limpieza",
@@ -36,20 +36,74 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.06,
-      "productos_subieron": 10,
+      "variacion_pct_promedio": 0.07,
+      "productos_subieron": 15,
       "productos_bajaron": 0,
-      "total_productos": 940
+      "total_productos": 937
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.03,
-      "productos_subieron": 11,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1898
+      "total_productos": 1905
     }
   ],
   "ranking_baja_dia": [
+    {
+      "ean": "7790895651656",
+      "nombre": "gaseosa fanta x 473 ml ghostface",
+      "categoria": "Bebidas",
+      "precio_antes": 2085.6,
+      "precio_hoy": 1814.0,
+      "diff_abs": -271.6,
+      "diff_pct": -13.02
+    },
+    {
+      "ean": "7790580129958",
+      "nombre": "jugo en polvo bc mango-naranja x 7 gr.",
+      "categoria": "Bebidas",
+      "precio_antes": 391.0,
+      "precio_hoy": 362.0,
+      "diff_abs": -29.0,
+      "diff_pct": -7.42
+    },
+    {
+      "ean": "7794820903094",
+      "nombre": "queso untable milkaut crematto balance x 285 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4399.0,
+      "precio_hoy": 4399.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790742326300",
+      "nombre": "queso untable ls sabores x 180 gr salame",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3122.0,
+      "precio_hoy": 3122.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7790742326607",
+      "nombre": "queso untable ls sabores x 180 gr jamon",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3076.0,
+      "precio_hoy": 3076.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798060853003",
+      "nombre": "queso untable tonadita clasico x 180 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2161.0,
+      "precio_hoy": 2161.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
     {
       "ean": "7794990184507",
       "nombre": "queso untable ricrem jamon x 180 gr",
@@ -60,88 +114,34 @@
       "diff_pct": 0.0
     },
     {
-      "ean": "7798151771438",
-      "nombre": "queso untable x 180 gm sabor salame",
+      "ean": "7794990184491",
+      "nombre": "queso untable ricrem clasico x 180 gr",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2358.0,
-      "precio_hoy": 2358.0,
+      "precio_antes": 1750.0,
+      "precio_hoy": 1750.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7798151771421",
-      "nombre": "queso untable tremblay x 180 gm sabor jamon",
+      "ean": "7798060854475",
+      "nombre": "queso untable patagonia x 290 gr clasico",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2358.0,
-      "precio_hoy": 2358.0,
+      "precio_antes": 3080.0,
+      "precio_hoy": 3080.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7798151771414",
-      "nombre": "queso untable tremblay x 180 gm sabor finas hierbas",
+      "ean": "7798060854482",
+      "nombre": "queso untable patagonia x 290 gm light",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2358.0,
-      "precio_hoy": 2358.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7798151771407",
-      "nombre": "queso untable tremblay x 180 gm sabor clasico",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2358.0,
-      "precio_hoy": 2358.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7798151771445",
-      "nombre": "queso untable tremblay x 180 gm por salut",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2358.0,
-      "precio_hoy": 2358.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7798151771391",
-      "nombre": "queso untable tremblay x 180 gm cheddar",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2358.2,
-      "precio_hoy": 2358.2,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7798151771384",
-      "nombre": "queso untable tremblay sabor queso azul x 180gm",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2358.0,
-      "precio_hoy": 2358.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7793913013658",
-      "nombre": "queso untable tregar x 180 gr. cheddar",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2828.0,
-      "precio_hoy": 2828.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "7798060852990",
-      "nombre": "queso untable tonadita x 180 gr. jamon",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2161.0,
-      "precio_hoy": 2161.0,
+      "precio_antes": 3080.0,
+      "precio_hoy": 3080.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 22,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 6559
+  "productos_subieron_dia": 99,
+  "productos_bajaron_dia": 2,
+  "productos_sin_cambio_dia": 6485
 }

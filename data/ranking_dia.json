@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790748235149",
-    "nombre": "merluza en aceite puglisi x 380 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 4227.0,
-    "precio_hoy": 4597.0,
-    "diff_abs": 370.0,
-    "diff_pct": 8.75
+    "ean": "7793797000034",
+    "nombre": "milanesas de soja delicias x 4 unid. cebolla",
+    "categoria": "Congelados",
+    "precio_antes": 2582.0,
+    "precio_hoy": 2814.0,
+    "diff_abs": 232.0,
+    "diff_pct": 8.99
   },
   {
-    "ean": "7790748235187",
-    "nombre": "merluza al natural puglisi x 380 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 4227.0,
-    "precio_hoy": 4597.0,
-    "diff_abs": 370.0,
-    "diff_pct": 8.75
+    "ean": "7793797000072",
+    "nombre": "milanesas de soja delicias x 4 unid. espinaca",
+    "categoria": "Congelados",
+    "precio_antes": 2582.0,
+    "precio_hoy": 2814.0,
+    "diff_abs": 232.0,
+    "diff_pct": 8.99
   },
   {
-    "ean": "2024920000009",
-    "nombre": "brazuelo chueso ternera x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 14900.0,
-    "precio_hoy": 15900.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 6.71
+    "ean": "7793797000010",
+    "nombre": "milanesas de soja delicias x 4 unid. natural",
+    "categoria": "Congelados",
+    "precio_antes": 2582.0,
+    "precio_hoy": 2814.0,
+    "diff_abs": 232.0,
+    "diff_pct": 8.99
   },
   {
-    "ean": "7798187760840",
-    "nombre": "barra de cereal zafran x 96 gm manzana y chia",
+    "ean": "7793797000027",
+    "nombre": "milanesas de soja delicias x 4 unid. oregano",
+    "categoria": "Congelados",
+    "precio_antes": 2582.0,
+    "precio_hoy": 2814.0,
+    "diff_abs": 232.0,
+    "diff_pct": 8.99
+  },
+  {
+    "ean": "7793797000041",
+    "nombre": "milanesas de soja delicias x 4 unid. provenzal",
+    "categoria": "Congelados",
+    "precio_antes": 2582.0,
+    "precio_hoy": 2814.0,
+    "diff_abs": 232.0,
+    "diff_pct": 8.99
+  },
+  {
+    "ean": "7795735000243",
+    "nombre": "talitas don satur x 110 gr queso",
     "categoria": "Perfumeria",
-    "precio_antes": 5137.8,
-    "precio_hoy": 5434.0,
-    "diff_abs": 296.2,
-    "diff_pct": 5.77
+    "precio_antes": 1871.0,
+    "precio_hoy": 1965.0,
+    "diff_abs": 94.0,
+    "diff_pct": 5.02
   },
   {
-    "ean": "7798187760826",
-    "nombre": "barra de cereal zafran x 112 gr almendras y coco",
+    "ean": "7795735600917",
+    "nombre": "talitas don satur mix de semillas x 140 gr.",
     "categoria": "Perfumeria",
-    "precio_antes": 5137.8,
-    "precio_hoy": 5434.0,
-    "diff_abs": 296.2,
-    "diff_pct": 5.77
+    "precio_antes": 1871.0,
+    "precio_hoy": 1965.0,
+    "diff_abs": 94.0,
+    "diff_pct": 5.02
   },
   {
-    "ean": "7798187760895",
-    "nombre": "barra de cereal zafran x 112 gm nuez y algarroba",
+    "ean": "7795735601204",
+    "nombre": "madalenas don satur chocolate con dulce de leche x 220 gm",
     "categoria": "Perfumeria",
-    "precio_antes": 5137.8,
-    "precio_hoy": 5434.0,
-    "diff_abs": 296.2,
-    "diff_pct": 5.77
+    "precio_antes": 2655.0,
+    "precio_hoy": 2788.0,
+    "diff_abs": 133.0,
+    "diff_pct": 5.01
   },
   {
-    "ean": "7798187760833",
-    "nombre": "barra de cereal zafran x 112 gm mani y cacao",
+    "ean": "7795735601167",
+    "nombre": "madalenas don satur vainilla x 200 gm",
     "categoria": "Perfumeria",
-    "precio_antes": 5137.8,
-    "precio_hoy": 5434.0,
-    "diff_abs": 296.2,
-    "diff_pct": 5.77
+    "precio_antes": 2655.0,
+    "precio_hoy": 2788.0,
+    "diff_abs": 133.0,
+    "diff_pct": 5.01
   },
   {
-    "ean": "7798187760871",
-    "nombre": "barra de cereal zafran x 96 gr arandanos y almendras",
+    "ean": "7795735601174",
+    "nombre": "madalenas don satur x 220 gm de vainilla rellenas ddl",
     "categoria": "Perfumeria",
-    "precio_antes": 5137.8,
-    "precio_hoy": 5434.0,
-    "diff_abs": 296.2,
-    "diff_pct": 5.77
+    "precio_antes": 2655.0,
+    "precio_hoy": 2788.0,
+    "diff_abs": 133.0,
+    "diff_pct": 5.01
   },
   {
-    "ean": "7798187761083",
-    "nombre": "granola zafran x 300 gr frutos secos y miel",
+    "ean": "7795735601181",
+    "nombre": "magdalena don satur marmoladas x 200 gm",
     "categoria": "Perfumeria",
-    "precio_antes": 7274.3,
-    "precio_hoy": 7657.0,
-    "diff_abs": 382.7,
-    "diff_pct": 5.26
+    "precio_antes": 2655.0,
+    "precio_hoy": 2788.0,
+    "diff_abs": 133.0,
+    "diff_pct": 5.01
   },
   {
-    "ean": "7798187761076",
-    "nombre": "granola zafran x 300 gm almendras y pasas",
+    "ean": "7795735000328",
+    "nombre": "bizcochos don satur x 200 gr salados",
     "categoria": "Perfumeria",
-    "precio_antes": 7274.3,
-    "precio_hoy": 7657.0,
-    "diff_abs": 382.7,
-    "diff_pct": 5.26
+    "precio_antes": 1556.0,
+    "precio_hoy": 1634.0,
+    "diff_abs": 78.0,
+    "diff_pct": 5.01
   },
   {
-    "ean": "7798187761090",
-    "nombre": "granola zafran x 300 gm quinoa y nuez",
+    "ean": "7795735000335",
+    "nombre": "bizcochos don satur x 200 gr dulces",
     "categoria": "Perfumeria",
-    "precio_antes": 7274.3,
-    "precio_hoy": 7657.0,
-    "diff_abs": 382.7,
-    "diff_pct": 5.26
+    "precio_antes": 1556.0,
+    "precio_hoy": 1634.0,
+    "diff_abs": 78.0,
+    "diff_pct": 5.01
   },
   {
-    "ean": "7792360094586",
-    "nombre": "chocolate vizzio con almendras x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5965.0,
-    "precio_hoy": 6263.0,
-    "diff_abs": 298.0,
+    "ean": "7795735000342",
+    "nombre": "bizcochos don satur tortitas negra x 200 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 1556.0,
+    "precio_hoy": 1634.0,
+    "diff_abs": 78.0,
+    "diff_pct": 5.01
+  },
+  {
+    "ean": "7795735601259",
+    "nombre": "bizcochos don satur  salados x 200 gr 100 % vegetal",
+    "categoria": "Perfumeria",
+    "precio_antes": 1556.1,
+    "precio_hoy": 1634.0,
+    "diff_abs": 77.9,
+    "diff_pct": 5.01
+  },
+  {
+    "ean": "7795735601198",
+    "nombre": "magdalena don satur x 200 gr con chips",
+    "categoria": "Perfumeria",
+    "precio_antes": 2655.0,
+    "precio_hoy": 2788.0,
+    "diff_abs": 133.0,
+    "diff_pct": 5.01
+  },
+  {
+    "ean": "7795735000106",
+    "nombre": "talitas don satur tradicional x 140 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1701.0,
+    "precio_hoy": 1786.0,
+    "diff_abs": 85.0,
     "diff_pct": 5.0
   },
   {
-    "ean": "7792360071365",
-    "nombre": "chocolate para taza bonafide x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5040.0,
-    "precio_hoy": 5292.0,
-    "diff_abs": 252.0,
-    "diff_pct": 5.0
-  },
-  {
-    "ean": "7792360094418",
-    "nombre": "chocolate blanco bonafide x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 4620.0,
-    "precio_hoy": 4851.0,
-    "diff_abs": 231.0,
-    "diff_pct": 5.0
-  },
-  {
-    "ean": "7792360094319",
-    "nombre": "chocolate bonafide 60a?a? cacao x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5578.0,
-    "precio_hoy": 5857.0,
-    "diff_abs": 279.0,
-    "diff_pct": 5.0
-  },
-  {
-    "ean": "7792360096818",
-    "nombre": "galletitas donuts x 78 gm leche",
+    "ean": "7795735000519",
+    "nombre": "bizcochos don satur x 200 gr queso",
     "categoria": "Perfumeria",
-    "precio_antes": 2725.0,
-    "precio_hoy": 2861.0,
-    "diff_abs": 136.0,
-    "diff_pct": 4.99
+    "precio_antes": 2898.0,
+    "precio_hoy": 3043.0,
+    "diff_abs": 145.0,
+    "diff_pct": 5.0
   },
   {
-    "ean": "7792360096825",
-    "nombre": "donuts bonafide chocolate blanco x 78 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2724.0,
-    "precio_hoy": 2860.0,
-    "diff_abs": 136.0,
-    "diff_pct": 4.99
+    "ean": "7793913014204",
+    "nombre": "yogur con frutas tregar x 150 gr. durazno",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1909.0,
+    "precio_hoy": 1986.0,
+    "diff_abs": 77.0,
+    "diff_pct": 4.03
   },
   {
-    "ean": "7792360095019",
-    "nombre": "chocolate con leche vizzio x 90 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5189.0,
-    "precio_hoy": 5448.0,
-    "diff_abs": 259.0,
-    "diff_pct": 4.99
-  },
-  {
-    "ean": "7792360095071",
-    "nombre": "chocolate blanco vizzio x 90 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5189.0,
-    "precio_hoy": 5448.0,
-    "diff_abs": 259.0,
-    "diff_pct": 4.99
-  },
-  {
-    "ean": "7790748235118",
-    "nombre": "calamares en aceite puglisi x 180 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 7559.0,
-    "precio_hoy": 7868.0,
-    "diff_abs": 309.0,
-    "diff_pct": 4.09
+    "ean": "7793913014228",
+    "nombre": "yogur tregar entero con frutas x 160 gr anana",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1909.0,
+    "precio_hoy": 1986.0,
+    "diff_abs": 77.0,
+    "diff_pct": 4.03
   }
 ]
