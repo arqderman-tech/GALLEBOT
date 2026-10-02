@@ -1,77 +1,5 @@
 [
   {
-    "ean": "2021480000005",
-    "nombre": "papa elegida suelta x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 150.75
-  },
-  {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 75.19
-  },
-  {
-    "ean": "2021020000007",
-    "nombre": "hinojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
-  },
-  {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 50.25
-  },
-  {
-    "ean": "7790681000477",
-    "nombre": "mani l.egip.x500gr.conf.tost.",
-    "categoria": "Almacen",
-    "precio_antes": 4409.0,
-    "precio_hoy": 6467.0,
-    "diff_abs": 2058.0,
-    "diff_pct": 46.68
-  },
-  {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 42.98
-  },
-  {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 42.98
-  },
-  {
-    "ean": "2021680000003",
-    "nombre": "zapallo brasilero x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 3490.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 40.16
-  },
-  {
     "ean": "2020260000006",
     "nombre": "camote colorado x kg.",
     "categoria": "Frutas Y Verduras",
@@ -81,22 +9,31 @@
     "diff_pct": 33.44
   },
   {
-    "ean": "7793551000492",
-    "nombre": "corazon de alcaucil marvavic x 200 gm.",
-    "categoria": "Almacen",
-    "precio_antes": 14628.0,
-    "precio_hoy": 18520.0,
-    "diff_abs": 3892.0,
-    "diff_pct": 26.61
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
   },
   {
-    "ean": "7790681000460",
-    "nombre": "mani l.egip.x250gr.ccasc.supe",
-    "categoria": "Almacen",
-    "precio_antes": 3150.0,
-    "precio_hoy": 3788.0,
-    "diff_abs": 638.0,
-    "diff_pct": 20.25
+    "ean": "2021780000002",
+    "nombre": "perejil x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
+  },
+  {
+    "ean": "2020120000009",
+    "nombre": "berengena negra x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
   },
   {
     "ean": "7798010466000",
@@ -108,35 +45,8 @@
     "diff_pct": 20.04
   },
   {
-    "ean": "2024670000007",
-    "nombre": "ajies marvavic enteros 900gr x kg.",
-    "categoria": "Almacen",
-    "precio_antes": 34755.0,
-    "precio_hoy": 41276.0,
-    "diff_abs": 6521.0,
-    "diff_pct": 18.76
-  },
-  {
-    "ean": "7798132920428",
-    "nombre": "peras en mitades alco x 820 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3693.0,
-    "precio_hoy": 4317.0,
-    "diff_abs": 624.0,
-    "diff_pct": 16.9
-  },
-  {
-    "ean": "7790681002167",
-    "nombre": "pasta de mani la egipciana x 410 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 6959.0,
-    "precio_hoy": 8131.0,
-    "diff_abs": 1172.0,
-    "diff_pct": 16.84
-  },
-  {
-    "ean": "2019990000004",
-    "nombre": "apio x kg.",
+    "ean": "2019950000006",
+    "nombre": "akusay x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 3490.0,
@@ -144,39 +54,129 @@
     "diff_pct": 16.72
   },
   {
-    "ean": "2010020000001",
-    "nombre": "fiambre parae mparedado fela x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 9659.0,
-    "precio_hoy": 11269.0,
-    "diff_abs": 1610.0,
-    "diff_pct": 16.67
+    "ean": "2021680000003",
+    "nombre": "zapallo brasilero x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 16.72
   },
   {
-    "ean": "2014830000008",
-    "nombre": "lomo cocido paladini x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 20230.0,
-    "precio_hoy": 23601.0,
-    "diff_abs": 3371.0,
-    "diff_pct": 16.66
+    "ean": "2021320000004",
+    "nombre": "melon rocio de miel x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 14.31
   },
   {
-    "ean": "7793551001079",
-    "nombre": "vinagre de manzana marvavic x 1 lt.",
+    "ean": "7790314000331",
+    "nombre": "vino de mesa blanco nativo tetra x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1892.0,
+    "precio_hoy": 2096.0,
+    "diff_abs": 204.0,
+    "diff_pct": 10.78
+  },
+  {
+    "ean": "7790314000324",
+    "nombre": "vino de mesa nativo tinto tetra x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2262.0,
+    "precio_hoy": 2505.0,
+    "diff_abs": 243.0,
+    "diff_pct": 10.74
+  },
+  {
+    "ean": "7790314063848",
+    "nombre": "vino toro tetra x1lt.blanco",
+    "categoria": "Bebidas",
+    "precio_antes": 2324.0,
+    "precio_hoy": 2556.0,
+    "diff_abs": 232.0,
+    "diff_pct": 9.98
+  },
+  {
+    "ean": "7790314000416",
+    "nombre": "vino de mesa rosado toro tetra x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2324.0,
+    "precio_hoy": 2556.0,
+    "diff_abs": 232.0,
+    "diff_pct": 9.98
+  },
+  {
+    "ean": "7793797000027",
+    "nombre": "milanesas de soja delicias x 4 unid. oregano",
+    "categoria": "Congelados",
+    "precio_antes": 2582.0,
+    "precio_hoy": 2814.0,
+    "diff_abs": 232.0,
+    "diff_pct": 8.99
+  },
+  {
+    "ean": "7793797000010",
+    "nombre": "milanesas de soja delicias x 4 unid. natural",
+    "categoria": "Congelados",
+    "precio_antes": 2582.0,
+    "precio_hoy": 2814.0,
+    "diff_abs": 232.0,
+    "diff_pct": 8.99
+  },
+  {
+    "ean": "7793797000072",
+    "nombre": "milanesas de soja delicias x 4 unid. espinaca",
+    "categoria": "Congelados",
+    "precio_antes": 2582.0,
+    "precio_hoy": 2814.0,
+    "diff_abs": 232.0,
+    "diff_pct": 8.99
+  },
+  {
+    "ean": "7793797000034",
+    "nombre": "milanesas de soja delicias x 4 unid. cebolla",
+    "categoria": "Congelados",
+    "precio_antes": 2582.0,
+    "precio_hoy": 2814.0,
+    "diff_abs": 232.0,
+    "diff_pct": 8.99
+  },
+  {
+    "ean": "7793797000041",
+    "nombre": "milanesas de soja delicias x 4 unid. provenzal",
+    "categoria": "Congelados",
+    "precio_antes": 2582.0,
+    "precio_hoy": 2814.0,
+    "diff_abs": 232.0,
+    "diff_pct": 8.99
+  },
+  {
+    "ean": "7790748235187",
+    "nombre": "merluza al natural puglisi x 380 gr.",
     "categoria": "Almacen",
-    "precio_antes": 3000.0,
-    "precio_hoy": 3488.0,
-    "diff_abs": 488.0,
-    "diff_pct": 16.27
+    "precio_antes": 4227.0,
+    "precio_hoy": 4597.0,
+    "diff_abs": 370.0,
+    "diff_pct": 8.75
   },
   {
-    "ean": "7793551001031",
-    "nombre": "vinagre de vino marvavic x 500 ml.",
+    "ean": "7790748235149",
+    "nombre": "merluza en aceite puglisi x 380 gr.",
     "categoria": "Almacen",
-    "precio_antes": 1736.0,
-    "precio_hoy": 2018.0,
-    "diff_abs": 282.0,
-    "diff_pct": 16.24
+    "precio_antes": 4227.0,
+    "precio_hoy": 4597.0,
+    "diff_abs": 370.0,
+    "diff_pct": 8.75
+  },
+  {
+    "ean": "7798147783223",
+    "nombre": "bombones franui chocolate con leche x 150 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 9422.0,
+    "precio_hoy": 10176.0,
+    "diff_abs": 754.0,
+    "diff_pct": 8.0
   }
 ]

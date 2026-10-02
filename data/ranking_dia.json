@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7793797000034",
-    "nombre": "milanesas de soja delicias x 4 unid. cebolla",
-    "categoria": "Congelados",
-    "precio_antes": 2582.0,
-    "precio_hoy": 2814.0,
+    "ean": "2021780000002",
+    "nombre": "perejil x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
+  },
+  {
+    "ean": "2020120000009",
+    "nombre": "berengena negra x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
+  },
+  {
+    "ean": "7790314000331",
+    "nombre": "vino de mesa blanco nativo tetra x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1892.0,
+    "precio_hoy": 2096.0,
+    "diff_abs": 204.0,
+    "diff_pct": 10.78
+  },
+  {
+    "ean": "7790314000324",
+    "nombre": "vino de mesa nativo tinto tetra x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2262.0,
+    "precio_hoy": 2505.0,
+    "diff_abs": 243.0,
+    "diff_pct": 10.74
+  },
+  {
+    "ean": "7790314063848",
+    "nombre": "vino toro tetra x1lt.blanco",
+    "categoria": "Bebidas",
+    "precio_antes": 2324.0,
+    "precio_hoy": 2556.0,
     "diff_abs": 232.0,
-    "diff_pct": 8.99
+    "diff_pct": 9.98
   },
   {
-    "ean": "7793797000072",
-    "nombre": "milanesas de soja delicias x 4 unid. espinaca",
-    "categoria": "Congelados",
-    "precio_antes": 2582.0,
-    "precio_hoy": 2814.0,
+    "ean": "7790314000416",
+    "nombre": "vino de mesa rosado toro tetra x 1 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 2324.0,
+    "precio_hoy": 2556.0,
     "diff_abs": 232.0,
-    "diff_pct": 8.99
+    "diff_pct": 9.98
   },
   {
-    "ean": "7793797000010",
-    "nombre": "milanesas de soja delicias x 4 unid. natural",
+    "ean": "7798147780062",
+    "nombre": "bombones franui chocolate amargo x 150 gr.",
     "categoria": "Congelados",
-    "precio_antes": 2582.0,
-    "precio_hoy": 2814.0,
-    "diff_abs": 232.0,
-    "diff_pct": 8.99
+    "precio_antes": 9422.0,
+    "precio_hoy": 10176.0,
+    "diff_abs": 754.0,
+    "diff_pct": 8.0
   },
   {
-    "ean": "7793797000027",
-    "nombre": "milanesas de soja delicias x 4 unid. oregano",
+    "ean": "7798147783223",
+    "nombre": "bombones franui chocolate con leche x 150 gr.",
     "categoria": "Congelados",
-    "precio_antes": 2582.0,
-    "precio_hoy": 2814.0,
-    "diff_abs": 232.0,
-    "diff_pct": 8.99
+    "precio_antes": 9422.0,
+    "precio_hoy": 10176.0,
+    "diff_abs": 754.0,
+    "diff_pct": 8.0
   },
   {
-    "ean": "7793797000041",
-    "nombre": "milanesas de soja delicias x 4 unid. provenzal",
+    "ean": "7798147784008",
+    "nombre": "bombones franui pink x 150 gr.",
     "categoria": "Congelados",
-    "precio_antes": 2582.0,
-    "precio_hoy": 2814.0,
-    "diff_abs": 232.0,
-    "diff_pct": 8.99
+    "precio_antes": 9422.0,
+    "precio_hoy": 10176.0,
+    "diff_abs": 754.0,
+    "diff_pct": 8.0
   },
   {
-    "ean": "7795735000243",
-    "nombre": "talitas don satur x 110 gr queso",
-    "categoria": "Perfumeria",
-    "precio_antes": 1871.0,
-    "precio_hoy": 1965.0,
-    "diff_abs": 94.0,
-    "diff_pct": 5.02
+    "ean": "7798147784442",
+    "nombre": "bombon franui x 150 gm free",
+    "categoria": "Congelados",
+    "precio_antes": 9422.0,
+    "precio_hoy": 10176.0,
+    "diff_abs": 754.0,
+    "diff_pct": 8.0
   },
   {
-    "ean": "7795735600917",
-    "nombre": "talitas don satur mix de semillas x 140 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1871.0,
-    "precio_hoy": 1965.0,
-    "diff_abs": 94.0,
-    "diff_pct": 5.02
-  },
-  {
-    "ean": "7795735601204",
-    "nombre": "madalenas don satur chocolate con dulce de leche x 220 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 2655.0,
-    "precio_hoy": 2788.0,
-    "diff_abs": 133.0,
-    "diff_pct": 5.01
-  },
-  {
-    "ean": "7795735601167",
-    "nombre": "madalenas don satur vainilla x 200 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 2655.0,
-    "precio_hoy": 2788.0,
-    "diff_abs": 133.0,
-    "diff_pct": 5.01
-  },
-  {
-    "ean": "7795735601174",
-    "nombre": "madalenas don satur x 220 gm de vainilla rellenas ddl",
-    "categoria": "Perfumeria",
-    "precio_antes": 2655.0,
-    "precio_hoy": 2788.0,
-    "diff_abs": 133.0,
-    "diff_pct": 5.01
-  },
-  {
-    "ean": "7795735601181",
-    "nombre": "magdalena don satur marmoladas x 200 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 2655.0,
-    "precio_hoy": 2788.0,
-    "diff_abs": 133.0,
-    "diff_pct": 5.01
-  },
-  {
-    "ean": "7795735000328",
-    "nombre": "bizcochos don satur x 200 gr salados",
-    "categoria": "Perfumeria",
-    "precio_antes": 1556.0,
-    "precio_hoy": 1634.0,
-    "diff_abs": 78.0,
-    "diff_pct": 5.01
-  },
-  {
-    "ean": "7795735000335",
-    "nombre": "bizcochos don satur x 200 gr dulces",
-    "categoria": "Perfumeria",
-    "precio_antes": 1556.0,
-    "precio_hoy": 1634.0,
-    "diff_abs": 78.0,
-    "diff_pct": 5.01
-  },
-  {
-    "ean": "7795735000342",
-    "nombre": "bizcochos don satur tortitas negra x 200 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 1556.0,
-    "precio_hoy": 1634.0,
-    "diff_abs": 78.0,
-    "diff_pct": 5.01
-  },
-  {
-    "ean": "7795735601259",
-    "nombre": "bizcochos don satur  salados x 200 gr 100 % vegetal",
-    "categoria": "Perfumeria",
-    "precio_antes": 1556.1,
-    "precio_hoy": 1634.0,
-    "diff_abs": 77.9,
-    "diff_pct": 5.01
-  },
-  {
-    "ean": "7795735601198",
-    "nombre": "magdalena don satur x 200 gr con chips",
-    "categoria": "Perfumeria",
-    "precio_antes": 2655.0,
-    "precio_hoy": 2788.0,
-    "diff_abs": 133.0,
-    "diff_pct": 5.01
-  },
-  {
-    "ean": "7795735000106",
-    "nombre": "talitas don satur tradicional x 140 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1701.0,
-    "precio_hoy": 1786.0,
-    "diff_abs": 85.0,
-    "diff_pct": 5.0
-  },
-  {
-    "ean": "7795735000519",
-    "nombre": "bizcochos don satur x 200 gr queso",
-    "categoria": "Perfumeria",
-    "precio_antes": 2898.0,
-    "precio_hoy": 3043.0,
-    "diff_abs": 145.0,
-    "diff_pct": 5.0
-  },
-  {
-    "ean": "7793913014204",
-    "nombre": "yogur con frutas tregar x 150 gr. durazno",
+    "ean": "7798136872013",
+    "nombre": "yogur dahi proteico x 190 gr sabor vainilla",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1909.0,
-    "precio_hoy": 1986.0,
-    "diff_abs": 77.0,
-    "diff_pct": 4.03
+    "precio_antes": 3405.0,
+    "precio_hoy": 3670.0,
+    "diff_abs": 265.0,
+    "diff_pct": 7.78
   },
   {
-    "ean": "7793913014228",
-    "nombre": "yogur tregar entero con frutas x 160 gr anana",
+    "ean": "7798136872006",
+    "nombre": "yogur dahi proteico x 190 gr sabor natural",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1909.0,
-    "precio_hoy": 1986.0,
-    "diff_abs": 77.0,
-    "diff_pct": 4.03
+    "precio_antes": 3405.0,
+    "precio_hoy": 3670.0,
+    "diff_abs": 265.0,
+    "diff_pct": 7.78
+  },
+  {
+    "ean": "758890928125",
+    "nombre": "mate coc.don basilio x25sq",
+    "categoria": "Perfumeria",
+    "precio_antes": 859.0,
+    "precio_hoy": 921.0,
+    "diff_abs": 62.0,
+    "diff_pct": 7.22
+  },
+  {
+    "ean": "758890928040",
+    "nombre": "yerba mate don basilio tradicional x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1639.0,
+    "precio_hoy": 1742.0,
+    "diff_abs": 103.0,
+    "diff_pct": 6.28
+  },
+  {
+    "ean": "763571871027",
+    "nombre": "yerba mate don basilio terere x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1639.0,
+    "precio_hoy": 1742.0,
+    "diff_abs": 103.0,
+    "diff_pct": 6.28
+  },
+  {
+    "ean": "763571871010",
+    "nombre": "yerba don basilio suave x 500 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 2000.0,
+    "precio_hoy": 2115.0,
+    "diff_abs": 115.0,
+    "diff_pct": 5.75
+  },
+  {
+    "ean": "790757863439",
+    "nombre": "yerba mate don basilio seleccion especial x 500 gr",
+    "categoria": "Perfumeria",
+    "precio_antes": 2000.0,
+    "precio_hoy": 2115.0,
+    "diff_abs": 115.0,
+    "diff_pct": 5.75
+  },
+  {
+    "ean": "7790314079122",
+    "nombre": "vino resero x 700 ml tinto",
+    "categoria": "Bebidas",
+    "precio_antes": 2644.0,
+    "precio_hoy": 2724.0,
+    "diff_abs": 80.0,
+    "diff_pct": 3.03
+  },
+  {
+    "ean": "7790314079184",
+    "nombre": "vino dralion x750ml.malb.syr.",
+    "categoria": "Bebidas",
+    "precio_antes": 4410.0,
+    "precio_hoy": 4543.0,
+    "diff_abs": 133.0,
+    "diff_pct": 3.02
+  },
+  {
+    "ean": "7790314079191",
+    "nombre": "vino dralion x750ml.cab.syr.",
+    "categoria": "Bebidas",
+    "precio_antes": 4410.0,
+    "precio_hoy": 4543.0,
+    "diff_abs": 133.0,
+    "diff_pct": 3.02
   }
 ]
