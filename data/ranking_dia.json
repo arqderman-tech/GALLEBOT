@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2021780000002",
-    "nombre": "perejil x kg.",
+    "ean": "2030430000002",
+    "nombre": "cabeza de lomo de cerdo el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
+  },
+  {
+    "ean": "2030450000006",
+    "nombre": "jamon redondo de cerdo el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
+  },
+  {
+    "ean": "2030460000003",
+    "nombre": "cuadril de cerdo el cheru x kilo",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
+  },
+  {
+    "ean": "2030440000009",
+    "nombre": "jamon cuadrado de cerdo el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
+  },
+  {
+    "ean": "2030470000000",
+    "nombre": "nalga de cerdo el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
+  },
+  {
+    "ean": "2030530000001",
+    "nombre": "jamon con hueso sin cuero el cheru x kilo",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
+  },
+  {
+    "ean": "2030480000007",
+    "nombre": "punta vacio de cerdo el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
+  },
+  {
+    "ean": "2019950000006",
+    "nombre": "akusay x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
-    "ean": "2020120000009",
-    "nombre": "berengena negra x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
-    "ean": "7790314000331",
-    "nombre": "vino de mesa blanco nativo tetra x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1892.0,
-    "precio_hoy": 2096.0,
-    "diff_abs": 204.0,
-    "diff_pct": 10.78
-  },
-  {
-    "ean": "7790314000324",
-    "nombre": "vino de mesa nativo tinto tetra x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2262.0,
-    "precio_hoy": 2505.0,
-    "diff_abs": 243.0,
-    "diff_pct": 10.74
-  },
-  {
-    "ean": "7790314063848",
-    "nombre": "vino toro tetra x1lt.blanco",
-    "categoria": "Bebidas",
-    "precio_antes": 2324.0,
-    "precio_hoy": 2556.0,
-    "diff_abs": 232.0,
-    "diff_pct": 9.98
-  },
-  {
-    "ean": "7790314000416",
-    "nombre": "vino de mesa rosado toro tetra x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2324.0,
-    "precio_hoy": 2556.0,
-    "diff_abs": 232.0,
-    "diff_pct": 9.98
-  },
-  {
-    "ean": "7798147780062",
-    "nombre": "bombones franui chocolate amargo x 150 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 9422.0,
-    "precio_hoy": 10176.0,
-    "diff_abs": 754.0,
-    "diff_pct": 8.0
-  },
-  {
-    "ean": "7798147783223",
-    "nombre": "bombones franui chocolate con leche x 150 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 9422.0,
-    "precio_hoy": 10176.0,
-    "diff_abs": 754.0,
-    "diff_pct": 8.0
-  },
-  {
-    "ean": "7798147784008",
-    "nombre": "bombones franui pink x 150 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 9422.0,
-    "precio_hoy": 10176.0,
-    "diff_abs": 754.0,
-    "diff_pct": 8.0
-  },
-  {
-    "ean": "7798147784442",
-    "nombre": "bombon franui x 150 gm free",
-    "categoria": "Congelados",
-    "precio_antes": 9422.0,
-    "precio_hoy": 10176.0,
-    "diff_abs": 754.0,
-    "diff_pct": 8.0
-  },
-  {
-    "ean": "7798136872013",
-    "nombre": "yogur dahi proteico x 190 gr sabor vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3405.0,
-    "precio_hoy": 3670.0,
-    "diff_abs": 265.0,
-    "diff_pct": 7.78
+    "precio_antes": 3490.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 14.33
   },
   {
     "ean": "7798136872006",
     "nombre": "yogur dahi proteico x 190 gr sabor natural",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3405.0,
-    "precio_hoy": 3670.0,
-    "diff_abs": 265.0,
-    "diff_pct": 7.78
+    "precio_antes": 3670.0,
+    "precio_hoy": 3746.0,
+    "diff_abs": 76.0,
+    "diff_pct": 2.07
   },
   {
-    "ean": "758890928125",
-    "nombre": "mate coc.don basilio x25sq",
-    "categoria": "Perfumeria",
-    "precio_antes": 859.0,
-    "precio_hoy": 921.0,
-    "diff_abs": 62.0,
-    "diff_pct": 7.22
+    "ean": "7798136872013",
+    "nombre": "yogur dahi proteico x 190 gr sabor vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3670.0,
+    "precio_hoy": 3746.0,
+    "diff_abs": 76.0,
+    "diff_pct": 2.07
   },
   {
-    "ean": "758890928040",
-    "nombre": "yerba mate don basilio tradicional x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1639.0,
-    "precio_hoy": 1742.0,
-    "diff_abs": 103.0,
-    "diff_pct": 6.28
-  },
-  {
-    "ean": "763571871027",
-    "nombre": "yerba mate don basilio terere x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1639.0,
-    "precio_hoy": 1742.0,
-    "diff_abs": 103.0,
-    "diff_pct": 6.28
-  },
-  {
-    "ean": "763571871010",
-    "nombre": "yerba don basilio suave x 500 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 2000.0,
-    "precio_hoy": 2115.0,
-    "diff_abs": 115.0,
-    "diff_pct": 5.75
-  },
-  {
-    "ean": "790757863439",
-    "nombre": "yerba mate don basilio seleccion especial x 500 gr",
-    "categoria": "Perfumeria",
-    "precio_antes": 2000.0,
-    "precio_hoy": 2115.0,
-    "diff_abs": 115.0,
-    "diff_pct": 5.75
-  },
-  {
-    "ean": "7790314079122",
-    "nombre": "vino resero x 700 ml tinto",
-    "categoria": "Bebidas",
-    "precio_antes": 2644.0,
+    "ean": "7798136870583",
+    "nombre": "yogur dahi firme descremado x 190 gm vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2669.0,
     "precio_hoy": 2724.0,
-    "diff_abs": 80.0,
-    "diff_pct": 3.03
+    "diff_abs": 55.0,
+    "diff_pct": 2.06
   },
   {
-    "ean": "7790314079184",
-    "nombre": "vino dralion x750ml.malb.syr.",
-    "categoria": "Bebidas",
-    "precio_antes": 4410.0,
-    "precio_hoy": 4543.0,
-    "diff_abs": 133.0,
-    "diff_pct": 3.02
+    "ean": "7798136870545",
+    "nombre": "yogue entero dahi natural sin azucar x 190 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2669.0,
+    "precio_hoy": 2724.0,
+    "diff_abs": 55.0,
+    "diff_pct": 2.06
   },
   {
-    "ean": "7790314079191",
-    "nombre": "vino dralion x750ml.cab.syr.",
-    "categoria": "Bebidas",
-    "precio_antes": 4410.0,
-    "precio_hoy": 4543.0,
-    "diff_abs": 133.0,
-    "diff_pct": 3.02
+    "ean": "7798136870606",
+    "nombre": "yogur dahi descremado x 190 gr natural",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2669.0,
+    "precio_hoy": 2724.0,
+    "diff_abs": 55.0,
+    "diff_pct": 2.06
+  },
+  {
+    "ean": "7798136871856",
+    "nombre": "yogur dahi griego x 190 gr natural sin azucar",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3117.9,
+    "precio_hoy": 3182.1,
+    "diff_abs": 64.2,
+    "diff_pct": 2.06
+  },
+  {
+    "ean": "7798136870682",
+    "nombre": "yogur dahi descremado frutos del bosque x 190 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3118.0,
+    "precio_hoy": 3182.0,
+    "diff_abs": 64.0,
+    "diff_pct": 2.05
+  },
+  {
+    "ean": "7798136870743",
+    "nombre": "yogur dahi deslactosado x 190 gr natural",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3118.0,
+    "precio_hoy": 3182.0,
+    "diff_abs": 64.0,
+    "diff_pct": 2.05
+  },
+  {
+    "ean": "7798136870620",
+    "nombre": "yogur entero batido dahi frutos del bosque x 190 g",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3118.0,
+    "precio_hoy": 3182.0,
+    "diff_abs": 64.0,
+    "diff_pct": 2.05
+  },
+  {
+    "ean": "7798136870781",
+    "nombre": "yogur dahi entero x 130 gr tiramisu",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2488.0,
+    "precio_hoy": 2539.0,
+    "diff_abs": 51.0,
+    "diff_pct": 2.05
+  },
+  {
+    "ean": "7798136870767",
+    "nombre": "yogur dahi entero x 130 gr key lime",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2488.0,
+    "precio_hoy": 2539.0,
+    "diff_abs": 51.0,
+    "diff_pct": 2.05
+  },
+  {
+    "ean": "7798136871573",
+    "nombre": "yogur dahi entero batido x 190 gm con anana",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3118.0,
+    "precio_hoy": 3182.0,
+    "diff_abs": 64.0,
+    "diff_pct": 2.05
   }
 ]

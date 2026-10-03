@@ -1,58 +1,58 @@
 {
-  "fecha": "20261002",
-  "total_productos": 6647,
-  "variacion_dia": -0.01,
-  "variacion_7d": 0.05,
-  "variacion_mes": 5.76,
+  "fecha": "20261003",
+  "total_productos": 6669,
+  "variacion_dia": 0.03,
+  "variacion_7d": 0.09,
+  "variacion_mes": 7.36,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.15,
-      "productos_subieron": 66,
-      "productos_bajaron": 2,
-      "total_productos": 1516
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1514
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.28,
-      "productos_subieron": 10,
-      "productos_bajaron": 41,
-      "total_productos": 1182
+      "variacion_pct_promedio": 0.12,
+      "productos_subieron": 31,
+      "productos_bajaron": 5,
+      "total_productos": 1179
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.13,
-      "productos_subieron": 5,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "total_productos": 241
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": -0.0,
-      "productos_subieron": 16,
-      "productos_bajaron": 19,
-      "total_productos": 803
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 807
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.01,
-      "productos_subieron": 11,
-      "productos_bajaron": 21,
-      "total_productos": 936
+      "variacion_pct_promedio": 0.04,
+      "productos_subieron": 18,
+      "productos_bajaron": 0,
+      "total_productos": 937
     },
     {
       "categoria": "Almacen",
       "variacion_pct_promedio": 0.0,
-      "productos_subieron": 11,
-      "productos_bajaron": 13,
-      "total_productos": 1938
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1934
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2022040000008",
-      "nombre": "repollo blanco x kg.",
+      "ean": "2021550000003",
+      "nombre": "pepino x kg.",
       "categoria": "Frutas Y Verduras",
       "precio_antes": 2990.0,
       "precio_hoy": 1990.0,
@@ -60,62 +60,26 @@
       "diff_pct": -33.44
     },
     {
-      "ean": "2019970000000",
-      "nombre": "alcauciles x unidad",
+      "ean": "2022040000008",
+      "nombre": "repollo blanco x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 1390.0,
-      "precio_hoy": 990.0,
-      "diff_abs": -400.0,
-      "diff_pct": -28.78
+      "precio_antes": 1990.0,
+      "precio_hoy": 1490.0,
+      "diff_abs": -500.0,
+      "diff_pct": -25.13
     },
     {
-      "ean": "2021640000005",
-      "nombre": "zanahoria suelta x kg.",
+      "ean": "2022060000002",
+      "nombre": "repollo colorado x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 3490.0,
-      "precio_hoy": 2490.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -28.65
+      "precio_antes": 2490.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -500.0,
+      "diff_pct": -20.08
     },
     {
       "ean": "2020570000000",
       "nombre": "coliflor x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -28.61
-    },
-    {
-      "ean": "2020180000001",
-      "nombre": "calabacita x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -28.61
-    },
-    {
-      "ean": "2020270000003",
-      "nombre": "cebolla x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 4390.0,
-      "diff_abs": -1600.0,
-      "diff_pct": -26.71
-    },
-    {
-      "ean": "2020920000001",
-      "nombre": "lechuga mantecosa x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -25.06
-    },
-    {
-      "ean": "2020100000005",
-      "nombre": "berenjena morada x kg.",
       "categoria": "Frutas Y Verduras",
       "precio_antes": 4990.0,
       "precio_hoy": 3990.0,
@@ -123,25 +87,61 @@
       "diff_pct": -20.04
     },
     {
-      "ean": "2020160000007",
-      "nombre": "brocoli x kg.",
+      "ean": "2021840000003",
+      "nombre": "pimiento verde x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 9990.0,
-      "precio_hoy": 7990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -20.02
+      "precio_antes": 6990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -14.31
     },
     {
-      "ean": "2022060000002",
-      "nombre": "repollo colorado x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 2490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -16.72
+      "ean": "7790742324009",
+      "nombre": "queso untable finlandia mas liviano x 180 gm",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3838.0,
+      "precio_hoy": 3838.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7794990878925",
+      "nombre": "queso untable la paulina jamon x 190 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2686.0,
+      "precio_hoy": 2686.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7794990878871",
+      "nombre": "queso untable la paulina fontina x 190 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2686.0,
+      "precio_hoy": 2686.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7794990878932",
+      "nombre": "queso untable la paulina clasico x 190 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2686.0,
+      "precio_hoy": 2686.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7794990879526",
+      "nombre": "queso untable la paulina cheddar x 190 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2686.0,
+      "precio_hoy": 2686.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 119,
-  "productos_bajaron_dia": 96,
-  "productos_sin_cambio_dia": 6401
+  "productos_subieron_dia": 49,
+  "productos_bajaron_dia": 5,
+  "productos_sin_cambio_dia": 6558
 }
