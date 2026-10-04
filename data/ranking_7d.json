@@ -1,14 +1,5 @@
 [
   {
-    "ean": "2019950000006",
-    "nombre": "akusay x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
     "ean": "2020260000006",
     "nombre": "camote colorado x kg.",
     "categoria": "Frutas Y Verduras",
@@ -16,33 +7,6 @@
     "precio_hoy": 3990.0,
     "diff_abs": 1000.0,
     "diff_pct": 33.44
-  },
-  {
-    "ean": "2030480000007",
-    "nombre": "punta vacio de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
-  },
-  {
-    "ean": "2030470000000",
-    "nombre": "nalga de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
-  },
-  {
-    "ean": "2030430000002",
-    "nombre": "cabeza de lomo de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
   },
   {
     "ean": "2030530000001",
@@ -72,8 +36,35 @@
     "diff_pct": 26.89
   },
   {
+    "ean": "2030430000002",
+    "nombre": "cabeza de lomo de cerdo el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
+  },
+  {
     "ean": "2030450000006",
     "nombre": "jamon redondo de cerdo el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
+  },
+  {
+    "ean": "2030480000007",
+    "nombre": "punta vacio de cerdo el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
+  },
+  {
+    "ean": "2030470000000",
+    "nombre": "nalga de cerdo el cheru x kg.",
     "categoria": "Carniceria",
     "precio_antes": 7900.0,
     "precio_hoy": 10024.0,
@@ -99,15 +90,6 @@
     "diff_pct": 25.06
   },
   {
-    "ean": "2021780000002",
-    "nombre": "perejil x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
     "ean": "7798010466000",
     "nombre": "portobello prestige bandeja x 200 gr",
     "categoria": "Frutas Y Verduras",
@@ -124,6 +106,15 @@
     "precio_hoy": 3490.0,
     "diff_abs": 500.0,
     "diff_pct": 16.72
+  },
+  {
+    "ean": "2019950000006",
+    "nombre": "akusay x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3490.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 14.33
   },
   {
     "ean": "2021320000004",
@@ -169,6 +160,15 @@
     "precio_hoy": 3746.0,
     "diff_abs": 341.0,
     "diff_pct": 10.01
+  },
+  {
+    "ean": "7790314063848",
+    "nombre": "vino toro tetra x1lt.blanco",
+    "categoria": "Bebidas",
+    "precio_antes": 2324.0,
+    "precio_hoy": 2556.0,
+    "diff_abs": 232.0,
+    "diff_pct": 9.98
   },
   {
     "ean": "7790314000416",

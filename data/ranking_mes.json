@@ -1,14 +1,5 @@
 [
   {
-    "ean": "8445291996731",
-    "nombre": "avellanas con chocolate con leche nestle x 80 gm",
-    "categoria": "Almacen",
-    "precio_antes": 3091.0,
-    "precio_hoy": 6869.0,
-    "diff_abs": 3778.0,
-    "diff_pct": 122.23
-  },
-  {
     "ean": "7790314010972",
     "nombre": "vino tinto los helechos cabernet sauvignon x 750 .",
     "categoria": "Bebidas",
@@ -45,8 +36,8 @@
     "diff_pct": 81.67
   },
   {
-    "ean": "7791813000723",
-    "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
+    "ean": "7791813403012",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
     "categoria": "Bebidas",
     "precio_antes": 1789.0,
     "precio_hoy": 3250.0,
@@ -54,8 +45,8 @@
     "diff_pct": 81.67
   },
   {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+    "ean": "7791813000723",
+    "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
     "categoria": "Bebidas",
     "precio_antes": 1789.0,
     "precio_hoy": 3250.0,
@@ -178,5 +169,14 @@
     "precio_hoy": 4990.0,
     "diff_abs": 2200.0,
     "diff_pct": 78.85
+  },
+  {
+    "ean": "7791337605411",
+    "nombre": "yogur batido la serenisima clasico vainilla x 120.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 786.46,
+    "precio_hoy": 1399.0,
+    "diff_abs": 612.54,
+    "diff_pct": 77.89
   }
 ]

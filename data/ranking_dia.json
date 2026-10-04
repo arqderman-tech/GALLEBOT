@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2030430000002",
-    "nombre": "cabeza de lomo de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
+    "ean": "7790310985830",
+    "nombre": "3ds queso x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3981.0,
+    "precio_hoy": 3981.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2030450000006",
-    "nombre": "jamon redondo de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
+    "ean": "7790310985137",
+    "nombre": "3ds queso x143gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5545.0,
+    "precio_hoy": 5545.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2030460000003",
-    "nombre": "cuadril de cerdo el cheru x kilo",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
+    "ean": "7790310985113",
+    "nombre": "3ds sabor queso x 43 gm",
+    "categoria": "Almacen",
+    "precio_antes": 2370.0,
+    "precio_hoy": 2370.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2030440000009",
-    "nombre": "jamon cuadrado de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
+    "ean": "7791728246629",
+    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
+    "categoria": "Almacen",
+    "precio_antes": 24484.0,
+    "precio_hoy": 24484.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2030470000000",
-    "nombre": "nalga de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
+    "ean": "763571722428",
+    "nombre": "ac.de coco entrenuts x200virg.",
+    "categoria": "Almacen",
+    "precio_antes": 9649.0,
+    "precio_hoy": 9649.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2030530000001",
-    "nombre": "jamon con hueso sin cuero el cheru x kilo",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
+    "ean": "7798080520657",
+    "nombre": "ac.ol.l.toscana x250ml.ajo",
+    "categoria": "Almacen",
+    "precio_antes": 10398.0,
+    "precio_hoy": 10398.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2030480000007",
-    "nombre": "punta vacio de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
+    "ean": "7798080520534",
+    "nombre": "ac.ol.l.toscana x250ml.albahac",
+    "categoria": "Almacen",
+    "precio_antes": 10398.0,
+    "precio_hoy": 10398.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2019950000006",
-    "nombre": "akusay x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 14.33
+    "ean": "7791728246612",
+    "nombre": "ac.ol.zuccardi x250ml.coratina",
+    "categoria": "Almacen",
+    "precio_antes": 14282.0,
+    "precio_hoy": 14282.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798136872006",
-    "nombre": "yogur dahi proteico x 190 gr sabor natural",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3670.0,
-    "precio_hoy": 3746.0,
-    "diff_abs": 76.0,
-    "diff_pct": 2.07
+    "ean": "7791728246575",
+    "nombre": "ac.ol.zuccardi x250ml.picual",
+    "categoria": "Almacen",
+    "precio_antes": 14282.0,
+    "precio_hoy": 14282.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798136872013",
-    "nombre": "yogur dahi proteico x 190 gr sabor vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3670.0,
-    "precio_hoy": 3746.0,
-    "diff_abs": 76.0,
-    "diff_pct": 2.07
+    "ean": "41331014922",
+    "nombre": "acaitunas goya x 149 gm con pimiento picante",
+    "categoria": "Almacen",
+    "precio_antes": 10139.0,
+    "precio_hoy": 10139.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798136870583",
-    "nombre": "yogur dahi firme descremado x 190 gm vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2669.0,
-    "precio_hoy": 2724.0,
-    "diff_abs": 55.0,
-    "diff_pct": 2.06
+    "ean": "7790580160807",
+    "nombre": "aceite arcor x900ml.maiz",
+    "categoria": "Almacen",
+    "precio_antes": 5911.0,
+    "precio_hoy": 5911.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798136870545",
-    "nombre": "yogue entero dahi natural sin azucar x 190 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2669.0,
-    "precio_hoy": 2724.0,
-    "diff_abs": 55.0,
-    "diff_pct": 2.06
+    "ean": "7790070225023",
+    "nombre": "aceite cocinero mezcla x1.5lt.",
+    "categoria": "Almacen",
+    "precio_antes": 5476.0,
+    "precio_hoy": 5476.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798136870606",
-    "nombre": "yogur dahi descremado x 190 gr natural",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2669.0,
-    "precio_hoy": 2724.0,
-    "diff_abs": 55.0,
-    "diff_pct": 2.06
+    "ean": "7790070104311",
+    "nombre": "aceite cocinero oliva puro x 900 ml",
+    "categoria": "Almacen",
+    "precio_antes": 19061.0,
+    "precio_hoy": 19061.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798136871856",
-    "nombre": "yogur dahi griego x 190 gr natural sin azucar",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3117.9,
-    "precio_hoy": 3182.1,
-    "diff_abs": 64.2,
-    "diff_pct": 2.06
+    "ean": "7790070231604",
+    "nombre": "aceite cocinero olivay girasol x 1.5 litros",
+    "categoria": "Almacen",
+    "precio_antes": 9336.0,
+    "precio_hoy": 9336.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798136870682",
-    "nombre": "yogur dahi descremado frutos del bosque x 190 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3118.0,
-    "precio_hoy": 3182.0,
-    "diff_abs": 64.0,
-    "diff_pct": 2.05
+    "ean": "7790070265142",
+    "nombre": "aceite cocinero puro de oliva x 500 ml",
+    "categoria": "Almacen",
+    "precio_antes": 10919.0,
+    "precio_hoy": 10919.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798136870743",
-    "nombre": "yogur dahi deslactosado x 190 gr natural",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3118.0,
-    "precio_hoy": 3182.0,
-    "diff_abs": 64.0,
-    "diff_pct": 2.05
+    "ean": "7790070231598",
+    "nombre": "aceite cocinero x900 ml oliva y girasol",
+    "categoria": "Almacen",
+    "precio_antes": 5809.0,
+    "precio_hoy": 5809.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798136870620",
-    "nombre": "yogur entero batido dahi frutos del bosque x 190 g",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3118.0,
-    "precio_hoy": 3182.0,
-    "diff_abs": 64.0,
-    "diff_pct": 2.05
+    "ean": "7790272006819",
+    "nombre": "aceite copisi x 900 ml. girasol y oliva",
+    "categoria": "Almacen",
+    "precio_antes": 6162.0,
+    "precio_hoy": 6162.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798136870781",
-    "nombre": "yogur dahi entero x 130 gr tiramisu",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2488.0,
-    "precio_hoy": 2539.0,
-    "diff_abs": 51.0,
-    "diff_pct": 2.05
+    "ean": "656750783931",
+    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 8902.0,
+    "precio_hoy": 8902.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798136870767",
-    "nombre": "yogur dahi entero x 130 gr key lime",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2488.0,
-    "precio_hoy": 2539.0,
-    "diff_abs": 51.0,
-    "diff_pct": 2.05
+    "ean": "763571722435",
+    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 16512.0,
+    "precio_hoy": 16512.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798136871573",
-    "nombre": "yogur dahi entero batido x 190 gm con anana",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3118.0,
-    "precio_hoy": 3182.0,
-    "diff_abs": 64.0,
-    "diff_pct": 2.05
+    "ean": "7794870000040",
+    "nombre": "aceite de girasol alsamar x 5 lts.",
+    "categoria": "Almacen",
+    "precio_antes": 22784.0,
+    "precio_hoy": 22784.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]

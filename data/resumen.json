@@ -1,9 +1,9 @@
 {
-  "fecha": "20261003",
-  "total_productos": 6669,
-  "variacion_dia": 0.03,
-  "variacion_7d": 0.09,
-  "variacion_mes": 7.36,
+  "fecha": "20261004",
+  "total_productos": 6670,
+  "variacion_dia": 0.0,
+  "variacion_7d": 0.08,
+  "variacion_mes": 7.64,
   "variacion_anio": null,
   "categorias_dia": [
     {
@@ -11,21 +11,21 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1514
+      "total_productos": 1519
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.12,
-      "productos_subieron": 31,
-      "productos_bajaron": 5,
-      "total_productos": 1179
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1195
     },
     {
       "categoria": "Congelados",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 241
+      "total_productos": 247
     },
     {
       "categoria": "Limpieza",
@@ -36,112 +36,112 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.04,
-      "productos_subieron": 18,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 937
+      "total_productos": 949
     },
     {
       "categoria": "Almacen",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1934
+      "total_productos": 1952
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2021550000003",
-      "nombre": "pepino x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 1990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -33.44
-    },
-    {
-      "ean": "2022040000008",
-      "nombre": "repollo blanco x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1990.0,
-      "precio_hoy": 1490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -25.13
-    },
-    {
-      "ean": "2022060000002",
-      "nombre": "repollo colorado x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2490.0,
-      "precio_hoy": 1990.0,
-      "diff_abs": -500.0,
-      "diff_pct": -20.08
-    },
-    {
-      "ean": "2020570000000",
-      "nombre": "coliflor x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
-    },
-    {
-      "ean": "2021840000003",
-      "nombre": "pimiento verde x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 5990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -14.31
-    },
-    {
-      "ean": "7790742324009",
-      "nombre": "queso untable finlandia mas liviano x 180 gm",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3838.0,
-      "precio_hoy": 3838.0,
+      "ean": "7790310985830",
+      "nombre": "3ds queso x 85 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 3981.0,
+      "precio_hoy": 3981.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7794990878925",
-      "nombre": "queso untable la paulina jamon x 190 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2686.0,
-      "precio_hoy": 2686.0,
+      "ean": "7790310985137",
+      "nombre": "3ds queso x143gr.",
+      "categoria": "Almacen",
+      "precio_antes": 5545.0,
+      "precio_hoy": 5545.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7794990878871",
-      "nombre": "queso untable la paulina fontina x 190 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2686.0,
-      "precio_hoy": 2686.0,
+      "ean": "7790310985113",
+      "nombre": "3ds sabor queso x 43 gm",
+      "categoria": "Almacen",
+      "precio_antes": 2370.0,
+      "precio_hoy": 2370.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7794990878932",
-      "nombre": "queso untable la paulina clasico x 190 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2686.0,
-      "precio_hoy": 2686.0,
+      "ean": "7791728246629",
+      "nombre": "ac. de oliva zuccardi x 500 ml coratina",
+      "categoria": "Almacen",
+      "precio_antes": 24484.0,
+      "precio_hoy": 24484.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "ean": "7794990879526",
-      "nombre": "queso untable la paulina cheddar x 190 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2686.0,
-      "precio_hoy": 2686.0,
+      "ean": "763571722428",
+      "nombre": "ac.de coco entrenuts x200virg.",
+      "categoria": "Almacen",
+      "precio_antes": 9649.0,
+      "precio_hoy": 9649.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798080520657",
+      "nombre": "ac.ol.l.toscana x250ml.ajo",
+      "categoria": "Almacen",
+      "precio_antes": 10398.0,
+      "precio_hoy": 10398.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7798080520534",
+      "nombre": "ac.ol.l.toscana x250ml.albahac",
+      "categoria": "Almacen",
+      "precio_antes": 10398.0,
+      "precio_hoy": 10398.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7791728246612",
+      "nombre": "ac.ol.zuccardi x250ml.coratina",
+      "categoria": "Almacen",
+      "precio_antes": 14282.0,
+      "precio_hoy": 14282.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7791728246575",
+      "nombre": "ac.ol.zuccardi x250ml.picual",
+      "categoria": "Almacen",
+      "precio_antes": 14282.0,
+      "precio_hoy": 14282.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "41331014922",
+      "nombre": "acaitunas goya x 149 gm con pimiento picante",
+      "categoria": "Almacen",
+      "precio_antes": 10139.0,
+      "precio_hoy": 10139.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 49,
-  "productos_bajaron_dia": 5,
-  "productos_sin_cambio_dia": 6558
+  "productos_subieron_dia": 0,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 6669
 }
