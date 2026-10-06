@@ -1,147 +1,147 @@
 {
-  "fecha": "20261004",
-  "total_productos": 6670,
-  "variacion_dia": 0.0,
-  "variacion_7d": 0.08,
-  "variacion_mes": 7.64,
+  "fecha": "20261006",
+  "total_productos": 6644,
+  "variacion_dia": 0.09,
+  "variacion_7d": 0.17,
+  "variacion_mes": 7.46,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1519
+      "variacion_pct_promedio": -0.05,
+      "productos_subieron": 8,
+      "productos_bajaron": 43,
+      "total_productos": 1515
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1195
+      "variacion_pct_promedio": 0.06,
+      "productos_subieron": 27,
+      "productos_bajaron": 4,
+      "total_productos": 1184
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 247
+      "variacion_pct_promedio": 0.83,
+      "productos_subieron": 31,
+      "productos_bajaron": 4,
+      "total_productos": 242
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": 0.2,
+      "productos_subieron": 23,
+      "productos_bajaron": 1,
       "total_productos": 807
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 949
+      "variacion_pct_promedio": 0.08,
+      "productos_subieron": 46,
+      "productos_bajaron": 9,
+      "total_productos": 934
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1952
+      "variacion_pct_promedio": 0.08,
+      "productos_subieron": 70,
+      "productos_bajaron": 54,
+      "total_productos": 1925
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790310985830",
-      "nombre": "3ds queso x 85 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 3981.0,
-      "precio_hoy": 3981.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790070104847",
+      "nombre": "vino blanco nieto senetiner 0 % alcohol x 750 ml  chardonay",
+      "categoria": "Bebidas",
+      "precio_antes": 15058.0,
+      "precio_hoy": 11784.0,
+      "diff_abs": -3274.0,
+      "diff_pct": -21.74
     },
     {
-      "ean": "7790310985137",
-      "nombre": "3ds queso x143gr.",
-      "categoria": "Almacen",
-      "precio_antes": 5545.0,
-      "precio_hoy": 5545.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790070509079",
+      "nombre": "yerba mate cruz de malta manzanilla x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 3052.0,
+      "precio_hoy": 2449.0,
+      "diff_abs": -603.0,
+      "diff_pct": -19.76
     },
     {
-      "ean": "7790310985113",
-      "nombre": "3ds sabor queso x 43 gm",
-      "categoria": "Almacen",
-      "precio_antes": 2370.0,
-      "precio_hoy": 2370.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2022010000007",
+      "nombre": "remolacha x paquete",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 1790.0,
+      "precio_hoy": 1490.0,
+      "diff_abs": -300.0,
+      "diff_pct": -16.76
     },
     {
-      "ean": "7791728246629",
-      "nombre": "ac. de oliva zuccardi x 500 ml coratina",
-      "categoria": "Almacen",
-      "precio_antes": 24484.0,
-      "precio_hoy": 24484.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790070507389",
+      "nombre": "yerba mate cruz de malta seleccion especial x 500.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2976.0,
+      "precio_hoy": 2532.0,
+      "diff_abs": -444.0,
+      "diff_pct": -14.92
     },
     {
-      "ean": "763571722428",
-      "nombre": "ac.de coco entrenuts x200virg.",
-      "categoria": "Almacen",
-      "precio_antes": 9649.0,
-      "precio_hoy": 9649.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790070764041",
+      "nombre": "cocktail emilia spritz x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 11443.0,
+      "precio_hoy": 9739.0,
+      "diff_abs": -1704.0,
+      "diff_pct": -14.89
     },
     {
-      "ean": "7798080520657",
-      "nombre": "ac.ol.l.toscana x250ml.ajo",
+      "ean": "7792180141095",
+      "nombre": "harina integral blancaflor x 1 kg.",
       "categoria": "Almacen",
-      "precio_antes": 10398.0,
-      "precio_hoy": 10398.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "precio_antes": 2742.0,
+      "precio_hoy": 2334.0,
+      "diff_abs": -408.0,
+      "diff_pct": -14.88
     },
     {
-      "ean": "7798080520534",
-      "nombre": "ac.ol.l.toscana x250ml.albahac",
-      "categoria": "Almacen",
-      "precio_antes": 10398.0,
-      "precio_hoy": 10398.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790070106292",
+      "nombre": "vino rosado nieto sentiner 0 % alcohol x 750 ml malbec rose",
+      "categoria": "Bebidas",
+      "precio_antes": 15206.0,
+      "precio_hoy": 13093.0,
+      "diff_abs": -2113.0,
+      "diff_pct": -13.9
     },
     {
-      "ean": "7791728246612",
-      "nombre": "ac.ol.zuccardi x250ml.coratina",
-      "categoria": "Almacen",
-      "precio_antes": 14282.0,
-      "precio_hoy": 14282.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790070106919",
+      "nombre": "vino nieto senetiner 0% alcohol x 750 ml malbec pinot noir",
+      "categoria": "Bebidas",
+      "precio_antes": 15206.0,
+      "precio_hoy": 13093.0,
+      "diff_abs": -2113.0,
+      "diff_pct": -13.9
     },
     {
-      "ean": "7791728246575",
-      "nombre": "ac.ol.zuccardi x250ml.picual",
-      "categoria": "Almacen",
-      "precio_antes": 14282.0,
-      "precio_hoy": 14282.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790070761019",
+      "nombre": "espumante emilia x 750 ml dulce",
+      "categoria": "Bebidas",
+      "precio_antes": 12790.0,
+      "precio_hoy": 11099.0,
+      "diff_abs": -1691.0,
+      "diff_pct": -13.22
     },
     {
-      "ean": "41331014922",
-      "nombre": "acaitunas goya x 149 gm con pimiento picante",
+      "ean": "7790070104403",
+      "nombre": "alfajor chocoarroz 6 x 25 gm sabor pistacho",
       "categoria": "Almacen",
-      "precio_antes": 10139.0,
-      "precio_hoy": 10139.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "precio_antes": 10417.0,
+      "precio_hoy": 9054.0,
+      "diff_abs": -1363.0,
+      "diff_pct": -13.08
     }
   ],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 6669
+  "productos_subieron_dia": 205,
+  "productos_bajaron_dia": 115,
+  "productos_sin_cambio_dia": 6287
 }

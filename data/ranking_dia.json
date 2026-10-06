@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790310985830",
-    "nombre": "3ds queso x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3981.0,
-    "precio_hoy": 3981.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790093521805",
+    "nombre": "vino blanco cafayate dulce tardio x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5007.0,
+    "precio_hoy": 7518.0,
+    "diff_abs": 2511.0,
+    "diff_pct": 50.15
   },
   {
-    "ean": "7790310985137",
-    "nombre": "3ds queso x143gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5545.0,
-    "precio_hoy": 5545.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790093521812",
+    "nombre": "vino cafayate x750ml.rose",
+    "categoria": "Bebidas",
+    "precio_antes": 5007.0,
+    "precio_hoy": 7518.0,
+    "diff_abs": 2511.0,
+    "diff_pct": 50.15
   },
   {
-    "ean": "7790310985113",
-    "nombre": "3ds sabor queso x 43 gm",
-    "categoria": "Almacen",
-    "precio_antes": 2370.0,
-    "precio_hoy": 2370.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790093521775",
+    "nombre": "vino cafayate x750ml.cabernet",
+    "categoria": "Bebidas",
+    "precio_antes": 5007.0,
+    "precio_hoy": 7518.0,
+    "diff_abs": 2511.0,
+    "diff_pct": 50.15
   },
   {
-    "ean": "7791728246629",
-    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
+    "ean": "7790070265104",
+    "nombre": "aceite de oliva copcinero extra virgen x 250 ml",
     "categoria": "Almacen",
-    "precio_antes": 24484.0,
-    "precio_hoy": 24484.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 7086.0,
+    "precio_hoy": 9315.0,
+    "diff_abs": 2229.0,
+    "diff_pct": 31.46
   },
   {
-    "ean": "763571722428",
-    "nombre": "ac.de coco entrenuts x200virg.",
+    "ean": "7790070231697",
+    "nombre": "aceite de maiz lira x 900 ml.",
     "categoria": "Almacen",
-    "precio_antes": 9649.0,
-    "precio_hoy": 9649.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 6129.0,
+    "precio_hoy": 8057.0,
+    "diff_abs": 1928.0,
+    "diff_pct": 31.46
   },
   {
-    "ean": "7798080520657",
-    "nombre": "ac.ol.l.toscana x250ml.ajo",
+    "ean": "7790070265098",
+    "nombre": "aceite de oliva cocinero extra virgen x 500 ml.",
     "categoria": "Almacen",
-    "precio_antes": 10398.0,
-    "precio_hoy": 10398.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 12905.0,
+    "precio_hoy": 16964.0,
+    "diff_abs": 4059.0,
+    "diff_pct": 31.45
   },
   {
-    "ean": "7798080520534",
-    "nombre": "ac.ol.l.toscana x250ml.albahac",
-    "categoria": "Almacen",
-    "precio_antes": 10398.0,
-    "precio_hoy": 10398.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790093095221",
+    "nombre": "vino cafayate reserva malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 7887.0,
+    "precio_hoy": 10114.0,
+    "diff_abs": 2227.0,
+    "diff_pct": 28.24
   },
   {
-    "ean": "7791728246612",
-    "nombre": "ac.ol.zuccardi x250ml.coratina",
-    "categoria": "Almacen",
-    "precio_antes": 14282.0,
-    "precio_hoy": 14282.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790093095245",
+    "nombre": "vino cafayate res.x750ml.ttes.",
+    "categoria": "Bebidas",
+    "precio_antes": 7887.0,
+    "precio_hoy": 10114.0,
+    "diff_abs": 2227.0,
+    "diff_pct": 28.24
   },
   {
-    "ean": "7791728246575",
-    "nombre": "ac.ol.zuccardi x250ml.picual",
-    "categoria": "Almacen",
-    "precio_antes": 14282.0,
-    "precio_hoy": 14282.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790093095238",
+    "nombre": "vino cafayate res.x750ml.caber",
+    "categoria": "Bebidas",
+    "precio_antes": 7887.0,
+    "precio_hoy": 10114.0,
+    "diff_abs": 2227.0,
+    "diff_pct": 28.24
   },
   {
-    "ean": "41331014922",
-    "nombre": "acaitunas goya x 149 gm con pimiento picante",
-    "categoria": "Almacen",
-    "precio_antes": 10139.0,
-    "precio_hoy": 10139.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790093521768",
+    "nombre": "vino cafayate x750ml.torrontes",
+    "categoria": "Bebidas",
+    "precio_antes": 5007.0,
+    "precio_hoy": 6420.0,
+    "diff_abs": 1413.0,
+    "diff_pct": 28.22
   },
   {
-    "ean": "7790580160807",
-    "nombre": "aceite arcor x900ml.maiz",
-    "categoria": "Almacen",
-    "precio_antes": 5911.0,
-    "precio_hoy": 5911.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7794297010080",
+    "nombre": "palmeta",
+    "categoria": "Limpieza",
+    "precio_antes": 936.0,
+    "precio_hoy": 1131.0,
+    "diff_abs": 195.0,
+    "diff_pct": 20.83
   },
   {
-    "ean": "7790070225023",
-    "nombre": "aceite cocinero mezcla x1.5lt.",
-    "categoria": "Almacen",
-    "precio_antes": 5476.0,
-    "precio_hoy": 5476.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 20.08
   },
   {
-    "ean": "7790070104311",
-    "nombre": "aceite cocinero oliva puro x 900 ml",
+    "ean": "7790070231956",
+    "nombre": "aceto balsamico lira reduccion x 250 ml.",
     "categoria": "Almacen",
-    "precio_antes": 19061.0,
-    "precio_hoy": 19061.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 3650.0,
+    "precio_hoy": 4266.0,
+    "diff_abs": 616.0,
+    "diff_pct": 16.88
   },
   {
-    "ean": "7790070231604",
-    "nombre": "aceite cocinero olivay girasol x 1.5 litros",
+    "ean": "7790070231963",
+    "nombre": "aceto balsamico lira reduccion x 500 ml.",
     "categoria": "Almacen",
-    "precio_antes": 9336.0,
-    "precio_hoy": 9336.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 6466.0,
+    "precio_hoy": 7557.0,
+    "diff_abs": 1091.0,
+    "diff_pct": 16.87
   },
   {
-    "ean": "7790070265142",
-    "nombre": "aceite cocinero puro de oliva x 500 ml",
-    "categoria": "Almacen",
-    "precio_antes": 10919.0,
-    "precio_hoy": 10919.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790070036414",
+    "nombre": "arvejas cong.lucchetti x300gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3190.0,
+    "precio_hoy": 3684.0,
+    "diff_abs": 494.0,
+    "diff_pct": 15.49
   },
   {
-    "ean": "7790070231598",
-    "nombre": "aceite cocinero x900 ml oliva y girasol",
-    "categoria": "Almacen",
-    "precio_antes": 5809.0,
-    "precio_hoy": 5809.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "4068407330065",
+    "nombre": "compotera",
+    "categoria": "Limpieza",
+    "precio_antes": 2015.0,
+    "precio_hoy": 2327.0,
+    "diff_abs": 312.0,
+    "diff_pct": 15.48
   },
   {
-    "ean": "7790272006819",
-    "nombre": "aceite copisi x 900 ml. girasol y oliva",
+    "ean": "7790070265197",
+    "nombre": "aceite de oliva lira extra virgen x 500 ml. cosech",
     "categoria": "Almacen",
-    "precio_antes": 6162.0,
-    "precio_hoy": 6162.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 15673.0,
+    "precio_hoy": 18090.0,
+    "diff_abs": 2417.0,
+    "diff_pct": 15.42
   },
   {
-    "ean": "656750783931",
-    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
+    "ean": "7790070265203",
+    "nombre": "aceite de oliva lira extra virgen cl sico x 500 m.",
     "categoria": "Almacen",
-    "precio_antes": 8902.0,
-    "precio_hoy": 8902.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 15160.0,
+    "precio_hoy": 17497.0,
+    "diff_abs": 2337.0,
+    "diff_pct": 15.42
   },
   {
-    "ean": "763571722435",
-    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 16512.0,
-    "precio_hoy": 16512.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790070035974",
+    "nombre": "milanesas de soja granja del sol x 660 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 9651.0,
+    "precio_hoy": 11068.0,
+    "diff_abs": 1417.0,
+    "diff_pct": 14.68
   },
   {
-    "ean": "7794870000040",
-    "nombre": "aceite de girasol alsamar x 5 lts.",
-    "categoria": "Almacen",
-    "precio_antes": 22784.0,
-    "precio_hoy": 22784.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790093132728",
+    "nombre": "vino blanco etchart privado torrontes x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5209.0,
+    "precio_hoy": 5893.0,
+    "diff_abs": 684.0,
+    "diff_pct": 13.13
   }
 ]

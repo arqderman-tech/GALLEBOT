@@ -1,25 +1,97 @@
 [
   {
-    "ean": "2020260000006",
-    "nombre": "camote colorado x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
+    "ean": "7790093521805",
+    "nombre": "vino blanco cafayate dulce tardio x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5007.0,
+    "precio_hoy": 7518.0,
+    "diff_abs": 2511.0,
+    "diff_pct": 50.15
+  },
+  {
+    "ean": "7790093521812",
+    "nombre": "vino cafayate x750ml.rose",
+    "categoria": "Bebidas",
+    "precio_antes": 5007.0,
+    "precio_hoy": 7518.0,
+    "diff_abs": 2511.0,
+    "diff_pct": 50.15
+  },
+  {
+    "ean": "7790093521775",
+    "nombre": "vino cafayate x750ml.cabernet",
+    "categoria": "Bebidas",
+    "precio_antes": 5007.0,
+    "precio_hoy": 7518.0,
+    "diff_abs": 2511.0,
+    "diff_pct": 50.15
+  },
+  {
+    "ean": "7790070231697",
+    "nombre": "aceite de maiz lira x 900 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 6129.0,
+    "precio_hoy": 8057.0,
+    "diff_abs": 1928.0,
+    "diff_pct": 31.46
+  },
+  {
+    "ean": "7790070265104",
+    "nombre": "aceite de oliva copcinero extra virgen x 250 ml",
+    "categoria": "Almacen",
+    "precio_antes": 7085.7,
+    "precio_hoy": 9315.0,
+    "diff_abs": 2229.3,
+    "diff_pct": 31.46
+  },
+  {
+    "ean": "7790070265098",
+    "nombre": "aceite de oliva cocinero extra virgen x 500 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 12905.0,
+    "precio_hoy": 16964.0,
+    "diff_abs": 4059.0,
+    "diff_pct": 31.45
+  },
+  {
+    "ean": "7790093095221",
+    "nombre": "vino cafayate reserva malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 7887.0,
+    "precio_hoy": 10114.0,
+    "diff_abs": 2227.0,
+    "diff_pct": 28.24
+  },
+  {
+    "ean": "7790093095245",
+    "nombre": "vino cafayate res.x750ml.ttes.",
+    "categoria": "Bebidas",
+    "precio_antes": 7887.0,
+    "precio_hoy": 10114.0,
+    "diff_abs": 2227.0,
+    "diff_pct": 28.24
+  },
+  {
+    "ean": "7790093095238",
+    "nombre": "vino cafayate res.x750ml.caber",
+    "categoria": "Bebidas",
+    "precio_antes": 7887.0,
+    "precio_hoy": 10114.0,
+    "diff_abs": 2227.0,
+    "diff_pct": 28.24
+  },
+  {
+    "ean": "7790093521768",
+    "nombre": "vino cafayate x750ml.torrontes",
+    "categoria": "Bebidas",
+    "precio_antes": 5007.0,
+    "precio_hoy": 6420.0,
+    "diff_abs": 1413.0,
+    "diff_pct": 28.22
   },
   {
     "ean": "2030530000001",
     "nombre": "jamon con hueso sin cuero el cheru x kilo",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
-  },
-  {
-    "ean": "2030440000009",
-    "nombre": "jamon cuadrado de cerdo el cheru x kg.",
     "categoria": "Carniceria",
     "precio_antes": 7900.0,
     "precio_hoy": 10024.0,
@@ -45,6 +117,24 @@
     "diff_pct": 26.89
   },
   {
+    "ean": "2030440000009",
+    "nombre": "jamon cuadrado de cerdo el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
+  },
+  {
+    "ean": "2030470000000",
+    "nombre": "nalga de cerdo el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
+  },
+  {
     "ean": "2030450000006",
     "nombre": "jamon redondo de cerdo el cheru x kg.",
     "categoria": "Carniceria",
@@ -63,24 +153,6 @@
     "diff_pct": 26.89
   },
   {
-    "ean": "2030470000000",
-    "nombre": "nalga de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
-  },
-  {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
-  },
-  {
     "ean": "2020120000009",
     "nombre": "berengena negra x kg.",
     "categoria": "Frutas Y Verduras",
@@ -90,93 +162,21 @@
     "diff_pct": 25.06
   },
   {
-    "ean": "7798010466000",
-    "nombre": "portobello prestige bandeja x 200 gr",
+    "ean": "2021780000002",
+    "nombre": "perejil x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 20.04
+    "diff_pct": 25.06
   },
   {
-    "ean": "2021680000003",
-    "nombre": "zapallo brasilero x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 16.72
-  },
-  {
-    "ean": "2019950000006",
-    "nombre": "akusay x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 14.33
-  },
-  {
-    "ean": "2021320000004",
-    "nombre": "melon rocio de miel x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 14.31
-  },
-  {
-    "ean": "7790314000331",
-    "nombre": "vino de mesa blanco nativo tetra x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1892.0,
-    "precio_hoy": 2096.0,
-    "diff_abs": 204.0,
-    "diff_pct": 10.78
-  },
-  {
-    "ean": "7790314000324",
-    "nombre": "vino de mesa nativo tinto tetra x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2262.0,
-    "precio_hoy": 2505.0,
-    "diff_abs": 243.0,
-    "diff_pct": 10.74
-  },
-  {
-    "ean": "7798136872013",
-    "nombre": "yogur dahi proteico x 190 gr sabor vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3405.0,
-    "precio_hoy": 3746.0,
-    "diff_abs": 341.0,
-    "diff_pct": 10.01
-  },
-  {
-    "ean": "7798136872006",
-    "nombre": "yogur dahi proteico x 190 gr sabor natural",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3405.0,
-    "precio_hoy": 3746.0,
-    "diff_abs": 341.0,
-    "diff_pct": 10.01
-  },
-  {
-    "ean": "7790314063848",
-    "nombre": "vino toro tetra x1lt.blanco",
-    "categoria": "Bebidas",
-    "precio_antes": 2324.0,
-    "precio_hoy": 2556.0,
-    "diff_abs": 232.0,
-    "diff_pct": 9.98
-  },
-  {
-    "ean": "7790314000416",
-    "nombre": "vino de mesa rosado toro tetra x 1 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 2324.0,
-    "precio_hoy": 2556.0,
-    "diff_abs": 232.0,
-    "diff_pct": 9.98
+    "ean": "7794297010080",
+    "nombre": "palmeta",
+    "categoria": "Limpieza",
+    "precio_antes": 936.0,
+    "precio_hoy": 1131.0,
+    "diff_abs": 195.0,
+    "diff_pct": 20.83
   }
 ]
