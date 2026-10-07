@@ -1,147 +1,147 @@
 {
-  "fecha": "20261006",
-  "total_productos": 6644,
-  "variacion_dia": 0.09,
-  "variacion_7d": 0.17,
-  "variacion_mes": 7.46,
+  "fecha": "20261007",
+  "total_productos": 6652,
+  "variacion_dia": -0.17,
+  "variacion_7d": -0.03,
+  "variacion_mes": 6.99,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.05,
-      "productos_subieron": 8,
-      "productos_bajaron": 43,
+      "variacion_pct_promedio": 0.33,
+      "productos_subieron": 104,
+      "productos_bajaron": 0,
       "total_productos": 1515
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.06,
-      "productos_subieron": 27,
-      "productos_bajaron": 4,
-      "total_productos": 1184
+      "variacion_pct_promedio": -0.07,
+      "productos_subieron": 20,
+      "productos_bajaron": 29,
+      "total_productos": 1182
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.83,
-      "productos_subieron": 31,
-      "productos_bajaron": 4,
-      "total_productos": 242
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 241
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.2,
-      "productos_subieron": 23,
-      "productos_bajaron": 1,
-      "total_productos": 807
+      "variacion_pct_promedio": 0.05,
+      "productos_subieron": 5,
+      "productos_bajaron": 0,
+      "total_productos": 806
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.08,
-      "productos_subieron": 46,
-      "productos_bajaron": 9,
-      "total_productos": 934
+      "variacion_pct_promedio": -1.15,
+      "productos_subieron": 30,
+      "productos_bajaron": 65,
+      "total_productos": 935
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.08,
-      "productos_subieron": 70,
-      "productos_bajaron": 54,
-      "total_productos": 1925
+      "variacion_pct_promedio": -0.24,
+      "productos_subieron": 100,
+      "productos_bajaron": 51,
+      "total_productos": 1938
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790070104847",
-      "nombre": "vino blanco nieto senetiner 0 % alcohol x 750 ml  chardonay",
-      "categoria": "Bebidas",
-      "precio_antes": 15058.0,
-      "precio_hoy": 11784.0,
-      "diff_abs": -3274.0,
-      "diff_pct": -21.74
+      "ean": "8445291996731",
+      "nombre": "avellanas con chocolate con leche nestle x 80 gm",
+      "categoria": "Almacen",
+      "precio_antes": 6869.0,
+      "precio_hoy": 3091.0,
+      "diff_abs": -3778.0,
+      "diff_pct": -55.0
     },
     {
-      "ean": "7790070509079",
-      "nombre": "yerba mate cruz de malta manzanilla x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 3052.0,
-      "precio_hoy": 2449.0,
-      "diff_abs": -603.0,
-      "diff_pct": -19.76
-    },
-    {
-      "ean": "2022010000007",
-      "nombre": "remolacha x paquete",
+      "ean": "2020960000009",
+      "nombre": "lechuga repollada x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 1790.0,
-      "precio_hoy": 1490.0,
-      "diff_abs": -300.0,
-      "diff_pct": -16.76
+      "precio_antes": 2990.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -33.44
     },
     {
-      "ean": "7790070507389",
-      "nombre": "yerba mate cruz de malta seleccion especial x 500.",
+      "ean": "8445291857957",
+      "nombre": "cafe instantaneo nescafe dolca x 30 sobres",
       "categoria": "Perfumeria",
-      "precio_antes": 2976.0,
-      "precio_hoy": 2532.0,
-      "diff_abs": -444.0,
-      "diff_pct": -14.92
+      "precio_antes": 7571.0,
+      "precio_hoy": 5299.0,
+      "diff_abs": -2272.0,
+      "diff_pct": -30.01
     },
     {
-      "ean": "7790070764041",
-      "nombre": "cocktail emilia spritz x 750 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 11443.0,
-      "precio_hoy": 9739.0,
-      "diff_abs": -1704.0,
-      "diff_pct": -14.89
+      "ean": "7613034155030",
+      "nombre": "cereal trix x 330",
+      "categoria": "Perfumeria",
+      "precio_antes": 8163.0,
+      "precio_hoy": 5714.0,
+      "diff_abs": -2449.0,
+      "diff_pct": -30.0
     },
     {
-      "ean": "7792180141095",
-      "nombre": "harina integral blancaflor x 1 kg.",
-      "categoria": "Almacen",
-      "precio_antes": 2742.0,
-      "precio_hoy": 2334.0,
-      "diff_abs": -408.0,
-      "diff_pct": -14.88
+      "ean": "8445290270184",
+      "nombre": "cereal frutal trix x 230 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 6679.0,
+      "precio_hoy": 4675.0,
+      "diff_abs": -2004.0,
+      "diff_pct": -30.0
     },
     {
-      "ean": "7790070106292",
-      "nombre": "vino rosado nieto sentiner 0 % alcohol x 750 ml malbec rose",
-      "categoria": "Bebidas",
-      "precio_antes": 15206.0,
-      "precio_hoy": 13093.0,
-      "diff_abs": -2113.0,
-      "diff_pct": -13.9
+      "ean": "8445291082137",
+      "nombre": "cafe nescafe dolca suave x 170 gm frasco",
+      "categoria": "Perfumeria",
+      "precio_antes": 15099.0,
+      "precio_hoy": 10569.0,
+      "diff_abs": -4530.0,
+      "diff_pct": -30.0
     },
     {
-      "ean": "7790070106919",
-      "nombre": "vino nieto senetiner 0% alcohol x 750 ml malbec pinot noir",
-      "categoria": "Bebidas",
-      "precio_antes": 15206.0,
-      "precio_hoy": 13093.0,
-      "diff_abs": -2113.0,
-      "diff_pct": -13.9
+      "ean": "8445291082212",
+      "nombre": "cafe instantaneo nescafe dolca frasco x 170 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 15099.0,
+      "precio_hoy": 10569.0,
+      "diff_abs": -4530.0,
+      "diff_pct": -30.0
     },
     {
-      "ean": "7790070761019",
-      "nombre": "espumante emilia x 750 ml dulce",
-      "categoria": "Bebidas",
-      "precio_antes": 12790.0,
-      "precio_hoy": 11099.0,
-      "diff_abs": -1691.0,
-      "diff_pct": -13.22
+      "ean": "8445292737906",
+      "nombre": "nescafe dolca doy pack x 160 gm original",
+      "categoria": "Perfumeria",
+      "precio_antes": 13471.0,
+      "precio_hoy": 9430.0,
+      "diff_abs": -4041.0,
+      "diff_pct": -30.0
     },
     {
-      "ean": "7790070104403",
-      "nombre": "alfajor chocoarroz 6 x 25 gm sabor pistacho",
-      "categoria": "Almacen",
-      "precio_antes": 10417.0,
-      "precio_hoy": 9054.0,
-      "diff_abs": -1363.0,
-      "diff_pct": -13.08
+      "ean": "7891000360552",
+      "nombre": "cereal nesquik x400gr.matinal",
+      "categoria": "Perfumeria",
+      "precio_antes": 11540.0,
+      "precio_hoy": 8078.0,
+      "diff_abs": -3462.0,
+      "diff_pct": -30.0
+    },
+    {
+      "ean": "8445292738187",
+      "nombre": "nescafe dolca x 160 gm suave doy pack",
+      "categoria": "Perfumeria",
+      "precio_antes": 13471.0,
+      "precio_hoy": 9430.0,
+      "diff_abs": -4041.0,
+      "diff_pct": -30.0
     }
   ],
-  "productos_subieron_dia": 205,
-  "productos_bajaron_dia": 115,
-  "productos_sin_cambio_dia": 6287
+  "productos_subieron_dia": 259,
+  "productos_bajaron_dia": 145,
+  "productos_sin_cambio_dia": 6213
 }

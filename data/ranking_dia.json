@@ -1,106 +1,43 @@
 [
   {
-    "ean": "7790093521805",
-    "nombre": "vino blanco cafayate dulce tardio x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 5007.0,
-    "precio_hoy": 7518.0,
-    "diff_abs": 2511.0,
-    "diff_pct": 50.15
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1490.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 33.56
   },
   {
-    "ean": "7790093521812",
-    "nombre": "vino cafayate x750ml.rose",
-    "categoria": "Bebidas",
-    "precio_antes": 5007.0,
-    "precio_hoy": 7518.0,
-    "diff_abs": 2511.0,
-    "diff_pct": 50.15
+    "ean": "2021820000009",
+    "nombre": "pimiento rojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 9990.0,
+    "precio_hoy": 12990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 30.03
   },
   {
-    "ean": "7790093521775",
-    "nombre": "vino cafayate x750ml.cabernet",
-    "categoria": "Bebidas",
-    "precio_antes": 5007.0,
-    "precio_hoy": 7518.0,
-    "diff_abs": 2511.0,
-    "diff_pct": 50.15
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
   },
   {
-    "ean": "7790070265104",
-    "nombre": "aceite de oliva copcinero extra virgen x 250 ml",
-    "categoria": "Almacen",
-    "precio_antes": 7086.0,
-    "precio_hoy": 9315.0,
-    "diff_abs": 2229.0,
-    "diff_pct": 31.46
+    "ean": "2020570000000",
+    "nombre": "coliflor x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
   },
   {
-    "ean": "7790070231697",
-    "nombre": "aceite de maiz lira x 900 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 6129.0,
-    "precio_hoy": 8057.0,
-    "diff_abs": 1928.0,
-    "diff_pct": 31.46
-  },
-  {
-    "ean": "7790070265098",
-    "nombre": "aceite de oliva cocinero extra virgen x 500 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 12905.0,
-    "precio_hoy": 16964.0,
-    "diff_abs": 4059.0,
-    "diff_pct": 31.45
-  },
-  {
-    "ean": "7790093095221",
-    "nombre": "vino cafayate reserva malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 7887.0,
-    "precio_hoy": 10114.0,
-    "diff_abs": 2227.0,
-    "diff_pct": 28.24
-  },
-  {
-    "ean": "7790093095245",
-    "nombre": "vino cafayate res.x750ml.ttes.",
-    "categoria": "Bebidas",
-    "precio_antes": 7887.0,
-    "precio_hoy": 10114.0,
-    "diff_abs": 2227.0,
-    "diff_pct": 28.24
-  },
-  {
-    "ean": "7790093095238",
-    "nombre": "vino cafayate res.x750ml.caber",
-    "categoria": "Bebidas",
-    "precio_antes": 7887.0,
-    "precio_hoy": 10114.0,
-    "diff_abs": 2227.0,
-    "diff_pct": 28.24
-  },
-  {
-    "ean": "7790093521768",
-    "nombre": "vino cafayate x750ml.torrontes",
-    "categoria": "Bebidas",
-    "precio_antes": 5007.0,
-    "precio_hoy": 6420.0,
-    "diff_abs": 1413.0,
-    "diff_pct": 28.22
-  },
-  {
-    "ean": "7794297010080",
-    "nombre": "palmeta",
-    "categoria": "Limpieza",
-    "precio_antes": 936.0,
-    "precio_hoy": 1131.0,
-    "diff_abs": 195.0,
-    "diff_pct": 20.83
-  },
-  {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
+    "ean": "2020980000003",
+    "nombre": "limones x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2490.0,
     "precio_hoy": 2990.0,
@@ -108,75 +45,138 @@
     "diff_pct": 20.08
   },
   {
-    "ean": "7790070231956",
-    "nombre": "aceto balsamico lira reduccion x 250 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 3650.0,
-    "precio_hoy": 4266.0,
-    "diff_abs": 616.0,
-    "diff_pct": 16.88
+    "ean": "2020140000003",
+    "nombre": "berro hidroponico en bolsa",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 16.72
   },
   {
-    "ean": "7790070231963",
-    "nombre": "aceto balsamico lira reduccion x 500 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 6466.0,
-    "precio_hoy": 7557.0,
-    "diff_abs": 1091.0,
-    "diff_pct": 16.87
+    "ean": "2020920000001",
+    "nombre": "lechuga mantecosa x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 16.72
   },
   {
-    "ean": "7790070036414",
-    "nombre": "arvejas cong.lucchetti x300gr.",
-    "categoria": "Congelados",
-    "precio_antes": 3190.0,
-    "precio_hoy": 3684.0,
-    "diff_abs": 494.0,
-    "diff_pct": 15.49
+    "ean": "2020970000006",
+    "nombre": "lima x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
   },
   {
-    "ean": "4068407330065",
-    "nombre": "compotera",
-    "categoria": "Limpieza",
-    "precio_antes": 2015.0,
-    "precio_hoy": 2327.0,
-    "diff_abs": 312.0,
-    "diff_pct": 15.48
+    "ean": "2022220000002",
+    "nombre": "tomate redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 14.31
   },
   {
-    "ean": "7790070265197",
-    "nombre": "aceite de oliva lira extra virgen x 500 ml. cosech",
-    "categoria": "Almacen",
-    "precio_antes": 15673.0,
-    "precio_hoy": 18090.0,
-    "diff_abs": 2417.0,
-    "diff_pct": 15.42
+    "ean": "2022210000005",
+    "nombre": "tomate perita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 14.31
   },
   {
-    "ean": "7790070265203",
-    "nombre": "aceite de oliva lira extra virgen cl sico x 500 m.",
-    "categoria": "Almacen",
-    "precio_antes": 15160.0,
-    "precio_hoy": 17497.0,
-    "diff_abs": 2337.0,
-    "diff_pct": 15.42
+    "ean": "2021210000008",
+    "nombre": "mango x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 8990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 12.52
   },
   {
-    "ean": "7790070035974",
-    "nombre": "milanesas de soja granja del sol x 660 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 9651.0,
-    "precio_hoy": 11068.0,
-    "diff_abs": 1417.0,
-    "diff_pct": 14.68
-  },
-  {
-    "ean": "7790093132728",
-    "nombre": "vino blanco etchart privado torrontes x 750 ml.",
+    "ean": "7790895643712",
+    "nombre": "alimento de soja ades anana x 200 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 5209.0,
-    "precio_hoy": 5893.0,
-    "diff_abs": 684.0,
-    "diff_pct": 13.13
+    "precio_antes": 1246.0,
+    "precio_hoy": 1355.0,
+    "diff_abs": 109.0,
+    "diff_pct": 8.75
+  },
+  {
+    "ean": "7790895643729",
+    "nombre": "alimento de soja ades durazno x 200 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1246.0,
+    "precio_hoy": 1355.0,
+    "diff_abs": 109.0,
+    "diff_pct": 8.75
+  },
+  {
+    "ean": "7790895643767",
+    "nombre": "alimento de soja ades frutas tropicales x 200 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1246.0,
+    "precio_hoy": 1355.0,
+    "diff_abs": 109.0,
+    "diff_pct": 8.75
+  },
+  {
+    "ean": "7790895643743",
+    "nombre": "alimento de soja ades manzana x 200 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1246.0,
+    "precio_hoy": 1355.0,
+    "diff_abs": 109.0,
+    "diff_pct": 8.75
+  },
+  {
+    "ean": "7790895643750",
+    "nombre": "jugo ades naranja x 200 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1246.0,
+    "precio_hoy": 1355.0,
+    "diff_abs": 109.0,
+    "diff_pct": 8.75
+  },
+  {
+    "ean": "41333000985",
+    "nombre": "pilas duracell d x 2 unid.",
+    "categoria": "Limpieza",
+    "precio_antes": 10728.0,
+    "precio_hoy": 11587.0,
+    "diff_abs": 859.0,
+    "diff_pct": 8.01
+  },
+  {
+    "ean": "41333001074",
+    "nombre": "pila duracell aaa x2u.blister",
+    "categoria": "Limpieza",
+    "precio_antes": 4509.0,
+    "precio_hoy": 4870.0,
+    "diff_abs": 361.0,
+    "diff_pct": 8.01
+  },
+  {
+    "ean": "41333001098",
+    "nombre": "pila duracell aaa x4u.blister",
+    "categoria": "Limpieza",
+    "precio_antes": 7801.0,
+    "precio_hoy": 8425.0,
+    "diff_abs": 624.0,
+    "diff_pct": 8.0
+  },
+  {
+    "ean": "41333001005",
+    "nombre": "pilas duracell aa x 2 unid.",
+    "categoria": "Limpieza",
+    "precio_antes": 4365.0,
+    "precio_hoy": 4714.0,
+    "diff_abs": 349.0,
+    "diff_pct": 8.0
   }
 ]
