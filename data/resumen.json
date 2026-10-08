@@ -1,147 +1,147 @@
 {
-  "fecha": "20261007",
-  "total_productos": 6652,
-  "variacion_dia": -0.17,
-  "variacion_7d": -0.03,
-  "variacion_mes": 6.99,
+  "fecha": "20261008",
+  "total_productos": 6325,
+  "variacion_dia": 0.05,
+  "variacion_7d": -0.04,
+  "variacion_mes": 4.2,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.33,
-      "productos_subieron": 104,
-      "productos_bajaron": 0,
-      "total_productos": 1515
+      "variacion_pct_promedio": 0.07,
+      "productos_subieron": 74,
+      "productos_bajaron": 54,
+      "total_productos": 1516
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.07,
-      "productos_subieron": 20,
-      "productos_bajaron": 29,
-      "total_productos": 1182
-    },
-    {
-      "categoria": "Congelados",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 241
+      "total_productos": 1184
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 0.25,
+      "productos_subieron": 12,
+      "productos_bajaron": 0,
+      "total_productos": 242
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.05,
-      "productos_subieron": 5,
-      "productos_bajaron": 0,
-      "total_productos": 806
+      "variacion_pct_promedio": -0.08,
+      "productos_subieron": 0,
+      "productos_bajaron": 4,
+      "total_productos": 814
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -1.15,
-      "productos_subieron": 30,
-      "productos_bajaron": 65,
-      "total_productos": 935
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 915
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.24,
-      "productos_subieron": 100,
-      "productos_bajaron": 51,
-      "total_productos": 1938
+      "variacion_pct_promedio": 0.14,
+      "productos_subieron": 19,
+      "productos_bajaron": 0,
+      "total_productos": 1635
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "8445291996731",
-      "nombre": "avellanas con chocolate con leche nestle x 80 gm",
-      "categoria": "Almacen",
-      "precio_antes": 6869.0,
-      "precio_hoy": 3091.0,
-      "diff_abs": -3778.0,
-      "diff_pct": -55.0
+      "ean": "7898335070088",
+      "nombre": "bolsa para lavarropas ordene 22 x 16 cm.",
+      "categoria": "Limpieza",
+      "precio_antes": 8167.0,
+      "precio_hoy": 6787.0,
+      "diff_abs": -1380.0,
+      "diff_pct": -16.9
     },
     {
-      "ean": "2020960000009",
-      "nombre": "lechuga repollada x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 1990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -33.44
+      "ean": "7898335075717",
+      "nombre": "bolsa propa vac bag extra grande 80 x 100 cm.",
+      "categoria": "Limpieza",
+      "precio_antes": 11632.0,
+      "precio_hoy": 9670.0,
+      "diff_abs": -1962.0,
+      "diff_pct": -16.87
     },
     {
-      "ean": "8445291857957",
-      "nombre": "cafe instantaneo nescafe dolca x 30 sobres",
-      "categoria": "Perfumeria",
-      "precio_antes": 7571.0,
-      "precio_hoy": 5299.0,
-      "diff_abs": -2272.0,
-      "diff_pct": -30.01
+      "ean": "7898335070040",
+      "nombre": "bolsa para lavarropas ordene 40 x 50 cm.",
+      "categoria": "Limpieza",
+      "precio_antes": 6458.0,
+      "precio_hoy": 5369.0,
+      "diff_abs": -1089.0,
+      "diff_pct": -16.86
     },
     {
-      "ean": "7613034155030",
-      "nombre": "cereal trix x 330",
-      "categoria": "Perfumeria",
-      "precio_antes": 8163.0,
-      "precio_hoy": 5714.0,
-      "diff_abs": -2449.0,
-      "diff_pct": -30.0
+      "ean": "7898335076936",
+      "nombre": "bolsa propa vac bag trip 60 x 40 cm.",
+      "categoria": "Limpieza",
+      "precio_antes": 5816.0,
+      "precio_hoy": 4836.0,
+      "diff_abs": -980.0,
+      "diff_pct": -16.85
     },
     {
-      "ean": "8445290270184",
-      "nombre": "cereal frutal trix x 230 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 6679.0,
-      "precio_hoy": 4675.0,
-      "diff_abs": -2004.0,
-      "diff_pct": -30.0
+      "ean": "7790950147926",
+      "nombre": "americano gancia x 473 ml sin alcohol lata",
+      "categoria": "Bebidas",
+      "precio_antes": 2701.0,
+      "precio_hoy": 2566.0,
+      "diff_abs": -135.0,
+      "diff_pct": -5.0
     },
     {
-      "ean": "8445291082137",
-      "nombre": "cafe nescafe dolca suave x 170 gm frasco",
-      "categoria": "Perfumeria",
-      "precio_antes": 15099.0,
-      "precio_hoy": 10569.0,
-      "diff_abs": -4530.0,
-      "diff_pct": -30.0
+      "ean": "7790950202823",
+      "nombre": "dr.lemon x473ml.vodka",
+      "categoria": "Bebidas",
+      "precio_antes": 2532.0,
+      "precio_hoy": 2408.0,
+      "diff_abs": -124.0,
+      "diff_pct": -4.9
     },
     {
-      "ean": "8445291082212",
-      "nombre": "cafe instantaneo nescafe dolca frasco x 170 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 15099.0,
-      "precio_hoy": 10569.0,
-      "diff_abs": -4530.0,
-      "diff_pct": -30.0
+      "ean": "7790950140859",
+      "nombre": "dr. lemon pomelo x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 2532.0,
+      "precio_hoy": 2408.0,
+      "diff_abs": -124.0,
+      "diff_pct": -4.9
     },
     {
-      "ean": "8445292737906",
-      "nombre": "nescafe dolca doy pack x 160 gm original",
-      "categoria": "Perfumeria",
-      "precio_antes": 13471.0,
-      "precio_hoy": 9430.0,
-      "diff_abs": -4041.0,
-      "diff_pct": -30.0
+      "ean": "7790950202816",
+      "nombre": "dr. lemon x 473 ml. limon",
+      "categoria": "Bebidas",
+      "precio_antes": 2532.0,
+      "precio_hoy": 2408.0,
+      "diff_abs": -124.0,
+      "diff_pct": -4.9
     },
     {
-      "ean": "7891000360552",
-      "nombre": "cereal nesquik x400gr.matinal",
-      "categoria": "Perfumeria",
-      "precio_antes": 11540.0,
-      "precio_hoy": 8078.0,
-      "diff_abs": -3462.0,
-      "diff_pct": -30.0
+      "ean": "7790950144758",
+      "nombre": "aperitivo dr. lemon gin tonic x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 2532.0,
+      "precio_hoy": 2408.0,
+      "diff_abs": -124.0,
+      "diff_pct": -4.9
     },
     {
-      "ean": "8445292738187",
-      "nombre": "nescafe dolca x 160 gm suave doy pack",
-      "categoria": "Perfumeria",
-      "precio_antes": 13471.0,
-      "precio_hoy": 9430.0,
-      "diff_abs": -4041.0,
-      "diff_pct": -30.0
+      "ean": "7790950144055",
+      "nombre": "aperitivo dr. lemon mojito x 473 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 2532.0,
+      "precio_hoy": 2408.0,
+      "diff_abs": -124.0,
+      "diff_pct": -4.9
     }
   ],
-  "productos_subieron_dia": 259,
-  "productos_bajaron_dia": 145,
-  "productos_sin_cambio_dia": 6213
+  "productos_subieron_dia": 105,
+  "productos_bajaron_dia": 58,
+  "productos_sin_cambio_dia": 6143
 }

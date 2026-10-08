@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2022040000008",
-    "nombre": "repollo blanco x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 33.56
-  },
-  {
-    "ean": "2021820000009",
-    "nombre": "pimiento rojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 9990.0,
-    "precio_hoy": 12990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 30.03
-  },
-  {
-    "ean": "2022060000002",
-    "nombre": "repollo colorado x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
-  },
-  {
-    "ean": "2020570000000",
-    "nombre": "coliflor x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
-    "ean": "2020980000003",
-    "nombre": "limones x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 20.08
-  },
-  {
-    "ean": "2020140000003",
-    "nombre": "berro hidroponico en bolsa",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 16.72
-  },
-  {
-    "ean": "2020920000001",
-    "nombre": "lechuga mantecosa x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 16.72
-  },
-  {
-    "ean": "2020970000006",
-    "nombre": "lima x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
-  },
-  {
-    "ean": "2022220000002",
-    "nombre": "tomate redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 14.31
-  },
-  {
-    "ean": "2022210000005",
-    "nombre": "tomate perita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 14.31
-  },
-  {
-    "ean": "2021210000008",
-    "nombre": "mango x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 8990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 12.52
-  },
-  {
-    "ean": "7790895643712",
-    "nombre": "alimento de soja ades anana x 200 ml.",
+    "ean": "7630040411028",
+    "nombre": "vermouth martini x995ml.rosso",
     "categoria": "Bebidas",
-    "precio_antes": 1246.0,
-    "precio_hoy": 1355.0,
-    "diff_abs": 109.0,
-    "diff_pct": 8.75
+    "precio_antes": 9122.0,
+    "precio_hoy": 11963.0,
+    "diff_abs": 2841.0,
+    "diff_pct": 31.14
   },
   {
-    "ean": "7790895643729",
-    "nombre": "alimento de soja ades durazno x 200 ml.",
+    "ean": "2019030000001",
+    "nombre": "pavita sadia congelada x kilo",
+    "categoria": "Congelados",
+    "precio_antes": 15400.0,
+    "precio_hoy": 19040.0,
+    "diff_abs": 3640.0,
+    "diff_pct": 23.64
+  },
+  {
+    "ean": "7798333900038",
+    "nombre": "huevos blancos avicola norte premium x 6 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 2570.0,
+    "precio_hoy": 3033.0,
+    "diff_abs": 463.0,
+    "diff_pct": 18.02
+  },
+  {
+    "ean": "7798333900045",
+    "nombre": "huevos castanos avicola norte premium x 6 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 2727.0,
+    "precio_hoy": 3218.0,
+    "diff_abs": 491.0,
+    "diff_pct": 18.01
+  },
+  {
+    "ean": "7798333900076",
+    "nombre": "huevos blancos avicola norte premium x 12 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 5004.0,
+    "precio_hoy": 5905.0,
+    "diff_abs": 901.0,
+    "diff_pct": 18.01
+  },
+  {
+    "ean": "7798333900090",
+    "nombre": "huevo avicola norte superior x 6 unidades blancos",
+    "categoria": "Almacen",
+    "precio_antes": 2321.0,
+    "precio_hoy": 2739.0,
+    "diff_abs": 418.0,
+    "diff_pct": 18.01
+  },
+  {
+    "ean": "7798333900052",
+    "nombre": "huevos blamcos avicola norte maple x 30 unidades",
+    "categoria": "Almacen",
+    "precio_antes": 7499.0,
+    "precio_hoy": 8849.0,
+    "diff_abs": 1350.0,
+    "diff_pct": 18.0
+  },
+  {
+    "ean": "7798333900120",
+    "nombre": "huevos avicola norte color x 12 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 4778.0,
+    "precio_hoy": 5638.0,
+    "diff_abs": 860.0,
+    "diff_pct": 18.0
+  },
+  {
+    "ean": "7798333900083",
+    "nombre": "huevos avicola norte color premium x 12 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 5293.0,
+    "precio_hoy": 6246.0,
+    "diff_abs": 953.0,
+    "diff_pct": 18.0
+  },
+  {
+    "ean": "7798151820013",
+    "nombre": "huevos doble a x 6 unid. blancos",
+    "categoria": "Almacen",
+    "precio_antes": 2400.0,
+    "precio_hoy": 2832.0,
+    "diff_abs": 432.0,
+    "diff_pct": 18.0
+  },
+  {
+    "ean": "7798333900151",
+    "nombre": "huevos avicola norte color estuche x 12 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 4413.0,
+    "precio_hoy": 5207.0,
+    "diff_abs": 794.0,
+    "diff_pct": 17.99
+  },
+  {
+    "ean": "7798333900144",
+    "nombre": "huevos avicola norte blancos estuche x 12 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 3479.0,
+    "precio_hoy": 4105.0,
+    "diff_abs": 626.0,
+    "diff_pct": 17.99
+  },
+  {
+    "ean": "7798333900106",
+    "nombre": "huevos avicola norte color x 6 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 2459.0,
+    "precio_hoy": 2901.0,
+    "diff_abs": 442.0,
+    "diff_pct": 17.97
+  },
+  {
+    "ean": "7798333900014",
+    "nombre": "huevos blancos avicola norte x 6 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 1775.0,
+    "precio_hoy": 2094.0,
+    "diff_abs": 319.0,
+    "diff_pct": 17.97
+  },
+  {
+    "ean": "7501008603017",
+    "nombre": "bacardi x750ml.carta blanca",
     "categoria": "Bebidas",
-    "precio_antes": 1246.0,
-    "precio_hoy": 1355.0,
-    "diff_abs": 109.0,
-    "diff_pct": 8.75
+    "precio_antes": 20158.0,
+    "precio_hoy": 23713.0,
+    "diff_abs": 3555.0,
+    "diff_pct": 17.64
   },
   {
-    "ean": "7790895643767",
-    "nombre": "alimento de soja ades frutas tropicales x 200 ml.",
+    "ean": "7501008604014",
+    "nombre": "ron bacardi carta de oro x 750 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 1246.0,
-    "precio_hoy": 1355.0,
-    "diff_abs": 109.0,
-    "diff_pct": 8.75
+    "precio_antes": 20152.0,
+    "precio_hoy": 23706.0,
+    "diff_abs": 3554.0,
+    "diff_pct": 17.64
   },
   {
-    "ean": "7790895643743",
-    "nombre": "alimento de soja ades manzana x 200 ml.",
+    "ean": "7790314080463",
+    "nombre": "vino blanco canciller blend x 1,125 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 1246.0,
-    "precio_hoy": 1355.0,
-    "diff_abs": 109.0,
-    "diff_pct": 8.75
+    "precio_antes": 3703.0,
+    "precio_hoy": 4238.0,
+    "diff_abs": 535.0,
+    "diff_pct": 14.45
   },
   {
-    "ean": "7790895643750",
-    "nombre": "jugo ades naranja x 200 ml.",
+    "ean": "7790314080142",
+    "nombre": "vino canciller blend x 1.25 litros tinto",
     "categoria": "Bebidas",
-    "precio_antes": 1246.0,
-    "precio_hoy": 1355.0,
-    "diff_abs": 109.0,
-    "diff_pct": 8.75
+    "precio_antes": 3703.0,
+    "precio_hoy": 4238.0,
+    "diff_abs": 535.0,
+    "diff_pct": 14.45
   },
   {
-    "ean": "41333000985",
-    "nombre": "pilas duracell d x 2 unid.",
-    "categoria": "Limpieza",
-    "precio_antes": 10728.0,
-    "precio_hoy": 11587.0,
-    "diff_abs": 859.0,
-    "diff_pct": 8.01
+    "ean": "7798132920473",
+    "nombre": "pure de tomates alco x 520 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 944.0,
+    "precio_hoy": 1014.0,
+    "diff_abs": 70.0,
+    "diff_pct": 7.42
   },
   {
-    "ean": "41333001074",
-    "nombre": "pila duracell aaa x2u.blister",
-    "categoria": "Limpieza",
-    "precio_antes": 4509.0,
-    "precio_hoy": 4870.0,
-    "diff_abs": 361.0,
-    "diff_pct": 8.01
-  },
-  {
-    "ean": "41333001098",
-    "nombre": "pila duracell aaa x4u.blister",
-    "categoria": "Limpieza",
-    "precio_antes": 7801.0,
-    "precio_hoy": 8425.0,
-    "diff_abs": 624.0,
-    "diff_pct": 8.0
-  },
-  {
-    "ean": "41333001005",
-    "nombre": "pilas duracell aa x 2 unid.",
-    "categoria": "Limpieza",
-    "precio_antes": 4365.0,
-    "precio_hoy": 4714.0,
-    "diff_abs": 349.0,
-    "diff_pct": 8.0
+    "ean": "7798132920480",
+    "nombre": "pure de tomates alco x 260 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 609.0,
+    "precio_hoy": 654.0,
+    "diff_abs": 45.0,
+    "diff_pct": 7.39
   }
 ]

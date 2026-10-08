@@ -1,7 +1,7 @@
 [
   {
-    "ean": "7790093521775",
-    "nombre": "vino cafayate x750ml.cabernet",
+    "ean": "7790093521805",
+    "nombre": "vino blanco cafayate dulce tardio x 750 ml.",
     "categoria": "Bebidas",
     "precio_antes": 5007.0,
     "precio_hoy": 7518.0,
@@ -9,8 +9,8 @@
     "diff_pct": 50.15
   },
   {
-    "ean": "7790093521805",
-    "nombre": "vino blanco cafayate dulce tardio x 750 ml.",
+    "ean": "7790093521775",
+    "nombre": "vino cafayate x750ml.cabernet",
     "categoria": "Bebidas",
     "precio_antes": 5007.0,
     "precio_hoy": 7518.0,
@@ -54,6 +54,15 @@
     "diff_pct": 31.45
   },
   {
+    "ean": "7630040411028",
+    "nombre": "vermouth martini x995ml.rosso",
+    "categoria": "Bebidas",
+    "precio_antes": 9122.0,
+    "precio_hoy": 11963.0,
+    "diff_abs": 2841.0,
+    "diff_pct": 31.14
+  },
+  {
     "ean": "2021820000009",
     "nombre": "pimiento rojo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -63,8 +72,8 @@
     "diff_pct": 30.03
   },
   {
-    "ean": "7790093095245",
-    "nombre": "vino cafayate res.x750ml.ttes.",
+    "ean": "7790093095238",
+    "nombre": "vino cafayate res.x750ml.caber",
     "categoria": "Bebidas",
     "precio_antes": 7887.0,
     "precio_hoy": 10114.0,
@@ -72,8 +81,8 @@
     "diff_pct": 28.24
   },
   {
-    "ean": "7790093095238",
-    "nombre": "vino cafayate res.x750ml.caber",
+    "ean": "7790093095245",
+    "nombre": "vino cafayate res.x750ml.ttes.",
     "categoria": "Bebidas",
     "precio_antes": 7887.0,
     "precio_hoy": 10114.0,
@@ -99,17 +108,8 @@
     "diff_pct": 28.22
   },
   {
-    "ean": "2030460000003",
-    "nombre": "cuadril de cerdo el cheru x kilo",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
-  },
-  {
-    "ean": "2030450000006",
-    "nombre": "jamon redondo de cerdo el cheru x kg.",
+    "ean": "2030430000002",
+    "nombre": "cabeza de lomo de cerdo el cheru x kg.",
     "categoria": "Carniceria",
     "precio_antes": 7900.0,
     "precio_hoy": 10024.0,
@@ -126,8 +126,8 @@
     "diff_pct": 26.89
   },
   {
-    "ean": "2030530000001",
-    "nombre": "jamon con hueso sin cuero el cheru x kilo",
+    "ean": "2030460000003",
+    "nombre": "cuadril de cerdo el cheru x kilo",
     "categoria": "Carniceria",
     "precio_antes": 7900.0,
     "precio_hoy": 10024.0,
@@ -144,6 +144,24 @@
     "diff_pct": 26.89
   },
   {
+    "ean": "2030450000006",
+    "nombre": "jamon redondo de cerdo el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
+  },
+  {
+    "ean": "2030530000001",
+    "nombre": "jamon con hueso sin cuero el cheru x kilo",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
+  },
+  {
     "ean": "2030480000007",
     "nombre": "punta vacio de cerdo el cheru x kg.",
     "categoria": "Carniceria",
@@ -151,24 +169,6 @@
     "precio_hoy": 10024.0,
     "diff_abs": 2124.0,
     "diff_pct": 26.89
-  },
-  {
-    "ean": "2030430000002",
-    "nombre": "cabeza de lomo de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
-  },
-  {
-    "ean": "2021780000002",
-    "nombre": "perejil x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
   },
   {
     "ean": "2020120000009",

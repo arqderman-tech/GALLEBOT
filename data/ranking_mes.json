@@ -1,120 +1,21 @@
 [
   {
-    "ean": "7790314010972",
-    "nombre": "vino tinto los helechos cabernet sauvignon x 750 .",
-    "categoria": "Bebidas",
-    "precio_antes": 9990.0,
-    "precio_hoy": 19146.0,
-    "diff_abs": 9156.0,
-    "diff_pct": 91.65
-  },
-  {
     "ean": "7790314006357",
     "nombre": "vino tinto los helechos malbec x 750 ml.",
     "categoria": "Bebidas",
     "precio_antes": 9990.0,
-    "precio_hoy": 19146.0,
-    "diff_abs": 9156.0,
-    "diff_pct": 91.65
+    "precio_hoy": 19720.0,
+    "diff_abs": 9730.0,
+    "diff_pct": 97.4
   },
   {
-    "ean": "7795930000543",
-    "nombre": "agua mineral pureza vital x2.25lt.sin gas",
+    "ean": "7790314010972",
+    "nombre": "vino tinto los helechos cabernet sauvignon x 750 .",
     "categoria": "Bebidas",
-    "precio_antes": 1579.0,
-    "precio_hoy": 2870.0,
-    "diff_abs": 1291.0,
-    "diff_pct": 81.76
-  },
-  {
-    "ean": "7791813403029",
-    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
-  },
-  {
-    "ean": "7791813403012",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
-  },
-  {
-    "ean": "7791813403036",
-    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
-  },
-  {
-    "ean": "7791813000723",
-    "nombre": "agua saborizada h2o  x 1.5 litros sin gas naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 1789.0,
-    "precio_hoy": 3250.0,
-    "diff_abs": 1461.0,
-    "diff_pct": 81.67
-  },
-  {
-    "ean": "7791661000333",
-    "nombre": "agua mineral pureza vital pet x 6.4 litros",
-    "categoria": "Bebidas",
-    "precio_antes": 4179.0,
-    "precio_hoy": 7585.0,
-    "diff_abs": 3406.0,
-    "diff_pct": 81.5
-  },
-  {
-    "ean": "7792799000905",
-    "nombre": "agua mineral pureza vital x 1.5 litros sin gas",
-    "categoria": "Bebidas",
-    "precio_antes": 1339.0,
-    "precio_hoy": 2429.0,
-    "diff_abs": 1090.0,
-    "diff_pct": 81.4
-  },
-  {
-    "ean": "7794000009424",
-    "nombre": "aderezo hellmans x 340 gr asado",
-    "categoria": "Almacen",
-    "precio_antes": 2522.68,
-    "precio_hoy": 4574.0,
-    "diff_abs": 2051.32,
-    "diff_pct": 81.32
-  },
-  {
-    "ean": "7791813405030",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
-    "categoria": "Bebidas",
-    "precio_antes": 1849.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 81.18
-  },
-  {
-    "ean": "7791813405016",
-    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
-    "categoria": "Bebidas",
-    "precio_antes": 1849.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 81.18
-  },
-  {
-    "ean": "7791813405023",
-    "nombre": "agua saborizada h2oh  sin gas x 2 litros limoneto",
-    "categoria": "Bebidas",
-    "precio_antes": 1849.0,
-    "precio_hoy": 3350.0,
-    "diff_abs": 1501.0,
-    "diff_pct": 81.18
+    "precio_antes": 9990.0,
+    "precio_hoy": 19720.0,
+    "diff_abs": 9730.0,
+    "diff_pct": 97.4
   },
   {
     "ean": "2021480000005",
@@ -133,15 +34,6 @@
     "precio_hoy": 1390.0,
     "diff_abs": 600.0,
     "diff_pct": 75.95
-  },
-  {
-    "ean": "7622202816437",
-    "nombre": "alfajor shot x 60gr.triple blanco",
-    "categoria": "Almacen",
-    "precio_antes": 1269.0,
-    "precio_hoy": 2200.0,
-    "diff_abs": 931.0,
-    "diff_pct": 73.36
   },
   {
     "ean": "77956699",
@@ -171,12 +63,120 @@
     "diff_pct": 66.89
   },
   {
-    "ean": "7792799000035",
-    "nombre": "agua mineral eco de los andes x 500 ml. con gas",
+    "ean": "7790895007385",
+    "nombre": "gaseosa crush lima limon x 2,25 lt.",
     "categoria": "Bebidas",
-    "precio_antes": 1319.0,
-    "precio_hoy": 2200.0,
-    "diff_abs": 881.0,
-    "diff_pct": 66.79
+    "precio_antes": 1879.0,
+    "precio_hoy": 3080.0,
+    "diff_abs": 1201.0,
+    "diff_pct": 63.92
+  },
+  {
+    "ean": "7790895006951",
+    "nombre": "gaseosa crush naranja x 2,25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1879.0,
+    "precio_hoy": 3080.0,
+    "diff_abs": 1201.0,
+    "diff_pct": 63.92
+  },
+  {
+    "ean": "7622300742584",
+    "nombre": "alfajor terrabusi x6 chocolate",
+    "categoria": "Almacen",
+    "precio_antes": 5469.0,
+    "precio_hoy": 8954.0,
+    "diff_abs": 3485.0,
+    "diff_pct": 63.72
+  },
+  {
+    "ean": "7797906054819",
+    "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
+    "categoria": "Congelados",
+    "precio_antes": 9939.0,
+    "precio_hoy": 16208.0,
+    "diff_abs": 6269.0,
+    "diff_pct": 63.07
+  },
+  {
+    "ean": "7797906054918",
+    "nombre": "papas mc cain noisette x 1.2 kg.",
+    "categoria": "Congelados",
+    "precio_antes": 13218.99,
+    "precio_hoy": 21548.0,
+    "diff_abs": 8329.01,
+    "diff_pct": 63.01
+  },
+  {
+    "ean": "7797906000700",
+    "nombre": "papas mc cain tradicional x 400 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 3299.0,
+    "precio_hoy": 5375.0,
+    "diff_abs": 2076.0,
+    "diff_pct": 62.93
+  },
+  {
+    "ean": "7790895006104",
+    "nombre": "powerade frutas tropicales x 995 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2399.0,
+    "precio_hoy": 3890.0,
+    "diff_abs": 1491.0,
+    "diff_pct": 62.15
+  },
+  {
+    "ean": "7790895006029",
+    "nombre": "powerade mora x 995 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 2399.0,
+    "precio_hoy": 3890.0,
+    "diff_abs": 1491.0,
+    "diff_pct": 62.15
+  },
+  {
+    "ean": "7622201733834",
+    "nombre": "jugo en polvo clight limonada-maracuya x 7,5 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 469.0,
+    "precio_hoy": 757.0,
+    "diff_abs": 288.0,
+    "diff_pct": 61.41
+  },
+  {
+    "ean": "7622201702625",
+    "nombre": "jugo en polvo clight anana x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 469.0,
+    "precio_hoy": 757.0,
+    "diff_abs": 288.0,
+    "diff_pct": 61.41
+  },
+  {
+    "ean": "7622201703110",
+    "nombre": "jugo en polvo clight x 7 gr. sabor naranja",
+    "categoria": "Bebidas",
+    "precio_antes": 469.0,
+    "precio_hoy": 757.0,
+    "diff_abs": 288.0,
+    "diff_pct": 61.41
+  },
+  {
+    "ean": "7622201702687",
+    "nombre": "jugo en polvo clight naranja-mango x 7 gr.",
+    "categoria": "Bebidas",
+    "precio_antes": 469.0,
+    "precio_hoy": 757.0,
+    "diff_abs": 288.0,
+    "diff_pct": 61.41
+  },
+  {
+    "ean": "7622202359927",
+    "nombre": "jugo cligh pomelada hibiscus x 8 gm",
+    "categoria": "Bebidas",
+    "precio_antes": 469.0,
+    "precio_hoy": 757.0,
+    "diff_abs": 288.0,
+    "diff_pct": 61.41
   }
 ]
