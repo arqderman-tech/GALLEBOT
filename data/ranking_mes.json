@@ -1,12 +1,12 @@
 [
   {
-    "ean": "7790314006357",
-    "nombre": "vino tinto los helechos malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 9990.0,
-    "precio_hoy": 19720.0,
-    "diff_abs": 9730.0,
-    "diff_pct": 97.4
+    "ean": "2021020000007",
+    "nombre": "hinojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 150.75
   },
   {
     "ean": "7790314010972",
@@ -18,6 +18,105 @@
     "diff_pct": 97.4
   },
   {
+    "ean": "7790314006357",
+    "nombre": "vino tinto los helechos malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 9990.0,
+    "precio_hoy": 19720.0,
+    "diff_abs": 9730.0,
+    "diff_pct": 97.4
+  },
+  {
+    "ean": "7791337010376",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. durao",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4687.0,
+    "diff_abs": 2188.0,
+    "diff_pct": 87.56
+  },
+  {
+    "ean": "7791337010475",
+    "nombre": "yogur la serenisima en sachet descremado x 900 gm frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4687.0,
+    "diff_abs": 2188.0,
+    "diff_pct": 87.56
+  },
+  {
+    "ean": "7791337010468",
+    "nombre": "yogur descremado la serenisima sachet x 900 ml vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4687.0,
+    "diff_abs": 2188.0,
+    "diff_pct": 87.56
+  },
+  {
+    "ean": "7791337010369",
+    "nombre": "yogur entero bebible la serenisima x 900 gr. vaini",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4687.0,
+    "diff_abs": 2188.0,
+    "diff_pct": 87.56
+  },
+  {
+    "ean": "7791337010215",
+    "nombre": "yogur ls.clas.ent.sh x900g.fru",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4687.0,
+    "diff_abs": 2188.0,
+    "diff_pct": 87.56
+  },
+  {
+    "ean": "7791813403036",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
+  },
+  {
+    "ean": "7791813403029",
+    "nombre": "agua saborizada h2oh x 1.5 litros limoneto sin gas",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
+  },
+  {
+    "ean": "7791813403012",
+    "nombre": "agua saborizada sin gas h2oh x 1.5 litros pomelada",
+    "categoria": "Bebidas",
+    "precio_antes": 1789.0,
+    "precio_hoy": 3250.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 81.67
+  },
+  {
+    "ean": "7791813405030",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor manzana",
+    "categoria": "Bebidas",
+    "precio_antes": 1849.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 81.18
+  },
+  {
+    "ean": "7791813405016",
+    "nombre": "agua saborizada sin gas h2oh x 2 litros sabor pomelo",
+    "categoria": "Bebidas",
+    "precio_antes": 1849.0,
+    "precio_hoy": 3350.0,
+    "diff_abs": 1501.0,
+    "diff_pct": 81.18
+  },
+  {
     "ean": "2021480000005",
     "nombre": "papa elegida suelta x kg.",
     "categoria": "Frutas Y Verduras",
@@ -25,6 +124,24 @@
     "precio_hoy": 4990.0,
     "diff_abs": 2200.0,
     "diff_pct": 78.85
+  },
+  {
+    "ean": "7791337007253",
+    "nombre": "leche chocolatada cindor x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4749.0,
+    "precio_hoy": 8390.0,
+    "diff_abs": 3641.0,
+    "diff_pct": 76.67
+  },
+  {
+    "ean": "7791337007796",
+    "nombre": "leche chocolatada cindor x 1 lt. sabor mocha",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4749.0,
+    "precio_hoy": 8390.0,
+    "diff_abs": 3641.0,
+    "diff_pct": 76.67
   },
   {
     "ean": "2019880000008",
@@ -45,138 +162,21 @@
     "diff_pct": 73.36
   },
   {
-    "ean": "2021020000007",
-    "nombre": "hinojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
+    "ean": "7791337009684",
+    "nombre": "yogur bebible gran compra frutilla x 900 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1819.0,
+    "precio_hoy": 3010.0,
+    "diff_abs": 1191.0,
+    "diff_pct": 65.48
   },
   {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
-  },
-  {
-    "ean": "7790895007385",
-    "nombre": "gaseosa crush lima limon x 2,25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1879.0,
-    "precio_hoy": 3080.0,
-    "diff_abs": 1201.0,
-    "diff_pct": 63.92
-  },
-  {
-    "ean": "7790895006951",
-    "nombre": "gaseosa crush naranja x 2,25 lt.",
-    "categoria": "Bebidas",
-    "precio_antes": 1879.0,
-    "precio_hoy": 3080.0,
-    "diff_abs": 1201.0,
-    "diff_pct": 63.92
-  },
-  {
-    "ean": "7622300742584",
-    "nombre": "alfajor terrabusi x6 chocolate",
-    "categoria": "Almacen",
-    "precio_antes": 5469.0,
-    "precio_hoy": 8954.0,
-    "diff_abs": 3485.0,
-    "diff_pct": 63.72
-  },
-  {
-    "ean": "7797906054819",
-    "nombre": "papas fritas mc cain corte tradicional x 1,4 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 9939.0,
-    "precio_hoy": 16208.0,
-    "diff_abs": 6269.0,
-    "diff_pct": 63.07
-  },
-  {
-    "ean": "7797906054918",
-    "nombre": "papas mc cain noisette x 1.2 kg.",
-    "categoria": "Congelados",
-    "precio_antes": 13218.99,
-    "precio_hoy": 21548.0,
-    "diff_abs": 8329.01,
-    "diff_pct": 63.01
-  },
-  {
-    "ean": "7797906000700",
-    "nombre": "papas mc cain tradicional x 400 gr.",
-    "categoria": "Congelados",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5375.0,
-    "diff_abs": 2076.0,
-    "diff_pct": 62.93
-  },
-  {
-    "ean": "7790895006104",
-    "nombre": "powerade frutas tropicales x 995 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2399.0,
-    "precio_hoy": 3890.0,
-    "diff_abs": 1491.0,
-    "diff_pct": 62.15
-  },
-  {
-    "ean": "7790895006029",
-    "nombre": "powerade mora x 995 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 2399.0,
-    "precio_hoy": 3890.0,
-    "diff_abs": 1491.0,
-    "diff_pct": 62.15
-  },
-  {
-    "ean": "7622201733834",
-    "nombre": "jugo en polvo clight limonada-maracuya x 7,5 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 469.0,
-    "precio_hoy": 757.0,
-    "diff_abs": 288.0,
-    "diff_pct": 61.41
-  },
-  {
-    "ean": "7622201702625",
-    "nombre": "jugo en polvo clight anana x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 469.0,
-    "precio_hoy": 757.0,
-    "diff_abs": 288.0,
-    "diff_pct": 61.41
-  },
-  {
-    "ean": "7622201703110",
-    "nombre": "jugo en polvo clight x 7 gr. sabor naranja",
-    "categoria": "Bebidas",
-    "precio_antes": 469.0,
-    "precio_hoy": 757.0,
-    "diff_abs": 288.0,
-    "diff_pct": 61.41
-  },
-  {
-    "ean": "7622201702687",
-    "nombre": "jugo en polvo clight naranja-mango x 7 gr.",
-    "categoria": "Bebidas",
-    "precio_antes": 469.0,
-    "precio_hoy": 757.0,
-    "diff_abs": 288.0,
-    "diff_pct": 61.41
-  },
-  {
-    "ean": "7622202359927",
-    "nombre": "jugo cligh pomelada hibiscus x 8 gm",
-    "categoria": "Bebidas",
-    "precio_antes": 469.0,
-    "precio_hoy": 757.0,
-    "diff_abs": 288.0,
-    "diff_pct": 61.41
+    "ean": "7791337009691",
+    "nombre": "yogur gran compra bebible x 900 gr vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1819.0,
+    "precio_hoy": 3010.0,
+    "diff_abs": 1191.0,
+    "diff_pct": 65.48
   }
 ]

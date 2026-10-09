@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7630040411028",
-    "nombre": "vermouth martini x995ml.rosso",
-    "categoria": "Bebidas",
-    "precio_antes": 9122.0,
-    "precio_hoy": 11963.0,
-    "diff_abs": 2841.0,
-    "diff_pct": 31.14
+    "ean": "2020960000009",
+    "nombre": "lechuga repollada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
   },
   {
-    "ean": "2019030000001",
-    "nombre": "pavita sadia congelada x kilo",
-    "categoria": "Congelados",
-    "precio_antes": 15400.0,
-    "precio_hoy": 19040.0,
-    "diff_abs": 3640.0,
-    "diff_pct": 23.64
+    "ean": "2700006100107",
+    "nombre": "individuales",
+    "categoria": "Limpieza",
+    "precio_antes": 987.0,
+    "precio_hoy": 1390.0,
+    "diff_abs": 403.0,
+    "diff_pct": 40.83
   },
   {
-    "ean": "7798333900038",
-    "nombre": "huevos blancos avicola norte premium x 6 unid.",
+    "ean": "2022010000007",
+    "nombre": "remolacha x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1190.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 300.0,
+    "diff_pct": 25.21
+  },
+  {
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
+  },
+  {
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
+  },
+  {
+    "ean": "7794513000321",
+    "nombre": "almendras sin cascara la nueva estrella x 80 gr.",
     "categoria": "Almacen",
-    "precio_antes": 2570.0,
-    "precio_hoy": 3033.0,
-    "diff_abs": 463.0,
-    "diff_pct": 18.02
+    "precio_antes": 3644.0,
+    "precio_hoy": 4286.0,
+    "diff_abs": 642.0,
+    "diff_pct": 17.62
   },
   {
-    "ean": "7798333900045",
-    "nombre": "huevos castanos avicola norte premium x 6 unid.",
+    "ean": "2011770000006",
+    "nombre": "almendras sin cascara x kg.",
     "categoria": "Almacen",
-    "precio_antes": 2727.0,
-    "precio_hoy": 3218.0,
-    "diff_abs": 491.0,
-    "diff_pct": 18.01
+    "precio_antes": 34230.0,
+    "precio_hoy": 40254.0,
+    "diff_abs": 6024.0,
+    "diff_pct": 17.6
   },
   {
-    "ean": "7798333900076",
-    "nombre": "huevos blancos avicola norte premium x 12 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 5004.0,
-    "precio_hoy": 5905.0,
-    "diff_abs": 901.0,
-    "diff_pct": 18.01
+    "ean": "7796314000142",
+    "nombre": "funda para tabla de planchar",
+    "categoria": "Limpieza",
+    "precio_antes": 8643.0,
+    "precio_hoy": 10053.0,
+    "diff_abs": 1410.0,
+    "diff_pct": 16.31
   },
   {
-    "ean": "7798333900090",
-    "nombre": "huevo avicola norte superior x 6 unidades blancos",
-    "categoria": "Almacen",
-    "precio_antes": 2321.0,
-    "precio_hoy": 2739.0,
-    "diff_abs": 418.0,
-    "diff_pct": 18.01
+    "ean": "7794184000095",
+    "nombre": "alfombra antideslizante danforth",
+    "categoria": "Limpieza",
+    "precio_antes": 10053.0,
+    "precio_hoy": 11685.0,
+    "diff_abs": 1632.0,
+    "diff_pct": 16.23
   },
   {
-    "ean": "7798333900052",
-    "nombre": "huevos blamcos avicola norte maple x 30 unidades",
-    "categoria": "Almacen",
-    "precio_antes": 7499.0,
-    "precio_hoy": 8849.0,
-    "diff_abs": 1350.0,
-    "diff_pct": 18.0
+    "ean": "7796314000210",
+    "nombre": "funda colchon 1 12 plaza algodonpoliester",
+    "categoria": "Limpieza",
+    "precio_antes": 10550.0,
+    "precio_hoy": 12031.0,
+    "diff_abs": 1481.0,
+    "diff_pct": 14.04
   },
   {
-    "ean": "7798333900120",
-    "nombre": "huevos avicola norte color x 12 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 4778.0,
-    "precio_hoy": 5638.0,
-    "diff_abs": 860.0,
-    "diff_pct": 18.0
+    "ean": "7796314000197",
+    "nombre": "funda para almohadas de 1 plaza",
+    "categoria": "Limpieza",
+    "precio_antes": 7233.0,
+    "precio_hoy": 8240.0,
+    "diff_abs": 1007.0,
+    "diff_pct": 13.92
   },
   {
-    "ean": "7798333900083",
-    "nombre": "huevos avicola norte color premium x 12 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 5293.0,
-    "precio_hoy": 6246.0,
-    "diff_abs": 953.0,
-    "diff_pct": 18.0
+    "ean": "7796314000173",
+    "nombre": "funda para colchon 2 y 12 plazas",
+    "categoria": "Limpieza",
+    "precio_antes": 14708.0,
+    "precio_hoy": 16751.0,
+    "diff_abs": 2043.0,
+    "diff_pct": 13.89
   },
   {
-    "ean": "7798151820013",
-    "nombre": "huevos doble a x 6 unid. blancos",
-    "categoria": "Almacen",
-    "precio_antes": 2400.0,
-    "precio_hoy": 2832.0,
-    "diff_abs": 432.0,
-    "diff_pct": 18.0
+    "ean": "7796314000159",
+    "nombre": "funda para colchon 1 plaza",
+    "categoria": "Limpieza",
+    "precio_antes": 9821.0,
+    "precio_hoy": 11118.0,
+    "diff_abs": 1297.0,
+    "diff_pct": 13.21
   },
   {
-    "ean": "7798333900151",
-    "nombre": "huevos avicola norte color estuche x 12 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 4413.0,
-    "precio_hoy": 5207.0,
-    "diff_abs": 794.0,
-    "diff_pct": 17.99
+    "ean": "7008004003518",
+    "nombre": "sabanas ajustables 1 plaza y media colores surtidos",
+    "categoria": "Limpieza",
+    "precio_antes": 8049.0,
+    "precio_hoy": 9104.0,
+    "diff_abs": 1055.0,
+    "diff_pct": 13.11
   },
   {
-    "ean": "7798333900144",
-    "nombre": "huevos avicola norte blancos estuche x 12 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 3479.0,
-    "precio_hoy": 4105.0,
-    "diff_abs": 626.0,
-    "diff_pct": 17.99
+    "ean": "1808391",
+    "nombre": "219 delantal lienzo",
+    "categoria": "Limpieza",
+    "precio_antes": 6447.0,
+    "precio_hoy": 7253.0,
+    "diff_abs": 806.0,
+    "diff_pct": 12.5
   },
   {
-    "ean": "7798333900106",
-    "nombre": "huevos avicola norte color x 6 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 2459.0,
-    "precio_hoy": 2901.0,
-    "diff_abs": 442.0,
-    "diff_pct": 17.97
+    "ean": "1808407",
+    "nombre": "delantal plastico",
+    "categoria": "Limpieza",
+    "precio_antes": 11886.0,
+    "precio_hoy": 13297.0,
+    "diff_abs": 1411.0,
+    "diff_pct": 11.87
   },
   {
-    "ean": "7798333900014",
-    "nombre": "huevos blancos avicola norte x 6 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 1775.0,
-    "precio_hoy": 2094.0,
-    "diff_abs": 319.0,
-    "diff_pct": 17.97
+    "ean": "7896359025329",
+    "nombre": "bols cerealero san remo",
+    "categoria": "Limpieza",
+    "precio_antes": 1651.0,
+    "precio_hoy": 1835.0,
+    "diff_abs": 184.0,
+    "diff_pct": 11.14
   },
   {
-    "ean": "7501008603017",
-    "nombre": "bacardi x750ml.carta blanca",
-    "categoria": "Bebidas",
-    "precio_antes": 20158.0,
-    "precio_hoy": 23713.0,
-    "diff_abs": 3555.0,
-    "diff_pct": 17.64
+    "ean": "7896359013944",
+    "nombre": "cucharon para panqueques san remo",
+    "categoria": "Limpieza",
+    "precio_antes": 3731.0,
+    "precio_hoy": 4146.0,
+    "diff_abs": 415.0,
+    "diff_pct": 11.12
   },
   {
-    "ean": "7501008604014",
-    "nombre": "ron bacardi carta de oro x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 20152.0,
-    "precio_hoy": 23706.0,
-    "diff_abs": 3554.0,
-    "diff_pct": 17.64
+    "ean": "7896359013876",
+    "nombre": "cucharon para sopa san remo",
+    "categoria": "Limpieza",
+    "precio_antes": 3731.0,
+    "precio_hoy": 4146.0,
+    "diff_abs": 415.0,
+    "diff_pct": 11.12
   },
   {
-    "ean": "7790314080463",
-    "nombre": "vino blanco canciller blend x 1,125 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 3703.0,
-    "precio_hoy": 4238.0,
-    "diff_abs": 535.0,
-    "diff_pct": 14.45
-  },
-  {
-    "ean": "7790314080142",
-    "nombre": "vino canciller blend x 1.25 litros tinto",
-    "categoria": "Bebidas",
-    "precio_antes": 3703.0,
-    "precio_hoy": 4238.0,
-    "diff_abs": 535.0,
-    "diff_pct": 14.45
-  },
-  {
-    "ean": "7798132920473",
-    "nombre": "pure de tomates alco x 520 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 944.0,
-    "precio_hoy": 1014.0,
-    "diff_abs": 70.0,
-    "diff_pct": 7.42
-  },
-  {
-    "ean": "7798132920480",
-    "nombre": "pure de tomates alco x 260 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 609.0,
-    "precio_hoy": 654.0,
-    "diff_abs": 45.0,
-    "diff_pct": 7.39
+    "ean": "7896359013937",
+    "nombre": "pinza para fideos san remo",
+    "categoria": "Limpieza",
+    "precio_antes": 3731.0,
+    "precio_hoy": 4146.0,
+    "diff_abs": 415.0,
+    "diff_pct": 11.12
   }
 ]

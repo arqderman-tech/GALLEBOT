@@ -27,12 +27,30 @@
     "diff_pct": 50.15
   },
   {
+    "ean": "2700006100107",
+    "nombre": "individuales",
+    "categoria": "Limpieza",
+    "precio_antes": 987.0,
+    "precio_hoy": 1390.0,
+    "diff_abs": 403.0,
+    "diff_pct": 40.83
+  },
+  {
+    "ean": "2032010000006",
+    "nombre": "semillas de zapallo premium x kilo la nueva estrella",
+    "categoria": "Almacen",
+    "precio_antes": 18640.0,
+    "precio_hoy": 25549.0,
+    "diff_abs": 6909.0,
+    "diff_pct": 37.07
+  },
+  {
     "ean": "7790070265104",
     "nombre": "aceite de oliva copcinero extra virgen x 250 ml",
     "categoria": "Almacen",
-    "precio_antes": 7085.7,
+    "precio_antes": 7086.0,
     "precio_hoy": 9315.0,
-    "diff_abs": 2229.3,
+    "diff_abs": 2229.0,
     "diff_pct": 31.46
   },
   {
@@ -72,8 +90,8 @@
     "diff_pct": 30.03
   },
   {
-    "ean": "7790093095238",
-    "nombre": "vino cafayate res.x750ml.caber",
+    "ean": "7790093095221",
+    "nombre": "vino cafayate reserva malbec x 750 ml.",
     "categoria": "Bebidas",
     "precio_antes": 7887.0,
     "precio_hoy": 10114.0,
@@ -90,8 +108,8 @@
     "diff_pct": 28.24
   },
   {
-    "ean": "7790093095221",
-    "nombre": "vino cafayate reserva malbec x 750 ml.",
+    "ean": "7790093095238",
+    "nombre": "vino cafayate res.x750ml.caber",
     "categoria": "Bebidas",
     "precio_antes": 7887.0,
     "precio_hoy": 10114.0,
@@ -108,53 +126,8 @@
     "diff_pct": 28.22
   },
   {
-    "ean": "2030430000002",
-    "nombre": "cabeza de lomo de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
-  },
-  {
-    "ean": "2030470000000",
-    "nombre": "nalga de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
-  },
-  {
     "ean": "2030460000003",
     "nombre": "cuadril de cerdo el cheru x kilo",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
-  },
-  {
-    "ean": "2030440000009",
-    "nombre": "jamon cuadrado de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
-  },
-  {
-    "ean": "2030450000006",
-    "nombre": "jamon redondo de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
-  },
-  {
-    "ean": "2030530000001",
-    "nombre": "jamon con hueso sin cuero el cheru x kilo",
     "categoria": "Carniceria",
     "precio_antes": 7900.0,
     "precio_hoy": 10024.0,
@@ -171,12 +144,39 @@
     "diff_pct": 26.89
   },
   {
-    "ean": "2020120000009",
-    "nombre": "berengena negra x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
+    "ean": "2030470000000",
+    "nombre": "nalga de cerdo el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
+  },
+  {
+    "ean": "2030440000009",
+    "nombre": "jamon cuadrado de cerdo el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
+  },
+  {
+    "ean": "2030430000002",
+    "nombre": "cabeza de lomo de cerdo el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
+  },
+  {
+    "ean": "2030530000001",
+    "nombre": "jamon con hueso sin cuero el cheru x kilo",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
   }
 ]

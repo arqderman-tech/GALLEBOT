@@ -1,147 +1,147 @@
 {
-  "fecha": "20261008",
-  "total_productos": 6325,
-  "variacion_dia": 0.05,
-  "variacion_7d": -0.04,
-  "variacion_mes": 4.2,
+  "fecha": "20261009",
+  "total_productos": 6646,
+  "variacion_dia": 0.08,
+  "variacion_7d": 0.06,
+  "variacion_mes": 6.12,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.07,
-      "productos_subieron": 74,
-      "productos_bajaron": 54,
-      "total_productos": 1516
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 1,
+      "productos_bajaron": 0,
+      "total_productos": 1518
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1184
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 5,
+      "productos_bajaron": 7,
+      "total_productos": 1181
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.25,
-      "productos_subieron": 12,
-      "productos_bajaron": 0,
-      "total_productos": 242
-    },
-    {
-      "categoria": "Limpieza",
-      "variacion_pct_promedio": -0.08,
-      "productos_subieron": 0,
-      "productos_bajaron": 4,
-      "total_productos": 814
-    },
-    {
-      "categoria": "Cuidado Personal",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 915
+      "total_productos": 243
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.56,
+      "productos_subieron": 39,
+      "productos_bajaron": 1,
+      "total_productos": 812
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": -0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 1,
+      "total_productos": 916
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.14,
-      "productos_subieron": 19,
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 2,
       "productos_bajaron": 0,
-      "total_productos": 1635
+      "total_productos": 1634
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7898335070088",
-      "nombre": "bolsa para lavarropas ordene 22 x 16 cm.",
+      "ean": "2020570000000",
+      "nombre": "coliflor x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -20.04
+    },
+    {
+      "ean": "2021950000009",
+      "nombre": "radicheta x paquete",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 1790.0,
+      "precio_hoy": 1490.0,
+      "diff_abs": -300.0,
+      "diff_pct": -16.76
+    },
+    {
+      "ean": "7798151771315",
+      "nombre": "queso crema  tremblay x 290 gm reducido",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4122.0,
+      "precio_hoy": 3504.0,
+      "diff_abs": -618.0,
+      "diff_pct": -14.99
+    },
+    {
+      "ean": "2020890000001",
+      "nombre": "kiwi x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 13990.0,
+      "precio_hoy": 11990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -14.3
+    },
+    {
+      "ean": "2022210000005",
+      "nombre": "tomate perita x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 7990.0,
+      "precio_hoy": 6990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -12.52
+    },
+    {
+      "ean": "2022220000002",
+      "nombre": "tomate redondo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 7990.0,
+      "precio_hoy": 6990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -12.52
+    },
+    {
+      "ean": "7896359033881",
+      "nombre": "perchas san remo pack x 6 unidades",
       "categoria": "Limpieza",
-      "precio_antes": 8167.0,
-      "precio_hoy": 6787.0,
-      "diff_abs": -1380.0,
-      "diff_pct": -16.9
+      "precio_antes": 6457.0,
+      "precio_hoy": 5811.0,
+      "diff_abs": -646.0,
+      "diff_pct": -10.0
     },
     {
-      "ean": "7898335075717",
-      "nombre": "bolsa propa vac bag extra grande 80 x 100 cm.",
-      "categoria": "Limpieza",
-      "precio_antes": 11632.0,
-      "precio_hoy": 9670.0,
-      "diff_abs": -1962.0,
-      "diff_pct": -16.87
+      "ean": "2020180000001",
+      "nombre": "calabacita x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 4590.0,
+      "diff_abs": -400.0,
+      "diff_pct": -8.02
     },
     {
-      "ean": "7898335070040",
-      "nombre": "bolsa para lavarropas ordene 40 x 50 cm.",
-      "categoria": "Limpieza",
-      "precio_antes": 6458.0,
-      "precio_hoy": 5369.0,
-      "diff_abs": -1089.0,
-      "diff_pct": -16.86
+      "ean": "7790070509079",
+      "nombre": "yerba mate cruz de malta manzanilla x 500 gr.",
+      "categoria": "Perfumeria",
+      "precio_antes": 2449.0,
+      "precio_hoy": 2441.0,
+      "diff_abs": -8.0,
+      "diff_pct": -0.33
     },
     {
-      "ean": "7898335076936",
-      "nombre": "bolsa propa vac bag trip 60 x 40 cm.",
-      "categoria": "Limpieza",
-      "precio_antes": 5816.0,
-      "precio_hoy": 4836.0,
-      "diff_abs": -980.0,
-      "diff_pct": -16.85
-    },
-    {
-      "ean": "7790950147926",
-      "nombre": "americano gancia x 473 ml sin alcohol lata",
-      "categoria": "Bebidas",
-      "precio_antes": 2701.0,
-      "precio_hoy": 2566.0,
-      "diff_abs": -135.0,
-      "diff_pct": -5.0
-    },
-    {
-      "ean": "7790950202823",
-      "nombre": "dr.lemon x473ml.vodka",
-      "categoria": "Bebidas",
-      "precio_antes": 2532.0,
-      "precio_hoy": 2408.0,
-      "diff_abs": -124.0,
-      "diff_pct": -4.9
-    },
-    {
-      "ean": "7790950140859",
-      "nombre": "dr. lemon pomelo x 473 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 2532.0,
-      "precio_hoy": 2408.0,
-      "diff_abs": -124.0,
-      "diff_pct": -4.9
-    },
-    {
-      "ean": "7790950202816",
-      "nombre": "dr. lemon x 473 ml. limon",
-      "categoria": "Bebidas",
-      "precio_antes": 2532.0,
-      "precio_hoy": 2408.0,
-      "diff_abs": -124.0,
-      "diff_pct": -4.9
-    },
-    {
-      "ean": "7790950144758",
-      "nombre": "aperitivo dr. lemon gin tonic x 473 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 2532.0,
-      "precio_hoy": 2408.0,
-      "diff_abs": -124.0,
-      "diff_pct": -4.9
-    },
-    {
-      "ean": "7790950144055",
-      "nombre": "aperitivo dr. lemon mojito x 473 ml.",
-      "categoria": "Bebidas",
-      "precio_antes": 2532.0,
-      "precio_hoy": 2408.0,
-      "diff_abs": -124.0,
-      "diff_pct": -4.9
+      "ean": "2015530000008",
+      "nombre": "salame crespon paladini x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 32714.0,
+      "precio_hoy": 32714.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 105,
-  "productos_bajaron_dia": 58,
-  "productos_sin_cambio_dia": 6143
+  "productos_subieron_dia": 47,
+  "productos_bajaron_dia": 9,
+  "productos_sin_cambio_dia": 6248
 }
