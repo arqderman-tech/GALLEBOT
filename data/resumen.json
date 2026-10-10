@@ -1,147 +1,147 @@
 {
-  "fecha": "20261009",
-  "total_productos": 6646,
-  "variacion_dia": 0.08,
-  "variacion_7d": 0.06,
-  "variacion_mes": 6.12,
+  "fecha": "20261010",
+  "total_productos": 6653,
+  "variacion_dia": 0.25,
+  "variacion_7d": 0.3,
+  "variacion_mes": 6.67,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 1,
-      "productos_bajaron": 0,
-      "total_productos": 1518
+      "variacion_pct_promedio": 0.16,
+      "productos_subieron": 53,
+      "productos_bajaron": 2,
+      "total_productos": 1513
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 5,
-      "productos_bajaron": 7,
-      "total_productos": 1181
+      "variacion_pct_promedio": 0.15,
+      "productos_subieron": 29,
+      "productos_bajaron": 10,
+      "total_productos": 1182
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.06,
+      "productos_subieron": 2,
       "productos_bajaron": 0,
-      "total_productos": 243
+      "total_productos": 244
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.56,
-      "productos_subieron": 39,
-      "productos_bajaron": 1,
-      "total_productos": 812
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 814
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.0,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "total_productos": 916
+      "productos_bajaron": 0,
+      "total_productos": 929
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 2,
-      "productos_bajaron": 0,
-      "total_productos": 1634
+      "variacion_pct_promedio": 0.64,
+      "productos_subieron": 1,
+      "productos_bajaron": 20,
+      "total_productos": 1937
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2020570000000",
-      "nombre": "coliflor x kg.",
+      "ean": "2022010000007",
+      "nombre": "remolacha x paquete",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
+      "precio_antes": 1490.0,
+      "precio_hoy": 990.0,
+      "diff_abs": -500.0,
+      "diff_pct": -33.56
+    },
+    {
+      "ean": "2020160000007",
+      "nombre": "brocoli x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 5990.0,
+      "precio_hoy": 4590.0,
+      "diff_abs": -1400.0,
+      "diff_pct": -23.37
     },
     {
       "ean": "2021950000009",
       "nombre": "radicheta x paquete",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 1790.0,
-      "precio_hoy": 1490.0,
+      "precio_antes": 1490.0,
+      "precio_hoy": 1190.0,
       "diff_abs": -300.0,
-      "diff_pct": -16.76
+      "diff_pct": -20.13
     },
     {
-      "ean": "7798151771315",
-      "nombre": "queso crema  tremblay x 290 gm reducido",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4122.0,
-      "precio_hoy": 3504.0,
-      "diff_abs": -618.0,
-      "diff_pct": -14.99
-    },
-    {
-      "ean": "2020890000001",
-      "nombre": "kiwi x kg.",
+      "ean": "2020980000003",
+      "nombre": "limones x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 13990.0,
-      "precio_hoy": 11990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -14.3
+      "precio_antes": 2990.0,
+      "precio_hoy": 2490.0,
+      "diff_abs": -500.0,
+      "diff_pct": -16.72
     },
     {
-      "ean": "2022210000005",
-      "nombre": "tomate perita x kg.",
+      "ean": "2020310000000",
+      "nombre": "cebolla morada x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 7990.0,
-      "precio_hoy": 6990.0,
+      "precio_antes": 5990.0,
+      "precio_hoy": 4990.0,
       "diff_abs": -1000.0,
-      "diff_pct": -12.52
+      "diff_pct": -16.69
     },
     {
-      "ean": "2022220000002",
-      "nombre": "tomate redondo x kg.",
+      "ean": "2021090000006",
+      "nombre": "mandarina encore x kilo",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 7990.0,
-      "precio_hoy": 6990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -12.52
+      "precio_antes": 1990.0,
+      "precio_hoy": 1690.0,
+      "diff_abs": -300.0,
+      "diff_pct": -15.08
     },
     {
-      "ean": "7896359033881",
-      "nombre": "perchas san remo pack x 6 unidades",
-      "categoria": "Limpieza",
-      "precio_antes": 6457.0,
-      "precio_hoy": 5811.0,
-      "diff_abs": -646.0,
-      "diff_pct": -10.0
-    },
-    {
-      "ean": "2020180000001",
-      "nombre": "calabacita x kg.",
+      "ean": "2020960000009",
+      "nombre": "lechuga repollada x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 4590.0,
+      "precio_antes": 2990.0,
+      "precio_hoy": 2590.0,
       "diff_abs": -400.0,
-      "diff_pct": -8.02
+      "diff_pct": -13.38
     },
     {
-      "ean": "7790070509079",
-      "nombre": "yerba mate cruz de malta manzanilla x 500 gr.",
-      "categoria": "Perfumeria",
-      "precio_antes": 2449.0,
-      "precio_hoy": 2441.0,
-      "diff_abs": -8.0,
-      "diff_pct": -0.33
+      "ean": "2021640000005",
+      "nombre": "zanahoria suelta x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2490.0,
+      "precio_hoy": 2190.0,
+      "diff_abs": -300.0,
+      "diff_pct": -12.05
     },
     {
-      "ean": "2015530000008",
-      "nombre": "salame crespon paladini x kg.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 32714.0,
-      "precio_hoy": 32714.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2020000000006",
+      "nombre": "arandanos en bandeja",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2990.0,
+      "precio_hoy": 2690.0,
+      "diff_abs": -300.0,
+      "diff_pct": -10.03
+    },
+    {
+      "ean": "7790314080142",
+      "nombre": "vino canciller blend x 1.25 litros tinto",
+      "categoria": "Bebidas",
+      "precio_antes": 4238.0,
+      "precio_hoy": 3814.0,
+      "diff_abs": -424.0,
+      "diff_pct": -10.0
     }
   ],
-  "productos_subieron_dia": 47,
-  "productos_bajaron_dia": 9,
-  "productos_sin_cambio_dia": 6248
+  "productos_subieron_dia": 85,
+  "productos_bajaron_dia": 32,
+  "productos_sin_cambio_dia": 6502
 }

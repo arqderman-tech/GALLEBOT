@@ -1,5 +1,14 @@
 [
   {
+    "ean": "7790580141301",
+    "nombre": "postre bon o bon chocolate x 120 gm tentacion",
+    "categoria": "Almacen",
+    "precio_antes": 3950.0,
+    "precio_hoy": 53917.0,
+    "diff_abs": 49967.0,
+    "diff_pct": 1264.99
+  },
+  {
     "ean": "7790093521805",
     "nombre": "vino blanco cafayate dulce tardio x 750 ml.",
     "categoria": "Bebidas",
@@ -45,13 +54,22 @@
     "diff_pct": 37.07
   },
   {
-    "ean": "7790070265104",
-    "nombre": "aceite de oliva copcinero extra virgen x 250 ml",
-    "categoria": "Almacen",
-    "precio_antes": 7086.0,
-    "precio_hoy": 9315.0,
-    "diff_abs": 2229.0,
-    "diff_pct": 31.46
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2690.0,
+    "diff_abs": 700.0,
+    "diff_pct": 35.18
+  },
+  {
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1490.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 33.56
   },
   {
     "ean": "7790070231697",
@@ -60,6 +78,15 @@
     "precio_antes": 6129.0,
     "precio_hoy": 8057.0,
     "diff_abs": 1928.0,
+    "diff_pct": 31.46
+  },
+  {
+    "ean": "7790070265104",
+    "nombre": "aceite de oliva copcinero extra virgen x 250 ml",
+    "categoria": "Almacen",
+    "precio_antes": 7086.0,
+    "precio_hoy": 9315.0,
+    "diff_abs": 2229.0,
     "diff_pct": 31.46
   },
   {
@@ -81,6 +108,15 @@
     "diff_pct": 31.14
   },
   {
+    "ean": "2021790000009",
+    "nombre": "pimiento amarillo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 9990.0,
+    "precio_hoy": 12990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 30.03
+  },
+  {
     "ean": "2021820000009",
     "nombre": "pimiento rojo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -88,6 +124,15 @@
     "precio_hoy": 12990.0,
     "diff_abs": 3000.0,
     "diff_pct": 30.03
+  },
+  {
+    "ean": "7790093095238",
+    "nombre": "vino cafayate res.x750ml.caber",
+    "categoria": "Bebidas",
+    "precio_antes": 7887.0,
+    "precio_hoy": 10114.0,
+    "diff_abs": 2227.0,
+    "diff_pct": 28.24
   },
   {
     "ean": "7790093095221",
@@ -108,15 +153,6 @@
     "diff_pct": 28.24
   },
   {
-    "ean": "7790093095238",
-    "nombre": "vino cafayate res.x750ml.caber",
-    "categoria": "Bebidas",
-    "precio_antes": 7887.0,
-    "precio_hoy": 10114.0,
-    "diff_abs": 2227.0,
-    "diff_pct": 28.24
-  },
-  {
     "ean": "7790093521768",
     "nombre": "vino cafayate x750ml.torrontes",
     "categoria": "Bebidas",
@@ -126,57 +162,21 @@
     "diff_pct": 28.22
   },
   {
-    "ean": "2030460000003",
-    "nombre": "cuadril de cerdo el cheru x kilo",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
+    "ean": "2021550000003",
+    "nombre": "pepino x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
   },
   {
-    "ean": "2030480000007",
-    "nombre": "punta vacio de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
-  },
-  {
-    "ean": "2030470000000",
-    "nombre": "nalga de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
-  },
-  {
-    "ean": "2030440000009",
-    "nombre": "jamon cuadrado de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
-  },
-  {
-    "ean": "2030430000002",
-    "nombre": "cabeza de lomo de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
-  },
-  {
-    "ean": "2030530000001",
-    "nombre": "jamon con hueso sin cuero el cheru x kilo",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
+    "ean": "2019030000001",
+    "nombre": "pavita sadia congelada x kilo",
+    "categoria": "Congelados",
+    "precio_antes": 15400.0,
+    "precio_hoy": 19040.0,
+    "diff_abs": 3640.0,
+    "diff_pct": 23.64
   }
 ]

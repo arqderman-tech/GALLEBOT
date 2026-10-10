@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2020960000009",
-    "nombre": "lechuga repollada x kg.",
+    "ean": "7790580141301",
+    "nombre": "postre bon o bon chocolate x 120 gm tentacion",
+    "categoria": "Almacen",
+    "precio_antes": 3950.0,
+    "precio_hoy": 53917.0,
+    "diff_abs": 49967.0,
+    "diff_pct": 1264.99
+  },
+  {
+    "ean": "2019990000004",
+    "nombre": "apio x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
+  },
+  {
+    "ean": "2021790000009",
+    "nombre": "pimiento amarillo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 9990.0,
+    "precio_hoy": 12990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 30.03
+  },
+  {
+    "ean": "2030920000000",
+    "nombre": "puerro x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3790.0,
+    "diff_abs": 800.0,
+    "diff_pct": 26.76
+  },
+  {
+    "ean": "2021550000003",
+    "nombre": "pepino x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 50.25
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
   },
   {
-    "ean": "2700006100107",
-    "nombre": "individuales",
-    "categoria": "Limpieza",
-    "precio_antes": 987.0,
-    "precio_hoy": 1390.0,
-    "diff_abs": 403.0,
-    "diff_pct": 40.83
-  },
-  {
-    "ean": "2022010000007",
-    "nombre": "remolacha x paquete",
+    "ean": "2029100000008",
+    "nombre": "batata zanahoria x kilo",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1190.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 300.0,
-    "diff_pct": 25.21
+    "precio_antes": 3990.0,
+    "precio_hoy": 4490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 12.53
   },
   {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
+    "ean": "7798051304767",
+    "nombre": "vino tinto b5 serie terra malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 7598.0,
+    "precio_hoy": 8410.0,
+    "diff_abs": 812.0,
+    "diff_pct": 10.69
+  },
+  {
+    "ean": "7798046440159",
+    "nombre": "sandwich estadio triple jamon y queso pan negro",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4197.0,
+    "precio_hoy": 4575.0,
+    "diff_abs": 378.0,
+    "diff_pct": 9.01
+  },
+  {
+    "ean": "7798046440074",
+    "nombre": "tostado estadio x 250 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 7577.0,
+    "precio_hoy": 8259.0,
+    "diff_abs": 682.0,
+    "diff_pct": 9.0
+  },
+  {
+    "ean": "7798046440036",
+    "nombre": "sandwich estadio triples x 160 gm jamon y queso pan blanco",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4200.0,
+    "precio_hoy": 4578.0,
+    "diff_abs": 378.0,
+    "diff_pct": 9.0
+  },
+  {
+    "ean": "7798046440142",
+    "nombre": "sandwich estadio triple x 160 gm salame y queso",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4388.0,
+    "precio_hoy": 4783.0,
+    "diff_abs": 395.0,
+    "diff_pct": 9.0
+  },
+  {
+    "ean": "7798046440012",
+    "nombre": "pebete estadio x 160 gm jamon y queso",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4380.0,
+    "precio_hoy": 4774.0,
+    "diff_abs": 394.0,
+    "diff_pct": 9.0
+  },
+  {
+    "ean": "7798046441408",
+    "nombre": "carlito estadio x 250 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 7577.0,
+    "precio_hoy": 8259.0,
+    "diff_abs": 682.0,
+    "diff_pct": 9.0
+  },
+  {
+    "ean": "7798046440135",
+    "nombre": "sandwiches estadio triple x 360 gm jamon y queso",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 9497.0,
+    "precio_hoy": 10352.0,
+    "diff_abs": 855.0,
+    "diff_pct": 9.0
+  },
+  {
+    "ean": "7798046440043",
+    "nombre": "sandwiches estadio x 160 gm jhm y aceituna",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5039.0,
+    "precio_hoy": 5492.0,
+    "diff_abs": 453.0,
+    "diff_pct": 8.99
+  },
+  {
+    "ean": "7798046440746",
+    "nombre": "sandwiches estadio x 160 gm ruculapollo y queso",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5039.0,
+    "precio_hoy": 5492.0,
+    "diff_abs": 453.0,
+    "diff_pct": 8.99
+  },
+  {
+    "ean": "7798046440067",
+    "nombre": "pebete estadio  x 160 gm salame y queso",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4381.0,
+    "precio_hoy": 4775.0,
+    "diff_abs": 394.0,
+    "diff_pct": 8.99
+  },
+  {
+    "ean": "7798046440104",
+    "nombre": "sandwiches estadio  x 160 gm jamon crudo y queso en pan blan",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4930.0,
+    "precio_hoy": 5373.0,
+    "diff_abs": 443.0,
+    "diff_pct": 8.99
+  },
+  {
+    "ean": "7798004430048",
+    "nombre": "verdura mixta para sopa  shim shim x 400 gm en bandeja",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
+    "precio_antes": 2310.0,
+    "precio_hoy": 2516.0,
+    "diff_abs": 206.0,
+    "diff_pct": 8.92
   },
   {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
+    "ean": "7798004430055",
+    "nombre": "papas noisette x 500 gm shim shim",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
-  },
-  {
-    "ean": "7794513000321",
-    "nombre": "almendras sin cascara la nueva estrella x 80 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3644.0,
-    "precio_hoy": 4286.0,
-    "diff_abs": 642.0,
-    "diff_pct": 17.62
-  },
-  {
-    "ean": "2011770000006",
-    "nombre": "almendras sin cascara x kg.",
-    "categoria": "Almacen",
-    "precio_antes": 34230.0,
-    "precio_hoy": 40254.0,
-    "diff_abs": 6024.0,
-    "diff_pct": 17.6
-  },
-  {
-    "ean": "7796314000142",
-    "nombre": "funda para tabla de planchar",
-    "categoria": "Limpieza",
-    "precio_antes": 8643.0,
-    "precio_hoy": 10053.0,
-    "diff_abs": 1410.0,
-    "diff_pct": 16.31
-  },
-  {
-    "ean": "7794184000095",
-    "nombre": "alfombra antideslizante danforth",
-    "categoria": "Limpieza",
-    "precio_antes": 10053.0,
-    "precio_hoy": 11685.0,
-    "diff_abs": 1632.0,
-    "diff_pct": 16.23
-  },
-  {
-    "ean": "7796314000210",
-    "nombre": "funda colchon 1 12 plaza algodonpoliester",
-    "categoria": "Limpieza",
-    "precio_antes": 10550.0,
-    "precio_hoy": 12031.0,
-    "diff_abs": 1481.0,
-    "diff_pct": 14.04
-  },
-  {
-    "ean": "7796314000197",
-    "nombre": "funda para almohadas de 1 plaza",
-    "categoria": "Limpieza",
-    "precio_antes": 7233.0,
-    "precio_hoy": 8240.0,
-    "diff_abs": 1007.0,
-    "diff_pct": 13.92
-  },
-  {
-    "ean": "7796314000173",
-    "nombre": "funda para colchon 2 y 12 plazas",
-    "categoria": "Limpieza",
-    "precio_antes": 14708.0,
-    "precio_hoy": 16751.0,
-    "diff_abs": 2043.0,
-    "diff_pct": 13.89
-  },
-  {
-    "ean": "7796314000159",
-    "nombre": "funda para colchon 1 plaza",
-    "categoria": "Limpieza",
-    "precio_antes": 9821.0,
-    "precio_hoy": 11118.0,
-    "diff_abs": 1297.0,
-    "diff_pct": 13.21
-  },
-  {
-    "ean": "7008004003518",
-    "nombre": "sabanas ajustables 1 plaza y media colores surtidos",
-    "categoria": "Limpieza",
-    "precio_antes": 8049.0,
-    "precio_hoy": 9104.0,
-    "diff_abs": 1055.0,
-    "diff_pct": 13.11
-  },
-  {
-    "ean": "1808391",
-    "nombre": "219 delantal lienzo",
-    "categoria": "Limpieza",
-    "precio_antes": 6447.0,
-    "precio_hoy": 7253.0,
-    "diff_abs": 806.0,
-    "diff_pct": 12.5
-  },
-  {
-    "ean": "1808407",
-    "nombre": "delantal plastico",
-    "categoria": "Limpieza",
-    "precio_antes": 11886.0,
-    "precio_hoy": 13297.0,
-    "diff_abs": 1411.0,
-    "diff_pct": 11.87
-  },
-  {
-    "ean": "7896359025329",
-    "nombre": "bols cerealero san remo",
-    "categoria": "Limpieza",
-    "precio_antes": 1651.0,
-    "precio_hoy": 1835.0,
-    "diff_abs": 184.0,
-    "diff_pct": 11.14
-  },
-  {
-    "ean": "7896359013944",
-    "nombre": "cucharon para panqueques san remo",
-    "categoria": "Limpieza",
-    "precio_antes": 3731.0,
-    "precio_hoy": 4146.0,
-    "diff_abs": 415.0,
-    "diff_pct": 11.12
-  },
-  {
-    "ean": "7896359013876",
-    "nombre": "cucharon para sopa san remo",
-    "categoria": "Limpieza",
-    "precio_antes": 3731.0,
-    "precio_hoy": 4146.0,
-    "diff_abs": 415.0,
-    "diff_pct": 11.12
-  },
-  {
-    "ean": "7896359013937",
-    "nombre": "pinza para fideos san remo",
-    "categoria": "Limpieza",
-    "precio_antes": 3731.0,
-    "precio_hoy": 4146.0,
-    "diff_abs": 415.0,
-    "diff_pct": 11.12
+    "precio_antes": 2357.0,
+    "precio_hoy": 2567.0,
+    "diff_abs": 210.0,
+    "diff_pct": 8.91
   }
 ]
