@@ -1,5 +1,14 @@
 [
   {
+    "ean": "7790580141301",
+    "nombre": "postre bon o bon chocolate x 120 gm tentacion",
+    "categoria": "Almacen",
+    "precio_antes": 3950.0,
+    "precio_hoy": 53917.0,
+    "diff_abs": 49967.0,
+    "diff_pct": 1264.99
+  },
+  {
     "ean": "2021020000007",
     "nombre": "hinojo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -16,15 +25,6 @@
     "precio_hoy": 4990.0,
     "diff_abs": 2200.0,
     "diff_pct": 78.85
-  },
-  {
-    "ean": "2019880000008",
-    "nombre": "acelga x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 790.0,
-    "precio_hoy": 1390.0,
-    "diff_abs": 600.0,
-    "diff_pct": 75.95
   },
   {
     "ean": "2021790000009",
@@ -45,6 +45,15 @@
     "diff_pct": 60.24
   },
   {
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.13
+  },
+  {
     "ean": "2021660000009",
     "nombre": "zapallito redondo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -52,6 +61,24 @@
     "precio_hoy": 5990.0,
     "diff_abs": 2000.0,
     "diff_pct": 50.13
+  },
+  {
+    "ean": "7790681000477",
+    "nombre": "mani l.egip.x500gr.conf.tost.",
+    "categoria": "Almacen",
+    "precio_antes": 4409.0,
+    "precio_hoy": 6467.0,
+    "diff_abs": 2058.0,
+    "diff_pct": 46.68
+  },
+  {
+    "ean": "2020370000002",
+    "nombre": "chaucha rolliza x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 42.92
   },
   {
     "ean": "2700006100107",
@@ -72,6 +99,15 @@
     "diff_pct": 40.16
   },
   {
+    "ean": "2020310000000",
+    "nombre": "cebolla morada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3590.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1400.0,
+    "diff_pct": 39.0
+  },
+  {
     "ean": "2020260000006",
     "nombre": "camote colorado x kg.",
     "categoria": "Frutas Y Verduras",
@@ -79,6 +115,42 @@
     "precio_hoy": 3990.0,
     "diff_abs": 1000.0,
     "diff_pct": 33.44
+  },
+  {
+    "ean": "7790070265104",
+    "nombre": "aceite de oliva copcinero extra virgen x 250 ml",
+    "categoria": "Almacen",
+    "precio_antes": 7085.7,
+    "precio_hoy": 9315.0,
+    "diff_abs": 2229.3,
+    "diff_pct": 31.46
+  },
+  {
+    "ean": "7790070231697",
+    "nombre": "aceite de maiz lira x 900 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 6129.0,
+    "precio_hoy": 8057.0,
+    "diff_abs": 1928.0,
+    "diff_pct": 31.46
+  },
+  {
+    "ean": "7790070265098",
+    "nombre": "aceite de oliva cocinero extra virgen x 500 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 12905.0,
+    "precio_hoy": 16964.0,
+    "diff_abs": 4059.0,
+    "diff_pct": 31.45
+  },
+  {
+    "ean": "7630040411028",
+    "nombre": "vermouth martini x995ml.rosso",
+    "categoria": "Bebidas",
+    "precio_antes": 9122.0,
+    "precio_hoy": 11963.0,
+    "diff_abs": 2841.0,
+    "diff_pct": 31.14
   },
   {
     "ean": "2021820000009",
@@ -90,93 +162,21 @@
     "diff_pct": 30.03
   },
   {
-    "ean": "2021390000003",
-    "nombre": "naranja de jugo x kilo.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1590.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 400.0,
-    "diff_pct": 25.16
+    "ean": "2030460000003",
+    "nombre": "cuadril de cerdo el cheru x kilo",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
   },
   {
-    "ean": "2020980000003",
-    "nombre": "limones x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
-  },
-  {
-    "ean": "2021780000002",
-    "nombre": "perejil x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
-    "ean": "2020120000009",
-    "nombre": "berengena negra x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
-    "ean": "2020370000002",
-    "nombre": "chaucha rolliza x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 25.03
-  },
-  {
-    "ean": "7794297010080",
-    "nombre": "palmeta",
-    "categoria": "Limpieza",
-    "precio_antes": 936.0,
-    "precio_hoy": 1131.0,
-    "diff_abs": 195.0,
-    "diff_pct": 20.83
-  },
-  {
-    "ean": "656750783993",
-    "nombre": "miel entrenuts cremosa x 500 gr",
-    "categoria": "Perfumeria",
-    "precio_antes": 7531.0,
-    "precio_hoy": 9051.0,
-    "diff_abs": 1520.0,
-    "diff_pct": 20.18
-  },
-  {
-    "ean": "736684208745",
-    "nombre": "miel entrenuts liquida x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 7531.0,
-    "precio_hoy": 9051.0,
-    "diff_abs": 1520.0,
-    "diff_pct": 20.18
-  },
-  {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
-  },
-  {
-    "ean": "7793360126987",
-    "nombre": "dce.membrillo l.camp.x700gr.la",
-    "categoria": "Perfumeria",
-    "precio_antes": 6809.0,
-    "precio_hoy": 8122.0,
-    "diff_abs": 1313.0,
-    "diff_pct": 19.28
+    "ean": "2030470000000",
+    "nombre": "nalga de cerdo el cheru x kg.",
+    "categoria": "Carniceria",
+    "precio_antes": 7900.0,
+    "precio_hoy": 10024.0,
+    "diff_abs": 2124.0,
+    "diff_pct": 26.89
   }
 ]
