@@ -18,6 +18,15 @@
     "diff_pct": 150.75
   },
   {
+    "ean": "2020310000000",
+    "nombre": "cebolla morada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3590.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3400.0,
+    "diff_pct": 94.71
+  },
+  {
     "ean": "2021480000005",
     "nombre": "papa elegida suelta x kg.",
     "categoria": "Frutas Y Verduras",
@@ -45,8 +54,26 @@
     "diff_pct": 60.24
   },
   {
+    "ean": "2020260000006",
+    "nombre": "camote colorado x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4490.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 50.17
+  },
+  {
     "ean": "2021650000002",
     "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.13
+  },
+  {
+    "ean": "2020120000009",
+    "nombre": "berengena negra x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 5990.0,
@@ -90,31 +117,13 @@
     "diff_pct": 40.83
   },
   {
-    "ean": "2021680000003",
-    "nombre": "zapallo brasilero x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 3490.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 40.16
-  },
-  {
-    "ean": "2020310000000",
-    "nombre": "cebolla morada x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3590.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1400.0,
-    "diff_pct": 39.0
-  },
-  {
-    "ean": "2020260000006",
-    "nombre": "camote colorado x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
+    "ean": "7790070231697",
+    "nombre": "aceite de maiz lira x 900 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 6129.0,
+    "precio_hoy": 8057.0,
+    "diff_abs": 1928.0,
+    "diff_pct": 31.46
   },
   {
     "ean": "7790070265104",
@@ -123,15 +132,6 @@
     "precio_antes": 7085.7,
     "precio_hoy": 9315.0,
     "diff_abs": 2229.3,
-    "diff_pct": 31.46
-  },
-  {
-    "ean": "7790070231697",
-    "nombre": "aceite de maiz lira x 900 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 6129.0,
-    "precio_hoy": 8057.0,
-    "diff_abs": 1928.0,
     "diff_pct": 31.46
   },
   {
@@ -162,8 +162,8 @@
     "diff_pct": 30.03
   },
   {
-    "ean": "2030460000003",
-    "nombre": "cuadril de cerdo el cheru x kilo",
+    "ean": "2030430000002",
+    "nombre": "cabeza de lomo de cerdo el cheru x kg.",
     "categoria": "Carniceria",
     "precio_antes": 7900.0,
     "precio_hoy": 10024.0,
@@ -171,8 +171,8 @@
     "diff_pct": 26.89
   },
   {
-    "ean": "2030470000000",
-    "nombre": "nalga de cerdo el cheru x kg.",
+    "ean": "2030440000009",
+    "nombre": "jamon cuadrado de cerdo el cheru x kg.",
     "categoria": "Carniceria",
     "precio_antes": 7900.0,
     "precio_hoy": 10024.0,

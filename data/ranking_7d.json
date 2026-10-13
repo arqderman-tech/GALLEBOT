@@ -9,33 +9,6 @@
     "diff_pct": 1264.99
   },
   {
-    "ean": "7790093521775",
-    "nombre": "vino cafayate x750ml.cabernet",
-    "categoria": "Bebidas",
-    "precio_antes": 5007.0,
-    "precio_hoy": 7518.0,
-    "diff_abs": 2511.0,
-    "diff_pct": 50.15
-  },
-  {
-    "ean": "7790093521805",
-    "nombre": "vino blanco cafayate dulce tardio x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 5007.0,
-    "precio_hoy": 7518.0,
-    "diff_abs": 2511.0,
-    "diff_pct": 50.15
-  },
-  {
-    "ean": "7790093521812",
-    "nombre": "vino cafayate x750ml.rose",
-    "categoria": "Bebidas",
-    "precio_antes": 5007.0,
-    "precio_hoy": 7518.0,
-    "diff_abs": 2511.0,
-    "diff_pct": 50.15
-  },
-  {
     "ean": "2700006100107",
     "nombre": "individuales",
     "categoria": "Limpieza",
@@ -72,33 +45,6 @@
     "diff_pct": 33.56
   },
   {
-    "ean": "7790070265104",
-    "nombre": "aceite de oliva copcinero extra virgen x 250 ml",
-    "categoria": "Almacen",
-    "precio_antes": 7086.0,
-    "precio_hoy": 9315.0,
-    "diff_abs": 2229.0,
-    "diff_pct": 31.46
-  },
-  {
-    "ean": "7790070231697",
-    "nombre": "aceite de maiz lira x 900 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 6129.0,
-    "precio_hoy": 8057.0,
-    "diff_abs": 1928.0,
-    "diff_pct": 31.46
-  },
-  {
-    "ean": "7790070265098",
-    "nombre": "aceite de oliva cocinero extra virgen x 500 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 12905.0,
-    "precio_hoy": 16964.0,
-    "diff_abs": 4059.0,
-    "diff_pct": 31.45
-  },
-  {
     "ean": "7630040411028",
     "nombre": "vermouth martini x995ml.rosso",
     "categoria": "Bebidas",
@@ -126,42 +72,6 @@
     "diff_pct": 30.03
   },
   {
-    "ean": "7790093095245",
-    "nombre": "vino cafayate res.x750ml.ttes.",
-    "categoria": "Bebidas",
-    "precio_antes": 7887.0,
-    "precio_hoy": 10114.0,
-    "diff_abs": 2227.0,
-    "diff_pct": 28.24
-  },
-  {
-    "ean": "7790093095238",
-    "nombre": "vino cafayate res.x750ml.caber",
-    "categoria": "Bebidas",
-    "precio_antes": 7887.0,
-    "precio_hoy": 10114.0,
-    "diff_abs": 2227.0,
-    "diff_pct": 28.24
-  },
-  {
-    "ean": "7790093095221",
-    "nombre": "vino cafayate reserva malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 7887.0,
-    "precio_hoy": 10114.0,
-    "diff_abs": 2227.0,
-    "diff_pct": 28.24
-  },
-  {
-    "ean": "7790093521768",
-    "nombre": "vino cafayate x750ml.torrontes",
-    "categoria": "Bebidas",
-    "precio_antes": 5007.0,
-    "precio_hoy": 6420.0,
-    "diff_abs": 1413.0,
-    "diff_pct": 28.22
-  },
-  {
     "ean": "2021550000003",
     "nombre": "pepino x kg.",
     "categoria": "Frutas Y Verduras",
@@ -178,5 +88,95 @@
     "precio_hoy": 19040.0,
     "diff_abs": 3640.0,
     "diff_pct": 23.64
+  },
+  {
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
+  },
+  {
+    "ean": "2020120000009",
+    "nombre": "berengena negra x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
+  },
+  {
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
+  },
+  {
+    "ean": "7798333900038",
+    "nombre": "huevos blancos avicola norte premium x 6 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 2570.0,
+    "precio_hoy": 3033.0,
+    "diff_abs": 463.0,
+    "diff_pct": 18.02
+  },
+  {
+    "ean": "7798333900090",
+    "nombre": "huevo avicola norte superior x 6 unidades blancos",
+    "categoria": "Almacen",
+    "precio_antes": 2321.0,
+    "precio_hoy": 2739.0,
+    "diff_abs": 418.0,
+    "diff_pct": 18.01
+  },
+  {
+    "ean": "7798333900045",
+    "nombre": "huevos castanos avicola norte premium x 6 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 2727.0,
+    "precio_hoy": 3218.0,
+    "diff_abs": 491.0,
+    "diff_pct": 18.01
+  },
+  {
+    "ean": "7798333900076",
+    "nombre": "huevos blancos avicola norte premium x 12 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 5004.0,
+    "precio_hoy": 5905.0,
+    "diff_abs": 901.0,
+    "diff_pct": 18.01
+  },
+  {
+    "ean": "7798333900083",
+    "nombre": "huevos avicola norte color premium x 12 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 5293.0,
+    "precio_hoy": 6246.0,
+    "diff_abs": 953.0,
+    "diff_pct": 18.0
+  },
+  {
+    "ean": "7798151820013",
+    "nombre": "huevos doble a x 6 unid. blancos",
+    "categoria": "Almacen",
+    "precio_antes": 2400.0,
+    "precio_hoy": 2832.0,
+    "diff_abs": 432.0,
+    "diff_pct": 18.0
+  },
+  {
+    "ean": "7798333900052",
+    "nombre": "huevos blamcos avicola norte maple x 30 unidades",
+    "categoria": "Almacen",
+    "precio_antes": 7499.0,
+    "precio_hoy": 8849.0,
+    "diff_abs": 1350.0,
+    "diff_pct": 18.0
   }
 ]
