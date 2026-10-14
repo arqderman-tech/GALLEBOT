@@ -27,22 +27,13 @@
     "diff_pct": 37.07
   },
   {
-    "ean": "2022060000002",
-    "nombre": "repollo colorado x kg.",
+    "ean": "2019990000004",
+    "nombre": "apio x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2690.0,
-    "diff_abs": 700.0,
-    "diff_pct": 35.18
-  },
-  {
-    "ean": "2022040000008",
-    "nombre": "repollo blanco x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 33.56
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
   },
   {
     "ean": "7630040411028",
@@ -54,15 +45,6 @@
     "diff_pct": 31.14
   },
   {
-    "ean": "2021820000009",
-    "nombre": "pimiento rojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 9990.0,
-    "precio_hoy": 12990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 30.03
-  },
-  {
     "ean": "2021790000009",
     "nombre": "pimiento amarillo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -70,6 +52,24 @@
     "precio_hoy": 12990.0,
     "diff_abs": 3000.0,
     "diff_pct": 30.03
+  },
+  {
+    "ean": "2030920000000",
+    "nombre": "puerro x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3790.0,
+    "diff_abs": 800.0,
+    "diff_pct": 26.76
+  },
+  {
+    "ean": "2020960000009",
+    "nombre": "lechuga repollada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
   },
   {
     "ean": "2021550000003",
@@ -90,8 +90,8 @@
     "diff_pct": 23.64
   },
   {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
+    "ean": "2020120000009",
+    "nombre": "berengena negra x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 4990.0,
     "precio_hoy": 5990.0,
@@ -99,8 +99,8 @@
     "diff_pct": 20.04
   },
   {
-    "ean": "2020120000009",
-    "nombre": "berengena negra x kg.",
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 4990.0,
     "precio_hoy": 5990.0,
@@ -126,15 +126,6 @@
     "diff_pct": 18.02
   },
   {
-    "ean": "7798333900090",
-    "nombre": "huevo avicola norte superior x 6 unidades blancos",
-    "categoria": "Almacen",
-    "precio_antes": 2321.0,
-    "precio_hoy": 2739.0,
-    "diff_abs": 418.0,
-    "diff_pct": 18.01
-  },
-  {
     "ean": "7798333900045",
     "nombre": "huevos castanos avicola norte premium x 6 unid.",
     "categoria": "Almacen",
@@ -153,12 +144,30 @@
     "diff_pct": 18.01
   },
   {
-    "ean": "7798333900083",
-    "nombre": "huevos avicola norte color premium x 12 unid.",
+    "ean": "7798333900090",
+    "nombre": "huevo avicola norte superior x 6 unidades blancos",
     "categoria": "Almacen",
-    "precio_antes": 5293.0,
-    "precio_hoy": 6246.0,
-    "diff_abs": 953.0,
+    "precio_antes": 2321.0,
+    "precio_hoy": 2739.0,
+    "diff_abs": 418.0,
+    "diff_pct": 18.01
+  },
+  {
+    "ean": "7798333900052",
+    "nombre": "huevos blamcos avicola norte maple x 30 unidades",
+    "categoria": "Almacen",
+    "precio_antes": 7499.0,
+    "precio_hoy": 8849.0,
+    "diff_abs": 1350.0,
+    "diff_pct": 18.0
+  },
+  {
+    "ean": "7798333900120",
+    "nombre": "huevos avicola norte color x 12 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 4778.0,
+    "precio_hoy": 5638.0,
+    "diff_abs": 860.0,
     "diff_pct": 18.0
   },
   {
@@ -168,15 +177,6 @@
     "precio_antes": 2400.0,
     "precio_hoy": 2832.0,
     "diff_abs": 432.0,
-    "diff_pct": 18.0
-  },
-  {
-    "ean": "7798333900052",
-    "nombre": "huevos blamcos avicola norte maple x 30 unidades",
-    "categoria": "Almacen",
-    "precio_antes": 7499.0,
-    "precio_hoy": 8849.0,
-    "diff_abs": 1350.0,
     "diff_pct": 18.0
   }
 ]

@@ -117,21 +117,21 @@
     "diff_pct": 40.83
   },
   {
-    "ean": "7790070231697",
-    "nombre": "aceite de maiz lira x 900 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 6129.0,
-    "precio_hoy": 8057.0,
-    "diff_abs": 1928.0,
-    "diff_pct": 31.46
-  },
-  {
     "ean": "7790070265104",
     "nombre": "aceite de oliva copcinero extra virgen x 250 ml",
     "categoria": "Almacen",
     "precio_antes": 7085.7,
     "precio_hoy": 9315.0,
     "diff_abs": 2229.3,
+    "diff_pct": 31.46
+  },
+  {
+    "ean": "7790070231697",
+    "nombre": "aceite de maiz lira x 900 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 6129.0,
+    "precio_hoy": 8057.0,
+    "diff_abs": 1928.0,
     "diff_pct": 31.46
   },
   {
@@ -171,8 +171,8 @@
     "diff_pct": 26.89
   },
   {
-    "ean": "2030440000009",
-    "nombre": "jamon cuadrado de cerdo el cheru x kg.",
+    "ean": "2030530000001",
+    "nombre": "jamon con hueso sin cuero el cheru x kilo",
     "categoria": "Carniceria",
     "precio_antes": 7900.0,
     "precio_hoy": 10024.0,

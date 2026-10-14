@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2020310000000",
-    "nombre": "cebolla morada x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 40.08
+    "ean": "7790645000857",
+    "nombre": "coctel 4 frutas gentleman x 820 gm",
+    "categoria": "Almacen",
+    "precio_antes": 5058.0,
+    "precio_hoy": 5853.0,
+    "diff_abs": 795.0,
+    "diff_pct": 15.72
   },
   {
-    "ean": "2020120000009",
-    "nombre": "berengena negra x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
+    "ean": "7790645001199",
+    "nombre": "pimientos morrones enteros comunes caracas x 185 .",
+    "categoria": "Almacen",
+    "precio_antes": 1957.0,
+    "precio_hoy": 2253.0,
+    "diff_abs": 296.0,
+    "diff_pct": 15.13
   },
   {
-    "ean": "2020260000006",
-    "nombre": "camote colorado x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 12.53
+    "ean": "7790645001120",
+    "nombre": "duraznos en mitades gentleman x 820 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4061.0,
+    "precio_hoy": 4642.0,
+    "diff_abs": 581.0,
+    "diff_pct": 14.31
   },
   {
-    "ean": "2021500000008",
-    "nombre": "papa negra suelta x kilo",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3290.0,
-    "diff_abs": 300.0,
-    "diff_pct": 10.03
+    "ean": "7790645000147",
+    "nombre": "duraznos en mitades gentleman x 820 gr bajas calorias",
+    "categoria": "Almacen",
+    "precio_antes": 4061.0,
+    "precio_hoy": 4642.0,
+    "diff_abs": 581.0,
+    "diff_pct": 14.31
   },
   {
-    "ean": "7794080001516",
-    "nombre": "ravioles la morocha x 1 kg. espinaca y pollo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 6414.0,
-    "precio_hoy": 6414.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790645002936",
+    "nombre": "champignones en trozos caracas x 400 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3358.0,
+    "precio_hoy": 3807.0,
+    "diff_abs": 449.0,
+    "diff_pct": 13.37
   },
   {
-    "ean": "7794080001523",
-    "nombre": "ravioles la morocha x 1 kg. cuatro quesos",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 6414.0,
-    "precio_hoy": 6414.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790645011426",
+    "nombre": "frutillas gentleman  x 820 gm enteras en lata",
+    "categoria": "Almacen",
+    "precio_antes": 6111.0,
+    "precio_hoy": 6868.0,
+    "diff_abs": 757.0,
+    "diff_pct": 12.39
   },
   {
-    "ean": "7794080001622",
-    "nombre": "ravioles la morocha x 1 kg. carne y verdura",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 6414.0,
-    "precio_hoy": 6414.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790645003148",
+    "nombre": "lomitos de atun caracas x 170 gm en aceite y agua",
+    "categoria": "Almacen",
+    "precio_antes": 3293.0,
+    "precio_hoy": 3698.0,
+    "diff_abs": 405.0,
+    "diff_pct": 12.3
   },
   {
-    "ean": "7794080000441",
-    "nombre": "ravioles la morocha ricota y queso x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3531.0,
-    "precio_hoy": 3531.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790645001076",
+    "nombre": "anana caracas x836gr.",
+    "categoria": "Almacen",
+    "precio_antes": 6752.0,
+    "precio_hoy": 7573.0,
+    "diff_abs": 821.0,
+    "diff_pct": 12.16
   },
   {
-    "ean": "7794080000502",
-    "nombre": "ravioles la morocha de pollo cespinaca",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3531.0,
-    "precio_hoy": 3531.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790645011433",
+    "nombre": "frutillas gentleman x 410 gm enteras en lata",
+    "categoria": "Almacen",
+    "precio_antes": 3097.0,
+    "precio_hoy": 3473.0,
+    "diff_abs": 376.0,
+    "diff_pct": 12.14
   },
   {
-    "ean": "7794820903094",
-    "nombre": "queso untable milkaut crematto balance x 285 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4399.0,
-    "precio_hoy": 4399.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790645001236",
+    "nombre": "champignones enteros caracas x 400 gr",
+    "categoria": "Almacen",
+    "precio_antes": 3768.0,
+    "precio_hoy": 4217.0,
+    "diff_abs": 449.0,
+    "diff_pct": 11.92
   },
   {
-    "ean": "7794820014967",
-    "nombre": "queso untable milkaut clasico x 190 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3146.0,
-    "precio_hoy": 3146.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790645003322",
+    "nombre": "ananas en trozos comunes gentleman x 825 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 6701.0,
+    "precio_hoy": 7363.0,
+    "diff_abs": 662.0,
+    "diff_pct": 9.88
   },
   {
-    "ean": "7790742326300",
-    "nombre": "queso untable ls sabores x 180 gr salame",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3122.0,
-    "precio_hoy": 3122.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7702103799883",
+    "nombre": "cereal kelloggs choco krispis pops x 185 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4371.0,
+    "precio_hoy": 4765.0,
+    "diff_abs": 394.0,
+    "diff_pct": 9.01
   },
   {
-    "ean": "7790742326607",
-    "nombre": "queso untable ls sabores x 180 gr jamon",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3076.0,
-    "precio_hoy": 3076.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7896004005010",
+    "nombre": "cereal kellogs musli x 255 gr. manzana y pasas dea",
+    "categoria": "Perfumeria",
+    "precio_antes": 4479.0,
+    "precio_hoy": 4882.0,
+    "diff_abs": 403.0,
+    "diff_pct": 9.0
   },
   {
-    "ean": "7790742326409",
-    "nombre": "queso untable ls sabores x 180 gr fontina",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3076.0,
-    "precio_hoy": 3076.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7896004004990",
+    "nombre": "cereal kellogs musli x 255 gr. con chocolate",
+    "categoria": "Perfumeria",
+    "precio_antes": 4479.0,
+    "precio_hoy": 4882.0,
+    "diff_abs": 403.0,
+    "diff_pct": 9.0
   },
   {
-    "ean": "7790787016518",
-    "nombre": "queso untable ilolay x 190 gr clasico",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2800.0,
-    "precio_hoy": 2800.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7793306993604",
+    "nombre": "cereal kellogs choco krispis x 240 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 6284.0,
+    "precio_hoy": 6849.0,
+    "diff_abs": 565.0,
+    "diff_pct": 8.99
   },
   {
-    "ean": "7790742373809",
-    "nombre": "queso untable la serenisima cremon light x 280 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4447.0,
-    "precio_hoy": 4447.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7702103503916",
+    "nombre": "cereal kelloggs choco krispis x 265 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 6284.0,
+    "precio_hoy": 6849.0,
+    "diff_abs": 565.0,
+    "diff_pct": 8.99
   },
   {
-    "ean": "7794990172757",
-    "nombre": "queso untable la paulina x 190 gr. salame",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2268.0,
-    "precio_hoy": 2268.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7896004004969",
+    "nombre": "zucaritas x490gr.caja",
+    "categoria": "Perfumeria",
+    "precio_antes": 6304.0,
+    "precio_hoy": 6871.0,
+    "diff_abs": 567.0,
+    "diff_pct": 8.99
   },
   {
-    "ean": "7794990000043",
-    "nombre": "queso untable la paulina port salut x 190 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2686.0,
-    "precio_hoy": 2686.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7896004004983",
+    "nombre": "cereal zucaritas chocolate x 240 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3073.0,
+    "precio_hoy": 3349.0,
+    "diff_abs": 276.0,
+    "diff_pct": 8.98
   },
   {
-    "ean": "7798151771438",
-    "nombre": "queso untable x 180 gm sabor salame",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2358.0,
-    "precio_hoy": 2358.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790645001663",
+    "nombre": "peras en mitades gentleman x 820 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4192.0,
+    "precio_hoy": 4515.0,
+    "diff_abs": 323.0,
+    "diff_pct": 7.71
   },
   {
-    "ean": "7798151771421",
-    "nombre": "queso untable tremblay x 180 gm sabor jamon",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2358.0,
-    "precio_hoy": 2358.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790645001939",
+    "nombre": "palmitos acapulco x800gr.",
+    "categoria": "Almacen",
+    "precio_antes": 9536.0,
+    "precio_hoy": 10244.0,
+    "diff_abs": 708.0,
+    "diff_pct": 7.42
   }
 ]

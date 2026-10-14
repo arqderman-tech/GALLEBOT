@@ -1,9 +1,9 @@
 {
-  "fecha": "20261013",
-  "total_productos": 6629,
+  "fecha": "20261014",
+  "total_productos": 6615,
   "variacion_dia": -0.01,
-  "variacion_7d": 0.22,
-  "variacion_mes": 0.88,
+  "variacion_7d": 0.37,
+  "variacion_mes": 0.86,
   "variacion_anio": null,
   "categorias_dia": [
     {
@@ -11,14 +11,14 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1518
+      "total_productos": 1515
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.04,
-      "productos_subieron": 4,
-      "productos_bajaron": 9,
-      "total_productos": 1176
+      "variacion_pct_promedio": 0.06,
+      "productos_subieron": 27,
+      "productos_bajaron": 0,
+      "total_productos": 1167
     },
     {
       "categoria": "Congelados",
@@ -32,116 +32,116 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 815
+      "total_productos": 814
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.11,
+      "productos_subieron": 15,
       "productos_bajaron": 0,
-      "total_productos": 941
+      "total_productos": 930
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1933
+      "variacion_pct_promedio": -0.12,
+      "productos_subieron": 16,
+      "productos_bajaron": 20,
+      "total_productos": 1924
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2021390000003",
-      "nombre": "naranja de jugo x kilo.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1990.0,
-      "precio_hoy": 1490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -25.13
+      "ean": "7790127782646",
+      "nombre": "salsa vanoli pomarola x 340 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 2507.0,
+      "precio_hoy": 2005.0,
+      "diff_abs": -502.0,
+      "diff_pct": -20.02
     },
     {
-      "ean": "2020980000003",
-      "nombre": "limones x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2490.0,
-      "precio_hoy": 1990.0,
-      "diff_abs": -500.0,
-      "diff_pct": -20.08
+      "ean": "7790127782622",
+      "nombre": "salsa lista vanoli x 340 gr. fileto",
+      "categoria": "Almacen",
+      "precio_antes": 2507.0,
+      "precio_hoy": 2005.0,
+      "diff_abs": -502.0,
+      "diff_pct": -20.02
     },
     {
-      "ean": "2020000000006",
-      "nombre": "arandanos en bandeja",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2690.0,
-      "precio_hoy": 2190.0,
-      "diff_abs": -500.0,
-      "diff_pct": -18.59
+      "ean": "7790127782684",
+      "nombre": "salsa portuguesa vanoli x 340 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 2507.0,
+      "precio_hoy": 2005.0,
+      "diff_abs": -502.0,
+      "diff_pct": -20.02
     },
     {
-      "ean": "2020910000004",
-      "nombre": "lechuga de hoja x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 2490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -16.72
+      "ean": "7790127782660",
+      "nombre": "salsa vanoli pizza x 340 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 2507.0,
+      "precio_hoy": 2005.0,
+      "diff_abs": -502.0,
+      "diff_pct": -20.02
     },
     {
-      "ean": "2021680000003",
-      "nombre": "zapallo brasilero x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3490.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -500.0,
-      "diff_pct": -14.33
+      "ean": "7790127782691",
+      "nombre": "salsa vanoli napolitana x 340 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 2507.0,
+      "precio_hoy": 2005.0,
+      "diff_abs": -502.0,
+      "diff_pct": -20.02
     },
     {
-      "ean": "2020160000007",
-      "nombre": "brocoli x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4590.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -600.0,
-      "diff_pct": -13.07
+      "ean": "7790127000269",
+      "nombre": "aceitunas verdes vanoli x 300 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 2717.0,
+      "precio_hoy": 2173.0,
+      "diff_abs": -544.0,
+      "diff_pct": -20.02
     },
     {
-      "ean": "2021410000006",
-      "nombre": "naranja de ombligo x kilo",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1990.0,
-      "precio_hoy": 1790.0,
-      "diff_abs": -200.0,
-      "diff_pct": -10.05
+      "ean": "7790127733549",
+      "nombre": "aceitunas verdes en rodajas vanoli x 190 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 2324.0,
+      "precio_hoy": 1859.0,
+      "diff_abs": -465.0,
+      "diff_pct": -20.01
     },
     {
-      "ean": "2037380000007",
-      "nombre": "lechuga manteca hidroponica x paquete",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 2790.0,
-      "diff_abs": -200.0,
-      "diff_pct": -6.69
+      "ean": "7790127000757",
+      "nombre": "salsa de soja vanoli x 500 ml.",
+      "categoria": "Almacen",
+      "precio_antes": 3019.0,
+      "precio_hoy": 2415.0,
+      "diff_abs": -604.0,
+      "diff_pct": -20.01
     },
     {
-      "ean": "2020960000009",
-      "nombre": "lechuga repollada x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2590.0,
-      "precio_hoy": 2490.0,
-      "diff_abs": -100.0,
-      "diff_pct": -3.86
+      "ean": "7790127000061",
+      "nombre": "salsa inglesa vanoli x 180 ml.",
+      "categoria": "Almacen",
+      "precio_antes": 4000.0,
+      "precio_hoy": 3200.0,
+      "diff_abs": -800.0,
+      "diff_pct": -20.0
     },
     {
-      "ean": "7794990184507",
-      "nombre": "queso untable ricrem jamon x 180 gr",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1750.0,
-      "precio_hoy": 1750.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790127780987",
+      "nombre": "chimichurri vanoli x 350 ml. picante",
+      "categoria": "Almacen",
+      "precio_antes": 3020.0,
+      "precio_hoy": 2416.0,
+      "diff_abs": -604.0,
+      "diff_pct": -20.0
     }
   ],
-  "productos_subieron_dia": 4,
-  "productos_bajaron_dia": 9,
-  "productos_sin_cambio_dia": 6614
+  "productos_subieron_dia": 58,
+  "productos_bajaron_dia": 20,
+  "productos_sin_cambio_dia": 6516
 }
