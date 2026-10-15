@@ -36,6 +36,15 @@
     "diff_pct": 78.85
   },
   {
+    "ean": "2020260000006",
+    "nombre": "camote colorado x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
+  },
+  {
     "ean": "2021790000009",
     "nombre": "pimiento amarillo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -54,17 +63,8 @@
     "diff_pct": 60.24
   },
   {
-    "ean": "2020260000006",
-    "nombre": "camote colorado x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4490.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 50.17
-  },
-  {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
+    "ean": "2020120000009",
+    "nombre": "berengena negra x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 5990.0,
@@ -72,8 +72,17 @@
     "diff_pct": 50.13
   },
   {
-    "ean": "2020120000009",
-    "nombre": "berengena negra x kg.",
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.13
+  },
+  {
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 5990.0,
@@ -144,15 +153,6 @@
     "diff_pct": 31.45
   },
   {
-    "ean": "7630040411028",
-    "nombre": "vermouth martini x995ml.rosso",
-    "categoria": "Bebidas",
-    "precio_antes": 9122.0,
-    "precio_hoy": 11963.0,
-    "diff_abs": 2841.0,
-    "diff_pct": 31.14
-  },
-  {
     "ean": "2021820000009",
     "nombre": "pimiento rojo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -162,8 +162,8 @@
     "diff_pct": 30.03
   },
   {
-    "ean": "2030430000002",
-    "nombre": "cabeza de lomo de cerdo el cheru x kg.",
+    "ean": "2030450000006",
+    "nombre": "jamon redondo de cerdo el cheru x kg.",
     "categoria": "Carniceria",
     "precio_antes": 7900.0,
     "precio_hoy": 10024.0,
@@ -171,8 +171,8 @@
     "diff_pct": 26.89
   },
   {
-    "ean": "2030530000001",
-    "nombre": "jamon con hueso sin cuero el cheru x kilo",
+    "ean": "2030460000003",
+    "nombre": "cuadril de cerdo el cheru x kilo",
     "categoria": "Carniceria",
     "precio_antes": 7900.0,
     "precio_hoy": 10024.0,

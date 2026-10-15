@@ -18,15 +18,6 @@
     "diff_pct": 40.83
   },
   {
-    "ean": "2032010000006",
-    "nombre": "semillas de zapallo premium x kilo la nueva estrella",
-    "categoria": "Almacen",
-    "precio_antes": 18640.0,
-    "precio_hoy": 25549.0,
-    "diff_abs": 6909.0,
-    "diff_pct": 37.07
-  },
-  {
     "ean": "2019990000004",
     "nombre": "apio x kg.",
     "categoria": "Frutas Y Verduras",
@@ -34,15 +25,6 @@
     "precio_hoy": 3990.0,
     "diff_abs": 1000.0,
     "diff_pct": 33.44
-  },
-  {
-    "ean": "7630040411028",
-    "nombre": "vermouth martini x995ml.rosso",
-    "categoria": "Bebidas",
-    "precio_antes": 9122.0,
-    "precio_hoy": 11963.0,
-    "diff_abs": 2841.0,
-    "diff_pct": 31.14
   },
   {
     "ean": "2021790000009",
@@ -81,26 +63,17 @@
     "diff_pct": 25.13
   },
   {
-    "ean": "2019030000001",
-    "nombre": "pavita sadia congelada x kilo",
-    "categoria": "Congelados",
-    "precio_antes": 15400.0,
-    "precio_hoy": 19040.0,
-    "diff_abs": 3640.0,
-    "diff_pct": 23.64
-  },
-  {
-    "ean": "2020120000009",
-    "nombre": "berengena negra x kg.",
+    "ean": "2020260000006",
+    "nombre": "camote colorado x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 20.04
+    "diff_pct": 25.06
   },
   {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 4990.0,
     "precio_hoy": 5990.0,
@@ -117,66 +90,93 @@
     "diff_pct": 20.04
   },
   {
-    "ean": "7798333900038",
-    "nombre": "huevos blancos avicola norte premium x 6 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 2570.0,
-    "precio_hoy": 3033.0,
-    "diff_abs": 463.0,
-    "diff_pct": 18.02
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
   },
   {
-    "ean": "7798333900045",
-    "nombre": "huevos castanos avicola norte premium x 6 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 2727.0,
-    "precio_hoy": 3218.0,
-    "diff_abs": 491.0,
-    "diff_pct": 18.01
+    "ean": "2020120000009",
+    "nombre": "berengena negra x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
   },
   {
-    "ean": "7798333900076",
-    "nombre": "huevos blancos avicola norte premium x 12 unid.",
+    "ean": "7794513000321",
+    "nombre": "almendras sin cascara la nueva estrella x 80 gr.",
     "categoria": "Almacen",
-    "precio_antes": 5004.0,
-    "precio_hoy": 5905.0,
-    "diff_abs": 901.0,
-    "diff_pct": 18.01
+    "precio_antes": 3644.0,
+    "precio_hoy": 4286.0,
+    "diff_abs": 642.0,
+    "diff_pct": 17.62
   },
   {
-    "ean": "7798333900090",
-    "nombre": "huevo avicola norte superior x 6 unidades blancos",
+    "ean": "2011770000006",
+    "nombre": "almendras sin cascara x kg.",
     "categoria": "Almacen",
-    "precio_antes": 2321.0,
-    "precio_hoy": 2739.0,
-    "diff_abs": 418.0,
-    "diff_pct": 18.01
+    "precio_antes": 34230.0,
+    "precio_hoy": 40254.0,
+    "diff_abs": 6024.0,
+    "diff_pct": 17.6
   },
   {
-    "ean": "7798333900052",
-    "nombre": "huevos blamcos avicola norte maple x 30 unidades",
-    "categoria": "Almacen",
-    "precio_antes": 7499.0,
-    "precio_hoy": 8849.0,
-    "diff_abs": 1350.0,
-    "diff_pct": 18.0
+    "ean": "2020310000000",
+    "nombre": "cebolla morada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
   },
   {
-    "ean": "7798333900120",
-    "nombre": "huevos avicola norte color x 12 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 4778.0,
-    "precio_hoy": 5638.0,
-    "diff_abs": 860.0,
-    "diff_pct": 18.0
+    "ean": "7796314000142",
+    "nombre": "funda para tabla de planchar",
+    "categoria": "Limpieza",
+    "precio_antes": 8643.0,
+    "precio_hoy": 10053.0,
+    "diff_abs": 1410.0,
+    "diff_pct": 16.31
   },
   {
-    "ean": "7798151820013",
-    "nombre": "huevos doble a x 6 unid. blancos",
+    "ean": "7794184000095",
+    "nombre": "alfombra antideslizante danforth",
+    "categoria": "Limpieza",
+    "precio_antes": 10053.0,
+    "precio_hoy": 11685.0,
+    "diff_abs": 1632.0,
+    "diff_pct": 16.23
+  },
+  {
+    "ean": "7790645000857",
+    "nombre": "coctel 4 frutas gentleman x 820 gm",
     "categoria": "Almacen",
-    "precio_antes": 2400.0,
-    "precio_hoy": 2832.0,
-    "diff_abs": 432.0,
-    "diff_pct": 18.0
+    "precio_antes": 5058.0,
+    "precio_hoy": 5853.0,
+    "diff_abs": 795.0,
+    "diff_pct": 15.72
+  },
+  {
+    "ean": "7790645001199",
+    "nombre": "pimientos morrones enteros comunes caracas x 185 .",
+    "categoria": "Almacen",
+    "precio_antes": 1957.0,
+    "precio_hoy": 2253.0,
+    "diff_abs": 296.0,
+    "diff_pct": 15.13
+  },
+  {
+    "ean": "7790645001120",
+    "nombre": "duraznos en mitades gentleman x 820 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4061.0,
+    "precio_hoy": 4642.0,
+    "diff_abs": 581.0,
+    "diff_pct": 14.31
   }
 ]
