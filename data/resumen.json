@@ -1,24 +1,24 @@
 {
-  "fecha": "20261015",
-  "total_productos": 6591,
-  "variacion_dia": 0.03,
-  "variacion_7d": 0.4,
-  "variacion_mes": 0.88,
+  "fecha": "20261016",
+  "total_productos": 6596,
+  "variacion_dia": 0.05,
+  "variacion_7d": 0.32,
+  "variacion_mes": 0.63,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.04,
-      "productos_subieron": 8,
-      "productos_bajaron": 4,
-      "total_productos": 1517
+      "variacion_pct_promedio": 0.09,
+      "productos_subieron": 31,
+      "productos_bajaron": 0,
+      "total_productos": 1518
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.09,
-      "productos_subieron": 4,
-      "productos_bajaron": 9,
-      "total_productos": 1165
+      "variacion_pct_promedio": 0.12,
+      "productos_subieron": 10,
+      "productos_bajaron": 10,
+      "total_productos": 1161
     },
     {
       "categoria": "Congelados",
@@ -29,66 +29,57 @@
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.03,
+      "productos_subieron": 5,
       "productos_bajaron": 0,
       "total_productos": 814
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.16,
-      "productos_subieron": 12,
-      "productos_bajaron": 0,
-      "total_productos": 926
+      "variacion_pct_promedio": -0.07,
+      "productos_subieron": 0,
+      "productos_bajaron": 18,
+      "total_productos": 918
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.06,
-      "productos_subieron": 14,
-      "productos_bajaron": 0,
-      "total_productos": 1921
+      "variacion_pct_promedio": 0.05,
+      "productos_subieron": 6,
+      "productos_bajaron": 3,
+      "total_productos": 1909
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2021510000005",
-      "nombre": "papaya x kilo",
+      "ean": "2019990000004",
+      "nombre": "apio x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 10990.0,
-      "precio_hoy": 7990.0,
-      "diff_abs": -3000.0,
-      "diff_pct": -27.3
+      "precio_antes": 3990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -25.06
     },
     {
-      "ean": "2022060000002",
-      "nombre": "repollo colorado x kg.",
+      "ean": "2022090000003",
+      "nombre": "sandia x kilo",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 2690.0,
+      "precio_antes": 2490.0,
       "precio_hoy": 1990.0,
-      "diff_abs": -700.0,
-      "diff_pct": -26.02
+      "diff_abs": -500.0,
+      "diff_pct": -20.08
     },
     {
-      "ean": "7790360975195",
-      "nombre": "grasa vacuna ref.swift x500gr.",
-      "categoria": "Carniceria",
-      "precio_antes": 5243.0,
-      "precio_hoy": 3932.0,
-      "diff_abs": -1311.0,
-      "diff_pct": -25.0
+      "ean": "2020910000004",
+      "nombre": "lechuga de hoja x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -500.0,
+      "diff_pct": -20.08
     },
     {
-      "ean": "7630040411028",
-      "nombre": "vermouth martini x995ml.rosso",
-      "categoria": "Bebidas",
-      "precio_antes": 11963.0,
-      "precio_hoy": 9127.0,
-      "diff_abs": -2836.0,
-      "diff_pct": -23.71
-    },
-    {
-      "ean": "2021780000002",
-      "nombre": "perejil x kg.",
+      "ean": "2020300000003",
+      "nombre": "cebolla de verdeo x kg.",
       "categoria": "Frutas Y Verduras",
       "precio_antes": 4990.0,
       "precio_hoy": 3990.0,
@@ -96,8 +87,26 @@
       "diff_pct": -20.04
     },
     {
-      "ean": "2021850000000",
-      "nombre": "pia?a?a x kg.",
+      "ean": "2019880000008",
+      "nombre": "acelga x paquete",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 1190.0,
+      "precio_hoy": 990.0,
+      "diff_abs": -200.0,
+      "diff_pct": -16.81
+    },
+    {
+      "ean": "2020930000008",
+      "nombre": "lechuga morada x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2990.0,
+      "precio_hoy": 2490.0,
+      "diff_abs": -500.0,
+      "diff_pct": -16.72
+    },
+    {
+      "ean": "2022210000005",
+      "nombre": "tomate perita x kg.",
       "categoria": "Frutas Y Verduras",
       "precio_antes": 5990.0,
       "precio_hoy": 4990.0,
@@ -105,26 +114,8 @@
       "diff_pct": -16.69
     },
     {
-      "ean": "2022130000000",
-      "nombre": "tomate cherry x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 12990.0,
-      "precio_hoy": 10990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -15.4
-    },
-    {
-      "ean": "2019880000008",
-      "nombre": "acelga x paquete",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1390.0,
-      "precio_hoy": 1190.0,
-      "diff_abs": -200.0,
-      "diff_pct": -14.39
-    },
-    {
-      "ean": "2022210000005",
-      "nombre": "tomate perita x kg.",
+      "ean": "2022220000002",
+      "nombre": "tomate redondo x kg.",
       "categoria": "Frutas Y Verduras",
       "precio_antes": 6990.0,
       "precio_hoy": 5990.0,
@@ -132,16 +123,25 @@
       "diff_pct": -14.31
     },
     {
-      "ean": "2022040000008",
-      "nombre": "repollo blanco x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1990.0,
-      "precio_hoy": 1790.0,
-      "diff_abs": -200.0,
-      "diff_pct": -10.05
+      "ean": "7798048720211",
+      "nombre": "porotos manteca don elio x 500 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 3846.0,
+      "precio_hoy": 3448.0,
+      "diff_abs": -398.0,
+      "diff_pct": -10.35
+    },
+    {
+      "ean": "7798048720372",
+      "nombre": "lentejas rojas peladas don elio x 400 gr.",
+      "categoria": "Almacen",
+      "precio_antes": 3341.0,
+      "precio_hoy": 3009.0,
+      "diff_abs": -332.0,
+      "diff_pct": -9.94
     }
   ],
-  "productos_subieron_dia": 38,
-  "productos_bajaron_dia": 13,
-  "productos_sin_cambio_dia": 6536
+  "productos_subieron_dia": 52,
+  "productos_bajaron_dia": 31,
+  "productos_sin_cambio_dia": 6481
 }

@@ -9,22 +9,40 @@
     "diff_pct": 1264.99
   },
   {
-    "ean": "2700006100107",
-    "nombre": "individuales",
-    "categoria": "Limpieza",
-    "precio_antes": 987.0,
-    "precio_hoy": 1390.0,
-    "diff_abs": 403.0,
-    "diff_pct": 40.83
-  },
-  {
-    "ean": "2019990000004",
-    "nombre": "apio x kg.",
+    "ean": "2020100000005",
+    "nombre": "berenjena morada x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
+  },
+  {
+    "ean": "2021840000003",
+    "nombre": "pimiento verde x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 66.78
+  },
+  {
+    "ean": "7790645002066",
+    "nombre": "caballa caracas x 380 gm natural",
+    "categoria": "Almacen",
+    "precio_antes": 5451.0,
+    "precio_hoy": 7417.0,
+    "diff_abs": 1966.0,
+    "diff_pct": 36.07
+  },
+  {
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4590.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1400.0,
+    "diff_pct": 30.5
   },
   {
     "ean": "2021790000009",
@@ -45,15 +63,6 @@
     "diff_pct": 26.76
   },
   {
-    "ean": "2020960000009",
-    "nombre": "lechuga repollada x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
-  },
-  {
     "ean": "2021550000003",
     "nombre": "pepino x kg.",
     "categoria": "Frutas Y Verduras",
@@ -72,31 +81,13 @@
     "diff_pct": 25.06
   },
   {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
-  },
-  {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
-  },
-  {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
+    "ean": "2031970000002",
+    "nombre": "jamon crudo ermes fontana x kilo",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 72578.0,
+    "precio_hoy": 88400.0,
+    "diff_abs": 15822.0,
+    "diff_pct": 21.8
   },
   {
     "ean": "2020120000009",
@@ -108,22 +99,13 @@
     "diff_pct": 20.04
   },
   {
-    "ean": "7794513000321",
-    "nombre": "almendras sin cascara la nueva estrella x 80 gr.",
+    "ean": "7790645003575",
+    "nombre": "sardinas en aceita y agua caracas x 125 gr.",
     "categoria": "Almacen",
-    "precio_antes": 3644.0,
-    "precio_hoy": 4286.0,
-    "diff_abs": 642.0,
-    "diff_pct": 17.62
-  },
-  {
-    "ean": "2011770000006",
-    "nombre": "almendras sin cascara x kg.",
-    "categoria": "Almacen",
-    "precio_antes": 34230.0,
-    "precio_hoy": 40254.0,
-    "diff_abs": 6024.0,
-    "diff_pct": 17.6
+    "precio_antes": 2818.0,
+    "precio_hoy": 3293.0,
+    "diff_abs": 475.0,
+    "diff_pct": 16.86
   },
   {
     "ean": "2020310000000",
@@ -135,22 +117,22 @@
     "diff_pct": 16.69
   },
   {
-    "ean": "7796314000142",
-    "nombre": "funda para tabla de planchar",
-    "categoria": "Limpieza",
-    "precio_antes": 8643.0,
-    "precio_hoy": 10053.0,
-    "diff_abs": 1410.0,
-    "diff_pct": 16.31
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
   },
   {
-    "ean": "7794184000095",
-    "nombre": "alfombra antideslizante danforth",
-    "categoria": "Limpieza",
-    "precio_antes": 10053.0,
-    "precio_hoy": 11685.0,
-    "diff_abs": 1632.0,
-    "diff_pct": 16.23
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
   },
   {
     "ean": "7790645000857",
@@ -162,6 +144,15 @@
     "diff_pct": 15.72
   },
   {
+    "ean": "2021820000009",
+    "nombre": "pimiento rojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 12990.0,
+    "precio_hoy": 14990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 15.4
+  },
+  {
     "ean": "7790645001199",
     "nombre": "pimientos morrones enteros comunes caracas x 185 .",
     "categoria": "Almacen",
@@ -171,12 +162,21 @@
     "diff_pct": 15.13
   },
   {
-    "ean": "7790645001120",
-    "nombre": "duraznos en mitades gentleman x 820 gr.",
+    "ean": "7798342920034",
+    "nombre": "nachos ketsal x 90 gr.",
     "categoria": "Almacen",
-    "precio_antes": 4061.0,
-    "precio_hoy": 4642.0,
-    "diff_abs": 581.0,
-    "diff_pct": 14.31
+    "precio_antes": 2225.0,
+    "precio_hoy": 2559.0,
+    "diff_abs": 334.0,
+    "diff_pct": 15.01
+  },
+  {
+    "ean": "7798342920027",
+    "nombre": "nachos ketsal x 250 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3994.0,
+    "precio_hoy": 4593.0,
+    "diff_abs": 599.0,
+    "diff_pct": 15.0
   }
 ]

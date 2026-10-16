@@ -9,13 +9,40 @@
     "diff_pct": 1264.99
   },
   {
-    "ean": "2021020000007",
-    "nombre": "hinojo x kg.",
+    "ean": "2021480000005",
+    "nombre": "papa elegida suelta x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 1990.0,
     "precio_hoy": 4990.0,
     "diff_abs": 3000.0,
     "diff_pct": 150.75
+  },
+  {
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 133.78
+  },
+  {
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 133.78
+  },
+  {
+    "ean": "2021020000007",
+    "nombre": "hinojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2500.0,
+    "diff_pct": 100.4
   },
   {
     "ean": "2020310000000",
@@ -27,15 +54,6 @@
     "diff_pct": 94.71
   },
   {
-    "ean": "2021480000005",
-    "nombre": "papa elegida suelta x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2790.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2200.0,
-    "diff_pct": 78.85
-  },
-  {
     "ean": "2020260000006",
     "nombre": "camote colorado x kg.",
     "categoria": "Frutas Y Verduras",
@@ -43,6 +61,15 @@
     "precio_hoy": 4990.0,
     "diff_abs": 2000.0,
     "diff_pct": 66.89
+  },
+  {
+    "ean": "2021840000003",
+    "nombre": "pimiento verde x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 66.78
   },
   {
     "ean": "2021790000009",
@@ -54,22 +81,13 @@
     "diff_pct": 62.58
   },
   {
-    "ean": "2019950000006",
-    "nombre": "akusay x kg.",
+    "ean": "2020980000003",
+    "nombre": "limones x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 60.24
-  },
-  {
-    "ean": "2020120000009",
-    "nombre": "berengena negra x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
   },
   {
     "ean": "2020180000001",
@@ -81,22 +99,13 @@
     "diff_pct": 50.13
   },
   {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
+    "ean": "2021820000009",
+    "nombre": "pimiento rojo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
-  },
-  {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
+    "precio_antes": 9990.0,
+    "precio_hoy": 14990.0,
+    "diff_abs": 5000.0,
+    "diff_pct": 50.05
   },
   {
     "ean": "7790681000477",
@@ -126,13 +135,22 @@
     "diff_pct": 40.83
   },
   {
-    "ean": "7790070265104",
-    "nombre": "aceite de oliva copcinero extra virgen x 250 ml",
+    "ean": "7790645002066",
+    "nombre": "caballa caracas x 380 gm natural",
     "categoria": "Almacen",
-    "precio_antes": 7085.7,
-    "precio_hoy": 9315.0,
-    "diff_abs": 2229.3,
-    "diff_pct": 31.46
+    "precio_antes": 5451.1,
+    "precio_hoy": 7417.0,
+    "diff_abs": 1965.9,
+    "diff_pct": 36.06
+  },
+  {
+    "ean": "2019950000006",
+    "nombre": "akusay x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
   },
   {
     "ean": "7790070231697",
@@ -144,6 +162,15 @@
     "diff_pct": 31.46
   },
   {
+    "ean": "7790070265104",
+    "nombre": "aceite de oliva copcinero extra virgen x 250 ml",
+    "categoria": "Almacen",
+    "precio_antes": 7085.7,
+    "precio_hoy": 9315.0,
+    "diff_abs": 2229.3,
+    "diff_pct": 31.46
+  },
+  {
     "ean": "7790070265098",
     "nombre": "aceite de oliva cocinero extra virgen x 500 ml.",
     "categoria": "Almacen",
@@ -151,32 +178,5 @@
     "precio_hoy": 16964.0,
     "diff_abs": 4059.0,
     "diff_pct": 31.45
-  },
-  {
-    "ean": "2021820000009",
-    "nombre": "pimiento rojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 9990.0,
-    "precio_hoy": 12990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 30.03
-  },
-  {
-    "ean": "2030450000006",
-    "nombre": "jamon redondo de cerdo el cheru x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
-  },
-  {
-    "ean": "2030460000003",
-    "nombre": "cuadril de cerdo el cheru x kilo",
-    "categoria": "Carniceria",
-    "precio_antes": 7900.0,
-    "precio_hoy": 10024.0,
-    "diff_abs": 2124.0,
-    "diff_pct": 26.89
   }
 ]
