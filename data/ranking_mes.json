@@ -18,8 +18,8 @@
     "diff_pct": 150.75
   },
   {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 6990.0,
@@ -27,8 +27,8 @@
     "diff_pct": 133.78
   },
   {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 6990.0,
@@ -52,6 +52,15 @@
     "precio_hoy": 6990.0,
     "diff_abs": 3400.0,
     "diff_pct": 94.71
+  },
+  {
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 75.19
   },
   {
     "ean": "2020260000006",
@@ -88,15 +97,6 @@
     "precio_hoy": 2990.0,
     "diff_abs": 1000.0,
     "diff_pct": 50.25
-  },
-  {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
   },
   {
     "ean": "2021820000009",
@@ -153,21 +153,21 @@
     "diff_pct": 33.44
   },
   {
-    "ean": "7790070231697",
-    "nombre": "aceite de maiz lira x 900 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 6129.0,
-    "precio_hoy": 8057.0,
-    "diff_abs": 1928.0,
-    "diff_pct": 31.46
-  },
-  {
     "ean": "7790070265104",
     "nombre": "aceite de oliva copcinero extra virgen x 250 ml",
     "categoria": "Almacen",
     "precio_antes": 7085.7,
     "precio_hoy": 9315.0,
     "diff_abs": 2229.3,
+    "diff_pct": 31.46
+  },
+  {
+    "ean": "7790070231697",
+    "nombre": "aceite de maiz lira x 900 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 6129.0,
+    "precio_hoy": 8057.0,
+    "diff_abs": 1928.0,
     "diff_pct": 31.46
   },
   {

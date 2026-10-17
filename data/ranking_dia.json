@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2020100000005",
-    "nombre": "berenjena morada x kg.",
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
+  },
+  {
+    "ean": "7792281021838",
+    "nombre": "bowl 14 granito carol",
+    "categoria": "Limpieza",
+    "precio_antes": 3813.0,
+    "precio_hoy": 4238.0,
+    "diff_abs": 425.0,
+    "diff_pct": 11.15
+  },
+  {
+    "ean": "7792281063234",
+    "nombre": "bowl 23 negro carol",
+    "categoria": "Limpieza",
+    "precio_antes": 9815.0,
+    "precio_hoy": 10907.0,
+    "diff_abs": 1092.0,
+    "diff_pct": 11.13
+  },
+  {
+    "ean": "7792281021647",
+    "nombre": "bowl 23 granito carol",
+    "categoria": "Limpieza",
+    "precio_antes": 9815.0,
+    "precio_hoy": 10907.0,
+    "diff_abs": 1092.0,
+    "diff_pct": 11.13
+  },
+  {
+    "ean": "7792281021852",
+    "nombre": "bowl 20 granito carol",
+    "categoria": "Limpieza",
+    "precio_antes": 7814.0,
+    "precio_hoy": 8683.0,
+    "diff_abs": 869.0,
+    "diff_pct": 11.12
+  },
+  {
+    "ean": "7792281063203",
+    "nombre": "bowl 20 negro carol",
+    "categoria": "Limpieza",
+    "precio_antes": 7814.0,
+    "precio_hoy": 8683.0,
+    "diff_abs": 869.0,
+    "diff_pct": 11.12
+  },
+  {
+    "ean": "7792281021609",
+    "nombre": "compotera carol granito",
+    "categoria": "Limpieza",
+    "precio_antes": 2233.0,
+    "precio_hoy": 2481.0,
+    "diff_abs": 248.0,
+    "diff_pct": 11.11
+  },
+  {
+    "ean": "7792281063111",
+    "nombre": "compotera negra carol",
+    "categoria": "Limpieza",
+    "precio_antes": 2233.0,
+    "precio_hoy": 2481.0,
+    "diff_abs": 248.0,
+    "diff_pct": 11.11
+  },
+  {
+    "ean": "7792281200455",
+    "nombre": "jarra plastica translucida x 1.5 litros carol",
+    "categoria": "Limpieza",
+    "precio_antes": 20667.0,
+    "precio_hoy": 22963.0,
+    "diff_abs": 2296.0,
+    "diff_pct": 11.11
+  },
+  {
+    "ean": "7792281024419",
+    "nombre": "bowl apilable gris x 4 unidades carol",
+    "categoria": "Limpieza",
+    "precio_antes": 19289.0,
+    "precio_hoy": 21432.0,
+    "diff_abs": 2143.0,
+    "diff_pct": 11.11
+  },
+  {
+    "ean": "7792281018746",
+    "nombre": "jarra plastica negra x 1.5 litros carol",
+    "categoria": "Limpieza",
+    "precio_antes": 20667.0,
+    "precio_hoy": 22963.0,
+    "diff_abs": 2296.0,
+    "diff_pct": 11.11
+  },
+  {
+    "ean": "7792281018753",
+    "nombre": "jarra plastica blanca x 1.5 litros",
+    "categoria": "Limpieza",
+    "precio_antes": 20667.0,
+    "precio_hoy": 22963.0,
+    "diff_abs": 2296.0,
+    "diff_pct": 11.11
+  },
+  {
+    "ean": "2021470000008",
+    "nombre": "papa elegida red x kilo",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
+    "precio_hoy": 3290.0,
+    "diff_abs": 300.0,
+    "diff_pct": 10.03
   },
   {
-    "ean": "2021840000003",
-    "nombre": "pimiento verde x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 66.78
-  },
-  {
-    "ean": "2020980000003",
-    "nombre": "limones x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 50.25
-  },
-  {
-    "ean": "7790645002066",
-    "nombre": "caballa caracas x 380 gm natural",
-    "categoria": "Almacen",
-    "precio_antes": 5451.0,
-    "precio_hoy": 7417.0,
-    "diff_abs": 1966.0,
-    "diff_pct": 36.07
-  },
-  {
-    "ean": "7790360975195",
-    "nombre": "grasa vacuna ref.swift x500gr.",
-    "categoria": "Carniceria",
-    "precio_antes": 3932.0,
-    "precio_hoy": 5243.0,
-    "diff_abs": 1311.0,
-    "diff_pct": 33.34
-  },
-  {
-    "ean": "2031970000002",
-    "nombre": "jamon crudo ermes fontana x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 72578.0,
-    "precio_hoy": 88400.0,
-    "diff_abs": 15822.0,
-    "diff_pct": 21.8
-  },
-  {
-    "ean": "7790645003575",
-    "nombre": "sardinas en aceita y agua caracas x 125 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2818.0,
-    "precio_hoy": 3293.0,
-    "diff_abs": 475.0,
-    "diff_pct": 16.86
-  },
-  {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
-  },
-  {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
-  },
-  {
-    "ean": "2021820000009",
-    "nombre": "pimiento rojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 12990.0,
-    "precio_hoy": 14990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 15.4
-  },
-  {
-    "ean": "7798342920034",
-    "nombre": "nachos ketsal x 90 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2225.0,
-    "precio_hoy": 2559.0,
-    "diff_abs": 334.0,
-    "diff_pct": 15.01
-  },
-  {
-    "ean": "7798342920027",
-    "nombre": "nachos ketsal x 250 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3994.0,
-    "precio_hoy": 4593.0,
-    "diff_abs": 599.0,
-    "diff_pct": 15.0
-  },
-  {
-    "ean": "7798342920072",
-    "nombre": "nachos ketsal picantes x 70 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2260.0,
-    "precio_hoy": 2598.0,
-    "diff_abs": 338.0,
-    "diff_pct": 14.96
-  },
-  {
-    "ean": "7798342920065",
-    "nombre": "nachos ketsal sabor queso x 70 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2260.0,
-    "precio_hoy": 2598.0,
-    "diff_abs": 338.0,
-    "diff_pct": 14.96
-  },
-  {
-    "ean": "8002315002931",
-    "nombre": "076386 fuente ovalada melamina blanca",
+    "ean": "7792281711432",
+    "nombre": "lata para fideos color verde",
     "categoria": "Limpieza",
-    "precio_antes": 4791.0,
-    "precio_hoy": 5354.0,
-    "diff_abs": 563.0,
-    "diff_pct": 11.75
+    "precio_antes": 19917.0,
+    "precio_hoy": 21909.0,
+    "diff_abs": 1992.0,
+    "diff_pct": 10.0
   },
   {
-    "ean": "2025680000001",
-    "nombre": "tapa de asado ternera x kg.",
-    "categoria": "Carniceria",
-    "precio_antes": 17900.0,
-    "precio_hoy": 19900.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 11.17
+    "ean": "2038330000009",
+    "nombre": "rucula hidroponica x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2590.0,
+    "precio_hoy": 2790.0,
+    "diff_abs": 200.0,
+    "diff_pct": 7.72
   },
   {
-    "ean": "7790351152024",
-    "nombre": "asadera oval",
+    "ean": "7792281024952",
+    "nombre": "budinera de silicona carol 25 x 12 cm verde",
     "categoria": "Limpieza",
-    "precio_antes": 14950.0,
-    "precio_hoy": 16162.0,
-    "diff_abs": 1212.0,
-    "diff_pct": 8.11
+    "precio_antes": 9197.0,
+    "precio_hoy": 9842.0,
+    "diff_abs": 645.0,
+    "diff_pct": 7.01
   },
   {
-    "ean": "7790351122010",
-    "nombre": "cortantes x 6 plastico",
+    "ean": "7792281025065",
+    "nombre": "molinillo bambu 16 cm blanco",
     "categoria": "Limpieza",
-    "precio_antes": 3977.0,
-    "precio_hoy": 4243.0,
-    "diff_abs": 266.0,
-    "diff_pct": 6.69
+    "precio_antes": 24254.0,
+    "precio_hoy": 25953.0,
+    "diff_abs": 1699.0,
+    "diff_pct": 7.01
   },
   {
-    "ean": "7790415000797",
-    "nombre": "vino gascon roble x 750 ml estuche malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 14000.0,
-    "precio_hoy": 14800.0,
-    "diff_abs": 800.0,
-    "diff_pct": 5.71
+    "ean": "7792281353205",
+    "nombre": "molinillo bambu 16 cm negro",
+    "categoria": "Limpieza",
+    "precio_antes": 24254.0,
+    "precio_hoy": 25953.0,
+    "diff_abs": 1699.0,
+    "diff_pct": 7.01
   },
   {
-    "ean": "7790415002432",
-    "nombre": "vino blanco familia gascos x 375 ml chardonnay",
-    "categoria": "Bebidas",
-    "precio_antes": 5720.0,
-    "precio_hoy": 6000.0,
-    "diff_abs": 280.0,
-    "diff_pct": 4.9
+    "ean": "7792281017565",
+    "nombre": "asadera rectangular 33 granit carol",
+    "categoria": "Limpieza",
+    "precio_antes": 13989.0,
+    "precio_hoy": 14969.0,
+    "diff_abs": 980.0,
+    "diff_pct": 7.01
+  },
+  {
+    "ean": "7792281132053",
+    "nombre": "budinera de silicona carol 25 x 12 cm gris",
+    "categoria": "Limpieza",
+    "precio_antes": 9197.0,
+    "precio_hoy": 9842.0,
+    "diff_abs": 645.0,
+    "diff_pct": 7.01
   }
 ]

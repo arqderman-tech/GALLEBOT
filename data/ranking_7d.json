@@ -1,14 +1,5 @@
 [
   {
-    "ean": "7790580141301",
-    "nombre": "postre bon o bon chocolate x 120 gm tentacion",
-    "categoria": "Almacen",
-    "precio_antes": 3950.0,
-    "precio_hoy": 53917.0,
-    "diff_abs": 49967.0,
-    "diff_pct": 1264.99
-  },
-  {
     "ean": "2020100000005",
     "nombre": "berenjena morada x kg.",
     "categoria": "Frutas Y Verduras",
@@ -27,6 +18,24 @@
     "diff_pct": 66.78
   },
   {
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4590.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 2400.0,
+    "diff_pct": 52.29
+  },
+  {
+    "ean": "2020310000000",
+    "nombre": "cebolla morada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 40.08
+  },
+  {
     "ean": "7790645002066",
     "nombre": "caballa caracas x 380 gm natural",
     "categoria": "Almacen",
@@ -34,42 +43,6 @@
     "precio_hoy": 7417.0,
     "diff_abs": 1966.0,
     "diff_pct": 36.07
-  },
-  {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4590.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1400.0,
-    "diff_pct": 30.5
-  },
-  {
-    "ean": "2021790000009",
-    "nombre": "pimiento amarillo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 9990.0,
-    "precio_hoy": 12990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 30.03
-  },
-  {
-    "ean": "2030920000000",
-    "nombre": "puerro x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3790.0,
-    "diff_abs": 800.0,
-    "diff_pct": 26.76
-  },
-  {
-    "ean": "2021550000003",
-    "nombre": "pepino x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
   },
   {
     "ean": "2020260000006",
@@ -90,6 +63,15 @@
     "diff_pct": 21.8
   },
   {
+    "ean": "2020980000003",
+    "nombre": "limones x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 20.08
+  },
+  {
     "ean": "2020120000009",
     "nombre": "berengena negra x kg.",
     "categoria": "Frutas Y Verduras",
@@ -99,6 +81,15 @@
     "diff_pct": 20.04
   },
   {
+    "ean": "2021090000006",
+    "nombre": "mandarina encore x kilo",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1690.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 300.0,
+    "diff_pct": 17.75
+  },
+  {
     "ean": "7790645003575",
     "nombre": "sardinas en aceita y agua caracas x 125 gr.",
     "categoria": "Almacen",
@@ -106,15 +97,6 @@
     "precio_hoy": 3293.0,
     "diff_abs": 475.0,
     "diff_pct": 16.86
-  },
-  {
-    "ean": "2020310000000",
-    "nombre": "cebolla morada x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
   },
   {
     "ean": "2021650000002",
@@ -178,5 +160,23 @@
     "precio_hoy": 4593.0,
     "diff_abs": 599.0,
     "diff_pct": 15.0
+  },
+  {
+    "ean": "7798342920072",
+    "nombre": "nachos ketsal picantes x 70 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2260.0,
+    "precio_hoy": 2598.0,
+    "diff_abs": 338.0,
+    "diff_pct": 14.96
+  },
+  {
+    "ean": "7798342920065",
+    "nombre": "nachos ketsal sabor queso x 70 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2260.0,
+    "precio_hoy": 2598.0,
+    "diff_abs": 338.0,
+    "diff_pct": 14.96
   }
 ]
