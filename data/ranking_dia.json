@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
+    "ean": "7790310985830",
+    "nombre": "3ds queso x 85 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3981.0,
+    "precio_hoy": 3981.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281021838",
-    "nombre": "bowl 14 granito carol",
-    "categoria": "Limpieza",
-    "precio_antes": 3813.0,
-    "precio_hoy": 4238.0,
-    "diff_abs": 425.0,
-    "diff_pct": 11.15
+    "ean": "7790310985137",
+    "nombre": "3ds queso x143gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5545.0,
+    "precio_hoy": 5545.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281063234",
-    "nombre": "bowl 23 negro carol",
-    "categoria": "Limpieza",
-    "precio_antes": 9815.0,
-    "precio_hoy": 10907.0,
-    "diff_abs": 1092.0,
-    "diff_pct": 11.13
+    "ean": "7790310985113",
+    "nombre": "3ds sabor queso x 43 gm",
+    "categoria": "Almacen",
+    "precio_antes": 2370.0,
+    "precio_hoy": 2370.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281021647",
-    "nombre": "bowl 23 granito carol",
-    "categoria": "Limpieza",
-    "precio_antes": 9815.0,
-    "precio_hoy": 10907.0,
-    "diff_abs": 1092.0,
-    "diff_pct": 11.13
+    "ean": "763571722428",
+    "nombre": "ac.de coco entrenuts x200virg.",
+    "categoria": "Almacen",
+    "precio_antes": 9649.0,
+    "precio_hoy": 9649.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281021852",
-    "nombre": "bowl 20 granito carol",
-    "categoria": "Limpieza",
-    "precio_antes": 7814.0,
-    "precio_hoy": 8683.0,
-    "diff_abs": 869.0,
-    "diff_pct": 11.12
+    "ean": "7798080520657",
+    "nombre": "ac.ol.l.toscana x250ml.ajo",
+    "categoria": "Almacen",
+    "precio_antes": 10398.0,
+    "precio_hoy": 10398.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281063203",
-    "nombre": "bowl 20 negro carol",
-    "categoria": "Limpieza",
-    "precio_antes": 7814.0,
-    "precio_hoy": 8683.0,
-    "diff_abs": 869.0,
-    "diff_pct": 11.12
+    "ean": "7798080520534",
+    "nombre": "ac.ol.l.toscana x250ml.albahac",
+    "categoria": "Almacen",
+    "precio_antes": 10398.0,
+    "precio_hoy": 10398.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281021609",
-    "nombre": "compotera carol granito",
-    "categoria": "Limpieza",
-    "precio_antes": 2233.0,
-    "precio_hoy": 2481.0,
-    "diff_abs": 248.0,
-    "diff_pct": 11.11
+    "ean": "7791728246612",
+    "nombre": "ac.ol.zuccardi x250ml.coratina",
+    "categoria": "Almacen",
+    "precio_antes": 14282.0,
+    "precio_hoy": 14282.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281063111",
-    "nombre": "compotera negra carol",
-    "categoria": "Limpieza",
-    "precio_antes": 2233.0,
-    "precio_hoy": 2481.0,
-    "diff_abs": 248.0,
-    "diff_pct": 11.11
+    "ean": "7791728246575",
+    "nombre": "ac.ol.zuccardi x250ml.picual",
+    "categoria": "Almacen",
+    "precio_antes": 14282.0,
+    "precio_hoy": 14282.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281200455",
-    "nombre": "jarra plastica translucida x 1.5 litros carol",
-    "categoria": "Limpieza",
-    "precio_antes": 20667.0,
-    "precio_hoy": 22963.0,
-    "diff_abs": 2296.0,
-    "diff_pct": 11.11
+    "ean": "7791728241181",
+    "nombre": "ac.ol.zuelo x500ml.bot.intenso",
+    "categoria": "Almacen",
+    "precio_antes": 19077.0,
+    "precio_hoy": 19077.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281024419",
-    "nombre": "bowl apilable gris x 4 unidades carol",
-    "categoria": "Limpieza",
-    "precio_antes": 19289.0,
-    "precio_hoy": 21432.0,
-    "diff_abs": 2143.0,
-    "diff_pct": 11.11
+    "ean": "41331014922",
+    "nombre": "acaitunas goya x 149 gm con pimiento picante",
+    "categoria": "Almacen",
+    "precio_antes": 10139.0,
+    "precio_hoy": 10139.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281018746",
-    "nombre": "jarra plastica negra x 1.5 litros carol",
-    "categoria": "Limpieza",
-    "precio_antes": 20667.0,
-    "precio_hoy": 22963.0,
-    "diff_abs": 2296.0,
-    "diff_pct": 11.11
+    "ean": "7790580160807",
+    "nombre": "aceite arcor x900ml.maiz",
+    "categoria": "Almacen",
+    "precio_antes": 5911.0,
+    "precio_hoy": 5911.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281018753",
-    "nombre": "jarra plastica blanca x 1.5 litros",
-    "categoria": "Limpieza",
-    "precio_antes": 20667.0,
-    "precio_hoy": 22963.0,
-    "diff_abs": 2296.0,
-    "diff_pct": 11.11
+    "ean": "7790070225023",
+    "nombre": "aceite cocinero mezcla x1.5lt.",
+    "categoria": "Almacen",
+    "precio_antes": 5476.0,
+    "precio_hoy": 5476.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2021470000008",
-    "nombre": "papa elegida red x kilo",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3290.0,
-    "diff_abs": 300.0,
-    "diff_pct": 10.03
+    "ean": "7790070104311",
+    "nombre": "aceite cocinero oliva puro x 900 ml",
+    "categoria": "Almacen",
+    "precio_antes": 19061.0,
+    "precio_hoy": 19061.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281711432",
-    "nombre": "lata para fideos color verde",
-    "categoria": "Limpieza",
-    "precio_antes": 19917.0,
-    "precio_hoy": 21909.0,
-    "diff_abs": 1992.0,
-    "diff_pct": 10.0
+    "ean": "7790070231604",
+    "nombre": "aceite cocinero olivay girasol x 1.5 litros",
+    "categoria": "Almacen",
+    "precio_antes": 9336.0,
+    "precio_hoy": 9336.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "2038330000009",
-    "nombre": "rucula hidroponica x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2590.0,
-    "precio_hoy": 2790.0,
-    "diff_abs": 200.0,
-    "diff_pct": 7.72
+    "ean": "7790070265142",
+    "nombre": "aceite cocinero puro de oliva x 500 ml",
+    "categoria": "Almacen",
+    "precio_antes": 10919.0,
+    "precio_hoy": 10919.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281024952",
-    "nombre": "budinera de silicona carol 25 x 12 cm verde",
-    "categoria": "Limpieza",
-    "precio_antes": 9197.0,
-    "precio_hoy": 9842.0,
-    "diff_abs": 645.0,
-    "diff_pct": 7.01
+    "ean": "7790070231598",
+    "nombre": "aceite cocinero x900 ml oliva y girasol",
+    "categoria": "Almacen",
+    "precio_antes": 5809.0,
+    "precio_hoy": 5809.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281025065",
-    "nombre": "molinillo bambu 16 cm blanco",
-    "categoria": "Limpieza",
-    "precio_antes": 24254.0,
-    "precio_hoy": 25953.0,
-    "diff_abs": 1699.0,
-    "diff_pct": 7.01
+    "ean": "7790272006819",
+    "nombre": "aceite copisi x 900 ml. girasol y oliva",
+    "categoria": "Almacen",
+    "precio_antes": 6162.0,
+    "precio_hoy": 6162.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281353205",
-    "nombre": "molinillo bambu 16 cm negro",
-    "categoria": "Limpieza",
-    "precio_antes": 24254.0,
-    "precio_hoy": 25953.0,
-    "diff_abs": 1699.0,
-    "diff_pct": 7.01
+    "ean": "656750783931",
+    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 8902.0,
+    "precio_hoy": 8902.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281017565",
-    "nombre": "asadera rectangular 33 granit carol",
-    "categoria": "Limpieza",
-    "precio_antes": 13989.0,
-    "precio_hoy": 14969.0,
-    "diff_abs": 980.0,
-    "diff_pct": 7.01
+    "ean": "763571722435",
+    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 16512.0,
+    "precio_hoy": 16512.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7792281132053",
-    "nombre": "budinera de silicona carol 25 x 12 cm gris",
-    "categoria": "Limpieza",
-    "precio_antes": 9197.0,
-    "precio_hoy": 9842.0,
-    "diff_abs": 645.0,
-    "diff_pct": 7.01
+    "ean": "7794870000040",
+    "nombre": "aceite de girasol alsamar x 5 lts.",
+    "categoria": "Almacen",
+    "precio_antes": 22784.0,
+    "precio_hoy": 22784.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]
