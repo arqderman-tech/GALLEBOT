@@ -18,6 +18,24 @@
     "diff_pct": 66.78
   },
   {
+    "ean": "2021550000003",
+    "nombre": "pepino x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 60.24
+  },
+  {
+    "ean": "2020310000000",
+    "nombre": "cebolla morada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 60.12
+  },
+  {
     "ean": "2020180000001",
     "nombre": "calabacita x kg.",
     "categoria": "Frutas Y Verduras",
@@ -27,8 +45,8 @@
     "diff_pct": 52.29
   },
   {
-    "ean": "2020310000000",
-    "nombre": "cebolla morada x kg.",
+    "ean": "2020120000009",
+    "nombre": "berengena negra x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 4990.0,
     "precio_hoy": 6990.0,
@@ -45,6 +63,15 @@
     "diff_pct": 36.07
   },
   {
+    "ean": "2019950000006",
+    "nombre": "akusay x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
+  },
+  {
     "ean": "2020260000006",
     "nombre": "camote colorado x kg.",
     "categoria": "Frutas Y Verduras",
@@ -52,6 +79,15 @@
     "precio_hoy": 4990.0,
     "diff_abs": 1000.0,
     "diff_pct": 25.06
+  },
+  {
+    "ean": "2021820000009",
+    "nombre": "pimiento rojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 12990.0,
+    "precio_hoy": 15990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 23.09
   },
   {
     "ean": "2031970000002",
@@ -72,15 +108,6 @@
     "diff_pct": 20.08
   },
   {
-    "ean": "2020120000009",
-    "nombre": "berengena negra x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
-  },
-  {
     "ean": "2021090000006",
     "nombre": "mandarina encore x kilo",
     "categoria": "Frutas Y Verduras",
@@ -99,8 +126,8 @@
     "diff_pct": 16.86
   },
   {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 5990.0,
     "precio_hoy": 6990.0,
@@ -108,8 +135,8 @@
     "diff_pct": 16.69
   },
   {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 5990.0,
     "precio_hoy": 6990.0,
@@ -126,13 +153,13 @@
     "diff_pct": 15.72
   },
   {
-    "ean": "2021820000009",
-    "nombre": "pimiento rojo x kg.",
+    "ean": "2020960000009",
+    "nombre": "lechuga repollada x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 12990.0,
-    "precio_hoy": 14990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 15.4
+    "precio_antes": 2590.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 400.0,
+    "diff_pct": 15.44
   },
   {
     "ean": "7790645001199",
@@ -151,32 +178,5 @@
     "precio_hoy": 2559.0,
     "diff_abs": 334.0,
     "diff_pct": 15.01
-  },
-  {
-    "ean": "7798342920027",
-    "nombre": "nachos ketsal x 250 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3994.0,
-    "precio_hoy": 4593.0,
-    "diff_abs": 599.0,
-    "diff_pct": 15.0
-  },
-  {
-    "ean": "7798342920065",
-    "nombre": "nachos ketsal sabor queso x 70 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2260.0,
-    "precio_hoy": 2598.0,
-    "diff_abs": 338.0,
-    "diff_pct": 14.96
-  },
-  {
-    "ean": "7798342920072",
-    "nombre": "nachos ketsal picantes x 70 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2260.0,
-    "precio_hoy": 2598.0,
-    "diff_abs": 338.0,
-    "diff_pct": 14.96
   }
 ]
