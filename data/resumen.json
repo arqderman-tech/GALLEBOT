@@ -1,147 +1,147 @@
 {
-  "fecha": "20261019",
-  "total_productos": 6670,
-  "variacion_dia": 0.03,
-  "variacion_7d": 0.09,
-  "variacion_mes": 0.63,
+  "fecha": "20261020",
+  "total_productos": 6689,
+  "variacion_dia": 0.09,
+  "variacion_7d": 0.19,
+  "variacion_mes": 0.76,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1528
+      "variacion_pct_promedio": -0.17,
+      "productos_subieron": 74,
+      "productos_bajaron": 94,
+      "total_productos": 1529
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.16,
-      "productos_subieron": 10,
-      "productos_bajaron": 4,
-      "total_productos": 1184
+      "variacion_pct_promedio": 0.44,
+      "productos_subieron": 67,
+      "productos_bajaron": 1,
+      "total_productos": 1178
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.45,
+      "productos_subieron": 8,
       "productos_bajaron": 0,
-      "total_productos": 254
+      "total_productos": 253
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 817
+      "total_productos": 816
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 5,
       "productos_bajaron": 0,
-      "total_productos": 943
+      "total_productos": 933
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.11,
+      "productos_subieron": 26,
       "productos_bajaron": 0,
       "total_productos": 1926
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2020570000000",
-      "nombre": "coliflor x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -25.06
+      "ean": "7790314005893",
+      "nombre": "vino toro viejo x 3 lt. bonarda-syrah",
+      "categoria": "Bebidas",
+      "precio_antes": 15314.0,
+      "precio_hoy": 10577.0,
+      "diff_abs": -4737.0,
+      "diff_pct": -30.93
     },
     {
-      "ean": "2019880000008",
-      "nombre": "acelga x paquete",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 990.0,
-      "precio_hoy": 790.0,
-      "diff_abs": -200.0,
-      "diff_pct": -20.2
+      "ean": "7790314009532",
+      "nombre": "vino toro lacrado x 1.125 litros tinto",
+      "categoria": "Bebidas",
+      "precio_antes": 4607.0,
+      "precio_hoy": 3636.0,
+      "diff_abs": -971.0,
+      "diff_pct": -21.08
     },
     {
-      "ean": "2022090000003",
-      "nombre": "sandia x kilo",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1990.0,
-      "precio_hoy": 1590.0,
-      "diff_abs": -400.0,
-      "diff_pct": -20.1
+      "ean": "7790314005329",
+      "nombre": "vino toro  viejo x 1125 ml blanco",
+      "categoria": "Bebidas",
+      "precio_antes": 4860.0,
+      "precio_hoy": 3836.0,
+      "diff_abs": -1024.0,
+      "diff_pct": -21.07
     },
     {
-      "ean": "2022440000004",
-      "nombre": "esparragos verdes paquete",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
+      "ean": "7790314079900",
+      "nombre": "vino toro viejo x 1125 ml . bonardasyrah",
+      "categoria": "Bebidas",
+      "precio_antes": 5658.0,
+      "precio_hoy": 4466.0,
+      "diff_abs": -1192.0,
+      "diff_pct": -21.07
     },
     {
-      "ean": "7794990184507",
-      "nombre": "queso untable ricrem jamon x 180 gr",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1750.0,
-      "precio_hoy": 1750.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790314079917",
+      "nombre": "vino toro viejo bonarda-syrah x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 3864.0,
+      "precio_hoy": 3050.0,
+      "diff_abs": -814.0,
+      "diff_pct": -21.07
     },
     {
-      "ean": "7798151771438",
-      "nombre": "queso untable x 180 gm sabor salame",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2358.0,
-      "precio_hoy": 2358.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790314005305",
+      "nombre": "vino toro viejo x 1.125 litros tinto",
+      "categoria": "Bebidas",
+      "precio_antes": 4812.0,
+      "precio_hoy": 3799.0,
+      "diff_abs": -1013.0,
+      "diff_pct": -21.05
     },
     {
-      "ean": "7798151771421",
-      "nombre": "queso untable tremblay x 180 gm sabor jamon",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2358.0,
-      "precio_hoy": 2358.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790314057014",
+      "nombre": "vino resero tetra tinto x 1 lt",
+      "categoria": "Bebidas",
+      "precio_antes": 2990.0,
+      "precio_hoy": 2449.0,
+      "diff_abs": -541.0,
+      "diff_pct": -18.09
     },
     {
-      "ean": "7798151771414",
-      "nombre": "queso untable tremblay x 180 gm sabor finas hierbas",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2358.0,
-      "precio_hoy": 2358.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790314080159",
+      "nombre": "vino estancia mendoza malbec x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 4665.0,
+      "precio_hoy": 3835.0,
+      "diff_abs": -830.0,
+      "diff_pct": -17.79
     },
     {
-      "ean": "7798151771407",
-      "nombre": "queso untable tremblay x 180 gm sabor clasico",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2358.0,
-      "precio_hoy": 2358.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790314080166",
+      "nombre": "vino estancia mendoza cabernet sauvignon x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 4665.0,
+      "precio_hoy": 3835.0,
+      "diff_abs": -830.0,
+      "diff_pct": -17.79
     },
     {
-      "ean": "7798151771445",
-      "nombre": "queso untable tremblay x 180 gm por salut",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2358.0,
-      "precio_hoy": 2358.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790314066436",
+      "nombre": "vino est.mend.x1.125lt.cab-mal",
+      "categoria": "Bebidas",
+      "precio_antes": 6412.0,
+      "precio_hoy": 5272.0,
+      "diff_abs": -1140.0,
+      "diff_pct": -17.78
     }
   ],
-  "productos_subieron_dia": 10,
-  "productos_bajaron_dia": 4,
-  "productos_sin_cambio_dia": 6638
+  "productos_subieron_dia": 180,
+  "productos_bajaron_dia": 95,
+  "productos_sin_cambio_dia": 6360
 }
