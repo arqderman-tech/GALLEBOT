@@ -18,44 +18,35 @@
     "diff_pct": 150.75
   },
   {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 133.78
-  },
-  {
     "ean": "2021660000009",
     "nombre": "zapallito redondo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
+    "precio_antes": 3490.0,
     "precio_hoy": 6990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 133.78
-  },
-  {
-    "ean": "2021020000007",
-    "nombre": "hinojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 100.4
-  },
-  {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 75.19
+    "diff_abs": 3500.0,
+    "diff_pct": 100.29
   },
   {
     "ean": "2020120000009",
     "nombre": "berengena negra x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3490.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3500.0,
+    "diff_pct": 100.29
+  },
+  {
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3490.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 3500.0,
+    "diff_pct": 100.29
+  },
+  {
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 6990.0,
@@ -72,13 +63,13 @@
     "diff_pct": 66.89
   },
   {
-    "ean": "2020310000000",
-    "nombre": "cebolla morada x kg.",
+    "ean": "2021680000003",
+    "nombre": "zapallo brasilero x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 60.12
+    "precio_antes": 2490.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 60.24
   },
   {
     "ean": "2021820000009",
@@ -108,8 +99,8 @@
     "diff_pct": 54.37
   },
   {
-    "ean": "2020980000003",
-    "nombre": "limones x kg.",
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 1990.0,
     "precio_hoy": 2990.0,
@@ -144,6 +135,15 @@
     "diff_pct": 39.98
   },
   {
+    "ean": "2032010000006",
+    "nombre": "semillas de zapallo premium x kilo la nueva estrella",
+    "categoria": "Almacen",
+    "precio_antes": 18640.0,
+    "precio_hoy": 25549.0,
+    "diff_abs": 6909.0,
+    "diff_pct": 37.07
+  },
+  {
     "ean": "7790645002066",
     "nombre": "caballa caracas x 380 gm natural",
     "categoria": "Almacen",
@@ -162,13 +162,13 @@
     "diff_pct": 33.44
   },
   {
-    "ean": "7790070265104",
-    "nombre": "aceite de oliva copcinero extra virgen x 250 ml",
-    "categoria": "Almacen",
-    "precio_antes": 7085.7,
-    "precio_hoy": 9315.0,
-    "diff_abs": 2229.3,
-    "diff_pct": 31.46
+    "ean": "2020310000000",
+    "nombre": "cebolla morada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 33.39
   },
   {
     "ean": "7790070231697",

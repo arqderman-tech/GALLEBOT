@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790079025648",
-    "nombre": "pizzeta paladini x 205 gm mozarella y jamon",
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
+    "ean": "2021680000003",
+    "nombre": "zapallo brasilero x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
+  },
+  {
+    "ean": "2030920000000",
+    "nombre": "puerro x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3790.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1200.0,
+    "diff_pct": 31.66
+  },
+  {
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
+  },
+  {
+    "ean": "2020960000009",
+    "nombre": "lechuga repollada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 16.72
+  },
+  {
+    "ean": "7798222461039",
+    "nombre": "milanesa soja latina cebolla x 4 unid.",
     "categoria": "Congelados",
-    "precio_antes": 4666.0,
-    "precio_hoy": 6862.0,
-    "diff_abs": 2196.0,
-    "diff_pct": 47.06
+    "precio_antes": 2390.0,
+    "precio_hoy": 2633.0,
+    "diff_abs": 243.0,
+    "diff_pct": 10.17
   },
   {
-    "ean": "7790079025655",
-    "nombre": "pizzeta paladini x 190 gm mozarella",
+    "ean": "7798222461015",
+    "nombre": "milanesa soja latina oregano x 4 unid.",
     "categoria": "Congelados",
-    "precio_antes": 4441.0,
-    "precio_hoy": 6530.0,
-    "diff_abs": 2089.0,
-    "diff_pct": 47.04
+    "precio_antes": 2390.0,
+    "precio_hoy": 2633.0,
+    "diff_abs": 243.0,
+    "diff_pct": 10.17
   },
   {
-    "ean": "7790079022647",
-    "nombre": "salame tipo milan paladini fetas + finas x 180 gr.",
+    "ean": "7798222461022",
+    "nombre": "milanesa soja latina provenzal x 4 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 2390.0,
+    "precio_hoy": 2633.0,
+    "diff_abs": 243.0,
+    "diff_pct": 10.17
+  },
+  {
+    "ean": "7798034450016",
+    "nombre": "milanesas soja latina natural x 4 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 2390.0,
+    "precio_hoy": 2633.0,
+    "diff_abs": 243.0,
+    "diff_pct": 10.17
+  },
+  {
+    "ean": "7798222460018",
+    "nombre": "formitas de soja latina x 400 gr.",
+    "categoria": "Congelados",
+    "precio_antes": 4731.0,
+    "precio_hoy": 5204.0,
+    "diff_abs": 473.0,
+    "diff_pct": 10.0
+  },
+  {
+    "ean": "7791913005154",
+    "nombre": "gaseosa magna x500ml.tonica",
+    "categoria": "Bebidas",
+    "precio_antes": 1111.0,
+    "precio_hoy": 1193.0,
+    "diff_abs": 82.0,
+    "diff_pct": 7.38
+  },
+  {
+    "ean": "7791913001187",
+    "nombre": "gaseosa pritty limon x 500 ml. sin azucar",
+    "categoria": "Bebidas",
+    "precio_antes": 1273.0,
+    "precio_hoy": 1359.0,
+    "diff_abs": 86.0,
+    "diff_pct": 6.76
+  },
+  {
+    "ean": "7791913000333",
+    "nombre": "soda saldan x 1,5 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1436.0,
+    "precio_hoy": 1527.0,
+    "diff_abs": 91.0,
+    "diff_pct": 6.34
+  },
+  {
+    "ean": "7791913000814",
+    "nombre": "soda saldan x 2.25 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1533.0,
+    "precio_hoy": 1623.0,
+    "diff_abs": 90.0,
+    "diff_pct": 5.87
+  },
+  {
+    "ean": "7791913004089",
+    "nombre": "gaseosa pritty limon x 1 litro",
+    "categoria": "Bebidas",
+    "precio_antes": 1623.0,
+    "precio_hoy": 1713.0,
+    "diff_abs": 90.0,
+    "diff_pct": 5.55
+  },
+  {
+    "ean": "7791913000753",
+    "nombre": "soda saldan x 2 lt. sifon",
+    "categoria": "Bebidas",
+    "precio_antes": 1725.0,
+    "precio_hoy": 1814.0,
+    "diff_abs": 89.0,
+    "diff_pct": 5.16
+  },
+  {
+    "ean": "7791913000265",
+    "nombre": "gaseosa pritty limon 1,5 lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 1732.0,
+    "precio_hoy": 1817.0,
+    "diff_abs": 85.0,
+    "diff_pct": 4.91
+  },
+  {
+    "ean": "7791913001170",
+    "nombre": "gaseosa pritty limon x 1,5 lt. sin azucar",
+    "categoria": "Bebidas",
+    "precio_antes": 1732.0,
+    "precio_hoy": 1817.0,
+    "diff_abs": 85.0,
+    "diff_pct": 4.91
+  },
+  {
+    "ean": "656750783948",
+    "nombre": "ghee entrenuts manteca clarificada x 300 gr.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5283.0,
-    "precio_hoy": 7044.0,
-    "diff_abs": 1761.0,
-    "diff_pct": 33.33
-  },
-  {
-    "ean": "2010690000004",
-    "nombre": "salame baston paladini picado fino x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 28447.0,
-    "precio_hoy": 35562.0,
-    "diff_abs": 7115.0,
-    "diff_pct": 25.01
-  },
-  {
-    "ean": "7790079000638",
-    "nombre": "leberwurst paladini x 250 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2875.0,
-    "precio_hoy": 3594.0,
-    "diff_abs": 719.0,
-    "diff_pct": 25.01
-  },
-  {
-    "ean": "2015600000006",
-    "nombre": "salamin picado fino paladini x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 27461.0,
-    "precio_hoy": 34325.0,
-    "diff_abs": 6864.0,
-    "diff_pct": 25.0
-  },
-  {
-    "ean": "2023670000000",
-    "nombre": "salame baston paladini picado grueso x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 28450.0,
-    "precio_hoy": 35562.0,
-    "diff_abs": 7112.0,
-    "diff_pct": 25.0
-  },
-  {
-    "ean": "2015610000003",
-    "nombre": "salamin tipo crespon paladini x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 27461.0,
-    "precio_hoy": 34325.0,
-    "diff_abs": 6864.0,
-    "diff_pct": 25.0
-  },
-  {
-    "ean": "7790079021374",
-    "nombre": "pascualina paladini x 400 gr. hojaldre",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2792.0,
-    "precio_hoy": 3285.0,
-    "diff_abs": 493.0,
-    "diff_pct": 17.66
-  },
-  {
-    "ean": "7790079022135",
-    "nombre": "pascualina paladini x 400 gr. tipo criolla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2792.0,
-    "precio_hoy": 3285.0,
-    "diff_abs": 493.0,
-    "diff_pct": 17.66
-  },
-  {
-    "ean": "2014670000008",
-    "nombre": "jamon cocido paladini clasico x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 21419.0,
-    "precio_hoy": 25201.0,
-    "diff_abs": 3782.0,
-    "diff_pct": 17.66
-  },
-  {
-    "ean": "2014890000000",
-    "nombre": "lomo horneado x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 35292.0,
-    "precio_hoy": 41521.0,
-    "diff_abs": 6229.0,
-    "diff_pct": 17.65
-  },
-  {
-    "ean": "2014660000001",
-    "nombre": "jamon cocido labratto x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 31912.0,
-    "precio_hoy": 37541.0,
-    "diff_abs": 5629.0,
-    "diff_pct": 17.64
-  },
-  {
-    "ean": "7790079000904",
-    "nombre": "mortadela paladini x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 8501.0,
-    "precio_hoy": 10001.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 17.64
-  },
-  {
-    "ean": "7790079022128",
-    "nombre": "tapas de empanadas tipo criolla paladini x 12 unid",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2198.0,
-    "precio_hoy": 2585.0,
-    "diff_abs": 387.0,
-    "diff_pct": 17.61
-  },
-  {
-    "ean": "7790079022104",
-    "nombre": "tapas para empanadas paladini x 12 unid. hojaldre",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2198.0,
-    "precio_hoy": 2585.0,
-    "diff_abs": 387.0,
-    "diff_pct": 17.61
-  },
-  {
-    "ean": "7790079022111",
-    "nombre": "tapas para empanadas paladini x 12 unid. para feir",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2198.0,
-    "precio_hoy": 2585.0,
-    "diff_abs": 387.0,
-    "diff_pct": 17.61
-  },
-  {
-    "ean": "7798130190076",
-    "nombre": "ciruelas sin carozo zyma x 250 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 6055.0,
-    "precio_hoy": 7091.0,
-    "diff_abs": 1036.0,
-    "diff_pct": 17.11
-  },
-  {
-    "ean": "7798130192544",
-    "nombre": "maiz zyma frito salado x 100 gr",
-    "categoria": "Almacen",
-    "precio_antes": 3222.0,
-    "precio_hoy": 3616.0,
-    "diff_abs": 394.0,
-    "diff_pct": 12.23
-  },
-  {
-    "ean": "7798130190854",
-    "nombre": "mix salado zyma x150gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3949.0,
-    "precio_hoy": 4414.0,
-    "diff_abs": 465.0,
-    "diff_pct": 11.78
+    "precio_antes": 14636.0,
+    "precio_hoy": 15353.0,
+    "diff_abs": 717.0,
+    "diff_pct": 4.9
   }
 ]
