@@ -1,13 +1,147 @@
 {
-  "fecha": "20261022",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20261023",
+  "total_productos": 6771,
+  "variacion_dia": -0.0,
+  "variacion_7d": 0.14,
+  "variacion_mes": 0.76,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 7,
+      "productos_bajaron": 3,
+      "total_productos": 1530
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": -0.13,
+      "productos_subieron": 12,
+      "productos_bajaron": 32,
+      "total_productos": 1184
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": -0.3,
+      "productos_subieron": 0,
+      "productos_bajaron": 5,
+      "total_productos": 252
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.23,
+      "productos_subieron": 29,
+      "productos_bajaron": 3,
+      "total_productos": 816
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 942
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 2,
+      "productos_bajaron": 2,
+      "total_productos": 1938
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "7790079025655",
+      "nombre": "pizzeta paladini x 190 gm mozarella",
+      "categoria": "Congelados",
+      "precio_antes": 6530.0,
+      "precio_hoy": 4441.0,
+      "diff_abs": -2089.0,
+      "diff_pct": -31.99
+    },
+    {
+      "ean": "7790079025648",
+      "nombre": "pizzeta paladini x 205 gm mozarella y jamon",
+      "categoria": "Congelados",
+      "precio_antes": 6862.0,
+      "precio_hoy": 4667.0,
+      "diff_abs": -2195.0,
+      "diff_pct": -31.99
+    },
+    {
+      "ean": "7790079022647",
+      "nombre": "salame tipo milan paladini fetas + finas x 180 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 7044.0,
+      "precio_hoy": 5284.0,
+      "diff_abs": -1760.0,
+      "diff_pct": -24.99
+    },
+    {
+      "ean": "2023670000000",
+      "nombre": "salame baston paladini picado grueso x kilo",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 35562.0,
+      "precio_hoy": 28447.0,
+      "diff_abs": -7115.0,
+      "diff_pct": -20.01
+    },
+    {
+      "ean": "2010690000004",
+      "nombre": "salame baston paladini picado fino x kilo",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 35562.0,
+      "precio_hoy": 28447.0,
+      "diff_abs": -7115.0,
+      "diff_pct": -20.01
+    },
+    {
+      "ean": "7790079000638",
+      "nombre": "leberwurst paladini x 250 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3594.0,
+      "precio_hoy": 2875.0,
+      "diff_abs": -719.0,
+      "diff_pct": -20.01
+    },
+    {
+      "ean": "2015600000006",
+      "nombre": "salamin picado fino paladini x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 34325.0,
+      "precio_hoy": 27458.0,
+      "diff_abs": -6867.0,
+      "diff_pct": -20.01
+    },
+    {
+      "ean": "2015610000003",
+      "nombre": "salamin tipo crespon paladini x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 34325.0,
+      "precio_hoy": 27458.0,
+      "diff_abs": -6867.0,
+      "diff_pct": -20.01
+    },
+    {
+      "ean": "2022060000002",
+      "nombre": "repollo colorado x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2990.0,
+      "precio_hoy": 2490.0,
+      "diff_abs": -500.0,
+      "diff_pct": -16.72
+    },
+    {
+      "ean": "2014670000008",
+      "nombre": "jamon cocido paladini clasico x kg.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 25201.0,
+      "precio_hoy": 21422.0,
+      "diff_abs": -3779.0,
+      "diff_pct": -15.0
+    }
+  ],
+  "productos_subieron_dia": 50,
+  "productos_bajaron_dia": 45,
+  "productos_sin_cambio_dia": 6567
 }

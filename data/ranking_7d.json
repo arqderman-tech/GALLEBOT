@@ -1,21 +1,12 @@
 [
   {
-    "ean": "2020100000005",
-    "nombre": "berenjena morada x kg.",
+    "ean": "2020730000000",
+    "nombre": "espinaca atado",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
-  },
-  {
-    "ean": "2021840000003",
-    "nombre": "pimiento verde x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 66.78
+    "precio_antes": 990.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 101.01
   },
   {
     "ean": "2021550000003",
@@ -27,17 +18,8 @@
     "diff_pct": 60.24
   },
   {
-    "ean": "2020180000001",
-    "nombre": "calabacita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4590.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 2400.0,
-    "diff_pct": 52.29
-  },
-  {
-    "ean": "2020980000003",
-    "nombre": "limones x kg.",
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 1990.0,
     "precio_hoy": 2990.0,
@@ -54,24 +36,6 @@
     "diff_pct": 50.13
   },
   {
-    "ean": "7790079025648",
-    "nombre": "pizzeta paladini x 205 gm mozarella y jamon",
-    "categoria": "Congelados",
-    "precio_antes": 4666.0,
-    "precio_hoy": 6862.0,
-    "diff_abs": 2196.0,
-    "diff_pct": 47.06
-  },
-  {
-    "ean": "7790079025655",
-    "nombre": "pizzeta paladini x 190 gm mozarella",
-    "categoria": "Congelados",
-    "precio_antes": 4441.0,
-    "precio_hoy": 6530.0,
-    "diff_abs": 2089.0,
-    "diff_pct": 47.04
-  },
-  {
     "ean": "2020960000009",
     "nombre": "lechuga repollada x kg.",
     "categoria": "Frutas Y Verduras",
@@ -81,13 +45,22 @@
     "diff_pct": 40.16
   },
   {
-    "ean": "7790645002066",
-    "nombre": "caballa caracas x 380 gm natural",
-    "categoria": "Almacen",
-    "precio_antes": 5451.0,
-    "precio_hoy": 7417.0,
-    "diff_abs": 1966.0,
-    "diff_pct": 36.07
+    "ean": "2022210000005",
+    "nombre": "tomate perita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 40.08
+  },
+  {
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1790.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 700.0,
+    "diff_pct": 39.11
   },
   {
     "ean": "2021680000003",
@@ -99,15 +72,6 @@
     "diff_pct": 33.44
   },
   {
-    "ean": "7790079022647",
-    "nombre": "salame tipo milan paladini fetas + finas x 180 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5283.0,
-    "precio_hoy": 7044.0,
-    "diff_abs": 1761.0,
-    "diff_pct": 33.33
-  },
-  {
     "ean": "2030920000000",
     "nombre": "puerro x kg.",
     "categoria": "Frutas Y Verduras",
@@ -117,8 +81,8 @@
     "diff_pct": 31.66
   },
   {
-    "ean": "2022040000008",
-    "nombre": "repollo blanco x kg.",
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 1990.0,
     "precio_hoy": 2490.0,
@@ -135,48 +99,84 @@
     "diff_pct": 25.06
   },
   {
-    "ean": "2010690000004",
-    "nombre": "salame baston paladini picado fino x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 28447.0,
-    "precio_hoy": 35562.0,
-    "diff_abs": 7115.0,
-    "diff_pct": 25.01
+    "ean": "2022130000000",
+    "nombre": "tomate cherry x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 10990.0,
+    "precio_hoy": 12990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 18.2
   },
   {
-    "ean": "7790079000638",
-    "nombre": "leberwurst paladini x 250 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2875.0,
-    "precio_hoy": 3594.0,
-    "diff_abs": 719.0,
-    "diff_pct": 25.01
+    "ean": "7798130190076",
+    "nombre": "ciruelas sin carozo zyma x 250 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 6055.0,
+    "precio_hoy": 7091.0,
+    "diff_abs": 1036.0,
+    "diff_pct": 17.11
   },
   {
-    "ean": "2023670000000",
-    "nombre": "salame baston paladini picado grueso x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 28450.0,
-    "precio_hoy": 35562.0,
-    "diff_abs": 7112.0,
-    "diff_pct": 25.0
+    "ean": "2019990000004",
+    "nombre": "apio x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 16.72
   },
   {
-    "ean": "2015610000003",
-    "nombre": "salamin tipo crespon paladini x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 27461.0,
-    "precio_hoy": 34325.0,
-    "diff_abs": 6864.0,
-    "diff_pct": 25.0
+    "ean": "2020180000001",
+    "nombre": "calabacita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
   },
   {
-    "ean": "2015600000006",
-    "nombre": "salamin picado fino paladini x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 27461.0,
-    "precio_hoy": 34325.0,
-    "diff_abs": 6864.0,
-    "diff_pct": 25.0
+    "ean": "2022220000002",
+    "nombre": "tomate redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
+  },
+  {
+    "ean": "2020120000009",
+    "nombre": "berengena negra x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
+  },
+  {
+    "ean": "2020920000001",
+    "nombre": "lechuga mantecosa x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3490.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 14.33
+  },
+  {
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 14.31
+  },
+  {
+    "ean": "2020310000000",
+    "nombre": "cebolla morada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 14.31
   }
 ]

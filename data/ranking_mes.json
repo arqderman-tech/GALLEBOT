@@ -18,13 +18,13 @@
     "diff_pct": 150.75
   },
   {
-    "ean": "2021660000009",
-    "nombre": "zapallito redondo x kg.",
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3490.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 3500.0,
-    "diff_pct": 100.29
+    "precio_hoy": 7990.0,
+    "diff_abs": 4500.0,
+    "diff_pct": 128.94
   },
   {
     "ean": "2020120000009",
@@ -36,8 +36,8 @@
     "diff_pct": 100.29
   },
   {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
+    "ean": "2021660000009",
+    "nombre": "zapallito redondo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3490.0,
     "precio_hoy": 6990.0,
@@ -52,6 +52,15 @@
     "precio_hoy": 6990.0,
     "diff_abs": 3000.0,
     "diff_pct": 75.19
+  },
+  {
+    "ean": "2020730000000",
+    "nombre": "espinaca atado",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1190.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 800.0,
+    "diff_pct": 67.23
   },
   {
     "ean": "2020260000006",
@@ -81,24 +90,6 @@
     "diff_pct": 60.06
   },
   {
-    "ean": "7790079025648",
-    "nombre": "pizzeta paladini x 205 gm mozarella y jamon",
-    "categoria": "Congelados",
-    "precio_antes": 4445.0,
-    "precio_hoy": 6862.0,
-    "diff_abs": 2417.0,
-    "diff_pct": 54.38
-  },
-  {
-    "ean": "7790079025655",
-    "nombre": "pizzeta paladini x 190 gm mozarella",
-    "categoria": "Congelados",
-    "precio_antes": 4230.0,
-    "precio_hoy": 6530.0,
-    "diff_abs": 2300.0,
-    "diff_pct": 54.37
-  },
-  {
     "ean": "2020910000004",
     "nombre": "lechuga de hoja x kg.",
     "categoria": "Frutas Y Verduras",
@@ -124,15 +115,6 @@
     "precio_hoy": 1390.0,
     "diff_abs": 403.0,
     "diff_pct": 40.83
-  },
-  {
-    "ean": "7790079022647",
-    "nombre": "salame tipo milan paladini fetas + finas x 180 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5032.0,
-    "precio_hoy": 7044.0,
-    "diff_abs": 2012.0,
-    "diff_pct": 39.98
   },
   {
     "ean": "2032010000006",
@@ -171,6 +153,15 @@
     "diff_pct": 33.39
   },
   {
+    "ean": "7790070265104",
+    "nombre": "aceite de oliva copcinero extra virgen x 250 ml",
+    "categoria": "Almacen",
+    "precio_antes": 7085.7,
+    "precio_hoy": 9315.0,
+    "diff_abs": 2229.3,
+    "diff_pct": 31.46
+  },
+  {
     "ean": "7790070231697",
     "nombre": "aceite de maiz lira x 900 ml.",
     "categoria": "Almacen",
@@ -178,5 +169,14 @@
     "precio_hoy": 8057.0,
     "diff_abs": 1928.0,
     "diff_pct": 31.46
+  },
+  {
+    "ean": "7790070265098",
+    "nombre": "aceite de oliva cocinero extra virgen x 500 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 12905.0,
+    "precio_hoy": 16964.0,
+    "diff_abs": 4059.0,
+    "diff_pct": 31.45
   }
 ]
