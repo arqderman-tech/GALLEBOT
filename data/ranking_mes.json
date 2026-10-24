@@ -117,6 +117,15 @@
     "diff_pct": 40.83
   },
   {
+    "ean": "2020100000005",
+    "nombre": "berenjena morada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 40.08
+  },
+  {
     "ean": "2032010000006",
     "nombre": "semillas de zapallo premium x kilo la nueva estrella",
     "categoria": "Almacen",
@@ -169,14 +178,5 @@
     "precio_hoy": 8057.0,
     "diff_abs": 1928.0,
     "diff_pct": 31.46
-  },
-  {
-    "ean": "7790070265098",
-    "nombre": "aceite de oliva cocinero extra virgen x 500 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 12905.0,
-    "precio_hoy": 16964.0,
-    "diff_abs": 4059.0,
-    "diff_pct": 31.45
   }
 ]
