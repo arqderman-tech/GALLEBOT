@@ -25,10 +25,13 @@ Seguimiento diario automático de precios del supermercado La Gallega (lagallega
 ```
 ├── lagallega_scraper.py        # Scraper con Playwright
 ├── analizar_precios_gallega.py # Procesamiento y JSONs
+├── precios_store.py            # Lectura/escritura del histórico partido (ver DATOS_PARTICIONADOS.md)
 ├── generar_web_gallega.py      # Genera el HTML
 ├── data/
 │   ├── output/                 # CSVs diarios crudos
-│   ├── precios_compacto.csv    # Histórico unificado
+│   ├── precios/                # Histórico unificado, partido en archivos de máx. 50 MB
+│   │   ├── precios_0001.csv    #   (leer/escribir SIEMPRE vía precios_store.py)
+│   │   └── manifest.json
 │   ├── resumen.json
 │   ├── graficos.json
 │   └── ranking_*.json

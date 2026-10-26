@@ -3,7 +3,8 @@ analizar_precios_gallega.py
 ============================
 Lee los CSVs de data/output/ y genera los JSONs para la web.
 
-- Una fila por producto por día en data/precios_compacto.csv
+- Una fila por producto por día en data/precios/precios_NNNN.csv (partido en
+  archivos de máx. 50 MB; todo el acceso pasa por precios_store.py)
 - Índices % acumulados día a día
 - Comparaciones vs día/7d/30d/6m/1y
 - Categorías principales
@@ -16,8 +17,9 @@ import pandas as pd
 from datetime import datetime, timedelta
 from pathlib import Path
 
-DIR_DATA         = Path("data")
-PRECIOS_COMPACTO = DIR_DATA / "precios_compacto.csv"
+import precios_store as store
+
+DIR_DATA = Path("data")
 
 ORDEN_CATS = [
     "Almacén",
@@ -63,17 +65,46 @@ def preparar_df_dia(df_raw, fecha_str):
 
 
 # ── ALMACENAMIENTO ────────────────────────────────────────────────────────────
+# El histórico vive en data/precios/ (ver precios_store.py y DATOS_PARTICIONADOS.md).
 def guardar_compacto(df_dia, fecha_str):
+    """Guarda el día (reemplazándolo si ya estaba) y devuelve todo el histórico."""
     DIR_DATA.mkdir(parents=True, exist_ok=True)
-    if PRECIOS_COMPACTO.exists():
-        df_hist = pd.read_csv(PRECIOS_COMPACTO, dtype={"ean": str, "fecha": str})
-        df_hist = df_hist[df_hist["fecha"] != fecha_str]
-        df_nuevo = pd.concat([df_hist, df_dia], ignore_index=True)
+    return store.guardar_dia(df_dia, fecha_str)
+
+
+def reconstruir_historico():
+    """Rearma todo el histórico desde los CSV diarios de data/output/.
+    Sirve si se perdió el histórico: los crudos tienen la misma información."""
+    por_dia = {}
+    for archivo in sorted(glob.glob("data/output/gallega_*.csv")):
+        fecha = Path(archivo).name.split("_")[1]
+        try:
+            df = pd.read_csv(archivo, encoding="utf-8-sig")
+        except Exception as e:
+            print(f"  ERROR: {archivo}: {e}")
+            continue
+        if not df.empty:
+            por_dia.setdefault(fecha, []).append(df)
+    dias = []
+    for fecha, dfs in sorted(por_dia.items()):
+        d = preparar_df_dia(pd.concat(dfs, ignore_index=True), fecha)
+        if not d.empty:
+            dias.append(d)
+    if not dias:
+        return pd.DataFrame(columns=store.COLUMNAS)
+    print(f"  Reconstruyendo histórico desde data/output/ ({len(dias)} días)")
+    return store.reescribir_todo(pd.concat(dias, ignore_index=True))
+
+
+def asegurar_historico():
+    """Garantiza que exista el histórico en partes, venga de donde venga."""
+    if store.hay_datos():
+        return
+    if store.hay_legado():
+        store.migrar_legado()
     else:
-        df_nuevo = df_dia
-    df_nuevo.to_csv(PRECIOS_COMPACTO, index=False)
-    print(f"  precios_compacto.csv: {len(df_nuevo)} filas")
-    return df_nuevo
+        print("  No hay histórico guardado: se reconstruye desde data/output/")
+        reconstruir_historico()
 
 
 # ── COMPARACIÓN ───────────────────────────────────────────────────────────────
@@ -181,6 +212,15 @@ def generar_graficos_data(df_hist):
 # ── MAIN ──────────────────────────────────────────────────────────────────────
 def main():
     solo_graficos = "--solo-graficos" in sys.argv
+    if "--reconstruir-historico" in sys.argv:
+        reconstruir_historico()
+        return
+    if "--migrar-legado" in sys.argv:
+        if store.hay_legado():
+            store.migrar_legado()
+        else:
+            print(f"No existe {store.LEGADO}")
+        return
     print(f"\n{'='*60}")
     print(f"  ANÁLISIS LA GALLEGA — {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     if solo_graficos:
@@ -191,10 +231,11 @@ def main():
     DIR_DATA.mkdir(parents=True, exist_ok=True)
 
     if solo_graficos:
-        if not PRECIOS_COMPACTO.exists():
-            print("ERROR: No existe precios_compacto.csv")
+        asegurar_historico()
+        df_hist = store.leer_todo()
+        if df_hist.empty:
+            print("ERROR: No hay histórico de precios")
             return
-        df_hist = pd.read_csv(PRECIOS_COMPACTO, dtype={"ean": str, "fecha": str})
         fecha_hoy = sorted(df_hist["fecha"].unique())[-1]
         df_dia = df_hist[df_hist["fecha"] == fecha_hoy].copy()
         print(f"  Usando fecha más reciente: {fecha_hoy} ({len(df_dia)} prods)")
@@ -204,6 +245,7 @@ def main():
         if df_raw is None:
             return
         df_dia = preparar_df_dia(df_raw, fecha_hoy)
+        asegurar_historico()
         print("\n[2/5] Guardando histórico ...")
         df_hist = guardar_compacto(df_dia, fecha_hoy)
 
