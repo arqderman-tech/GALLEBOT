@@ -1,0 +1,26 @@
+{
+  "max_bytes": 52428800,
+  "partes": [
+    {
+      "archivo": "precios_0001.csv",
+      "filas": 601235,
+      "bytes": 51907251,
+      "fecha_min": "20260220",
+      "fecha_max": "20260701"
+    },
+    {
+      "archivo": "precios_0002.csv",
+      "filas": 600906,
+      "bytes": 51961661,
+      "fecha_min": "20260702",
+      "fecha_max": "20261023"
+    },
+    {
+      "archivo": "precios_0003.csv",
+      "filas": 13575,
+      "bytes": 1178988,
+      "fecha_min": "20261024",
+      "fecha_max": "20261026"
+    }
+  ]
+}
