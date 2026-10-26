@@ -1,9 +1,9 @@
 {
   "fecha": "20261026",
-  "total_productos": 6785,
-  "variacion_dia": 0.0,
-  "variacion_7d": 0.14,
-  "variacion_mes": 0.61,
+  "total_productos": 6825,
+  "variacion_dia": 0.03,
+  "variacion_7d": 0.17,
+  "variacion_mes": 0.63,
   "variacion_anio": null,
   "categorias_dia": [
     {
@@ -11,14 +11,14 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1550
+      "total_productos": 1551
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 1206
+      "variacion_pct_promedio": 0.14,
+      "productos_subieron": 11,
+      "productos_bajaron": 12,
+      "total_productos": 1207
     },
     {
       "categoria": "Congelados",
@@ -39,109 +39,109 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 964
+      "total_productos": 965
     },
     {
       "categoria": "Almacen",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1979
+      "total_productos": 1981
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790310985830",
-      "nombre": "3ds queso x 85 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 3981.0,
-      "precio_hoy": 3981.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2021820000009",
+      "nombre": "pimiento rojo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 15990.0,
+      "precio_hoy": 10990.0,
+      "diff_abs": -5000.0,
+      "diff_pct": -31.27
     },
     {
-      "ean": "7790310985137",
-      "nombre": "3ds queso x143gr.",
-      "categoria": "Almacen",
-      "precio_antes": 5545.0,
-      "precio_hoy": 5545.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2021650000002",
+      "nombre": "zapallito largo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 7990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -25.03
     },
     {
-      "ean": "7790310985113",
-      "nombre": "3ds sabor queso x 43 gm",
-      "categoria": "Almacen",
-      "precio_antes": 2370.0,
-      "precio_hoy": 2370.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2020310000000",
+      "nombre": "cebolla morada x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 7990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -25.03
     },
     {
-      "ean": "7791728246629",
-      "nombre": "ac. de oliva zuccardi x 500 ml coratina",
-      "categoria": "Almacen",
-      "precio_antes": 24484.0,
-      "precio_hoy": 24484.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2021790000009",
+      "nombre": "pimiento amarillo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 12990.0,
+      "precio_hoy": 9990.0,
+      "diff_abs": -3000.0,
+      "diff_pct": -23.09
     },
     {
-      "ean": "763571722428",
-      "nombre": "ac.de coco entrenuts x200virg.",
-      "categoria": "Almacen",
-      "precio_antes": 9564.0,
-      "precio_hoy": 9564.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2022060000002",
+      "nombre": "repollo colorado x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -500.0,
+      "diff_pct": -20.08
     },
     {
-      "ean": "7798080520657",
-      "nombre": "ac.ol.l.toscana x250ml.ajo",
-      "categoria": "Almacen",
-      "precio_antes": 10398.0,
-      "precio_hoy": 10398.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2022040000008",
+      "nombre": "repollo blanco x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -500.0,
+      "diff_pct": -20.08
     },
     {
-      "ean": "7798080520534",
-      "nombre": "ac.ol.l.toscana x250ml.albahac",
-      "categoria": "Almacen",
-      "precio_antes": 10398.0,
-      "precio_hoy": 10398.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2020370000002",
+      "nombre": "chaucha rolliza x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 9990.0,
+      "precio_hoy": 7990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -20.02
     },
     {
-      "ean": "7791728246612",
-      "nombre": "ac.ol.zuccardi x250ml.coratina",
-      "categoria": "Almacen",
-      "precio_antes": 14282.0,
-      "precio_hoy": 14282.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2021660000009",
+      "nombre": "zapallito redondo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -14.31
     },
     {
-      "ean": "7791728246575",
-      "nombre": "ac.ol.zuccardi x250ml.picual",
-      "categoria": "Almacen",
-      "precio_antes": 14282.0,
-      "precio_hoy": 14282.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2020290000007",
+      "nombre": "cebolla blanca x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -14.31
     },
     {
-      "ean": "7791728241181",
-      "nombre": "ac.ol.zuelo x500ml.bot.intenso",
-      "categoria": "Almacen",
-      "precio_antes": 19077.0,
-      "precio_hoy": 19077.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2020180000001",
+      "nombre": "calabacita x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -14.31
     }
   ],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 6779
+  "productos_subieron_dia": 11,
+  "productos_bajaron_dia": 12,
+  "productos_sin_cambio_dia": 6761
 }

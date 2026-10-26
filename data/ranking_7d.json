@@ -4,9 +4,27 @@
     "nombre": "espinaca atado",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 151.52
+  },
+  {
+    "ean": "2022080000006",
+    "nombre": "rucula x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 990.0,
     "precio_hoy": 1990.0,
     "diff_abs": 1000.0,
     "diff_pct": 101.01
+  },
+  {
+    "ean": "2020980000003",
+    "nombre": "limones x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
   },
   {
     "ean": "2022130000000",
@@ -25,6 +43,15 @@
     "precio_hoy": 2990.0,
     "diff_abs": 1000.0,
     "diff_pct": 50.25
+  },
+  {
+    "ean": "2019990000004",
+    "nombre": "apio x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3490.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 42.98
   },
   {
     "ean": "2020920000001",
@@ -54,6 +81,33 @@
     "diff_pct": 33.44
   },
   {
+    "ean": "2020570000000",
+    "nombre": "coliflor x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
+  },
+  {
+    "ean": "2020960000009",
+    "nombre": "lechuga repollada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
+  },
+  {
+    "ean": "2022030000001",
+    "nombre": "repollitos de brusellas en bandeja",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
+  },
+  {
     "ean": "2030920000000",
     "nombre": "puerro x kg.",
     "categoria": "Frutas Y Verduras",
@@ -72,22 +126,13 @@
     "diff_pct": 25.32
   },
   {
-    "ean": "2022040000008",
-    "nombre": "repollo blanco x kg.",
+    "ean": "2021550000003",
+    "nombre": "pepino x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
-  },
-  {
-    "ean": "2022060000002",
-    "nombre": "repollo colorado x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
   },
   {
     "ean": "2020300000003",
@@ -99,8 +144,26 @@
     "diff_pct": 25.06
   },
   {
+    "ean": "2037320000005",
+    "nombre": "curcuma x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 25.03
+  },
+  {
     "ean": "2020160000007",
     "nombre": "brocoli x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
+  },
+  {
+    "ean": "2021850000000",
+    "nombre": "pia?a?a x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 4990.0,
     "precio_hoy": 5990.0,
@@ -115,68 +178,5 @@
     "precio_hoy": 7091.0,
     "diff_abs": 1036.0,
     "diff_pct": 17.11
-  },
-  {
-    "ean": "2020960000009",
-    "nombre": "lechuga repollada x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 16.72
-  },
-  {
-    "ean": "2022220000002",
-    "nombre": "tomate redondo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
-  },
-  {
-    "ean": "2022210000005",
-    "nombre": "tomate perita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
-  },
-  {
-    "ean": "2021650000002",
-    "nombre": "zapallito largo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 14.31
-  },
-  {
-    "ean": "2021640000005",
-    "nombre": "zanahoria suelta x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2190.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 300.0,
-    "diff_pct": 13.7
-  },
-  {
-    "ean": "7798130192544",
-    "nombre": "maiz zyma frito salado x 100 gr",
-    "categoria": "Almacen",
-    "precio_antes": 3222.0,
-    "precio_hoy": 3616.0,
-    "diff_abs": 394.0,
-    "diff_pct": 12.23
-  },
-  {
-    "ean": "7798130190854",
-    "nombre": "mix salado zyma x150gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3949.0,
-    "precio_hoy": 4414.0,
-    "diff_abs": 465.0,
-    "diff_pct": 11.78
   }
 ]
