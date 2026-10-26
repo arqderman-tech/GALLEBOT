@@ -29,6 +29,10 @@ jobs:
       - name: Generar web
         run: python generar_web_gallega.py
 
+      - name: Avisar si algún archivo se acerca al límite de GitHub
+        run: |
+          find data docs -type f -size +80M -exec sh -c 'echo "::warning::$1 pesa más de 80 MB (GitHub bloquea a 100 MB)"' _ {} \;
+
       - name: Commit y push
         run: |
           git config user.name "github-actions[bot]"
