@@ -36,15 +36,6 @@
     "diff_pct": 75.19
   },
   {
-    "ean": "2020980000003",
-    "nombre": "limones x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
-  },
-  {
     "ean": "2021550000003",
     "nombre": "pepino x kg.",
     "categoria": "Frutas Y Verduras",
@@ -54,8 +45,8 @@
     "diff_pct": 66.89
   },
   {
-    "ean": "2019950000006",
-    "nombre": "akusay x kg.",
+    "ean": "2020980000003",
+    "nombre": "limones x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 4990.0,
@@ -81,8 +72,8 @@
     "diff_pct": 50.17
   },
   {
-    "ean": "7790093521782",
-    "nombre": "vino cafayate x750ml.malbec",
+    "ean": "7790093521775",
+    "nombre": "vino cafayate x750ml.cabernet",
     "categoria": "Bebidas",
     "precio_antes": 5007.0,
     "precio_hoy": 7518.0,
@@ -99,15 +90,6 @@
     "diff_pct": 50.15
   },
   {
-    "ean": "7790093521775",
-    "nombre": "vino cafayate x750ml.cabernet",
-    "categoria": "Bebidas",
-    "precio_antes": 5007.0,
-    "precio_hoy": 7518.0,
-    "diff_abs": 2511.0,
-    "diff_pct": 50.15
-  },
-  {
     "ean": "7790093521805",
     "nombre": "vino blanco cafayate dulce tardio x 750 ml.",
     "categoria": "Bebidas",
@@ -117,13 +99,22 @@
     "diff_pct": 50.15
   },
   {
-    "ean": "2700006100107",
-    "nombre": "individuales",
-    "categoria": "Limpieza",
-    "precio_antes": 987.0,
-    "precio_hoy": 1390.0,
-    "diff_abs": 403.0,
-    "diff_pct": 40.83
+    "ean": "7790093521782",
+    "nombre": "vino cafayate x750ml.malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 5007.0,
+    "precio_hoy": 7518.0,
+    "diff_abs": 2511.0,
+    "diff_pct": 50.15
+  },
+  {
+    "ean": "2019950000006",
+    "nombre": "akusay x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3490.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 42.98
   },
   {
     "ean": "2020100000005",
@@ -153,8 +144,8 @@
     "diff_pct": 36.06
   },
   {
-    "ean": "2022030000001",
-    "nombre": "repollitos de brusellas en bandeja",
+    "ean": "2021680000003",
+    "nombre": "zapallo brasilero x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 3990.0,
@@ -162,8 +153,8 @@
     "diff_pct": 33.44
   },
   {
-    "ean": "2021680000003",
-    "nombre": "zapallo brasilero x kg.",
+    "ean": "2022030000001",
+    "nombre": "repollitos de brusellas en bandeja",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 3990.0,
@@ -177,6 +168,15 @@
     "precio_antes": 6129.0,
     "precio_hoy": 8057.0,
     "diff_abs": 1928.0,
+    "diff_pct": 31.46
+  },
+  {
+    "ean": "7790070265104",
+    "nombre": "aceite de oliva copcinero extra virgen x 250 ml",
+    "categoria": "Almacen",
+    "precio_antes": 7085.7,
+    "precio_hoy": 9315.0,
+    "diff_abs": 2229.3,
     "diff_pct": 31.46
   }
 ]

@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2022080000006",
-    "nombre": "rucula x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 101.01
+    "ean": "7790072002080",
+    "nombre": "sal fina celusal con pico vertedor x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1766.0,
+    "precio_hoy": 2026.0,
+    "diff_abs": 260.0,
+    "diff_pct": 14.72
   },
   {
-    "ean": "2020980000003",
-    "nombre": "limones x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
+    "ean": "7793704000836",
+    "nombre": "miel flores liebig x 500 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 7183.0,
+    "precio_hoy": 7901.0,
+    "diff_abs": 718.0,
+    "diff_pct": 10.0
   },
   {
-    "ean": "2019990000004",
-    "nombre": "apio x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 42.98
+    "ean": "7790072001014",
+    "nombre": "sal celusal fina paq.x500gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1644.0,
+    "precio_hoy": 1789.0,
+    "diff_abs": 145.0,
+    "diff_pct": 8.82
   },
   {
-    "ean": "2022030000001",
-    "nombre": "repollitos de brusellas en bandeja",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
+    "ean": "7793704000805",
+    "nombre": "yerba mate liebig original x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 3239.0,
+    "precio_hoy": 3402.0,
+    "diff_abs": 163.0,
+    "diff_pct": 5.03
   },
   {
-    "ean": "2020570000000",
-    "nombre": "coliflor x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
+    "ean": "7793704000911",
+    "nombre": "yerba mate playadito x 500 gr. suave",
+    "categoria": "Perfumeria",
+    "precio_antes": 2653.0,
+    "precio_hoy": 2786.0,
+    "diff_abs": 133.0,
+    "diff_pct": 5.01
   },
   {
-    "ean": "2020730000000",
-    "nombre": "espinaca atado",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
+    "ean": "7793704000508",
+    "nombre": "yerba mate playadito x 500 gr. hierbas",
+    "categoria": "Perfumeria",
+    "precio_antes": 3056.0,
+    "precio_hoy": 3209.0,
+    "diff_abs": 153.0,
+    "diff_pct": 5.01
   },
   {
-    "ean": "2021550000003",
-    "nombre": "pepino x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
+    "ean": "7793704000928",
+    "nombre": "yerba mate playadito suave x 1 kg.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4960.0,
+    "precio_hoy": 5208.0,
+    "diff_abs": 248.0,
+    "diff_pct": 5.0
   },
   {
-    "ean": "2037320000005",
-    "nombre": "curcuma x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 25.03
+    "ean": "7793704000881",
+    "nombre": "yerba mate playadito x 500 gr. despalada",
+    "categoria": "Perfumeria",
+    "precio_antes": 3605.0,
+    "precio_hoy": 3785.0,
+    "diff_abs": 180.0,
+    "diff_pct": 4.99
   },
   {
-    "ean": "2021850000000",
-    "nombre": "pia?a?a x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
+    "ean": "7790975206257",
+    "nombre": "champ.chandon x187ml.aperitif",
+    "categoria": "Bebidas",
+    "precio_antes": 5804.0,
+    "precio_hoy": 5926.0,
+    "diff_abs": 122.0,
+    "diff_pct": 2.1
   },
   {
-    "ean": "2020960000009",
-    "nombre": "lechuga repollada x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 14.33
+    "ean": "7790975206219",
+    "nombre": "espumante chandon rose x 187 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5804.0,
+    "precio_hoy": 5926.0,
+    "diff_abs": 122.0,
+    "diff_pct": 2.1
   },
   {
-    "ean": "2020410000009",
-    "nombre": "choclo elegido x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 8990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 12.52
+    "ean": "7790975206332",
+    "nombre": "espumante chandon extra brut x 187 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5804.0,
+    "precio_hoy": 5926.0,
+    "diff_abs": 122.0,
+    "diff_pct": 2.1
   },
   {
-    "ean": "7798060854482",
-    "nombre": "queso untable patagonia x 290 gm light",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3172.4,
-    "precio_hoy": 3172.4,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790975017037",
+    "nombre": "vino blanco altos del plata chardonnay x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 10833.0,
+    "precio_hoy": 11053.0,
+    "diff_abs": 220.0,
+    "diff_pct": 2.03
   },
   {
-    "ean": "7798060854475",
-    "nombre": "queso untable patagonia x 290 gr clasico",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3172.0,
-    "precio_hoy": 3172.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790975199092",
+    "nombre": "champagne chandon en caja x 2 unidades de 375 ml extra brut",
+    "categoria": "Bebidas",
+    "precio_antes": 20364.0,
+    "precio_hoy": 20777.0,
+    "diff_abs": 413.0,
+    "diff_pct": 2.03
   },
   {
-    "ean": "7794990184491",
-    "nombre": "queso untable ricrem clasico x 180 gr",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1785.0,
-    "precio_hoy": 1785.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790975017013",
+    "nombre": "vino tinto altos del plata malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 10833.0,
+    "precio_hoy": 11053.0,
+    "diff_abs": 220.0,
+    "diff_pct": 2.03
   },
   {
-    "ean": "7794990184507",
-    "nombre": "queso untable ricrem jamon x 180 gr",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1785.0,
-    "precio_hoy": 1785.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790975017020",
+    "nombre": "vino tinto altos del plata cabernet sauvignon x 75",
+    "categoria": "Bebidas",
+    "precio_antes": 10833.0,
+    "precio_hoy": 11053.0,
+    "diff_abs": 220.0,
+    "diff_pct": 2.03
   },
   {
-    "ean": "7798060853003",
-    "nombre": "queso untable tonadita clasico x 180 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2226.0,
-    "precio_hoy": 2226.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790975198859",
+    "nombre": "espumante chandon x 375 ml. extra brut",
+    "categoria": "Bebidas",
+    "precio_antes": 10483.0,
+    "precio_hoy": 10696.0,
+    "diff_abs": 213.0,
+    "diff_pct": 2.03
   },
   {
-    "ean": "7798060853119",
-    "nombre": "queso untable tonadita dip cheddar x 180 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2573.0,
-    "precio_hoy": 2573.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790975001500",
+    "nombre": "vino blanco terrazas reserva x 750 ml. chardonnay",
+    "categoria": "Bebidas",
+    "precio_antes": 19662.0,
+    "precio_hoy": 20059.0,
+    "diff_abs": 397.0,
+    "diff_pct": 2.02
   },
   {
-    "ean": "7798060854345",
-    "nombre": "queso untable patagonia x 180 gm clasico",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2221.0,
-    "precio_hoy": 2221.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790975198590",
+    "nombre": "espumante chandon rose x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 20015.0,
+    "precio_hoy": 20419.0,
+    "diff_abs": 404.0,
+    "diff_pct": 2.02
   },
   {
-    "ean": "7798060854352",
-    "nombre": "queso untable patagonia  x 180 gm light",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2221.0,
-    "precio_hoy": 2221.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790975198651",
+    "nombre": "espumante chandon delice x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 20015.0,
+    "precio_hoy": 20419.0,
+    "diff_abs": 404.0,
+    "diff_pct": 2.02
   },
   {
-    "ean": "7798060853034",
-    "nombre": "queso untable tonadita x 180 gr. gruyere",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2226.0,
-    "precio_hoy": 2226.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790975198873",
+    "nombre": "espumante chandon brut rose x 375 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 10484.0,
+    "precio_hoy": 10696.0,
+    "diff_abs": 212.0,
+    "diff_pct": 2.02
   }
 ]
