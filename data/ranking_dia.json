@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790072002080",
-    "nombre": "sal fina celusal con pico vertedor x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1766.0,
-    "precio_hoy": 2026.0,
-    "diff_abs": 260.0,
-    "diff_pct": 14.72
+    "ean": "2021680000003",
+    "nombre": "zapallo brasilero x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
   },
   {
-    "ean": "7793704000836",
-    "nombre": "miel flores liebig x 500 gm",
+    "ean": "2022220000002",
+    "nombre": "tomate redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 14.31
+  },
+  {
+    "ean": "7798120180933",
+    "nombre": "galletitas mini crakers manieri x 200 gr saladas",
     "categoria": "Perfumeria",
-    "precio_antes": 7183.0,
-    "precio_hoy": 7901.0,
-    "diff_abs": 718.0,
-    "diff_pct": 10.0
+    "precio_antes": 939.9,
+    "precio_hoy": 1006.0,
+    "diff_abs": 66.1,
+    "diff_pct": 7.03
   },
   {
-    "ean": "7790072001014",
-    "nombre": "sal celusal fina paq.x500gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1644.0,
-    "precio_hoy": 1789.0,
-    "diff_abs": 145.0,
-    "diff_pct": 8.82
-  },
-  {
-    "ean": "7793704000805",
-    "nombre": "yerba mate liebig original x 500 gr.",
+    "ean": "7798120180940",
+    "nombre": "galletitas mini crakers manieri x 200 gr salvado",
     "categoria": "Perfumeria",
-    "precio_antes": 3239.0,
-    "precio_hoy": 3402.0,
-    "diff_abs": 163.0,
-    "diff_pct": 5.03
+    "precio_antes": 939.9,
+    "precio_hoy": 1006.0,
+    "diff_abs": 66.1,
+    "diff_pct": 7.03
   },
   {
-    "ean": "7793704000911",
-    "nombre": "yerba mate playadito x 500 gr. suave",
+    "ean": "7798120180964",
+    "nombre": "galletitas mini crakers manieri x 200 gr sin sal",
     "categoria": "Perfumeria",
-    "precio_antes": 2653.0,
-    "precio_hoy": 2786.0,
-    "diff_abs": 133.0,
-    "diff_pct": 5.01
+    "precio_antes": 939.9,
+    "precio_hoy": 1006.0,
+    "diff_abs": 66.1,
+    "diff_pct": 7.03
   },
   {
-    "ean": "7793704000508",
-    "nombre": "yerba mate playadito x 500 gr. hierbas",
+    "ean": "7798120180957",
+    "nombre": "galletitas mini crakers manieri x 200 gr 4 semillas",
     "categoria": "Perfumeria",
-    "precio_antes": 3056.0,
-    "precio_hoy": 3209.0,
-    "diff_abs": 153.0,
-    "diff_pct": 5.01
+    "precio_antes": 939.9,
+    "precio_hoy": 1006.0,
+    "diff_abs": 66.1,
+    "diff_pct": 7.03
   },
   {
-    "ean": "7793704000928",
-    "nombre": "yerba mate playadito suave x 1 kg.",
+    "ean": "7798120180575",
+    "nombre": "tostadas manieri sin sal x 200 gr.",
     "categoria": "Perfumeria",
-    "precio_antes": 4960.0,
-    "precio_hoy": 5208.0,
-    "diff_abs": 248.0,
-    "diff_pct": 5.0
+    "precio_antes": 1345.0,
+    "precio_hoy": 1439.0,
+    "diff_abs": 94.0,
+    "diff_pct": 6.99
   },
   {
-    "ean": "7793704000881",
-    "nombre": "yerba mate playadito x 500 gr. despalada",
+    "ean": "7798120180551",
+    "nombre": "tostadas manieri dulce x 200 gm",
     "categoria": "Perfumeria",
-    "precio_antes": 3605.0,
-    "precio_hoy": 3785.0,
-    "diff_abs": 180.0,
-    "diff_pct": 4.99
+    "precio_antes": 1345.0,
+    "precio_hoy": 1439.0,
+    "diff_abs": 94.0,
+    "diff_pct": 6.99
   },
   {
-    "ean": "7790975206257",
-    "nombre": "champ.chandon x187ml.aperitif",
-    "categoria": "Bebidas",
-    "precio_antes": 5804.0,
-    "precio_hoy": 5926.0,
-    "diff_abs": 122.0,
-    "diff_pct": 2.1
+    "ean": "7798120180544",
+    "nombre": "tostadas manieri saladas x 200 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1345.0,
+    "precio_hoy": 1439.0,
+    "diff_abs": 94.0,
+    "diff_pct": 6.99
   },
   {
-    "ean": "7790975206219",
-    "nombre": "espumante chandon rose x 187 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 5804.0,
-    "precio_hoy": 5926.0,
-    "diff_abs": 122.0,
-    "diff_pct": 2.1
+    "ean": "7798120180568",
+    "nombre": "tostadas manieri salvado x 200 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 1345.0,
+    "precio_hoy": 1439.0,
+    "diff_abs": 94.0,
+    "diff_pct": 6.99
   },
   {
-    "ean": "7790975206332",
-    "nombre": "espumante chandon extra brut x 187 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 5804.0,
-    "precio_hoy": 5926.0,
-    "diff_abs": 122.0,
-    "diff_pct": 2.1
+    "ean": "7798120180599",
+    "nombre": "tostadas manieri salvado sin sal x 200 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1345.0,
+    "precio_hoy": 1439.0,
+    "diff_abs": 94.0,
+    "diff_pct": 6.99
   },
   {
-    "ean": "7790975017037",
-    "nombre": "vino blanco altos del plata chardonnay x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 10833.0,
-    "precio_hoy": 11053.0,
-    "diff_abs": 220.0,
-    "diff_pct": 2.03
+    "ean": "7798120180681",
+    "nombre": "tostadas manieri equilibrio x 200 gr 4 semillas",
+    "categoria": "Perfumeria",
+    "precio_antes": 1707.0,
+    "precio_hoy": 1826.0,
+    "diff_abs": 119.0,
+    "diff_pct": 6.97
   },
   {
-    "ean": "7790975199092",
-    "nombre": "champagne chandon en caja x 2 unidades de 375 ml extra brut",
-    "categoria": "Bebidas",
-    "precio_antes": 20364.0,
-    "precio_hoy": 20777.0,
-    "diff_abs": 413.0,
-    "diff_pct": 2.03
+    "ean": "7798120180773",
+    "nombre": "tostadas manieri equilibrio light x 200 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1525.0,
+    "precio_hoy": 1631.0,
+    "diff_abs": 106.0,
+    "diff_pct": 6.95
   },
   {
-    "ean": "7790975017013",
-    "nombre": "vino tinto altos del plata malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 10833.0,
-    "precio_hoy": 11053.0,
-    "diff_abs": 220.0,
-    "diff_pct": 2.03
+    "ean": "2027890000000",
+    "nombre": "cantimpalo espuna x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 37222.0,
+    "precio_hoy": 37222.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790975017020",
-    "nombre": "vino tinto altos del plata cabernet sauvignon x 75",
-    "categoria": "Bebidas",
-    "precio_antes": 10833.0,
-    "precio_hoy": 11053.0,
-    "diff_abs": 220.0,
-    "diff_pct": 2.03
+    "ean": "7793913001662",
+    "nombre": "arroz con leche tregar chocolate x 180 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1729.0,
+    "precio_hoy": 1729.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790975198859",
-    "nombre": "espumante chandon x 375 ml. extra brut",
-    "categoria": "Bebidas",
-    "precio_antes": 10483.0,
-    "precio_hoy": 10696.0,
-    "diff_abs": 213.0,
-    "diff_pct": 2.03
+    "ean": "2018560000000",
+    "nombre": "cantimpalo lario x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 32305.0,
+    "precio_hoy": 32305.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790975001500",
-    "nombre": "vino blanco terrazas reserva x 750 ml. chardonnay",
-    "categoria": "Bebidas",
-    "precio_antes": 19662.0,
-    "precio_hoy": 20059.0,
-    "diff_abs": 397.0,
-    "diff_pct": 2.02
+    "ean": "7795293601708",
+    "nombre": "capelletis don yeyo x 400 gm jamon yqueso",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4202.0,
+    "precio_hoy": 4202.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790975198590",
-    "nombre": "espumante chandon rose x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 20015.0,
-    "precio_hoy": 20419.0,
-    "diff_abs": 404.0,
-    "diff_pct": 2.02
+    "ean": "7798046441408",
+    "nombre": "carlito estadio x 250 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 8259.0,
+    "precio_hoy": 8259.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790975198651",
-    "nombre": "espumante chandon delice x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 20015.0,
-    "precio_hoy": 20419.0,
-    "diff_abs": 404.0,
-    "diff_pct": 2.02
+    "ean": "7794990191123",
+    "nombre": "alimento lacteo ricrem untable x 280 gr light",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2217.0,
+    "precio_hoy": 2217.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7790975198873",
-    "nombre": "espumante chandon brut rose x 375 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 10484.0,
-    "precio_hoy": 10696.0,
-    "diff_abs": 212.0,
-    "diff_pct": 2.02
+    "ean": "7798338291056",
+    "nombre": "chocolatada las 3 niaas x 200 ml reducida en lactosa",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1212.0,
+    "precio_hoy": 1212.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]
