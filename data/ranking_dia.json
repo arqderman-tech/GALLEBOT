@@ -1,181 +1,181 @@
 [
   {
-    "ean": "2021680000003",
-    "nombre": "zapallo brasilero x kg.",
+    "ean": "2021880000001",
+    "nombre": "pomelo sanguineo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 60.24
+  },
+  {
+    "ean": "2022440000004",
+    "nombre": "esparragos verdes paquete",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
+    "precio_hoy": 5990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.13
   },
   {
-    "ean": "2022220000002",
-    "nombre": "tomate redondo x kg.",
+    "ean": "2019990000004",
+    "nombre": "apio x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 7990.0,
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 14.31
+    "diff_pct": 20.04
   },
   {
-    "ean": "7798120180933",
-    "nombre": "galletitas mini crakers manieri x 200 gr saladas",
-    "categoria": "Perfumeria",
-    "precio_antes": 939.9,
-    "precio_hoy": 1006.0,
-    "diff_abs": 66.1,
-    "diff_pct": 7.03
+    "ean": "2021540000006",
+    "nombre": "pelon blanco x kilo",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 12990.0,
+    "precio_hoy": 14990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 15.4
   },
   {
-    "ean": "7798120180940",
-    "nombre": "galletitas mini crakers manieri x 200 gr salvado",
-    "categoria": "Perfumeria",
-    "precio_antes": 939.9,
-    "precio_hoy": 1006.0,
-    "diff_abs": 66.1,
-    "diff_pct": 7.03
+    "ean": "2021410000006",
+    "nombre": "naranja de ombligo x kilo",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1790.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 200.0,
+    "diff_pct": 11.17
   },
   {
-    "ean": "7798120180964",
-    "nombre": "galletitas mini crakers manieri x 200 gr sin sal",
-    "categoria": "Perfumeria",
-    "precio_antes": 939.9,
-    "precio_hoy": 1006.0,
-    "diff_abs": 66.1,
-    "diff_pct": 7.03
+    "ean": "2020890000001",
+    "nombre": "kiwi x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 11990.0,
+    "precio_hoy": 12990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 8.34
   },
   {
-    "ean": "7798120180957",
-    "nombre": "galletitas mini crakers manieri x 200 gr 4 semillas",
-    "categoria": "Perfumeria",
-    "precio_antes": 939.9,
-    "precio_hoy": 1006.0,
-    "diff_abs": 66.1,
-    "diff_pct": 7.03
-  },
-  {
-    "ean": "7798120180575",
-    "nombre": "tostadas manieri sin sal x 200 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1345.0,
-    "precio_hoy": 1439.0,
-    "diff_abs": 94.0,
-    "diff_pct": 6.99
-  },
-  {
-    "ean": "7798120180551",
-    "nombre": "tostadas manieri dulce x 200 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 1345.0,
-    "precio_hoy": 1439.0,
-    "diff_abs": 94.0,
-    "diff_pct": 6.99
-  },
-  {
-    "ean": "7798120180544",
-    "nombre": "tostadas manieri saladas x 200 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1345.0,
-    "precio_hoy": 1439.0,
-    "diff_abs": 94.0,
-    "diff_pct": 6.99
-  },
-  {
-    "ean": "7798120180568",
-    "nombre": "tostadas manieri salvado x 200 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 1345.0,
-    "precio_hoy": 1439.0,
-    "diff_abs": 94.0,
-    "diff_pct": 6.99
-  },
-  {
-    "ean": "7798120180599",
-    "nombre": "tostadas manieri salvado sin sal x 200 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1345.0,
-    "precio_hoy": 1439.0,
-    "diff_abs": 94.0,
-    "diff_pct": 6.99
-  },
-  {
-    "ean": "7798120180681",
-    "nombre": "tostadas manieri equilibrio x 200 gr 4 semillas",
-    "categoria": "Perfumeria",
-    "precio_antes": 1707.0,
-    "precio_hoy": 1826.0,
-    "diff_abs": 119.0,
-    "diff_pct": 6.97
-  },
-  {
-    "ean": "7798120180773",
-    "nombre": "tostadas manieri equilibrio light x 200 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1525.0,
-    "precio_hoy": 1631.0,
-    "diff_abs": 106.0,
-    "diff_pct": 6.95
-  },
-  {
-    "ean": "2027890000000",
-    "nombre": "cantimpalo espuna x kg.",
+    "ean": "7798060853003",
+    "nombre": "queso untable tonadita clasico x 180 gr.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 37222.0,
-    "precio_hoy": 37222.0,
+    "precio_antes": 2226.0,
+    "precio_hoy": 2226.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "ean": "7793913001662",
-    "nombre": "arroz con leche tregar chocolate x 180 gr.",
+    "ean": "7794990184507",
+    "nombre": "queso untable ricrem jamon x 180 gr",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1729.0,
-    "precio_hoy": 1729.0,
+    "precio_antes": 1785.0,
+    "precio_hoy": 1785.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "ean": "2018560000000",
-    "nombre": "cantimpalo lario x kg.",
+    "ean": "7794990184491",
+    "nombre": "queso untable ricrem clasico x 180 gr",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 32305.0,
-    "precio_hoy": 32305.0,
+    "precio_antes": 1785.0,
+    "precio_hoy": 1785.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "ean": "7795293601708",
-    "nombre": "capelletis don yeyo x 400 gm jamon yqueso",
+    "ean": "7790070621818",
+    "nombre": "ravioles la saltena cuatro quesos x 900 gr.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4202.0,
-    "precio_hoy": 4202.0,
+    "precio_antes": 8961.0,
+    "precio_hoy": 8961.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "ean": "7798046441408",
-    "nombre": "carlito estadio x 250 gm",
+    "ean": "7794080001257",
+    "nombre": "ravioles la morocha x 500 gr. ricota y espinaca",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 8259.0,
-    "precio_hoy": 8259.0,
+    "precio_antes": 3531.0,
+    "precio_hoy": 3531.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "ean": "7794990191123",
-    "nombre": "alimento lacteo ricrem untable x 280 gr light",
+    "ean": "7794080001271",
+    "nombre": "ravioles la morocha x 500 gr. jamon, ricotta y moz",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2217.0,
-    "precio_hoy": 2217.0,
+    "precio_antes": 3531.0,
+    "precio_hoy": 3531.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "ean": "7798338291056",
-    "nombre": "chocolatada las 3 niaas x 200 ml reducida en lactosa",
+    "ean": "7794080004173",
+    "nombre": "ravioles la morocha x 500 gr. 4 quesos",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1212.0,
-    "precio_hoy": 1212.0,
+    "precio_antes": 3531.0,
+    "precio_hoy": 3531.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7794080001516",
+    "nombre": "ravioles la morocha x 1 kg. espinaca y pollo",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 6414.0,
+    "precio_hoy": 6414.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7794080001523",
+    "nombre": "ravioles la morocha x 1 kg. cuatro quesos",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 6414.0,
+    "precio_hoy": 6414.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7794080001622",
+    "nombre": "ravioles la morocha x 1 kg. carne y verdura",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 6414.0,
+    "precio_hoy": 6414.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7794080000441",
+    "nombre": "ravioles la morocha ricota y queso x 500 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3531.0,
+    "precio_hoy": 3531.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7794820903094",
+    "nombre": "queso untable milkaut crematto balance x 285 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4399.0,
+    "precio_hoy": 4399.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7794820014967",
+    "nombre": "queso untable milkaut clasico x 190 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3146.0,
+    "precio_hoy": 3146.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790742326300",
+    "nombre": "queso untable ls sabores x 180 gr salame",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3122.0,
+    "precio_hoy": 3122.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   }
