@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2021880000001",
-    "nombre": "pomelo sanguineo x kg.",
+    "ean": "2019970000000",
+    "nombre": "alcauciles x unidad",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 60.24
+    "precio_antes": 790.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 700.0,
+    "diff_pct": 88.61
   },
   {
-    "ean": "2022440000004",
-    "nombre": "esparragos verdes paquete",
+    "ean": "2019880000008",
+    "nombre": "acelga x paquete",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
-  },
-  {
-    "ean": "2019990000004",
-    "nombre": "apio x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
-  },
-  {
-    "ean": "2021540000006",
-    "nombre": "pelon blanco x kilo",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 12990.0,
-    "precio_hoy": 14990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 15.4
-  },
-  {
-    "ean": "2021410000006",
-    "nombre": "naranja de ombligo x kilo",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1790.0,
-    "precio_hoy": 1990.0,
+    "precio_antes": 790.0,
+    "precio_hoy": 990.0,
     "diff_abs": 200.0,
-    "diff_pct": 11.17
+    "diff_pct": 25.32
   },
   {
-    "ean": "2020890000001",
-    "nombre": "kiwi x kg.",
+    "ean": "2011800000006",
+    "nombre": "frutas glaseadas x kg.",
+    "categoria": "Almacen",
+    "precio_antes": 19122.0,
+    "precio_hoy": 21990.0,
+    "diff_abs": 2868.0,
+    "diff_pct": 15.0
+  },
+  {
+    "ean": "2020000000006",
+    "nombre": "arandanos en bandeja",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 11990.0,
-    "precio_hoy": 12990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 8.34
+    "precio_antes": 2190.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 300.0,
+    "diff_pct": 13.7
   },
   {
-    "ean": "7798060853003",
-    "nombre": "queso untable tonadita clasico x 180 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2226.0,
-    "precio_hoy": 2226.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798334803123",
+    "nombre": "hummus kyros x230gr.clasico",
+    "categoria": "Almacen",
+    "precio_antes": 4572.0,
+    "precio_hoy": 4976.0,
+    "diff_abs": 404.0,
+    "diff_pct": 8.84
   },
   {
-    "ean": "7794990184507",
-    "nombre": "queso untable ricrem jamon x 180 gr",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1785.0,
-    "precio_hoy": 1785.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798334803475",
+    "nombre": "hummus kyros x 230 gr remolacha",
+    "categoria": "Almacen",
+    "precio_antes": 4572.0,
+    "precio_hoy": 4976.0,
+    "diff_abs": 404.0,
+    "diff_pct": 8.84
   },
   {
-    "ean": "7794990184491",
-    "nombre": "queso untable ricrem clasico x 180 gr",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1785.0,
-    "precio_hoy": 1785.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798334803208",
+    "nombre": "hummus kyros ajo ahumado x 230 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4572.0,
+    "precio_hoy": 4976.0,
+    "diff_abs": 404.0,
+    "diff_pct": 8.84
   },
   {
-    "ean": "7790070621818",
-    "nombre": "ravioles la saltena cuatro quesos x 900 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 8961.0,
-    "precio_hoy": 8961.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798334803116",
+    "nombre": "hummus con pimenton kyros x 230 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4572.0,
+    "precio_hoy": 4976.0,
+    "diff_abs": 404.0,
+    "diff_pct": 8.84
   },
   {
-    "ean": "7794080001257",
-    "nombre": "ravioles la morocha x 500 gr. ricota y espinaca",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3531.0,
-    "precio_hoy": 3531.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7798334803109",
+    "nombre": "hummus con aceite de oliva kyros x 230 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4572.0,
+    "precio_hoy": 4976.0,
+    "diff_abs": 404.0,
+    "diff_pct": 8.84
   },
   {
-    "ean": "7794080001271",
-    "nombre": "ravioles la morocha x 500 gr. jamon, ricotta y moz",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3531.0,
-    "precio_hoy": 3531.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "33844007461",
+    "nombre": "sazon badia x 155.9 gr pollo",
+    "categoria": "Almacen",
+    "precio_antes": 11989.0,
+    "precio_hoy": 12904.0,
+    "diff_abs": 915.0,
+    "diff_pct": 7.63
   },
   {
-    "ean": "7794080004173",
-    "nombre": "ravioles la morocha x 500 gr. 4 quesos",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3531.0,
-    "precio_hoy": 3531.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "33844002503",
+    "nombre": "curcuma badia x 56.7 gr molida",
+    "categoria": "Almacen",
+    "precio_antes": 11906.0,
+    "precio_hoy": 12815.0,
+    "diff_abs": 909.0,
+    "diff_pct": 7.63
   },
   {
-    "ean": "7794080001516",
-    "nombre": "ravioles la morocha x 1 kg. espinaca y pollo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 6414.0,
-    "precio_hoy": 6414.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "33844001285",
+    "nombre": "sazon badia completa x 70 gr",
+    "categoria": "Almacen",
+    "precio_antes": 5704.0,
+    "precio_hoy": 6052.0,
+    "diff_abs": 348.0,
+    "diff_pct": 6.1
   },
   {
-    "ean": "7794080001523",
-    "nombre": "ravioles la morocha x 1 kg. cuatro quesos",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 6414.0,
-    "precio_hoy": 6414.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "41331014908",
+    "nombre": "aceitunas goya x 149 gm rellenas con pasta de atun",
+    "categoria": "Almacen",
+    "precio_antes": 10139.0,
+    "precio_hoy": 10757.0,
+    "diff_abs": 618.0,
+    "diff_pct": 6.1
   },
   {
-    "ean": "7794080001622",
-    "nombre": "ravioles la morocha x 1 kg. carne y verdura",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 6414.0,
-    "precio_hoy": 6414.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "41331014892",
+    "nombre": "aceitunas goya con pasta de salmon x 149 gm",
+    "categoria": "Almacen",
+    "precio_antes": 10139.0,
+    "precio_hoy": 10757.0,
+    "diff_abs": 618.0,
+    "diff_pct": 6.1
   },
   {
-    "ean": "7794080000441",
-    "nombre": "ravioles la morocha ricota y queso x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3531.0,
-    "precio_hoy": 3531.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "33844006341",
+    "nombre": "sazon badia fajita x 79.9 gr",
+    "categoria": "Almacen",
+    "precio_antes": 7214.0,
+    "precio_hoy": 7654.0,
+    "diff_abs": 440.0,
+    "diff_pct": 6.1
   },
   {
-    "ean": "7794820903094",
-    "nombre": "queso untable milkaut crematto balance x 285 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4399.0,
-    "precio_hoy": 4399.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "41331014915",
+    "nombre": "aceitunas goya x 149 gm con anchoas",
+    "categoria": "Almacen",
+    "precio_antes": 10139.0,
+    "precio_hoy": 10757.0,
+    "diff_abs": 618.0,
+    "diff_pct": 6.1
   },
   {
-    "ean": "7794820014967",
-    "nombre": "queso untable milkaut clasico x 190 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3146.0,
-    "precio_hoy": 3146.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "41331014922",
+    "nombre": "acaitunas goya x 149 gm con pimiento picante",
+    "categoria": "Almacen",
+    "precio_antes": 10139.0,
+    "precio_hoy": 10757.0,
+    "diff_abs": 618.0,
+    "diff_pct": 6.1
   },
   {
-    "ean": "7790742326300",
-    "nombre": "queso untable ls sabores x 180 gr salame",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3122.0,
-    "precio_hoy": 3122.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "33844030001",
+    "nombre": "sazon badia completa x 155.9 gr",
+    "categoria": "Almacen",
+    "precio_antes": 10402.0,
+    "precio_hoy": 11035.0,
+    "diff_abs": 633.0,
+    "diff_pct": 6.09
+  },
+  {
+    "ean": "33844003289",
+    "nombre": "chipotle badia mild sauce x 155 ml",
+    "categoria": "Almacen",
+    "precio_antes": 9563.0,
+    "precio_hoy": 10145.0,
+    "diff_abs": 582.0,
+    "diff_pct": 6.09
+  },
+  {
+    "ean": "33844003760",
+    "nombre": "ghost badia pepper hot sauce x 155 ml",
+    "categoria": "Almacen",
+    "precio_antes": 13002.0,
+    "precio_hoy": 13794.0,
+    "diff_abs": 792.0,
+    "diff_pct": 6.09
   }
 ]
