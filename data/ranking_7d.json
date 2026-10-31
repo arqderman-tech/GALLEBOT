@@ -45,6 +45,42 @@
     "diff_pct": 60.24
   },
   {
+    "ean": "7791250003424",
+    "nombre": "espumante navarro correa x 750 ml spritz",
+    "categoria": "Bebidas",
+    "precio_antes": 9627.0,
+    "precio_hoy": 15404.0,
+    "diff_abs": 5777.0,
+    "diff_pct": 60.01
+  },
+  {
+    "ean": "7790189744040",
+    "nombre": "vino el ultimo tramo x 750 ml naranjo torrontes",
+    "categoria": "Bebidas",
+    "precio_antes": 9287.0,
+    "precio_hoy": 14859.0,
+    "diff_abs": 5572.0,
+    "diff_pct": 60.0
+  },
+  {
+    "ean": "7790189743982",
+    "nombre": "vino el ultimo tramo x 750 ml malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 9287.0,
+    "precio_hoy": 14859.0,
+    "diff_abs": 5572.0,
+    "diff_pct": 60.0
+  },
+  {
+    "ean": "7790189743999",
+    "nombre": "vino el ultimo tramo x 750 ml cabernet sauvignon",
+    "categoria": "Bebidas",
+    "precio_antes": 9287.0,
+    "precio_hoy": 14859.0,
+    "diff_abs": 5572.0,
+    "diff_pct": 60.0
+  },
+  {
     "ean": "2022440000004",
     "nombre": "esparragos verdes paquete",
     "categoria": "Frutas Y Verduras",
@@ -52,15 +88,6 @@
     "precio_hoy": 5990.0,
     "diff_abs": 2000.0,
     "diff_pct": 50.13
-  },
-  {
-    "ean": "2020100000005",
-    "nombre": "berenjena morada x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 40.08
   },
   {
     "ean": "2022030000001",
@@ -81,15 +108,6 @@
     "diff_pct": 33.44
   },
   {
-    "ean": "2019880000008",
-    "nombre": "acelga x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 790.0,
-    "precio_hoy": 990.0,
-    "diff_abs": 200.0,
-    "diff_pct": 25.32
-  },
-  {
     "ean": "2020730000000",
     "nombre": "espinaca atado",
     "categoria": "Frutas Y Verduras",
@@ -99,26 +117,8 @@
     "diff_pct": 25.13
   },
   {
-    "ean": "2020920000001",
-    "nombre": "lechuga mantecosa x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
     "ean": "2021550000003",
     "nombre": "pepino x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
-    "ean": "2020300000003",
-    "nombre": "cebolla de verdeo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 4990.0,
@@ -142,6 +142,15 @@
     "precio_hoy": 5990.0,
     "diff_abs": 1000.0,
     "diff_pct": 20.04
+  },
+  {
+    "ean": "7794820903117",
+    "nombre": "leche parcialmente descremada milkaut larga vida .",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2101.0,
+    "precio_hoy": 2442.0,
+    "diff_abs": 341.0,
+    "diff_pct": 16.23
   },
   {
     "ean": "2021540000006",
@@ -169,14 +178,5 @@
     "precio_hoy": 2026.0,
     "diff_abs": 260.0,
     "diff_pct": 14.72
-  },
-  {
-    "ean": "2020960000009",
-    "nombre": "lechuga repollada x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 14.33
   }
 ]

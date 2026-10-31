@@ -81,6 +81,15 @@
     "diff_pct": 50.15
   },
   {
+    "ean": "7790093521782",
+    "nombre": "vino cafayate x750ml.malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 5007.0,
+    "precio_hoy": 7518.0,
+    "diff_abs": 2511.0,
+    "diff_pct": 50.15
+  },
+  {
     "ean": "7790093521775",
     "nombre": "vino cafayate x750ml.cabernet",
     "categoria": "Bebidas",
@@ -92,15 +101,6 @@
   {
     "ean": "7790093521812",
     "nombre": "vino cafayate x750ml.rose",
-    "categoria": "Bebidas",
-    "precio_antes": 5007.0,
-    "precio_hoy": 7518.0,
-    "diff_abs": 2511.0,
-    "diff_pct": 50.15
-  },
-  {
-    "ean": "7790093521782",
-    "nombre": "vino cafayate x750ml.malbec",
     "categoria": "Bebidas",
     "precio_antes": 5007.0,
     "precio_hoy": 7518.0,
@@ -153,15 +153,6 @@
     "diff_pct": 33.44
   },
   {
-    "ean": "7790070231697",
-    "nombre": "aceite de maiz lira x 900 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 6129.0,
-    "precio_hoy": 8057.0,
-    "diff_abs": 1928.0,
-    "diff_pct": 31.46
-  },
-  {
     "ean": "7790070265104",
     "nombre": "aceite de oliva copcinero extra virgen x 250 ml",
     "categoria": "Almacen",
@@ -171,8 +162,17 @@
     "diff_pct": 31.46
   },
   {
-    "ean": "7790093095238",
-    "nombre": "vino cafayate res.x750ml.caber",
+    "ean": "7790070231697",
+    "nombre": "aceite de maiz lira x 900 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 6129.0,
+    "precio_hoy": 8057.0,
+    "diff_abs": 1928.0,
+    "diff_pct": 31.46
+  },
+  {
+    "ean": "7790093095221",
+    "nombre": "vino cafayate reserva malbec x 750 ml.",
     "categoria": "Bebidas",
     "precio_antes": 7887.0,
     "precio_hoy": 10114.0,

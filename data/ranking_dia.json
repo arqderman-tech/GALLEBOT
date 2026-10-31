@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2019970000000",
-    "nombre": "alcauciles x unidad",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 790.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 700.0,
-    "diff_pct": 88.61
+    "ean": "7791250003424",
+    "nombre": "espumante navarro correa x 750 ml spritz",
+    "categoria": "Bebidas",
+    "precio_antes": 9627.0,
+    "precio_hoy": 15404.0,
+    "diff_abs": 5777.0,
+    "diff_pct": 60.01
   },
   {
-    "ean": "2019880000008",
-    "nombre": "acelga x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 790.0,
-    "precio_hoy": 990.0,
-    "diff_abs": 200.0,
-    "diff_pct": 25.32
+    "ean": "7790189743982",
+    "nombre": "vino el ultimo tramo x 750 ml malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 9287.0,
+    "precio_hoy": 14859.0,
+    "diff_abs": 5572.0,
+    "diff_pct": 60.0
   },
   {
-    "ean": "2011800000006",
-    "nombre": "frutas glaseadas x kg.",
-    "categoria": "Almacen",
-    "precio_antes": 19122.0,
-    "precio_hoy": 21990.0,
-    "diff_abs": 2868.0,
-    "diff_pct": 15.0
+    "ean": "7790189744040",
+    "nombre": "vino el ultimo tramo x 750 ml naranjo torrontes",
+    "categoria": "Bebidas",
+    "precio_antes": 9287.0,
+    "precio_hoy": 14859.0,
+    "diff_abs": 5572.0,
+    "diff_pct": 60.0
   },
   {
-    "ean": "2020000000006",
-    "nombre": "arandanos en bandeja",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2190.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 300.0,
-    "diff_pct": 13.7
+    "ean": "7790189743999",
+    "nombre": "vino el ultimo tramo x 750 ml cabernet sauvignon",
+    "categoria": "Bebidas",
+    "precio_antes": 9287.0,
+    "precio_hoy": 14859.0,
+    "diff_abs": 5572.0,
+    "diff_pct": 60.0
   },
   {
-    "ean": "7798334803123",
-    "nombre": "hummus kyros x230gr.clasico",
-    "categoria": "Almacen",
-    "precio_antes": 4572.0,
-    "precio_hoy": 4976.0,
-    "diff_abs": 404.0,
-    "diff_pct": 8.84
+    "ean": "7794820903117",
+    "nombre": "leche parcialmente descremada milkaut larga vida .",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2101.0,
+    "precio_hoy": 2442.0,
+    "diff_abs": 341.0,
+    "diff_pct": 16.23
   },
   {
-    "ean": "7798334803475",
-    "nombre": "hummus kyros x 230 gr remolacha",
-    "categoria": "Almacen",
-    "precio_antes": 4572.0,
-    "precio_hoy": 4976.0,
-    "diff_abs": 404.0,
-    "diff_pct": 8.84
+    "ean": "7798371350048",
+    "nombre": "sorrentinos buyo cabrito x 8 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 6769.0,
+    "precio_hoy": 7446.0,
+    "diff_abs": 677.0,
+    "diff_pct": 10.0
   },
   {
-    "ean": "7798334803208",
-    "nombre": "hummus kyros ajo ahumado x 230 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 4572.0,
-    "precio_hoy": 4976.0,
-    "diff_abs": 404.0,
-    "diff_pct": 8.84
+    "ean": "7798371350161",
+    "nombre": "sorrentinos 3 lobos jamon y queso x 12 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 6769.0,
+    "precio_hoy": 7446.0,
+    "diff_abs": 677.0,
+    "diff_pct": 10.0
   },
   {
-    "ean": "7798334803116",
-    "nombre": "hummus con pimenton kyros x 230 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 4572.0,
-    "precio_hoy": 4976.0,
-    "diff_abs": 404.0,
-    "diff_pct": 8.84
+    "ean": "7798371350093",
+    "nombre": "sorrentinos 3 lobos capresse x 12 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 6769.0,
+    "precio_hoy": 7446.0,
+    "diff_abs": 677.0,
+    "diff_pct": 10.0
   },
   {
-    "ean": "7798334803109",
-    "nombre": "hummus con aceite de oliva kyros x 230 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 4572.0,
-    "precio_hoy": 4976.0,
-    "diff_abs": 404.0,
-    "diff_pct": 8.84
+    "ean": "7798371350154",
+    "nombre": "sorrentinos 3 lobos calabaza y mozarella x 12 unid",
+    "categoria": "Congelados",
+    "precio_antes": 6769.0,
+    "precio_hoy": 7446.0,
+    "diff_abs": 677.0,
+    "diff_pct": 10.0
   },
   {
-    "ean": "33844007461",
-    "nombre": "sazon badia x 155.9 gr pollo",
-    "categoria": "Almacen",
-    "precio_antes": 11989.0,
-    "precio_hoy": 12904.0,
-    "diff_abs": 915.0,
-    "diff_pct": 7.63
+    "ean": "7798371350260",
+    "nombre": "sorrentino buyo x 8 unidades relleno de calamar",
+    "categoria": "Congelados",
+    "precio_antes": 6769.0,
+    "precio_hoy": 7446.0,
+    "diff_abs": 677.0,
+    "diff_pct": 10.0
   },
   {
-    "ean": "33844002503",
-    "nombre": "curcuma badia x 56.7 gr molida",
-    "categoria": "Almacen",
-    "precio_antes": 11906.0,
-    "precio_hoy": 12815.0,
-    "diff_abs": 909.0,
-    "diff_pct": 7.63
+    "ean": "7798371350208",
+    "nombre": "sorrentino buyo x 8 unidades pulpo espaa?a?ol",
+    "categoria": "Congelados",
+    "precio_antes": 6769.0,
+    "precio_hoy": 7446.0,
+    "diff_abs": 677.0,
+    "diff_pct": 10.0
   },
   {
-    "ean": "33844001285",
-    "nombre": "sazon badia completa x 70 gr",
-    "categoria": "Almacen",
-    "precio_antes": 5704.0,
-    "precio_hoy": 6052.0,
-    "diff_abs": 348.0,
-    "diff_pct": 6.1
+    "ean": "7798371350031",
+    "nombre": "sorrentinos buyo ciervo x 8 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 6769.0,
+    "precio_hoy": 7446.0,
+    "diff_abs": 677.0,
+    "diff_pct": 10.0
   },
   {
-    "ean": "41331014908",
-    "nombre": "aceitunas goya x 149 gm rellenas con pasta de atun",
-    "categoria": "Almacen",
-    "precio_antes": 10139.0,
-    "precio_hoy": 10757.0,
-    "diff_abs": 618.0,
-    "diff_pct": 6.1
+    "ean": "7798371350246",
+    "nombre": "sorrentinos buyo jabali x 8 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 6769.0,
+    "precio_hoy": 7446.0,
+    "diff_abs": 677.0,
+    "diff_pct": 10.0
   },
   {
-    "ean": "41331014892",
-    "nombre": "aceitunas goya con pasta de salmon x 149 gm",
-    "categoria": "Almacen",
-    "precio_antes": 10139.0,
-    "precio_hoy": 10757.0,
-    "diff_abs": 618.0,
-    "diff_pct": 6.1
+    "ean": "7798371350277",
+    "nombre": "sorrentinos buyo langostino x 8 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 6769.0,
+    "precio_hoy": 7446.0,
+    "diff_abs": 677.0,
+    "diff_pct": 10.0
   },
   {
-    "ean": "33844006341",
-    "nombre": "sazon badia fajita x 79.9 gr",
-    "categoria": "Almacen",
-    "precio_antes": 7214.0,
-    "precio_hoy": 7654.0,
-    "diff_abs": 440.0,
-    "diff_pct": 6.1
+    "ean": "7798371350024",
+    "nombre": "sorrentinos buyo pavita con nuez x 8 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 6769.0,
+    "precio_hoy": 7446.0,
+    "diff_abs": 677.0,
+    "diff_pct": 10.0
   },
   {
-    "ean": "41331014915",
-    "nombre": "aceitunas goya x 149 gm con anchoas",
-    "categoria": "Almacen",
-    "precio_antes": 10139.0,
-    "precio_hoy": 10757.0,
-    "diff_abs": 618.0,
-    "diff_pct": 6.1
+    "ean": "7798371350215",
+    "nombre": "sorrentinos buyo surubi",
+    "categoria": "Congelados",
+    "precio_antes": 6769.0,
+    "precio_hoy": 7446.0,
+    "diff_abs": 677.0,
+    "diff_pct": 10.0
   },
   {
-    "ean": "41331014922",
-    "nombre": "acaitunas goya x 149 gm con pimiento picante",
-    "categoria": "Almacen",
-    "precio_antes": 10139.0,
-    "precio_hoy": 10757.0,
-    "diff_abs": 618.0,
-    "diff_pct": 6.1
+    "ean": "7798371350017",
+    "nombre": "sorrentinos buyo x 8 unidades salmon",
+    "categoria": "Congelados",
+    "precio_antes": 6769.0,
+    "precio_hoy": 7446.0,
+    "diff_abs": 677.0,
+    "diff_pct": 10.0
   },
   {
-    "ean": "33844030001",
-    "nombre": "sazon badia completa x 155.9 gr",
-    "categoria": "Almacen",
-    "precio_antes": 10402.0,
-    "precio_hoy": 11035.0,
-    "diff_abs": 633.0,
-    "diff_pct": 6.09
+    "ean": "7798371350192",
+    "nombre": "sorrentinos buyo x 8 unidades ternera con hongos",
+    "categoria": "Congelados",
+    "precio_antes": 6769.0,
+    "precio_hoy": 7446.0,
+    "diff_abs": 677.0,
+    "diff_pct": 10.0
   },
   {
-    "ean": "33844003289",
-    "nombre": "chipotle badia mild sauce x 155 ml",
-    "categoria": "Almacen",
-    "precio_antes": 9563.0,
-    "precio_hoy": 10145.0,
-    "diff_abs": 582.0,
-    "diff_pct": 6.09
+    "ean": "7798371350055",
+    "nombre": "sorrentinos buyo x 8 unidades trucha",
+    "categoria": "Congelados",
+    "precio_antes": 6769.0,
+    "precio_hoy": 7446.0,
+    "diff_abs": 677.0,
+    "diff_pct": 10.0
   },
   {
-    "ean": "33844003760",
-    "nombre": "ghost badia pepper hot sauce x 155 ml",
-    "categoria": "Almacen",
-    "precio_antes": 13002.0,
-    "precio_hoy": 13794.0,
-    "diff_abs": 792.0,
-    "diff_pct": 6.09
+    "ean": "7798371350185",
+    "nombre": "sorrentinos buyo cordero patagonico x 8 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 6769.0,
+    "precio_hoy": 7446.0,
+    "diff_abs": 677.0,
+    "diff_pct": 10.0
   }
 ]
