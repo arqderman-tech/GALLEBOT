@@ -9,17 +9,17 @@
     "diff_pct": 1264.99
   },
   {
-    "ean": "2020730000000",
-    "nombre": "espinaca atado",
+    "ean": "2021550000003",
+    "nombre": "pepino x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 151.52
+    "precio_antes": 1990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 150.75
   },
   {
-    "ean": "2022080000006",
-    "nombre": "rucula x paquete",
+    "ean": "2020730000000",
+    "nombre": "espinaca atado",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 990.0,
     "precio_hoy": 1990.0,
@@ -36,8 +36,8 @@
     "diff_pct": 100.4
   },
   {
-    "ean": "2020120000009",
-    "nombre": "berengena negra x kg.",
+    "ean": "2020100000005",
+    "nombre": "berenjena morada x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 6990.0,
@@ -45,17 +45,8 @@
     "diff_pct": 75.19
   },
   {
-    "ean": "2019990000004",
-    "nombre": "apio x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 71.63
-  },
-  {
-    "ean": "2021550000003",
-    "nombre": "pepino x kg.",
+    "ean": "2020920000001",
+    "nombre": "lechuga mantecosa x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 4990.0,
@@ -72,17 +63,17 @@
     "diff_pct": 60.24
   },
   {
-    "ean": "7790093521805",
-    "nombre": "vino blanco cafayate dulce tardio x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 5007.0,
-    "precio_hoy": 7518.0,
-    "diff_abs": 2511.0,
-    "diff_pct": 50.15
+    "ean": "2019970000000",
+    "nombre": "alcauciles x unidad",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 990.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 50.51
   },
   {
-    "ean": "7790093521782",
-    "nombre": "vino cafayate x750ml.malbec",
+    "ean": "7790093521812",
+    "nombre": "vino cafayate x750ml.rose",
     "categoria": "Bebidas",
     "precio_antes": 5007.0,
     "precio_hoy": 7518.0,
@@ -99,13 +90,31 @@
     "diff_pct": 50.15
   },
   {
-    "ean": "7790093521812",
-    "nombre": "vino cafayate x750ml.rose",
+    "ean": "7790093521805",
+    "nombre": "vino blanco cafayate dulce tardio x 750 ml.",
     "categoria": "Bebidas",
     "precio_antes": 5007.0,
     "precio_hoy": 7518.0,
     "diff_abs": 2511.0,
     "diff_pct": 50.15
+  },
+  {
+    "ean": "2019990000004",
+    "nombre": "apio x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3490.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 42.98
+  },
+  {
+    "ean": "7790380018056",
+    "nombre": "chocolate toddy x 50 gm aireado mix",
+    "categoria": "Almacen",
+    "precio_antes": 2581.0,
+    "precio_hoy": 3687.0,
+    "diff_abs": 1106.0,
+    "diff_pct": 42.85
   },
   {
     "ean": "2700006100107",
@@ -117,8 +126,8 @@
     "diff_pct": 40.83
   },
   {
-    "ean": "2020100000005",
-    "nombre": "berenjena morada x kg.",
+    "ean": "2020120000009",
+    "nombre": "berengena negra x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 4990.0,
     "precio_hoy": 6990.0,
@@ -138,10 +147,19 @@
     "ean": "7790645002066",
     "nombre": "caballa caracas x 380 gm natural",
     "categoria": "Almacen",
-    "precio_antes": 5451.1,
+    "precio_antes": 5451.0,
     "precio_hoy": 7417.0,
-    "diff_abs": 1965.9,
-    "diff_pct": 36.06
+    "diff_abs": 1966.0,
+    "diff_pct": 36.07
+  },
+  {
+    "ean": "2022030000001",
+    "nombre": "repollitos de brusellas en bandeja",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
   },
   {
     "ean": "2020960000009",
@@ -153,15 +171,6 @@
     "diff_pct": 33.44
   },
   {
-    "ean": "7790070265104",
-    "nombre": "aceite de oliva copcinero extra virgen x 250 ml",
-    "categoria": "Almacen",
-    "precio_antes": 7085.7,
-    "precio_hoy": 9315.0,
-    "diff_abs": 2229.3,
-    "diff_pct": 31.46
-  },
-  {
     "ean": "7790070231697",
     "nombre": "aceite de maiz lira x 900 ml.",
     "categoria": "Almacen",
@@ -169,14 +178,5 @@
     "precio_hoy": 8057.0,
     "diff_abs": 1928.0,
     "diff_pct": 31.46
-  },
-  {
-    "ean": "7790093095221",
-    "nombre": "vino cafayate reserva malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 7887.0,
-    "precio_hoy": 10114.0,
-    "diff_abs": 2227.0,
-    "diff_pct": 28.24
   }
 ]

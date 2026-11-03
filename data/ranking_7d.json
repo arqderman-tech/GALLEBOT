@@ -1,14 +1,5 @@
 [
   {
-    "ean": "2022080000006",
-    "nombre": "rucula x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 101.01
-  },
-  {
     "ean": "2019970000000",
     "nombre": "alcauciles x unidad",
     "categoria": "Frutas Y Verduras",
@@ -16,24 +7,6 @@
     "precio_hoy": 1490.0,
     "diff_abs": 700.0,
     "diff_pct": 88.61
-  },
-  {
-    "ean": "2019990000004",
-    "nombre": "apio x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 71.63
-  },
-  {
-    "ean": "2020980000003",
-    "nombre": "limones x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
   },
   {
     "ean": "2021880000001",
@@ -54,8 +27,8 @@
     "diff_pct": 60.01
   },
   {
-    "ean": "7790189744040",
-    "nombre": "vino el ultimo tramo x 750 ml naranjo torrontes",
+    "ean": "7790189743982",
+    "nombre": "vino el ultimo tramo x 750 ml malbec",
     "categoria": "Bebidas",
     "precio_antes": 9287.0,
     "precio_hoy": 14859.0,
@@ -63,8 +36,8 @@
     "diff_pct": 60.0
   },
   {
-    "ean": "7790189743982",
-    "nombre": "vino el ultimo tramo x 750 ml malbec",
+    "ean": "7790189744040",
+    "nombre": "vino el ultimo tramo x 750 ml naranjo torrontes",
     "categoria": "Bebidas",
     "precio_antes": 9287.0,
     "precio_hoy": 14859.0,
@@ -90,58 +63,13 @@
     "diff_pct": 50.13
   },
   {
-    "ean": "2022030000001",
-    "nombre": "repollitos de brusellas en bandeja",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
-    "ean": "2020570000000",
-    "nombre": "coliflor x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
-    "ean": "2020730000000",
-    "nombre": "espinaca atado",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
-  },
-  {
-    "ean": "2021550000003",
-    "nombre": "pepino x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
-    "ean": "2037320000005",
-    "nombre": "curcuma x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 25.03
-  },
-  {
-    "ean": "2021850000000",
-    "nombre": "pia?a?a x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
+    "ean": "7790380018056",
+    "nombre": "chocolate toddy x 50 gm aireado mix",
+    "categoria": "Almacen",
+    "precio_antes": 2581.0,
+    "precio_hoy": 3687.0,
+    "diff_abs": 1106.0,
+    "diff_pct": 42.85
   },
   {
     "ean": "7794820903117",
@@ -162,6 +90,15 @@
     "diff_pct": 15.4
   },
   {
+    "ean": "7898024396529",
+    "nombre": "pasta de avellanas y cacao x 650 gm nutella",
+    "categoria": "Perfumeria",
+    "precio_antes": 16526.0,
+    "precio_hoy": 19005.0,
+    "diff_abs": 2479.0,
+    "diff_pct": 15.0
+  },
+  {
     "ean": "2011800000006",
     "nombre": "frutas glaseadas x kg.",
     "categoria": "Almacen",
@@ -171,12 +108,75 @@
     "diff_pct": 15.0
   },
   {
-    "ean": "7790072002080",
-    "nombre": "sal fina celusal con pico vertedor x 500 gr.",
+    "ean": "7798096031055",
+    "nombre": "arvejas en conserva dona pupa x 340 gr.",
     "categoria": "Almacen",
-    "precio_antes": 1766.0,
-    "precio_hoy": 2026.0,
-    "diff_abs": 260.0,
-    "diff_pct": 14.72
+    "precio_antes": 704.0,
+    "precio_hoy": 807.0,
+    "diff_abs": 103.0,
+    "diff_pct": 14.63
+  },
+  {
+    "ean": "2022220000002",
+    "nombre": "tomate redondo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 14.31
+  },
+  {
+    "ean": "2022210000005",
+    "nombre": "tomate perita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 14.31
+  },
+  {
+    "ean": "2020000000006",
+    "nombre": "arandanos en bandeja",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2190.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 300.0,
+    "diff_pct": 13.7
+  },
+  {
+    "ean": "77949707",
+    "nombre": "chocolate kinder x 100 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 6816.0,
+    "precio_hoy": 7726.0,
+    "diff_abs": 910.0,
+    "diff_pct": 13.35
+  },
+  {
+    "ean": "7798371350161",
+    "nombre": "sorrentinos 3 lobos jamon y queso x 12 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 6769.0,
+    "precio_hoy": 7658.0,
+    "diff_abs": 889.0,
+    "diff_pct": 13.13
+  },
+  {
+    "ean": "7798371350208",
+    "nombre": "sorrentino buyo x 8 unidades pulpo espaa?a?ol",
+    "categoria": "Congelados",
+    "precio_antes": 6769.0,
+    "precio_hoy": 7658.0,
+    "diff_abs": 889.0,
+    "diff_pct": 13.13
+  },
+  {
+    "ean": "7798371350093",
+    "nombre": "sorrentinos 3 lobos capresse x 12 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 6769.0,
+    "precio_hoy": 7658.0,
+    "diff_abs": 889.0,
+    "diff_pct": 13.13
   }
 ]

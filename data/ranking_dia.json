@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7791250003424",
-    "nombre": "espumante navarro correa x 750 ml spritz",
-    "categoria": "Bebidas",
-    "precio_antes": 9627.0,
-    "precio_hoy": 15404.0,
-    "diff_abs": 5777.0,
-    "diff_pct": 60.01
+    "ean": "7790380018056",
+    "nombre": "chocolate toddy x 50 gm aireado mix",
+    "categoria": "Almacen",
+    "precio_antes": 2581.0,
+    "precio_hoy": 3687.0,
+    "diff_abs": 1106.0,
+    "diff_pct": 42.85
   },
   {
-    "ean": "7790189743982",
-    "nombre": "vino el ultimo tramo x 750 ml malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 9287.0,
-    "precio_hoy": 14859.0,
-    "diff_abs": 5572.0,
-    "diff_pct": 60.0
+    "ean": "7790580151843",
+    "nombre": "caramelos arcor x 200 gm mas calabaza plastica",
+    "categoria": "Almacen",
+    "precio_antes": 13275.0,
+    "precio_hoy": 17697.0,
+    "diff_abs": 4422.0,
+    "diff_pct": 33.31
   },
   {
-    "ean": "7790189744040",
-    "nombre": "vino el ultimo tramo x 750 ml naranjo torrontes",
-    "categoria": "Bebidas",
-    "precio_antes": 9287.0,
-    "precio_hoy": 14859.0,
-    "diff_abs": 5572.0,
-    "diff_pct": 60.0
+    "ean": "7790580118952",
+    "nombre": "caramelos mogul extreme x 80 gm palotes pinta lengua",
+    "categoria": "Almacen",
+    "precio_antes": 1177.0,
+    "precio_hoy": 1567.0,
+    "diff_abs": 390.0,
+    "diff_pct": 33.14
   },
   {
-    "ean": "7790189743999",
-    "nombre": "vino el ultimo tramo x 750 ml cabernet sauvignon",
-    "categoria": "Bebidas",
-    "precio_antes": 9287.0,
-    "precio_hoy": 14859.0,
-    "diff_abs": 5572.0,
-    "diff_pct": 60.0
+    "ean": "2019950000006",
+    "nombre": "akusay x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
   },
   {
-    "ean": "7794820903117",
-    "nombre": "leche parcialmente descremada milkaut larga vida .",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2101.0,
-    "precio_hoy": 2442.0,
-    "diff_abs": 341.0,
-    "diff_pct": 16.23
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 20.08
   },
   {
-    "ean": "7798371350048",
-    "nombre": "sorrentinos buyo cabrito x 8 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 6769.0,
-    "precio_hoy": 7446.0,
-    "diff_abs": 677.0,
-    "diff_pct": 10.0
+    "ean": "2020160000007",
+    "nombre": "brocoli x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
   },
   {
-    "ean": "7798371350161",
-    "nombre": "sorrentinos 3 lobos jamon y queso x 12 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 6769.0,
-    "precio_hoy": 7446.0,
-    "diff_abs": 677.0,
-    "diff_pct": 10.0
+    "ean": "7898024396529",
+    "nombre": "pasta de avellanas y cacao x 650 gm nutella",
+    "categoria": "Perfumeria",
+    "precio_antes": 16526.0,
+    "precio_hoy": 19005.0,
+    "diff_abs": 2479.0,
+    "diff_pct": 15.0
   },
   {
-    "ean": "7798371350093",
-    "nombre": "sorrentinos 3 lobos capresse x 12 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 6769.0,
-    "precio_hoy": 7446.0,
-    "diff_abs": 677.0,
-    "diff_pct": 10.0
+    "ean": "7798096031055",
+    "nombre": "arvejas en conserva dona pupa x 340 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 704.0,
+    "precio_hoy": 807.0,
+    "diff_abs": 103.0,
+    "diff_pct": 14.63
   },
   {
-    "ean": "7798371350154",
-    "nombre": "sorrentinos 3 lobos calabaza y mozarella x 12 unid",
-    "categoria": "Congelados",
-    "precio_antes": 6769.0,
-    "precio_hoy": 7446.0,
-    "diff_abs": 677.0,
-    "diff_pct": 10.0
+    "ean": "2022210000005",
+    "nombre": "tomate perita x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 14.31
   },
   {
-    "ean": "7798371350260",
-    "nombre": "sorrentino buyo x 8 unidades relleno de calamar",
-    "categoria": "Congelados",
-    "precio_antes": 6769.0,
-    "precio_hoy": 7446.0,
-    "diff_abs": 677.0,
-    "diff_pct": 10.0
+    "ean": "77949707",
+    "nombre": "chocolate kinder x 100 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 6816.0,
+    "precio_hoy": 7726.0,
+    "diff_abs": 910.0,
+    "diff_pct": 13.35
   },
   {
-    "ean": "7798371350208",
-    "nombre": "sorrentino buyo x 8 unidades pulpo espaa?a?ol",
-    "categoria": "Congelados",
-    "precio_antes": 6769.0,
-    "precio_hoy": 7446.0,
-    "diff_abs": 677.0,
-    "diff_pct": 10.0
+    "ean": "8000500009673",
+    "nombre": "bombones ferrero rocher caja x 24 unidades",
+    "categoria": "Almacen",
+    "precio_antes": 29570.0,
+    "precio_hoy": 33328.0,
+    "diff_abs": 3758.0,
+    "diff_pct": 12.71
   },
   {
-    "ean": "7798371350031",
-    "nombre": "sorrentinos buyo ciervo x 8 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 6769.0,
-    "precio_hoy": 7446.0,
-    "diff_abs": 677.0,
-    "diff_pct": 10.0
+    "ean": "7790380023630",
+    "nombre": "alfajor toddy x 50 gr mousse blanco",
+    "categoria": "Almacen",
+    "precio_antes": 1384.0,
+    "precio_hoy": 1558.0,
+    "diff_abs": 174.0,
+    "diff_pct": 12.57
   },
   {
-    "ean": "7798371350246",
-    "nombre": "sorrentinos buyo jabali x 8 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 6769.0,
-    "precio_hoy": 7446.0,
-    "diff_abs": 677.0,
-    "diff_pct": 10.0
+    "ean": "7790380022121",
+    "nombre": "chocolate tokke con leche y mani x 62 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2002.0,
+    "precio_hoy": 2253.0,
+    "diff_abs": 251.0,
+    "diff_pct": 12.54
   },
   {
-    "ean": "7798371350277",
-    "nombre": "sorrentinos buyo langostino x 8 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 6769.0,
-    "precio_hoy": 7446.0,
-    "diff_abs": 677.0,
-    "diff_pct": 10.0
+    "ean": "7790380022145",
+    "nombre": "chocolate con leche y mani tokke x 120 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4418.0,
+    "precio_hoy": 4970.0,
+    "diff_abs": 552.0,
+    "diff_pct": 12.49
   },
   {
-    "ean": "7798371350024",
-    "nombre": "sorrentinos buyo pavita con nuez x 8 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 6769.0,
-    "precio_hoy": 7446.0,
-    "diff_abs": 677.0,
-    "diff_pct": 10.0
+    "ean": "7790380025122",
+    "nombre": "chocolate toddy x 60 gm relleno milk",
+    "categoria": "Almacen",
+    "precio_antes": 3319.0,
+    "precio_hoy": 3687.0,
+    "diff_abs": 368.0,
+    "diff_pct": 11.09
   },
   {
-    "ean": "7798371350215",
-    "nombre": "sorrentinos buyo surubi",
-    "categoria": "Congelados",
-    "precio_antes": 6769.0,
-    "precio_hoy": 7446.0,
-    "diff_abs": 677.0,
-    "diff_pct": 10.0
+    "ean": "7790380025115",
+    "nombre": "chocolate toddy x 60 gm relleno mousse",
+    "categoria": "Almacen",
+    "precio_antes": 3319.0,
+    "precio_hoy": 3687.0,
+    "diff_abs": 368.0,
+    "diff_pct": 11.09
   },
   {
-    "ean": "7798371350017",
-    "nombre": "sorrentinos buyo x 8 unidades salmon",
-    "categoria": "Congelados",
-    "precio_antes": 6769.0,
-    "precio_hoy": 7446.0,
-    "diff_abs": 677.0,
-    "diff_pct": 10.0
+    "ean": "7790380025139",
+    "nombre": "chocolate  toddy x 60 gm cookies and cream",
+    "categoria": "Almacen",
+    "precio_antes": 3319.0,
+    "precio_hoy": 3687.0,
+    "diff_abs": 368.0,
+    "diff_pct": 11.09
   },
   {
-    "ean": "7798371350192",
-    "nombre": "sorrentinos buyo x 8 unidades ternera con hongos",
-    "categoria": "Congelados",
-    "precio_antes": 6769.0,
-    "precio_hoy": 7446.0,
-    "diff_abs": 677.0,
-    "diff_pct": 10.0
+    "ean": "7898024396994",
+    "nombre": "bombones ferrero rocher x 12 unidades",
+    "categoria": "Almacen",
+    "precio_antes": 16027.0,
+    "precio_hoy": 17753.0,
+    "diff_abs": 1726.0,
+    "diff_pct": 10.77
   },
   {
-    "ean": "7798371350055",
-    "nombre": "sorrentinos buyo x 8 unidades trucha",
-    "categoria": "Congelados",
-    "precio_antes": 6769.0,
-    "precio_hoy": 7446.0,
-    "diff_abs": 677.0,
-    "diff_pct": 10.0
+    "ean": "7861002900117",
+    "nombre": "bombones ferrero rocher x 8 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 10627.0,
+    "precio_hoy": 11765.0,
+    "diff_abs": 1138.0,
+    "diff_pct": 10.71
   },
   {
-    "ean": "7798371350185",
-    "nombre": "sorrentinos buyo cordero patagonico x 8 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 6769.0,
-    "precio_hoy": 7446.0,
-    "diff_abs": 677.0,
-    "diff_pct": 10.0
+    "ean": "7798096030850",
+    "nombre": "pure de tomates dona pupa x 520 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 940.0,
+    "precio_hoy": 1036.0,
+    "diff_abs": 96.0,
+    "diff_pct": 10.21
   }
 ]

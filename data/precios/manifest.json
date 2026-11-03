@@ -17,10 +17,10 @@
     },
     {
       "archivo": "precios_0003.csv",
-      "filas": 47223,
-      "bytes": 4110421,
+      "filas": 54173,
+      "bytes": 4714391,
       "fecha_min": "20261024",
-      "fecha_max": "20261031"
+      "fecha_max": "20261103"
     }
   ]
 }
