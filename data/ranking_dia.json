@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790380018056",
-    "nombre": "chocolate toddy x 50 gm aireado mix",
-    "categoria": "Almacen",
-    "precio_antes": 2581.0,
-    "precio_hoy": 3687.0,
-    "diff_abs": 1106.0,
-    "diff_pct": 42.85
-  },
-  {
-    "ean": "7790580151843",
-    "nombre": "caramelos arcor x 200 gm mas calabaza plastica",
-    "categoria": "Almacen",
-    "precio_antes": 13275.0,
-    "precio_hoy": 17697.0,
-    "diff_abs": 4422.0,
-    "diff_pct": 33.31
-  },
-  {
-    "ean": "7790580118952",
-    "nombre": "caramelos mogul extreme x 80 gm palotes pinta lengua",
-    "categoria": "Almacen",
-    "precio_antes": 1177.0,
-    "precio_hoy": 1567.0,
-    "diff_abs": 390.0,
-    "diff_pct": 33.14
-  },
-  {
-    "ean": "2019950000006",
-    "nombre": "akusay x kg.",
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
-  },
-  {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2990.0,
+    "precio_antes": 1490.0,
+    "precio_hoy": 1990.0,
     "diff_abs": 500.0,
-    "diff_pct": 20.08
+    "diff_pct": 33.56
   },
   {
-    "ean": "2020160000007",
-    "nombre": "brocoli x kg.",
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
+    "precio_antes": 1490.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 33.56
+  },
+  {
+    "ean": "2020370000002",
+    "nombre": "chaucha rolliza x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 8990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 20.04
+    "diff_pct": 12.52
   },
   {
-    "ean": "7898024396529",
-    "nombre": "pasta de avellanas y cacao x 650 gm nutella",
-    "categoria": "Perfumeria",
-    "precio_antes": 16526.0,
-    "precio_hoy": 19005.0,
-    "diff_abs": 2479.0,
-    "diff_pct": 15.0
-  },
-  {
-    "ean": "7798096031055",
-    "nombre": "arvejas en conserva dona pupa x 340 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 704.0,
-    "precio_hoy": 807.0,
+    "ean": "7790895000720",
+    "nombre": "jugo cepita manzana x 200 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1089.0,
+    "precio_hoy": 1192.0,
     "diff_abs": 103.0,
-    "diff_pct": 14.63
+    "diff_pct": 9.46
   },
   {
-    "ean": "2022210000005",
-    "nombre": "tomate perita x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 14.31
+    "ean": "7790895000737",
+    "nombre": "jugo cepita multifruta x 200 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1089.0,
+    "precio_hoy": 1192.0,
+    "diff_abs": 103.0,
+    "diff_pct": 9.46
   },
   {
-    "ean": "77949707",
-    "nombre": "chocolate kinder x 100 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 6816.0,
-    "precio_hoy": 7726.0,
-    "diff_abs": 910.0,
-    "diff_pct": 13.35
+    "ean": "7790895641596",
+    "nombre": "jugo cepita naranja x 200 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 1089.0,
+    "precio_hoy": 1192.0,
+    "diff_abs": 103.0,
+    "diff_pct": 9.46
   },
   {
-    "ean": "8000500009673",
-    "nombre": "bombones ferrero rocher caja x 24 unidades",
-    "categoria": "Almacen",
-    "precio_antes": 29570.0,
-    "precio_hoy": 33328.0,
-    "diff_abs": 3758.0,
-    "diff_pct": 12.71
+    "ean": "7790895002991",
+    "nombre": "jugo cepita x 200 ml. durazno",
+    "categoria": "Bebidas",
+    "precio_antes": 1089.0,
+    "precio_hoy": 1192.0,
+    "diff_abs": 103.0,
+    "diff_pct": 9.46
   },
   {
-    "ean": "7790380023630",
-    "nombre": "alfajor toddy x 50 gr mousse blanco",
-    "categoria": "Almacen",
-    "precio_antes": 1384.0,
-    "precio_hoy": 1558.0,
-    "diff_abs": 174.0,
-    "diff_pct": 12.57
+    "ean": "7791337009950",
+    "nombre": "yogur yogurisimo griego x 140 gr vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2375.0,
+    "precio_hoy": 2554.0,
+    "diff_abs": 179.0,
+    "diff_pct": 7.54
   },
   {
-    "ean": "7790380022121",
-    "nombre": "chocolate tokke con leche y mani x 62 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2002.0,
-    "precio_hoy": 2253.0,
-    "diff_abs": 251.0,
-    "diff_pct": 12.54
+    "ean": "7791337009943",
+    "nombre": "yogur yogurisimo griego x 140 gr frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2375.0,
+    "precio_hoy": 2554.0,
+    "diff_abs": 179.0,
+    "diff_pct": 7.54
   },
   {
-    "ean": "7790380022145",
-    "nombre": "chocolate con leche y mani tokke x 120 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 4418.0,
-    "precio_hoy": 4970.0,
-    "diff_abs": 552.0,
-    "diff_pct": 12.49
+    "ean": "7791337008113",
+    "nombre": "postre danette copa x 100 gr. chocolate y crema",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2989.0,
+    "precio_hoy": 3199.0,
+    "diff_abs": 210.0,
+    "diff_pct": 7.03
   },
   {
-    "ean": "7790380025122",
-    "nombre": "chocolate toddy x 60 gm relleno milk",
-    "categoria": "Almacen",
-    "precio_antes": 3319.0,
-    "precio_hoy": 3687.0,
-    "diff_abs": 368.0,
-    "diff_pct": 11.09
+    "ean": "7791337010659",
+    "nombre": "postre la serenisima paxk x 2 unidades sabor vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3154.0,
+    "precio_hoy": 3375.0,
+    "diff_abs": 221.0,
+    "diff_pct": 7.01
   },
   {
-    "ean": "7790380025115",
-    "nombre": "chocolate toddy x 60 gm relleno mousse",
-    "categoria": "Almacen",
-    "precio_antes": 3319.0,
-    "precio_hoy": 3687.0,
-    "diff_abs": 368.0,
-    "diff_pct": 11.09
+    "ean": "7791337010642",
+    "nombre": "postre la serenisima pack x 2 unidades sabor chocolate",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3154.0,
+    "precio_hoy": 3375.0,
+    "diff_abs": 221.0,
+    "diff_pct": 7.01
   },
   {
-    "ean": "7790380025139",
-    "nombre": "chocolate  toddy x 60 gm cookies and cream",
-    "categoria": "Almacen",
-    "precio_antes": 3319.0,
-    "precio_hoy": 3687.0,
-    "diff_abs": 368.0,
-    "diff_pct": 11.09
+    "ean": "7791337010611",
+    "nombre": "postre ser pack x 2 unidades sabor chocolate",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5158.0,
+    "precio_hoy": 5519.0,
+    "diff_abs": 361.0,
+    "diff_pct": 7.0
   },
   {
-    "ean": "7898024396994",
-    "nombre": "bombones ferrero rocher x 12 unidades",
-    "categoria": "Almacen",
-    "precio_antes": 16027.0,
-    "precio_hoy": 17753.0,
-    "diff_abs": 1726.0,
-    "diff_pct": 10.77
+    "ean": "7791337010628",
+    "nombre": "postre ser pack x dos unidades sabor dulce de leche",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5158.0,
+    "precio_hoy": 5519.0,
+    "diff_abs": 361.0,
+    "diff_pct": 7.0
   },
   {
-    "ean": "7861002900117",
-    "nombre": "bombones ferrero rocher x 8 unid.",
-    "categoria": "Almacen",
-    "precio_antes": 10627.0,
-    "precio_hoy": 11765.0,
-    "diff_abs": 1138.0,
-    "diff_pct": 10.71
+    "ean": "7791337008106",
+    "nombre": "postre danette copa x100gr.ddl",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3199.0,
+    "diff_abs": 209.0,
+    "diff_pct": 6.99
   },
   {
-    "ean": "7798096030850",
-    "nombre": "pure de tomates dona pupa x 520 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 940.0,
-    "precio_hoy": 1036.0,
-    "diff_abs": 96.0,
-    "diff_pct": 10.21
+    "ean": "7791337010635",
+    "nombre": "flan ser pack x 2 unidaes sabor vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4821.0,
+    "precio_hoy": 5158.0,
+    "diff_abs": 337.0,
+    "diff_pct": 6.99
+  },
+  {
+    "ean": "7791337010802",
+    "nombre": "yogur yogurisimo griego x 162 gr natural con cereales",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 4626.0,
+    "precio_hoy": 4858.0,
+    "diff_abs": 232.0,
+    "diff_pct": 5.02
+  },
+  {
+    "ean": "7791337010185",
+    "nombre": "yogur ls.clas.firme ent.fru190",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2190.0,
+    "precio_hoy": 2300.0,
+    "diff_abs": 110.0,
+    "diff_pct": 5.02
+  },
+  {
+    "ean": "7791337010192",
+    "nombre": "yogur firme la serenisima clasico x 190 gr. vainia",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2190.0,
+    "precio_hoy": 2300.0,
+    "diff_abs": 110.0,
+    "diff_pct": 5.02
+  },
+  {
+    "ean": "7791337007192",
+    "nombre": "yogur bebible ser sin lactosa x 190 gr. frutilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3706.0,
+    "precio_hoy": 3892.0,
+    "diff_abs": 186.0,
+    "diff_pct": 5.02
   }
 ]

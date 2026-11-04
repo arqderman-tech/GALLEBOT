@@ -72,8 +72,8 @@
     "diff_pct": 50.51
   },
   {
-    "ean": "7790093521812",
-    "nombre": "vino cafayate x750ml.rose",
+    "ean": "7790093521775",
+    "nombre": "vino cafayate x750ml.cabernet",
     "categoria": "Bebidas",
     "precio_antes": 5007.0,
     "precio_hoy": 7518.0,
@@ -81,8 +81,8 @@
     "diff_pct": 50.15
   },
   {
-    "ean": "7790093521775",
-    "nombre": "vino cafayate x750ml.cabernet",
+    "ean": "7790093521812",
+    "nombre": "vino cafayate x750ml.rose",
     "categoria": "Bebidas",
     "precio_antes": 5007.0,
     "precio_hoy": 7518.0,
@@ -153,13 +153,13 @@
     "diff_pct": 36.07
   },
   {
-    "ean": "2022030000001",
-    "nombre": "repollitos de brusellas en bandeja",
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
+    "precio_antes": 1490.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 33.56
   },
   {
     "ean": "2020960000009",
@@ -171,12 +171,12 @@
     "diff_pct": 33.44
   },
   {
-    "ean": "7790070231697",
-    "nombre": "aceite de maiz lira x 900 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 6129.0,
-    "precio_hoy": 8057.0,
-    "diff_abs": 1928.0,
-    "diff_pct": 31.46
+    "ean": "2022030000001",
+    "nombre": "repollitos de brusellas en bandeja",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
   }
 ]
