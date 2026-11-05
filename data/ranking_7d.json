@@ -9,15 +9,6 @@
     "diff_pct": 88.61
   },
   {
-    "ean": "2021880000001",
-    "nombre": "pomelo sanguineo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 60.24
-  },
-  {
     "ean": "7791250003424",
     "nombre": "espumante navarro correa x 750 ml spritz",
     "categoria": "Bebidas",
@@ -36,15 +27,6 @@
     "diff_pct": 60.0
   },
   {
-    "ean": "7790189743982",
-    "nombre": "vino el ultimo tramo x 750 ml malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 9287.0,
-    "precio_hoy": 14859.0,
-    "diff_abs": 5572.0,
-    "diff_pct": 60.0
-  },
-  {
     "ean": "7790189744040",
     "nombre": "vino el ultimo tramo x 750 ml naranjo torrontes",
     "categoria": "Bebidas",
@@ -54,13 +36,13 @@
     "diff_pct": 60.0
   },
   {
-    "ean": "2022440000004",
-    "nombre": "esparragos verdes paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
+    "ean": "7790189743982",
+    "nombre": "vino el ultimo tramo x 750 ml malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 9287.0,
+    "precio_hoy": 14859.0,
+    "diff_abs": 5572.0,
+    "diff_pct": 60.0
   },
   {
     "ean": "7790380018056",
@@ -72,13 +54,40 @@
     "diff_pct": 42.85
   },
   {
-    "ean": "2019950000006",
-    "nombre": "akusay x kg.",
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
+    "precio_antes": 1490.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 33.56
+  },
+  {
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1490.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 33.56
+  },
+  {
+    "ean": "2020370000002",
+    "nombre": "chaucha rolliza x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 25.03
+  },
+  {
+    "ean": "2020750000004",
+    "nombre": "frutillas x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 25.06
+    "diff_pct": 16.69
   },
   {
     "ean": "7794820903117",
@@ -88,15 +97,6 @@
     "precio_hoy": 2442.0,
     "diff_abs": 341.0,
     "diff_pct": 16.23
-  },
-  {
-    "ean": "2021540000006",
-    "nombre": "pelon blanco x kilo",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 12990.0,
-    "precio_hoy": 14990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 15.4
   },
   {
     "ean": "2011800000006",

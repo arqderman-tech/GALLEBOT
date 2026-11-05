@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2022040000008",
-    "nombre": "repollo blanco x kg.",
+    "ean": "2020750000004",
+    "nombre": "frutillas x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 33.56
-  },
-  {
-    "ean": "2022060000002",
-    "nombre": "repollo colorado x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 33.56
+    "precio_antes": 5990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.69
   },
   {
     "ean": "2020370000002",
     "nombre": "chaucha rolliza x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 8990.0,
+    "precio_antes": 8990.0,
+    "precio_hoy": 9990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 12.52
+    "diff_pct": 11.12
   },
   {
-    "ean": "7790895000720",
-    "nombre": "jugo cepita manzana x 200 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1089.0,
-    "precio_hoy": 1192.0,
-    "diff_abs": 103.0,
-    "diff_pct": 9.46
+    "ean": "7791706000014",
+    "nombre": "vainillas whisper x 400 gm",
+    "categoria": "Perfumeria",
+    "precio_antes": 3449.0,
+    "precio_hoy": 3794.0,
+    "diff_abs": 345.0,
+    "diff_pct": 10.0
   },
   {
-    "ean": "7790895000737",
-    "nombre": "jugo cepita multifruta x 200 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1089.0,
-    "precio_hoy": 1192.0,
-    "diff_abs": 103.0,
-    "diff_pct": 9.46
+    "ean": "7791706000038",
+    "nombre": "vainillas whisper x 200 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1783.0,
+    "precio_hoy": 1961.0,
+    "diff_abs": 178.0,
+    "diff_pct": 9.98
   },
   {
-    "ean": "7790895641596",
-    "nombre": "jugo cepita naranja x 200 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 1089.0,
-    "precio_hoy": 1192.0,
-    "diff_abs": 103.0,
-    "diff_pct": 9.46
-  },
-  {
-    "ean": "7790895002991",
-    "nombre": "jugo cepita x 200 ml. durazno",
-    "categoria": "Bebidas",
-    "precio_antes": 1089.0,
-    "precio_hoy": 1192.0,
-    "diff_abs": 103.0,
-    "diff_pct": 9.46
-  },
-  {
-    "ean": "7791337009950",
-    "nombre": "yogur yogurisimo griego x 140 gr vainilla",
+    "ean": "7798136872228",
+    "nombre": "yogur dahi bebible proteico x 200 gr frutos rojos",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2375.0,
-    "precio_hoy": 2554.0,
-    "diff_abs": 179.0,
-    "diff_pct": 7.54
+    "precio_antes": 3746.0,
+    "precio_hoy": 4045.0,
+    "diff_abs": 299.0,
+    "diff_pct": 7.98
   },
   {
-    "ean": "7791337009943",
-    "nombre": "yogur yogurisimo griego x 140 gr frutilla",
+    "ean": "7798136872020",
+    "nombre": "yogur proteico dahi x 190 gr frutos rojos",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2375.0,
-    "precio_hoy": 2554.0,
-    "diff_abs": 179.0,
-    "diff_pct": 7.54
+    "precio_antes": 3746.0,
+    "precio_hoy": 4045.0,
+    "diff_abs": 299.0,
+    "diff_pct": 7.98
   },
   {
-    "ean": "7791337008113",
-    "nombre": "postre danette copa x 100 gr. chocolate y crema",
+    "ean": "7798136872037",
+    "nombre": "yogur bebible dahi proteina x 200 ml natural",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2989.0,
-    "precio_hoy": 3199.0,
-    "diff_abs": 210.0,
+    "precio_antes": 3746.0,
+    "precio_hoy": 4045.0,
+    "diff_abs": 299.0,
+    "diff_pct": 7.98
+  },
+  {
+    "ean": "7798136872006",
+    "nombre": "yogur dahi proteico x 190 gr sabor natural",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3746.0,
+    "precio_hoy": 4045.0,
+    "diff_abs": 299.0,
+    "diff_pct": 7.98
+  },
+  {
+    "ean": "7798136872013",
+    "nombre": "yogur dahi proteico x 190 gr sabor vainilla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3746.0,
+    "precio_hoy": 4045.0,
+    "diff_abs": 299.0,
+    "diff_pct": 7.98
+  },
+  {
+    "ean": "7790071090231",
+    "nombre": "tostadas riera clasicas x 200 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1675.0,
+    "precio_hoy": 1793.0,
+    "diff_abs": 118.0,
+    "diff_pct": 7.04
+  },
+  {
+    "ean": "7790071090422",
+    "nombre": "tostadas riera x 200 gr. sin sal",
+    "categoria": "Perfumeria",
+    "precio_antes": 1675.0,
+    "precio_hoy": 1793.0,
+    "diff_abs": 118.0,
+    "diff_pct": 7.04
+  },
+  {
+    "ean": "7790071090125",
+    "nombre": "tostadas riera x 200 gr. dulces",
+    "categoria": "Perfumeria",
+    "precio_antes": 1675.0,
+    "precio_hoy": 1793.0,
+    "diff_abs": 118.0,
+    "diff_pct": 7.04
+  },
+  {
+    "ean": "7790071070134",
+    "nombre": "tostadas riera light x 200 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1934.0,
+    "precio_hoy": 2070.0,
+    "diff_abs": 136.0,
     "diff_pct": 7.03
   },
   {
-    "ean": "7791337010659",
-    "nombre": "postre la serenisima paxk x 2 unidades sabor vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3154.0,
-    "precio_hoy": 3375.0,
-    "diff_abs": 221.0,
+    "ean": "7790071070417",
+    "nombre": "tostadas riera 7 semillas x 200 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1934.0,
+    "precio_hoy": 2070.0,
+    "diff_abs": 136.0,
+    "diff_pct": 7.03
+  },
+  {
+    "ean": "7798018100043",
+    "nombre": "amaretti whisper",
+    "categoria": "Perfumeria",
+    "precio_antes": 3008.0,
+    "precio_hoy": 3219.0,
+    "diff_abs": 211.0,
     "diff_pct": 7.01
   },
   {
-    "ean": "7791337010642",
-    "nombre": "postre la serenisima pack x 2 unidades sabor chocolate",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3154.0,
-    "precio_hoy": 3375.0,
-    "diff_abs": 221.0,
-    "diff_pct": 7.01
-  },
-  {
-    "ean": "7791337010611",
-    "nombre": "postre ser pack x 2 unidades sabor chocolate",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5158.0,
-    "precio_hoy": 5519.0,
-    "diff_abs": 361.0,
+    "ean": "7790071010215",
+    "nombre": "grisines riera x 160 gr. integral",
+    "categoria": "Perfumeria",
+    "precio_antes": 1943.0,
+    "precio_hoy": 2079.0,
+    "diff_abs": 136.0,
     "diff_pct": 7.0
   },
   {
-    "ean": "7791337010628",
-    "nombre": "postre ser pack x dos unidades sabor dulce de leche",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5158.0,
-    "precio_hoy": 5519.0,
-    "diff_abs": 361.0,
+    "ean": "7790071010123",
+    "nombre": "grisines riera clasicos x 160 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1943.0,
+    "precio_hoy": 2079.0,
+    "diff_abs": 136.0,
     "diff_pct": 7.0
   },
   {
-    "ean": "7791337008106",
-    "nombre": "postre danette copa x100gr.ddl",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3199.0,
-    "diff_abs": 209.0,
-    "diff_pct": 6.99
+    "ean": "7790071010314",
+    "nombre": "grisines sin sal riera x 160 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1943.0,
+    "precio_hoy": 2079.0,
+    "diff_abs": 136.0,
+    "diff_pct": 7.0
   },
   {
-    "ean": "7791337010635",
-    "nombre": "flan ser pack x 2 unidaes sabor vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4821.0,
-    "precio_hoy": 5158.0,
-    "diff_abs": 337.0,
-    "diff_pct": 6.99
+    "ean": "7790071070318",
+    "nombre": "tostadas riera 100% integrales x 200 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2164.0,
+    "precio_hoy": 2315.0,
+    "diff_abs": 151.0,
+    "diff_pct": 6.98
   },
   {
-    "ean": "7791337010802",
-    "nombre": "yogur yogurisimo griego x 162 gr natural con cereales",
+    "ean": "7794080000212",
+    "nombre": "tapa para pascualina la morocha hojaldre x 2 unid.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4626.0,
-    "precio_hoy": 4858.0,
-    "diff_abs": 232.0,
-    "diff_pct": 5.02
-  },
-  {
-    "ean": "7791337010185",
-    "nombre": "yogur ls.clas.firme ent.fru190",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2190.0,
-    "precio_hoy": 2300.0,
-    "diff_abs": 110.0,
-    "diff_pct": 5.02
-  },
-  {
-    "ean": "7791337010192",
-    "nombre": "yogur firme la serenisima clasico x 190 gr. vainia",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2190.0,
-    "precio_hoy": 2300.0,
-    "diff_abs": 110.0,
-    "diff_pct": 5.02
-  },
-  {
-    "ean": "7791337007192",
-    "nombre": "yogur bebible ser sin lactosa x 190 gr. frutilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3706.0,
-    "precio_hoy": 3892.0,
-    "diff_abs": 186.0,
-    "diff_pct": 5.02
+    "precio_antes": 2117.0,
+    "precio_hoy": 2253.0,
+    "diff_abs": 136.0,
+    "diff_pct": 6.42
   }
 ]
