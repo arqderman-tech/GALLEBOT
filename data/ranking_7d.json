@@ -1,14 +1,5 @@
 [
   {
-    "ean": "2019970000000",
-    "nombre": "alcauciles x unidad",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 790.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 700.0,
-    "diff_pct": 88.61
-  },
-  {
     "ean": "7791250003424",
     "nombre": "espumante navarro correa x 750 ml spritz",
     "categoria": "Bebidas",
@@ -16,15 +7,6 @@
     "precio_hoy": 15404.0,
     "diff_abs": 5777.0,
     "diff_pct": 60.01
-  },
-  {
-    "ean": "7790189743999",
-    "nombre": "vino el ultimo tramo x 750 ml cabernet sauvignon",
-    "categoria": "Bebidas",
-    "precio_antes": 9287.0,
-    "precio_hoy": 14859.0,
-    "diff_abs": 5572.0,
-    "diff_pct": 60.0
   },
   {
     "ean": "7790189744040",
@@ -45,6 +27,15 @@
     "diff_pct": 60.0
   },
   {
+    "ean": "7790189743999",
+    "nombre": "vino el ultimo tramo x 750 ml cabernet sauvignon",
+    "categoria": "Bebidas",
+    "precio_antes": 9287.0,
+    "precio_hoy": 14859.0,
+    "diff_abs": 5572.0,
+    "diff_pct": 60.0
+  },
+  {
     "ean": "7790380018056",
     "nombre": "chocolate toddy x 50 gm aireado mix",
     "categoria": "Almacen",
@@ -52,33 +43,6 @@
     "precio_hoy": 3687.0,
     "diff_abs": 1106.0,
     "diff_pct": 42.85
-  },
-  {
-    "ean": "2022060000002",
-    "nombre": "repollo colorado x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 33.56
-  },
-  {
-    "ean": "2022040000008",
-    "nombre": "repollo blanco x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 33.56
-  },
-  {
-    "ean": "2020370000002",
-    "nombre": "chaucha rolliza x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 25.03
   },
   {
     "ean": "2020750000004",
@@ -99,13 +63,13 @@
     "diff_pct": 16.23
   },
   {
-    "ean": "2011800000006",
-    "nombre": "frutas glaseadas x kg.",
-    "categoria": "Almacen",
-    "precio_antes": 19122.0,
-    "precio_hoy": 21990.0,
-    "diff_abs": 2868.0,
-    "diff_pct": 15.0
+    "ean": "7794820903100",
+    "nombre": "leche entera milkaut larga vida x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2102.0,
+    "precio_hoy": 2442.0,
+    "diff_abs": 340.0,
+    "diff_pct": 16.18
   },
   {
     "ean": "7898024396529",
@@ -133,15 +97,6 @@
     "precio_hoy": 7990.0,
     "diff_abs": 1000.0,
     "diff_pct": 14.31
-  },
-  {
-    "ean": "2020000000006",
-    "nombre": "arandanos en bandeja",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2190.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 300.0,
-    "diff_pct": 13.7
   },
   {
     "ean": "77949707",
@@ -178,5 +133,50 @@
     "precio_hoy": 2253.0,
     "diff_abs": 251.0,
     "diff_pct": 12.54
+  },
+  {
+    "ean": "7790380022145",
+    "nombre": "chocolate con leche y mani tokke x 120 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4418.0,
+    "precio_hoy": 4970.0,
+    "diff_abs": 552.0,
+    "diff_pct": 12.49
+  },
+  {
+    "ean": "7794870001344",
+    "nombre": "arroz primor largo fino x 1 kg.",
+    "categoria": "Almacen",
+    "precio_antes": 1355.0,
+    "precio_hoy": 1510.0,
+    "diff_abs": 155.0,
+    "diff_pct": 11.44
+  },
+  {
+    "ean": "7790380025122",
+    "nombre": "chocolate toddy x 60 gm relleno milk",
+    "categoria": "Almacen",
+    "precio_antes": 3319.0,
+    "precio_hoy": 3687.0,
+    "diff_abs": 368.0,
+    "diff_pct": 11.09
+  },
+  {
+    "ean": "7790380025115",
+    "nombre": "chocolate toddy x 60 gm relleno mousse",
+    "categoria": "Almacen",
+    "precio_antes": 3319.0,
+    "precio_hoy": 3687.0,
+    "diff_abs": 368.0,
+    "diff_pct": 11.09
+  },
+  {
+    "ean": "7790380025139",
+    "nombre": "chocolate  toddy x 60 gm cookies and cream",
+    "categoria": "Almacen",
+    "precio_antes": 3319.0,
+    "precio_hoy": 3687.0,
+    "diff_abs": 368.0,
+    "diff_pct": 11.09
   }
 ]

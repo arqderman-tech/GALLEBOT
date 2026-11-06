@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2020750000004",
-    "nombre": "frutillas x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
-  },
-  {
-    "ean": "2020370000002",
-    "nombre": "chaucha rolliza x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 8990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 11.12
-  },
-  {
-    "ean": "7791706000014",
-    "nombre": "vainillas whisper x 400 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 3449.0,
-    "precio_hoy": 3794.0,
-    "diff_abs": 345.0,
-    "diff_pct": 10.0
-  },
-  {
-    "ean": "7791706000038",
-    "nombre": "vainillas whisper x 200 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1783.0,
-    "precio_hoy": 1961.0,
-    "diff_abs": 178.0,
-    "diff_pct": 9.98
-  },
-  {
-    "ean": "7798136872228",
-    "nombre": "yogur dahi bebible proteico x 200 gr frutos rojos",
+    "ean": "7794820903100",
+    "nombre": "leche entera milkaut larga vida x 1 lt.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3746.0,
-    "precio_hoy": 4045.0,
-    "diff_abs": 299.0,
-    "diff_pct": 7.98
+    "precio_antes": 2102.0,
+    "precio_hoy": 2442.0,
+    "diff_abs": 340.0,
+    "diff_pct": 16.18
   },
   {
-    "ean": "7798136872020",
-    "nombre": "yogur proteico dahi x 190 gr frutos rojos",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3746.0,
-    "precio_hoy": 4045.0,
-    "diff_abs": 299.0,
-    "diff_pct": 7.98
+    "ean": "7794870001344",
+    "nombre": "arroz primor largo fino x 1 kg.",
+    "categoria": "Almacen",
+    "precio_antes": 1355.0,
+    "precio_hoy": 1510.0,
+    "diff_abs": 155.0,
+    "diff_pct": 11.44
   },
   {
-    "ean": "7798136872037",
-    "nombre": "yogur bebible dahi proteina x 200 ml natural",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3746.0,
-    "precio_hoy": 4045.0,
-    "diff_abs": 299.0,
-    "diff_pct": 7.98
+    "ean": "7794080001578",
+    "nombre": "fideos bernabeu tallarin x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 871.0,
+    "precio_hoy": 960.0,
+    "diff_abs": 89.0,
+    "diff_pct": 10.22
   },
   {
-    "ean": "7798136872006",
-    "nombre": "yogur dahi proteico x 190 gr sabor natural",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3746.0,
-    "precio_hoy": 4045.0,
-    "diff_abs": 299.0,
-    "diff_pct": 7.98
+    "ean": "7794080001585",
+    "nombre": "fideos bernabeu spaghetti x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 871.0,
+    "precio_hoy": 960.0,
+    "diff_abs": 89.0,
+    "diff_pct": 10.22
   },
   {
-    "ean": "7798136872013",
-    "nombre": "yogur dahi proteico x 190 gr sabor vainilla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3746.0,
-    "precio_hoy": 4045.0,
-    "diff_abs": 299.0,
-    "diff_pct": 7.98
+    "ean": "7794080001547",
+    "nombre": "fideos bernabeu rigatti x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 871.0,
+    "precio_hoy": 960.0,
+    "diff_abs": 89.0,
+    "diff_pct": 10.22
   },
   {
-    "ean": "7790071090231",
-    "nombre": "tostadas riera clasicas x 200 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1675.0,
-    "precio_hoy": 1793.0,
-    "diff_abs": 118.0,
-    "diff_pct": 7.04
+    "ean": "7794080001554",
+    "nombre": "fideos bernabeu mostachol x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 871.0,
+    "precio_hoy": 960.0,
+    "diff_abs": 89.0,
+    "diff_pct": 10.22
   },
   {
-    "ean": "7790071090422",
-    "nombre": "tostadas riera x 200 gr. sin sal",
-    "categoria": "Perfumeria",
-    "precio_antes": 1675.0,
-    "precio_hoy": 1793.0,
-    "diff_abs": 118.0,
-    "diff_pct": 7.04
+    "ean": "7794080001592",
+    "nombre": "fideos bernabeu coditos x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 871.0,
+    "precio_hoy": 960.0,
+    "diff_abs": 89.0,
+    "diff_pct": 10.22
   },
   {
-    "ean": "7790071090125",
-    "nombre": "tostadas riera x 200 gr. dulces",
-    "categoria": "Perfumeria",
-    "precio_antes": 1675.0,
-    "precio_hoy": 1793.0,
-    "diff_abs": 118.0,
-    "diff_pct": 7.04
+    "ean": "7794000005204",
+    "nombre": "mostaza fanacoa x 250 gm doy pack",
+    "categoria": "Almacen",
+    "precio_antes": 963.0,
+    "precio_hoy": 1014.0,
+    "diff_abs": 51.0,
+    "diff_pct": 5.3
   },
   {
-    "ean": "7790071070134",
-    "nombre": "tostadas riera light x 200 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1934.0,
-    "precio_hoy": 2070.0,
-    "diff_abs": 136.0,
-    "diff_pct": 7.03
+    "ean": "7794000008526",
+    "nombre": "caldo knorr balance sabor gallina-verdura x 12 uni",
+    "categoria": "Almacen",
+    "precio_antes": 3494.0,
+    "precio_hoy": 3649.0,
+    "diff_abs": 155.0,
+    "diff_pct": 4.44
   },
   {
-    "ean": "7790071070417",
-    "nombre": "tostadas riera 7 semillas x 200 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1934.0,
-    "precio_hoy": 2070.0,
-    "diff_abs": 136.0,
-    "diff_pct": 7.03
+    "ean": "7794000008519",
+    "nombre": "caldo de verduras knorr balance x 12 cubos",
+    "categoria": "Almacen",
+    "precio_antes": 3494.0,
+    "precio_hoy": 3649.0,
+    "diff_abs": 155.0,
+    "diff_pct": 4.44
   },
   {
-    "ean": "7798018100043",
-    "nombre": "amaretti whisper",
-    "categoria": "Perfumeria",
-    "precio_antes": 3008.0,
-    "precio_hoy": 3219.0,
-    "diff_abs": 211.0,
-    "diff_pct": 7.01
+    "ean": "7794000006911",
+    "nombre": "sopa knorr quick zapallo x 63 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 3640.0,
+    "precio_hoy": 3801.0,
+    "diff_abs": 161.0,
+    "diff_pct": 4.42
   },
   {
-    "ean": "7790071010215",
-    "nombre": "grisines riera x 160 gr. integral",
-    "categoria": "Perfumeria",
-    "precio_antes": 1943.0,
-    "precio_hoy": 2079.0,
-    "diff_abs": 136.0,
-    "diff_pct": 7.0
+    "ean": "7794000006898",
+    "nombre": "sopa knorr quick balance x 46,5 gr. zapallo",
+    "categoria": "Almacen",
+    "precio_antes": 3640.0,
+    "precio_hoy": 3801.0,
+    "diff_abs": 161.0,
+    "diff_pct": 4.42
   },
   {
-    "ean": "7790071010123",
-    "nombre": "grisines riera clasicos x 160 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1943.0,
-    "precio_hoy": 2079.0,
-    "diff_abs": 136.0,
-    "diff_pct": 7.0
+    "ean": "7794000006881",
+    "nombre": "sopa knorr quick balance x 50 gr. vegetales",
+    "categoria": "Almacen",
+    "precio_antes": 3640.0,
+    "precio_hoy": 3801.0,
+    "diff_abs": 161.0,
+    "diff_pct": 4.42
   },
   {
-    "ean": "7790071010314",
-    "nombre": "grisines sin sal riera x 160 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1943.0,
-    "precio_hoy": 2079.0,
-    "diff_abs": 136.0,
-    "diff_pct": 7.0
+    "ean": "7794000006942",
+    "nombre": "sopa knorr quick vegetales x 5 sobres",
+    "categoria": "Almacen",
+    "precio_antes": 3640.0,
+    "precio_hoy": 3801.0,
+    "diff_abs": 161.0,
+    "diff_pct": 4.42
   },
   {
-    "ean": "7790071070318",
-    "nombre": "tostadas riera 100% integrales x 200 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2164.0,
-    "precio_hoy": 2315.0,
-    "diff_abs": 151.0,
-    "diff_pct": 6.98
+    "ean": "7794000008540",
+    "nombre": "caldo sabor gallina knorr x 12 cubos",
+    "categoria": "Almacen",
+    "precio_antes": 3104.0,
+    "precio_hoy": 3241.0,
+    "diff_abs": 137.0,
+    "diff_pct": 4.41
   },
   {
-    "ean": "7794080000212",
-    "nombre": "tapa para pascualina la morocha hojaldre x 2 unid.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2117.0,
-    "precio_hoy": 2253.0,
-    "diff_abs": 136.0,
-    "diff_pct": 6.42
+    "ean": "7794000008533",
+    "nombre": "caldo knrr x 12 unidades sabor carne",
+    "categoria": "Almacen",
+    "precio_antes": 3104.0,
+    "precio_hoy": 3241.0,
+    "diff_abs": 137.0,
+    "diff_pct": 4.41
+  },
+  {
+    "ean": "7794000008557",
+    "nombre": "caldo knorr x12u.verdura",
+    "categoria": "Almacen",
+    "precio_antes": 3104.0,
+    "precio_hoy": 3241.0,
+    "diff_abs": 137.0,
+    "diff_pct": 4.41
+  },
+  {
+    "ean": "7794000008007",
+    "nombre": "salsa knorr pomarola x 340 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1722.0,
+    "precio_hoy": 1798.0,
+    "diff_abs": 76.0,
+    "diff_pct": 4.41
+  },
+  {
+    "ean": "7794000007994",
+    "nombre": "salsa lista knorr pizza x 200 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1178.0,
+    "precio_hoy": 1230.0,
+    "diff_abs": 52.0,
+    "diff_pct": 4.41
+  },
+  {
+    "ean": "7794000009615",
+    "nombre": "ramen knorr x 64 gr  sabor pollo picante",
+    "categoria": "Almacen",
+    "precio_antes": 3612.0,
+    "precio_hoy": 3771.0,
+    "diff_abs": 159.0,
+    "diff_pct": 4.4
   }
 ]

@@ -1,30 +1,30 @@
 {
-  "fecha": "20261105",
+  "fecha": "20261106",
   "total_productos": 6936,
-  "variacion_dia": -0.02,
-  "variacion_7d": 0.32,
-  "variacion_mes": 0.73,
+  "variacion_dia": 0.02,
+  "variacion_7d": 0.29,
+  "variacion_mes": 0.74,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.27,
-      "productos_subieron": 2,
-      "productos_bajaron": 68,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
       "total_productos": 1572
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.09,
-      "productos_subieron": 45,
-      "productos_bajaron": 6,
-      "total_productos": 1210
+      "variacion_pct_promedio": -0.11,
+      "productos_subieron": 1,
+      "productos_bajaron": 9,
+      "total_productos": 1208
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 6,
-      "productos_bajaron": 4,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
       "total_productos": 255
     },
     {
@@ -36,68 +36,77 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.14,
-      "productos_subieron": 21,
-      "productos_bajaron": 0,
-      "total_productos": 990
+      "variacion_pct_promedio": -0.06,
+      "productos_subieron": 1,
+      "productos_bajaron": 2,
+      "total_productos": 991
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.03,
-      "productos_subieron": 12,
-      "productos_bajaron": 0,
-      "total_productos": 2051
+      "variacion_pct_promedio": 0.16,
+      "productos_subieron": 105,
+      "productos_bajaron": 1,
+      "total_productos": 2052
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2021650000002",
-      "nombre": "zapallito largo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -25.06
+      "ean": "7790580141301",
+      "nombre": "postre bon o bon chocolate x 120 gm tentacion",
+      "categoria": "Almacen",
+      "precio_antes": 53917.0,
+      "precio_hoy": 4493.0,
+      "diff_abs": -49424.0,
+      "diff_pct": -91.67
     },
     {
-      "ean": "7790314075292",
-      "nombre": "vino tinto estancia mendoza merlot-cabernet x 750.",
-      "categoria": "Bebidas",
-      "precio_antes": 4639.0,
-      "precio_hoy": 3477.0,
-      "diff_abs": -1162.0,
-      "diff_pct": -25.05
-    },
-    {
-      "ean": "2021820000009",
-      "nombre": "pimiento rojo x kg.",
+      "ean": "2020160000007",
+      "nombre": "brocoli x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 7990.0,
-      "precio_hoy": 5990.0,
+      "precio_antes": 5990.0,
+      "precio_hoy": 3990.0,
       "diff_abs": -2000.0,
-      "diff_pct": -25.03
+      "diff_pct": -33.39
     },
     {
-      "ean": "2019950000006",
-      "nombre": "akusay x kg.",
+      "ean": "8445291586864",
+      "nombre": "cafe molido torrado nescafe dolca x 190 gm",
+      "categoria": "Perfumeria",
+      "precio_antes": 8603.0,
+      "precio_hoy": 6073.0,
+      "diff_abs": -2530.0,
+      "diff_pct": -29.41
+    },
+    {
+      "ean": "8445291904392",
+      "nombre": "combo nescafe dolca x 170 gr. + coffee mate x 170.",
+      "categoria": "Perfumeria",
+      "precio_antes": 16855.0,
+      "precio_hoy": 12419.0,
+      "diff_abs": -4436.0,
+      "diff_pct": -26.32
+    },
+    {
+      "ean": "2022040000008",
+      "nombre": "repollo blanco x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
+      "precio_antes": 1990.0,
+      "precio_hoy": 1490.0,
+      "diff_abs": -500.0,
+      "diff_pct": -25.13
     },
     {
-      "ean": "2019990000004",
-      "nombre": "apio x kg.",
+      "ean": "2022060000002",
+      "nombre": "repollo colorado x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
+      "precio_antes": 1990.0,
+      "precio_hoy": 1490.0,
+      "diff_abs": -500.0,
+      "diff_pct": -25.13
     },
     {
-      "ean": "2019910000008",
-      "nombre": "ajies x kg.",
+      "ean": "2020370000002",
+      "nombre": "chaucha rolliza x kg.",
       "categoria": "Frutas Y Verduras",
       "precio_antes": 9990.0,
       "precio_hoy": 7990.0,
@@ -105,17 +114,8 @@
       "diff_pct": -20.02
     },
     {
-      "ean": "7790314075261",
-      "nombre": "vino est.mend.x750ml.cabe-malb",
-      "categoria": "Bebidas",
-      "precio_antes": 4229.0,
-      "precio_hoy": 3477.0,
-      "diff_abs": -752.0,
-      "diff_pct": -17.78
-    },
-    {
-      "ean": "2021660000009",
-      "nombre": "zapallito redondo x kg.",
+      "ean": "2020910000004",
+      "nombre": "lechuga de hoja x kg.",
       "categoria": "Frutas Y Verduras",
       "precio_antes": 2990.0,
       "precio_hoy": 2490.0,
@@ -123,25 +123,25 @@
       "diff_pct": -16.72
     },
     {
-      "ean": "7790314066436",
-      "nombre": "vino est.mend.x1.125lt.cab-mal",
-      "categoria": "Bebidas",
-      "precio_antes": 5272.0,
-      "precio_hoy": 4779.0,
-      "diff_abs": -493.0,
-      "diff_pct": -9.35
+      "ean": "2020120000009",
+      "nombre": "berengena negra x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
+      "precio_hoy": 5990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -14.31
     },
     {
-      "ean": "7790314080203",
-      "nombre": "vino est.mend.x750ml.che-ch-dc",
-      "categoria": "Bebidas",
-      "precio_antes": 3873.0,
-      "precio_hoy": 3511.0,
-      "diff_abs": -362.0,
-      "diff_pct": -9.35
+      "ean": "2020350000008",
+      "nombre": "chaucha ballina x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 8990.0,
+      "precio_hoy": 7990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -11.12
     }
   ],
-  "productos_subieron_dia": 86,
-  "productos_bajaron_dia": 78,
-  "productos_sin_cambio_dia": 6768
+  "productos_subieron_dia": 107,
+  "productos_bajaron_dia": 12,
+  "productos_sin_cambio_dia": 6813
 }
