@@ -1,24 +1,24 @@
 {
-  "fecha": "20261106",
+  "fecha": "20261107",
   "total_productos": 6936,
-  "variacion_dia": 0.02,
-  "variacion_7d": 0.29,
-  "variacion_mes": 0.74,
+  "variacion_dia": 0.12,
+  "variacion_7d": 0.36,
+  "variacion_mes": 0.86,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": 0.07,
+      "productos_subieron": 16,
+      "productos_bajaron": 1,
       "total_productos": 1572
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.11,
-      "productos_subieron": 1,
-      "productos_bajaron": 9,
-      "total_productos": 1208
+      "variacion_pct_promedio": 0.38,
+      "productos_subieron": 147,
+      "productos_bajaron": 10,
+      "total_productos": 1212
     },
     {
       "categoria": "Congelados",
@@ -36,112 +36,112 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.06,
-      "productos_subieron": 1,
-      "productos_bajaron": 2,
+      "variacion_pct_promedio": 0.21,
+      "productos_subieron": 53,
+      "productos_bajaron": 0,
       "total_productos": 991
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.16,
-      "productos_subieron": 105,
-      "productos_bajaron": 1,
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 11,
+      "productos_bajaron": 0,
       "total_productos": 2052
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790580141301",
-      "nombre": "postre bon o bon chocolate x 120 gm tentacion",
-      "categoria": "Almacen",
-      "precio_antes": 53917.0,
-      "precio_hoy": 4493.0,
-      "diff_abs": -49424.0,
-      "diff_pct": -91.67
+      "ean": "7790787053254",
+      "nombre": "lecher chocolatada x 200 ml proteina larga vida",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1942.0,
+      "precio_hoy": 1760.0,
+      "diff_abs": -182.0,
+      "diff_pct": -9.37
     },
     {
-      "ean": "2020160000007",
-      "nombre": "brocoli x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -33.39
+      "ean": "7790787053247",
+      "nombre": "leche ilolay larga vida proteina x 200 ml latte caramel",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 1942.0,
+      "precio_hoy": 1760.0,
+      "diff_abs": -182.0,
+      "diff_pct": -9.37
     },
     {
-      "ean": "8445291586864",
-      "nombre": "cafe molido torrado nescafe dolca x 190 gm",
-      "categoria": "Perfumeria",
-      "precio_antes": 8603.0,
-      "precio_hoy": 6073.0,
-      "diff_abs": -2530.0,
-      "diff_pct": -29.41
+      "ean": "7790787035717",
+      "nombre": "yogur ilolay + proteina x 180 gr vainilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3044.0,
+      "precio_hoy": 2899.0,
+      "diff_abs": -145.0,
+      "diff_pct": -4.76
     },
     {
-      "ean": "8445291904392",
-      "nombre": "combo nescafe dolca x 170 gr. + coffee mate x 170.",
-      "categoria": "Perfumeria",
-      "precio_antes": 16855.0,
-      "precio_hoy": 12419.0,
-      "diff_abs": -4436.0,
-      "diff_pct": -26.32
+      "ean": "7790787035700",
+      "nombre": "yogur ilolay + proteina x 180 gr frutilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3044.0,
+      "precio_hoy": 2899.0,
+      "diff_abs": -145.0,
+      "diff_pct": -4.76
     },
     {
-      "ean": "2022040000008",
-      "nombre": "repollo blanco x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1990.0,
-      "precio_hoy": 1490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -25.13
+      "ean": "7794820903100",
+      "nombre": "leche entera milkaut larga vida x 1 lt.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2442.0,
+      "precio_hoy": 2349.0,
+      "diff_abs": -93.0,
+      "diff_pct": -3.81
     },
     {
-      "ean": "2022060000002",
-      "nombre": "repollo colorado x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1990.0,
-      "precio_hoy": 1490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -25.13
+      "ean": "7794820903117",
+      "nombre": "leche parcialmente descremada milkaut larga vida .",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2442.0,
+      "precio_hoy": 2349.0,
+      "diff_abs": -93.0,
+      "diff_pct": -3.81
     },
     {
-      "ean": "2020370000002",
-      "nombre": "chaucha rolliza x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 9990.0,
-      "precio_hoy": 7990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -20.02
+      "ean": "7790787960996",
+      "nombre": "yogur ilolay tetra bebible proteina x 220 gr vainilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2924.0,
+      "precio_hoy": 2844.0,
+      "diff_abs": -80.0,
+      "diff_pct": -2.74
     },
     {
-      "ean": "2020910000004",
-      "nombre": "lechuga de hoja x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 2490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -16.72
+      "ean": "7790787960989",
+      "nombre": "yogur ilolay bebible tetra + proteina x 220 gr frutilla",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2924.0,
+      "precio_hoy": 2844.0,
+      "diff_abs": -80.0,
+      "diff_pct": -2.74
     },
     {
-      "ean": "2020120000009",
-      "nombre": "berengena negra x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 5990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -14.31
+      "ean": "7790787053230",
+      "nombre": "leche larga vida ilolay descremada x 1 litro + proteina",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2590.0,
+      "precio_hoy": 2551.0,
+      "diff_abs": -39.0,
+      "diff_pct": -1.51
     },
     {
-      "ean": "2020350000008",
-      "nombre": "chaucha ballina x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 8990.0,
-      "precio_hoy": 7990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -11.12
+      "ean": "7790787960767",
+      "nombre": "leche l.v.ilolay x1lt.0% lacto",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 2590.0,
+      "precio_hoy": 2551.0,
+      "diff_abs": -39.0,
+      "diff_pct": -1.51
     }
   ],
-  "productos_subieron_dia": 107,
-  "productos_bajaron_dia": 12,
-  "productos_sin_cambio_dia": 6813
+  "productos_subieron_dia": 227,
+  "productos_bajaron_dia": 11,
+  "productos_sin_cambio_dia": 6698
 }

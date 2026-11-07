@@ -1,41 +1,5 @@
 [
   {
-    "ean": "7791250003424",
-    "nombre": "espumante navarro correa x 750 ml spritz",
-    "categoria": "Bebidas",
-    "precio_antes": 9627.0,
-    "precio_hoy": 15404.0,
-    "diff_abs": 5777.0,
-    "diff_pct": 60.01
-  },
-  {
-    "ean": "7790189744040",
-    "nombre": "vino el ultimo tramo x 750 ml naranjo torrontes",
-    "categoria": "Bebidas",
-    "precio_antes": 9287.0,
-    "precio_hoy": 14859.0,
-    "diff_abs": 5572.0,
-    "diff_pct": 60.0
-  },
-  {
-    "ean": "7790189743982",
-    "nombre": "vino el ultimo tramo x 750 ml malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 9287.0,
-    "precio_hoy": 14859.0,
-    "diff_abs": 5572.0,
-    "diff_pct": 60.0
-  },
-  {
-    "ean": "7790189743999",
-    "nombre": "vino el ultimo tramo x 750 ml cabernet sauvignon",
-    "categoria": "Bebidas",
-    "precio_antes": 9287.0,
-    "precio_hoy": 14859.0,
-    "diff_abs": 5572.0,
-    "diff_pct": 60.0
-  },
-  {
     "ean": "7790380018056",
     "nombre": "chocolate toddy x 50 gm aireado mix",
     "categoria": "Almacen",
@@ -45,6 +9,24 @@
     "diff_pct": 42.85
   },
   {
+    "ean": "7790580151843",
+    "nombre": "caramelos arcor x 200 gm mas calabaza plastica",
+    "categoria": "Almacen",
+    "precio_antes": 13275.0,
+    "precio_hoy": 17697.0,
+    "diff_abs": 4422.0,
+    "diff_pct": 33.31
+  },
+  {
+    "ean": "7790580118952",
+    "nombre": "caramelos mogul extreme x 80 gm palotes pinta lengua",
+    "categoria": "Almacen",
+    "precio_antes": 1177.0,
+    "precio_hoy": 1567.0,
+    "diff_abs": 390.0,
+    "diff_pct": 33.14
+  },
+  {
     "ean": "2020750000004",
     "nombre": "frutillas x kg.",
     "categoria": "Frutas Y Verduras",
@@ -52,24 +34,6 @@
     "precio_hoy": 6990.0,
     "diff_abs": 1000.0,
     "diff_pct": 16.69
-  },
-  {
-    "ean": "7794820903117",
-    "nombre": "leche parcialmente descremada milkaut larga vida .",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2101.0,
-    "precio_hoy": 2442.0,
-    "diff_abs": 341.0,
-    "diff_pct": 16.23
-  },
-  {
-    "ean": "7794820903100",
-    "nombre": "leche entera milkaut larga vida x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2102.0,
-    "precio_hoy": 2442.0,
-    "diff_abs": 340.0,
-    "diff_pct": 16.18
   },
   {
     "ean": "7898024396529",
@@ -144,6 +108,15 @@
     "diff_pct": 12.49
   },
   {
+    "ean": "7794820903100",
+    "nombre": "leche entera milkaut larga vida x 1 lt.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2102.0,
+    "precio_hoy": 2349.0,
+    "diff_abs": 247.0,
+    "diff_pct": 11.75
+  },
+  {
     "ean": "7794870001344",
     "nombre": "arroz primor largo fino x 1 kg.",
     "categoria": "Almacen",
@@ -153,8 +126,8 @@
     "diff_pct": 11.44
   },
   {
-    "ean": "7790380025122",
-    "nombre": "chocolate toddy x 60 gm relleno milk",
+    "ean": "7790380025139",
+    "nombre": "chocolate  toddy x 60 gm cookies and cream",
     "categoria": "Almacen",
     "precio_antes": 3319.0,
     "precio_hoy": 3687.0,
@@ -171,12 +144,39 @@
     "diff_pct": 11.09
   },
   {
-    "ean": "7790380025139",
-    "nombre": "chocolate  toddy x 60 gm cookies and cream",
+    "ean": "7790380025122",
+    "nombre": "chocolate toddy x 60 gm relleno milk",
     "categoria": "Almacen",
     "precio_antes": 3319.0,
     "precio_hoy": 3687.0,
     "diff_abs": 368.0,
     "diff_pct": 11.09
+  },
+  {
+    "ean": "7898024396994",
+    "nombre": "bombones ferrero rocher x 12 unidades",
+    "categoria": "Almacen",
+    "precio_antes": 16027.0,
+    "precio_hoy": 17753.0,
+    "diff_abs": 1726.0,
+    "diff_pct": 10.77
+  },
+  {
+    "ean": "7861002900117",
+    "nombre": "bombones ferrero rocher x 8 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 10627.0,
+    "precio_hoy": 11765.0,
+    "diff_abs": 1138.0,
+    "diff_pct": 10.71
+  },
+  {
+    "ean": "7790787960934",
+    "nombre": "yogur parcialmente descremado cremoso ilolay x 350 gm natura",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2793.0,
+    "precio_hoy": 3079.0,
+    "diff_abs": 286.0,
+    "diff_pct": 10.24
   }
 ]
