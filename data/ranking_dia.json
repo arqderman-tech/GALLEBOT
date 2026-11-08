@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790787960934",
-    "nombre": "yogur parcialmente descremado cremoso ilolay x 350 gm natura",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2793.0,
-    "precio_hoy": 3079.0,
-    "diff_abs": 286.0,
-    "diff_pct": 10.24
-  },
-  {
-    "ean": "7798078238328",
-    "nombre": "espumante maria codorniu x 750 ml brut rose",
-    "categoria": "Bebidas",
-    "precio_antes": 13601.0,
-    "precio_hoy": 14917.0,
-    "diff_abs": 1316.0,
-    "diff_pct": 9.68
-  },
-  {
-    "ean": "7798078238298",
-    "nombre": "esp.m.codorniu x750ml.extr.bru",
-    "categoria": "Bebidas",
-    "precio_antes": 13601.0,
-    "precio_hoy": 14917.0,
-    "diff_abs": 1316.0,
-    "diff_pct": 9.68
-  },
-  {
-    "ean": "7798078238304",
-    "nombre": "espuamnte maria codorniu x 750 ml brut nature",
-    "categoria": "Bebidas",
-    "precio_antes": 13601.0,
-    "precio_hoy": 14917.0,
-    "diff_abs": 1316.0,
-    "diff_pct": 9.68
-  },
-  {
-    "ean": "7790787960927",
-    "nombre": "yogur batido descremado ilolay natural x 140 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1502.0,
-    "precio_hoy": 1624.0,
-    "diff_abs": 122.0,
-    "diff_pct": 8.12
-  },
-  {
-    "ean": "7798078230667",
-    "nombre": "vino tinto septima obra cabernet sauvignon x 750 .",
-    "categoria": "Bebidas",
-    "precio_antes": 16380.0,
-    "precio_hoy": 17690.0,
-    "diff_abs": 1310.0,
-    "diff_pct": 8.0
-  },
-  {
-    "ean": "7798078236935",
-    "nombre": "vino septima obra x 750 gr cabernet franc",
-    "categoria": "Bebidas",
-    "precio_antes": 16380.0,
-    "precio_hoy": 17690.0,
-    "diff_abs": 1310.0,
-    "diff_pct": 8.0
-  },
-  {
-    "ean": "7798078230643",
-    "nombre": "vino septima obra x 750 ml malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 16380.0,
-    "precio_hoy": 17690.0,
-    "diff_abs": 1310.0,
-    "diff_pct": 8.0
-  },
-  {
-    "ean": "7793046080015",
-    "nombre": "durazno dulcor en lata x 820 gr en trozos",
+    "ean": "7790310985830",
+    "nombre": "3ds queso x 85 gr.",
     "categoria": "Almacen",
-    "precio_antes": 3644.9,
-    "precio_hoy": 3936.0,
-    "diff_abs": 291.1,
-    "diff_pct": 7.99
+    "precio_antes": 3981.0,
+    "precio_hoy": 3981.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798078238137",
-    "nombre": "vino septima emblema cabernet franc x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 9734.0,
-    "precio_hoy": 10483.0,
-    "diff_abs": 749.0,
-    "diff_pct": 7.69
+    "ean": "7790310985137",
+    "nombre": "3ds queso x143gr.",
+    "categoria": "Almacen",
+    "precio_antes": 5545.0,
+    "precio_hoy": 5545.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798078238168",
-    "nombre": "vino septima emblema rosado de malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 9734.0,
-    "precio_hoy": 10483.0,
-    "diff_abs": 749.0,
-    "diff_pct": 7.69
+    "ean": "7790310985113",
+    "nombre": "3ds sabor queso x 43 gm",
+    "categoria": "Almacen",
+    "precio_antes": 2370.0,
+    "precio_hoy": 2370.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798078238120",
-    "nombre": "vino septima emblema x 750 ml cabernet",
-    "categoria": "Bebidas",
-    "precio_antes": 9734.0,
-    "precio_hoy": 10483.0,
-    "diff_abs": 749.0,
-    "diff_pct": 7.69
+    "ean": "7791728246629",
+    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
+    "categoria": "Almacen",
+    "precio_antes": 24484.0,
+    "precio_hoy": 24484.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798078238144",
-    "nombre": "vino septima emblema x 750 ml chardonay",
-    "categoria": "Bebidas",
-    "precio_antes": 9734.0,
-    "precio_hoy": 10483.0,
-    "diff_abs": 749.0,
-    "diff_pct": 7.69
+    "ean": "763571722428",
+    "nombre": "ac.de coco entrenuts x200virg.",
+    "categoria": "Almacen",
+    "precio_antes": 9564.0,
+    "precio_hoy": 9564.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798078238113",
-    "nombre": "vino tinto septima emblema malbec x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 9734.0,
-    "precio_hoy": 10483.0,
-    "diff_abs": 749.0,
-    "diff_pct": 7.69
+    "ean": "7798080520657",
+    "nombre": "ac.ol.l.toscana x250ml.ajo",
+    "categoria": "Almacen",
+    "precio_antes": 10398.0,
+    "precio_hoy": 10398.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798078238038",
-    "nombre": "vino los pasos x 750 ml. cabernet sauvignon",
-    "categoria": "Bebidas",
-    "precio_antes": 6084.0,
-    "precio_hoy": 6458.0,
-    "diff_abs": 374.0,
-    "diff_pct": 6.15
+    "ean": "7798080520534",
+    "nombre": "ac.ol.l.toscana x250ml.albahac",
+    "categoria": "Almacen",
+    "precio_antes": 10398.0,
+    "precio_hoy": 10398.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798078238052",
-    "nombre": "vino los pasos x 750 ml. chardonnay-semillon",
-    "categoria": "Bebidas",
-    "precio_antes": 6084.0,
-    "precio_hoy": 6458.0,
-    "diff_abs": 374.0,
-    "diff_pct": 6.15
+    "ean": "7791728246612",
+    "nombre": "ac.ol.zuccardi x250ml.coratina",
+    "categoria": "Almacen",
+    "precio_antes": 14282.0,
+    "precio_hoy": 14282.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798078238021",
-    "nombre": "vino los pasos x 750 ml. malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 6084.0,
-    "precio_hoy": 6458.0,
-    "diff_abs": 374.0,
-    "diff_pct": 6.15
+    "ean": "7791728246575",
+    "nombre": "ac.ol.zuccardi x250ml.picual",
+    "categoria": "Almacen",
+    "precio_antes": 14282.0,
+    "precio_hoy": 14282.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7798078238250",
-    "nombre": "vino blanco los pasos dulce x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 6084.0,
-    "precio_hoy": 6458.0,
-    "diff_abs": 374.0,
-    "diff_pct": 6.15
+    "ean": "7791728241181",
+    "nombre": "ac.ol.zuelo x500ml.bot.intenso",
+    "categoria": "Almacen",
+    "precio_antes": 19077.0,
+    "precio_hoy": 19077.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791564136542",
-    "nombre": "queso azul bavaria grandblu envasado x 125 gr",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5791.0,
-    "precio_hoy": 6081.0,
-    "diff_abs": 290.0,
-    "diff_pct": 5.01
+    "ean": "41331014922",
+    "nombre": "acaitunas goya x 149 gm con pimiento picante",
+    "categoria": "Almacen",
+    "precio_antes": 10757.0,
+    "precio_hoy": 10757.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791564136535",
-    "nombre": "queso azul bavaria envasado x 125 gr clasico",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 6229.0,
-    "precio_hoy": 6541.0,
-    "diff_abs": 312.0,
-    "diff_pct": 5.01
+    "ean": "7790580160807",
+    "nombre": "aceite arcor x900ml.maiz",
+    "categoria": "Almacen",
+    "precio_antes": 5911.0,
+    "precio_hoy": 5911.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790070225023",
+    "nombre": "aceite cocinero mezcla x1.5lt.",
+    "categoria": "Almacen",
+    "precio_antes": 5476.0,
+    "precio_hoy": 5476.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790070231604",
+    "nombre": "aceite cocinero olivay girasol x 1.5 litros",
+    "categoria": "Almacen",
+    "precio_antes": 9336.0,
+    "precio_hoy": 9336.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790070231598",
+    "nombre": "aceite cocinero x900 ml oliva y girasol",
+    "categoria": "Almacen",
+    "precio_antes": 5809.0,
+    "precio_hoy": 5809.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790272006819",
+    "nombre": "aceite copisi x 900 ml. girasol y oliva",
+    "categoria": "Almacen",
+    "precio_antes": 6162.0,
+    "precio_hoy": 6162.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "656750783931",
+    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 8892.0,
+    "precio_hoy": 8892.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "763571722435",
+    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 16506.0,
+    "precio_hoy": 16506.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7794870000040",
+    "nombre": "aceite de girasol alsamar x 5 lts.",
+    "categoria": "Almacen",
+    "precio_antes": 22784.0,
+    "precio_hoy": 22784.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798316700907",
+    "nombre": "aceite de girasol alsamar x 900 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 4133.0,
+    "precio_hoy": 4133.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]
