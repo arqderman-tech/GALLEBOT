@@ -1,14 +1,5 @@
 [
   {
-    "ean": "2021550000003",
-    "nombre": "pepino x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 150.75
-  },
-  {
     "ean": "2020100000005",
     "nombre": "berenjena morada x kg.",
     "categoria": "Frutas Y Verduras",
@@ -27,13 +18,22 @@
     "diff_pct": 101.01
   },
   {
+    "ean": "2021550000003",
+    "nombre": "pepino x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2500.0,
+    "diff_pct": 100.4
+  },
+  {
     "ean": "2020980000003",
     "nombre": "limones x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
+    "precio_antes": 2490.0,
     "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
+    "diff_abs": 2500.0,
+    "diff_pct": 100.4
   },
   {
     "ean": "2021880000001",
@@ -43,6 +43,15 @@
     "precio_hoy": 3990.0,
     "diff_abs": 1500.0,
     "diff_pct": 60.24
+  },
+  {
+    "ean": "2020960000009",
+    "nombre": "lechuga repollada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2590.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1400.0,
+    "diff_pct": 54.05
   },
   {
     "ean": "2019970000000",
@@ -81,33 +90,6 @@
     "diff_pct": 36.07
   },
   {
-    "ean": "2020960000009",
-    "nombre": "lechuga repollada x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
-    "ean": "2030920000000",
-    "nombre": "puerro x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
-    "ean": "2019990000004",
-    "nombre": "apio x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
     "ean": "2022030000001",
     "nombre": "repollitos de brusellas en bandeja",
     "categoria": "Frutas Y Verduras",
@@ -144,6 +126,15 @@
     "diff_pct": 20.2
   },
   {
+    "ean": "2020310000000",
+    "nombre": "cebolla morada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
+  },
+  {
     "ean": "2020120000009",
     "nombre": "berengena negra x kg.",
     "categoria": "Frutas Y Verduras",
@@ -151,6 +142,15 @@
     "precio_hoy": 5990.0,
     "diff_abs": 1000.0,
     "diff_pct": 20.04
+  },
+  {
+    "ean": "2021090000006",
+    "nombre": "mandarina encore x kilo",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1690.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 300.0,
+    "diff_pct": 17.75
   },
   {
     "ean": "7798130190076",
