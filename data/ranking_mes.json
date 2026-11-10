@@ -9,15 +9,6 @@
     "diff_pct": 133.78
   },
   {
-    "ean": "2020730000000",
-    "nombre": "espinaca atado",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 101.01
-  },
-  {
     "ean": "2021550000003",
     "nombre": "pepino x kg.",
     "categoria": "Frutas Y Verduras",
@@ -52,6 +43,15 @@
     "precio_hoy": 3990.0,
     "diff_abs": 1400.0,
     "diff_pct": 54.05
+  },
+  {
+    "ean": "2020730000000",
+    "nombre": "espinaca atado",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 990.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 50.51
   },
   {
     "ean": "2019970000000",
@@ -90,15 +90,6 @@
     "diff_pct": 36.07
   },
   {
-    "ean": "2022030000001",
-    "nombre": "repollitos de brusellas en bandeja",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
     "ean": "2037320000005",
     "nombre": "curcuma x kg.",
     "categoria": "Frutas Y Verduras",
@@ -117,17 +108,17 @@
     "diff_pct": 21.8
   },
   {
-    "ean": "2022080000006",
-    "nombre": "rucula x paquete",
+    "ean": "2019960000003",
+    "nombre": "albahaca x paquete",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 1190.0,
-    "diff_abs": 200.0,
-    "diff_pct": 20.2
+    "precio_antes": 1490.0,
+    "precio_hoy": 1790.0,
+    "diff_abs": 300.0,
+    "diff_pct": 20.13
   },
   {
-    "ean": "2020310000000",
-    "nombre": "cebolla morada x kg.",
+    "ean": "2020120000009",
+    "nombre": "berengena negra x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 4990.0,
     "precio_hoy": 5990.0,
@@ -135,8 +126,8 @@
     "diff_pct": 20.04
   },
   {
-    "ean": "2020120000009",
-    "nombre": "berengena negra x kg.",
+    "ean": "2020310000000",
+    "nombre": "cebolla morada x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 4990.0,
     "precio_hoy": 5990.0,
@@ -160,6 +151,15 @@
     "precio_hoy": 7091.0,
     "diff_abs": 1036.0,
     "diff_pct": 17.11
+  },
+  {
+    "ean": "7790645003575",
+    "nombre": "sardinas en aceita y agua caracas x 125 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 2818.0,
+    "precio_hoy": 3293.0,
+    "diff_abs": 475.0,
+    "diff_pct": 16.86
   },
   {
     "ean": "2020750000004",
