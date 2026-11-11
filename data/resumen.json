@@ -1,147 +1,147 @@
 {
-  "fecha": "20261110",
-  "total_productos": 6978,
-  "variacion_dia": -0.02,
-  "variacion_7d": 0.21,
-  "variacion_mes": 0.65,
+  "fecha": "20261111",
+  "total_productos": 6957,
+  "variacion_dia": 0.08,
+  "variacion_7d": 0.18,
+  "variacion_mes": 0.72,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.28,
+      "productos_subieron": 78,
       "productos_bajaron": 0,
-      "total_productos": 1570
+      "total_productos": 1573
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.11,
-      "productos_subieron": 3,
-      "productos_bajaron": 9,
-      "total_productos": 1206
+      "variacion_pct_promedio": 0.04,
+      "productos_subieron": 5,
+      "productos_bajaron": 0,
+      "total_productos": 1215
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "total_productos": 254
+      "total_productos": 256
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 852
+      "total_productos": 856
     },
     {
       "categoria": "Cuidado Personal",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 984
+      "total_productos": 992
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 4,
       "productos_bajaron": 0,
-      "total_productos": 2037
+      "total_productos": 2057
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2029100000008",
-      "nombre": "batata zanahoria x kilo",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4490.0,
-      "precio_hoy": 2016.0,
-      "diff_abs": -2474.0,
-      "diff_pct": -55.1
-    },
-    {
-      "ean": "2020730000000",
-      "nombre": "espinaca atado",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1990.0,
-      "precio_hoy": 1490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -25.13
-    },
-    {
-      "ean": "2030920000000",
-      "nombre": "puerro x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -25.06
-    },
-    {
-      "ean": "2021790000009",
-      "nombre": "pimiento amarillo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 8990.0,
-      "precio_hoy": 6990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -22.25
-    },
-    {
-      "ean": "2022080000006",
-      "nombre": "rucula x paquete",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1190.0,
-      "precio_hoy": 990.0,
-      "diff_abs": -200.0,
-      "diff_pct": -16.81
-    },
-    {
-      "ean": "2021650000002",
-      "nombre": "zapallito largo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 2490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -16.72
-    },
-    {
-      "ean": "2021840000003",
-      "nombre": "pimiento verde x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -16.69
-    },
-    {
-      "ean": "2021820000009",
-      "nombre": "pimiento rojo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -16.69
-    },
-    {
-      "ean": "2021660000009",
-      "nombre": "zapallito redondo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2490.0,
-      "precio_hoy": 2390.0,
-      "diff_abs": -100.0,
-      "diff_pct": -4.02
-    },
-    {
-      "ean": "7794990184491",
-      "nombre": "queso untable ricrem clasico x 180 gr",
+      "ean": "7790070621863",
+      "nombre": "rav.la saltena x450gr.4quesos",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 1785.0,
-      "precio_hoy": 1785.0,
+      "precio_antes": 4552.0,
+      "precio_hoy": 4552.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7794080004173",
+      "nombre": "ravioles la morocha x 500 gr. 4 quesos",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3641.0,
+      "precio_hoy": 3641.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7794080001516",
+      "nombre": "ravioles la morocha x 1 kg. espinaca y pollo",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 6612.0,
+      "precio_hoy": 6612.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7794080001523",
+      "nombre": "ravioles la morocha x 1 kg. cuatro quesos",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 6612.0,
+      "precio_hoy": 6612.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7794080001622",
+      "nombre": "ravioles la morocha x 1 kg. carne y verdura",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 6612.0,
+      "precio_hoy": 6612.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7794080000441",
+      "nombre": "ravioles la morocha ricota y queso x 500 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3641.0,
+      "precio_hoy": 3641.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7794080000502",
+      "nombre": "ravioles la morocha de pollo cespinaca",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3641.0,
+      "precio_hoy": 3641.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7794080000458",
+      "nombre": "ravioles la morocha de carne y verdura x 500 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3641.0,
+      "precio_hoy": 3641.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7795293106210",
+      "nombre": "ravioles don yeyo x 500 gr. espinaca y pollo",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3946.0,
+      "precio_hoy": 3946.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "ean": "7795293106111",
+      "nombre": "ravioles don yeyo x 500 gr. carne y espinaca",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 4104.0,
+      "precio_hoy": 4104.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 3,
-  "productos_bajaron_dia": 9,
-  "productos_sin_cambio_dia": 6891
+  "productos_subieron_dia": 88,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 6861
 }

@@ -1,5 +1,14 @@
 [
   {
+    "ean": "2022010000007",
+    "nombre": "remolacha x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 790.0,
+    "precio_hoy": 990.0,
+    "diff_abs": 200.0,
+    "diff_pct": 25.32
+  },
+  {
     "ean": "2019960000003",
     "nombre": "albahaca x paquete",
     "categoria": "Frutas Y Verduras",
@@ -7,6 +16,15 @@
     "precio_hoy": 1790.0,
     "diff_abs": 300.0,
     "diff_pct": 20.13
+  },
+  {
+    "ean": "7798052500045",
+    "nombre": "huevos blancos x 6 unidades carton",
+    "categoria": "Almacen",
+    "precio_antes": 1761.0,
+    "precio_hoy": 2076.0,
+    "diff_abs": 315.0,
+    "diff_pct": 17.89
   },
   {
     "ean": "2020750000004",
@@ -108,15 +126,6 @@
     "diff_pct": 9.98
   },
   {
-    "ean": "7798078238328",
-    "nombre": "espumante maria codorniu x 750 ml brut rose",
-    "categoria": "Bebidas",
-    "precio_antes": 13601.0,
-    "precio_hoy": 14917.0,
-    "diff_abs": 1316.0,
-    "diff_pct": 9.68
-  },
-  {
     "ean": "7798078238298",
     "nombre": "esp.m.codorniu x750ml.extr.bru",
     "categoria": "Bebidas",
@@ -135,48 +144,39 @@
     "diff_pct": 9.68
   },
   {
-    "ean": "7790895002991",
-    "nombre": "jugo cepita x 200 ml. durazno",
+    "ean": "7798078238328",
+    "nombre": "espumante maria codorniu x 750 ml brut rose",
     "categoria": "Bebidas",
-    "precio_antes": 1089.0,
-    "precio_hoy": 1192.0,
-    "diff_abs": 103.0,
-    "diff_pct": 9.46
+    "precio_antes": 13601.0,
+    "precio_hoy": 14917.0,
+    "diff_abs": 1316.0,
+    "diff_pct": 9.68
   },
   {
-    "ean": "7790895641596",
-    "nombre": "jugo cepita naranja x 200 ml.",
+    "ean": "7790415128705",
+    "nombre": "vino gascon x 750 ml sauvignon esc.",
     "categoria": "Bebidas",
-    "precio_antes": 1089.0,
-    "precio_hoy": 1192.0,
-    "diff_abs": 103.0,
-    "diff_pct": 9.46
+    "precio_antes": 11200.0,
+    "precio_hoy": 12240.0,
+    "diff_abs": 1040.0,
+    "diff_pct": 9.29
   },
   {
-    "ean": "7790895000720",
-    "nombre": "jugo cepita manzana x 200 ml.",
+    "ean": "7790415129085",
+    "nombre": "vino tinto escorihuela gascon x 750 ml. cabernet s",
     "categoria": "Bebidas",
-    "precio_antes": 1089.0,
-    "precio_hoy": 1192.0,
-    "diff_abs": 103.0,
-    "diff_pct": 9.46
+    "precio_antes": 11200.0,
+    "precio_hoy": 12240.0,
+    "diff_abs": 1040.0,
+    "diff_pct": 9.29
   },
   {
-    "ean": "7790895000737",
-    "nombre": "jugo cepita multifruta x 200 ml.",
+    "ean": "7790415129122",
+    "nombre": "vino escorihuela gascox x 750 ml malbec",
     "categoria": "Bebidas",
-    "precio_antes": 1089.0,
-    "precio_hoy": 1192.0,
-    "diff_abs": 103.0,
-    "diff_pct": 9.46
-  },
-  {
-    "ean": "7790787960927",
-    "nombre": "yogur batido descremado ilolay natural x 140 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1502.0,
-    "precio_hoy": 1624.0,
-    "diff_abs": 122.0,
-    "diff_pct": 8.12
+    "precio_antes": 11200.0,
+    "precio_hoy": 12240.0,
+    "diff_abs": 1040.0,
+    "diff_pct": 9.29
   }
 ]

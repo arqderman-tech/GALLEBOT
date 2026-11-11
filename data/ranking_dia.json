@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2022010000007",
-    "nombre": "remolacha x paquete",
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 790.0,
-    "precio_hoy": 990.0,
-    "diff_abs": 200.0,
-    "diff_pct": 25.32
+    "precio_antes": 2490.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 20.08
   },
   {
-    "ean": "2020160000007",
-    "nombre": "brocoli x kg.",
+    "ean": "7798052500045",
+    "nombre": "huevos blancos x 6 unidades carton",
+    "categoria": "Almacen",
+    "precio_antes": 1761.0,
+    "precio_hoy": 2076.0,
+    "diff_abs": 315.0,
+    "diff_pct": 17.89
+  },
+  {
+    "ean": "2020370000002",
+    "nombre": "chaucha rolliza x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
+    "precio_antes": 7990.0,
+    "precio_hoy": 8990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 25.06
+    "diff_pct": 12.52
   },
   {
-    "ean": "2019960000003",
-    "nombre": "albahaca x paquete",
+    "ean": "2020350000008",
+    "nombre": "chaucha ballina x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 1790.0,
-    "diff_abs": 300.0,
-    "diff_pct": 20.13
+    "precio_antes": 7990.0,
+    "precio_hoy": 8990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 12.52
   },
   {
-    "ean": "7798060854475",
-    "nombre": "queso untable patagonia x 290 gr clasico",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3172.0,
-    "precio_hoy": 3172.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790415129122",
+    "nombre": "vino escorihuela gascox x 750 ml malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 11200.0,
+    "precio_hoy": 12240.0,
+    "diff_abs": 1040.0,
+    "diff_pct": 9.29
   },
   {
-    "ean": "7798060854482",
-    "nombre": "queso untable patagonia x 290 gm light",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3172.4,
-    "precio_hoy": 3172.4,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790415129085",
+    "nombre": "vino tinto escorihuela gascon x 750 ml. cabernet s",
+    "categoria": "Bebidas",
+    "precio_antes": 11200.0,
+    "precio_hoy": 12240.0,
+    "diff_abs": 1040.0,
+    "diff_pct": 9.29
   },
   {
-    "ean": "7798060854345",
-    "nombre": "queso untable patagonia x 180 gm clasico",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2221.0,
-    "precio_hoy": 2221.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790415128705",
+    "nombre": "vino gascon x 750 ml sauvignon esc.",
+    "categoria": "Bebidas",
+    "precio_antes": 11200.0,
+    "precio_hoy": 12240.0,
+    "diff_abs": 1040.0,
+    "diff_pct": 9.29
   },
   {
-    "ean": "7798060854352",
-    "nombre": "queso untable patagonia  x 180 gm light",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2221.0,
-    "precio_hoy": 2221.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790415000797",
+    "nombre": "vino gascon roble x 750 ml estuche malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 14000.0,
+    "precio_hoy": 15200.0,
+    "diff_abs": 1200.0,
+    "diff_pct": 8.57
   },
   {
-    "ean": "7793913013634",
-    "nombre": "queso untable neufchatel x 180 gr. salame",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2885.0,
-    "precio_hoy": 2885.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790415002418",
+    "nombre": "vino tinto gascon roble x 375 ml malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 5720.0,
+    "precio_hoy": 6160.0,
+    "diff_abs": 440.0,
+    "diff_pct": 7.69
   },
   {
-    "ean": "7794080001516",
-    "nombre": "ravioles la morocha x 1 kg. espinaca y pollo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 6612.0,
-    "precio_hoy": 6612.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790415002432",
+    "nombre": "vino blanco familia gascos x 375 ml chardonnay",
+    "categoria": "Bebidas",
+    "precio_antes": 5720.0,
+    "precio_hoy": 6160.0,
+    "diff_abs": 440.0,
+    "diff_pct": 7.69
   },
   {
-    "ean": "7794080001523",
-    "nombre": "ravioles la morocha x 1 kg. cuatro quesos",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 6612.0,
-    "precio_hoy": 6612.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790415130814",
+    "nombre": "vino tinto familia gascon roble blend x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 8400.0,
+    "precio_hoy": 9040.0,
+    "diff_abs": 640.0,
+    "diff_pct": 7.62
   },
   {
-    "ean": "7794080001622",
-    "nombre": "ravioles la morocha x 1 kg. carne y verdura",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 6612.0,
-    "precio_hoy": 6612.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790415128767",
+    "nombre": "vino tinto familia gascon roble cabernet sauvignon",
+    "categoria": "Bebidas",
+    "precio_antes": 8400.0,
+    "precio_hoy": 9040.0,
+    "diff_abs": 640.0,
+    "diff_pct": 7.62
   },
   {
-    "ean": "7794080000441",
-    "nombre": "ravioles la morocha ricota y queso x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3641.0,
-    "precio_hoy": 3641.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790415128729",
+    "nombre": "vino tinto familia gascon roble malbec x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 8400.0,
+    "precio_hoy": 9040.0,
+    "diff_abs": 640.0,
+    "diff_pct": 7.62
   },
   {
-    "ean": "7794080000502",
-    "nombre": "ravioles la morocha de pollo cespinaca",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3641.0,
-    "precio_hoy": 3641.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790415131217",
+    "nombre": "vino tinto lola montes cabernet sauvignon x 750 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 5800.0,
+    "precio_hoy": 6240.0,
+    "diff_abs": 440.0,
+    "diff_pct": 7.59
   },
   {
-    "ean": "7794080000458",
-    "nombre": "ravioles la morocha de carne y verdura x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3641.0,
-    "precio_hoy": 3641.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790415131194",
+    "nombre": "vino tinto lola montes x 750 ml. malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 5800.0,
+    "precio_hoy": 6240.0,
+    "diff_abs": 440.0,
+    "diff_pct": 7.59
   },
   {
-    "ean": "7794990184491",
-    "nombre": "queso untable ricrem clasico x 180 gr",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1785.0,
-    "precio_hoy": 1785.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790415130739",
+    "nombre": "vino lola montes rose x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5800.0,
+    "precio_hoy": 6240.0,
+    "diff_abs": 440.0,
+    "diff_pct": 7.59
   },
   {
-    "ean": "7790742326409",
-    "nombre": "queso untable ls sabores x 180 gr fontina",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3200.0,
-    "precio_hoy": 3200.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790415002760",
+    "nombre": "vino lola montes red blend x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5800.0,
+    "precio_hoy": 6240.0,
+    "diff_abs": 440.0,
+    "diff_pct": 7.59
   },
   {
-    "ean": "7791337061439",
-    "nombre": "queso untable la serenisima light x 290 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4562.0,
-    "precio_hoy": 4562.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790415130555",
+    "nombre": "vino tinto circus roble x 750 ml malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 5360.0,
+    "precio_hoy": 5760.0,
+    "diff_abs": 400.0,
+    "diff_pct": 7.46
   },
   {
-    "ean": "7790742373809",
-    "nombre": "queso untable la serenisima cremon light x 280 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4625.0,
-    "precio_hoy": 4625.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790415130630",
+    "nombre": "vino tinto circus roble x 750 ml. blend",
+    "categoria": "Bebidas",
+    "precio_antes": 5360.0,
+    "precio_hoy": 5760.0,
+    "diff_abs": 400.0,
+    "diff_pct": 7.46
   },
   {
-    "ean": "7794990172757",
-    "nombre": "queso untable la paulina x 190 gr. salame",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2314.0,
-    "precio_hoy": 2314.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7794990000043",
-    "nombre": "queso untable la paulina port salut x 190 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2686.0,
-    "precio_hoy": 2686.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790415130517",
+    "nombre": "vino circus roble x 750 ml. cabernet sauvignon",
+    "categoria": "Bebidas",
+    "precio_antes": 5360.0,
+    "precio_hoy": 5760.0,
+    "diff_abs": 400.0,
+    "diff_pct": 7.46
   }
 ]
