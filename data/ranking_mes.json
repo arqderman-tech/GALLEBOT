@@ -1,5 +1,14 @@
 [
   {
+    "ean": "2020980000003",
+    "nombre": "limones x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 150.75
+  },
+  {
     "ean": "2020100000005",
     "nombre": "berenjena morada x kg.",
     "categoria": "Frutas Y Verduras",
@@ -7,15 +16,6 @@
     "precio_hoy": 6990.0,
     "diff_abs": 4000.0,
     "diff_pct": 133.78
-  },
-  {
-    "ean": "2020980000003",
-    "nombre": "limones x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 100.4
   },
   {
     "ean": "2021550000003",
@@ -27,8 +27,8 @@
     "diff_pct": 100.4
   },
   {
-    "ean": "2021880000001",
-    "nombre": "pomelo sanguineo x kg.",
+    "ean": "2020960000009",
+    "nombre": "lechuga repollada x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2490.0,
     "precio_hoy": 3990.0,
@@ -36,13 +36,13 @@
     "diff_pct": 60.24
   },
   {
-    "ean": "2020960000009",
-    "nombre": "lechuga repollada x kg.",
+    "ean": "2021880000001",
+    "nombre": "pomelo sanguineo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2590.0,
+    "precio_antes": 2490.0,
     "precio_hoy": 3990.0,
-    "diff_abs": 1400.0,
-    "diff_pct": 54.05
+    "diff_abs": 1500.0,
+    "diff_pct": 60.24
   },
   {
     "ean": "2019970000000",
@@ -90,6 +90,15 @@
     "diff_pct": 36.07
   },
   {
+    "ean": "2021680000003",
+    "nombre": "zapallo brasilero x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
+  },
+  {
     "ean": "2037320000005",
     "nombre": "curcuma x kg.",
     "categoria": "Frutas Y Verduras",
@@ -99,13 +108,13 @@
     "diff_pct": 25.03
   },
   {
-    "ean": "2022130000000",
-    "nombre": "tomate cherry x kg.",
+    "ean": "2021410000006",
+    "nombre": "naranja de ombligo x kilo",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 12990.0,
-    "precio_hoy": 15990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 23.09
+    "precio_antes": 1790.0,
+    "precio_hoy": 2190.0,
+    "diff_abs": 400.0,
+    "diff_pct": 22.35
   },
   {
     "ean": "2031970000002",
@@ -117,31 +126,40 @@
     "diff_pct": 21.8
   },
   {
-    "ean": "2019960000003",
-    "nombre": "albahaca x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 1790.0,
-    "diff_abs": 300.0,
-    "diff_pct": 20.13
+    "ean": "7792281014328",
+    "nombre": "ensaladera negra x 2 unidades carol",
+    "categoria": "Limpieza",
+    "precio_antes": 109899.0,
+    "precio_hoy": 132094.0,
+    "diff_abs": 22195.0,
+    "diff_pct": 20.2
   },
   {
-    "ean": "2020310000000",
-    "nombre": "cebolla morada x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
+    "ean": "7792281019750",
+    "nombre": "ensaladera blanca x 2 carol",
+    "categoria": "Limpieza",
+    "precio_antes": 109899.0,
+    "precio_hoy": 132094.0,
+    "diff_abs": 22195.0,
+    "diff_pct": 20.2
   },
   {
-    "ean": "2020120000009",
-    "nombre": "berengena negra x kg.",
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
+    "precio_antes": 2490.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 20.08
+  },
+  {
+    "ean": "7797130000347",
+    "nombre": "763004 ganchos plasticos x 12 unid.",
+    "categoria": "Limpieza",
+    "precio_antes": 3088.0,
+    "precio_hoy": 3707.0,
+    "diff_abs": 619.0,
+    "diff_pct": 20.05
   },
   {
     "ean": "7798052500045",
@@ -160,23 +178,5 @@
     "precio_hoy": 7091.0,
     "diff_abs": 1036.0,
     "diff_pct": 17.11
-  },
-  {
-    "ean": "7790645003575",
-    "nombre": "sardinas en aceita y agua caracas x 125 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2818.0,
-    "precio_hoy": 3293.0,
-    "diff_abs": 475.0,
-    "diff_pct": 16.86
-  },
-  {
-    "ean": "2020750000004",
-    "nombre": "frutillas x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
   }
 ]

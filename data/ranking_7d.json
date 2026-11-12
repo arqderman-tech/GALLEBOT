@@ -18,6 +18,24 @@
     "diff_pct": 20.13
   },
   {
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2390.0,
+    "diff_abs": 400.0,
+    "diff_pct": 20.1
+  },
+  {
+    "ean": "7797130000347",
+    "nombre": "763004 ganchos plasticos x 12 unid.",
+    "categoria": "Limpieza",
+    "precio_antes": 3088.0,
+    "precio_hoy": 3707.0,
+    "diff_abs": 619.0,
+    "diff_pct": 20.05
+  },
+  {
     "ean": "7798052500045",
     "nombre": "huevos blancos x 6 unidades carton",
     "categoria": "Almacen",
@@ -27,13 +45,31 @@
     "diff_pct": 17.89
   },
   {
-    "ean": "2020750000004",
-    "nombre": "frutillas x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 5990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 16.69
+    "ean": "2700009500386",
+    "nombre": "individual cuerina redondo",
+    "categoria": "Limpieza",
+    "precio_antes": 4237.0,
+    "precio_hoy": 4784.0,
+    "diff_abs": 547.0,
+    "diff_pct": 12.91
+  },
+  {
+    "ean": "7792281019750",
+    "nombre": "ensaladera blanca x 2 carol",
+    "categoria": "Limpieza",
+    "precio_antes": 117593.0,
+    "precio_hoy": 132094.0,
+    "diff_abs": 14501.0,
+    "diff_pct": 12.33
+  },
+  {
+    "ean": "7792281014328",
+    "nombre": "ensaladera negra x 2 unidades carol",
+    "categoria": "Limpieza",
+    "precio_antes": 117593.0,
+    "precio_hoy": 132094.0,
+    "diff_abs": 14501.0,
+    "diff_pct": 12.33
   },
   {
     "ean": "7794820903100",
@@ -63,33 +99,6 @@
     "diff_pct": 10.24
   },
   {
-    "ean": "7794080001578",
-    "nombre": "fideos bernabeu tallarin x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 871.0,
-    "precio_hoy": 960.0,
-    "diff_abs": 89.0,
-    "diff_pct": 10.22
-  },
-  {
-    "ean": "7794080001585",
-    "nombre": "fideos bernabeu spaghetti x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 871.0,
-    "precio_hoy": 960.0,
-    "diff_abs": 89.0,
-    "diff_pct": 10.22
-  },
-  {
-    "ean": "7794080001547",
-    "nombre": "fideos bernabeu rigatti x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 871.0,
-    "precio_hoy": 960.0,
-    "diff_abs": 89.0,
-    "diff_pct": 10.22
-  },
-  {
     "ean": "7794080001554",
     "nombre": "fideos bernabeu mostachol x 500 gr.",
     "categoria": "Almacen",
@@ -108,26 +117,53 @@
     "diff_pct": 10.22
   },
   {
-    "ean": "7791706000014",
-    "nombre": "vainillas whisper x 400 gm",
-    "categoria": "Perfumeria",
-    "precio_antes": 3449.0,
-    "precio_hoy": 3794.0,
-    "diff_abs": 345.0,
+    "ean": "7794080001585",
+    "nombre": "fideos bernabeu spaghetti x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 871.0,
+    "precio_hoy": 960.0,
+    "diff_abs": 89.0,
+    "diff_pct": 10.22
+  },
+  {
+    "ean": "7794080001578",
+    "nombre": "fideos bernabeu tallarin x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 871.0,
+    "precio_hoy": 960.0,
+    "diff_abs": 89.0,
+    "diff_pct": 10.22
+  },
+  {
+    "ean": "7794080001547",
+    "nombre": "fideos bernabeu rigatti x 500 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 871.0,
+    "precio_hoy": 960.0,
+    "diff_abs": 89.0,
+    "diff_pct": 10.22
+  },
+  {
+    "ean": "2021410000006",
+    "nombre": "naranja de ombligo x kilo",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2190.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.05
+  },
+  {
+    "ean": "7797130000330",
+    "nombre": "763020 ganchos plasticos dorados x 12 unid.",
+    "categoria": "Limpieza",
+    "precio_antes": 11655.0,
+    "precio_hoy": 12821.0,
+    "diff_abs": 1166.0,
     "diff_pct": 10.0
   },
   {
-    "ean": "7791706000038",
-    "nombre": "vainillas whisper x 200 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1783.0,
-    "precio_hoy": 1961.0,
-    "diff_abs": 178.0,
-    "diff_pct": 9.98
-  },
-  {
-    "ean": "7798078238298",
-    "nombre": "esp.m.codorniu x750ml.extr.bru",
+    "ean": "7798078238328",
+    "nombre": "espumante maria codorniu x 750 ml brut rose",
     "categoria": "Bebidas",
     "precio_antes": 13601.0,
     "precio_hoy": 14917.0,
@@ -142,41 +178,5 @@
     "precio_hoy": 14917.0,
     "diff_abs": 1316.0,
     "diff_pct": 9.68
-  },
-  {
-    "ean": "7798078238328",
-    "nombre": "espumante maria codorniu x 750 ml brut rose",
-    "categoria": "Bebidas",
-    "precio_antes": 13601.0,
-    "precio_hoy": 14917.0,
-    "diff_abs": 1316.0,
-    "diff_pct": 9.68
-  },
-  {
-    "ean": "7790415128705",
-    "nombre": "vino gascon x 750 ml sauvignon esc.",
-    "categoria": "Bebidas",
-    "precio_antes": 11200.0,
-    "precio_hoy": 12240.0,
-    "diff_abs": 1040.0,
-    "diff_pct": 9.29
-  },
-  {
-    "ean": "7790415129085",
-    "nombre": "vino tinto escorihuela gascon x 750 ml. cabernet s",
-    "categoria": "Bebidas",
-    "precio_antes": 11200.0,
-    "precio_hoy": 12240.0,
-    "diff_abs": 1040.0,
-    "diff_pct": 9.29
-  },
-  {
-    "ean": "7790415129122",
-    "nombre": "vino escorihuela gascox x 750 ml malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 11200.0,
-    "precio_hoy": 12240.0,
-    "diff_abs": 1040.0,
-    "diff_pct": 9.29
   }
 ]
