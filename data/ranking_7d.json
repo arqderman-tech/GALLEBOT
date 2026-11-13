@@ -1,5 +1,23 @@
 [
   {
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1490.0,
+    "precio_hoy": 2390.0,
+    "diff_abs": 900.0,
+    "diff_pct": 60.4
+  },
+  {
+    "ean": "2021780000002",
+    "nombre": "perejil x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
+  },
+  {
     "ean": "2022010000007",
     "nombre": "remolacha x paquete",
     "categoria": "Frutas Y Verduras",
@@ -18,13 +36,13 @@
     "diff_pct": 20.13
   },
   {
-    "ean": "2022060000002",
-    "nombre": "repollo colorado x kg.",
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2390.0,
-    "diff_abs": 400.0,
-    "diff_pct": 20.1
+    "precio_antes": 2490.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 20.08
   },
   {
     "ean": "7797130000347",
@@ -36,6 +54,15 @@
     "diff_pct": 20.05
   },
   {
+    "ean": "2021320000004",
+    "nombre": "melon rocio de miel x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
+  },
+  {
     "ean": "7798052500045",
     "nombre": "huevos blancos x 6 unidades carton",
     "categoria": "Almacen",
@@ -43,6 +70,15 @@
     "precio_hoy": 2076.0,
     "diff_abs": 315.0,
     "diff_pct": 17.89
+  },
+  {
+    "ean": "2021270000000",
+    "nombre": "manzana verde x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 14.31
   },
   {
     "ean": "2700009500386",
@@ -72,24 +108,6 @@
     "diff_pct": 12.33
   },
   {
-    "ean": "7794820903100",
-    "nombre": "leche entera milkaut larga vida x 1 lt.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2102.0,
-    "precio_hoy": 2349.0,
-    "diff_abs": 247.0,
-    "diff_pct": 11.75
-  },
-  {
-    "ean": "7794870001344",
-    "nombre": "arroz primor largo fino x 1 kg.",
-    "categoria": "Almacen",
-    "precio_antes": 1355.0,
-    "precio_hoy": 1510.0,
-    "diff_abs": 155.0,
-    "diff_pct": 11.44
-  },
-  {
     "ean": "7790787960934",
     "nombre": "yogur parcialmente descremado cremoso ilolay x 350 gm natura",
     "categoria": "Lacteos Y Frescos",
@@ -97,51 +115,6 @@
     "precio_hoy": 3079.0,
     "diff_abs": 286.0,
     "diff_pct": 10.24
-  },
-  {
-    "ean": "7794080001554",
-    "nombre": "fideos bernabeu mostachol x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 871.0,
-    "precio_hoy": 960.0,
-    "diff_abs": 89.0,
-    "diff_pct": 10.22
-  },
-  {
-    "ean": "7794080001592",
-    "nombre": "fideos bernabeu coditos x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 871.0,
-    "precio_hoy": 960.0,
-    "diff_abs": 89.0,
-    "diff_pct": 10.22
-  },
-  {
-    "ean": "7794080001585",
-    "nombre": "fideos bernabeu spaghetti x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 871.0,
-    "precio_hoy": 960.0,
-    "diff_abs": 89.0,
-    "diff_pct": 10.22
-  },
-  {
-    "ean": "7794080001578",
-    "nombre": "fideos bernabeu tallarin x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 871.0,
-    "precio_hoy": 960.0,
-    "diff_abs": 89.0,
-    "diff_pct": 10.22
-  },
-  {
-    "ean": "7794080001547",
-    "nombre": "fideos bernabeu rigatti x 500 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 871.0,
-    "precio_hoy": 960.0,
-    "diff_abs": 89.0,
-    "diff_pct": 10.22
   },
   {
     "ean": "2021410000006",
@@ -178,5 +151,32 @@
     "precio_hoy": 14917.0,
     "diff_abs": 1316.0,
     "diff_pct": 9.68
+  },
+  {
+    "ean": "7798078238298",
+    "nombre": "esp.m.codorniu x750ml.extr.bru",
+    "categoria": "Bebidas",
+    "precio_antes": 13601.0,
+    "precio_hoy": 14917.0,
+    "diff_abs": 1316.0,
+    "diff_pct": 9.68
+  },
+  {
+    "ean": "7790415129122",
+    "nombre": "vino escorihuela gascox x 750 ml malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 11200.0,
+    "precio_hoy": 12240.0,
+    "diff_abs": 1040.0,
+    "diff_pct": 9.29
+  },
+  {
+    "ean": "7790415128705",
+    "nombre": "vino gascon x 750 ml sauvignon esc.",
+    "categoria": "Bebidas",
+    "precio_antes": 11200.0,
+    "precio_hoy": 12240.0,
+    "diff_abs": 1040.0,
+    "diff_pct": 9.29
   }
 ]

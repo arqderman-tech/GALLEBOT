@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2029100000008",
-    "nombre": "batata zanahoria x kilo",
+    "ean": "2021780000002",
+    "nombre": "perejil x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2016.0,
-    "precio_hoy": 4490.0,
-    "diff_abs": 2474.0,
-    "diff_pct": 122.72
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
   },
   {
-    "ean": "2022060000002",
-    "nombre": "repollo colorado x kg.",
+    "ean": "2021320000004",
+    "nombre": "melon rocio de miel x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 2390.0,
-    "diff_abs": 900.0,
-    "diff_pct": 60.4
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
   },
   {
-    "ean": "7797130000347",
-    "nombre": "763004 ganchos plasticos x 12 unid.",
-    "categoria": "Limpieza",
-    "precio_antes": 3088.0,
-    "precio_hoy": 3707.0,
-    "diff_abs": 619.0,
-    "diff_pct": 20.05
-  },
-  {
-    "ean": "2700009500386",
-    "nombre": "individual cuerina redondo",
-    "categoria": "Limpieza",
-    "precio_antes": 4237.0,
-    "precio_hoy": 4784.0,
-    "diff_abs": 547.0,
-    "diff_pct": 12.91
-  },
-  {
-    "ean": "7792281019750",
-    "nombre": "ensaladera blanca x 2 carol",
-    "categoria": "Limpieza",
-    "precio_antes": 117593.0,
-    "precio_hoy": 132094.0,
-    "diff_abs": 14501.0,
-    "diff_pct": 12.33
-  },
-  {
-    "ean": "7792281014328",
-    "nombre": "ensaladera negra x 2 unidades carol",
-    "categoria": "Limpieza",
-    "precio_antes": 117593.0,
-    "precio_hoy": 132094.0,
-    "diff_abs": 14501.0,
-    "diff_pct": 12.33
-  },
-  {
-    "ean": "2021410000006",
-    "nombre": "naranja de ombligo x kilo",
+    "ean": "2021270000000",
+    "nombre": "manzana verde x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2190.0,
-    "diff_abs": 200.0,
-    "diff_pct": 10.05
+    "precio_antes": 6990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 14.31
   },
   {
-    "ean": "7797130000330",
-    "nombre": "763020 ganchos plasticos dorados x 12 unid.",
-    "categoria": "Limpieza",
-    "precio_antes": 11655.0,
-    "precio_hoy": 12821.0,
-    "diff_abs": 1166.0,
-    "diff_pct": 10.0
+    "ean": "7790415131231",
+    "nombre": "vino rocky roble  x 750 ml malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 6000.0,
+    "precio_hoy": 6480.0,
+    "diff_abs": 480.0,
+    "diff_pct": 8.0
   },
   {
-    "ean": "8560117",
-    "nombre": "funda para lavarropas carga superiror 60 x 60",
-    "categoria": "Limpieza",
-    "precio_antes": 14964.0,
-    "precio_hoy": 16160.0,
-    "diff_abs": 1196.0,
-    "diff_pct": 7.99
+    "ean": "7790415131255",
+    "nombre": "vino tinto rocky cabernet sauvignon x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 6000.0,
+    "precio_hoy": 6480.0,
+    "diff_abs": 480.0,
+    "diff_pct": 8.0
   },
   {
-    "ean": "8560063",
-    "nombre": "funda para lavarropas frontal  60 x 60",
-    "categoria": "Limpieza",
-    "precio_antes": 14964.0,
-    "precio_hoy": 16160.0,
-    "diff_abs": 1196.0,
-    "diff_pct": 7.99
+    "ean": "7790748235118",
+    "nombre": "calamares en aceite puglisi x 180 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 7868.0,
+    "precio_hoy": 8330.0,
+    "diff_abs": 462.0,
+    "diff_pct": 5.87
   },
   {
-    "ean": "8560018",
-    "nombre": "sujeta sabanas",
-    "categoria": "Limpieza",
-    "precio_antes": 9503.0,
-    "precio_hoy": 10262.0,
-    "diff_abs": 759.0,
-    "diff_pct": 7.99
+    "ean": "7790748266471",
+    "nombre": "cazuela de calamares puglisi x 170 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 8177.0,
+    "precio_hoy": 8640.0,
+    "diff_abs": 463.0,
+    "diff_pct": 5.66
   },
   {
-    "ean": "2021390000003",
-    "nombre": "naranja de jugo x kilo.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 1590.0,
+    "ean": "7798128001896",
+    "nombre": "conitos de chocolate y dce de leche cachafaz x 6 u",
+    "categoria": "Almacen",
+    "precio_antes": 12632.0,
+    "precio_hoy": 13234.0,
+    "diff_abs": 602.0,
+    "diff_pct": 4.77
+  },
+  {
+    "ean": "7790748235354",
+    "nombre": "filet de anchoas en aceite puglisi x 170 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 17896.0,
+    "precio_hoy": 18667.0,
+    "diff_abs": 771.0,
+    "diff_pct": 4.31
+  },
+  {
+    "ean": "7798128000509",
+    "nombre": "alfajor cachafaz mixto x 12 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 28873.0,
+    "precio_hoy": 30076.0,
+    "diff_abs": 1203.0,
+    "diff_pct": 4.17
+  },
+  {
+    "ean": "7798128000479",
+    "nombre": "alfajor cachafaz chocolate x 6 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 14437.0,
+    "precio_hoy": 15039.0,
+    "diff_abs": 602.0,
+    "diff_pct": 4.17
+  },
+  {
+    "ean": "7798128000493",
+    "nombre": "alfajor cachafaz blanco x 6 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 14437.0,
+    "precio_hoy": 15039.0,
+    "diff_abs": 602.0,
+    "diff_pct": 4.17
+  },
+  {
+    "ean": "7798128000257",
+    "nombre": "alfajor cachafaz mousse de chocolate x 6 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 14437.0,
+    "precio_hoy": 15039.0,
+    "diff_abs": 602.0,
+    "diff_pct": 4.17
+  },
+  {
+    "ean": "7798128000165",
+    "nombre": "alfajor cachafaz maicena x 6 unid.",
+    "categoria": "Almacen",
+    "precio_antes": 14437.0,
+    "precio_hoy": 15038.0,
+    "diff_abs": 601.0,
+    "diff_pct": 4.16
+  },
+  {
+    "ean": "7790748235187",
+    "nombre": "merluza al natural puglisi x 380 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4597.0,
+    "precio_hoy": 4782.0,
+    "diff_abs": 185.0,
+    "diff_pct": 4.02
+  },
+  {
+    "ean": "7790748235149",
+    "nombre": "merluza en aceite puglisi x 380 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 4597.0,
+    "precio_hoy": 4782.0,
+    "diff_abs": 185.0,
+    "diff_pct": 4.02
+  },
+  {
+    "ean": "7798128002138",
+    "nombre": "galletitas organicas cachafaz x 170 gr. avena y mi",
+    "categoria": "Perfumeria",
+    "precio_antes": 2600.0,
+    "precio_hoy": 2701.0,
+    "diff_abs": 101.0,
+    "diff_pct": 3.88
+  },
+  {
+    "ean": "7798128002145",
+    "nombre": "galletitas organicas cachafaz x 170 gr. cacao y mi",
+    "categoria": "Perfumeria",
+    "precio_antes": 2600.0,
+    "precio_hoy": 2701.0,
+    "diff_abs": 101.0,
+    "diff_pct": 3.88
+  },
+  {
+    "ean": "7798128000684",
+    "nombre": "galletitas cachafaz x 250 gr. algarroba",
+    "categoria": "Perfumeria",
+    "precio_antes": 3101.0,
+    "precio_hoy": 3201.0,
     "diff_abs": 100.0,
-    "diff_pct": 6.71
+    "diff_pct": 3.22
   },
   {
-    "ean": "7790150619995",
-    "nombre": "lomo de atun alicante x 170 gr en aceite",
-    "categoria": "Almacen",
-    "precio_antes": 5381.0,
-    "precio_hoy": 5713.0,
-    "diff_abs": 332.0,
-    "diff_pct": 6.17
-  },
-  {
-    "ean": "7790150619988",
-    "nombre": "lomo de atun alicante x 170 gr al natural",
-    "categoria": "Almacen",
-    "precio_antes": 5381.0,
-    "precio_hoy": 5713.0,
-    "diff_abs": 332.0,
-    "diff_pct": 6.17
-  },
-  {
-    "ean": "7791822673208",
-    "nombre": "plato playo tilcara flint",
-    "categoria": "Limpieza",
-    "precio_antes": 2749.0,
-    "precio_hoy": 2887.0,
-    "diff_abs": 138.0,
-    "diff_pct": 5.02
-  },
-  {
-    "ean": "7630064",
-    "nombre": "barral aluminio",
-    "categoria": "Limpieza",
-    "precio_antes": 15285.0,
-    "precio_hoy": 16049.0,
-    "diff_abs": 764.0,
-    "diff_pct": 5.0
-  },
-  {
-    "ean": "7797130000422",
-    "nombre": "barral",
-    "categoria": "Limpieza",
-    "precio_antes": 19658.0,
-    "precio_hoy": 20639.0,
-    "diff_abs": 981.0,
-    "diff_pct": 4.99
-  },
-  {
-    "ean": "7797130000170",
-    "nombre": "cortina plastica pbano eiplast cprotectorgancho",
-    "categoria": "Limpieza",
-    "precio_antes": 12673.0,
-    "precio_hoy": 13306.0,
-    "diff_abs": 633.0,
-    "diff_pct": 4.99
-  },
-  {
-    "ean": "7797130000071",
-    "nombre": "protector plastico para cortina de bano eliplast m",
-    "categoria": "Limpieza",
-    "precio_antes": 6500.0,
-    "precio_hoy": 6824.0,
-    "diff_abs": 324.0,
-    "diff_pct": 4.98
-  },
-  {
-    "ean": "7795128087615",
-    "nombre": "vertedor para sal gruesa",
-    "categoria": "Limpieza",
-    "precio_antes": 3273.0,
-    "precio_hoy": 3421.0,
-    "diff_abs": 148.0,
-    "diff_pct": 4.52
+    "ean": "7798128000677",
+    "nombre": "galletitas cachafaz x 250 gr. avena y pasas",
+    "categoria": "Perfumeria",
+    "precio_antes": 3101.0,
+    "precio_hoy": 3201.0,
+    "diff_abs": 100.0,
+    "diff_pct": 3.22
   }
 ]
