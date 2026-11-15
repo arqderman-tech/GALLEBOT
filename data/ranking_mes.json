@@ -3,28 +3,10 @@
     "ean": "2020980000003",
     "nombre": "limones x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 150.75
-  },
-  {
-    "ean": "2020100000005",
-    "nombre": "berenjena morada x kg.",
-    "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 133.78
-  },
-  {
-    "ean": "2021550000003",
-    "nombre": "pepino x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 60.24
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
   },
   {
     "ean": "2020960000009",
@@ -45,13 +27,13 @@
     "diff_pct": 60.24
   },
   {
-    "ean": "2019970000000",
-    "nombre": "alcauciles x unidad",
+    "ean": "2021550000003",
+    "nombre": "pepino x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 50.51
+    "precio_antes": 2490.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 60.24
   },
   {
     "ean": "2020730000000",
@@ -61,6 +43,24 @@
     "precio_hoy": 1490.0,
     "diff_abs": 500.0,
     "diff_pct": 50.51
+  },
+  {
+    "ean": "2019970000000",
+    "nombre": "alcauciles x unidad",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 990.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 50.51
+  },
+  {
+    "ean": "2020910000004",
+    "nombre": "lechuga de hoja x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
   },
   {
     "ean": "2020920000001",
@@ -81,13 +81,13 @@
     "diff_pct": 42.85
   },
   {
-    "ean": "7790645002066",
-    "nombre": "caballa caracas x 380 gm natural",
-    "categoria": "Almacen",
-    "precio_antes": 5451.0,
-    "precio_hoy": 7417.0,
-    "diff_abs": 1966.0,
-    "diff_pct": 36.07
+    "ean": "2020100000005",
+    "nombre": "berenjena morada x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 6990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 40.08
   },
   {
     "ean": "2021680000003",
@@ -97,6 +97,33 @@
     "precio_hoy": 3990.0,
     "diff_abs": 1000.0,
     "diff_pct": 33.44
+  },
+  {
+    "ean": "2019990000004",
+    "nombre": "apio x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
+  },
+  {
+    "ean": "2022130000000",
+    "nombre": "tomate cherry x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 10990.0,
+    "precio_hoy": 13990.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 27.3
+  },
+  {
+    "ean": "2020300000003",
+    "nombre": "cebolla de verdeo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
   },
   {
     "ean": "2037320000005",
@@ -117,17 +144,8 @@
     "diff_pct": 22.35
   },
   {
-    "ean": "2031970000002",
-    "nombre": "jamon crudo ermes fontana x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 72578.0,
-    "precio_hoy": 88400.0,
-    "diff_abs": 15822.0,
-    "diff_pct": 21.8
-  },
-  {
-    "ean": "7792281014328",
-    "nombre": "ensaladera negra x 2 unidades carol",
+    "ean": "7792281019750",
+    "nombre": "ensaladera blanca x 2 carol",
     "categoria": "Limpieza",
     "precio_antes": 109899.0,
     "precio_hoy": 132094.0,
@@ -135,8 +153,8 @@
     "diff_pct": 20.2
   },
   {
-    "ean": "7792281019750",
-    "nombre": "ensaladera blanca x 2 carol",
+    "ean": "7792281014328",
+    "nombre": "ensaladera negra x 2 unidades carol",
     "categoria": "Limpieza",
     "precio_antes": 109899.0,
     "precio_hoy": 132094.0,
@@ -153,30 +171,12 @@
     "diff_pct": 20.13
   },
   {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 20.08
-  },
-  {
-    "ean": "7797130000347",
-    "nombre": "763004 ganchos plasticos x 12 unid.",
-    "categoria": "Limpieza",
-    "precio_antes": 3088.0,
-    "precio_hoy": 3707.0,
-    "diff_abs": 619.0,
-    "diff_pct": 20.05
-  },
-  {
-    "ean": "2022440000004",
-    "nombre": "esparragos verdes paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
+    "precio_antes": 1990.0,
+    "precio_hoy": 2390.0,
+    "diff_abs": 400.0,
+    "diff_pct": 20.1
   }
 ]

@@ -90,15 +90,6 @@
     "diff_pct": 12.91
   },
   {
-    "ean": "7792281019750",
-    "nombre": "ensaladera blanca x 2 carol",
-    "categoria": "Limpieza",
-    "precio_antes": 117593.0,
-    "precio_hoy": 132094.0,
-    "diff_abs": 14501.0,
-    "diff_pct": 12.33
-  },
-  {
     "ean": "7792281014328",
     "nombre": "ensaladera negra x 2 unidades carol",
     "categoria": "Limpieza",
@@ -108,13 +99,13 @@
     "diff_pct": 12.33
   },
   {
-    "ean": "7790787960934",
-    "nombre": "yogur parcialmente descremado cremoso ilolay x 350 gm natura",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2793.0,
-    "precio_hoy": 3079.0,
-    "diff_abs": 286.0,
-    "diff_pct": 10.24
+    "ean": "7792281019750",
+    "nombre": "ensaladera blanca x 2 carol",
+    "categoria": "Limpieza",
+    "precio_antes": 117593.0,
+    "precio_hoy": 132094.0,
+    "diff_abs": 14501.0,
+    "diff_pct": 12.33
   },
   {
     "ean": "2021410000006",
@@ -135,31 +126,13 @@
     "diff_pct": 10.0
   },
   {
-    "ean": "7798078238328",
-    "nombre": "espumante maria codorniu x 750 ml brut rose",
+    "ean": "7790415129085",
+    "nombre": "vino tinto escorihuela gascon x 750 ml. cabernet s",
     "categoria": "Bebidas",
-    "precio_antes": 13601.0,
-    "precio_hoy": 14917.0,
-    "diff_abs": 1316.0,
-    "diff_pct": 9.68
-  },
-  {
-    "ean": "7798078238304",
-    "nombre": "espuamnte maria codorniu x 750 ml brut nature",
-    "categoria": "Bebidas",
-    "precio_antes": 13601.0,
-    "precio_hoy": 14917.0,
-    "diff_abs": 1316.0,
-    "diff_pct": 9.68
-  },
-  {
-    "ean": "7798078238298",
-    "nombre": "esp.m.codorniu x750ml.extr.bru",
-    "categoria": "Bebidas",
-    "precio_antes": 13601.0,
-    "precio_hoy": 14917.0,
-    "diff_abs": 1316.0,
-    "diff_pct": 9.68
+    "precio_antes": 11200.0,
+    "precio_hoy": 12240.0,
+    "diff_abs": 1040.0,
+    "diff_pct": 9.29
   },
   {
     "ean": "7790415129122",
@@ -178,5 +151,32 @@
     "precio_hoy": 12240.0,
     "diff_abs": 1040.0,
     "diff_pct": 9.29
+  },
+  {
+    "ean": "7790415000797",
+    "nombre": "vino gascon roble x 750 ml estuche malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 14000.0,
+    "precio_hoy": 15200.0,
+    "diff_abs": 1200.0,
+    "diff_pct": 8.57
+  },
+  {
+    "ean": "7790415131231",
+    "nombre": "vino rocky roble  x 750 ml malbec",
+    "categoria": "Bebidas",
+    "precio_antes": 6000.0,
+    "precio_hoy": 6480.0,
+    "diff_abs": 480.0,
+    "diff_pct": 8.0
+  },
+  {
+    "ean": "7790415131255",
+    "nombre": "vino tinto rocky cabernet sauvignon x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 6000.0,
+    "precio_hoy": 6480.0,
+    "diff_abs": 480.0,
+    "diff_pct": 8.0
   }
 ]
