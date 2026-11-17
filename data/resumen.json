@@ -1,29 +1,29 @@
 {
-  "fecha": "20261116",
-  "total_productos": 6970,
-  "variacion_dia": 0.01,
-  "variacion_7d": 0.06,
-  "variacion_mes": 0.73,
+  "fecha": "20261117",
+  "total_productos": 7002,
+  "variacion_dia": 0.08,
+  "variacion_7d": 0.17,
+  "variacion_mes": 0.82,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
       "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "total_productos": 1572
+      "total_productos": 1576
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.08,
-      "productos_subieron": 6,
-      "productos_bajaron": 6,
-      "total_productos": 1209
+      "variacion_pct_promedio": 0.24,
+      "productos_subieron": 81,
+      "productos_bajaron": 23,
+      "total_productos": 1220
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.78,
+      "productos_subieron": 27,
       "productos_bajaron": 0,
       "total_productos": 254
     },
@@ -32,36 +32,36 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 867
+      "total_productos": 864
     },
     {
       "categoria": "Cuidado Personal",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 990
+      "total_productos": 988
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.03,
+      "productos_subieron": 14,
       "productos_bajaron": 0,
-      "total_productos": 2042
+      "total_productos": 2038
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2020350000008",
-      "nombre": "chaucha ballina x kg.",
+      "ean": "2021780000002",
+      "nombre": "perejil x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 7990.0,
-      "precio_hoy": 5990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -25.03
+      "precio_antes": 3990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -25.06
     },
     {
-      "ean": "2020980000003",
-      "nombre": "limones x kg.",
+      "ean": "2020180000001",
+      "nombre": "calabacita x kg.",
       "categoria": "Frutas Y Verduras",
       "precio_antes": 4990.0,
       "precio_hoy": 3990.0,
@@ -69,79 +69,79 @@
       "diff_pct": -20.04
     },
     {
-      "ean": "2022090000003",
-      "nombre": "sandia x kilo",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1190.0,
-      "precio_hoy": 990.0,
-      "diff_abs": -200.0,
-      "diff_pct": -16.81
-    },
-    {
-      "ean": "2021320000004",
-      "nombre": "melon rocio de miel x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -16.69
-    },
-    {
-      "ean": "2021660000009",
-      "nombre": "zapallito redondo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1990.0,
-      "precio_hoy": 1790.0,
-      "diff_abs": -200.0,
-      "diff_pct": -10.05
-    },
-    {
-      "ean": "2021650000002",
-      "nombre": "zapallito largo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1990.0,
-      "precio_hoy": 1790.0,
-      "diff_abs": -200.0,
-      "diff_pct": -10.05
-    },
-    {
-      "ean": "7790070621887",
-      "nombre": "rav.la saltena x450gr.cye",
+      "ean": "7790079019326",
+      "nombre": "salame tipo fuet labratto x 150 gr.",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4552.0,
-      "precio_hoy": 4552.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "precio_antes": 10454.0,
+      "precio_hoy": 8614.0,
+      "diff_abs": -1840.0,
+      "diff_pct": -17.6
     },
     {
-      "ean": "7794080001271",
-      "nombre": "ravioles la morocha x 500 gr. jamon, ricotta y moz",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3641.0,
-      "precio_hoy": 3641.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "2022060000002",
+      "nombre": "repollo colorado x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2390.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -400.0,
+      "diff_pct": -16.74
     },
     {
-      "ean": "7794080004173",
-      "nombre": "ravioles la morocha x 500 gr. 4 quesos",
+      "ean": "7790079025303",
+      "nombre": "ravioles paladini x 500 gr. jamon y mozarella",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3641.0,
-      "precio_hoy": 3641.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "precio_antes": 5380.0,
+      "precio_hoy": 4842.0,
+      "diff_abs": -538.0,
+      "diff_pct": -10.0
     },
     {
-      "ean": "7794080001516",
-      "nombre": "ravioles la morocha x 1 kg. espinaca y pollo",
+      "ean": "7790079021404",
+      "nombre": "ravioles paladini pollo y espinaca x 500 gr.",
       "categoria": "Lacteos Y Frescos",
-      "precio_antes": 6612.0,
-      "precio_hoy": 6612.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "precio_antes": 5381.0,
+      "precio_hoy": 4843.0,
+      "diff_abs": -538.0,
+      "diff_pct": -10.0
+    },
+    {
+      "ean": "7790079025259",
+      "nombre": "ravioles paladini x 500 gm 4 quesos",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5381.0,
+      "precio_hoy": 4843.0,
+      "diff_abs": -538.0,
+      "diff_pct": -10.0
+    },
+    {
+      "ean": "7790079025266",
+      "nombre": "ravioles paladini x 500 gm espinacaricota y queso",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5381.0,
+      "precio_hoy": 4843.0,
+      "diff_abs": -538.0,
+      "diff_pct": -10.0
+    },
+    {
+      "ean": "7790079021398",
+      "nombre": "ravioles paladini x 500 gr. carne y verdura",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 5381.0,
+      "precio_hoy": 4843.0,
+      "diff_abs": -538.0,
+      "diff_pct": -10.0
+    },
+    {
+      "ean": "7790079021381",
+      "nombre": "noquis de papa paladini x 500 gr.",
+      "categoria": "Lacteos Y Frescos",
+      "precio_antes": 3946.0,
+      "precio_hoy": 3552.0,
+      "diff_abs": -394.0,
+      "diff_pct": -9.98
     }
   ],
-  "productos_subieron_dia": 6,
-  "productos_bajaron_dia": 6,
-  "productos_sin_cambio_dia": 6922
+  "productos_subieron_dia": 123,
+  "productos_bajaron_dia": 23,
+  "productos_sin_cambio_dia": 6794
 }

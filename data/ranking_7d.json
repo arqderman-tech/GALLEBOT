@@ -1,57 +1,93 @@
 [
   {
+    "ean": "2029100000008",
+    "nombre": "batata zanahoria x kilo",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2016.0,
+    "precio_hoy": 4490.0,
+    "diff_abs": 2474.0,
+    "diff_pct": 122.72
+  },
+  {
     "ean": "2019960000003",
     "nombre": "albahaca x paquete",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
+    "precio_antes": 1790.0,
     "precio_hoy": 2990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 100.67
+    "diff_abs": 1200.0,
+    "diff_pct": 67.04
+  },
+  {
+    "ean": "2022080000006",
+    "nombre": "rucula x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 990.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 50.51
+  },
+  {
+    "ean": "7790079025655",
+    "nombre": "pizzeta paladini x 190 gm mozarella",
+    "categoria": "Congelados",
+    "precio_antes": 4441.0,
+    "precio_hoy": 6530.0,
+    "diff_abs": 2089.0,
+    "diff_pct": 47.04
+  },
+  {
+    "ean": "7790079025648",
+    "nombre": "pizzeta paladini x 205 gm mozarella y jamon",
+    "categoria": "Congelados",
+    "precio_antes": 4667.0,
+    "precio_hoy": 6862.0,
+    "diff_abs": 2195.0,
+    "diff_pct": 47.03
   },
   {
     "ean": "2022060000002",
     "nombre": "repollo colorado x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 1490.0,
-    "precio_hoy": 2390.0,
-    "diff_abs": 900.0,
-    "diff_pct": 60.4
+    "precio_hoy": 1990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 33.56
   },
   {
-    "ean": "2021780000002",
-    "nombre": "perejil x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
-    "ean": "2022010000007",
-    "nombre": "remolacha x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 790.0,
-    "precio_hoy": 990.0,
-    "diff_abs": 200.0,
-    "diff_pct": 25.32
-  },
-  {
-    "ean": "2022080000006",
-    "nombre": "rucula x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1190.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 300.0,
-    "diff_pct": 25.21
-  },
-  {
-    "ean": "2020160000007",
-    "nombre": "brocoli x kg.",
+    "ean": "2019950000006",
+    "nombre": "akusay x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 4990.0,
     "diff_abs": 1000.0,
     "diff_pct": 25.06
+  },
+  {
+    "ean": "7790079022647",
+    "nombre": "salame tipo milan paladini fetas + finas x 180 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5284.0,
+    "precio_hoy": 6530.0,
+    "diff_abs": 1246.0,
+    "diff_pct": 23.58
+  },
+  {
+    "ean": "2020730000000",
+    "nombre": "espinaca atado",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1490.0,
+    "precio_hoy": 1790.0,
+    "diff_abs": 300.0,
+    "diff_pct": 20.13
+  },
+  {
+    "ean": "2020000000006",
+    "nombre": "arandanos en bandeja",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 20.08
   },
   {
     "ean": "2020910000004",
@@ -72,6 +108,15 @@
     "diff_pct": 20.05
   },
   {
+    "ean": "2021820000009",
+    "nombre": "pimiento rojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
+  },
+  {
     "ean": "7798052500045",
     "nombre": "huevos blancos x 6 unidades carton",
     "categoria": "Almacen",
@@ -81,102 +126,57 @@
     "diff_pct": 17.89
   },
   {
-    "ean": "2021270000000",
-    "nombre": "manzana verde x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 14.31
+    "ean": "7790079021374",
+    "nombre": "pascualina paladini x 400 gr. hojaldre",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2793.0,
+    "precio_hoy": 3285.0,
+    "diff_abs": 492.0,
+    "diff_pct": 17.62
   },
   {
-    "ean": "2020970000006",
-    "nombre": "lima x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 14.31
+    "ean": "7790079022135",
+    "nombre": "pascualina paladini x 400 gr. tipo criolla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2793.0,
+    "precio_hoy": 3285.0,
+    "diff_abs": 492.0,
+    "diff_pct": 17.62
   },
   {
-    "ean": "2700009500386",
-    "nombre": "individual cuerina redondo",
-    "categoria": "Limpieza",
-    "precio_antes": 4237.0,
-    "precio_hoy": 4784.0,
-    "diff_abs": 547.0,
-    "diff_pct": 12.91
+    "ean": "7790079022128",
+    "nombre": "tapas de empanadas tipo criolla paladini x 12 unid",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2198.0,
+    "precio_hoy": 2585.0,
+    "diff_abs": 387.0,
+    "diff_pct": 17.61
   },
   {
-    "ean": "7792281014328",
-    "nombre": "ensaladera negra x 2 unidades carol",
-    "categoria": "Limpieza",
-    "precio_antes": 117593.0,
-    "precio_hoy": 132094.0,
-    "diff_abs": 14501.0,
-    "diff_pct": 12.33
+    "ean": "7790079022104",
+    "nombre": "tapas para empanadas paladini x 12 unid. hojaldre",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2198.0,
+    "precio_hoy": 2585.0,
+    "diff_abs": 387.0,
+    "diff_pct": 17.61
   },
   {
-    "ean": "7792281019750",
-    "nombre": "ensaladera blanca x 2 carol",
-    "categoria": "Limpieza",
-    "precio_antes": 117593.0,
-    "precio_hoy": 132094.0,
-    "diff_abs": 14501.0,
-    "diff_pct": 12.33
+    "ean": "7790079022111",
+    "nombre": "tapas para empanadas paladini x 12 unid. para feir",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2198.0,
+    "precio_hoy": 2585.0,
+    "diff_abs": 387.0,
+    "diff_pct": 17.61
   },
   {
-    "ean": "2021410000006",
-    "nombre": "naranja de ombligo x kilo",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2190.0,
-    "diff_abs": 200.0,
-    "diff_pct": 10.05
-  },
-  {
-    "ean": "7797130000330",
-    "nombre": "763020 ganchos plasticos dorados x 12 unid.",
-    "categoria": "Limpieza",
-    "precio_antes": 11655.0,
-    "precio_hoy": 12821.0,
-    "diff_abs": 1166.0,
-    "diff_pct": 10.0
-  },
-  {
-    "ean": "7790415129085",
-    "nombre": "vino tinto escorihuela gascon x 750 ml. cabernet s",
-    "categoria": "Bebidas",
-    "precio_antes": 11200.0,
-    "precio_hoy": 12240.0,
-    "diff_abs": 1040.0,
-    "diff_pct": 9.29
-  },
-  {
-    "ean": "7790415129122",
-    "nombre": "vino escorihuela gascox x 750 ml malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 11200.0,
-    "precio_hoy": 12240.0,
-    "diff_abs": 1040.0,
-    "diff_pct": 9.29
-  },
-  {
-    "ean": "7790415128705",
-    "nombre": "vino gascon x 750 ml sauvignon esc.",
-    "categoria": "Bebidas",
-    "precio_antes": 11200.0,
-    "precio_hoy": 12240.0,
-    "diff_abs": 1040.0,
-    "diff_pct": 9.29
-  },
-  {
-    "ean": "7790415000797",
-    "nombre": "vino gascon roble x 750 ml estuche malbec",
-    "categoria": "Bebidas",
-    "precio_antes": 14000.0,
-    "precio_hoy": 15200.0,
-    "diff_abs": 1200.0,
-    "diff_pct": 8.57
+    "ean": "2010690000004",
+    "nombre": "salame baston paladini picado fino x kilo",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 28447.0,
+    "precio_hoy": 32967.0,
+    "diff_abs": 4520.0,
+    "diff_pct": 15.89
   }
 ]

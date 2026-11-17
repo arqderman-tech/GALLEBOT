@@ -1,25 +1,25 @@
 [
   {
-    "ean": "2019960000003",
-    "nombre": "albahaca x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1790.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1200.0,
-    "diff_pct": 67.04
+    "ean": "7790079025655",
+    "nombre": "pizzeta paladini x 190 gm mozarella",
+    "categoria": "Congelados",
+    "precio_antes": 4441.0,
+    "precio_hoy": 6530.0,
+    "diff_abs": 2089.0,
+    "diff_pct": 47.04
   },
   {
-    "ean": "2022080000006",
-    "nombre": "rucula x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 50.51
+    "ean": "7790079025648",
+    "nombre": "pizzeta paladini x 205 gm mozarella y jamon",
+    "categoria": "Congelados",
+    "precio_antes": 4667.0,
+    "precio_hoy": 6862.0,
+    "diff_abs": 2195.0,
+    "diff_pct": 47.03
   },
   {
-    "ean": "2020160000007",
-    "nombre": "brocoli x kg.",
+    "ean": "2019950000006",
+    "nombre": "akusay x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 4990.0,
@@ -27,156 +27,156 @@
     "diff_pct": 25.06
   },
   {
-    "ean": "2020730000000",
-    "nombre": "espinaca atado",
+    "ean": "2020120000009",
+    "nombre": "berengena negra x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 1790.0,
-    "diff_abs": 300.0,
-    "diff_pct": 20.13
-  },
-  {
-    "ean": "2021820000009",
-    "nombre": "pimiento rojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 20.04
+    "diff_pct": 25.06
   },
   {
-    "ean": "2020970000006",
-    "nombre": "lima x kg.",
+    "ean": "7790079022647",
+    "nombre": "salame tipo milan paladini fetas + finas x 180 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5284.0,
+    "precio_hoy": 6530.0,
+    "diff_abs": 1246.0,
+    "diff_pct": 23.58
+  },
+  {
+    "ean": "2020000000006",
+    "nombre": "arandanos en bandeja",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 7990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 14.31
+    "precio_antes": 2490.0,
+    "precio_hoy": 2990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 20.08
   },
   {
-    "ean": "7790070621849",
-    "nombre": "ravioles la saltena x 450 gr. ricotta",
+    "ean": "7790079022135",
+    "nombre": "pascualina paladini x 400 gr. tipo criolla",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4552.0,
-    "precio_hoy": 4552.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 2793.0,
+    "precio_hoy": 3285.0,
+    "diff_abs": 492.0,
+    "diff_pct": 17.62
   },
   {
-    "ean": "7795293106111",
-    "nombre": "ravioles don yeyo x 500 gr. carne y espinaca",
+    "ean": "7790079021374",
+    "nombre": "pascualina paladini x 400 gr. hojaldre",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4104.0,
-    "precio_hoy": 4104.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 2793.0,
+    "precio_hoy": 3285.0,
+    "diff_abs": 492.0,
+    "diff_pct": 17.62
   },
   {
-    "ean": "7795293106210",
-    "nombre": "ravioles don yeyo x 500 gr. espinaca y pollo",
+    "ean": "7790079022104",
+    "nombre": "tapas para empanadas paladini x 12 unid. hojaldre",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3946.0,
-    "precio_hoy": 3946.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 2198.0,
+    "precio_hoy": 2585.0,
+    "diff_abs": 387.0,
+    "diff_pct": 17.61
   },
   {
-    "ean": "7790070621856",
-    "nombre": "ravioles la saltena x 450 gr. pollo y espinaca",
+    "ean": "7790079022128",
+    "nombre": "tapas de empanadas tipo criolla paladini x 12 unid",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4552.0,
-    "precio_hoy": 4552.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 2198.0,
+    "precio_hoy": 2585.0,
+    "diff_abs": 387.0,
+    "diff_pct": 17.61
   },
   {
-    "ean": "7790787016532",
-    "nombre": "queso untable ilolay x 190 gr jamon",
+    "ean": "7790079022111",
+    "nombre": "tapas para empanadas paladini x 12 unid. para feir",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2884.0,
-    "precio_hoy": 2884.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 2198.0,
+    "precio_hoy": 2585.0,
+    "diff_abs": 387.0,
+    "diff_pct": 17.61
   },
   {
-    "ean": "7794990879823",
-    "nombre": "queso untable la paulina 4 quesos x 190 gr.",
+    "ean": "2015610000003",
+    "nombre": "salamin tipo crespon paladini x kg.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2314.0,
-    "precio_hoy": 2314.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 27458.0,
+    "precio_hoy": 31820.0,
+    "diff_abs": 4362.0,
+    "diff_pct": 15.89
   },
   {
-    "ean": "7794990878888",
-    "nombre": "queso untable la paulina azul x 190 gr.",
+    "ean": "2010690000004",
+    "nombre": "salame baston paladini picado fino x kilo",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2686.0,
-    "precio_hoy": 2686.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 28447.0,
+    "precio_hoy": 32967.0,
+    "diff_abs": 4520.0,
+    "diff_pct": 15.89
   },
   {
-    "ean": "7794990879526",
-    "nombre": "queso untable la paulina cheddar x 190 gr.",
+    "ean": "2015600000006",
+    "nombre": "salamin picado fino paladini x kg.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2686.0,
-    "precio_hoy": 2686.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 27458.0,
+    "precio_hoy": 31820.0,
+    "diff_abs": 4362.0,
+    "diff_pct": 15.89
   },
   {
-    "ean": "7794990878932",
-    "nombre": "queso untable la paulina clasico x 190 gr.",
+    "ean": "2023670000000",
+    "nombre": "salame baston paladini picado grueso x kilo",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2686.0,
-    "precio_hoy": 2686.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 28447.0,
+    "precio_hoy": 32967.0,
+    "diff_abs": 4520.0,
+    "diff_pct": 15.89
   },
   {
-    "ean": "7794080004173",
-    "nombre": "ravioles la morocha x 500 gr. 4 quesos",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3641.0,
-    "precio_hoy": 3641.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790079019616",
+    "nombre": "hamburguesas paladini finitas x 2 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 2462.0,
+    "precio_hoy": 2852.0,
+    "diff_abs": 390.0,
+    "diff_pct": 15.84
   },
   {
-    "ean": "7790787016518",
-    "nombre": "queso untable ilolay x 190 gr clasico",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2884.0,
-    "precio_hoy": 2884.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "ean": "7790079016011",
+    "nombre": "medallones de carne fela x 2 unid.",
+    "categoria": "Congelados",
+    "precio_antes": 1649.0,
+    "precio_hoy": 1910.0,
+    "diff_abs": 261.0,
+    "diff_pct": 15.83
   },
   {
-    "ean": "7790070621870",
-    "nombre": "ravioles la saltena x 450 gr. jamon y mozzarella",
+    "ean": "7790079019913",
+    "nombre": "mortadela con queso paladini x 300 gr.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4552.0,
-    "precio_hoy": 4552.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 4804.0,
+    "precio_hoy": 5442.0,
+    "diff_abs": 638.0,
+    "diff_pct": 13.28
   },
   {
-    "ean": "7790070621818",
-    "nombre": "ravioles la saltena cuatro quesos x 900 gr.",
+    "ean": "2015290000003",
+    "nombre": "panceta salada paladini env.al vacio familiar x kilo",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 8961.0,
-    "precio_hoy": 8961.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 37409.0,
+    "precio_hoy": 41881.0,
+    "diff_abs": 4472.0,
+    "diff_pct": 11.95
   },
   {
-    "ean": "7794080001257",
-    "nombre": "ravioles la morocha x 500 gr. ricota y espinaca",
+    "ean": "7790079019241",
+    "nombre": "salchichas labratto wursten x 225 gr.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3641.0,
-    "precio_hoy": 3641.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
+    "precio_antes": 5840.0,
+    "precio_hoy": 6350.0,
+    "diff_abs": 510.0,
+    "diff_pct": 8.73
   }
 ]
