@@ -1,182 +1,182 @@
 [
   {
-    "ean": "7790079025655",
-    "nombre": "pizzeta paladini x 190 gm mozarella",
-    "categoria": "Congelados",
-    "precio_antes": 4441.0,
-    "precio_hoy": 6530.0,
-    "diff_abs": 2089.0,
-    "diff_pct": 47.04
-  },
-  {
-    "ean": "7790079025648",
-    "nombre": "pizzeta paladini x 205 gm mozarella y jamon",
-    "categoria": "Congelados",
-    "precio_antes": 4667.0,
-    "precio_hoy": 6862.0,
-    "diff_abs": 2195.0,
-    "diff_pct": 47.03
-  },
-  {
-    "ean": "2019950000006",
-    "nombre": "akusay x kg.",
+    "ean": "2019900000001",
+    "nombre": "ajies x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
+    "precio_hoy": 9990.0,
+    "diff_abs": 6000.0,
+    "diff_pct": 150.38
   },
   {
-    "ean": "2020120000009",
-    "nombre": "berengena negra x kg.",
+    "ean": "2021020000007",
+    "nombre": "hinojo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
+    "precio_antes": 2990.0,
     "precio_hoy": 4990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 25.06
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
   },
   {
-    "ean": "7790079022647",
-    "nombre": "salame tipo milan paladini fetas + finas x 180 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5284.0,
-    "precio_hoy": 6530.0,
-    "diff_abs": 1246.0,
-    "diff_pct": 23.58
-  },
-  {
-    "ean": "2020000000006",
-    "nombre": "arandanos en bandeja",
+    "ean": "2030920000000",
+    "nombre": "puerro x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 20.08
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
   },
   {
-    "ean": "7790079022135",
-    "nombre": "pascualina paladini x 400 gr. tipo criolla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2793.0,
-    "precio_hoy": 3285.0,
-    "diff_abs": 492.0,
-    "diff_pct": 17.62
+    "ean": "2020570000000",
+    "nombre": "coliflor x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
   },
   {
-    "ean": "7790079021374",
-    "nombre": "pascualina paladini x 400 gr. hojaldre",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2793.0,
-    "precio_hoy": 3285.0,
-    "diff_abs": 492.0,
-    "diff_pct": 17.62
+    "ean": "7790380025078",
+    "nombre": "chocolate full mani x 100 gr relleno de pasta de mani",
+    "categoria": "Almacen",
+    "precio_antes": 3755.0,
+    "precio_hoy": 4319.0,
+    "diff_abs": 564.0,
+    "diff_pct": 15.02
   },
   {
-    "ean": "7790079022104",
-    "nombre": "tapas para empanadas paladini x 12 unid. hojaldre",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2198.0,
-    "precio_hoy": 2585.0,
-    "diff_abs": 387.0,
-    "diff_pct": 17.61
+    "ean": "7790380025085",
+    "nombre": "chocolate georgalos full mani x 90 gm",
+    "categoria": "Almacen",
+    "precio_antes": 3338.0,
+    "precio_hoy": 3839.0,
+    "diff_abs": 501.0,
+    "diff_pct": 15.01
   },
   {
-    "ean": "7790079022128",
-    "nombre": "tapas de empanadas tipo criolla paladini x 12 unid",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2198.0,
-    "precio_hoy": 2585.0,
-    "diff_abs": 387.0,
-    "diff_pct": 17.61
+    "ean": "7790380025283",
+    "nombre": "chocolate full mani x 500 gr mega",
+    "categoria": "Almacen",
+    "precio_antes": 16537.0,
+    "precio_hoy": 19018.0,
+    "diff_abs": 2481.0,
+    "diff_pct": 15.0
   },
   {
-    "ean": "7790079022111",
-    "nombre": "tapas para empanadas paladini x 12 unid. para feir",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2198.0,
-    "precio_hoy": 2585.0,
-    "diff_abs": 387.0,
-    "diff_pct": 17.61
+    "ean": "7790380025108",
+    "nombre": "chocolate georgalos full mani x 150 gm",
+    "categoria": "Almacen",
+    "precio_antes": 5316.0,
+    "precio_hoy": 6113.0,
+    "diff_abs": 797.0,
+    "diff_pct": 14.99
   },
   {
-    "ean": "2015610000003",
-    "nombre": "salamin tipo crespon paladini x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 27458.0,
-    "precio_hoy": 31820.0,
-    "diff_abs": 4362.0,
-    "diff_pct": 15.89
+    "ean": "2020530000002",
+    "nombre": "durazno x kilo",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 6990.0,
+    "precio_hoy": 7990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 14.31
   },
   {
-    "ean": "2010690000004",
-    "nombre": "salame baston paladini picado fino x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 28447.0,
-    "precio_hoy": 32967.0,
-    "diff_abs": 4520.0,
-    "diff_pct": 15.89
+    "ean": "7792280005785",
+    "nombre": "yerba mate cachamate coco x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1944.0,
+    "precio_hoy": 2139.0,
+    "diff_abs": 195.0,
+    "diff_pct": 10.03
   },
   {
-    "ean": "2015600000006",
-    "nombre": "salamin picado fino paladini x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 27458.0,
-    "precio_hoy": 31820.0,
-    "diff_abs": 4362.0,
-    "diff_pct": 15.89
+    "ean": "7790387015607",
+    "nombre": "yerba mate la merced campo x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 4873.0,
+    "precio_hoy": 5312.0,
+    "diff_abs": 439.0,
+    "diff_pct": 9.01
   },
   {
-    "ean": "2023670000000",
-    "nombre": "salame baston paladini picado grueso x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 28447.0,
-    "precio_hoy": 32967.0,
-    "diff_abs": 4520.0,
-    "diff_pct": 15.89
+    "ean": "7790387015645",
+    "nombre": "yerba l.merced oc x500gr.cam.s",
+    "categoria": "Perfumeria",
+    "precio_antes": 4873.0,
+    "precio_hoy": 5312.0,
+    "diff_abs": 439.0,
+    "diff_pct": 9.01
   },
   {
-    "ean": "7790079019616",
-    "nombre": "hamburguesas paladini finitas x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 2462.0,
-    "precio_hoy": 2852.0,
-    "diff_abs": 390.0,
-    "diff_pct": 15.84
+    "ean": "7790387015614",
+    "nombre": "yerba l.merced oc x500gr.monte",
+    "categoria": "Perfumeria",
+    "precio_antes": 4873.0,
+    "precio_hoy": 5312.0,
+    "diff_abs": 439.0,
+    "diff_pct": 9.01
   },
   {
-    "ean": "7790079016011",
-    "nombre": "medallones de carne fela x 2 unid.",
-    "categoria": "Congelados",
-    "precio_antes": 1649.0,
-    "precio_hoy": 1910.0,
-    "diff_abs": 261.0,
-    "diff_pct": 15.83
+    "ean": "7790387015621",
+    "nombre": "yerba la merced x 500 gm barbacua",
+    "categoria": "Perfumeria",
+    "precio_antes": 4873.0,
+    "precio_hoy": 5312.0,
+    "diff_abs": 439.0,
+    "diff_pct": 9.01
   },
   {
-    "ean": "7790079019913",
-    "nombre": "mortadela con queso paladini x 300 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 4804.0,
-    "precio_hoy": 5442.0,
-    "diff_abs": 638.0,
-    "diff_pct": 13.28
+    "ean": "7790387015638",
+    "nombre": "yerba la merced x 500 gr campo y monte",
+    "categoria": "Perfumeria",
+    "precio_antes": 4873.0,
+    "precio_hoy": 5312.0,
+    "diff_abs": 439.0,
+    "diff_pct": 9.01
   },
   {
-    "ean": "2015290000003",
-    "nombre": "panceta salada paladini env.al vacio familiar x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 37409.0,
-    "precio_hoy": 41881.0,
-    "diff_abs": 4472.0,
-    "diff_pct": 11.95
+    "ean": "7790387013634",
+    "nombre": "yerba mate taragui x 250 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1378.0,
+    "precio_hoy": 1502.0,
+    "diff_abs": 124.0,
+    "diff_pct": 9.0
   },
   {
-    "ean": "7790079019241",
-    "nombre": "salchichas labratto wursten x 225 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5840.0,
-    "precio_hoy": 6350.0,
-    "diff_abs": 510.0,
-    "diff_pct": 8.73
+    "ean": "7790387800074",
+    "nombre": "mate cocido taragui x 100 saquitos",
+    "categoria": "Perfumeria",
+    "precio_antes": 4847.0,
+    "precio_hoy": 5283.0,
+    "diff_abs": 436.0,
+    "diff_pct": 9.0
+  },
+  {
+    "ean": "7790387014631",
+    "nombre": "yerba mate union x 250 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 1378.0,
+    "precio_hoy": 1502.0,
+    "diff_abs": 124.0,
+    "diff_pct": 9.0
+  },
+  {
+    "ean": "7790387011852",
+    "nombre": "mate cocido taragui ni$os vainilla y miel x 20 saq",
+    "categoria": "Perfumeria",
+    "precio_antes": 2621.0,
+    "precio_hoy": 2857.0,
+    "diff_abs": 236.0,
+    "diff_pct": 9.0
+  },
+  {
+    "ean": "7790387800104",
+    "nombre": "mate cocido union x 100 saquitos",
+    "categoria": "Perfumeria",
+    "precio_antes": 4847.0,
+    "precio_hoy": 5283.0,
+    "diff_abs": 436.0,
+    "diff_pct": 9.0
   }
 ]

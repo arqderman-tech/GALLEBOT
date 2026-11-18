@@ -1,5 +1,14 @@
 [
   {
+    "ean": "2019900000001",
+    "nombre": "ajies x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 6000.0,
+    "diff_pct": 150.38
+  },
+  {
     "ean": "2029100000008",
     "nombre": "batata zanahoria x kilo",
     "categoria": "Frutas Y Verduras",
@@ -16,6 +25,15 @@
     "precio_hoy": 2990.0,
     "diff_abs": 1200.0,
     "diff_pct": 67.04
+  },
+  {
+    "ean": "2021020000007",
+    "nombre": "hinojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
   },
   {
     "ean": "2022080000006",
@@ -54,6 +72,15 @@
     "diff_pct": 33.56
   },
   {
+    "ean": "2030920000000",
+    "nombre": "puerro x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
+  },
+  {
     "ean": "2019950000006",
     "nombre": "akusay x kg.",
     "categoria": "Frutas Y Verduras",
@@ -90,15 +117,6 @@
     "diff_pct": 20.08
   },
   {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 20.08
-  },
-  {
     "ean": "7797130000347",
     "nombre": "763004 ganchos plasticos x 12 unid.",
     "categoria": "Limpieza",
@@ -117,13 +135,13 @@
     "diff_pct": 20.04
   },
   {
-    "ean": "7798052500045",
-    "nombre": "huevos blancos x 6 unidades carton",
-    "categoria": "Almacen",
-    "precio_antes": 1761.0,
-    "precio_hoy": 2076.0,
-    "diff_abs": 315.0,
-    "diff_pct": 17.89
+    "ean": "7790079022135",
+    "nombre": "pascualina paladini x 400 gr. tipo criolla",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2793.0,
+    "precio_hoy": 3285.0,
+    "diff_abs": 492.0,
+    "diff_pct": 17.62
   },
   {
     "ean": "7790079021374",
@@ -135,13 +153,13 @@
     "diff_pct": 17.62
   },
   {
-    "ean": "7790079022135",
-    "nombre": "pascualina paladini x 400 gr. tipo criolla",
+    "ean": "7790079022111",
+    "nombre": "tapas para empanadas paladini x 12 unid. para feir",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2793.0,
-    "precio_hoy": 3285.0,
-    "diff_abs": 492.0,
-    "diff_pct": 17.62
+    "precio_antes": 2198.0,
+    "precio_hoy": 2585.0,
+    "diff_abs": 387.0,
+    "diff_pct": 17.61
   },
   {
     "ean": "7790079022128",
@@ -160,23 +178,5 @@
     "precio_hoy": 2585.0,
     "diff_abs": 387.0,
     "diff_pct": 17.61
-  },
-  {
-    "ean": "7790079022111",
-    "nombre": "tapas para empanadas paladini x 12 unid. para feir",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2198.0,
-    "precio_hoy": 2585.0,
-    "diff_abs": 387.0,
-    "diff_pct": 17.61
-  },
-  {
-    "ean": "2010690000004",
-    "nombre": "salame baston paladini picado fino x kilo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 28447.0,
-    "precio_hoy": 32967.0,
-    "diff_abs": 4520.0,
-    "diff_pct": 15.89
   }
 ]
