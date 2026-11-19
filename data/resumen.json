@@ -1,147 +1,147 @@
 {
-  "fecha": "20261118",
-  "total_productos": 7025,
-  "variacion_dia": 0.2,
-  "variacion_7d": 0.29,
-  "variacion_mes": 0.98,
+  "fecha": "20261119",
+  "total_productos": 7027,
+  "variacion_dia": 0.03,
+  "variacion_7d": 0.28,
+  "variacion_mes": 0.93,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.16,
-      "productos_subieron": 63,
-      "productos_bajaron": 0,
-      "total_productos": 1577
+      "variacion_pct_promedio": 0.05,
+      "productos_subieron": 23,
+      "productos_bajaron": 13,
+      "total_productos": 1592
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.16,
-      "productos_subieron": 6,
-      "productos_bajaron": 12,
-      "total_productos": 1230
+      "variacion_pct_promedio": 0.09,
+      "productos_subieron": 7,
+      "productos_bajaron": 4,
+      "total_productos": 1233
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.15,
-      "productos_subieron": 11,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 254
+      "total_productos": 253
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 862
+      "total_productos": 883
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.75,
-      "productos_subieron": 139,
-      "productos_bajaron": 7,
-      "total_productos": 991
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 3,
+      "productos_bajaron": 1,
+      "total_productos": 994
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.08,
-      "productos_subieron": 30,
-      "productos_bajaron": 1,
-      "total_productos": 2059
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 7,
+      "productos_bajaron": 0,
+      "total_productos": 2055
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2036850000004",
-      "nombre": "marucha estancia festuca x kilo envasada al vacio",
-      "categoria": "Carniceria",
-      "precio_antes": 13190.0,
-      "precio_hoy": 9700.0,
-      "diff_abs": -3490.0,
-      "diff_pct": -26.46
+      "ean": "2020330000004",
+      "nombre": "cereza x kg",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 24990.0,
+      "precio_hoy": 19990.0,
+      "diff_abs": -5000.0,
+      "diff_pct": -20.01
+    },
+    {
+      "ean": "2021660000009",
+      "nombre": "zapallito redondo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 1790.0,
+      "precio_hoy": 1490.0,
+      "diff_abs": -300.0,
+      "diff_pct": -16.76
     },
     {
       "ean": "2020410000009",
       "nombre": "choclo elegido x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 7990.0,
+      "precio_antes": 5990.0,
+      "precio_hoy": 4990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -16.69
+    },
+    {
+      "ean": "2021790000009",
+      "nombre": "pimiento amarillo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 6990.0,
       "precio_hoy": 5990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -25.03
+      "diff_abs": -1000.0,
+      "diff_pct": -14.31
     },
     {
-      "ean": "7790387070026",
-      "nombre": "arroz largo fino maria x 500 gr.",
-      "categoria": "Almacen",
-      "precio_antes": 1117.0,
-      "precio_hoy": 1023.0,
-      "diff_abs": -94.0,
-      "diff_pct": -8.42
+      "ean": "7798039590151",
+      "nombre": "vino tinto tribu malbec x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 5261.0,
+      "precio_hoy": 5005.0,
+      "diff_abs": -256.0,
+      "diff_pct": -4.87
     },
     {
-      "ean": "2036770000009",
-      "nombre": "matambre estancia festuca x kilo envasado al vacio",
-      "categoria": "Carniceria",
-      "precio_antes": 17690.0,
-      "precio_hoy": 16500.0,
-      "diff_abs": -1190.0,
-      "diff_pct": -6.73
+      "ean": "7798039599031",
+      "nombre": "vino blanco tribu dulce x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 5261.0,
+      "precio_hoy": 5005.0,
+      "diff_abs": -256.0,
+      "diff_pct": -4.87
     },
     {
-      "ean": "2037290000005",
-      "nombre": "jamon redondo estancia festuca x kilo envasada al vacio",
-      "categoria": "Carniceria",
-      "precio_antes": 16590.0,
-      "precio_hoy": 15500.0,
-      "diff_abs": -1090.0,
-      "diff_pct": -6.57
+      "ean": "7798039590373",
+      "nombre": "vino tinto tribu cabernet sauvignon x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 5261.0,
+      "precio_hoy": 5005.0,
+      "diff_abs": -256.0,
+      "diff_pct": -4.87
     },
     {
-      "ean": "2036730000001",
-      "nombre": "jamon cuadrado estancia festuca x kilo envasado al vacio",
-      "categoria": "Carniceria",
-      "precio_antes": 15590.0,
-      "precio_hoy": 14600.0,
-      "diff_abs": -990.0,
-      "diff_pct": -6.35
+      "ean": "7798039599437",
+      "nombre": "espumante casillero del diablo x 750 ml extra brut",
+      "categoria": "Bebidas",
+      "precio_antes": 12682.0,
+      "precio_hoy": 12110.0,
+      "diff_abs": -572.0,
+      "diff_pct": -4.51
     },
     {
-      "ean": "2036740000008",
-      "nombre": "brazuelo sin hueso estancia festuca x kilo envasado al vacio",
-      "categoria": "Carniceria",
-      "precio_antes": 15590.0,
-      "precio_hoy": 14600.0,
-      "diff_abs": -990.0,
-      "diff_pct": -6.35
+      "ean": "7798039590342",
+      "nombre": "vino trivento reserva malbec x 750 ml.",
+      "categoria": "Bebidas",
+      "precio_antes": 9079.0,
+      "precio_hoy": 9045.0,
+      "diff_abs": -34.0,
+      "diff_pct": -0.37
     },
     {
-      "ean": "2036750000005",
-      "nombre": "cabeza de lomo estancia festuca x kilo envasada al vacio",
-      "categoria": "Carniceria",
-      "precio_antes": 15590.0,
-      "precio_hoy": 14600.0,
-      "diff_abs": -990.0,
-      "diff_pct": -6.35
-    },
-    {
-      "ean": "2036690000004",
-      "nombre": "cuadril estancia festuca x kilo envasado al vacio",
-      "categoria": "Carniceria",
-      "precio_antes": 17990.0,
-      "precio_hoy": 16900.0,
-      "diff_abs": -1090.0,
-      "diff_pct": -6.06
-    },
-    {
-      "ean": "2036700000000",
-      "nombre": "nalga estancia festuca x kilo envasada al vacio",
-      "categoria": "Carniceria",
-      "precio_antes": 17990.0,
-      "precio_hoy": 16900.0,
-      "diff_abs": -1090.0,
-      "diff_pct": -6.06
+      "ean": "7798039599246",
+      "nombre": "vino trivento  maximum x 750 ml red blend",
+      "categoria": "Bebidas",
+      "precio_antes": 9079.0,
+      "precio_hoy": 9045.0,
+      "diff_abs": -34.0,
+      "diff_pct": -0.37
     }
   ],
-  "productos_subieron_dia": 249,
-  "productos_bajaron_dia": 20,
-  "productos_sin_cambio_dia": 6704
+  "productos_subieron_dia": 40,
+  "productos_bajaron_dia": 18,
+  "productos_sin_cambio_dia": 6952
 }

@@ -9,15 +9,6 @@
     "diff_pct": 150.38
   },
   {
-    "ean": "2029100000008",
-    "nombre": "batata zanahoria x kilo",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2016.0,
-    "precio_hoy": 4490.0,
-    "diff_abs": 2474.0,
-    "diff_pct": 122.72
-  },
-  {
     "ean": "2019960000003",
     "nombre": "albahaca x paquete",
     "categoria": "Frutas Y Verduras",
@@ -63,8 +54,17 @@
     "diff_pct": 47.03
   },
   {
-    "ean": "2022060000002",
-    "nombre": "repollo colorado x kg.",
+    "ean": "2020000000006",
+    "nombre": "arandanos en bandeja",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 3490.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 40.16
+  },
+  {
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 1490.0,
     "precio_hoy": 1990.0,
@@ -90,6 +90,24 @@
     "diff_pct": 25.06
   },
   {
+    "ean": "2020160000007",
+    "nombre": "brocoli x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
+  },
+  {
+    "ean": "2020530000002",
+    "nombre": "durazno x kilo",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 25.03
+  },
+  {
     "ean": "7790079022647",
     "nombre": "salame tipo milan paladini fetas + finas x 180 gr.",
     "categoria": "Lacteos Y Frescos",
@@ -108,22 +126,13 @@
     "diff_pct": 20.13
   },
   {
-    "ean": "2020000000006",
-    "nombre": "arandanos en bandeja",
+    "ean": "2021840000003",
+    "nombre": "pimiento verde x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 20.08
-  },
-  {
-    "ean": "7797130000347",
-    "nombre": "763004 ganchos plasticos x 12 unid.",
-    "categoria": "Limpieza",
-    "precio_antes": 3088.0,
-    "precio_hoy": 3707.0,
-    "diff_abs": 619.0,
-    "diff_pct": 20.05
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
   },
   {
     "ean": "2021820000009",
@@ -135,15 +144,6 @@
     "diff_pct": 20.04
   },
   {
-    "ean": "7790079022135",
-    "nombre": "pascualina paladini x 400 gr. tipo criolla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2793.0,
-    "precio_hoy": 3285.0,
-    "diff_abs": 492.0,
-    "diff_pct": 17.62
-  },
-  {
     "ean": "7790079021374",
     "nombre": "pascualina paladini x 400 gr. hojaldre",
     "categoria": "Lacteos Y Frescos",
@@ -153,26 +153,26 @@
     "diff_pct": 17.62
   },
   {
-    "ean": "7790079022111",
-    "nombre": "tapas para empanadas paladini x 12 unid. para feir",
+    "ean": "7790079022135",
+    "nombre": "pascualina paladini x 400 gr. tipo criolla",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2198.0,
-    "precio_hoy": 2585.0,
-    "diff_abs": 387.0,
-    "diff_pct": 17.61
-  },
-  {
-    "ean": "7790079022128",
-    "nombre": "tapas de empanadas tipo criolla paladini x 12 unid",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2198.0,
-    "precio_hoy": 2585.0,
-    "diff_abs": 387.0,
-    "diff_pct": 17.61
+    "precio_antes": 2793.0,
+    "precio_hoy": 3285.0,
+    "diff_abs": 492.0,
+    "diff_pct": 17.62
   },
   {
     "ean": "7790079022104",
     "nombre": "tapas para empanadas paladini x 12 unid. hojaldre",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2198.0,
+    "precio_hoy": 2585.0,
+    "diff_abs": 387.0,
+    "diff_pct": 17.61
+  },
+  {
+    "ean": "7790079022111",
+    "nombre": "tapas para empanadas paladini x 12 unid. para feir",
     "categoria": "Lacteos Y Frescos",
     "precio_antes": 2198.0,
     "precio_hoy": 2585.0,

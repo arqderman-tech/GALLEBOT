@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2019900000001",
-    "nombre": "ajies x kg.",
+    "ean": "2022090000003",
+    "nombre": "sandia x kilo",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 6000.0,
-    "diff_pct": 150.38
+    "precio_antes": 990.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 50.51
   },
   {
-    "ean": "2021020000007",
-    "nombre": "hinojo x kg.",
+    "ean": "2022040000008",
+    "nombre": "repollo blanco x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
+    "precio_antes": 1490.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 33.56
   },
   {
-    "ean": "2030920000000",
-    "nombre": "puerro x kg.",
+    "ean": "2022060000002",
+    "nombre": "repollo colorado x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
-    "ean": "2020570000000",
-    "nombre": "coliflor x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
-    "ean": "7790380025078",
-    "nombre": "chocolate full mani x 100 gr relleno de pasta de mani",
-    "categoria": "Almacen",
-    "precio_antes": 3755.0,
-    "precio_hoy": 4319.0,
-    "diff_abs": 564.0,
-    "diff_pct": 15.02
-  },
-  {
-    "ean": "7790380025085",
-    "nombre": "chocolate georgalos full mani x 90 gm",
-    "categoria": "Almacen",
-    "precio_antes": 3338.0,
-    "precio_hoy": 3839.0,
-    "diff_abs": 501.0,
-    "diff_pct": 15.01
-  },
-  {
-    "ean": "7790380025283",
-    "nombre": "chocolate full mani x 500 gr mega",
-    "categoria": "Almacen",
-    "precio_antes": 16537.0,
-    "precio_hoy": 19018.0,
-    "diff_abs": 2481.0,
-    "diff_pct": 15.0
-  },
-  {
-    "ean": "7790380025108",
-    "nombre": "chocolate georgalos full mani x 150 gm",
-    "categoria": "Almacen",
-    "precio_antes": 5316.0,
-    "precio_hoy": 6113.0,
-    "diff_abs": 797.0,
-    "diff_pct": 14.99
+    "precio_antes": 1990.0,
+    "precio_hoy": 2490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 25.13
   },
   {
     "ean": "2020530000002",
     "nombre": "durazno x kilo",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 7990.0,
+    "precio_antes": 7990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 25.03
+  },
+  {
+    "ean": "2021840000003",
+    "nombre": "pimiento verde x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 14.31
+    "diff_pct": 20.04
   },
   {
-    "ean": "7792280005785",
-    "nombre": "yerba mate cachamate coco x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1944.0,
-    "precio_hoy": 2139.0,
-    "diff_abs": 195.0,
-    "diff_pct": 10.03
+    "ean": "2020000000006",
+    "nombre": "arandanos en bandeja",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 16.72
   },
   {
-    "ean": "7790387015607",
-    "nombre": "yerba mate la merced campo x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 4873.0,
-    "precio_hoy": 5312.0,
-    "diff_abs": 439.0,
-    "diff_pct": 9.01
+    "ean": "2020270000003",
+    "nombre": "cebolla x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2490.0,
+    "precio_hoy": 2790.0,
+    "diff_abs": 300.0,
+    "diff_pct": 12.05
   },
   {
-    "ean": "7790387015645",
-    "nombre": "yerba l.merced oc x500gr.cam.s",
-    "categoria": "Perfumeria",
-    "precio_antes": 4873.0,
-    "precio_hoy": 5312.0,
-    "diff_abs": 439.0,
-    "diff_pct": 9.01
+    "ean": "7791728248265",
+    "nombre": "vino santa julia x 750 ml. tinto dulce",
+    "categoria": "Bebidas",
+    "precio_antes": 7594.0,
+    "precio_hoy": 8185.0,
+    "diff_abs": 591.0,
+    "diff_pct": 7.78
   },
   {
-    "ean": "7790387015614",
-    "nombre": "yerba l.merced oc x500gr.monte",
-    "categoria": "Perfumeria",
-    "precio_antes": 4873.0,
-    "precio_hoy": 5312.0,
-    "diff_abs": 439.0,
-    "diff_pct": 9.01
+    "ean": "7791728247091",
+    "nombre": "vino blanco santa julia x 750 ml. chardonnay dulce",
+    "categoria": "Bebidas",
+    "precio_antes": 7594.0,
+    "precio_hoy": 8185.0,
+    "diff_abs": 591.0,
+    "diff_pct": 7.78
   },
   {
-    "ean": "7790387015621",
-    "nombre": "yerba la merced x 500 gm barbacua",
-    "categoria": "Perfumeria",
-    "precio_antes": 4873.0,
-    "precio_hoy": 5312.0,
-    "diff_abs": 439.0,
-    "diff_pct": 9.01
+    "ean": "7791728243871",
+    "nombre": "vino tinto santa julia cabernet sauvignon x 750 ml",
+    "categoria": "Bebidas",
+    "precio_antes": 6460.0,
+    "precio_hoy": 6854.0,
+    "diff_abs": 394.0,
+    "diff_pct": 6.1
   },
   {
-    "ean": "7790387015638",
-    "nombre": "yerba la merced x 500 gr campo y monte",
-    "categoria": "Perfumeria",
-    "precio_antes": 4873.0,
-    "precio_hoy": 5312.0,
-    "diff_abs": 439.0,
-    "diff_pct": 9.01
+    "ean": "7791728247763",
+    "nombre": "vino tinto santa julia merlot x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 6460.0,
+    "precio_hoy": 6854.0,
+    "diff_abs": 394.0,
+    "diff_pct": 6.1
   },
   {
-    "ean": "7790387013634",
-    "nombre": "yerba mate taragui x 250 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1378.0,
-    "precio_hoy": 1502.0,
-    "diff_abs": 124.0,
-    "diff_pct": 9.0
+    "ean": "7791728247770",
+    "nombre": "vino tinto santa julia pinot noir x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 6460.0,
+    "precio_hoy": 6854.0,
+    "diff_abs": 394.0,
+    "diff_pct": 6.1
   },
   {
-    "ean": "7790387800074",
-    "nombre": "mate cocido taragui x 100 saquitos",
-    "categoria": "Perfumeria",
-    "precio_antes": 4847.0,
-    "precio_hoy": 5283.0,
-    "diff_abs": 436.0,
-    "diff_pct": 9.0
+    "ean": "7791728247756",
+    "nombre": "vino tinto santa julia syrah x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 6460.0,
+    "precio_hoy": 6854.0,
+    "diff_abs": 394.0,
+    "diff_pct": 6.1
   },
   {
-    "ean": "7790387014631",
-    "nombre": "yerba mate union x 250 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 1378.0,
-    "precio_hoy": 1502.0,
-    "diff_abs": 124.0,
-    "diff_pct": 9.0
+    "ean": "7791728247817",
+    "nombre": "vino blanco santa julia x 750 ml. sauvignon blanc",
+    "categoria": "Bebidas",
+    "precio_antes": 6460.0,
+    "precio_hoy": 6854.0,
+    "diff_abs": 394.0,
+    "diff_pct": 6.1
   },
   {
-    "ean": "7790387011852",
-    "nombre": "mate cocido taragui ni$os vainilla y miel x 20 saq",
-    "categoria": "Perfumeria",
-    "precio_antes": 2621.0,
-    "precio_hoy": 2857.0,
-    "diff_abs": 236.0,
-    "diff_pct": 9.0
+    "ean": "7791728247800",
+    "nombre": "vino fino blanco santa julia chardonnay x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 6460.0,
+    "precio_hoy": 6854.0,
+    "diff_abs": 394.0,
+    "diff_pct": 6.1
   },
   {
-    "ean": "7790387800104",
-    "nombre": "mate cocido union x 100 saquitos",
-    "categoria": "Perfumeria",
-    "precio_antes": 4847.0,
-    "precio_hoy": 5283.0,
-    "diff_abs": 436.0,
-    "diff_pct": 9.0
+    "ean": "7791728244052",
+    "nombre": "vino santa julia x750ml.viogni",
+    "categoria": "Bebidas",
+    "precio_antes": 6460.0,
+    "precio_hoy": 6854.0,
+    "diff_abs": 394.0,
+    "diff_pct": 6.1
+  },
+  {
+    "ean": "7791728247749",
+    "nombre": "vino santa julia x750ml.tempra",
+    "categoria": "Bebidas",
+    "precio_antes": 6460.0,
+    "precio_hoy": 6854.0,
+    "diff_abs": 394.0,
+    "diff_pct": 6.1
+  },
+  {
+    "ean": "7791728247794",
+    "nombre": "vino santa julia x 750 ml malbec cabernet sauvignon",
+    "categoria": "Bebidas",
+    "precio_antes": 6460.0,
+    "precio_hoy": 6854.0,
+    "diff_abs": 394.0,
+    "diff_pct": 6.1
+  },
+  {
+    "ean": "7791728247855",
+    "nombre": "vino santa julia x 750 ml syrahrose",
+    "categoria": "Bebidas",
+    "precio_antes": 6460.0,
+    "precio_hoy": 6854.0,
+    "diff_abs": 394.0,
+    "diff_pct": 6.1
+  },
+  {
+    "ean": "7791728000153",
+    "nombre": "vino santa julia x 750 ml. torrontes",
+    "categoria": "Bebidas",
+    "precio_antes": 6460.0,
+    "precio_hoy": 6854.0,
+    "diff_abs": 394.0,
+    "diff_pct": 6.1
   }
 ]
