@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2022090000003",
-    "nombre": "sandia x kilo",
+    "ean": "2021780000002",
+    "nombre": "perejil x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 50.51
-  },
-  {
-    "ean": "2022040000008",
-    "nombre": "repollo blanco x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 1990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 33.56
-  },
-  {
-    "ean": "2022060000002",
-    "nombre": "repollo colorado x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 25.13
-  },
-  {
-    "ean": "2020530000002",
-    "nombre": "durazno x kilo",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 7990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 25.03
-  },
-  {
-    "ean": "2021840000003",
-    "nombre": "pimiento verde x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
     "diff_abs": 1000.0,
-    "diff_pct": 20.04
+    "diff_pct": 33.44
+  },
+  {
+    "ean": "2019880000008",
+    "nombre": "acelga x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 790.0,
+    "precio_hoy": 990.0,
+    "diff_abs": 200.0,
+    "diff_pct": 25.32
   },
   {
     "ean": "2020000000006",
     "nombre": "arandanos en bandeja",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3490.0,
+    "precio_antes": 3490.0,
+    "precio_hoy": 3990.0,
     "diff_abs": 500.0,
-    "diff_pct": 16.72
+    "diff_pct": 14.33
   },
   {
-    "ean": "2020270000003",
-    "nombre": "cebolla x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 2790.0,
-    "diff_abs": 300.0,
-    "diff_pct": 12.05
+    "ean": "7790710334757",
+    "nombre": "yerba mate mateando  x 500 gr",
+    "categoria": "Perfumeria",
+    "precio_antes": 2534.0,
+    "precio_hoy": 2727.0,
+    "diff_abs": 193.0,
+    "diff_pct": 7.62
   },
   {
-    "ean": "7791728248265",
-    "nombre": "vino santa julia x 750 ml. tinto dulce",
-    "categoria": "Bebidas",
-    "precio_antes": 7594.0,
-    "precio_hoy": 8185.0,
-    "diff_abs": 591.0,
-    "diff_pct": 7.78
+    "ean": "7790710334269",
+    "nombre": "yerba mate cbse x500gr.et.ngra",
+    "categoria": "Perfumeria",
+    "precio_antes": 3802.0,
+    "precio_hoy": 4090.0,
+    "diff_abs": 288.0,
+    "diff_pct": 7.57
   },
   {
-    "ean": "7791728247091",
-    "nombre": "vino blanco santa julia x 750 ml. chardonnay dulce",
-    "categoria": "Bebidas",
-    "precio_antes": 7594.0,
-    "precio_hoy": 8185.0,
-    "diff_abs": 591.0,
-    "diff_pct": 7.78
+    "ean": "7790710334672",
+    "nombre": "yerba mate cbse x500gr.hie.lit",
+    "categoria": "Perfumeria",
+    "precio_antes": 2350.0,
+    "precio_hoy": 2526.0,
+    "diff_abs": 176.0,
+    "diff_pct": 7.49
   },
   {
-    "ean": "7791728243871",
-    "nombre": "vino tinto santa julia cabernet sauvignon x 750 ml",
-    "categoria": "Bebidas",
-    "precio_antes": 6460.0,
-    "precio_hoy": 6854.0,
-    "diff_abs": 394.0,
-    "diff_pct": 6.1
+    "ean": "7790710334665",
+    "nombre": "yerba mate cbse endulife con stevia x 500 gr.",
+    "categoria": "Perfumeria",
+    "precio_antes": 2350.0,
+    "precio_hoy": 2526.0,
+    "diff_abs": 176.0,
+    "diff_pct": 7.49
   },
   {
-    "ean": "7791728247763",
-    "nombre": "vino tinto santa julia merlot x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 6460.0,
-    "precio_hoy": 6854.0,
-    "diff_abs": 394.0,
-    "diff_pct": 6.1
+    "ean": "7790710334719",
+    "nombre": "yerba mate cbse x 500 gr frutos del valle",
+    "categoria": "Perfumeria",
+    "precio_antes": 2350.0,
+    "precio_hoy": 2526.0,
+    "diff_abs": 176.0,
+    "diff_pct": 7.49
   },
   {
-    "ean": "7791728247770",
-    "nombre": "vino tinto santa julia pinot noir x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 6460.0,
-    "precio_hoy": 6854.0,
-    "diff_abs": 394.0,
-    "diff_pct": 6.1
+    "ean": "7790710003332",
+    "nombre": "yerba mate cbse x 500 gr. jengibre",
+    "categoria": "Perfumeria",
+    "precio_antes": 2350.0,
+    "precio_hoy": 2526.0,
+    "diff_abs": 176.0,
+    "diff_pct": 7.49
   },
   {
-    "ean": "7791728247756",
-    "nombre": "vino tinto santa julia syrah x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 6460.0,
-    "precio_hoy": 6854.0,
-    "diff_abs": 394.0,
-    "diff_pct": 6.1
+    "ean": "7790710334597",
+    "nombre": "yerba mate cbse x 500 gr. limon",
+    "categoria": "Perfumeria",
+    "precio_antes": 2350.0,
+    "precio_hoy": 2526.0,
+    "diff_abs": 176.0,
+    "diff_pct": 7.49
   },
   {
-    "ean": "7791728247817",
-    "nombre": "vino blanco santa julia x 750 ml. sauvignon blanc",
-    "categoria": "Bebidas",
-    "precio_antes": 6460.0,
-    "precio_hoy": 6854.0,
-    "diff_abs": 394.0,
-    "diff_pct": 6.1
+    "ean": "7790710334658",
+    "nombre": "yerba mate cbse x500gr.miel",
+    "categoria": "Perfumeria",
+    "precio_antes": 2350.0,
+    "precio_hoy": 2526.0,
+    "diff_abs": 176.0,
+    "diff_pct": 7.49
   },
   {
-    "ean": "7791728247800",
-    "nombre": "vino fino blanco santa julia chardonnay x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 6460.0,
-    "precio_hoy": 6854.0,
-    "diff_abs": 394.0,
-    "diff_pct": 6.1
+    "ean": "7790710334580",
+    "nombre": "yerba mate cbse x500gr.naranja",
+    "categoria": "Perfumeria",
+    "precio_antes": 2350.0,
+    "precio_hoy": 2526.0,
+    "diff_abs": 176.0,
+    "diff_pct": 7.49
   },
   {
-    "ean": "7791728244052",
-    "nombre": "vino santa julia x750ml.viogni",
-    "categoria": "Bebidas",
-    "precio_antes": 6460.0,
-    "precio_hoy": 6854.0,
-    "diff_abs": 394.0,
-    "diff_pct": 6.1
+    "ean": "7790710334610",
+    "nombre": "yerba mate cbse x500gr.pomelo",
+    "categoria": "Perfumeria",
+    "precio_antes": 2350.0,
+    "precio_hoy": 2526.0,
+    "diff_abs": 176.0,
+    "diff_pct": 7.49
   },
   {
-    "ean": "7791728247749",
-    "nombre": "vino santa julia x750ml.tempra",
-    "categoria": "Bebidas",
-    "precio_antes": 6460.0,
-    "precio_hoy": 6854.0,
-    "diff_abs": 394.0,
-    "diff_pct": 6.1
+    "ean": "7790710334634",
+    "nombre": "yerba mate cbse x500gr.silueta",
+    "categoria": "Perfumeria",
+    "precio_antes": 2350.0,
+    "precio_hoy": 2526.0,
+    "diff_abs": 176.0,
+    "diff_pct": 7.49
   },
   {
-    "ean": "7791728247794",
-    "nombre": "vino santa julia x 750 ml malbec cabernet sauvignon",
-    "categoria": "Bebidas",
-    "precio_antes": 6460.0,
-    "precio_hoy": 6854.0,
-    "diff_abs": 394.0,
-    "diff_pct": 6.1
+    "ean": "7790710334689",
+    "nombre": "yerba mate cbse x500gr.hie.cuy",
+    "categoria": "Perfumeria",
+    "precio_antes": 2350.0,
+    "precio_hoy": 2526.0,
+    "diff_abs": 176.0,
+    "diff_pct": 7.49
   },
   {
-    "ean": "7791728247855",
-    "nombre": "vino santa julia x 750 ml syrahrose",
-    "categoria": "Bebidas",
-    "precio_antes": 6460.0,
-    "precio_hoy": 6854.0,
-    "diff_abs": 394.0,
-    "diff_pct": 6.1
+    "ean": "7790710334603",
+    "nombre": "yerba mate cbse x500gr.guarana",
+    "categoria": "Perfumeria",
+    "precio_antes": 2350.0,
+    "precio_hoy": 2526.0,
+    "diff_abs": 176.0,
+    "diff_pct": 7.49
   },
   {
-    "ean": "7791728000153",
-    "nombre": "vino santa julia x 750 ml. torrontes",
-    "categoria": "Bebidas",
-    "precio_antes": 6460.0,
-    "precio_hoy": 6854.0,
-    "diff_abs": 394.0,
-    "diff_pct": 6.1
+    "ean": "7790710334702",
+    "nombre": "yerba mate cbse x500gr.fr.bosq",
+    "categoria": "Perfumeria",
+    "precio_antes": 2350.0,
+    "precio_hoy": 2526.0,
+    "diff_abs": 176.0,
+    "diff_pct": 7.49
+  },
+  {
+    "ean": "7790710334641",
+    "nombre": "yerba mate cbse silueta naranja x 500 gr",
+    "categoria": "Perfumeria",
+    "precio_antes": 2350.0,
+    "precio_hoy": 2526.0,
+    "diff_abs": 176.0,
+    "diff_pct": 7.49
+  },
+  {
+    "ean": "7790710334818",
+    "nombre": "yerba mate cbse x 550 gr mundial",
+    "categoria": "Perfumeria",
+    "precio_antes": 2350.0,
+    "precio_hoy": 2526.0,
+    "diff_abs": 176.0,
+    "diff_pct": 7.49
+  },
+  {
+    "ean": "7790710334573",
+    "nombre": "yerba mate cbse x 1 kg. hierbas serranas",
+    "categoria": "Perfumeria",
+    "precio_antes": 4451.0,
+    "precio_hoy": 4772.0,
+    "diff_abs": 321.0,
+    "diff_pct": 7.21
   }
 ]

@@ -27,6 +27,15 @@
     "diff_pct": 88.61
   },
   {
+    "ean": "2020000000006",
+    "nombre": "arandanos en bandeja",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2190.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1800.0,
+    "diff_pct": 82.19
+  },
+  {
     "ean": "2020730000000",
     "nombre": "espinaca atado",
     "categoria": "Frutas Y Verduras",
@@ -54,6 +63,15 @@
     "diff_pct": 66.89
   },
   {
+    "ean": "2021020000007",
+    "nombre": "hinojo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.89
+  },
+  {
     "ean": "2021880000001",
     "nombre": "pomelo sanguineo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -72,8 +90,8 @@
     "diff_pct": 60.01
   },
   {
-    "ean": "7790189744040",
-    "nombre": "vino el ultimo tramo x 750 ml naranjo torrontes",
+    "ean": "7790189743999",
+    "nombre": "vino el ultimo tramo x 750 ml cabernet sauvignon",
     "categoria": "Bebidas",
     "precio_antes": 9287.0,
     "precio_hoy": 14859.0,
@@ -90,22 +108,13 @@
     "diff_pct": 60.0
   },
   {
-    "ean": "7790189743999",
-    "nombre": "vino el ultimo tramo x 750 ml cabernet sauvignon",
+    "ean": "7790189744040",
+    "nombre": "vino el ultimo tramo x 750 ml naranjo torrontes",
     "categoria": "Bebidas",
     "precio_antes": 9287.0,
     "precio_hoy": 14859.0,
     "diff_abs": 5572.0,
     "diff_pct": 60.0
-  },
-  {
-    "ean": "2020000000006",
-    "nombre": "arandanos en bandeja",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2190.0,
-    "precio_hoy": 3490.0,
-    "diff_abs": 1300.0,
-    "diff_pct": 59.36
   },
   {
     "ean": "2022080000006",
@@ -115,15 +124,6 @@
     "precio_hoy": 1490.0,
     "diff_abs": 500.0,
     "diff_pct": 50.51
-  },
-  {
-    "ean": "2020910000004",
-    "nombre": "lechuga de hoja x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 50.25
   },
   {
     "ean": "2022440000004",
@@ -162,8 +162,8 @@
     "diff_pct": 40.08
   },
   {
-    "ean": "2020960000009",
-    "nombre": "lechuga repollada x kg.",
+    "ean": "2020980000003",
+    "nombre": "limones x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 3990.0,
@@ -171,8 +171,8 @@
     "diff_pct": 33.44
   },
   {
-    "ean": "2021680000003",
-    "nombre": "zapallo brasilero x kg.",
+    "ean": "2020570000000",
+    "nombre": "coliflor x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 3990.0,
