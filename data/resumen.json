@@ -1,147 +1,147 @@
 {
-  "fecha": "20261120",
-  "total_productos": 7083,
-  "variacion_dia": 0.01,
-  "variacion_7d": 0.34,
-  "variacion_mes": 0.89,
+  "fecha": "20261121",
+  "total_productos": 7114,
+  "variacion_dia": 0.02,
+  "variacion_7d": 0.35,
+  "variacion_mes": 0.91,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 7,
       "productos_bajaron": 0,
-      "total_productos": 1594
+      "total_productos": 1610
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.03,
-      "productos_subieron": 4,
-      "productos_bajaron": 5,
-      "total_productos": 1234
+      "variacion_pct_promedio": 0.21,
+      "productos_subieron": 43,
+      "productos_bajaron": 29,
+      "total_productos": 1236
     },
     {
       "categoria": "Congelados",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 252
+      "total_productos": 255
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 884
+      "total_productos": 891
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.13,
-      "productos_subieron": 18,
+      "variacion_pct_promedio": 0.11,
+      "productos_subieron": 20,
       "productos_bajaron": 0,
-      "total_productos": 991
+      "total_productos": 994
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 2056
+      "variacion_pct_promedio": -0.14,
+      "productos_subieron": 14,
+      "productos_bajaron": 28,
+      "total_productos": 2083
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2020160000007",
-      "nombre": "brocoli x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -40.08
+      "ean": "7790139004521",
+      "nombre": "aceto balsamico glaze casalta x 250 ml. ahumado",
+      "categoria": "Almacen",
+      "precio_antes": 5583.0,
+      "precio_hoy": 4119.0,
+      "diff_abs": -1464.0,
+      "diff_pct": -26.22
     },
     {
-      "ean": "2019950000006",
-      "nombre": "akusay x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
+      "ean": "7790139004613",
+      "nombre": "aceto balsamico casalta glaze x 250 ml curry",
+      "categoria": "Almacen",
+      "precio_antes": 5824.0,
+      "precio_hoy": 4297.0,
+      "diff_abs": -1527.0,
+      "diff_pct": -26.22
     },
     {
-      "ean": "2021650000002",
-      "nombre": "zapallito largo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1790.0,
-      "precio_hoy": 1490.0,
-      "diff_abs": -300.0,
-      "diff_pct": -16.76
+      "ean": "7790139002121",
+      "nombre": "aceto balsamico favinco x 500 ml.",
+      "categoria": "Almacen",
+      "precio_antes": 4820.0,
+      "precio_hoy": 3556.0,
+      "diff_abs": -1264.0,
+      "diff_pct": -26.22
     },
     {
-      "ean": "2021850000000",
-      "nombre": "pia?a?a x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -16.69
+      "ean": "7790139101466",
+      "nombre": "aceto balsamico casalta reduccion x 250 ml.",
+      "categoria": "Almacen",
+      "precio_antes": 5583.0,
+      "precio_hoy": 4119.0,
+      "diff_abs": -1464.0,
+      "diff_pct": -26.22
     },
     {
-      "ean": "2021660000009",
-      "nombre": "zapallito redondo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1490.0,
-      "precio_hoy": 1290.0,
-      "diff_abs": -200.0,
-      "diff_pct": -13.42
+      "ean": "7790139000448",
+      "nombre": "aceto balsamico casalta x 250 ml. clasico",
+      "categoria": "Almacen",
+      "precio_antes": 4318.0,
+      "precio_hoy": 3186.0,
+      "diff_abs": -1132.0,
+      "diff_pct": -26.22
     },
     {
-      "ean": "7798151771407",
-      "nombre": "queso untable tremblay x 180 gm sabor clasico",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 2358.0,
-      "precio_hoy": 2358.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790139004965",
+      "nombre": "aceto espeso favinco x 500 ml. original",
+      "categoria": "Almacen",
+      "precio_antes": 6845.0,
+      "precio_hoy": 5051.0,
+      "diff_abs": -1794.0,
+      "diff_pct": -26.21
     },
     {
-      "ean": "7794080000502",
-      "nombre": "ravioles la morocha de pollo cespinaca",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3641.0,
-      "precio_hoy": 3641.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790139004972",
+      "nombre": "aceto espeso favinco x 500 ml. ahumado",
+      "categoria": "Almacen",
+      "precio_antes": 6845.0,
+      "precio_hoy": 5051.0,
+      "diff_abs": -1794.0,
+      "diff_pct": -26.21
     },
     {
-      "ean": "7794080000458",
-      "nombre": "ravioles la morocha de carne y verdura x 500 gr.",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3641.0,
-      "precio_hoy": 3641.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790139101640",
+      "nombre": "aceto balsamico casalta reduccion x 500 ml.",
+      "categoria": "Almacen",
+      "precio_antes": 10103.0,
+      "precio_hoy": 7455.0,
+      "diff_abs": -2648.0,
+      "diff_pct": -26.21
     },
     {
-      "ean": "7795293106210",
-      "nombre": "ravioles don yeyo x 500 gr. espinaca y pollo",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 3946.0,
-      "precio_hoy": 3946.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790139004958",
+      "nombre": "aceto espeso favinco x 250 ml. ahumado",
+      "categoria": "Almacen",
+      "precio_antes": 4469.0,
+      "precio_hoy": 3298.0,
+      "diff_abs": -1171.0,
+      "diff_pct": -26.2
     },
     {
-      "ean": "7795293106111",
-      "nombre": "ravioles don yeyo x 500 gr. carne y espinaca",
-      "categoria": "Lacteos Y Frescos",
-      "precio_antes": 4104.0,
-      "precio_hoy": 4104.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7790139004941",
+      "nombre": "aceto espeso favinco x 250 ml. original",
+      "categoria": "Almacen",
+      "precio_antes": 4469.0,
+      "precio_hoy": 3298.0,
+      "diff_abs": -1171.0,
+      "diff_pct": -26.2
     }
   ],
-  "productos_subieron_dia": 22,
-  "productos_bajaron_dia": 5,
-  "productos_sin_cambio_dia": 6984
+  "productos_subieron_dia": 84,
+  "productos_bajaron_dia": 57,
+  "productos_sin_cambio_dia": 6928
 }

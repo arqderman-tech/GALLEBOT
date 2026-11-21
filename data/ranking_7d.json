@@ -81,6 +81,15 @@
     "diff_pct": 33.56
   },
   {
+    "ean": "2020570000000",
+    "nombre": "coliflor x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
+  },
+  {
     "ean": "2030920000000",
     "nombre": "puerro x kg.",
     "categoria": "Frutas Y Verduras",
@@ -90,13 +99,31 @@
     "diff_pct": 33.44
   },
   {
-    "ean": "2020570000000",
-    "nombre": "coliflor x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
+    "ean": "2026920000003",
+    "nombre": "queso magro sin sal la paulina x kilo envasado al vacio.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 15256.0,
+    "precio_hoy": 19708.0,
+    "diff_abs": 4452.0,
+    "diff_pct": 29.18
+  },
+  {
+    "ean": "7790398100071",
+    "nombre": "manteca la paulina x 100 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1655.0,
+    "precio_hoy": 2118.0,
+    "diff_abs": 463.0,
+    "diff_pct": 27.98
+  },
+  {
+    "ean": "7790398100088",
+    "nombre": "manteca la paulina x 200 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3180.0,
+    "precio_hoy": 4042.0,
+    "diff_abs": 862.0,
+    "diff_pct": 27.11
   },
   {
     "ean": "2019880000008",
@@ -126,6 +153,15 @@
     "diff_pct": 25.06
   },
   {
+    "ean": "7794990879557",
+    "nombre": "manteca la paulina x 500 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 7599.0,
+    "precio_hoy": 9430.0,
+    "diff_abs": 1831.0,
+    "diff_pct": 24.1
+  },
+  {
     "ean": "7790079022647",
     "nombre": "salame tipo milan paladini fetas + finas x 180 gr.",
     "categoria": "Lacteos Y Frescos",
@@ -135,48 +171,12 @@
     "diff_pct": 23.58
   },
   {
-    "ean": "2020730000000",
-    "nombre": "espinaca atado",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 1790.0,
-    "diff_abs": 300.0,
-    "diff_pct": 20.13
-  },
-  {
-    "ean": "2021820000009",
-    "nombre": "pimiento rojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
-  },
-  {
-    "ean": "2021840000003",
-    "nombre": "pimiento verde x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
-  },
-  {
-    "ean": "7790079021374",
-    "nombre": "pascualina paladini x 400 gr. hojaldre",
+    "ean": "2017240000002",
+    "nombre": "queso pategras la paulina x kg.",
     "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2793.0,
-    "precio_hoy": 3285.0,
-    "diff_abs": 492.0,
-    "diff_pct": 17.62
-  },
-  {
-    "ean": "7790079022135",
-    "nombre": "pascualina paladini x 400 gr. tipo criolla",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2793.0,
-    "precio_hoy": 3285.0,
-    "diff_abs": 492.0,
-    "diff_pct": 17.62
+    "precio_antes": 24614.0,
+    "precio_hoy": 29631.0,
+    "diff_abs": 5017.0,
+    "diff_pct": 20.38
   }
 ]

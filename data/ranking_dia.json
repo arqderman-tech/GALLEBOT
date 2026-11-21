@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2021780000002",
-    "nombre": "perejil x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
+    "ean": "2026920000003",
+    "nombre": "queso magro sin sal la paulina x kilo envasado al vacio.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 15256.0,
+    "precio_hoy": 19708.0,
+    "diff_abs": 4452.0,
+    "diff_pct": 29.18
   },
   {
-    "ean": "2019880000008",
-    "nombre": "acelga x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 790.0,
-    "precio_hoy": 990.0,
-    "diff_abs": 200.0,
-    "diff_pct": 25.32
+    "ean": "7790398100071",
+    "nombre": "manteca la paulina x 100 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1655.0,
+    "precio_hoy": 2118.0,
+    "diff_abs": 463.0,
+    "diff_pct": 27.98
   },
   {
-    "ean": "2020000000006",
-    "nombre": "arandanos en bandeja",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 500.0,
-    "diff_pct": 14.33
+    "ean": "7790398100088",
+    "nombre": "manteca la paulina x 200 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3180.0,
+    "precio_hoy": 4042.0,
+    "diff_abs": 862.0,
+    "diff_pct": 27.11
   },
   {
-    "ean": "7790710334757",
-    "nombre": "yerba mate mateando  x 500 gr",
-    "categoria": "Perfumeria",
-    "precio_antes": 2534.0,
-    "precio_hoy": 2727.0,
-    "diff_abs": 193.0,
-    "diff_pct": 7.62
+    "ean": "7794990879557",
+    "nombre": "manteca la paulina x 500 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 7599.0,
+    "precio_hoy": 9430.0,
+    "diff_abs": 1831.0,
+    "diff_pct": 24.1
   },
   {
-    "ean": "7790710334269",
-    "nombre": "yerba mate cbse x500gr.et.ngra",
-    "categoria": "Perfumeria",
-    "precio_antes": 3802.0,
-    "precio_hoy": 4090.0,
-    "diff_abs": 288.0,
-    "diff_pct": 7.57
+    "ean": "2017240000002",
+    "nombre": "queso pategras la paulina x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 24614.0,
+    "precio_hoy": 29631.0,
+    "diff_abs": 5017.0,
+    "diff_pct": 20.38
   },
   {
-    "ean": "7790710334672",
-    "nombre": "yerba mate cbse x500gr.hie.lit",
-    "categoria": "Perfumeria",
-    "precio_antes": 2350.0,
-    "precio_hoy": 2526.0,
-    "diff_abs": 176.0,
-    "diff_pct": 7.49
+    "ean": "7790398100644",
+    "nombre": "leche en polvo la paulina entera x 800 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 12061.0,
+    "precio_hoy": 14407.0,
+    "diff_abs": 2346.0,
+    "diff_pct": 19.45
   },
   {
-    "ean": "7790710334665",
-    "nombre": "yerba mate cbse endulife con stevia x 500 gr.",
-    "categoria": "Perfumeria",
-    "precio_antes": 2350.0,
-    "precio_hoy": 2526.0,
-    "diff_abs": 176.0,
-    "diff_pct": 7.49
+    "ean": "7790398000265",
+    "nombre": "crema de leche la paulina x 200 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2118.0,
+    "precio_hoy": 2472.0,
+    "diff_abs": 354.0,
+    "diff_pct": 16.71
   },
   {
-    "ean": "7790710334719",
-    "nombre": "yerba mate cbse x 500 gr frutos del valle",
-    "categoria": "Perfumeria",
-    "precio_antes": 2350.0,
-    "precio_hoy": 2526.0,
-    "diff_abs": 176.0,
-    "diff_pct": 7.49
+    "ean": "7794990184484",
+    "nombre": "alimento lacteo untable ricrem x 280 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2217.0,
+    "precio_hoy": 2571.0,
+    "diff_abs": 354.0,
+    "diff_pct": 15.97
   },
   {
-    "ean": "7790710003332",
-    "nombre": "yerba mate cbse x 500 gr. jengibre",
-    "categoria": "Perfumeria",
-    "precio_antes": 2350.0,
-    "precio_hoy": 2526.0,
-    "diff_abs": 176.0,
-    "diff_pct": 7.49
+    "ean": "7794990191123",
+    "nombre": "alimento lacteo ricrem untable x 280 gr light",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2217.0,
+    "precio_hoy": 2571.0,
+    "diff_abs": 354.0,
+    "diff_pct": 15.97
   },
   {
-    "ean": "7790710334597",
-    "nombre": "yerba mate cbse x 500 gr. limon",
-    "categoria": "Perfumeria",
-    "precio_antes": 2350.0,
-    "precio_hoy": 2526.0,
-    "diff_abs": 176.0,
-    "diff_pct": 7.49
+    "ean": "7794990188659",
+    "nombre": "queso crema doble la paulina x 280 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3373.0,
+    "precio_hoy": 3910.0,
+    "diff_abs": 537.0,
+    "diff_pct": 15.92
   },
   {
-    "ean": "7790710334658",
-    "nombre": "yerba mate cbse x500gr.miel",
-    "categoria": "Perfumeria",
-    "precio_antes": 2350.0,
-    "precio_hoy": 2526.0,
-    "diff_abs": 176.0,
-    "diff_pct": 7.49
+    "ean": "7794990186242",
+    "nombre": "crema de leche la paulina pote x 200 cc doble",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2399.0,
+    "precio_hoy": 2769.0,
+    "diff_abs": 370.0,
+    "diff_pct": 15.42
   },
   {
-    "ean": "7790710334580",
-    "nombre": "yerba mate cbse x500gr.naranja",
-    "categoria": "Perfumeria",
-    "precio_antes": 2350.0,
-    "precio_hoy": 2526.0,
-    "diff_abs": 176.0,
-    "diff_pct": 7.49
+    "ean": "7794990185184",
+    "nombre": "queso en fetas la paulina env. x 500 gr danbo",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 9845.0,
+    "precio_hoy": 11251.0,
+    "diff_abs": 1406.0,
+    "diff_pct": 14.28
   },
   {
-    "ean": "7790710334610",
-    "nombre": "yerba mate cbse x500gr.pomelo",
-    "categoria": "Perfumeria",
-    "precio_antes": 2350.0,
-    "precio_hoy": 2526.0,
-    "diff_abs": 176.0,
-    "diff_pct": 7.49
+    "ean": "7794990190928",
+    "nombre": "queso la paulina provoleta parrillera env.al vacio x 160 gr",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 6413.0,
+    "precio_hoy": 7326.0,
+    "diff_abs": 913.0,
+    "diff_pct": 14.24
   },
   {
-    "ean": "7790710334634",
-    "nombre": "yerba mate cbse x500gr.silueta",
-    "categoria": "Perfumeria",
-    "precio_antes": 2350.0,
-    "precio_hoy": 2526.0,
-    "diff_abs": 176.0,
-    "diff_pct": 7.49
+    "ean": "7790398100132",
+    "nombre": "queso rallado la paulina x 150 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 5144.0,
+    "precio_hoy": 5837.0,
+    "diff_abs": 693.0,
+    "diff_pct": 13.47
   },
   {
-    "ean": "7790710334689",
-    "nombre": "yerba mate cbse x500gr.hie.cuy",
-    "categoria": "Perfumeria",
-    "precio_antes": 2350.0,
-    "precio_hoy": 2526.0,
-    "diff_abs": 176.0,
-    "diff_pct": 7.49
+    "ean": "7790398000272",
+    "nombre": "crema de leche la paulina x 350 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3592.0,
+    "precio_hoy": 4062.0,
+    "diff_abs": 470.0,
+    "diff_pct": 13.08
   },
   {
-    "ean": "7790710334603",
-    "nombre": "yerba mate cbse x500gr.guarana",
-    "categoria": "Perfumeria",
-    "precio_antes": 2350.0,
-    "precio_hoy": 2526.0,
-    "diff_abs": 176.0,
-    "diff_pct": 7.49
+    "ean": "7794990880003",
+    "nombre": "queso rallado la paulina x 450 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 15921.0,
+    "precio_hoy": 17984.0,
+    "diff_abs": 2063.0,
+    "diff_pct": 12.96
   },
   {
-    "ean": "7790710334702",
-    "nombre": "yerba mate cbse x500gr.fr.bosq",
-    "categoria": "Perfumeria",
-    "precio_antes": 2350.0,
-    "precio_hoy": 2526.0,
-    "diff_abs": 176.0,
-    "diff_pct": 7.49
+    "ean": "2015930000004",
+    "nombre": "queso la paulina doble crema envasado x 500 gr aproximado",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 17789.0,
+    "precio_hoy": 20019.0,
+    "diff_abs": 2230.0,
+    "diff_pct": 12.54
   },
   {
-    "ean": "7790710334641",
-    "nombre": "yerba mate cbse silueta naranja x 500 gr",
-    "categoria": "Perfumeria",
-    "precio_antes": 2350.0,
-    "precio_hoy": 2526.0,
-    "diff_abs": 176.0,
-    "diff_pct": 7.49
+    "ean": "7791826000703",
+    "nombre": "pizzines pedrin x 70 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1932.0,
+    "precio_hoy": 2164.0,
+    "diff_abs": 232.0,
+    "diff_pct": 12.01
   },
   {
-    "ean": "7790710334818",
-    "nombre": "yerba mate cbse x 550 gr mundial",
-    "categoria": "Perfumeria",
-    "precio_antes": 2350.0,
-    "precio_hoy": 2526.0,
-    "diff_abs": 176.0,
-    "diff_pct": 7.49
+    "ean": "7791826000659",
+    "nombre": "chalitas pedrin x 50 gr.",
+    "categoria": "Almacen",
+    "precio_antes": 1932.0,
+    "precio_hoy": 2164.0,
+    "diff_abs": 232.0,
+    "diff_pct": 12.01
   },
   {
-    "ean": "7790710334573",
-    "nombre": "yerba mate cbse x 1 kg. hierbas serranas",
-    "categoria": "Perfumeria",
-    "precio_antes": 4451.0,
-    "precio_hoy": 4772.0,
-    "diff_abs": 321.0,
-    "diff_pct": 7.21
+    "ean": "7791826000086",
+    "nombre": "copos de maiz con queso pedrin x 80 gr",
+    "categoria": "Almacen",
+    "precio_antes": 1932.0,
+    "precio_hoy": 2164.0,
+    "diff_abs": 232.0,
+    "diff_pct": 12.01
   }
 ]
