@@ -1,182 +1,182 @@
 [
   {
-    "ean": "2026920000003",
-    "nombre": "queso magro sin sal la paulina x kilo envasado al vacio.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 15256.0,
-    "precio_hoy": 19708.0,
-    "diff_abs": 4452.0,
-    "diff_pct": 29.18
-  },
-  {
-    "ean": "7790398100071",
-    "nombre": "manteca la paulina x 100 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1655.0,
-    "precio_hoy": 2118.0,
-    "diff_abs": 463.0,
-    "diff_pct": 27.98
-  },
-  {
-    "ean": "7790398100088",
-    "nombre": "manteca la paulina x 200 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3180.0,
-    "precio_hoy": 4042.0,
-    "diff_abs": 862.0,
-    "diff_pct": 27.11
-  },
-  {
-    "ean": "7794990879557",
-    "nombre": "manteca la paulina x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 7599.0,
-    "precio_hoy": 9430.0,
-    "diff_abs": 1831.0,
-    "diff_pct": 24.1
-  },
-  {
-    "ean": "2017240000002",
-    "nombre": "queso pategras la paulina x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 24614.0,
-    "precio_hoy": 29631.0,
-    "diff_abs": 5017.0,
-    "diff_pct": 20.38
-  },
-  {
-    "ean": "7790398100644",
-    "nombre": "leche en polvo la paulina entera x 800 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 12061.0,
-    "precio_hoy": 14407.0,
-    "diff_abs": 2346.0,
-    "diff_pct": 19.45
-  },
-  {
-    "ean": "7790398000265",
-    "nombre": "crema de leche la paulina x 200 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2118.0,
-    "precio_hoy": 2472.0,
-    "diff_abs": 354.0,
-    "diff_pct": 16.71
-  },
-  {
-    "ean": "7794990184484",
-    "nombre": "alimento lacteo untable ricrem x 280 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2217.0,
-    "precio_hoy": 2571.0,
-    "diff_abs": 354.0,
-    "diff_pct": 15.97
-  },
-  {
-    "ean": "7794990191123",
-    "nombre": "alimento lacteo ricrem untable x 280 gr light",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2217.0,
-    "precio_hoy": 2571.0,
-    "diff_abs": 354.0,
-    "diff_pct": 15.97
-  },
-  {
-    "ean": "7794990188659",
-    "nombre": "queso crema doble la paulina x 280 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3373.0,
-    "precio_hoy": 3910.0,
-    "diff_abs": 537.0,
-    "diff_pct": 15.92
-  },
-  {
-    "ean": "7794990186242",
-    "nombre": "crema de leche la paulina pote x 200 cc doble",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2399.0,
-    "precio_hoy": 2769.0,
-    "diff_abs": 370.0,
-    "diff_pct": 15.42
-  },
-  {
-    "ean": "7794990185184",
-    "nombre": "queso en fetas la paulina env. x 500 gr danbo",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 9845.0,
-    "precio_hoy": 11251.0,
-    "diff_abs": 1406.0,
-    "diff_pct": 14.28
-  },
-  {
-    "ean": "7794990190928",
-    "nombre": "queso la paulina provoleta parrillera env.al vacio x 160 gr",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 6413.0,
-    "precio_hoy": 7326.0,
-    "diff_abs": 913.0,
-    "diff_pct": 14.24
-  },
-  {
-    "ean": "7790398100132",
-    "nombre": "queso rallado la paulina x 150 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5144.0,
-    "precio_hoy": 5837.0,
-    "diff_abs": 693.0,
-    "diff_pct": 13.47
-  },
-  {
-    "ean": "7790398000272",
-    "nombre": "crema de leche la paulina x 350 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3592.0,
-    "precio_hoy": 4062.0,
-    "diff_abs": 470.0,
-    "diff_pct": 13.08
-  },
-  {
-    "ean": "7794990880003",
-    "nombre": "queso rallado la paulina x 450 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 15921.0,
-    "precio_hoy": 17984.0,
-    "diff_abs": 2063.0,
-    "diff_pct": 12.96
-  },
-  {
-    "ean": "2015930000004",
-    "nombre": "queso la paulina doble crema envasado x 500 gr aproximado",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 17789.0,
-    "precio_hoy": 20019.0,
-    "diff_abs": 2230.0,
-    "diff_pct": 12.54
-  },
-  {
-    "ean": "7791826000703",
-    "nombre": "pizzines pedrin x 70 gr.",
+    "ean": "7790310985830",
+    "nombre": "3ds queso x 85 gr.",
     "categoria": "Almacen",
-    "precio_antes": 1932.0,
-    "precio_hoy": 2164.0,
-    "diff_abs": 232.0,
-    "diff_pct": 12.01
+    "precio_antes": 3981.0,
+    "precio_hoy": 3981.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791826000659",
-    "nombre": "chalitas pedrin x 50 gr.",
+    "ean": "7790310985137",
+    "nombre": "3ds queso x143gr.",
     "categoria": "Almacen",
-    "precio_antes": 1932.0,
-    "precio_hoy": 2164.0,
-    "diff_abs": 232.0,
-    "diff_pct": 12.01
+    "precio_antes": 5545.0,
+    "precio_hoy": 5545.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "ean": "7791826000086",
-    "nombre": "copos de maiz con queso pedrin x 80 gr",
+    "ean": "7790310985113",
+    "nombre": "3ds sabor queso x 43 gm",
     "categoria": "Almacen",
-    "precio_antes": 1932.0,
-    "precio_hoy": 2164.0,
-    "diff_abs": 232.0,
-    "diff_pct": 12.01
+    "precio_antes": 2370.0,
+    "precio_hoy": 2370.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7791728246629",
+    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
+    "categoria": "Almacen",
+    "precio_antes": 24484.0,
+    "precio_hoy": 24484.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "763571722428",
+    "nombre": "ac.de coco entrenuts x200virg.",
+    "categoria": "Almacen",
+    "precio_antes": 9564.0,
+    "precio_hoy": 9564.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798080520657",
+    "nombre": "ac.ol.l.toscana x250ml.ajo",
+    "categoria": "Almacen",
+    "precio_antes": 10398.0,
+    "precio_hoy": 10398.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798080520534",
+    "nombre": "ac.ol.l.toscana x250ml.albahac",
+    "categoria": "Almacen",
+    "precio_antes": 10398.0,
+    "precio_hoy": 10398.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7791728246612",
+    "nombre": "ac.ol.zuccardi x250ml.coratina",
+    "categoria": "Almacen",
+    "precio_antes": 14282.0,
+    "precio_hoy": 14282.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7791728246575",
+    "nombre": "ac.ol.zuccardi x250ml.picual",
+    "categoria": "Almacen",
+    "precio_antes": 14282.0,
+    "precio_hoy": 14282.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "41331014922",
+    "nombre": "acaitunas goya x 149 gm con pimiento picante",
+    "categoria": "Almacen",
+    "precio_antes": 10757.0,
+    "precio_hoy": 10757.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790580160807",
+    "nombre": "aceite arcor x900ml.maiz",
+    "categoria": "Almacen",
+    "precio_antes": 5911.0,
+    "precio_hoy": 5911.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790070225023",
+    "nombre": "aceite cocinero mezcla x1.5lt.",
+    "categoria": "Almacen",
+    "precio_antes": 5476.0,
+    "precio_hoy": 5476.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790070231604",
+    "nombre": "aceite cocinero olivay girasol x 1.5 litros",
+    "categoria": "Almacen",
+    "precio_antes": 9336.0,
+    "precio_hoy": 9336.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790070265142",
+    "nombre": "aceite cocinero puro de oliva x 500 ml",
+    "categoria": "Almacen",
+    "precio_antes": 10919.0,
+    "precio_hoy": 10919.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790070231598",
+    "nombre": "aceite cocinero x900 ml oliva y girasol",
+    "categoria": "Almacen",
+    "precio_antes": 5809.0,
+    "precio_hoy": 5809.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7790272006819",
+    "nombre": "aceite copisi x 900 ml. girasol y oliva",
+    "categoria": "Almacen",
+    "precio_antes": 6162.0,
+    "precio_hoy": 6162.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "656750783931",
+    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 8892.0,
+    "precio_hoy": 8892.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "763571722435",
+    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 16506.0,
+    "precio_hoy": 16506.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7794870000040",
+    "nombre": "aceite de girasol alsamar x 5 lts.",
+    "categoria": "Almacen",
+    "precio_antes": 22784.0,
+    "precio_hoy": 22784.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "ean": "7798316700907",
+    "nombre": "aceite de girasol alsamar x 900 ml.",
+    "categoria": "Almacen",
+    "precio_antes": 4133.0,
+    "precio_hoy": 4133.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]

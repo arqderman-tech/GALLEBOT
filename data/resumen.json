@@ -1,31 +1,31 @@
 {
-  "fecha": "20261121",
-  "total_productos": 7114,
-  "variacion_dia": 0.02,
+  "fecha": "20261122",
+  "total_productos": 7094,
+  "variacion_dia": 0.0,
   "variacion_7d": 0.35,
-  "variacion_mes": 0.91,
+  "variacion_mes": 0.92,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 7,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 1610
+      "total_productos": 1607
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.21,
-      "productos_subieron": 43,
-      "productos_bajaron": 29,
-      "total_productos": 1236
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1237
     },
     {
       "categoria": "Congelados",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 255
+      "total_productos": 254
     },
     {
       "categoria": "Limpieza",
@@ -36,112 +36,112 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.11,
-      "productos_subieron": 20,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 994
+      "total_productos": 1003
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": -0.14,
-      "productos_subieron": 14,
-      "productos_bajaron": 28,
-      "total_productos": 2083
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 2102
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "7790139004521",
-      "nombre": "aceto balsamico glaze casalta x 250 ml. ahumado",
+      "ean": "7790310985830",
+      "nombre": "3ds queso x 85 gr.",
       "categoria": "Almacen",
-      "precio_antes": 5583.0,
-      "precio_hoy": 4119.0,
-      "diff_abs": -1464.0,
-      "diff_pct": -26.22
+      "precio_antes": 3981.0,
+      "precio_hoy": 3981.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790139004613",
-      "nombre": "aceto balsamico casalta glaze x 250 ml curry",
+      "ean": "7790310985137",
+      "nombre": "3ds queso x143gr.",
       "categoria": "Almacen",
-      "precio_antes": 5824.0,
-      "precio_hoy": 4297.0,
-      "diff_abs": -1527.0,
-      "diff_pct": -26.22
+      "precio_antes": 5545.0,
+      "precio_hoy": 5545.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790139002121",
-      "nombre": "aceto balsamico favinco x 500 ml.",
+      "ean": "7790310985113",
+      "nombre": "3ds sabor queso x 43 gm",
       "categoria": "Almacen",
-      "precio_antes": 4820.0,
-      "precio_hoy": 3556.0,
-      "diff_abs": -1264.0,
-      "diff_pct": -26.22
+      "precio_antes": 2370.0,
+      "precio_hoy": 2370.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790139101466",
-      "nombre": "aceto balsamico casalta reduccion x 250 ml.",
+      "ean": "7791728246629",
+      "nombre": "ac. de oliva zuccardi x 500 ml coratina",
       "categoria": "Almacen",
-      "precio_antes": 5583.0,
-      "precio_hoy": 4119.0,
-      "diff_abs": -1464.0,
-      "diff_pct": -26.22
+      "precio_antes": 24484.0,
+      "precio_hoy": 24484.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790139000448",
-      "nombre": "aceto balsamico casalta x 250 ml. clasico",
+      "ean": "763571722428",
+      "nombre": "ac.de coco entrenuts x200virg.",
       "categoria": "Almacen",
-      "precio_antes": 4318.0,
-      "precio_hoy": 3186.0,
-      "diff_abs": -1132.0,
-      "diff_pct": -26.22
+      "precio_antes": 9564.0,
+      "precio_hoy": 9564.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790139004965",
-      "nombre": "aceto espeso favinco x 500 ml. original",
+      "ean": "7798080520657",
+      "nombre": "ac.ol.l.toscana x250ml.ajo",
       "categoria": "Almacen",
-      "precio_antes": 6845.0,
-      "precio_hoy": 5051.0,
-      "diff_abs": -1794.0,
-      "diff_pct": -26.21
+      "precio_antes": 10398.0,
+      "precio_hoy": 10398.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790139004972",
-      "nombre": "aceto espeso favinco x 500 ml. ahumado",
+      "ean": "7798080520534",
+      "nombre": "ac.ol.l.toscana x250ml.albahac",
       "categoria": "Almacen",
-      "precio_antes": 6845.0,
-      "precio_hoy": 5051.0,
-      "diff_abs": -1794.0,
-      "diff_pct": -26.21
+      "precio_antes": 10398.0,
+      "precio_hoy": 10398.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790139101640",
-      "nombre": "aceto balsamico casalta reduccion x 500 ml.",
+      "ean": "7791728246612",
+      "nombre": "ac.ol.zuccardi x250ml.coratina",
       "categoria": "Almacen",
-      "precio_antes": 10103.0,
-      "precio_hoy": 7455.0,
-      "diff_abs": -2648.0,
-      "diff_pct": -26.21
+      "precio_antes": 14282.0,
+      "precio_hoy": 14282.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790139004958",
-      "nombre": "aceto espeso favinco x 250 ml. ahumado",
+      "ean": "7791728246575",
+      "nombre": "ac.ol.zuccardi x250ml.picual",
       "categoria": "Almacen",
-      "precio_antes": 4469.0,
-      "precio_hoy": 3298.0,
-      "diff_abs": -1171.0,
-      "diff_pct": -26.2
+      "precio_antes": 14282.0,
+      "precio_hoy": 14282.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "ean": "7790139004941",
-      "nombre": "aceto espeso favinco x 250 ml. original",
+      "ean": "41331014922",
+      "nombre": "acaitunas goya x 149 gm con pimiento picante",
       "categoria": "Almacen",
-      "precio_antes": 4469.0,
-      "precio_hoy": 3298.0,
-      "diff_abs": -1171.0,
-      "diff_pct": -26.2
+      "precio_antes": 10757.0,
+      "precio_hoy": 10757.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 84,
-  "productos_bajaron_dia": 57,
-  "productos_sin_cambio_dia": 6928
+  "productos_subieron_dia": 0,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 7094
 }
