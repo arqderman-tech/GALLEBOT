@@ -72,8 +72,8 @@
     "diff_pct": 60.01
   },
   {
-    "ean": "7790189744040",
-    "nombre": "vino el ultimo tramo x 750 ml naranjo torrontes",
+    "ean": "7790189743982",
+    "nombre": "vino el ultimo tramo x 750 ml malbec",
     "categoria": "Bebidas",
     "precio_antes": 9287.0,
     "precio_hoy": 14859.0,
@@ -81,8 +81,8 @@
     "diff_pct": 60.0
   },
   {
-    "ean": "7790189743982",
-    "nombre": "vino el ultimo tramo x 750 ml malbec",
+    "ean": "7790189744040",
+    "nombre": "vino el ultimo tramo x 750 ml naranjo torrontes",
     "categoria": "Bebidas",
     "precio_antes": 9287.0,
     "precio_hoy": 14859.0,
@@ -144,17 +144,8 @@
     "diff_pct": 47.03
   },
   {
-    "ean": "2020100000005",
-    "nombre": "berenjena morada x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 6990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 40.08
-  },
-  {
-    "ean": "2020980000003",
-    "nombre": "limones x kg.",
+    "ean": "2020570000000",
+    "nombre": "coliflor x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 3990.0,
@@ -162,8 +153,8 @@
     "diff_pct": 33.44
   },
   {
-    "ean": "2020570000000",
-    "nombre": "coliflor x kg.",
+    "ean": "2020980000003",
+    "nombre": "limones x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 3990.0,
@@ -178,5 +169,14 @@
     "precio_hoy": 2118.0,
     "diff_abs": 463.0,
     "diff_pct": 27.98
+  },
+  {
+    "ean": "7790398100088",
+    "nombre": "manteca la paulina x 200 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3180.0,
+    "precio_hoy": 4042.0,
+    "diff_abs": 862.0,
+    "diff_pct": 27.11
   }
 ]

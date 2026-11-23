@@ -9,15 +9,6 @@
     "diff_pct": 150.38
   },
   {
-    "ean": "2019960000003",
-    "nombre": "albahaca x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1790.0,
-    "precio_hoy": 2990.0,
-    "diff_abs": 1200.0,
-    "diff_pct": 67.04
-  },
-  {
     "ean": "2021020000007",
     "nombre": "hinojo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -36,8 +27,8 @@
     "diff_pct": 60.24
   },
   {
-    "ean": "2022080000006",
-    "nombre": "rucula x paquete",
+    "ean": "2022090000003",
+    "nombre": "sandia x kilo",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 990.0,
     "precio_hoy": 1490.0,
@@ -81,8 +72,8 @@
     "diff_pct": 33.56
   },
   {
-    "ean": "2020570000000",
-    "nombre": "coliflor x kg.",
+    "ean": "2030920000000",
+    "nombre": "puerro x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 3990.0,
@@ -90,8 +81,8 @@
     "diff_pct": 33.44
   },
   {
-    "ean": "2030920000000",
-    "nombre": "puerro x kg.",
+    "ean": "2020570000000",
+    "nombre": "coliflor x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 3990.0,
@@ -135,15 +126,6 @@
     "diff_pct": 25.32
   },
   {
-    "ean": "2022090000003",
-    "nombre": "sandia x kilo",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 1190.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 300.0,
-    "diff_pct": 25.21
-  },
-  {
     "ean": "2020120000009",
     "nombre": "berengena negra x kg.",
     "categoria": "Frutas Y Verduras",
@@ -178,5 +160,23 @@
     "precio_hoy": 29631.0,
     "diff_abs": 5017.0,
     "diff_pct": 20.38
+  },
+  {
+    "ean": "2021840000003",
+    "nombre": "pimiento verde x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
+  },
+  {
+    "ean": "7790398100644",
+    "nombre": "leche en polvo la paulina entera x 800 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 12061.0,
+    "precio_hoy": 14407.0,
+    "diff_abs": 2346.0,
+    "diff_pct": 19.45
   }
 ]
