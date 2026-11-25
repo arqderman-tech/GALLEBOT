@@ -1,181 +1,181 @@
 [
   {
-    "ean": "7790310985830",
-    "nombre": "3ds queso x 85 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 3981.0,
-    "precio_hoy": 3981.0,
+    "ean": "2022010000007",
+    "nombre": "remolacha x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 990.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 50.51
+  },
+  {
+    "ean": "2021950000009",
+    "nombre": "radicheta x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 990.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 50.51
+  },
+  {
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1490.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 33.56
+  },
+  {
+    "ean": "2020160000007",
+    "nombre": "brocoli x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 33.44
+  },
+  {
+    "ean": "2030920000000",
+    "nombre": "puerro x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
+  },
+  {
+    "ean": "2020000000006",
+    "nombre": "arandanos en bandeja",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
+  },
+  {
+    "ean": "2020300000003",
+    "nombre": "cebolla de verdeo x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4990.0,
+    "precio_hoy": 5990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 20.04
+  },
+  {
+    "ean": "2020050000001",
+    "nombre": "banana ecuatoriana x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3390.0,
+    "precio_hoy": 3790.0,
+    "diff_abs": 400.0,
+    "diff_pct": 11.8
+  },
+  {
+    "ean": "2020730000000",
+    "nombre": "espinaca atado",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1790.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 200.0,
+    "diff_pct": 11.17
+  },
+  {
+    "ean": "2029100000008",
+    "nombre": "batata zanahoria x kilo",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4490.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 11.14
+  },
+  {
+    "ean": "7790387015447",
+    "nombre": "yerba mate la merced paquete por un kilo campo sur",
+    "categoria": "Perfumeria",
+    "precio_antes": 6310.0,
+    "precio_hoy": 6878.0,
+    "diff_abs": 568.0,
+    "diff_pct": 9.0
+  },
+  {
+    "ean": "2020340000001",
+    "nombre": "champignones x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 26990.0,
+    "precio_hoy": 27990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 3.71
+  },
+  {
+    "ean": "7793913013634",
+    "nombre": "queso untable neufchatel x 180 gr. salame",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2885.0,
+    "precio_hoy": 2885.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "ean": "7790310985137",
-    "nombre": "3ds queso x143gr.",
-    "categoria": "Almacen",
-    "precio_antes": 5545.0,
-    "precio_hoy": 5545.0,
+    "ean": "7798060854352",
+    "nombre": "queso untable patagonia  x 180 gm light",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2221.0,
+    "precio_hoy": 2221.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "ean": "7790310985113",
-    "nombre": "3ds sabor queso x 43 gm",
-    "categoria": "Almacen",
-    "precio_antes": 2370.0,
-    "precio_hoy": 2370.0,
+    "ean": "7798060854345",
+    "nombre": "queso untable patagonia x 180 gm clasico",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2221.0,
+    "precio_hoy": 2221.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "ean": "7791728246629",
-    "nombre": "ac. de oliva zuccardi x 500 ml coratina",
-    "categoria": "Almacen",
-    "precio_antes": 24484.0,
-    "precio_hoy": 24484.0,
+    "ean": "7798060854482",
+    "nombre": "queso untable patagonia x 290 gm light",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3172.4,
+    "precio_hoy": 3172.4,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "ean": "763571722428",
-    "nombre": "ac.de coco entrenuts x200virg.",
-    "categoria": "Almacen",
-    "precio_antes": 9564.0,
-    "precio_hoy": 9564.0,
+    "ean": "7798060854475",
+    "nombre": "queso untable patagonia x 290 gr clasico",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3172.0,
+    "precio_hoy": 3172.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "ean": "7798080520657",
-    "nombre": "ac.ol.l.toscana x250ml.ajo",
-    "categoria": "Almacen",
-    "precio_antes": 10398.0,
-    "precio_hoy": 10398.0,
+    "ean": "7793913013627",
+    "nombre": "queso untable neufchatel x 180 gr. jamon",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2885.0,
+    "precio_hoy": 2885.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "ean": "7798080520534",
-    "nombre": "ac.ol.l.toscana x250ml.albahac",
-    "categoria": "Almacen",
-    "precio_antes": 10398.0,
-    "precio_hoy": 10398.0,
+    "ean": "7793913013610",
+    "nombre": "queso untable neufchatel x 180 gr. clasico",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2885.0,
+    "precio_hoy": 2885.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "ean": "7791728246612",
-    "nombre": "ac.ol.zuccardi x250ml.coratina",
-    "categoria": "Almacen",
-    "precio_antes": 14282.0,
-    "precio_hoy": 14282.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7791728246575",
-    "nombre": "ac.ol.zuccardi x250ml.picual",
-    "categoria": "Almacen",
-    "precio_antes": 14282.0,
-    "precio_hoy": 14282.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "41331014922",
-    "nombre": "acaitunas goya x 149 gm con pimiento picante",
-    "categoria": "Almacen",
-    "precio_antes": 10757.0,
-    "precio_hoy": 10757.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790580160807",
-    "nombre": "aceite arcor x900ml.maiz",
-    "categoria": "Almacen",
-    "precio_antes": 5911.0,
-    "precio_hoy": 5911.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790070225023",
-    "nombre": "aceite cocinero mezcla x1.5lt.",
-    "categoria": "Almacen",
-    "precio_antes": 5476.0,
-    "precio_hoy": 5476.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790070231604",
-    "nombre": "aceite cocinero olivay girasol x 1.5 litros",
-    "categoria": "Almacen",
-    "precio_antes": 9336.0,
-    "precio_hoy": 9336.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790070265142",
-    "nombre": "aceite cocinero puro de oliva x 500 ml",
-    "categoria": "Almacen",
-    "precio_antes": 10919.0,
-    "precio_hoy": 10919.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790070231598",
-    "nombre": "aceite cocinero x900 ml oliva y girasol",
-    "categoria": "Almacen",
-    "precio_antes": 5809.0,
-    "precio_hoy": 5809.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7790272006819",
-    "nombre": "aceite copisi x 900 ml. girasol y oliva",
-    "categoria": "Almacen",
-    "precio_antes": 6162.0,
-    "precio_hoy": 6162.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "656750783931",
-    "nombre": "aceite de coco entrenuts neutro x 360 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 8892.0,
-    "precio_hoy": 8892.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "763571722435",
-    "nombre": "aceite de coco entrenuts virgen x 360 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 16506.0,
-    "precio_hoy": 16506.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7794870000040",
-    "nombre": "aceite de girasol alsamar x 5 lts.",
-    "categoria": "Almacen",
-    "precio_antes": 22784.0,
-    "precio_hoy": 22784.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "ean": "7798316700907",
-    "nombre": "aceite de girasol alsamar x 900 ml.",
-    "categoria": "Almacen",
-    "precio_antes": 4133.0,
-    "precio_hoy": 4133.0,
+    "ean": "7794820015018",
+    "nombre": "queso untable milkaut light x 190 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3240.0,
+    "precio_hoy": 3240.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   }

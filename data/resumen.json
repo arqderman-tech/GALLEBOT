@@ -1,13 +1,147 @@
 {
-  "fecha": "20261124",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20261125",
+  "total_productos": 7117,
+  "variacion_dia": -0.04,
+  "variacion_7d": 0.02,
+  "variacion_mes": 0.82,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 1604
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": -0.24,
+      "productos_subieron": 11,
+      "productos_bajaron": 32,
+      "total_productos": 1231
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 253
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 893
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 1,
+      "productos_bajaron": 0,
+      "total_productos": 995
+    },
+    {
+      "categoria": "Almacen",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 2098
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "ean": "2019900000001",
+      "nombre": "ajies x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 9990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -6000.0,
+      "diff_pct": -60.06
+    },
+    {
+      "ean": "2021480000005",
+      "nombre": "papa elegida suelta x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 4990.0,
+      "precio_hoy": 2790.0,
+      "diff_abs": -2200.0,
+      "diff_pct": -44.09
+    },
+    {
+      "ean": "2020310000000",
+      "nombre": "cebolla morada x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 5990.0,
+      "precio_hoy": 3990.0,
+      "diff_abs": -2000.0,
+      "diff_pct": -33.39
+    },
+    {
+      "ean": "2022130000000",
+      "nombre": "tomate cherry x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 13990.0,
+      "precio_hoy": 9990.0,
+      "diff_abs": -4000.0,
+      "diff_pct": -28.59
+    },
+    {
+      "ean": "2021550000003",
+      "nombre": "pepino x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 3990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -25.06
+    },
+    {
+      "ean": "2020570000000",
+      "nombre": "coliflor x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 3990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -25.06
+    },
+    {
+      "ean": "2021780000002",
+      "nombre": "perejil x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 3990.0,
+      "precio_hoy": 2990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -25.06
+    },
+    {
+      "ean": "2021660000009",
+      "nombre": "zapallito redondo x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 1290.0,
+      "precio_hoy": 990.0,
+      "diff_abs": -300.0,
+      "diff_pct": -23.26
+    },
+    {
+      "ean": "2019880000008",
+      "nombre": "acelga x paquete",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 990.0,
+      "precio_hoy": 790.0,
+      "diff_abs": -200.0,
+      "diff_pct": -20.2
+    },
+    {
+      "ean": "2022060000002",
+      "nombre": "repollo colorado x kg.",
+      "categoria": "Frutas Y Verduras",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1990.0,
+      "diff_abs": -500.0,
+      "diff_pct": -20.08
+    }
+  ],
+  "productos_subieron_dia": 12,
+  "productos_bajaron_dia": 32,
+  "productos_sin_cambio_dia": 7030
 }

@@ -1,30 +1,12 @@
 [
   {
-    "ean": "2019900000001",
-    "nombre": "ajies x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 6000.0,
-    "diff_pct": 150.38
-  },
-  {
-    "ean": "2021020000007",
-    "nombre": "hinojo x kg.",
+    "ean": "2020000000006",
+    "nombre": "arandanos en bandeja",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 2990.0,
     "precio_hoy": 4990.0,
     "diff_abs": 2000.0,
     "diff_pct": 66.89
-  },
-  {
-    "ean": "2020000000006",
-    "nombre": "arandanos en bandeja",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 60.24
   },
   {
     "ean": "2022090000003",
@@ -36,31 +18,22 @@
     "diff_pct": 50.51
   },
   {
-    "ean": "7790079025655",
-    "nombre": "pizzeta paladini x 190 gm mozarella",
-    "categoria": "Congelados",
-    "precio_antes": 4441.0,
-    "precio_hoy": 6530.0,
-    "diff_abs": 2089.0,
-    "diff_pct": 47.04
-  },
-  {
-    "ean": "7790079025648",
-    "nombre": "pizzeta paladini x 205 gm mozarella y jamon",
-    "categoria": "Congelados",
-    "precio_antes": 4667.0,
-    "precio_hoy": 6862.0,
-    "diff_abs": 2195.0,
-    "diff_pct": 47.03
-  },
-  {
-    "ean": "2020530000002",
-    "nombre": "durazno x kilo",
+    "ean": "2021950000009",
+    "nombre": "radicheta x paquete",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 6990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 42.92
+    "precio_antes": 990.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 50.51
+  },
+  {
+    "ean": "2022010000007",
+    "nombre": "remolacha x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 990.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 50.51
   },
   {
     "ean": "2022040000008",
@@ -70,24 +43,6 @@
     "precio_hoy": 1990.0,
     "diff_abs": 500.0,
     "diff_pct": 33.56
-  },
-  {
-    "ean": "2030920000000",
-    "nombre": "puerro x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
-    "ean": "2020570000000",
-    "nombre": "coliflor x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
   },
   {
     "ean": "2026920000003",
@@ -117,22 +72,22 @@
     "diff_pct": 27.11
   },
   {
-    "ean": "2019880000008",
-    "nombre": "acelga x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 790.0,
-    "precio_hoy": 990.0,
-    "diff_abs": 200.0,
-    "diff_pct": 25.32
-  },
-  {
-    "ean": "2020120000009",
-    "nombre": "berengena negra x kg.",
+    "ean": "2030920000000",
+    "nombre": "puerro x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 3990.0,
     "precio_hoy": 4990.0,
     "diff_abs": 1000.0,
     "diff_pct": 25.06
+  },
+  {
+    "ean": "2020530000002",
+    "nombre": "durazno x kilo",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 7990.0,
+    "precio_hoy": 9990.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 25.03
   },
   {
     "ean": "7794990879557",
@@ -144,15 +99,6 @@
     "diff_pct": 24.1
   },
   {
-    "ean": "7790079022647",
-    "nombre": "salame tipo milan paladini fetas + finas x 180 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 5284.0,
-    "precio_hoy": 6530.0,
-    "diff_abs": 1246.0,
-    "diff_pct": 23.58
-  },
-  {
     "ean": "2017240000002",
     "nombre": "queso pategras la paulina x kg.",
     "categoria": "Lacteos Y Frescos",
@@ -162,8 +108,8 @@
     "diff_pct": 20.38
   },
   {
-    "ean": "2021840000003",
-    "nombre": "pimiento verde x kg.",
+    "ean": "2020300000003",
+    "nombre": "cebolla de verdeo x kg.",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 4990.0,
     "precio_hoy": 5990.0,
@@ -178,5 +124,59 @@
     "precio_hoy": 14407.0,
     "diff_abs": 2346.0,
     "diff_pct": 19.45
+  },
+  {
+    "ean": "7790398000265",
+    "nombre": "crema de leche la paulina x 200 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2118.0,
+    "precio_hoy": 2472.0,
+    "diff_abs": 354.0,
+    "diff_pct": 16.71
+  },
+  {
+    "ean": "7794990184484",
+    "nombre": "alimento lacteo untable ricrem x 280 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2217.0,
+    "precio_hoy": 2571.0,
+    "diff_abs": 354.0,
+    "diff_pct": 15.97
+  },
+  {
+    "ean": "7794990191123",
+    "nombre": "alimento lacteo ricrem untable x 280 gr light",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2217.0,
+    "precio_hoy": 2571.0,
+    "diff_abs": 354.0,
+    "diff_pct": 15.97
+  },
+  {
+    "ean": "7794990188659",
+    "nombre": "queso crema doble la paulina x 280 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3373.0,
+    "precio_hoy": 3910.0,
+    "diff_abs": 537.0,
+    "diff_pct": 15.92
+  },
+  {
+    "ean": "7794990186242",
+    "nombre": "crema de leche la paulina pote x 200 cc doble",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2399.0,
+    "precio_hoy": 2769.0,
+    "diff_abs": 370.0,
+    "diff_pct": 15.42
+  },
+  {
+    "ean": "7794990185184",
+    "nombre": "queso en fetas la paulina env. x 500 gr danbo",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 9845.0,
+    "precio_hoy": 11251.0,
+    "diff_abs": 1406.0,
+    "diff_pct": 14.28
   }
 ]

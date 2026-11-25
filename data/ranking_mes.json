@@ -1,12 +1,12 @@
 [
   {
-    "ean": "2019900000001",
-    "nombre": "ajies x kg.",
+    "ean": "2020000000006",
+    "nombre": "arandanos en bandeja",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 9990.0,
-    "diff_abs": 6000.0,
-    "diff_pct": 150.38
+    "precio_antes": 2190.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 2800.0,
+    "diff_pct": 127.85
   },
   {
     "ean": "2019960000003",
@@ -25,24 +25,6 @@
     "precio_hoy": 1490.0,
     "diff_abs": 700.0,
     "diff_pct": 88.61
-  },
-  {
-    "ean": "2020000000006",
-    "nombre": "arandanos en bandeja",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2190.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1800.0,
-    "diff_pct": 82.19
-  },
-  {
-    "ean": "2022030000001",
-    "nombre": "repollitos de brusellas en bandeja",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.89
   },
   {
     "ean": "2021020000007",
@@ -72,8 +54,8 @@
     "diff_pct": 60.01
   },
   {
-    "ean": "7790189743982",
-    "nombre": "vino el ultimo tramo x 750 ml malbec",
+    "ean": "7790189744040",
+    "nombre": "vino el ultimo tramo x 750 ml naranjo torrontes",
     "categoria": "Bebidas",
     "precio_antes": 9287.0,
     "precio_hoy": 14859.0,
@@ -81,8 +63,8 @@
     "diff_pct": 60.0
   },
   {
-    "ean": "7790189744040",
-    "nombre": "vino el ultimo tramo x 750 ml naranjo torrontes",
+    "ean": "7790189743982",
+    "nombre": "vino el ultimo tramo x 750 ml malbec",
     "categoria": "Bebidas",
     "precio_antes": 9287.0,
     "precio_hoy": 14859.0,
@@ -99,8 +81,17 @@
     "diff_pct": 60.0
   },
   {
-    "ean": "2022080000006",
-    "nombre": "rucula x paquete",
+    "ean": "2022010000007",
+    "nombre": "remolacha x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 990.0,
+    "precio_hoy": 1490.0,
+    "diff_abs": 500.0,
+    "diff_pct": 50.51
+  },
+  {
+    "ean": "2021950000009",
+    "nombre": "radicheta x paquete",
     "categoria": "Frutas Y Verduras",
     "precio_antes": 990.0,
     "precio_hoy": 1490.0,
@@ -144,24 +135,6 @@
     "diff_pct": 47.03
   },
   {
-    "ean": "2020570000000",
-    "nombre": "coliflor x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
-    "ean": "2020980000003",
-    "nombre": "limones x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2990.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 33.44
-  },
-  {
     "ean": "7790398100071",
     "nombre": "manteca la paulina x 100 gr.",
     "categoria": "Lacteos Y Frescos",
@@ -178,5 +151,32 @@
     "precio_hoy": 4042.0,
     "diff_abs": 862.0,
     "diff_pct": 27.11
+  },
+  {
+    "ean": "7790380025078",
+    "nombre": "chocolate full mani x 100 gr relleno de pasta de mani",
+    "categoria": "Almacen",
+    "precio_antes": 3445.0,
+    "precio_hoy": 4319.0,
+    "diff_abs": 874.0,
+    "diff_pct": 25.37
+  },
+  {
+    "ean": "7790380025283",
+    "nombre": "chocolate full mani x 500 gr mega",
+    "categoria": "Almacen",
+    "precio_antes": 15172.0,
+    "precio_hoy": 19018.0,
+    "diff_abs": 3846.0,
+    "diff_pct": 25.35
+  },
+  {
+    "ean": "7790380025108",
+    "nombre": "chocolate georgalos full mani x 150 gm",
+    "categoria": "Almacen",
+    "precio_antes": 4877.0,
+    "precio_hoy": 6113.0,
+    "diff_abs": 1236.0,
+    "diff_pct": 25.34
   }
 ]
