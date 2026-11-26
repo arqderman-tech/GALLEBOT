@@ -27,6 +27,15 @@
     "diff_pct": 88.61
   },
   {
+    "ean": "2022010000007",
+    "nombre": "remolacha x paquete",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 990.0,
+    "precio_hoy": 1790.0,
+    "diff_abs": 800.0,
+    "diff_pct": 80.81
+  },
+  {
     "ean": "2021020000007",
     "nombre": "hinojo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -54,6 +63,15 @@
     "diff_pct": 60.01
   },
   {
+    "ean": "7790189743999",
+    "nombre": "vino el ultimo tramo x 750 ml cabernet sauvignon",
+    "categoria": "Bebidas",
+    "precio_antes": 9287.0,
+    "precio_hoy": 14859.0,
+    "diff_abs": 5572.0,
+    "diff_pct": 60.0
+  },
+  {
     "ean": "7790189744040",
     "nombre": "vino el ultimo tramo x 750 ml naranjo torrontes",
     "categoria": "Bebidas",
@@ -70,24 +88,6 @@
     "precio_hoy": 14859.0,
     "diff_abs": 5572.0,
     "diff_pct": 60.0
-  },
-  {
-    "ean": "7790189743999",
-    "nombre": "vino el ultimo tramo x 750 ml cabernet sauvignon",
-    "categoria": "Bebidas",
-    "precio_antes": 9287.0,
-    "precio_hoy": 14859.0,
-    "diff_abs": 5572.0,
-    "diff_pct": 60.0
-  },
-  {
-    "ean": "2022010000007",
-    "nombre": "remolacha x paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 990.0,
-    "precio_hoy": 1490.0,
-    "diff_abs": 500.0,
-    "diff_pct": 50.51
   },
   {
     "ean": "2021950000009",
@@ -135,22 +135,22 @@
     "diff_pct": 47.03
   },
   {
-    "ean": "7790398100071",
-    "nombre": "manteca la paulina x 100 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1655.0,
-    "precio_hoy": 2118.0,
-    "diff_abs": 463.0,
-    "diff_pct": 27.98
+    "ean": "8501110080248",
+    "nombre": "ron havana club x750ml.3anos",
+    "categoria": "Bebidas",
+    "precio_antes": 18132.0,
+    "precio_hoy": 23626.0,
+    "diff_abs": 5494.0,
+    "diff_pct": 30.3
   },
   {
-    "ean": "7790398100088",
-    "nombre": "manteca la paulina x 200 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3180.0,
-    "precio_hoy": 4042.0,
-    "diff_abs": 862.0,
-    "diff_pct": 27.11
+    "ean": "2029100000008",
+    "nombre": "batata zanahoria x kilo",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 4490.0,
+    "precio_hoy": 5790.0,
+    "diff_abs": 1300.0,
+    "diff_pct": 28.95
   },
   {
     "ean": "7790380025078",
