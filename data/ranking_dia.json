@@ -1,182 +1,182 @@
 [
   {
-    "ean": "8501110080248",
-    "nombre": "ron havana club x750ml.3anos",
-    "categoria": "Bebidas",
-    "precio_antes": 18132.0,
-    "precio_hoy": 23626.0,
-    "diff_abs": 5494.0,
-    "diff_pct": 30.3
-  },
-  {
-    "ean": "2022010000007",
-    "nombre": "remolacha x paquete",
+    "ean": "2019880000008",
+    "nombre": "acelga x paquete",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 1790.0,
-    "diff_abs": 300.0,
-    "diff_pct": 20.13
+    "precio_antes": 790.0,
+    "precio_hoy": 990.0,
+    "diff_abs": 200.0,
+    "diff_pct": 25.32
   },
   {
-    "ean": "2021820000009",
-    "nombre": "pimiento rojo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 20.04
-  },
-  {
-    "ean": "7312040551668",
-    "nombre": "vodka absolut x 700 ml lime",
-    "categoria": "Bebidas",
-    "precio_antes": 29631.0,
-    "precio_hoy": 35421.0,
-    "diff_abs": 5790.0,
-    "diff_pct": 19.54
-  },
-  {
-    "ean": "7791560132838",
-    "nombre": "espumante mumm cuvee reserve sweet x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 12162.0,
-    "precio_hoy": 14267.0,
-    "diff_abs": 2105.0,
-    "diff_pct": 17.31
-  },
-  {
-    "ean": "7792410008228",
-    "nombre": "licor cusenier x 700 ml. blue curacao",
-    "categoria": "Bebidas",
-    "precio_antes": 8093.0,
-    "precio_hoy": 9493.0,
-    "diff_abs": 1400.0,
-    "diff_pct": 17.3
-  },
-  {
-    "ean": "7792410008655",
-    "nombre": "licor cusenier x700ml.frutilla",
-    "categoria": "Bebidas",
-    "precio_antes": 8093.0,
-    "precio_hoy": 9493.0,
-    "diff_abs": 1400.0,
-    "diff_pct": 17.3
-  },
-  {
-    "ean": "2029100000008",
-    "nombre": "batata zanahoria x kilo",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 4990.0,
-    "precio_hoy": 5790.0,
-    "diff_abs": 800.0,
-    "diff_pct": 16.03
-  },
-  {
-    "ean": "2700000840108",
-    "nombre": "individual goma color",
+    "ean": "883314621662",
+    "nombre": "frasco pink con tapa x 0.75 litros",
     "categoria": "Limpieza",
-    "precio_antes": 3806.0,
-    "precio_hoy": 4232.0,
-    "diff_abs": 426.0,
-    "diff_pct": 11.19
+    "precio_antes": 4614.0,
+    "precio_hoy": 5191.0,
+    "diff_abs": 577.0,
+    "diff_pct": 12.51
   },
   {
-    "ean": "7792410515528",
-    "nombre": "whisk blenders americano x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 12693.0,
-    "precio_hoy": 13506.0,
-    "diff_abs": 813.0,
-    "diff_pct": 6.41
+    "ean": "883314621648",
+    "nombre": "frasco blue co tapa x 1 litro",
+    "categoria": "Limpieza",
+    "precio_antes": 5456.0,
+    "precio_hoy": 6138.0,
+    "diff_abs": 682.0,
+    "diff_pct": 12.5
   },
   {
-    "ean": "7792410779722",
-    "nombre": "licor cusenier x 750 ml cacao espeso",
+    "ean": "883314621686",
+    "nombre": "frasco  pink con tapa x 1 litro",
+    "categoria": "Limpieza",
+    "precio_antes": 5456.0,
+    "precio_hoy": 6138.0,
+    "diff_abs": 682.0,
+    "diff_pct": 12.5
+  },
+  {
+    "ean": "883314621655",
+    "nombre": "frasco purple x 1 litro",
+    "categoria": "Limpieza",
+    "precio_antes": 5456.0,
+    "precio_hoy": 6138.0,
+    "diff_abs": 682.0,
+    "diff_pct": 12.5
+  },
+  {
+    "ean": "7790703205293",
+    "nombre": "vino blanco new age x 750 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 13749.0,
-    "precio_hoy": 14629.0,
-    "diff_abs": 880.0,
+    "precio_antes": 5134.0,
+    "precio_hoy": 5750.0,
+    "diff_abs": 616.0,
+    "diff_pct": 12.0
+  },
+  {
+    "ean": "7798093290141",
+    "nombre": "sillon emperador aluminio colores varios",
+    "categoria": "Limpieza",
+    "precio_antes": 75468.0,
+    "precio_hoy": 81757.0,
+    "diff_abs": 6289.0,
+    "diff_pct": 8.33
+  },
+  {
+    "ean": "7798093290165",
+    "nombre": "reposera carioca aluminio",
+    "categoria": "Limpieza",
+    "precio_antes": 64687.0,
+    "precio_hoy": 69897.0,
+    "diff_abs": 5210.0,
+    "diff_pct": 8.05
+  },
+  {
+    "ean": "7792410010009",
+    "nombre": "whisky blenders x1lt.",
+    "categoria": "Bebidas",
+    "precio_antes": 13970.0,
+    "precio_hoy": 14864.0,
+    "diff_abs": 894.0,
     "diff_pct": 6.4
   },
   {
-    "ean": "7792410779500",
-    "nombre": "gin brighton tangerine x 700 ml.",
+    "ean": "720665925271",
+    "nombre": "vermut pichincha x 750 ml tinto",
     "categoria": "Bebidas",
-    "precio_antes": 15265.0,
-    "precio_hoy": 16242.0,
-    "diff_abs": 977.0,
-    "diff_pct": 6.4
+    "precio_antes": 19867.0,
+    "precio_hoy": 21059.0,
+    "diff_abs": 1192.0,
+    "diff_pct": 6.0
   },
   {
-    "ean": "7792410544023",
-    "nombre": "gin brighton pink x 700 ml.",
+    "ean": "720665925288",
+    "nombre": "aperitivo pimpollal x 750 ml",
     "categoria": "Bebidas",
-    "precio_antes": 15265.0,
-    "precio_hoy": 16242.0,
-    "diff_abs": 977.0,
-    "diff_pct": 6.4
+    "precio_antes": 20239.0,
+    "precio_hoy": 21453.0,
+    "diff_abs": 1214.0,
+    "diff_pct": 6.0
   },
   {
-    "ean": "7792410008051",
-    "nombre": "licor cusenier huevo x 700 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 9170.0,
-    "precio_hoy": 9757.0,
-    "diff_abs": 587.0,
-    "diff_pct": 6.4
+    "ean": "7891361501182",
+    "nombre": "jarro quartier blanco",
+    "categoria": "Limpieza",
+    "precio_antes": 6676.0,
+    "precio_hoy": 7069.0,
+    "diff_abs": 393.0,
+    "diff_pct": 5.89
   },
   {
-    "ean": "7891050004741",
-    "nombre": "ron malibu x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 21711.0,
-    "precio_hoy": 23101.0,
-    "diff_abs": 1390.0,
-    "diff_pct": 6.4
+    "ean": "7891361267071",
+    "nombre": "jarro mug combinado rosa y verde",
+    "categoria": "Limpieza",
+    "precio_antes": 6623.0,
+    "precio_hoy": 7013.0,
+    "diff_abs": 390.0,
+    "diff_pct": 5.89
   },
   {
-    "ean": "7312040552726",
-    "nombre": "vodka absolut watermelon x 700 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 34215.0,
-    "precio_hoy": 36405.0,
-    "diff_abs": 2190.0,
-    "diff_pct": 6.4
+    "ean": "7891361267101",
+    "nombre": "jarro mug combinado azul y amarillo",
+    "categoria": "Limpieza",
+    "precio_antes": 6623.0,
+    "precio_hoy": 7013.0,
+    "diff_abs": 390.0,
+    "diff_pct": 5.89
   },
   {
-    "ean": "7791560074084",
-    "nombre": "espumante mumm cuvee reserve rosado x 750 ml.",
-    "categoria": "Bebidas",
-    "precio_antes": 13781.0,
-    "precio_hoy": 14663.0,
-    "diff_abs": 882.0,
-    "diff_pct": 6.4
+    "ean": "7891361554799",
+    "nombre": "jarro quartier negro",
+    "categoria": "Limpieza",
+    "precio_antes": 6676.0,
+    "precio_hoy": 7069.0,
+    "diff_abs": 393.0,
+    "diff_pct": 5.89
   },
   {
-    "ean": "5000299618424",
-    "nombre": "dry gin beefeater x 1 litro",
+    "ean": "7790703165238",
+    "nombre": "champagne bianchi e. brut",
     "categoria": "Bebidas",
-    "precio_antes": 40185.0,
-    "precio_hoy": 42756.0,
-    "diff_abs": 2571.0,
-    "diff_pct": 6.4
+    "precio_antes": 9258.0,
+    "precio_hoy": 9666.0,
+    "diff_abs": 408.0,
+    "diff_pct": 4.41
   },
   {
-    "ean": "7792410522717",
-    "nombre": "gin brighton x700ml.",
+    "ean": "724751009876",
+    "nombre": "gin heredero x 700 ml.",
     "categoria": "Bebidas",
-    "precio_antes": 13878.0,
-    "precio_hoy": 14766.0,
-    "diff_abs": 888.0,
-    "diff_pct": 6.4
+    "precio_antes": 15054.0,
+    "precio_hoy": 15522.0,
+    "diff_abs": 468.0,
+    "diff_pct": 3.11
   },
   {
-    "ean": "7792410517348",
-    "nombre": "granadina cusenier x 750 ml.",
+    "ean": "714604120612",
+    "nombre": "gin heredero x 700 ml dry gin",
     "categoria": "Bebidas",
-    "precio_antes": 6076.0,
-    "precio_hoy": 6465.0,
-    "diff_abs": 389.0,
-    "diff_pct": 6.4
+    "precio_antes": 15054.0,
+    "precio_hoy": 15522.0,
+    "diff_abs": 468.0,
+    "diff_pct": 3.11
+  },
+  {
+    "ean": "763571806012",
+    "nombre": "gin heredero pink x 700 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 15054.0,
+    "precio_hoy": 15522.0,
+    "diff_abs": 468.0,
+    "diff_pct": 3.11
+  },
+  {
+    "ean": "7790703205224",
+    "nombre": "vino blanco marlo dulce x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5134.0,
+    "precio_hoy": 5250.0,
+    "diff_abs": 116.0,
+    "diff_pct": 2.26
   }
 ]

@@ -1,37 +1,37 @@
 {
-  "fecha": "20261126",
-  "total_productos": 6112,
-  "variacion_dia": 0.1,
-  "variacion_7d": 0.04,
-  "variacion_mes": 0.78,
+  "fecha": "20261127",
+  "total_productos": 7120,
+  "variacion_dia": -0.25,
+  "variacion_7d": -0.15,
+  "variacion_mes": 0.68,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.28,
-      "productos_subieron": 60,
-      "productos_bajaron": 1,
-      "total_productos": 1585
+      "variacion_pct_promedio": -0.1,
+      "productos_subieron": 12,
+      "productos_bajaron": 15,
+      "total_productos": 1610
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.07,
-      "productos_subieron": 4,
-      "productos_bajaron": 3,
-      "total_productos": 239
+      "variacion_pct_promedio": -0.55,
+      "productos_subieron": 1,
+      "productos_bajaron": 7,
+      "total_productos": 237
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.54,
-      "productos_subieron": 44,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 255
+      "total_productos": 256
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.01,
-      "productos_subieron": 1,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": -1.4,
+      "productos_subieron": 12,
+      "productos_bajaron": 87,
       "total_productos": 897
     },
     {
@@ -39,109 +39,109 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 991
+      "total_productos": 990
     },
     {
       "categoria": "Almacen",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 2108
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 1,
+      "productos_bajaron": 6,
+      "total_productos": 2098
     }
   ],
   "ranking_baja_dia": [
     {
-      "ean": "2020410000009",
-      "nombre": "choclo elegido x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
-    },
-    {
-      "ean": "2022220000002",
-      "nombre": "tomate redondo x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 5990.0,
-      "precio_hoy": 4990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -16.69
-    },
-    {
-      "ean": "7790119002370",
-      "nombre": "sidra saenz briones 1888 x 750 ml.",
+      "ean": "7790703206498",
+      "nombre": "vino gran familia x750ml.corte",
       "categoria": "Bebidas",
-      "precio_antes": 13600.0,
-      "precio_hoy": 12001.0,
-      "diff_abs": -1599.0,
-      "diff_pct": -11.76
+      "precio_antes": 18936.0,
+      "precio_hoy": 12414.0,
+      "diff_abs": -6522.0,
+      "diff_pct": -34.44
     },
     {
-      "ean": "2020960000009",
-      "nombre": "lechuga repollada x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3290.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": -300.0,
-      "diff_pct": -9.12
+      "ean": "7790703203688",
+      "nombre": "vino tinto gran famiglia x 750 ml malbec",
+      "categoria": "Bebidas",
+      "precio_antes": 18936.0,
+      "precio_hoy": 12414.0,
+      "diff_abs": -6522.0,
+      "diff_pct": -34.44
     },
     {
-      "ean": "2019880000008",
-      "nombre": "acelga x paquete",
+      "ean": "2022130000000",
+      "nombre": "tomate cherry x kg.",
       "categoria": "Frutas Y Verduras",
-      "precio_antes": 790.0,
-      "precio_hoy": 790.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "ean": "2020100000005",
-      "nombre": "berenjena morada x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
+      "precio_antes": 9990.0,
       "precio_hoy": 6990.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "diff_abs": -3000.0,
+      "diff_pct": -30.03
     },
     {
-      "ean": "2020120000009",
-      "nombre": "berengena negra x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 3990.0,
-      "precio_hoy": 3990.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7891361965014",
+      "nombre": "plato playo verde manzana 24 cm biona donna",
+      "categoria": "Limpieza",
+      "precio_antes": 6681.0,
+      "precio_hoy": 4747.0,
+      "diff_abs": -1934.0,
+      "diff_pct": -28.95
     },
     {
-      "ean": "2020750000004",
-      "nombre": "frutillas x kg.",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 6990.0,
-      "precio_hoy": 6990.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7891361982974",
+      "nombre": "plato hondo nautico",
+      "categoria": "Limpieza",
+      "precio_antes": 6532.0,
+      "precio_hoy": 4641.0,
+      "diff_abs": -1891.0,
+      "diff_pct": -28.95
     },
     {
-      "ean": "2022420000000",
-      "nombre": "frutillas en bandeja chica",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 2990.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7891361222681",
+      "nombre": "plato puzzling",
+      "categoria": "Limpieza",
+      "precio_antes": 7424.0,
+      "precio_hoy": 5275.0,
+      "diff_abs": -2149.0,
+      "diff_pct": -28.95
     },
     {
-      "ean": "2019970000000",
-      "nombre": "alcauciles x unidad",
-      "categoria": "Frutas Y Verduras",
-      "precio_antes": 1490.0,
-      "precio_hoy": 1490.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "ean": "7891361964963",
+      "nombre": "plato playo decorado amarillo",
+      "categoria": "Limpieza",
+      "precio_antes": 6681.0,
+      "precio_hoy": 4747.0,
+      "diff_abs": -1934.0,
+      "diff_pct": -28.95
+    },
+    {
+      "ean": "7891361965038",
+      "nombre": "plato hondo verde manzana",
+      "categoria": "Limpieza",
+      "precio_antes": 6142.0,
+      "precio_hoy": 4364.0,
+      "diff_abs": -1778.0,
+      "diff_pct": -28.95
+    },
+    {
+      "ean": "7891361964987",
+      "nombre": "aeo35009 plato postre decorado amarillo",
+      "categoria": "Limpieza",
+      "precio_antes": 6142.0,
+      "precio_hoy": 4364.0,
+      "diff_abs": -1778.0,
+      "diff_pct": -28.95
+    },
+    {
+      "ean": "7891361222865",
+      "nombre": "plato postre jeans",
+      "categoria": "Limpieza",
+      "precio_antes": 5853.0,
+      "precio_hoy": 4159.0,
+      "diff_abs": -1694.0,
+      "diff_pct": -28.94
     }
   ],
-  "productos_subieron_dia": 109,
-  "productos_bajaron_dia": 4,
-  "productos_sin_cambio_dia": 5962
+  "productos_subieron_dia": 26,
+  "productos_bajaron_dia": 115,
+  "productos_sin_cambio_dia": 5947
 }

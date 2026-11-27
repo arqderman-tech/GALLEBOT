@@ -18,13 +18,13 @@
     "diff_pct": 50.51
   },
   {
-    "ean": "2020000000006",
-    "nombre": "arandanos en bandeja",
+    "ean": "2021650000002",
+    "nombre": "zapallito largo x kg.",
     "categoria": "Frutas Y Verduras",
-    "precio_antes": 3490.0,
-    "precio_hoy": 4990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 42.98
+    "precio_antes": 1490.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 500.0,
+    "diff_pct": 33.56
   },
   {
     "ean": "8501110080248",
@@ -36,6 +36,15 @@
     "diff_pct": 30.3
   },
   {
+    "ean": "2026920000003",
+    "nombre": "queso magro sin sal la paulina x kilo envasado al vacio.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 15256.0,
+    "precio_hoy": 19708.0,
+    "diff_abs": 4452.0,
+    "diff_pct": 29.18
+  },
+  {
     "ean": "2029100000008",
     "nombre": "batata zanahoria x kilo",
     "categoria": "Frutas Y Verduras",
@@ -45,6 +54,33 @@
     "diff_pct": 28.95
   },
   {
+    "ean": "7790398100071",
+    "nombre": "manteca la paulina x 100 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 1655.0,
+    "precio_hoy": 2118.0,
+    "diff_abs": 463.0,
+    "diff_pct": 27.98
+  },
+  {
+    "ean": "7790398100088",
+    "nombre": "manteca la paulina x 200 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 3180.0,
+    "precio_hoy": 4042.0,
+    "diff_abs": 862.0,
+    "diff_pct": 27.11
+  },
+  {
+    "ean": "2020000000006",
+    "nombre": "arandanos en bandeja",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 3990.0,
+    "precio_hoy": 4990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.06
+  },
+  {
     "ean": "2030920000000",
     "nombre": "puerro x kg.",
     "categoria": "Frutas Y Verduras",
@@ -52,6 +88,24 @@
     "precio_hoy": 4990.0,
     "diff_abs": 1000.0,
     "diff_pct": 25.06
+  },
+  {
+    "ean": "7794990879557",
+    "nombre": "manteca la paulina x 500 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 7599.0,
+    "precio_hoy": 9430.0,
+    "diff_abs": 1831.0,
+    "diff_pct": 24.1
+  },
+  {
+    "ean": "2017240000002",
+    "nombre": "queso pategras la paulina x kg.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 24614.0,
+    "precio_hoy": 29631.0,
+    "diff_abs": 5017.0,
+    "diff_pct": 20.38
   },
   {
     "ean": "2020300000003",
@@ -72,13 +126,13 @@
     "diff_pct": 19.54
   },
   {
-    "ean": "2020050000001",
-    "nombre": "banana ecuatoriana x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3390.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 600.0,
-    "diff_pct": 17.7
+    "ean": "7790398100644",
+    "nombre": "leche en polvo la paulina entera x 800 gm",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 12061.0,
+    "precio_hoy": 14407.0,
+    "diff_abs": 2346.0,
+    "diff_pct": 19.45
   },
   {
     "ean": "7791560132838",
@@ -108,75 +162,21 @@
     "diff_pct": 17.3
   },
   {
-    "ean": "7791826000758",
-    "nombre": "mani pelado salado pedrin x 150 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1932.0,
-    "precio_hoy": 2164.0,
-    "diff_abs": 232.0,
-    "diff_pct": 12.01
+    "ean": "7790398000265",
+    "nombre": "crema de leche la paulina x 200 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2118.0,
+    "precio_hoy": 2472.0,
+    "diff_abs": 354.0,
+    "diff_pct": 16.71
   },
   {
-    "ean": "7791826000130",
-    "nombre": "mani tostado pedrin x 140 gm",
-    "categoria": "Almacen",
-    "precio_antes": 1932.0,
-    "precio_hoy": 2164.0,
-    "diff_abs": 232.0,
-    "diff_pct": 12.01
-  },
-  {
-    "ean": "7791826000086",
-    "nombre": "copos de maiz con queso pedrin x 80 gr",
-    "categoria": "Almacen",
-    "precio_antes": 1932.0,
-    "precio_hoy": 2164.0,
-    "diff_abs": 232.0,
-    "diff_pct": 12.01
-  },
-  {
-    "ean": "7791826000703",
-    "nombre": "pizzines pedrin x 70 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1932.0,
-    "precio_hoy": 2164.0,
-    "diff_abs": 232.0,
-    "diff_pct": 12.01
-  },
-  {
-    "ean": "7791826000659",
-    "nombre": "chalitas pedrin x 50 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1932.0,
-    "precio_hoy": 2164.0,
-    "diff_abs": 232.0,
-    "diff_pct": 12.01
-  },
-  {
-    "ean": "7791826000024",
-    "nombre": "palitos salados pedrin x 180 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 1932.0,
-    "precio_hoy": 2164.0,
-    "diff_abs": 232.0,
-    "diff_pct": 12.01
-  },
-  {
-    "ean": "7791826000123",
-    "nombre": "mani pelado salado pedrin",
-    "categoria": "Almacen",
-    "precio_antes": 10227.0,
-    "precio_hoy": 11454.0,
-    "diff_abs": 1227.0,
-    "diff_pct": 12.0
-  },
-  {
-    "ean": "7791826000451",
-    "nombre": "conitos de queso pedrin x 70 gr.",
-    "categoria": "Almacen",
-    "precio_antes": 2367.0,
-    "precio_hoy": 2651.0,
-    "diff_abs": 284.0,
-    "diff_pct": 12.0
+    "ean": "7794990184484",
+    "nombre": "alimento lacteo untable ricrem x 280 gr.",
+    "categoria": "Lacteos Y Frescos",
+    "precio_antes": 2217.0,
+    "precio_hoy": 2571.0,
+    "diff_abs": 354.0,
+    "diff_pct": 15.97
   }
 ]
