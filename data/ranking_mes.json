@@ -45,15 +45,6 @@
     "diff_pct": 66.89
   },
   {
-    "ean": "2021880000001",
-    "nombre": "pomelo sanguineo x kg.",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 2490.0,
-    "precio_hoy": 3990.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 60.24
-  },
-  {
     "ean": "7791250003424",
     "nombre": "espumante navarro correa x 750 ml spritz",
     "categoria": "Bebidas",
@@ -61,6 +52,15 @@
     "precio_hoy": 15404.0,
     "diff_abs": 5777.0,
     "diff_pct": 60.01
+  },
+  {
+    "ean": "7790189744040",
+    "nombre": "vino el ultimo tramo x 750 ml naranjo torrontes",
+    "categoria": "Bebidas",
+    "precio_antes": 9287.0,
+    "precio_hoy": 14859.0,
+    "diff_abs": 5572.0,
+    "diff_pct": 60.0
   },
   {
     "ean": "7790189743982",
@@ -81,15 +81,6 @@
     "diff_pct": 60.0
   },
   {
-    "ean": "7790189744040",
-    "nombre": "vino el ultimo tramo x 750 ml naranjo torrontes",
-    "categoria": "Bebidas",
-    "precio_antes": 9287.0,
-    "precio_hoy": 14859.0,
-    "diff_abs": 5572.0,
-    "diff_pct": 60.0
-  },
-  {
     "ean": "2021950000009",
     "nombre": "radicheta x paquete",
     "categoria": "Frutas Y Verduras",
@@ -97,15 +88,6 @@
     "precio_hoy": 1490.0,
     "diff_abs": 500.0,
     "diff_pct": 50.51
-  },
-  {
-    "ean": "2022440000004",
-    "nombre": "esparragos verdes paquete",
-    "categoria": "Frutas Y Verduras",
-    "precio_antes": 3990.0,
-    "precio_hoy": 5990.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.13
   },
   {
     "ean": "7790380018056",
@@ -178,5 +160,23 @@
     "precio_hoy": 4319.0,
     "diff_abs": 874.0,
     "diff_pct": 25.37
+  },
+  {
+    "ean": "7790380025283",
+    "nombre": "chocolate full mani x 500 gr mega",
+    "categoria": "Almacen",
+    "precio_antes": 15172.0,
+    "precio_hoy": 19018.0,
+    "diff_abs": 3846.0,
+    "diff_pct": 25.35
+  },
+  {
+    "ean": "7790380025108",
+    "nombre": "chocolate georgalos full mani x 150 gm",
+    "categoria": "Almacen",
+    "precio_antes": 4877.0,
+    "precio_hoy": 6113.0,
+    "diff_abs": 1236.0,
+    "diff_pct": 25.34
   }
 ]

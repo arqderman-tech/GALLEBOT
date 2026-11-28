@@ -36,15 +36,6 @@
     "diff_pct": 30.3
   },
   {
-    "ean": "2026920000003",
-    "nombre": "queso magro sin sal la paulina x kilo envasado al vacio.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 15256.0,
-    "precio_hoy": 19708.0,
-    "diff_abs": 4452.0,
-    "diff_pct": 29.18
-  },
-  {
     "ean": "2029100000008",
     "nombre": "batata zanahoria x kilo",
     "categoria": "Frutas Y Verduras",
@@ -52,24 +43,6 @@
     "precio_hoy": 5790.0,
     "diff_abs": 1300.0,
     "diff_pct": 28.95
-  },
-  {
-    "ean": "7790398100071",
-    "nombre": "manteca la paulina x 100 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 1655.0,
-    "precio_hoy": 2118.0,
-    "diff_abs": 463.0,
-    "diff_pct": 27.98
-  },
-  {
-    "ean": "7790398100088",
-    "nombre": "manteca la paulina x 200 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 3180.0,
-    "precio_hoy": 4042.0,
-    "diff_abs": 862.0,
-    "diff_pct": 27.11
   },
   {
     "ean": "2020000000006",
@@ -90,24 +63,6 @@
     "diff_pct": 25.06
   },
   {
-    "ean": "7794990879557",
-    "nombre": "manteca la paulina x 500 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 7599.0,
-    "precio_hoy": 9430.0,
-    "diff_abs": 1831.0,
-    "diff_pct": 24.1
-  },
-  {
-    "ean": "2017240000002",
-    "nombre": "queso pategras la paulina x kg.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 24614.0,
-    "precio_hoy": 29631.0,
-    "diff_abs": 5017.0,
-    "diff_pct": 20.38
-  },
-  {
     "ean": "2020300000003",
     "nombre": "cebolla de verdeo x kg.",
     "categoria": "Frutas Y Verduras",
@@ -126,15 +81,6 @@
     "diff_pct": 19.54
   },
   {
-    "ean": "7790398100644",
-    "nombre": "leche en polvo la paulina entera x 800 gm",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 12061.0,
-    "precio_hoy": 14407.0,
-    "diff_abs": 2346.0,
-    "diff_pct": 19.45
-  },
-  {
     "ean": "7791560132838",
     "nombre": "espumante mumm cuvee reserve sweet x 750 ml.",
     "categoria": "Bebidas",
@@ -142,15 +88,6 @@
     "precio_hoy": 14267.0,
     "diff_abs": 2105.0,
     "diff_pct": 17.31
-  },
-  {
-    "ean": "7792410008228",
-    "nombre": "licor cusenier x 700 ml. blue curacao",
-    "categoria": "Bebidas",
-    "precio_antes": 8093.0,
-    "precio_hoy": 9493.0,
-    "diff_abs": 1400.0,
-    "diff_pct": 17.3
   },
   {
     "ean": "7792410008655",
@@ -162,21 +99,84 @@
     "diff_pct": 17.3
   },
   {
-    "ean": "7790398000265",
-    "nombre": "crema de leche la paulina x 200 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2118.0,
-    "precio_hoy": 2472.0,
-    "diff_abs": 354.0,
-    "diff_pct": 16.71
+    "ean": "7792410008228",
+    "nombre": "licor cusenier x 700 ml. blue curacao",
+    "categoria": "Bebidas",
+    "precio_antes": 8093.0,
+    "precio_hoy": 9493.0,
+    "diff_abs": 1400.0,
+    "diff_pct": 17.3
   },
   {
-    "ean": "7794990184484",
-    "nombre": "alimento lacteo untable ricrem x 280 gr.",
-    "categoria": "Lacteos Y Frescos",
-    "precio_antes": 2217.0,
-    "precio_hoy": 2571.0,
-    "diff_abs": 354.0,
-    "diff_pct": 15.97
+    "ean": "2020160000007",
+    "nombre": "brocoli x kg.",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 2990.0,
+    "precio_hoy": 3390.0,
+    "diff_abs": 400.0,
+    "diff_pct": 13.38
+  },
+  {
+    "ean": "883314621662",
+    "nombre": "frasco pink con tapa x 0.75 litros",
+    "categoria": "Limpieza",
+    "precio_antes": 4614.0,
+    "precio_hoy": 5191.0,
+    "diff_abs": 577.0,
+    "diff_pct": 12.51
+  },
+  {
+    "ean": "883314621655",
+    "nombre": "frasco purple x 1 litro",
+    "categoria": "Limpieza",
+    "precio_antes": 5456.0,
+    "precio_hoy": 6138.0,
+    "diff_abs": 682.0,
+    "diff_pct": 12.5
+  },
+  {
+    "ean": "883314621648",
+    "nombre": "frasco blue co tapa x 1 litro",
+    "categoria": "Limpieza",
+    "precio_antes": 5456.0,
+    "precio_hoy": 6138.0,
+    "diff_abs": 682.0,
+    "diff_pct": 12.5
+  },
+  {
+    "ean": "883314621686",
+    "nombre": "frasco  pink con tapa x 1 litro",
+    "categoria": "Limpieza",
+    "precio_antes": 5456.0,
+    "precio_hoy": 6138.0,
+    "diff_abs": 682.0,
+    "diff_pct": 12.5
+  },
+  {
+    "ean": "7790703205293",
+    "nombre": "vino blanco new age x 750 ml.",
+    "categoria": "Bebidas",
+    "precio_antes": 5134.0,
+    "precio_hoy": 5750.0,
+    "diff_abs": 616.0,
+    "diff_pct": 12.0
+  },
+  {
+    "ean": "2700000840108",
+    "nombre": "individual goma color",
+    "categoria": "Limpieza",
+    "precio_antes": 3806.0,
+    "precio_hoy": 4232.0,
+    "diff_abs": 426.0,
+    "diff_pct": 11.19
+  },
+  {
+    "ean": "2020730000000",
+    "nombre": "espinaca atado",
+    "categoria": "Frutas Y Verduras",
+    "precio_antes": 1790.0,
+    "precio_hoy": 1990.0,
+    "diff_abs": 200.0,
+    "diff_pct": 11.17
   }
 ]
